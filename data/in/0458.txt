@@ -1,0 +1,1328 @@
+tx 28d78430625f9b5757950552937c9b9d45138f0a442d54418f01b6fc703f7f3e
+/BitClub Network/SEGWIT/
+
+tx 975b75ac415175984b163dd0c02c77f8aded8433d6ad108668777655624fd9c6
+/ViaBTC/Big Blocks/6
+
+tx c76d98f0f40a572e58b489464ac4bbbca99edcae807fcb2e6d7d74dd51d45251
+"Mined by AntPool wy/EB1/AD6/
+
+tx 19f91d241a12e163709596be8594b5a993e159487f6a84a80acba85e7ae31deb
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9c89462470a1a725d3f81e8dbf171f1eaa01303f79361763afdd8a2c876d1c9f
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx ce87b8c3ecae2fadbb86db195c3072376b7c712423ff7e0d9e7f3fdf4f7e28f2
+Mined by AntPool usa0 7!b
+
+tx 8d6dff6d508d3345eff8e7668a07ff438f02f268452f2a5e89b1c30a472500bb
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx cb63ae50eec7c9298241a4524a83a42c25751ff3467255c9f4ec80bee19a2b31
+$Mined by AntPool bj15/EB1/AD6/B X
+
+tx 64f0c466fdf4e817732a2fb67882e1cd48b696994004670625ebfe1b65fccd01
+&Mined by AntPool bj13/EB1/AD6/) X
+
+tx 562f80d53af33d2bd2c1ee38cf1fa1235f09e07db6b3287c7806c84df96cb9d6
+/ViaBTC/Big Blocks/6
+
+tx 27ccaee309c7ded8a87057c8e21ce2970fd71b4383c967a4e310cc7a47732495
+Mined by AntPool usa0 7!b
+
+tx a037024827d03c8544cfcab292515aeb7721522f8192cf5744c38199f376cfeb
+#Mined by AntPool bj7/EB1/AD6/W X
+
+tx 96930eb9ff2b4d6f9a287dbd87188c35c1bc9dd0191bc9ff0c9d9a537e7e3e40
+#Mined by AntPool bj5/EB1/AD6/
+
+tx 22b60362191d5cf4105183ad709142c4a3454fb5155ca906c1399e7c244a5126
+$Mined by AntPool bj11/EB1/AD6/C X
+
+tx 9ea668de27581767cd5f8d34a6baafc8a766b29c63b54d5d922ade6c61ff4571
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx d2a0d349b734a85bd2b28163ee6757b621edd2e9472a470143735770e925d2a7
+/ViaBTC/Big Blocks/6
+
+tx 5acda119ea035d3530c58ec2d175e95e762f3bd144f11238f63edcc25bc7aa39
+r	/EB1/AD6//BTC.TOP/
+
+tx 7646817ba51ce5badaaf888e40923691989f9a3f1b6dac6635ca9078e3f31024
+&Mined by AntPool usa3/EB1/AD6/" X
+
+tx f8c95c8d70eb5b13fdcb3a0279e60fab7673a1f88bc14e2954290aa7a0a6d565
+/ViaBTC/Big Blocks/6
+
+tx 929979accd7fab6da62cf6c41faf4e5e9c4bb430a6cf113cef15d3c53633684a
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5c605af66519cb3c0b7851875cb98bfdea8a6f97f96c1c200481326f34e50577
+/BitClub Network/SEGWIT/
+
+tx 1564c7489e5f7761f8c0b19b960c2a2bc5ce836dbe6387e6abcb37409c66cebb
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b4258401e88860903599584e2b77c2363a0fcdee4950fd4cdd6c5eabf0359c56
+Mined by zhangyongsheng
+
+tx 09bb55f05e94ce8301ae30f0f3040fcad3179d98b7c3b29722f8bef9a42acc15
+/xbtc.exx.com&bw.com/
+
+tx 49cdd6bc22b7af0762a8fea0affafec06ac126e1a84382a287db15f1deb11afe
+~	/EB1/AD6//BTC.TOP/
+
+tx c82995c17dda0ddbc66b99b194807436df886ce7222a795b8ea1279aeb0223db
+/ViaBTC/Big Blocks/6
+
+tx 9c7dda9461f9c8bf70baa83060de2bbcc0ac5e2f134362159f43a7d4ce9895d6
+/ViaBTC/Big Blocks/6
+
+tx fa098a804d9ddcf3f86cacf2b18f4c2ea1bf6e159459e9e8328cbca7d2842e4d
+/ViaBTC/Big Blocks/6
+
+tx e21f2c2ee3549ae07bc7366ff0fe21dd833017f59e48256b3587dfcbeb1654d8
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 840bfaebc21fbfee17b02b67cbfd6344abb60472af09f7c0c38c8f108803cbbe
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a19404af2224020e060e9b51c35bba485e2848f08f2eecaa169be39d3e0bc224
+$/EB1/AD999999999/BitClub Network/SW/
+
+tx cd43a07e391183da9b830e399b980ef6abfb26e33033811839f88d7c27f2439e
+&Mined by AntPool bj11/EB1/AD6/C X
+
+tx b2ee2b6689f7287979cf07130dfcbb3ce1e9af957a39999d111513c9356cf60a
+/ViaBTC/Big Blocks/6
+
+tx c712dcbbe76fe07fdd164ee231d8df811aaa7b384a11c6738d6db52839af8890
+
+j,	/EB1/AD6//BTC.TOP/
+
+tx 7f44f33e641be6a4430338751e303a457de6f39d54c94342f4ee90df76caa887
+/BitClub Network/SEGWIT/
+
+tx 5f2dfef284445c4e9f03104a45ba0baa350e02ef08d0427a1a59f6cf86b07e54
+Mined by a18737573333
+
+tx f6a7edf028ead09cce6da53a4719c0195b78d17128bd3d78162987aee0e9c309
+#Mined by AntPool bj7/EB1/AD6/W X
+
+tx 46254523ae01ea62edc4e491caf1a26253c23919d4d527c4e5b1d0c7121f7e4a
+$Mined by AntPool bj11/EB1/AD6/C X
+
+tx 00ed829618f80a009a7494f2f3fb285b2477569b7a4a3901b7674e459b5b2b93
+/BitClub Network/SEGWIT/
+
+tx 5bb088f38131ee1c9d73b836acf982acdc0d061d272660f19704a6cc31f438eb
+#Mined by AntPool bj5/EB1/AD6/
+
+tx bac9d9ca9cdd5dee9e096360bc72ce7863e7bcaeeb8c42c10be608f8c047e703
+Mined by guoqiang123
+
+tx 4209f6ee7b7a8eca30449f4b69814000a3bd568d8b3a13ecdc5af44cd4e65fec
+/BitClub Network/SEGWIT/
+
+tx 3a5638af3267dd3764fb5a0ec3897d9c47143fda7481f00a481f21b0432ef4c1
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 01a84b365cf0f89306de8a0065809ccf07e8c2b48be2a154e1427b4081cae436
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 604f27d85eccedd17418df9075a520421410cffb127697a1a9b3be3b8ca72919
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 847f2fc05af967bc0c3995c07f3f27cd8712663483253126ac92c4ae82ad97ec
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 809382827421808ac06936003caeffb77a84dd371a2a10b042322326cde2abb1
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 1a13eb0ded07bd3b984e3e725e1003395cbf23af948cb5ebd6592f0a05e4387b
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx f546b02cc84743d2c65d49ca7cfa3caa329377399f2ca65ed95585dbf0e21d15
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx f4a77ec83c2ec7ce92ec483ddc19b096f371f0da8c467189c8a6d2d92a2e1441
+#Mined by AntPool bj0/EB1/AD6/
+
+tx b52520b232115daf3cf42eae35bece97b926e754ff53a5ba4be817fb3c4cd402
+%Mined by AntPool bj5/EB1/AD6/
+
+tx 5369b6be4faed024943d480bf708c5569b1c5b986b6bf0e81b2ebc10201238d3
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 7c86478cea1d436728fc5e614feb61020e6dd69db19c20e6323c4bd480576e19
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 10f63dc38353cb44b01232778135c67ce4709616e5ac462d03324e9c448ff742
+z$/EB1/AD999999999/BitClub Network/SW/
+
+tx 9a0da6d1f93f12df0a8de2ba71cd4d216db42348bf523b5b86286fad2d91ab4a
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 4e83efc046104fa528b2bfe0ddcc2b38ee6cbaf0520ab5cb04f27475e7fb5bea
+/BitClub Network/SEGWIT/
+
+tx d41e328b12caae7ca897df3d29e7899de2d05268055c97296966ab4a7dd58c89
+/BitClub Network/SEGWIT/
+
+tx 232076b44b34ad58e7136765a8a0bc7da55b2eee6fbe871bc1c5a792d5b31e14
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx b4c7f26b479caf51bec9b4317f13fe4b858ec95104788cd697d8b375efd746df
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 484730702e55447cf3809bdd1d6ba8968f0dfdf60b523a3bb0c1a7e44d222410
+/BitClub Network/SEGWIT/
+
+tx 0237b28dafd639f1ccb6bd32aa3c69f8d0f41b29152316e98ba26817dd6f6d36
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 14b8c4f7519bbac63e4b43dd53a3fe2cb756636347c171206d0eeafa6ef53e83
+/ViaBTC/Big Blocks/6
+
+tx eda5d6143d26b9f7b7b2708e63fa892540e1ca6941e4a05472705e47eada88aa
+D	/EB1/AD6//BTC.TOP/
+
+tx 69a37ec2cb6d825c7486305ed006de6536b0733954c42210406c17e3225035d8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c3deca0d84ad6f9c4afcc7de38ef5b0428960390bfb532c8bcd6d07c31ff6979
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0f63697fc833c71d69f61f0244cd9937163d41b9b20de05782217f6000102966
+#Mined by AntPool bj8/EB1/AD6/) X
+
+tx 7ad59dab32627d545c25e3064932ce68a467e9517b360201e152fda4f9699e1e
+/ViaBTC/Big Blocks/6
+
+tx 292170fe7b5db64d51f632d789feeeb58248dd96fc77046e2948955ef61dff3a
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx cd483abd9c32b4e2f79c3315bc0f3904217f09f990f1aeba022b4d513ad62f8b
+#Mined by AntPool bj5/EB1/AD6/
+
+tx 3a4a228c81b3aa711418d055628be202046012687cf63519dd5b53edc4b4d520
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 9b89c9163fd6e024e2d42ce85a03a8bd59262d0b2321ab5f9456e1ceaa4e7f89
+/ViaBTC/Big Blocks/6
+
+tx 1ffcb0ab27fb847f3b81f8ba13ed59120813ffe10d918aa77594855324d9b0c6
+/BitClub Network/SEGWIT/
+
+tx 4141c26daf30c202abf51d696d0d0b97b161061604f0b033a0c1bc5eb31219e7
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 01e5adf95b0218aaa174f64bd8a2dcc01ca315dafe2600783d7f6c26aa86e018
+#Mined by AntPool bj7/EB1/AD6/W X
+
+tx 9c7497c0b5feeec9431a403da348d8c66f55021bbfe344e062fff10a92957cab
+/xbtc.exx.com&bw.com/
+
+tx 940cadad67ba45c166ac94734971ef74c36c622e8e8b6d1622a6202c9fb6dad7
+/BitClub Network/SEGWIT/
+
+tx 5f2d168a4da88fdd8415619446662a4ae7632f7315e7dde2b7d2d877a9a41977
+#Mined by AntPool bj5/EB1/AD6/
+
+tx d0673f1baf2a5983374e99257027af4f4718068796d4715d8f3e36e2a4c2a93d
+"Mined by AntPool wy/EB1/AD6/
+
+tx 6fee023c3fbf9a6af98c68fdd738955274d513ef7fe6fdb22b3bbb7351a869f9
+$/EB1/AD999999999/BitClub Network/SW/
+
+tx 44a235f731d3356a0dd80cea4d4edb2cc2d05039a2d4e220e618fd38374865ca
+/ViaBTC/Big Blocks/6
+
+tx 03a0f6548cc49979962bd1d16d30fb48eba10cc322e12ea23aa05a8e32b01321
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx b35c6504c183a3f3ab3018deed9829fe2b732ec3b79b936024957a0e69e4a291
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e8bc4f2847a5d9ac6f42f1fde6f1412044a553e59cc21253ba3f63f89ca6608e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ca3a3840c62a9a747531750882bd16430f1d5ef37e8b170853fd8e18172e7d38
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 62882dd3d7acdcb858ae621ed1940a814daf68e15ae49404f38e3d8c57632d4c
+Mined by gsf13290923001
+
+tx 68ef274cbc7f18dc6a6187ce486d2d1612c2bf5a94cdc1e080cf45555eb29534
+#Mined by AntPool bj5/EB1/AD6/
+
+tx cc91b71e1be91621039ffdb540bce66f25a42cb02b712f73f638fa8de77deaa4
+#Mined by AntPool wy/EB1/AD6/
+
+tx 63cf703c7f77d48a6ee5f196ef8912479a2c474e754a8b11d0d7e204e1c3d0a2
+$Mined by AntPool bj7/EB1/AD6/W X
+
+tx be4564edbb039871a3e0d1ba7117815aa5e9354fd3920bd29903f3b8dbb709ba
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 6eca6c199e299209790ed5fd0a5169f54724135ef071904a87cbbfc9f2041c4e
+%Mined by AntPool bj11/EB1/AD6/C X
+
+tx f3049b58fc13b0b199fc2949aed06a594ffc40de1791089d5516853ab0b0c376
+%Mined by AntPool bj5/EB1/AD6/
+
+tx c151021f996b5ceb0cd672efc6b38d551cbd60c52f38b03ddf19c6b99f6561f0
+#Mined by AntPool bj1/EB1/AD6/M X
+
+tx 141116bad620e93e2e902c22163106e4cc9ba7896f83f291b5e09c766cb0df84
+/xbtc.exx.com&bw.com/
+
+tx 12fb627df4852e3bdbf171b7fad734c152653a7c7d5bccb7762214d38cb404ba
+/ViaBTC/Big Blocks/6
+
+tx 9a02f94b7accd35f2c0f695ac10b4548ef3db5bba6e04ed73e89948895cff283
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 4e2e0068f3ec9516f4fd6fb9b7afa2122fbbd1c5fb186d526a93fba313bf49dc
+/ViaBTC/Big Blocks/6
+
+tx 1a9c35878a1dc0a11b61afaac5b44d0e1613c6b23e4668c0f3f67dfe5863035b
+Mined by lisongwei5217
+
+tx 5e2304d7dcbcb3573e2dff6ce7b7ab93a77b51b51e346b7ee5a2c85a6764d638
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 531543dbee61509debc7e8733abc2fb0543ee59802929e2dc41274ceaf33c5d5
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 2dc3fceeccd91ae79524278dce76980d0f4c9d2a4b595a4bfa41137ac2d927d3
+/ViaBTC/Big Blocks/6
+
+tx 26e286a8f21b126100ec77b86c9520ea74715ae265b91ecebb4391c151a76c40
+/ViaBTC/Big Blocks/6
+
+tx a564c76a18e1620c88574f9e874dfab35646ae7ca7b7bda05fe18ab202950883
+$Mined by AntPool bj13/EB1/AD6/) X
+
+tx 4e8cabde6c166a1344fd033b41ee70103c4646142cc7b9c0c48754d09ec83d36
+#Mined by AntPool bj5/EB1/AD6/
+
+tx e14da93f66189a52beba2b788512706f85193325abba6e8e5dc49e50623eae8c
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 60fac72bcf310b401d0c4daa001caade63f00ad3b881742e9682d90edca37197
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 73338a9226ee65628f4ea9b9354ff9734a0591df191f62ffeced5d5671ca3793
+/ViaBTC/Big Blocks/6
+
+tx 9c8f32f765cd59a585bc759112b123a313246073141d0207159a5a0d1f5a8361
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx cc0b7f04417c18c7aa37b55953ac59f890f8e8e196d172c781eca9e58b37b58a
+/ViaBTC/Big Blocks/6
+
+tx 956b411b6ec41575ae778d1b7246f9888fae0f420c57ae844721b22ed818fdb4
+Eu
+	/EB1/AD6//BTC.TOP/
+
+tx 0072129d1836e9c94267fd659317b9898e2ebd8bb08ed5d4eb4301177db5ea39
+#Mined by AntPool bj5/EB1/AD6/
+
+tx 8b36ac8c6ccae358270d58cea6290e3159b813a6b63921c5018d85daf476cf20
+/ViaBTC/Big Blocks/6
+
+tx ed922dc9a4765d2e8fdcaec05351ac061b89f68af1ebf6f9cc8a12182a3ad228
+/ViaBTC/Big Blocks/6
+
+tx 452298ede036a0f6f259de50833c50262636d3a3ead05e25e9775e04927905f2
+&Mined by AntPool usa1/EB1/AD6/a X
+
+tx ac540b04cb7b3e988c2d2648200846a92f74aa4372c4df468027b15f854dfc1a
+&Mined by AntPool bj14/EB1/AD6/
+
+tx 3f84df1d24fcf70f9159fd5472dc50afddf51b0cd5a90a1ee87150606127ca5e
+/ViaBTC/Big Blocks/6
+
+tx bc46d67f28884697d819c76d81f68c029eb014e29c46d8ac94d3cbe7bfbc831b
+$Mined by AntPool bj13/EB1/AD6/) X
+
+tx f17bfcad0c53cee06f1c98b090bd80a4fc47dd81b513f27f17e58a217fd08554
+/BitClub Network/SEGWIT/
+
+tx ae80ba1edb766e7d0f8b0640f1b92baeb0f7924aa96f2eadfd59b5985236b6fd
+"Mined by AntPool wy/EB1/AD6/
+
+tx 910967e7eb034eb7156ec5a7cbdf4e96a1c4f8fa8857299ee984802d6825273a
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx acd716dc88f6bb4f92d966006e19b066c17b88d64660089c1647573568154374
+/ViaBTC/Big Blocks/6
+
+tx d032f3ebf1028ee44e1aa7fc1f317b1dcfa911a5eb7bca9231f7be50c48e8eaa
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 45ed0f157cd37aed721198dc7c0151ef4792102dc6aa93dd3191b367ba12bed0
+/ViaBTC/Big Blocks/6
+
+tx 5fd061728e0275ea97b84d49b4921e4b889ae5097fc0c69ed1d165deb3003ae2
+%	/EB1/AD6//BTC.TOP/
+
+tx 219fafaad094603819b869ab1d799b4bafd318b04d17df5cc8fab28f5f4d25db
+/ViaBTC/Big Blocks/6
+
+tx e23b4a1ebd250908393000286e0c078f1424cdf05faa06b7821cda3dcd2026cb
+Mined by a3068580548
+
+tx 9de57b8a56904cde239e7d498881ddd8678c4ebf18ef90e2f16b17ccc714bb90
+/ViaBTC/Big Blocks/6
+
+tx 3d244c9ae0c05adc3619489df2e9216a7822f0f5df51bcaa2e8759e6b4ca893e
+/ViaBTC/Big Blocks/6
+
+tx dc74ae3ca466adad8c743f3724410e27d8e6f0c475eae8b549f558f5466e441f
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx b7feea5e7c79d4f6f343b5ca28fa2a1fcacfe9a2b7f44f3d2fd8d6c2d82c4078
+$Mined by AntPool bj11/EB1/AD6/C X
+
+tx 6c13d7b72a162dab05ced2c46847f6993f96e6320dc4f124cf962aff98ee4a89
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx e9771c9182c20fcb7a02bfed0bd4244b9c5b2fe25974ed9b46f89b419c639346
+w	/EB1/AD6//BTC.TOP/
+
+tx 949ca204f98a2ce75b2a84e46c8b22ae397ebdf936ffccc979027c8db4b0e3c6
+"Mined by AntPool wy/EB1/AD6/
+
+tx 712b624dd516e417f1ed08e14bcf8a7c95aefaf00b5b00ac392b5e7cf39be1f3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8df939806a5551125f5ce71812aecdad9e6449cf575cc8458aa1d7de45fa1c4b
+Mined by erikpetersendk2
+
+tx 09ab26394cdb1952f884e349a7e836a6628f5e0c8a4a5462df5000db0961cfda
+Z
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d690565c7bb7147b95700740aac9f864760bba25d71afc102c989cb1f1e05b42
+$Mined by AntPool bj7/EB1/AD6/W X
+
+tx 18dea2cc7173992544af0b0d3e55b7b8e171350eb740860d02f36f1053ebb953
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 50647273635d8bc99cb03c2523d81ee544294531125e6e4c74cd1134250053c4
+"Mined by AntPool wy/EB1/AD6/
+
+tx e1991e84dd2f14e5c4e93bf0fbd78ad9b46305892803bdbfcb1ea45be10effeb
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx e6415362844f7c71fe52a4902b277fb69d42e31b668da85fce8c872789af31d5
+#Mined by AntPool bj6/EB1/AD6/F X
+
+tx abaa7f41994052bf99b4bbc9ab51a0a1188a179381cb04a05a9497fe1a5bbbcf
+"Mined by AntPool wy/EB1/AD6/
+
+tx c03204e87fea6bcfa1ab24a0b4c7b313872b3a320db6aae216f5e1e42de5cfc2
+$/EB1/AD999999999/BitClub Network/SW/
+
+tx 067d8c0e5b0152a154d97b289b0e2bf9c69577921f463eaff824b1cd8c3a7cc3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 46c6bb876e4cf1ff0b09f42c8ca269e82b1f528eff85ad51fee003d2764fb483
+/ViaBTC/Big Blocks/6
+
+tx 5e771ddebd5b35053c75aa43401b34d960d04d9c9be5d6ebcf75f628d49eda04
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx b9e59113995bfb4b323263980cca610fc4d3b971853b22b381c5b542bb54416a
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 7793aa474586559a901e49e07749de8630c3f44c9ffe9fcf9b79073d73c4e01f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9cfd849f7f9c98261383b22786fe4ac8d7be20bffeada1e4c82e5b9c8a317163
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 1f3d7e296555098d21bb58579ff8e9cde70a548df9b547b86a28271e54065bf2
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx ef1dd654c68f1c7611bed6a2b6c88de95f23f9ba8dcadd279ce36505f58d0c92
+&'	/EB1/AD6//BTC.TOP/
+
+tx 9256fcb767487efc7bffcfe9c752371017686a144997a452af1841f0cfbcf819
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx d20165c3e13c7e67066735e0309e72f1da12602a907ccb80f62381bf5d149442
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5d242e5d2d7840ddefb1a72689641ff8c7886be31bfed1ee762e61f285dcde55
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9a84d9ffc7b1586efa311d0c491439bdbd3ea1f968285ab2fd928015c2bf93da
+/ConnectBTC - Home for Miners/
+
+tx e9171cc0293e9687d4cf9828c2e539f05f23f157a7229cc14e2a959f8b87c40b
+#Mined by AntPool bj6/EB1/AD6/F X
+
+tx 4378605e3cda49761a6e357112ac3a9e1f10dc92638c110e8d1e01d25f508d94
+/BitClub Network/SEGWIT/
+
+tx a979ba21ff5cf917905cf9901a37eddd34782fbdcb946f47e2182d80d7e8eea0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c500cf538dca0cf4457d83ea5ad19df9291531d17c19b01ea0353416ed2803d8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 92324eca96ca8c83a0eee83abad38399b3baef8ae0304656339b596a9bdb113d
+$Mined by AntPool bj13/EB1/AD6/) X
+
+tx 0e054aab8cba121f6ea31c054aa913c58c5b9de81158bf0fe6e4b8c391e6102c
+%jx	/EB1/AD6//BTC.TOP/
+
+tx 8db3cac7ee2f9b4f3ff1e7876c3a59fd2b8ae78b3d42aee779d0149a27d4ed08
+#Mined by AntPool bj1/EB1/AD6/M X
+
+tx 8a6147e009d580b5651e1e3aed96540729f01fa63a18a28a5e7c912599e899eb
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6d973890e2cc431e25c07c96fdd69fa47cc707cd9d3beab8c91da4f9d7cee01e
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx de07ec1c9c5ccee7107d0dafb29e524fa7d067a2f39366ff6d3f63450519630f
+/ViaBTC/Big Blocks/6
+
+tx 5223fbe653a20fa97892842c5e429443c9deec0f32486481996671a9bd90971c
+/BitClub Network/SEGWIT/
+
+tx 976f371638ac9327d22ec095196952543758366dd44079283e8974a7b2c01f0d
+l$/EB1/AD999999999/BitClub Network/SW/
+
+tx 814f47d947f73c353c071a2a8bc1dc51b4dd46f27a10eade8ce5386fb79a9c0a
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx c912a2f8f6b1e0759c360389e9de7236b1ca12965cf41f7f0c699bd1a506dfc3
+/ViaBTC/Big Blocks/6
+
+tx 1f4f4aec4703c87ca7af6a3864fa71a8df199e234e0857dbb7b95888206c8e0f
+#Mined by AntPool bj8/EB1/AD6/) X
+
+tx 51200889c18935acc4f73fe16ac4f60cf425c4cdcbcec850cebdcc32ca759138
+or9zl&O/mAN]nh(RMQ9Y
+
+tx 17db2ecccfaa3a44a2f775e45415d4bd184bedaabde62765b750b872b9b3b4ca
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 8ed4e51e635205ffd4d51e15f139a6ac8a3e4aed66c1656a2ef1631d43be54a5
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 4b8b84665baabe2e0012cba9a23fb053c363ff007b1421ad3e6400015148a7dd
+Mined by AntPool xz0 
+
+tx 15d174e3a26f4659aba5f97d1f8d5d31dcd5ffb9f1f2924828b83e16567f2fac
+/ViaBTC/Big Blocks/6
+
+tx e829b5ae2ecf0908d5ce6b1e3babf542b76f5e5fc5f4ec1548c55edfd61c604d
+/ViaBTC/Big Blocks/6
+
+tx 693b54ea680294bd0d580f16b45f4bbc743c5c78966a219386a5b5d567bd76e5
+%Mined by AntPool bj8/EB1/AD6/) X
+
+tx f942f419c5a4012717000474816394ed5cf24a739d3a4ac1e0cd611e4cb11dbe
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 092c853cf4c96cd3a3ea21169ae4a346c7667ff865f8ca1fe4688c0e05ab1794
+Mined by zhouminghai
+
+tx 801932f3d217b09050e82e225a2259013a504026c100c4b48b6c235dcc78c01b
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx f1cfa77fd23a684cb725a6ce7e69d712fd9910cfd3969accf997cbc03e3a4560
+"Mined by AntPool wy/EB1/AD6/
+
+tx ec9b631737ed3051facb6bbfb394cd73eb530d7a9e7a92b8a9f8cceb0a4da8c9
+$Mined by AntPool bj1/EB1/AD6/M X
+
+tx 556d2b4324f1b8a0175722a0e44e2f347ad13b51c7c5948c1780d6c10e67d264
+/xbtc.exx.com&bw.com/
+
+tx 30d67aa6b863a58549d1526ee38746f78b1261ce5925e797b39eb3236b0b5fe7
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 5ea24af2280b8c9d4f15bd8370981c2e43c612450503d50814f9f81f94878c00
+\	/EB1/AD6//BTC.TOP/
+
+tx 47da02d8109d0965b38933fc0783a7d5d337d3a97a8cc3b62a4b382cd5d0fd24
+$Mined by AntPool bj10/EB1/AD6/
+
+tx 18c7f690da150d505fdc89bdd46262d558d8b941c47615c2eb7502cf714edd91
+/ViaBTC/Big Blocks/6
+
+tx 7c00e65f1bcdeb2b2e8bfbf227f5ae104e39ea5a2172150df3276c4ff8fa967e
+/BitClub Network/SEGWIT/
+
+tx 67b2892ca4762bf76274fd942882f5280fe00eb3331984157e13cef5e2502701
+$Mined by AntPool bj11/EB1/AD6/C X
+
+tx feca0c44b7a49825e23d7ea39cd1a6fac300dfeecf0c9d9e1bba05202e443528
+$Mined by AntPool bj11/EB1/AD6/C X
+
+tx 3ec24720fe6b80500ef954c828680fbef1a24f1729ed02916429113ba6a01916
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fc325cc9833bb92f4a6957a8fcc7ddd7b4a2cbfd1832ad8d84ac462e6422a223
+/ViaBTC/Big Blocks/6
+
+tx 6d55e6369a67080a285f9d3be26e87946fb084b88f8f52167db45d6826ca90f0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3fad688d9e804d4a007c85e6573243883bd8be38bf9873038d13e6fee9adbcb8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 62018a029e92c877f9a18356a0e96425d7ad31edba2622929773f623a34f9f41
+/ViaBTC/Big Blocks/6
+
+tx 6cedd962b02b4fcb0cd1b3699dbb47733da4eb33dfc8688c0c99f0f2eabb9619
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 33de90ce2a02634bbbf3841ce4b61305c9c0369ff8636e9e42cc31afe1c56cc0
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx e7159a9e5bb9f54220e99de500e9c304dfc1cd99ee3bec0d18e872e71e3b3b72
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 9882532386748fb8f58cb886ee8e9e0646e534a3f3704518e1ee37d15fc5433c
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 6df40cdef50d89e08587902c8279af5c81d56244fa4ed9496c1d8a55396d4f52
+"Mined by AntPool wy/EB1/AD6/
+
+tx 3ec838ec84b0b0265c766b59f20c220165636f20c5da551831deae531fc288d1
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx df07d2e709d79230ea2b1e5e7b3e8246e2e794d3f42cd93849aeed1796b8eda4
+/xbtc.exx.com&bw.com/
+
+tx 0692ef99505deddbee12fd97d73cc02ae4565236d68f5e13e699ff5558f96729
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ec52a248dfca878dcd404b2408bcdf39e7d218a2cfc3ee7f64002905a9d9c5c4
+/ViaBTC/Big Blocks/6
+
+tx 2fecfe79adef95c248f17758dbad894763111166cf28baaf4371807e90dc2003
+/xbtc.exx.com&bw.com/
+
+tx 651d1693c04d532d2440cc378e388001b5abf400e79630915fd1955e2cac382b
+tW	/EB1/AD6//BTC.TOP/
+
+tx 72ac844dc4323c026d477d6b2c89b7acc8c8e24647cc80d6a207ed827526947e
+/ViaBTC/Big Blocks/6
+
+tx d6ee02b58bc8890be8c288e830609964d29e700865f3b960b6c95d38d10859a6
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx b4b62b3b2a760a364379c997cf64a6cd87977abf50dee33a660c8cda2503823e
+/ViaBTC/Big Blocks/6
+
+tx 8d4ee7b1e2a2d8b7fd3e0c33d9f764ce825f306ab9e8ecb506f645205e2fbcbe
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 9f10d0d589cc2c4eaf152af7b711a461839796553ebe6a1cec3c7ce5da1cfaa7
+Mined by a18737573333
+
+tx ee8537a37689ec4f02e6377657b073acc46b0dd6efe21f6b852794be9d1ed538
+/ViaBTC/Big Blocks/6
+
+tx 4fc6499659fbcb5d5a571344776dd20aeff03b98915476a1ddab0b252da918ed
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 67e7ea32326dd9c61205d5cc239c90a98b0eeb56e112e432dfc62a3625f6fd58
+$Mined by AntPool bj15/EB1/AD6/B X
+
+tx a0a574519da4d159d1071202e43aa0f4a7f0567ef096bfc2924ed2b8805bc585
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 76be75d2c6bab2cf2148cf28ec35dbef9cecb465ea5482e20d4e8071add5787e
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx e92736b1acccdfe03448f4851cfc6a511f750dc44d125b1d21d6a4cfced54cf5
+Mined by jiangjie321
+
+tx a52406a3b0a426f7bd3685d290cbfe394436fe0f35508502fdbd01057ffdd05c
+/Bitcoin-India/BIP148/
+
+tx 57a36e7a67f3415e25b0ac2c1cc5f24d405804003a63f34a2c9877b571da94a7
+/ConnectBTC - Home for Miners/
+
+tx ff2b24499287f16d1b8f62d8d2af70994604cfcdbc89b5d4b26d25ab007d52fe
+/xbtc.exx.com&bw.com/
+
+tx 22398bf333e7a4904424bae9d84e6e8530794e7a3d7c9f74c4e5b1ba1f6bbd6b
+#Mined by AntPool bj8/EB1/AD6/) X
+
+tx 2fc4c9c44747c8fd6a9f5c4525c578bea6d78459bbac6f08f9e6b11a35afc52e
+Mined by wangqinghua50
+
+tx 8790ad3857cc3ecf60a4564cb7331673a5408ed7b650569c7341dfa1bf072bbc
+$Mined by AntPool bj14/EB1/AD6/
+
+tx 6ffab5812269c0a8e0be026b98e60285306e0f69b3c6fd0c450c4552924e5feb
+%Mined by AntPool usa2/EB1/AD6/> X
+
+tx 78c61e539ff110fd6d7b2072f16c0bb073166e82fee9749ad18ef4bf991d02f6
+/BitClub Network/SEGWIT/
+
+tx d0acb1685bc9ca19ee49369213337e90a483c91b71bea77d35d480352476d1c6
+Mined by yangzhenwei123
+
+tx edca2af022be430f2a9fd2c8354b721102fe429f8a8fa7ff4fc680ff0f83f3f6
+/ViaBTC/Big Blocks/6
+
+tx 5bf9eb3a8d05eee306c0540fa8376328cc43003008c47ecb71d56cc892c9c2ce
+/BitClub Network/SEGWIT/
+
+tx c4ce914d2f56cbfca3ce88934b0a3961180016c85b7220120d155f435a370d93
+/ViaBTC/Big Blocks/6
+
+tx 887e079c72249bf1e977718caa5262a4bc9b2817a3a87dbdbab1138cd25db672
+/BitClub Network/SEGWIT/
+
+tx 24f34bbf00a3f280dff0bcecb97d05f5fbb0a87180ccdefa25419f9fd1fff83b
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx 548865cfc606ec0205f3a4ccd52a535fea75c97e3303c40a048c69aff32e1af9
+Mined by AntPool xz0 
+
+tx c4dfa71b7c68b8b38a2c2ffed0d41feb776450a8233d849390c45d584661ae02
+/BitClub Network/SEGWIT/
+
+tx b937a33f42fe13e9952a185621ae88c8a17174dd02d5c560f16338c6a6c4e12f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8a77c5854c249765eb68d613e640d09114063609b8ce30234ba4defdd445e91b
+/BitClub Network/SEGWIT/
+
+tx 7b26f7008f1d70a41bced98bd8a37d70b415b5babea9ad3594d9e69b7b622f55
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 441c089a9b9bf2326f4ce313df3975ea54b14597bda33c168e98d36d17385e54
+/ViaBTC/Big Blocks/6
+
+tx 43ea104be36fe5f707a3b1bb5cdd1f79ffc03741bf4b59adae90cd74d827813c
+/xbtc.exx.com&bw.com/
+
+tx 583a2cd1d3c92e6798189b9d03c04d6a427263a92d0c7cf5ebf201dc19bb69b3
+$Mined by AntPool bj10/EB1/AD6/
+
+tx d8953590b9d18f066bb9b0edd7f0168f69844ebac2220572260ac0ceb531ea7b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8b409d80052625e3d1468e38d44477806ad323941cfeacc8e53a1e2efab1e8c8
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx d3f48462b4abbe11057428000b0742cc1fedc50ab8f2435405e3ab53130f8b2b
+/ViaBTC/Big Blocks/6
+
+tx f6b5de2517f6bfb41a264c35b215e9f6b2e1002d67021875a7295b1456f42948
+#Mined by AntPool bj6/EB1/AD6/F X
+
+tx 244f1a874d0e62582cf086be5681027fd68f1a674ce17f18000e908afe712402
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 3e3af9f39043a2739f2f19419cee3e26dde564cf3a7ef9b8afa3c92a646cf9d0
+!Lj	/EB1/AD6//BTC.TOP/
+
+tx 33471007445628992a6a020c8053998975a16565e11956fb7d23397f036b2ec1
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx ce87048fc6f719b9972b9e65dccd9aef34135ba886f8f3db7294858857001dfd
+/BitClub Network/SEGWIT/
+
+tx 86ca2934806871d46222d492ed2564659da3f8ff5b34cf412a7efcc27aff2fee
+#Mined by AntPool bj6/EB1/AD6/F X
+
+tx 01e2ed0c689198617806193c72b4ae9008d96cb090244ccbea83d99bb4cced2f
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 2d8baf422308e0f4a67051d6c96eeaa4fdd92c35110ea9bc491d13316ad6e9a4
+Mined by yangzhenwei123
+
+tx 203d4f8941a121bd3ee85698d107a801e657e161780d496814833584e80d73c5
+/xbtc.exx.com&bw.com/
+
+tx c7620686f3e4b7708183ea1849e5b6d307ba929969d6624ae4db577e1ed91e2f
+#Mined by AntPool bj1/EB1/AD6/M X
+
+tx 3ebaf0b441c5fa423c4a8ff11e8095287301cee3282179f2b4d76f0ac8e7a2a9
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 53e18f4055aa6f18f9939f3afb1ba67e988e1d8f089ccfa7e19740fb96ea72e6
+/ViaBTC/Big Blocks/6
+
+tx 450b4775e05d2c55c567791010ffc0a0888cf49ddd302549b22e23a42116b5b3
+/ViaBTC/Big Blocks/6
+
+tx 441b14d5236a96731b566da2065a17cae750fc8ae825d41bf61da47352d3987d
+$Mined by AntPool bj8/EB1/AD6/) X
+
+tx ec6bb6efc7a1eaf7b59e7f12b0fa99031a0e28f33f141131b376d13cfd69cde0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f380c7f8f8899293377e6508cd4eb71e2621fa28c7cc8c5b6a6ec8da3eb08dda
+/Bitcoin-India/BIP148/
+
+tx 5fba4f0866625e6db6040dd0d3b6c28fdfe0053e159f28b1bfd44dd5c898f5fd
+#Mined by AntPool bj0/EB1/AD6/
+
+tx 3eb1db533036af046829b7d60d55d98197ca98d78e48f96a690dd7e46439184d
+"Mined by AntPool wy/EB1/AD6/
+
+tx 726817462dfcfc16fff4caa095ff91b64b590c6878b0bfd6f4594980424a7058
+,$/EB1/AD999999999/BitClub Network/SW/
+
+tx d9e28baaa1a1a67ff1c747f5c3af70148698e536be35117297cf490bf7a35bce
+/ViaBTC/Big Blocks/6
+
+tx 8fec75cd2ba781f9ab9fecea1fbf986a9fa1d726ccaff14b920bbeceac2152dc
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 3b968a2e803ab2b1e645d71c257308f42f6a1a697288960d7c3013d50c9a20f0
+"Mined by AntPool wy/EB1/AD6/
+
+tx 7e0f45cfe3cce58ceab36f419bdabcc393ed8c92cdd938badc452e3d12100a82
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 1ba71609007ac651cdfbac18d2918b89bee54987480636399e88aa8def977301
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 072605896a4fc5ea1f35195e6be8c04789e199f7a1946b020db516c0c91523aa
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 0f7db715c5ee96ce9209ca4ea28dbafc82637433074fc0956d1b930cbf788755
+%Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 03652e9e632198e021f94d3159ad47650781a5f277e07219461d5aac6e75a112
+/ViaBTC/Big Blocks/6
+
+tx 3abe210590a395af8e5d288ea78108a946953255b9977c445c4c57be70e4b264
+/ViaBTC/Big Blocks/6
+
+tx d24a025dc40cfeaebe8991cd25a95a482f395c3ea7b66d8ddfeda997be1f1650
+Mined by liqingxiami
+
+tx ac62f3782d0cccf0c9ec2f423fe4845967f3ba5b037b56c5910f531553ffbb5f
+Mined by AntPool usa0 7!b
+
+tx 95f59eec326ed14a0a2094e3194742448e8ee5f198e1270940451ba4d6edb5b1
+/BitClub Network/SEGWIT/
+
+tx fa1dd2961f4297429d20941ba8b1accccb84a2f1210f4f80f488e15392bce81b
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx ce891c213fa60a86234ea1e54f1dd5caf568f46e73f3279376a33bf5ee6f1a50
+Mined by d1258792312
+
+tx bcbce12f2ff26a4388811604a07ce4d3c83a76858620f2d9c8b7732dcfe3d34f
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx b45721af9c8eabab5dd3b3eea974f50621122a0cc2924b84881f035018f1d91f
+#Mined by AntPool bj8/EB1/AD6/) X
+
+tx 90861900f28ca27619b9925b46a38db445cd77fd53ff79065bc875efdc0ef9d1
+/ViaBTC/Big Blocks/6
+
+tx c2ccb58f01a5eb7118cc3ab084ba3f29352c889ce5cf127a606a8a136b6347c4
+/ViaBTC/Big Blocks/6
+
+tx 96f8664bff73feacd525235a40f1f6d1bfc0b2d2f9134e50b11d941190b26c34
+/ViaBTC/Big Blocks/6
+
+tx c644c1caf5c30c9fe21bf2bee7581dd5de6d73c1252a3d1dab7305b69d44b2fe
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 71274eda4deb855eecdd39ddb825ed779355bc375fd246a269d125281e838823
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 3e760c2b66a33060421a8f1f118ce059e23bc10ceed6ba83c6e6b3c2a8084c0f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0563cf51c5c3e65afa23ce5a5c3f872f57962df598b8367d1ca5f5234c3ad671
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx f0b1f2baadf2da3fcad64c102101b41611d924e00dc1a23f0e8d383b82ec5267
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 87d1b1de796eb8b17c8b2c44a5269b7432177422c24a7aa0a594027fb77cb252
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx b8433c62e51f24e292c8955d0752dbcb792dc14e4b86d096cd4243a12a57a302
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx ec5e86e0bc6649aa0198262bdb2f49a074f52542cbc3c7eed741f6c087263e74
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx b1bfe6bd768ed3988c659adee5dcd718a53b7f3f2b41a3f3254639070285ea4c
+4(='=?cC-3C5q_8~40my
+
+tx d2f60d6a2c2e8411a9c1bcf51e935c1afaca4978c3228c6b1cb91f9f5a0b0769
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7c451eabb528c92a3d0fccad20c257cc1fa3ed1c74d19a3c0c9b083901406381
+;Mined by AntPool bj7/EB1/AD6/W bibodeng love chrisyang X
+
+tx d06c0c5f4cbcb889cd8e295f91fe609f11e015cadb64ffca524b329e906c2e45
+Y]	/EB1/AD6//BTC.TOP/
+
+tx 169d3287121f1cf52203d9e7d3031de387c7bc591fd931d96e6c19c1e3590461
+;Mined by AntPool usa3/EB1/AD6/" DebtCeiling15March2017 X
+
+tx 21771a573b2a185f9f6e1f205a0d39a69de3c5d57fd4c10fb1403dec7e7b7211
+4Mined by AntPool bj8/EB1/AD6/) Jkbrightideas.us X
+
+tx df978461d3aa3fb93fda0cfc8f43fdb5c7c1241bad42e9c98c08070722960ebd
+-Mined by AntPool dq/EB1/AD6/F 30678-dkdk X
+
+tx ab97c4dd690c9c73551d758b845c889c9376e0a9a15dbab598e43a93e3d69ecc
+/Bitcoin-India/BIP148/
+
+tx 3c4b9c1dbf33cc162ec0a4557aeb57fe39c1570377856166a59b1f7fea146d62
+Mined by liqingxiami
+
+tx 5b9ee78d0205fcd98ed35eb8fc2f3a444de5827e7aff38e3eefaae62bc0a3bcc
+/BitClub Network/SEGWIT/
+
+tx ce2884d80755100e1e687f6bc40410c4ac63913b062e7556d42ffef26849d6f9
+"Mined by AntPool wy/EB1/AD6/
+
+tx 86bd5802d8068d275158d1d0935ac2d74c1fdab93480bc1c18de2d22aa553211
+$Mined by AntPool usa1/EB1/AD6/a X
+
+tx dfcc24fc152cb6c10db76c3709bc47eda7751287a47d7a24420cd517bf5b96a8
+/ViaBTC/Big Blocks/6
+
+tx c2de5e7f5653f197d7a5214194f414f6c70774f0146fe629dc936d51a80c2989
+/BitClub Network/SEGWIT/
+
+tx e32fce9b156b8ce35c871e4a89b455d23431ad466f5b13679acecfe5f7b517fc
+#Mined by AntPool bj0/EB1/AD6/
+
+tx cc32d625cc4d19beb9d72ff9d7ecc1e4af5eb4a6ea3e0aca316bf8619211fbb7
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 74f89c9d1374ab86d11fe5c8c42ee622f6c6f56d4dc9586918c4ff985e5c2ab8
+/ViaBTC/Big Blocks/6
+
+tx fbbdca7770bfbf559897415489874106c8e2fc7cf8e0d1b3e345e6a26215dd69
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 1df763dd30c4d6dc5c521c47a0b5e1d18255837cdcab7b3b6ad0b4aedfaef124
+%Mined by AntPool usa3/EB1/AD6/" X
+
+tx 3d3839bf61c5c9fef20fee4d30178b86b38fb2ba9d94194105702cb684b883a4
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 237653ce8040497b13b73c990bbbe6a469e7988806c41f7ba083aad389259a76
+/ViaBTC/Big Blocks/6
+
+tx b2609af769106195490040123386944ca87deb9b2fdb2f9351a7ae43cff1a19c
+$Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 0c46432f56f86966be6cb158e09cb332b15bce648a6105dc07b8a40bba8afe60
+Mined by yangyang1924
+
+tx 5474bbaad13c0d169f40b545dd0823bf55aa13448f01106ae65ac401865a8e2a
+$Mined by AntPool bj1/EB1/AD6/M X
+
+tx ce3ca018abcc0a6d93ae1d5f862a5c1ab041a9616620ad7f385a8dbff82ee553
+/xbtc.exx.com&bw.com/
+
+tx 71b4b9d884202c3a1d49331746798a025523cbae391d5bd70073d0afe7da6285
+/ViaBTC/Big Blocks/6
+
+tx 98c6d7c78f61fac926945c8699ffabca2458d5578698a96f1f878380673a9771
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 387cf6b427e5b8a4717c31a2955f2998cd0fa0e8cb838a375fb325d3b8934569
+&Mined by AntPool usa2/EB1/AD6/> X
+
+tx ae35a477493ef62c34d7b3ef022903e293802ac127efb30b6e3345f8fe49812b
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 5e6373a3162b48a6f568189a54c2b61f4e361a48fa36643eabf47a4e6565b563
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 089e81be63d8b27bf8c8f279e6e751985c6fa3aa604a7103ed64c67b12f09cc4
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx db2139607cf859a2efdd1e01a008620370d878153c0e87941d948e2ed55ebeeb
+Mined by wangyongbin
+
+tx 3f625bdfcc28de6f75cdfaa06c08267dfcc8a55ac9cbf336271a60f7938815d8
+OEhUU
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c083a9718191562b402cecd93cadba7b858fb17af901805824ad60fc0c2df1e5
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 01f4e7ed6f9d964b6524a28c3e5d7691162bc677d0638f167686b69166551f14
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 5b28735b54361d65913cbce8d2d34a7359d5840e5e344afd75ef09e5abba0f45
+"Mined by AntPool wy/EB1/AD6/
+
+tx 9a83d5b558ffc7c2f4e4d9737cc1a31675aab268e2861d64ae66d5ab256d1528
+#Mined by AntPool bj0/EB1/AD6/
+
+tx a678f32dd7b01c2dde435481e3e49df7b95d526bfbaee0a2ec63f9d793793d84
+#Mined by AntPool bj0/EB1/AD6/
+
+tx 82fcb9de58956b125256b9fe6a9af731f8aa2386a20180fbdc9a908522416c67
+/Bitfury/SEGWIT/BIP148/
+
+tx d9242d73dbeb9feb9b41738eb3f1efd5a2a5439fed83e0fb696f52f4db9e3fd7
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 03be44f0a00a135adcb4ab3a4fb149d38adaa2c120544d06243f437849487308
+/BitClub Network/SEGWIT/
+
+tx 1fd4fb9952409663996022f72651870684bdcfb43f15b0819ad8eb74322e7991
+Mined by AntPool usa0 7!b
+
+tx 3717155a8121eae23b6c226886cde2d91f27f2d571657387f17c756b6e4e3a33
+"Mined by AntPool wy/EB1/AD6/
+
+tx c05aa30b670327afcf7b9ea562b259027a6642ec8f667af9cbb45faf15080d75
+bm	/EB1/AD6//BTC.TOP/
+
+tx 07f639069f8d6a0b200392ae98375f46c0e41215a56162f69511c63979c790b9
+/ViaBTC/Big Blocks/6
+
+tx 906e28ec1b3faf0b8d56dd443b97ebb4408de83fda8cfd425c62c0d4709c19e2
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 26a57e75e9ca7fee88d8a9bbbf05a9c3782e2f57ed13b6226104dece69addcc5
+#Mined by AntPool bj8/EB1/AD6/) X
+
+tx 79f4785a3acf07836b31c964c88b40799d7adb83b835821db614fb5d695a0f22
+&Mined by AntPool bj11/EB1/AD6/C X
+
+tx aba25c0db839dfc3af2f3b1720955b2b16f6ab69ec8a6f0603e5ce4a6abaae58
+/ViaBTC/Big Blocks/6
+
+tx c0e03fea8bbc651cb277e496fa83190ead419294f1a65cd3c3b28403b788b93a
+Mined by AntPool xz0 9`
+
+tx cc23258226c518f385517000991ec4bf4bbe8b52e6ba1f6db5489620c8246077
+/ViaBTC/Big Blocks/6
+
+tx 4e10b38dc68c6e313235a42232c99df9cf37c9a9bf6fa36ae8fffe07c6179886
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 363c35a5b6ea18414bda94e01b05dbce63d4a1649e8c0d604f69c87045496574
+/Bitfury/SEGWIT/BIP148/
+
+tx db5c0d2c2a2301a04ee65570c835d7cea6a983f9078e5a386564d27ef74d43b5
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx 6a9aff2353b5ba8fe5f3088ce08c31caee6d3e1683b6f94a6d7ecee96e2434b9
+/Bitfury/SEGWIT/BIP148/
+
+tx 0d006d65100b4259a32390be0943aaa1e40b069f9443797c8300e0f9bb247ba1
+/Bitfury/SEGWIT/BIP148/
+
+tx 333258bf3cdc0ff3add8304a2b91ad7d9c6aaeccc4507055e5ba3675ff672734
+$Mined by AntPool usa4/EB1/AD6/) X
+
+tx 4a22b7f5c5e582a943896700d7d2350af7bfda33b8eada3ab69311d69e7507c4
+&Mined by AntPool usa3/EB1/AD6/" X
+
+tx e4aaa7b00caaa781479e98786f015866ec360629c962842d1521765280312eec
+#Mined by AntPool bj1/EB1/AD6/M X
+
+tx 294f36eb2180b41cd17e3cfec6153b60d5b7497c0c979753dfa073f68b30c2a0
+$/EB1/AD999999999/BitClub Network/SW/
+
+tx 489cb36f21964d7dbe246d7e8eaaf2f965a4ff1cefbe75a56bea891a77981152
+$Mined by AntPool bj14/EB1/AD6/
+
+tx 449a53b3de9073cf642579bbcdb0f838eb553f5063567b332c45f62f23677088
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx b5e5a5671a1c6187163aca33d71284b35d92c87a6a70b5aad9895b26a477eb0f
+$Mined by AntPool bj10/EB1/AD6/
+
+tx 12b27014894b917cd519b635a62ddd95eb10dd1bc08ef1872f7b1502126c7635
+/ViaBTC/Big Blocks/6
+
+tx 44d8087e86d158908171672175c9decec8dc620c76ace42718d4ef5fc43ef757
+&Mined by AntPool usa1/EB1/AD6/a X
+
+tx c1e1d51d1279c65fc755323f4482a133e00df1468f85afaa623a9c4e4ee68542
+&Mined by AntPool bj11/EB1/AD6/C X
+
+tx 55f4836fdb7f8b677218c6e4058ffa173a43290d6208c316eaf5515992828ba7
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3d815dd8388651dc990ed12dec2b85f1e627bed8799b30ffd1715143fcafef36
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8ae3342dcdd09b62f7716f50f704973bdee5175274a5b20e4e3d3c172946378b
+\
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5ddfcbf738b368e3e7d9a005fa4747d24ad4de7c6d427f3a7245556c364709b3
+?$/EB1/AD999999999/BitClub Network/SW/
+
+tx b91577c592f26345309f22effa4e5f7ff9f43b44ffe3b7142c2252c7febdd8f4
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx da9b63a1bb6b2917b0e486f87e1ffe7f2a06d90b4a596774d63c744e342e072e
+#Mined by AntPool bj1/EB1/AD6/M X
+
+tx 4c186c9e9e5b9eb3f6cdfa86ecd9fc959c506550969fea5ecc5e9e83e75e905b
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 9535c9602882341bf6acf0e62edaee16fcca910d4dda70195fa89cd7ae1b169b
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 5af90ebe26a258c7a9fa210ae59118a5e63f9fd040bd2647421e0f31b23b52e2
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 1d3b522bf203a3c81628f18095db5010ddbcf8235d702d0a8ffc145625abd09c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c20b76f626628641b59ebe7b9eaad8bbdc938e7fd61710e9677eab80e48c8e76
+Mined by chenguanghai
+
+tx cbcbb09d6accace486d5ff917111487c2ca7d9894252be563e5e0c41838e0484
+Mined by ayu317875709
+
+tx fc5379749dcfc75931b2ad6b49109aa895e3d376c3a31b6175d6ac5b31fdb864
+/BitClub Network/SEGWIT/
+
+tx 65cda52844a97f5b98be3b95a34113d3ba08964e25b11160b168159f7703ab80
+%Mined by AntPool bj14/EB1/AD6/
+
+tx f37599cfb22969fb4e1adf08bbb46c551b2a755c4de9303f881514ec9ba4ea3e
+%Mined by AntPool bj0/EB1/AD6/
+
+tx bfbaaede0d49dc66892920c5b4b831d0b11b7cfe92a47a1bf4c5e28aa05f62a4
+%Mined by AntPool usa2/EB1/AD6/> X
+
+tx d6f3a771426429132daed399a6c761d6223bb07f16f136c3745d3592d33ff570
+/BitClub Network/SEGWIT/
+
+tx 5cad7d398d842b453d430201d1cd55784633df9674427387db8f6abff81bd972
+/BitClub Network/SEGWIT/
+
+tx de86ad61ff5e6b37595f62ae98d53134a18995b7317514bdaeed71b8e98e3f36
+/Bitfury/SEGWIT/BIP148/
+
+tx 5ec77ef6152abd884ae617845d7ad6c45597f30171aa92831497d10771608d40
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 621c3502f3e46d252d90250208539d5e092cb9cb7205f722092ca7a6baf84592
+$Mined by AntPool usa3/EB1/AD6/" X
+
+tx 62c9195a58fc5a84cff7d9aa2e6c59b62ce34d64d588257140e5d94077e67799
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 9ec28dbd70a81d165f9e05ffa26afba1a05ca664472fd439afa50ae9cb2834c5
+/ViaBTC/Big Blocks/6
+
+tx 5e71dbafd1a1512429551dee6294fb7ba61040c849ccf03971d682587223dbda
+/ViaBTC/Big Blocks/6
+
+tx 5bdace4c6820312a129123aa1b7a2443b548a4a324f4744c19233b33721a2b54
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx da0437fe196a782eb92246756924e6b5d4e0ff6ab78db319a7255768aae5765d
+&Mined by AntPool usa3/EB1/AD6/" X
+
+tx cacb15057be75051afb5ba6826769d022da6aef5994398b177658f41770cb8b8
+Mined by xhw66asdfzxc9
+
+tx cd15389cda67ba906db7c90e231c2b7bd20834bfc1d31f4cd993615f55f97405
+/ViaBTC/Big Blocks/6
+
+tx f31793fa5e0b94bcf83abea58b6f77c7416ddc578887bd7b44e5708feb75012c
+"Mined by AntPool dq/EB1/AD6/F X
+
+tx 5c35e35eeb1d7d4c2313986569dc022254aea143181baa51131e18c4a0bd5702
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7dae6f98400b4490c5da6c2961982a3c0c8f05e17a2fe99985620336048e4d3e
+/Bitfury/SEGWIT/BIP148/
+
+tx 2195fa79013cec38b9531d63b6df48e7e4e7d3b636a51985a93d9adf2a71593f
+$Mined by AntPool bj0/EB1/AD6/
+
+tx 11e55d6ec26cd0b8a620dcd9eb6ea7ad41e921e74e593ac29d7b37e0a7475a7c
+Mined by w13705616663
+
+tx ff4ec89e5131b1e6fb7506b83287135d170fd5f8670d12d58b8aa7ea6c5c7610
+q	/EB1/AD6//BTC.TOP/
+
+tx 1fa75588e74e722768b96d025402b2b79eb99619b49eb7d18808bf1e7f329dc2
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b9a66c6f1df7b33c7e7296048d827d0f72645ccc1662a1907b342d7d069d29ea
+JG	/EB1/AD6//BTC.TOP/
+
+tx ad6d206cf8cb11526e74c71893bdc7afb0446086646b06de6eff865455242f6b
+Mined by ayu317875709
+
+tx db18afdd5e789c288119d757d48f6d7d3360293b40f2db4925289e9731585550
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx de34163d550030969fa544f702ed85f5e4aca57193df494d6ab16fd140ee9b64
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 24856edeb3c1d7d16b33791ca7b078621a0f47105946ddac50e02217f1308504
+#Mined by AntPool bj5/EB1/AD6/5 X
+
+tx 25f0957cb64d57ffcb22ad3cb4ed5d25c682c8dd8937f1c704cf702b10e719d4
+Mined by miaolong888
+
+tx a54d98517965a71f9c5604d2feb4e3d51396aee61018b34a939f73789a44d228
+Mined by a13582951005
+
+tx be9bbb8a9354d03e263dc020a2acd632e2ffb37f9dfbc8878fb122be862265ba
+$Mined by AntPool usa2/EB1/AD6/> X
+
+tx fb823de57c202970c405c8a310758fba01d0339681e5485bdff0fd8d00f6130e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx eed8ea7ae6b91006c0f3b26bb4c100bd61137b9db2c5cba80180ca4ea103293d
+/pool.bitcoin.com/
+	/EB1/AD6/
+
+tx 574e9b46477c3422e8cc17ac2bf717b3db81bce0b39170d719a6867b89d2ae79
+2	/EB1/AD6//BTC.TOP/
+
+tx 057e1649ebb14f78e213fd2cd12c0e4a629ff8324b0e719be146fc2a140b3ddf
+/xbtc.exx.com&bw.com/
+
+tx a9ada624f59efc80bc44b5d9b33576407869db2b20bd4220f4f5a60b3b0bf64f
+$Mined by AntPool usa1/EB1/AD6/a X

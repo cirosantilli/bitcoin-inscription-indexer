@@ -1,0 +1,1135 @@
+tx f6f6d00e8e01cabe98262b5fd935b254866c98dace91ce85ba739755ea0efdea
+qu=https://cpr.sm/3HmZu1qrwP]
+
+tx d67d7b30d55bfb0b7e6aa441ff7e0375ad52566d2bef35310f065da56c2f03d2
+Are you a turtle?   {
+
+tx aaafff0802c5d31ac4594e1977f1018cf0b32f2ec986ec5a89ca63363cd650ef
+6+$M t.io/feed/17E7cQJ6SMMYK2SnXzsMjC
+
+tx 27397a4a970444ae6fdef3b5d0e8997d2c0d43d11dcb6bb08a056b16481fe141
+ t.io/feed/1EYbBpF66DEUSuHwEQuMBA
+
+tx 2666094dcb7f090d3f478be16dd14d177e9ce1640152f9df5a5f3d9b0dd26199
+ t.io/feed/1gHGYZDcue3dbT8R3gn7sS
+
+tx 40d6c5279e02acf7125d2e667fd9219f215696b4cdd08293df0a2c87cd74d5d4
+ t.io/feed/19t2VnK9R1URZBiVV9e4JU
+
+tx 3c9e2b2fe33f9e219884804df954a9516919541849590dedc49e742ed8c74ca6
+ t.io/feed/16SUHP7LsDhK4yeJisMs6S
+
+tx 69dcfe932fc72374e52a08bd458df0eb2fc8ba3aa3c647f068f6aa9705a14ac1
+ t.io/feed/18u5WiYoEz48i2uwRHFpHF
+
+tx 64066aebb283d524704265be09525763db19d30a828f2cc279f7953cde795740
+ t.io/feed/1NduLyKWRk1WifFinqxCsN
+
+tx af4b51a7a13be8eb3623376d8e0e527e03e2d336636a6b1c70ced16efbc7fb01
+ t.io/feed/1JAa67bvggtdVuymNzcq6q
+
+tx 49f990a7e1afe986bacbcea667ed32955c59220bb7088159a1f6e70f2ef2a71e
+ t.io/feed/1EhqvDmR5CP6zbgaG3wxwD
+
+tx 8e5b0b979da60dbb515eaa790b913bfb11e20ff4f5c9e346b888b7414767b6b7
+ t.io/feed/19R83oNbfVcgUpQzs7YpSU
+
+tx 500962818b010305426c21cfff3c8a0c10b0f9e4f70c9bcbc76d88df6c1fc5be
+LY, t.io/feed/1MF5tuiKfFcHvJhV3vZJ7B
+
+tx 9468f2f3386cee502f4174570f69d7360582e0a3828fbff750e1a3862f9d9e51
+B t.io/feed/1DCMoSkhMZh2wj2j6QY3jb
+
+tx 48e490d754c2ff79d98de2998c35fc325927d0c42e00194600e124318cb68305
+a t.io/feed/14bAFNo6Wk6SXTxQT73CFN
+
+tx f46db9b2bd5f8692d29385b3fe6015e0679e6334f3a3694ac84d3464c1759715
+ t.io/feed/1HRAVftRQS67u5nmao7tkd
+
+tx f258c63ebb1b7b54f5e34fe3954c60b11ebec80f57bb69a640d3f2832c9474f3
+(. t.io/feed/1EpWCQQQTDth5Q9MHy6DZC
+
+tx ea2790ac5d5f830f20f363023565782ff5c2546095944a7d6b8ef3b80d067119
+ t.io/feed/1MNAbcKWpT4G6x91vmrZKa
+
+tx 37ed3f0569905ac24255c1e1a84a70b64029bb64f4b098e5a1c43a3fbc368150
+ t.io/feed/16qp3vJddB4Jx8ExgJyyPg
+
+tx def8bd73c99bd5fbb38b59180da2986ee17c07f85786bbf60cc1fbb1a9d3cdf3
+ t.io/feed/13xSnbktS57nuMRf9NtxRf
+
+tx 344a5746715e889370fdb7214019762a8657212c4f6edf6405dee336157a6712
+ t.io/feed/16NUGmtMzwkqpWLfyM5HCB
+
+tx 334846583cd3b67b406b21cf90ca00ee65255ca76cb4bacd593c5931c032e890
+ t.io/feed/1MWArQ5x29ykmHgva1HmxX
+
+tx c65eafbe228a31e417fe54fae08b19791f0ca2781619a6426b19d790195b4ddf
+{ t.io/feed/1NQkTMiWX36Wt4YcHybGog
+
+tx bf300019d24d19972775b4aa0160cfbd23fc9de2d566630e47cfb4dca6933698
+ t.io/feed/1NXqmrzu8HT3PmEDtkqfdv
+
+tx ec6708018787ccd4fe9b16d37f0db91951c7e6b852709f1a6588ca3be2aeaa69
+oY t.io/feed/1KnByiKBSrVMihvL3snwoW
+
+tx 6d5c976b7da542f4f208aebee3c9c93cbda5a2b65f265b619cf10559dcf2b0de
+5 t.io/feed/1Jv5vMJmP7ZRxWD7EZbCno
+
+tx b10d1096f8315666bf6070a7381ea21afea25550458da5be4c46e81dd07aee06
+unsuccessful double-spend attempt
+
+tx 6b53166dc053125213e84dec5ae07ced036d1d4fac527f54f16eb0407387fa10
+swf.est.BitcoinMC.co
+
+tx 108066536f1e42a729b99267965e9c446c79b8fc38978f62ba66742eb95a1294
+unsuccessful double-spend attempt
+
+tx b1bde9f615e67e7d306b5e55f2d65876c844d09c01e21aa3f765d58e0ea6c8ef
+Bunsuccessful double-spend attempt
+
+tx 7c3b78dbb852aa925ba4b6e39d75947ec01214f9d4cd93d736fa44ed257fdc03
+
+ t.io/feed/1GMn2zDGWgfkRV4g36jBNw
+
+tx f23b1cd29260a420d146a7b062eb3b1b13e2a0703d509703349362b21282186d
+ t.io/feed/1BTRGUSGMAW3mzptpDi4gz
+
+tx 67e4820acc33ca63752e9437c25984ee11d801ee96116d8a96a6f6c62aded72a
+@y t.io/feed/1HX2WahynUKPxXxjQYCbKf
+
+tx 62fa19cfa09bc76341ad5ea87a5e5134eefba3ae5873cb9c47c560c692601f52
+: t.io/feed/1ipsbTtBgJqZm6K7HpCkM8
+
+tx c490598cbb05b521f281494dfd45ffa5e6d4b5d605846406b7cba0ed2a1f2a5b
+U t.io/feed/1BrKdAzYeQvrBwVViyjHny
+
+tx 854f3b4a26763ef7884c8c092412020469ec4544cf90d35599071728c825dbd9
+dH t.io/feed/18dQKE1K5742by4GhJ7UiF
+
+tx 812bc904ab8b279855357f86ca1cae7171144a1b17a018c46a9943a354868a84
+ t.io/feed/12qTLf28kVMpgULPxKxkGs
+
+tx 1d11c66c5c7032b5f2d5176968ea45327fd1cefc8a5068b540292eae459385d4
+ t.io/feed/1NntXB7XjmmqnCeqoV6hqG
+
+tx 6ebe34a1ecf39978bff72baf75e5e7f71dcd37de0d52095737bd49ee71e15649
+ t.io/feed/1LC6ELpyyUGJtNGN6rCn8T
+
+tx 65bfaf563682d061b627a1c606b9a98de3bc92a3d7086601b7659abbf6458f75
+7 t.io/feed/1C84j3ghZGi22EiqTMnfPz
+
+tx cc1513ecb84c31470e723f591777eded5aed15c493109efc6c951aacad16e2ed
+ t.io/feed/1NkyFYaCShL9QJJPBXRZfG
+
+tx c8befb441128b7694968a2667aa33576117155cd177624d33b994b4e1b42fd0e
+: t.io/feed/19HrEc3wCxpV8crKeoPfHw
+
+tx aae0bd830a1ca2cce93343f573feceaeda06ab4f33bc53e5d2a41bebbcf5f2fb
+_ t.io/feed/12YAwLGaF3sZ3xprZE4Miv
+
+tx 9cc8bb681b26bf21974a3ae130dadc147462e91c9c7f4d20c8c7b7bc8c54f330
+.' t.io/feed/1LiRuS9fNMHbQkUEEWZyMi
+
+tx 4da561506bdc4a2676d23c0285325f53733578515aec0cd1ef0e2fa47480d701
+hu=https://cpr.sm/Lx_nO1JNlF`
+
+tx 4e58b2cd1eed31dc39c9fd8761c32e9870c6ea2869f52fbfb950c303e8ee88d4
+u=https://cpr.sm/6PIai0PsYd
+
+tx 7ec77a93ee7e39ab0429ea6f3b1b45453e712bc1e68a1a7222782447734eecce
+{Pu=https://cpr.sm/o-ku6c3obv
+
+tx 41921c2aef420fa2e5ca39e30d5decb49bed8c9d128c8f8bf455755aaea17e01
+{Pu=https://cpr.sm/o-ku6c3obv
+
+tx 500ee8c2d0de49bae694ad39ed1841e312eb664e127fe45ce933c21cda927cb7
+Check sebuh.com for detai
+
+tx d589e3046c3ad306a1040540e54045f00436d269229abcc3d2bdf9ccd1f7008c
+Drizzy Drake  Official To
+
+tx fb7695e0838a6dbf6dd46c1c88c5c2350aa756ef425b12f0f38b1bdadb3932d1
+A test of LTBcoin distrib
+
+tx db8707fc0f459013fddf2276e55547006773c06be82bdfe398e37cbe9d54ccf2
+#http://goo.gl/dXsHqm
+
+tx 19ed42ed9b3c40ba276155c94c8d41da46c74b8044356ed715d1215f4a6827a5
+unsuccessful double-spend attempt
+
+tx 32753948234e84f4ad0eeb30aca5352896abd22114b44342f62d2c52035f9ff5
+N T - Counterwallet is awesome
+
+tx 6ded7a9599b9ac059b675505699f8dded4b432b45723d6376cb1389cb5bf45fe
+ t.io/feed/1LR7fjXucfNrFYjy8xVqS2
+
+tx 04bf78b222b5b3fde93e5bf87a43a49573f9d1d0b29e0c91bbd916249c88a060
+ t.io/feed/19URnDu89gzkKVKUnNDNCm
+
+tx d93d21d190b4f59a558dfc10cc9f529cf3e512244f6e9e9b1ac125794fb44eca
+ t.io/feed/1PNG3AChZJdMiTvXg3iMsy
+
+tx 6d04feb6369f4ae8ff6782dd80e5de708529605384222fd04de90bc8d49229f5
+ t.io/feed/1DdpvRWfaKDeF6kQXTZ9fE
+
+tx 01c7196a3e0da4751bb9fac72b59632f512d860529e42e5c836ea416d0c46787
+> t.io/feed/1GR6MLhWRqLnn4zgbxG6Tr
+
+tx d77216dd406bf9c9d1b59b1c2c5f96b1de6ec546706957be5c2eee4ece03110d
+ t.io/feed/1KVYTrjj6MxXdnNvZ2iuZ8
+
+tx 1955a0d41129c77a40f790e1ea8ff508ab0295332b034e7560670cb6f50085c7
+ t.io/feed/1CBq2jHN3WfAQxux28DYzB
+
+tx d72a0a32b4e856266c7c20f326da00ad3d64610453d54de6d153ef107b295194
+ t.io/feed/1E2NmLTECLhtWiMRVymxHF
+
+tx 6c5ba3a4eb8eb8f5d8cfea2dd3b314e37f611c92854ba0a2beb844f8e7a93335
+ t.io/feed/15o3wavvffHFyTKVxfrzeb
+
+tx f065b7256692584f6a68b629ad0070692e49c0bdf06ed0c300ddce75a49878b4
+ t.io/feed/16dQ71SVgUzCvNggfH6wKa
+
+tx 0a76fa28c8968b3c26bae9eb5bfad1dc80b54cd71fb395ca0cbfa9c283c4a67f
+ t.io/feed/17kh7uLVVk6xtWeGkqTTmi
+
+tx d567cf3ab469216ceeed816ae6f9ef69c0bad181b5bd82ed94f6ccdcdc749560
+$j t.io/feed/1Afy2DFVkRmR6xcgaCUcWW
+
+tx d392931c1072fd760160ac545f53fb766f518f0a372a7cd0d89b20dc456d0421
+M t.io/feed/1GumkUiEwoRUHfckDudx7H
+
+tx 3751014ed22b8a60864ea3c34ded4025a19687e901c8844908ca9422e770e1ec
+| t.io/feed/1J9qutaWTVZWSnu63GUPz5
+
+tx d0f67fb321958979588f15514b8ba13d7c6b80686c28bef06e2572aa82df8498
++ t.io/feed/1JSzHLQBW5xeq21vHwG7uX
+
+tx 0443bbb0d8f34f6e54c53231b3419ee605e2d6e1af4f3c18ec0ccad91ce2cfa3
+ t.io/feed/1JKrpzeCJGeBZjShARPTVs
+
+tx 6765351b7e50b7d42d4513da79dbbc14f6e2c460e1cf9ff8eb7d088289c8ea5a
+: t.io/feed/1GU4sANseHwRDGNZXrPHiz
+
+tx 35ef49c154f1b7c9250b9cf17b06bdbd522e5ff3edaa5dfb621eea045809cbd2
+ t.io/feed/19oJDqS3wrGquntmATym2v
+
+tx cb90a057b27516faae889a5e47e51072693e5fa647b94d5590a655c747865e66
+ t.io/feed/1KEKEkspJK2AVcNF7mFBVq
+
+tx 0998c296a00d979fe2c1906ff2b642286aa7ba891a47c603a3bbabb4b8a6bb27
+> t.io/feed/1MKi8XKFwJNWy6A56CVuSH
+
+tx 65eef99dfca45b1356f25b3d91a8fb482148882e5aed19caaafca2b748e244f9
+G t.io/feed/1D6fRrtowYqTRkxBJwq4t9
+
+tx 6540a6469b0d7e91929c221c32cab3d8e3d7e017308e5905b8078e77e5f9af94
+ t.io/feed/1LMsjNEYRZG893dciTv64V
+
+tx c8e48f44a4e3606ad9f4755ad5119c4bea7f661a3871fc2b330e6bac62aa6430
+` t.io/feed/167u7Snp6cnFW2TfDLUZGS
+
+tx 33463827ea9737fd8365b4bff741cbf78074de76be5d270d80e86697ab915a55
+ t.io/feed/1APg9vrWsEi34Exog6rQys
+
+tx c59c1cc4a290ce986bd8c1fc0eaf562ad6ebfde37071c28b68b29c05796e47c4
+A t.io/feed/1DFH4aFTu5hTWjG9qzFrDM
+
+tx 618be6a7b76df32aded4ea549ce8c7c0d61c067e6d33123423c0131becb8ccf3
+ t.io/feed/1GWFoz57RLLwAgL3wrcT19
+
+tx 3175562110e6088039ee4d851977a53e08e786d79e294b109a890d45c4ec2609
+ t.io/feed/1FLQ6VGuReRne7R6vUAfKm
+
+tx 5f410a483fd8fd9a2b91e34bc42322a733848807644760eb563d79578a439906
+[l t.io/feed/1JHFW6D8zBDMoVGNvBC1xH
+
+tx bfe73660648966856d6b7790392ffaaa881e7168a17f35ff02b51214c66cc088
+}I t.io/feed/1HHQmC2CYQQMNHNR63Aw61
+
+tx bfd59f56d1e9b7af7301080cdcf9fea71bb52eedcb4410567a22ce634f7b6288
+ t.io/feed/1t1hVpQDafXLsG6CCZXi3p
+
+tx f59ffcabbd9193c725f36ab9c5b30e99faa3dabcef5fbde32bd885962aba7a5a
+f t.io/feed/1GCS8aZWAXFC1aN6EC3K7V
+
+tx 04326cd978399ac8a473c7595c81df3708f584cd52399b2b5b1b9ad06b96855b
+?^ t.io/feed/1MnxdCZVpoTRTYcJY51bhd
+
+tx 3087577a177c7cb6b82a8a991b47718302232ca290aa27b4517fddb98fa546d8
+ t.io/feed/189D8KMJrmRkoURr6q7NV1
+
+tx 3067485884281f46a7bb9ad5c1d4f9d95b2ee280e1cddf100a3b0b3cda060f00
+d t.io/feed/13vBqQZqk5tQDhgPf7hVEq
+
+tx 08d6e1cd016f8df5a92e4004a34a2c656a4e6c45d7d56687e24d1ac8c553bfcb
+ t.io/feed/1PM8iXFhGuie4PR2P7RYVs
+
+tx ba1950dd996d113722b7019a1a5bbdf35c9750a4cbe2dfc5f7ab7ebc9fc92a3a
+ t.io/feed/1EDPbqkCnJUHQSnRw5K3FD
+
+tx b98f096782c1d1c1dbd679f1cfd2e1f96947b4f6f5f2fb1659058e1ccd61a635
+# t.io/feed/157eN4ANSawyEFQk7GnWPQ
+
+tx 2fbc02e490be61e3f23e007f8acfb936309de7ac4484e866d11edfbd7b6dadae
+ t.io/feed/1FXVeGdJP9h88UmViqK5fG
+
+tx b6c3181dc9fb2bd99a95be3727ce230ded0139c63c1d21bcada6ffdc2a81e96a
+ t.io/feed/1EnYZpRrQfETh79E4C9Zvn
+
+tx 5b0d3939fc88260f81862f4bd7bcfeccc388d22dad3001ff2f10394e73ff6387
+B t.io/feed/1B6bGKiDHQYm3LsRBWdUyJ
+
+tx b59bb6515211477bdebeafe6114dcacd5b9b2cfde65efff7dda7b6d3c1cff961
+4 t.io/feed/1PNwmYa3Xn3DNS8vDYgQmx
+
+tx fe9b012907c244c8e161d425fc2bf855373e9f4c0342c25d9522b1ad2405a4b5
+s t.io/feed/1AGzTEZtqLMceGRzh1s7b7
+
+tx 58bf144e1d1985eb5ff68da62b7818615f0d4a1d1e78ac53cdd8ab5f089473bf
+ t.io/feed/1F8LDrUagnJdWA6RabsDGJ
+
+tx af049f767f7dde44c82766ef13c3d827ee828be8b02a87162f7e7767532b39b9
+9 t.io/feed/1EigU21Dt2K8YZTc86Kzoz
+
+tx ae4220b43e51ff829afdb460bd982821792edbfbceeb6ed39a31eab5b207ae81
+J9u t.io/feed/16XHtAAvHL7rjLxYjExM45
+
+tx fa4a0c4c12aaa1a6b18a7f3b0e2d460e6d644ec798e1761106be2b22f1879e81
+] t.io/feed/137XaMadV1SUwWvgFkZWBg
+
+tx ad21468884e44dc52a7a5b4ce5cdf325a10a587ea0094a2b003ee005c75d34f0
++X t.io/feed/15gBnKZp9ZCcfL9j3BVyn3
+
+tx 58208f7d757453a59b94cf6122adb3144ee2167c74a3980a6061a7055d7bf38e
+ t.io/feed/1MkKv5hrby31S5gmtsQsJq
+
+tx ac7a456c2cd6cfb0d1293a9a730c4f30a8fc34558fefffd93e6a78a23f92b1da
+6 t.io/feed/17awr69RdKxgJLPib8tAY8
+
+tx 58135136ebcdd1bb7bd2b4d863e2fd5ed07013798752493e068b9a4b8b40d2f7
+ t.io/feed/1LJW66ZbSbRhg6RMCkHciv
+
+tx aa72e5158887cdf58688e350042bd051157cc0711231367e52fa68a101054932
+ t.io/feed/1CoCYspA2V3c5YNLwUsNj5
+
+tx 2b9421efdb50aaa9692609d32db79adf3c566820b64b8f799bb1d0584c70681c
+Ml# t.io/feed/18sFu9zd5vfHYUzchzjmSq
+
+tx a8db0269c0f37d49f8a63ad08f0e7df1476ef9e3c8120325197aaac9cf0be240
+ t.io/feed/1Gt2KFaRGwRi4f4mPFAims
+
+tx a7e9dd51209635d6a4e04ce9e8f56cd2e7bc6840ef166bb01aa584e079aae19f
+;	 t.io/feed/1NFHfJ2vtTXdNVhMSTJCGS
+
+tx a2e054df0968501aeaa4fd0be762c90f5d18999df05ca3ae75967e384010a4f6
+D t.io/feed/1MteJfvXLkxV8DQRooJP4X
+
+tx a220e1e61e3973485bef67e3c86723101317443fdf6c95020a608948a3b3ce8e
+W t.io/feed/1N3ocgMdvvB3Gra3VCPgkA
+
+tx a0a1272389c06d33f11c50e95e4c3d74e18b836aa9142ec30fac5a70aff9a7f7
+ t.io/feed/1GL8T4BW891oqRb4Zmv837
+
+tx 52548739beaa756af5ee8f520703973c9b9d9e9f36689d4121764db2b80b5ab1
+ t.io/feed/1KzZtAYQRSqkT5i7bFPk2J
+
+tx 9f7a770a4817d31a67133fc0b89931a7fcc5a6eb8e50c25de2da8fcc13ab8c87
+ t.io/feed/13hLjGMsWV5rmnMKZkL1LM
+
+tx 9ee7adb7a46fd18a74a54b241bebdb1fe189243bc44865e1351506bac168da0f
+T	 t.io/feed/1L66ZsFVf5tguZAcSCsDzW
+
+tx 9e9a8f00a8d8b7e1d8344e3db1ea8e9ad2e62b7b4215f830a87188b7a3f43969
+ t.io/feed/1ALe5GKdBQauS6T8kFawwc
+
+tx 283faef8f12c84c364354ebda956032bdf58a69b4503f686d5e3af571a637e2a
+ t.io/feed/18xFK9fBDYjgePhB1AVzr3
+
+tx 275bf6c5b017993fd1c871d7f76b8bf6fd66f3fb2da6343da50583fa76128e1a
+ t.io/feed/16oAXxGa6oDiqUufXNfB4B
+
+tx 9b402d0c73aeebfe43e899b5b155a5edf5dd1c4a0a8a23cec685ff1b2dfa2f64
+ t.io/feed/1AEFfoysGhhseUraynPVor
+
+tx 4f72a97525ee90a6da897effbbf7cc2bae1e4b5cbfdc980f522fb0967b95071a
+ t.io/feed/1BADrKBADZPB1i348zHo19
+
+tx 99c7865a1d4df4ba3fd7d934189c31aeb96399d58015e3c194efe3575c8275ba
+ t.io/feed/1PYfEDbWUrTSGxEgyA3Xtf
+
+tx 037c9f7f6e93e1fd6dff1aa728c642e854c7f71ec0888ebdeb0fd0ff4098f0ab
+W t.io/feed/1EV9tCAKMJLHJ9CudMAqEM
+
+tx 10b22f3e5bc87f30cecb39b147699301f4ddcb8013753673d84be40344ecf398
+ t.io/feed/1KBmu4t5BSCDGvt5g9pWfL
+
+tx 98222a329843a2caa4b83d528e8a461e316ba80ff923c0d8ac21bb0b2f6affd5
+:6 t.io/feed/1EJz1kazsAkxyz7rAp63gf
+
+tx 4e9f4d70e6797ac935ff387d1cb76a12f47b53631ca51d8ca0b86df21055a1f9
+ t.io/feed/1HDYZqkWSS12mxsiQfqap9
+
+tx 10876137c72ee936bb8a88e9c74edea331abf25bca9e5e2a20f76e0030cc1ada
+j t.io/feed/15eeJWQURovSrEWrSUvkuW
+
+tx 95dc9fdc72204af169882dab87ae00f057a3a9b532dd59c21226ed12bd09851d
+ t.io/feed/1Q9y3ke6ibtvSYHBrwKyeF
+
+tx 949b00e527136f5dd38a1463b2e2d515aef0f24b68727ceff7f1c6b2d0ee6d4c
+ t.io/feed/14cMamo1sCsG2bRKguqhgd
+
+tx 93ab15d24fedc908683533a1a8b11dafb7e9508c7ecf306a85858280030f40cc
+El t.io/feed/16QerRqCVfjoBcCMiXaCrD
+
+tx 938e8f49a236de3a52ea6ba86a35c9cddda826f19b6d67ad94f32ba8a38951c2
+yL t.io/feed/122rC8xpD9zux5yjzwC9sA
+
+tx 938d39e3f851e1185d4beefde091d8f1882a52880c53024bcb7a529498602b3e
+Zr t.io/feed/18RB1KaLZru7j8c8JY1YfH
+
+tx 24c08b569e0d4cd8571a9b1e4f3d24b14c241591b5e5c837c50252b73995e12b
+ t.io/feed/1LBXecu7YtdNjfvbcW22mj
+
+tx 4b757aee04905a1f37e48e7c4168cb4788250dc53d45a82b0eecdc9432f28b8a
+ t.io/feed/1C4PEnxqGLNTfEhtHQyobX
+
+tx 90f022be7ffad26d94038e744fb1cfd2792a4440a36c52803501494c3df9f1b2
+q t.io/feed/1P57rWYkCr6QZte28tURQh
+
+tx 10185dfb76be75ed0be930d062f1ad34766d5d1f269510896f0d33284dedfac8
+ t.io/feed/1Mj1AWudFGAxMedg2Qp7En
+
+tx 23c5af64f88ad1d47ec21a416dfb4e1725f532334630a6b5ff6b2de4a66333c0
+i t.io/feed/18L9mk7zx8A1iVeTArqnTK
+
+tx 8f4ff198880fdfdc54cf729db5c11aca5b2e9ac7873467d74cff2a4fd8dd2189
+ t.io/feed/153p5oFtHPqgwjjLzryeNK
+
+tx 7e73dcd6a075f24a1e4b314f581b88e3e32b816e4744b5e0a31fcb7cfff06f0e
+; t.io/feed/13ATMYxg1gXdPWwicWtsv2
+
+tx 8dab608e36b8d1dbff7263f5c1bfd0b25a1f789f059728ead84a7049493cf635
+? t.io/feed/1B9JobTBB5SJLoBwdn4y2D
+
+tx 8d6a0d0b79ed2b9c53403062ddf8295e58379d478c401aa52144f0b4b8fc1786
+`u>1 t.io/feed/1LLe77W8DUynUFaT8yfER7
+
+tx 22a55b2aa117e4b3ce1932991097058f9c10af7450868770d1e98edf2e597b97
+-G t.io/feed/17FsvQw2BeFyv1KNP9QZhz
+
+tx 8b84474625003ccaf2b3687a5c23a30b4c3ea27757f28e9b11d9e53cd34be320
+ t.io/feed/16akLY9s92p6ZUnQWaVbf7
+
+tx 441e399abb7567873ee5e0f2a26d774f655d76ffade6e834a5a00a9811d0be60
+ t.io/feed/19iAK1Sy6yvDUsSsMxBaw4
+
+tx 43cb80636a4adbb272765c4614622bb0143f71facde63e99c2a0fd7fb204a166
+ t.io/feed/161JTnmxS3oyiqbYDwVdwE
+
+tx 059189f3dbcc143b39bf2bf76ff7a70d51b132f8a0279e120089720e88382328
+ t.io/feed/1BijBeMiQge2aUDNZ7BDaR
+
+tx 88e0e15721bdafb8b078ce1f2b7378918ca489a34138b5d5a3385ff16aac4ac8
+ t.io/feed/15pHkUb7cL9Vdr4DDF3TuX
+
+tx 8889e53ff34a82efd3603023ef8ce81344ce7c463b078d6152009e8d0bcdca89
+ t.io/feed/14SCxDVdvNmhJbqEsh9VAo
+
+tx 85e243a8fccf29e7ba82a923522e7ec874f84c46c4095d756e30b10f37f01147
+d\ t.io/feed/17a2QH2zNHgdGBNMd4Moyj
+
+tx 8489e944822a2a051c01bfa538d77a6c502be3a3965193545b78e8d324ec2851
+ t.io/feed/1L37veHts9zvti9y8XbmFF
+
+tx 1effa62d78d2f5c564d59b7bd532e92b847046d99ef6c8f7a9600741db5ca3cc
+ t.io/feed/1N5y4fsoeKYAJw9TegRFYb
+
+tx f61f46bebe402922e74b647ddc26f20f702444d4979ba70e3397507715f8c7e4
+%{ t.io/feed/1Pwdd6rCNdrF5Zb5SiTMNc
+
+tx 3f298921778da174b3d4aa2c5554f28dd50bfe28b9e0810e45aa1c5f351a6242
+X
+ t.io/feed/1EwNRi76wpNTVUviuLTQbU
+
+tx 7b61e0d480fcf45491633e614019c51d64de42f30abf68318363f78110af5083
+ t.io/feed/12J5LMWkXSM7gFwsr4QdWJ
+
+tx f3727babbf002a1c54625638664449279a8842abc937c9d9cea34f84fda33098
+ t.io/feed/19p2U4xzvDydx49BtHSsY4
+
+tx f18f9d0e255ddf69fb67e93222d55812572fb71694a8d2cf71077669246306fb
+4 t.io/feed/1Djw4YbcHCS9pzBviXbDAg
+
+tx 3e84b553b0f1918aeaefd32b59195a3496e366100ddafba8bc804fefb162a61f
+ t.io/feed/1DGnCNvYac1orCX9BxVb1g
+
+tx 7d03407643f36e6fecc7265df8a299d0fb3a70ada13183d6010db6ba9725a65d
+B t.io/feed/1LposhN8FrM5UkvTRButU2
+
+tx ef93bac2070e60b688d923a9ca8243277e5a875b1caac5a2c9b1f1d43dc59b75
+ t.io/feed/1JVX1bKfYxM988SG6hmAiq
+
+tx ef8a5e89dcc81df18194cc03dd79ff9436544d977365356f5f01643d76428365
+_? t.io/feed/1Lzekva8qDW9ze8zhWjYZg
+
+tx 3d9519b8cea2a3b6855e8d8cbfcbd2bb7513cdaabd7ca4a235dcb457cf27837c
+\ t.io/feed/17MBg2TKxAJdmVNs2DsggU
+
+tx ee25ae7f88e903393a915e6d44d216514cccfdf6a3ba75262f35f43766a3622c
+ t.io/feed/12ULeNNjLyMEW9cHBcqEXz
+
+tx 7743c91a56340ff3fea42c9a8f871c18cad97493f8fc86992bb1e9340bb3d520
+ t.io/feed/1DzoCdHYTabTYD3hBHBGvD
+
+tx 053c9ecd53251af661075b46607b28a4951acdc9e93dd8a5c0c03893b5391218
+ t.io/feed/124FhZbLDHBSZyXXRwQmEk
+
+tx eb9c61a6ad2ed2a0650be7f6227dbb9adcf29989dc48d326855e4363fcad18f0
+ t.io/feed/115rMDfTdFkis9UTFRShGi
+
+tx eb6ad44b142f5b4402615991c49bde2cd65d642aec06f4b61cdf4bc6ab80a8d8
+ t.io/feed/197NmcWQrMPj4LrwSMGnjx
+
+tx 3cc09adbc4914493ff05cc977337d9adec461974c3ff18e374cbbba3d36e4d68
+ t.io/feed/1PUXcDLXnHwNSVNd6VxkvG
+
+tx 74ffd15c6033425678582e91a41c7f3c400e125179fca60e4c572508da9cbb4e
+ t.io/feed/1Dk9gZv44kzgMATQqake5Q
+
+tx 7e5e74d7d77a89ac5df13faf2cb2a800973f0c110669d1cb5e45a9a471474f83
+ t.io/feed/1LUchKHfwEGksgrPyM32SN
+
+tx e3f7cad9cc38db75448df143fc4f6a8c4e0b0a095ba3c52740764320cc925d34
+ t.io/feed/1D7FChNqe75kFv2JvHb6tN
+
+tx e307dad33476f73ce2f363f445ab26accb7604bf944da7d0a01b16a251d58fac
+ t.io/feed/1ALCbVWtZdpk3QABHF2Cj9
+
+tx f82ece8c98cb1abeaa7c6e7a3ee74343b6d4b76b70851c8cb41f4c230cfd6d04
+ t.io/feed/1GKSnfbwN6yrXLBtkX8GYF
+
+tx e2ac7e7c5ad1732985fcb2508e69b37b47ebfb22f4407eebb9b03a038e9afbf0
+ t.io/feed/1L868hwn8aj2iJYF19ZVpd
+
+tx 3a7854db50d74fb197af917007384b7b02db2be75133a52f985e52f4c7d4023f
+ t.io/feed/1DiisiySk4xe5A8jn3fLkU
+
+tx 39674066744032c453f3e16090039035882a30b74ea0deecca14232a8568dfd6
+ t.io/feed/1JRBfxgR1G82kUkCDvi5WH
+
+tx df6b4d8780724deda3169050c7e9d1c13ca92f30e68638a28b1ab15f17db6eee
+7 t.io/feed/18SUC8CUkQU1pRaqhDcokj
+
+tx 70bc0b333d72493eae2639a286a37f40c192252bc251e08128e7266b23b63be1
+X& t.io/feed/1EF3vNqxgEeWFobzbwFa5W
+
+tx 6ff71dcc682dff87a8e1db9b68f087bd6b0a823bd06e80607d429f6652781f58
+ t.io/feed/1KKpKPbQJPnwiSKrRNyaL8
+
+tx db31424fe3199c06a10f9eaf8a5631304fa250dfd5c49d315288c8018fe959e6
+Q t.io/feed/17SYgEsR6AJ4ynnkh21dqb
+
+tx 3929a2dacbc9b16c019a0ab8719e3099863301229052b8b8b4921746d70f9de7
+ t.io/feed/1Fs7Tnbe31K8DHj92QD68N
+
+tx dac28bd12ba97e19ea3d4c8661928dc20f9f60588e9bfe38e31bb64835012900
+V t.io/feed/1Pu5LeceC57g76buJuzr8S
+
+tx e2da5dbc6e80d5977907ed8048fa65389567bfa43f8be74e3822badcdc14aa23
+ t.io/feed/1DrpbT3R56setSu46ev9iK
+
+tx 3fada60a8be7306012685924eb6c443c0a3d733e2837a3e21c18a172e5601790
+ t.io/feed/1DSECbBY5StvREavu4wZTS
+
+tx da10a61f8c702b677061eabcd683cc4349837379dec35bf145a69a9a6f5f20ea
+ t.io/feed/1HE6yvp8PZYCKLSWa2VgXK
+
+tx 3d719a7de71eb0feedb061f0afe1206545dde0712875486d0b57981db17f4ee8
+ t.io/feed/1PL2NzafbbbAtKK8JL4HsR
+
+tx 6cec58c72fce59a0272a303e821a0d495769c913f19e0ef7d35f58f0f9227cef
+ t.io/feed/1398gvwGrPxaLXDUVp6Q1X
+
+tx d7ae73033311c1210394b147f7575556c8381bc45384ac0448fb1fd96dcd2225
+ t.io/feed/1GbmQEzydpwvzLtsFxxnLE
+
+tx d709b83b18d00900cbc5c796e5be772ed02f96b01a506fc8065e90f73b537018
+ t.io/feed/16QZY74h5PTVMriF7jbxJt
+
+tx d6b1e99c89833c5d078e6f18a3e6d9e7f0f7c56696cfc29cd18422ad60e335f1
+G t.io/feed/1KsaTzycuggeaasnM9vtaX
+
+tx 6c52c787e4c03162dc1ef5fb0f2976d92168dd9841d94a448a2c449718cdfd15
+ t.io/feed/1HuagqkqJaG57D7bt8s6W6
+
+tx 37d9c60d4f8a6bae1e08f3362b648c75b91ddfccbff8c8eecfd89883b639b4d7
+\ t.io/feed/1PYKNCrvYuBz7QZc7PW8ai
+
+tx d3818a3985f0fc2448c313f8a02cc8391ee5aa138b43ce0f935dd344137dfa36
+ t.io/feed/1NEzBAixhTV1kBzGixYZtb
+
+tx fc8444be4e0d24dbf4937a4169edce532da1e0b7106bc9693f03bdbf8fc38fe0
+ t.io/feed/1Q72PFdibrY7zhtYW3nLRy
+
+tx d24d2126bc139f7cdade48960ba80ed6913c4c668bc0fdd9371a071d37ab3924
+LJ t.io/feed/1BMn715ofYbZDiCCtK33pK
+
+tx d1e9bfcc63107fc2504232114de2717312f9a5812097efe8ae8a37ac0d851841
+= t.io/feed/1rhjGKzdvV5qNwRdL1Qi3H
+
+tx 683534667650986653666c1329911ee729604034b75611b13596d210028e8e6d
+ t.io/feed/1Nh2h413pdTJEPfDj1UsG9
+
+tx 67d02842eb8b69a8e164e0f1d8403c303ca37031b6da919c3171d871a284d124
+ t.io/feed/1NbtFJyr6AsavxZPrgFr5n
+
+tx cf1ba2f2efe63d07b972753a83ed413ff33aa76bbacd7ac6320a534b580023ed
+ t.io/feed/1J5kwrY5rDBbuZngoW9Svp
+
+tx cc88681b96483a2f216a395e5f99c5b537a37fcad13abc6c0652e10bcbacc84d
+Z t.io/feed/1GuyNKLxYBoFsLouLByt1n
+
+tx 09c082dcd27a850157c865e708ff58de948955a5888c380330e48e389aae7b3c
+ t.io/feed/1g11yHC4vEPGbyyX71uBXD
+
+tx 669f347cff01653134ffddcd4059fd29d7edf24ddb7556ecd7f24d88d535b18c
+y t.io/feed/1HViXZ85e6MjWxgc9aphfE
+
+tx cb006408415de1ef40bbb9e5f0ce2b61713edd062d87e6e619cc57a55f254454
+9d t.io/feed/1EM2cbc3T7eyp7HfaLUjjc
+
+tx 34c723c521fe783da92ecfc6a9cf6d73af444ccd44c8923136266fcdac034fed
+P t.io/feed/1JNiKsr3ENroXS5XzAcZcb
+
+tx 34ac0c6e6b5eff9cfb57268a2268364e2e6db6655176144587bae3f0da483851
+ t.io/feed/17bjoSrWsQZvBKDUoLzpot
+
+tx c7eef14269c69ddf1b8cbb3ca5f21d2f8c10893625d6858311a056218a8d8004
+ t.io/feed/1CMpFMzZtuQuN2yCEMQ58s
+
+tx 8107259cb6d86709f2de15cca3d18e1fcd38046e56afdc0813213a18945ae7a7
+P t.io/feed/1HrpFVX1WXwda2TNpkp2ds
+
+tx 623e03b12f2c97a1ce965c2a0e53199fe67112c12cfba0766129a6caa5780d0d
+ t.io/feed/1NtsHFvKHfRTMVKpfLGJ3J
+
+tx c5715155f53b63459565daa3d24a4c18529a1f54c783b3376990a43bf39e2994
+ t.io/feed/13iVbKyJeH9679gan4UbuN
+
+tx 61fdfbb03c0234fdc106cf1820820e4548cc1d3d378da2ab21d1ebde98e63355
+ t.io/feed/14W8gXtLMj5i2Aw28DptGD
+
+tx c50a22330ba31b716e30dcee962178c3fefb573d2d7429588a1521b0e0c53bd4
+Y t.io/feed/1MQBTyDoGAMqkcEuQPUtbn
+
+tx 616f8e4cb3bf6df5f60e49b826049963e591ca0a26e74503df0d48f3eb4d137f
+p t.io/feed/1QL5CsxaggL81NQUDWDy4f
+
+tx c2814a7ff29086f14ffa84d772f04936822a476dd02644dd3388f8559d58f623
+ t.io/feed/17E55KXjvXJwE4F2Y2kgpM
+
+tx 5ffe29e8b5ac62b05b1d042ad1a4ea90141e4d2dc05564e0d59f596f708b7e32
+ t.io/feed/1N3vQcu3iDL4M3Ty9Tiqp2
+
+tx c09fad55010b576045372413b9b0735f0a59d6e95d8ec121571bf8f2f5241f52
+ t.io/feed/12ZUwajNbBezjvxez3o6Pj
+
+tx 3123051ba0afd892c141e39393b3768b54c1e5bb35a17c50368952ab9ba35d91
+h@ t.io/feed/17AmSo4XMcQM6pxGHH1LAZ
+
+tx bdec192205cf16fd844297058a2fe03e9eae7ec9e5d4d25d779782b97e2d1bdb
+ t.io/feed/1GNSwEFxk72ZtVT9VKAkU3
+
+tx 30d4f7e3ab873d0ca174f67f91c9dab04da7433677d366251b2de86ff68542ee
+ t.io/feed/1DEHB876kcxb7AHSiQXDtj
+
+tx bc13b1a684364c874d9d66fc9e23b2f825a4554ddbb22dd8b209a48ab03c71df
+ t.io/feed/1JKDatkRe98t2oMDzGYJ4r
+
+tx 5db734304f8aa568cddc63b5c535b97962b1de89cb246119d60715d0dfdbcb68
+ t.io/feed/16jZ3sD1s7KaBzURVKvKcF
+
+tx 5d45a540f12fecacd2c05f6f18e888d9bdd36f9d34884bda428a09aee46cabea
+ t.io/feed/18th2bm93CZBoaTHs1eXn6
+
+tx bb43be508126bb30a90f5f994573018fda22d96a3dd17789d2271c8b790a167b
+ t.io/feed/1EVEuK6zVAtXmEFc4MiRDw
+
+tx ba52f4eebc92186d0c88a972303b0c7df92e1d0a70b16822f52033c525bbf7eb
+ t.io/feed/1KTaD171iEoQNnETvLtWkc
+
+tx 5ca6c7650d58d1dc1174df61a617f982a98b68a7de39933890d232fdc2212cc8
+j t.io/feed/1KfiBij3Mvfcqo9DfsSGev
+
+tx fe2dfdb03ff65d50a97573604e4787345f249e5b57d3a11603bb324f28d7e410
+ t.io/feed/1M7oKRwVwaHFxYvCs7mYxZ
+
+tx 5c36091139e5df4e5ed8ef33ccb04ea49ddb399e83f7cec722b778b8f68b357b
+ t.io/feed/1NyGDRDjvqWyr1yePSNzWE
+
+tx b750a6a54f5afc79fd490a0ad3b92d4239d9adde52464b9d9c31d5572577469e
+ t.io/feed/1FGPUvBefJeqdmnksxsPBL
+
+tx b6b26ab77eeedaec2d265074df4c2670c946190a83e499a4c0ffa1757d27b04d
+ t.io/feed/1PWBNnmKRenrWrwbrSem1B
+
+tx b59e1365e00a2706f5cecf8e40c9ec6a729b8107f0744866f00ef01ddf046209
+ t.io/feed/1HdUNPYK8xn16uknFtRyWE
+
+tx b555932007108349ec3b8af981b41d5c3c75f19483156cdda8f08450d13f7a45
+Z t.io/feed/1Mt8se4Qj8ynZtYxmzunBU
+
+tx b3090e7438f248677282466f5b86d06a2c0bd5b559a4a810fe339a1498418f2d
+ t.io/feed/1LRuVLwsZhqftxuupqE9kR
+
+tx b234a938044633164475a4b5a4dc69a9ee3426fd453f8439f8c1065563081793
+ t.io/feed/1Lv4S48UJx1M9h3jCD8odt
+
+tx b1fb9ec1a77b5f862f9522dde021c600178480d1207aa85e99efeb86a7dfb148
+ t.io/feed/17hGHg6jGXqpZ3anQWnJ3W
+
+tx 59493c4c013b6391bda10949677e6eb6b6d3972847d8175bfe3c661d20efa8af
+ t.io/feed/1Azp6Mf4KiFe2or5jex3gR
+
+tx b1bbcbf34660a5489dc38958c5a590ccaae06f6743e46e4a34ca1e41abb68226
+BT t.io/feed/1BZt36moYyLky9WLDB1NTN
+
+tx 2d46e3dfbe1d1042f0eae16fd6bcbbeec87c77b195b6056b1cef2fa51325db68
+p$ t.io/feed/17KXVbpywzF5bLWUtwsWqe
+
+tx 2ce84310a71a6cc894876e7dc9ea2db7380c376d169075cfdad3bd3cc99ef83f
+ t.io/feed/14FdFSSaG1DqeSWizrCA9y
+
+tx 13648191b51454773e24aadea9d8e5685f18b017cbd9ad68865f7c69fc0e08c3
+ t.io/feed/15SQuTiG1KKZG4jnaLuwwL
+
+tx ac63c1d8190dbaa199a3e55c9a2a161b77d34e91191a8c71c3c4efa08a1eefbf
+B t.io/feed/185NY54Ev1sWSLBKh6Yt8z
+
+tx a97a80baa0c7ea88bc75c3635316c8e92323b1c5c6647e70496682a4be0ba4b8
+ t.io/feed/1M8yFicqm4k6hoR9eK9S1Q
+
+tx 571e39e635599e77cf9c8964889ae2752c19cfb1499014a5b1c1758cc9d69c7e
+ t.io/feed/1Mef5RN8Lc2igEe7qZuG1t
+
+tx 2a8984f2a321d46914b791c3761840a351aca5b6c04b6c7d9c763424ce0d6ed1
+ t.io/feed/1KvdsCM4d5iJtgZud9dKfv
+
+tx 0796fa47f4c2100a00e5f92c725ae497ada31f66984d4dd77018f5925a667218
+ t.io/feed/1KmgKM4cBFHhYp6eZSxuHN
+
+tx 55fd2eb10a5eb82c5095d452a0a887f2663c0ee00d9d7e0f4053c7294c2ce94d
+ t.io/feed/17sM1pqeGtqgBBLrqZ466P
+
+tx 2a7cdf32d900d20560db9ca47f2bb19baee39cea99c25a544be32d316d652bc7
+ t.io/feed/1MDYqbEgszJxzWFHVupR5t
+
+tx a687cf2ec69d7bed4a93d13a95d29e70bf6a3d9835c43c218788299443e7ca14
+a t.io/feed/13cHaE3REs2TAHRUpSu8Ty
+
+tx 12b186e221d7fa1010eaf47642b8a055a7dd1048ef3879f1a9dcf25e30b7f3e2
+m t.io/feed/1AsG4vuN38jqyE64BbgZtQ
+
+tx 1232cebfccc758ed9332388e76a8e67ffc650aa7067a45623c8d2a9a7483ab6a
+ t.io/feed/13ysxVzWDrKZZD2NaSuoSV
+
+tx 78b4ca232c092302a9d288ff050bacddaeb615f4000f0aee98a729ffc8607075
+ t.io/feed/1LK3FL9HmFR1zq3YBqT8Lz
+
+tx 294c56cee88acfff89c62dc02af38059b80808eb15afc7852c603a51e37bef7a
+{ t.io/feed/12Xj8aef5XvbB3GsNca6Vu
+
+tx a06253e0964879fdd5153e59db86e3bb0819747f1239590e1cd5a3d72f197a1b
+ t.io/feed/12LgqfGV23QnsrwXTqZTUV
+
+tx 9e88294741452c1ea0fd6a8e73ab5dfe2928122d4886297b2ab13c84afcc2edf
+ t.io/feed/18bqw4yjP3BXSf6UCrzNPQ
+
+tx 50b6a5385ff371ab1c67a18c7805a3badaee5f65ced0c71a5397005dcbee1bbf
+sw_ t.io/feed/13AXadXTMeVWUfqQjdWFKr
+
+tx 27cc20bdf88e6ce57f008fd1797dd1ff9ccf1af964f9f4edc98b9f2292f91df7
+ t.io/feed/124UKHFYBEMw4Vrkp1z23W
+
+tx 5069fc3eabc84e74decc81d0b2f31cfeb63ff9cac3e662d2b8d30c55ba72719b
+~ t.io/feed/13Q4ATNEX6S4wyr9pfjJ1H
+
+tx 9b59a0f73ff7ccddfc6bbe71ff69c2a0bbfd0dfc7d14c81079e8048c8b59eb8e
+ t.io/feed/1K4LjP2xMm2FjQ4gBcsq4P
+
+tx 9af45177f0767bef99c25529fd7bdbce7a3587248404e3337a5db9c22feed020
+v t.io/feed/1AwDhqYejv8EwHyLK9jG9t
+
+tx 06efc52e7a82daa6ae0ebbdf780cdf116394079b52f30e2d8f48c7b90edb1f55
+4 t.io/feed/1o7m8YfXK4DFhHsqftwwWJ
+
+tx ec9ef87a76cf754359702821d42c2b4bccbf387cf9fdff697ff8eb0448349303
+ t.io/feed/15rUb9qyB9cgyi7NPdi2h1
+
+tx 00223fd5a4c59ce1b4389493cfb684e359e2effdc66083ec4c572d3bc8f89dbe
+X=?v t.io/feed/1JG5uKS95scu1R99Y9zVEq
+
+tx f8b72768f56bafd8d3d80c1845109795a5253b7931faa2164cf87d08a3837309
+j t.io/feed/15cBXF3NdCrj8CLVfzsozv
+
+tx 916e98f67be560724d1a89f7dfce1bd2c5590c3a07feb1a9907c20820d596d6a
+i t.io/feed/1E67rquMes5CaMb7ZJo6up
+
+tx 8fd814d570831558b3ff6c80ec7d6d6daf3284f48236ff9f692e78c3e469cff6
+5 t.io/feed/1CWaUB8uqqsA8BvzkumT95
+
+tx 06a3b3e0e6913efdee2d8acd47c91233d95351a5716d9121ccb12a96305ca30b
+P t.io/feed/1AY9A6n5gV9xmtE8F7bw8M
+
+tx 8f491a5847f79dfd230d3e6734f626b43d064d91a2111dc350bfffb27278cdc3
+ t.io/feed/18PshQjT9JKL8rGPcBzH1v
+
+tx 8eb86fab25ff9e23e8ce00e7db29587e621b054b0361e11e9906590bbc125ffc
+l t.io/feed/19TdDcpkyRnLFgVRSay8YW
+
+tx 22fd55469e082e76a2eacd4dba1b74a44998cf0a3432cd12878d0e47d7e56b54
+ t.io/feed/1EZiuNXjPbRjgKoTJVWSpJ
+
+tx 8baab417f3800d34ea8134c694cb3e812d3cf76d10752b0e206ffd431a4a48fb
+c t.io/feed/1DvLBu22wJKa2KpmFsSxUU
+
+tx 43c4b9c29d3a34a5003beeb760c573be24894835df788926e06c2c0ee2901515
+3 t.io/feed/1P7KG5WVShU2P7r2hSt8Eq
+
+tx 87181236f1955080a69ed8b6bf19ba688b4a263f631f73f85f91d95dd684ebb8
+ t.io/feed/1PR3wPeAJ696VQfiUcX6Ws
+
+tx 8625333d84db43006d9f39eab0ba00b531665c18ae007be730592ec0c4e4abd3
+ t.io/feed/16UGxq4iTR8ssLmSM1tZHn
+
+tx 85018cc36ecff0614ecc3563efae2f4bc20c121fc244d6c70177a9a8855ff5a6
+ t.io/feed/1EoXwhfC8MqbER3q4HgsBQ
+
+tx 0d61cd1a7f6543d2e2d53300e9572f28be4526ace4cbfa74f21e68933d28b66f
+ t.io/feed/1PA3Zu2LDWEefLrGwYxpRK
+
+tx f44653874f48bdd784535effe3c48df6cd8147cc984c8cb77dba1c1c65ec89fe
+ t.io/feed/1Dd8Dnjq98hLUJnBcnqGMf
+
+tx 7ae6218884886d9dfacc045fd637536be8cdce3afcaa59d11d5e1c90718dc8ce
+ t.io/feed/1294M8fP6SFZ7ocdy5HePR
+
+tx 79404d4f73c754bec90678c09ca20f3d234da6e613543d427cd2a494769cc069
+U t.io/feed/1FfM6gDqXBbwNvuyEiCKHc
+
+tx f10c4a79c8d73ba8a0c25cd5f8266f70c6f106681841e3c23fc4da95e6b97aee
+] t.io/feed/12guNcue7GvQFvM1Gzqzsn
+
+tx 3dc582eee3e049a2438fcf5026ef399fd110f214d49236be1a1300fa05f18f60
+g t.io/feed/1AwTtmhqxSsBiqmb39iS5a
+
+tx 40f2a29d55aa337e527f24ebe350c4eb684e44c34b670689852d0d6f5fd9eb2a
+ t.io/feed/1NNUzVHgMpSX3seU9e71Yt
+
+tx 77f81a9cbea97d44cb18cc2febbb85dcefa1adbe7714be5fc92f35224061b57d
+ t.io/feed/1EKCf75Rq2mkFx4YvtXP94
+
+tx ed900ef339b6e239ee6489a410097c9c35eda384fc419d242fcb5add1eb94402
+ t.io/feed/1FgzENCLc3WNzgop5L657r
+
+tx 4024815e8109669573c8bd991fd314ec46e1c135464d8243d6b0a12355e569e8
+ t.io/feed/1DV3aKJ6yQTUbTKdGdcsCH
+
+tx 3d04dbe0de1fe4d9aecf8ff698fcd0ff9fdb5286b06720781c02460852dec361
+U t.io/feed/1LSzcUUs74uiboTGZYLojF
+
+tx 1b5a5aa2adb5c206cc4c70453de1b9a858cbc1e1bf086c72e4a2dd499891aca5
+ t.io/feed/128qmB2wsSjqzBQFaeN1ki
+
+tx ebe9b2eac2dc3606894c073ae698708716cbf31391eb43c8d80a761b186c852b
+b t.io/feed/16qBB1ZCX6yT98LtiW1rD7
+
+tx eaa8a1412de602717ef05202b891c6c66679a5be090e6a11f713d551dcfe9c13
+ t.io/feed/13yFpUQF39a9CH7jtzNSqa
+
+tx f7ad6388872003897e586077add3485f63c4cb049aabee03f2d0c5cfe975221c
+ t.io/feed/1FF5oGP2xQzJ9NtDtomFju
+
+tx 3c9bec7c4383b32c65009a09ef4c9d953c2b422709282d705d0c0aee9ede6d95
+ t.io/feed/1PwKHW1HLA2NmmCd85pY3x
+
+tx 7534b59f210c361a494244d0e5dee2859131b5031cfd0d0bd03fc681df9eff6e
+; t.io/feed/19d6SvxozzKNPTA1RJ2x4H
+
+tx e808c58948fdc0a344a24c8fb7fc408fa95cceab14e9d4abc58dcf31fd9f53bb
+hW t.io/feed/1HSHwN6riEjz6gcnDLtiGH
+
+tx e7a1c2bac92301e878288ebac8c0d1fc1faf722e6e7a3f5b8ae4425441d85085
+ t.io/feed/128r8rsrjs5cmB3HcqKuiz
+
+tx 7494fcf46be51d6a3e4d7a98ba36133768475aabbbc53eb0a0feab2893570f80
+ t.io/feed/19s42e6CYD9zcVdkyJWCDU
+
+tx 0bdead0247aefc96ae637fec38ddb4f08202382078fb14da731ba9b1a86f0f9a
+ t.io/feed/15Ky8ouYJVmhUTAFiH1qnw
+
+tx e454c406a2b7d4d4c24670a043969e9a171502d60aa1a7202f1e759ea56914e1
+ t.io/feed/1BMsJQGxV9d9bpTjKFzLpu
+
+tx 738ebad98d2bf8bf21cadf9a03638ff1cb4dace79307d3b354305b9c2fa2a938
+ t.io/feed/1KYbaQeGDg9f7AkTamPVnr
+
+tx e23d4cd98cf32b8c56e0c4639ba42f530b6d0898ea1cdf0b1a20c4e339eb418a
+-< t.io/feed/1PERJM3zdFvcacFGrQf9K4
+
+tx 0303449cb308c998a8d9fabdd360a6c8166003d3f57efbb2dec808642c37b8dd
+ t.io/feed/1D1Puw3LXe96aZxkZzQRKC
+
+tx 0b8c3787bef2ebedbcf5057e2bc6120e797ab5347e587ce5c966c3598b9c5c67
+^SUS+ t.io/feed/14DELTYLtGBXX6hKrLX7Pu
+
+tx 70d8d29ca5e7b1f73b0e2be5d832b83ef1dedbbe40d19f196556fbc3cebc9d05
+. t.io/feed/1CjJVmkw4JM7Ln23sono24
+
+tx 394df7b3f27c60d35d1a259e7f3dfe9f0c8cfe96a96104d601feafc859a96ce0
+ t.io/feed/13pA9JCS3mmFA2JRbLPKqL
+
+tx ddde61f85f6285e2854970d1c2c377914d97f7e4a81042be82d248491f2f1ffd
+ t.io/feed/1D5sjxqw9yJttgbH5NZkiJ
+
+tx c0f71ab39cbbbdbc42e0ede48fd58fe5c290ae6feedee2eab809829f06f8b1cf
+k|Punsuccessful double-spend attempt
+
+tx 597f5efe94f13d19f19a4115d6320f5cd36d0e30665843350e1a52b818f839ea
+T)hybridassets.info -- STOR
+
+tx 030f361c64cb58783fc230c269b9f5121ab86eb470e95a74d509e1c362a5c32c
+A test of LTBcoin distrib
+
+tx 4e76975929945678922d9ad4ed80f2f18c594cf4bd7b61ca716c044db67d7bef
+Xunsuccessful double-spend attempt
+
+tx 8380271cfb55c6f89d2a4307f9c81cb18063125f27fdaaf6fe65705832bd4306
+Chris Webby - Chilly{
+
+tx 6be3c9fc44bdd9a325e54fafd83280c9a3a58dc34f0e5780636de347361dce24
+]u=https://cpr.sm/Yi6KfG4z8o
+
+tx 0a8b9a7bde9ffea37889b7b0581cfc8036ae40247b8d8780d31b3ae8abf5df9c
+ju=https://cpr.sm/w170aoN-qC
+
+tx cb22be3f337209f1ec65c4eae53859ab8ac868c540f4a0844cc01f1d3da12ad6
+&BM-2cUbuWUC89A23JGZQHQfHub3f6DJU1JXSt***
+
+tx 2e14178afef96e16c43cbd5dd0d58fb98fe6a46242756cb3102ba08c2861b8a7
+Check sebuh.com for detai
+
+tx a6060895269d0d3e754128af7dddaeeab7dc59296e8f774dbe8f0a0ec8a2a5db
+T)hybridassets.info -- STOR
+
+tx d617eacb3ec18883d9372566172b63969876df0db40c6574bdf53427d1203efb
+dVisual Artist. TROPZILLA.
+
+tx c99712b11468c145daa58cf1da1a4d042f86ec7d206ec02a141a2342c22c7893
+u=https://cpr.sm/oXcvD1frRQ
+
+tx cdd562c9c2ab0428483319ecdb59efbf7d6d45fa57488f4292a58fe395980b71
+QZgu=https://cpr.sm/G7SQYKJXA9
+
+tx e578beb039706e1dc94bee4c9d1e068c0e2850fb2127f5d76512e8cc859947ad
+E t.io/feed/1BRUvqpqg7WJmEYsFYuyDK
+
+tx ce73269d0a23f8251c654ad8851e58eda0ec3c8e07b10ba24cbf3f7f7da4ed35
+ UH Will be shipping out all mine
+
+tx 9c4bd675451f1a5de51fe989cec9da229b6711fbfbf1371eceed5345b3772e29
+unsuccessful double-spend attempt
+
+tx 966504bd369b3e9c091be3a13e1c7b3a4433c9492cad5f31656356fd5a273385
+unsuccessful double-spend attempt
+
+tx fdceeab2b1cde1b04910035215d2568545e7865a2a196b3f8f5bfb2fdaa6bf06
+Aunsuccessful double-spend attempt
+
+tx 219a42aa96c50dac7eaad0be5d95104f2cb284785ba4e19212958f0b9ceb54a3
+CJunsuccessful double-spend attempt
+
+tx f19d5ddc6b0cc7e41b9974c902f933a3a25ae79b0dc4cf9cd59ec33a5f025436
+unsuccessful double-spend attempt
+
+tx d3676a0a975fdac1c826ff21ae6c9a3104540675ac793ca6d86a65382698de1c
+KU\unsuccessful double-spend attempt
+
+tx 6e60f249cb084807f1c4db3e10ac94c7dbdbae26d66aaf6e27f6c1756535a3e5
+unsuccessful double-spend attempt
+
+tx 6c58b14c2700e1cfadbebf50641adc442e6c5fe4ce681356101cbe95b27824e1
+unsuccessful double-spend attempt
+
+tx 397845b9f34f11f480729bbb748eb4280e7bcceb1a37d5cead35ea5d6b75ab10
+#DOW Jones Industrial Aver
+
+tx f9a6406e8d23d8b624fc8a4e0ec9e6b2994a283fcdbc03f3f5856810ab598e60
+Microsoft Corporation sha
+
+tx bdc234f2ae05386e1ffdd22541983500a9d9c9f36ac3c77167942f74cb463793
+}u=https://cpr.sm/UbUvgjMCaO
+
+tx c7abf305a1d561bb4bd61af7f4e13aea143f7473b614178d9f1513a2ba0590cc
+ t.io/feed/18kpWqxCg5SxUpnqMgd1CB
+
+tx ab91492d17a4c07737d884fbafb8b01a099190c88f4d36375f42d32d3252f157
+unsuccessful double-spend attempt
+
+tx 4848aaa2fc0c308878b92fb15f8338dd65969381ec9c031dafdfe5f66a20caeb
+unsuccessful double-spend attempt
+
+tx f445cfa9d5ddb04c6d831f807c7b1dc44e12da5ad2e6dac542edd7127be51562
+unsuccessful double-spend attempt
+
+tx 9fe9a5c45aa1725c80786e5dd88cef24a0635f795af8fd0166dd8f267da5d8f1
+ t.io/feed/1J3W5WYa9f47hU4hRhPnoN
+
+tx 6b5ace7d4ccc7daadb408d4adec838b7aa507f5e03a95511afb2ed556ddd7f3d
+unsuccessful double-spend attempt
+
+tx 91c1bad26273243d413a3dc5c290cb89c4ce12146be6e6bda0fc9df416e455b8
+unsuccessful double-spend attempt
+
+tx 50b36998092e8b05e26c6b6fef818ed5a805e68be1ad4f7e705cead3e32d1091
+ t.io/feed/1F6qFqPmHD6L1bW2ZSbFvb
+
+tx 460f2b979c9078f0ff9552994aaaec985be858a27052bce06eece8d792eac16c
+sunsuccessful double-spend attempt
+
+tx 4000e850908e0bdd3241376b3242c56326a78a7dff6a5376a62f7d4889a99e24
+}u=http://bit.ly/1ljf175
+
+tx 235fca8dab0af85eccf168bb7ea8550d83bdef020148c70ad6153870806c9013
+unsuccessful double-spend attempt
+
+tx 0dd41354942cf335dc0622b8deeeae51f860540815a69e35fbfc529dd752aea1
+}u=http://bit.ly/1ljf175
+
+tx dcd731c8c9c11c641f070270fb73988d752d61a7d824e47ddd238fd7549616d7
+punsuccessful double-spend attempt
+
+tx 7b3e836608486b5523e21501bf88a456e617591da57abaebd00a267fbe7bed0d
+g0unsuccessful double-spend attempt
+
+tx c7153eb202a1e1ef544a32656cf5dade02efb279d55eb59eee9f97ef80117d7e
+5hT/R]N unsuccessful double-spend attempt
+
+tx 68ec16873f7a59cc32daf77cd0b4051a8df842d2604d46c9aecfa75fae0a7039
+Qunsuccessful double-spend attempt
+
+tx 746e20ab8c36a01b771b3989f3e8d08ac8c5a6c660b7f419fc827aeadccb155a
+unsuccessful double-spend attempt
+
+tx 107f7f1e9df2f04f870e9a4bd5af81ccafca0037809622628a83d2aebcd4a8fe
+R0!n1unsuccessful double-spend attempt
+
+tx 92a3180f8c036cc3d4629df7a36a26232bff7fd865fede5b24b6a194f4aa3c26
+]unsuccessful double-spend attempt
+
+tx b7b8cce74e242264d6fc06f6dc5dbd1bc95c1cb3c7dbf8e551d9ea6df41e8756
+unsuccessful double-spend attempt
+
+tx e30c1a945ba40a9474405cd66f575729b685ef3bb92f9acf063db33cfc8c3766
+unsuccessful double-spend attempt
+
+tx b7ddaa38039738f2644a8305c66ac3be1d9a411473a88ac278f13abc00e9efb5
+unsuccessful double-spend attempt
+
+tx d6fa566c52ab6db45f9511807318bf99b15862b9687bea6231e21ffb8fbd15ae
+unsuccessful double-spend attempt
+
+tx e004a4633056481a012fc97a323cb7666f81b85c819503f97dd5615176f45f4a
+$unsuccessful double-spend attempt
+
+tx 87f87df7a7430ec93a4e9d53c170f6939183fc0eb552c56d8790c42c707b8825
+Wq?unsuccessful double-spend attempt
+
+tx 6dbde307fce333d3c6caaf740bb6c3c5301f3b79c6c8d81f8307edaebaaba7c3
+unsuccessful double-spend attempt
+
+tx cb82d4c7e8b34a6aa7f254796256cb21b4eecb2a6f5c52559573d9bf62a04ce1
+2unsuccessful double-spend attempt
+
+tx 1caffbd97041c0ea8f08b0d79f33cac63d70408dadb1937abf6e1b453fd380b4
+m\:unsuccessful double-spend attempt
+
+tx dbe354124203b8d9559e28323007a6a0d0316dede8292da86b7cbfadea18feff
+eunsuccessful double-spend attempt
+
+tx 16eb339a5bcd0aff24c79e8ac88a52d5e1cb382f0472a9526ad6bf5b72dbcf4c
+0unsuccessful double-spend attempt
+
+tx e57d458380193a77d33adf888e46cf712948f94d21d2ee24cdfea2fe1ccb22ef
+unsuccessful double-spend attempt
+
+tx b40045a7bc1d1f3a405d26bf4e0b1fae2bdc5068d31461f88c9396623bc10c2c
+Ybunsuccessful double-spend attempt
+
+tx 3f8ecf27fe30193523dbaa7770213f39674cab9d27774cb5106e9bc242ce925c
+unsuccessful double-spend attempt
+
+tx fdb67e0907d9fdd2dcee2b18fdbbb1a3de1a5c719511d22c6cead01e7eb6dad4
+funsuccessful double-spend attempt
+
+tx 4373b97e4525be4c2f4b491be9f14ac2b106ba521587dad8f134040d16ff73af
+ <script type='text/javascript'>document.write('<img src='http://www.trollbot.org/xss-blockchain-detector.php?href=' + location.href + ''>');</script> 
+
+tx a165c82cf21a6bae54dde98b7e00ab43b695debb59dfe7d279ac0c59d6043e24
+ <script type='text/javascript'>document.write('<img src=\'http://www.trollbot.org/xss-blockchain-detector.php?bc=btc&href=' + location.href + '\'>');</script> 
+
+tx 74ea4a980c4b176c927db1525501b8e17508f08d47ee7b06d7a6ac4b1e541593
+` t.io/feed/1Pfk5DiEV3usuCwtjbdojM
+
+tx ec0b090260401c960f517d5074e41197040b75cbf706dbc8b00693ecb92dea85
+5unsuccessful double-spend attempt
+
+tx 5ba4bafa0936ad9962966c7e00cde9894f52c1dae1ef99980d9d3739ae9f84ec
+u=https://cpr.sm/6j6V4rMuCq
+
+tx 0ba51eeba2c6a26cbf339104556315658d362dbb0770582aba333ab8c34f1a03
+m t.io/feed/1BNaWZDvuorU67dzraj4Q2
+
+tx e9c53222dbc565ad3eec403720ba1278e01538fa4d0c16d713aff588343545be
+unsuccessful double-spend attempt
+
+tx e66d6e1927adc8379163e720716145ddf8a1d7ea9740edfe302a86dc74fc3d7b
+q3unsuccessful double-spend attempt
+
+tx 581843ae324295f2d22b82a2fd3663842d20beafde3064d0d6f38c5bea45a63d
+Eunsuccessful double-spend attempt
+
+tx cd3eef765efd787778534314cf26959331c69098497da271975e8b52ac62e59f
+(unsuccessful double-spend attempt
+
+tx 005e5a5d59dbd5caf360adff4f3ae46c3444c37f362eff4b08efae1ea513abb2
+gm t.io/feed/17wSvfyNTXHXhkjG3xo9Am
+
+tx 7c065af85cd169f9eaf2a9868359a6f0240409ae7e8a7247b2403990e80a5196
+4sf t.io/feed/16BxmnZrL7vmaksfTEmAP5
+
+tx e927a4d19e4a0050f8628d83ed476f727d2de35603b997713dcaeaf2a5aaa09e
+&{ "image": "http://sebuh.
+
+tx 23c0bfce2121e52883e16adb66998cd7f509e7e3c949fe7ce670696c2b9daba5
+sebuh.com for details
+
+tx 90f19b56dc53a6c3ce8b7b294c43a5cbcb55cbd04918e33c6962222b145cc112
+unsuccessful double-spend attempt
+
+tx 73c0aa3b1ff7ed4bc629bbe1d54845d3dc919a62cd88a4b230c11700fe4c7ddc
+~unsuccessful double-spend attempt
+
+tx b9444b783f6930cfd19d98ebbc6a6626bd348f3c7b7b722cc6de02adb4085b20
+Nunsuccessful double-spend attempt
+
+tx 505399cf130eac4d672c29fb17d28498c8bb46164f226fcd9dd5d36f48a40931
+unsuccessful double-spend attempt
+
+tx 58e54efb844bb6e7058571b377f08390e606fb24dfd06c573f5738480c8bf879
+unsuccessful double-spend attempt
+
+tx c414ce0b108e88cc1384f77bd1de5598aa2ed47944c6207b10d552e4192e0cb1
+unsuccessful double-spend attempt

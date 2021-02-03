@@ -1,0 +1,32 @@
+tx c65a0df77a5548ae2f7901c2d63104b311aed31d456f648d2a2a6992a37699c4
+Message: Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message Test Message 
+
+tx f815944ae99231dc568691bd5a5da8a2b92fd9f9920204936b49a5fd271c01e9
+Message: This Message Is actually Embedded In The Blockchain
+
+tx 3d29f43a3278281192943276049c15e5f0d8c7e75d4d99a4cd6693113a948f48
+Message: Thank You For The Bug Report - piuk
+
+tx 07a16b5a5e3bb8724ebc7ef6e1514a77e39b4d25993d53a1928af875638d467b
+Message: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Message: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
+
+tx b57168c6b9bafe1a7a14ffdd3e4069d88e77f5ef41b931d25205b96c309526cf
+Message: This is a test message.
+
+tx 5d8403451c6313c0e9f41746af8a86a8929c331f1e01331726fad9166a07ba7a
+Message: This Is A Test Message.
+
+tx 55b3cecc1dd1d14ee5c7aa9771aedf7439c02541baa0501dcb40903bc13a81c5
+Message: Have you tried blockchain.info's new messaging service?
+
+tx 004c35f34c629bcf27d7ca37e4aaf8ef7633dce70c865eb9ece2ae7d3c3309b4
+Message: Testing... is this thing on? 8d9968c8c7fff534f1696d8473f674917556959a
+
+tx ef4bcadfbcb8c3a7c734ce957b5078d760229b93be41091918c2b1e18bd09807
+Message: Well I guess that's one way to do it. Why can't the qt client be this nice? For anyone strings-ing the blockchaA elections soon.
+
+tx 49c22f63beb61811ab87b6bfd0b04335e5684bea89d2760213e1f650853cb6f1
+AMessage: http://i.imgur.com/sZ8d0.jpg
+
+tx d37e9d75ea61dd3f019626f077d74081bca0e80336ae9263cb362c094444c075
+|Message: BitcoinPara.de Dividendenzahlung 1 vom 07.09.2012

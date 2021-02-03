@@ -1,0 +1,1694 @@
+= Bitcoin blockchain ASCII strings with transaction IDs
+:idprefix:
+:idseparator: -
+:nofooter:
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc-title:
+:toc: macro
+:toclevels: 6
+
+A dump of printable ASCII strings of length 20 or greater found in the Bitcoin Blockchain with <<transaction-id-added-before-ascii-strings-in-the-transaction,transaction IDs>> and <<deterministic-output-ordered-by-block-height,deterministic ordering>>, and some other heuristic data indexes.
+
+A selection of interesting content is being published at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
+
+toc::[]
+
+== Data showcase
+
+== How the data is organized
+
+The Bitcon blockchain is composed of a linear list of blocks, each containing a list confirmed transactions.
+
+Each of our files corresponds to 1000 blocks, e.g.:
+
+* link:data/in/0000.txt[]
+* link:data/in/0001.txt[]
+* link:data/in/0002.txt[]
+
+and so on.
+
+Those files in particular are however empty, because there were no ASCII encoded data in them. Such empty files basically never happen on the modern blockchain where spam is constant, only in the very early days.
+
+The mining difficulty is recalibrated every two weeks such that each block will take about 10 minutes to mine. Therefore 1000 blocks corresponds to about 7 days of real time approximately.
+
+Each transaction has <<classify-input-and-output-transactions,inputs and outputs>>. Strings found in the inputs are kept under link:data/in[], and strings found in the outputs are kept under link:data/out[], e.g.:
+
+* link:data/out/0000.txt[]
+* link:data/out/0001.txt[]
+* link:data/out/0002.txt[]
+
+Within each txt file, each ASCII string is preceeded by the ID of the transaction it appears in. For example, under: link:data/in/0139.txt[] we see:
+
+....
+tx ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b
+Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.
+
+tx 23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94
+***************************************************
+....
+
+which means that there were two transactions:
+
+* the first with ID `ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b` and content `Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.`
+* the second with ID `23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94` and content `+***************************************************+`
+
+== How to view the ASCII data
+
+You could click on the files one by one on the web UI: <<index-of-data-files>>, e.g. link:data/in/0132.txt[], but it is going to get tiresome.
+
+More practically therefore you can do:
+
+....
+git clone https://github.com/cirosantilli/bitcoin-strings-with-txid
+cd bitcoin-strings-with-txid
+tail -n+1 data/in/* data/out/* | less
+....
+
+However, the majority of data in the blockchain, like everywhere else in the interent, is crap, especially after a its https://en.wikipedia.org/wiki/Eternal_September[Eternal September] started.
+
+To try and filter some of the spam, see: <<data-mining-hacks>>.
+
+== Data mining hacks
+
+The huge majority of ASCII messages in the blockchain are automated miner messages, therefore the first thing is to look into outputs only: <<classify-input-and-output-transactions>>.
+
+Longer lines tend to be more interesting than shorter ones, especially for miner messages:
+
+....
+awk 'length>63' data/in/* | grep -Ev '^tx ' | less
+awk 'length>63' data/out/* | grep -Ev '^tx ' | less
+....
+
+64 bytes notably catches ASCII encodings of other hashes found in indexes.
+
+This helps cut some miner noise as well:
+
+....
+./mine.sh data/out/* | less
+....
+
+Split up transactions into separate files, and view the largest transactions:
+
+....
+mkdir -p tmp/csplit/out
+cd data/out
+for f in *; do csplit --prefix ../../tmp/csplit/out/${f%.txt}_ $f '/^tx /' '{*}'; done
+cd ../../tmp/csplit/out
+ls -S | xargs cat | less
+....
+
+Scrolling through this is a reasonable approach to find large ASCII arts.
+
+We can also try by newline count:
+
+....
+ls | xargs wc | sort -nk1 | grep -v total | awk '{print $4}' | xargs cat
+....
+
+== Indexes
+
+Besides link:data/in[] and link:data/out[], the link:data[] also contains some files which index some other interesting stuff besides ASCII strings.
+
+Since we are already going to all this trouble to properly index the ASCII strings, this comes basically for free.
+
+=== Image indexing
+
+The following files index all transactions such that the very start of their script constants matches known file signatures:
+
+* link:data/jpeg[]: `FFD8FF`
+* link:data/png[]: `89504E470D0A1A0A`
+
+All those possible indexed images can be quickly downloaded from https://blockchain.info[] without the need to download the entire blockchain yourself with link:download_tx_consts.py[]:
+
+....
+python -m pip install --user -r requirements.txt
+./download_tx_consts.py --images-all
+xdg-open data/bin/<txid>.jpg
+....
+
+Many of the indexed transactions are just coincidences that start with the signature bytes, but are not actually images.
+
+But there aren't that many hits total, and it is easy to go over all of them very quickly with an image viewer like `eog` to find the actual images.
+
+You can also get the raw bytes for any transaction, including e.g. images with link:download_tx_consts.py[]. E.g. to get Tankman:
+
+....
+./download_tx_consts.py ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e
+mv ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.bin tankman.jpg
+....
+
+This feature is similar to https://cryptograffiti.info[] but they apparently are tracking only the Bitcoin Cash fork of Bitcoin Core, which is much less popular and therefore less interesting as of 2021.
+
+==== satoshi_uploader
+
+Data uploaded in the format of https://cirosantilli.com/satoshi-uploader
+
+Index at: link:data/satoshi_uploader[]
+
+Download all with:
+
+....
+./download_tx_consts.py --satoshi-all
+file data/bin/<txid>.bin
+....
+
+tx 8f3b90d8de36b424a0afd51dee41d439b364079967ebf161302aa7b5a9094711 block 234011 is the last cables leak file, everything that comes before that belongs to the initial upload surge and has been fully understood.
+
+==== atomsea
+
+Data uploaded in the format of https://cirosantilli.com/atomsea-embii
+
+Index at: link:data/atomsea[]
+
+For each ID there, you can see the upload at: `http://bitfossil.org/<txid>/`, e.g. the second one ever is the "I WONDER WHAT HISTORY WILL THINK ABOUT THESE FIRST FEW BUGS" message: http://bitfossil.org/c9d1363ea517cd463950f83168ce8242ef917d99cd6518995bd1af927d335828/
+
+A clickable list can be found at: <<atomsea-index>>.
+
+Open all on the browser at once https://unix.stackexchange.com/questions/17659/opening-multiple-urls-from-a-text-file-as-different-tabs-in-firefox-chrome !!!
+
+....
+sed -r 's/^/* http:\/\/bitfossil.org\//' data/atomsea | xargs chromium-browser --new-tab
+....
+
+TODO: noticed half way that stuff like http://bitfossil.org/747f5038e954a53e947b71c1b5f3a7c61c854fc310247ac79359f099b07a19b1/index.htm was missed and got lazy to path. Payload bytes on wire are:
+
+....
+00000000  53 49 47 7c 30 30 30 30  30 38 38 3f 48 39 67 56  |SIG|0000088?H9gV|
+00000010  75 67 4b 33 6a 4e 4f 67  5a 44 38 57 43 46 4d 63  |ugK3jNOgZD8WCFMc|
+00000020  61 56 74 76 51 76 4e 36  69 2f 57 62 6e 66 68 6a  |aVtvQvN6i/Wbnfhj|
+00000030  42 4e 70 7a 62 6b 47 68  47 5a 4e 68 4b 36 72 6b  |BNpzbkGhGZNhK6rk|
+00000040  2b 76 45 38 52 4d 68 73  32 61 64 74 32 51 34 57  |+vE8RMhs2adt2Q4W|
+00000050  63 35 79 78 63 34 43 49  64 37 51 66 6a 64 5a 54  |c5yxc4CId7QfjdZT|
+00000060  4e 65 6f 3d 3f 30 30 30  30 30 30 30 30 30 30 30  |Neo=?00000000000|
+00000070  30 30 30 30 30 33 31 3e  23 65 6d 62 69 69 20 26  |0000031>#embii &|
+00000080  20 23 50 61 79 75 20 41  74 20 23 4d 61 7a 61 20  | #Payu At #Maza |
+00000090  43 65 6e 74 72 61 6c 4c  4e 4b 3e 30 30 30 30 30  |CentralLNK>00000|
+000000a0  30 30 30 30 30 30 30 30  30 30 30 36 36 3c 37 65  |0000000000066<7e|
+000000b0  32 34 64 37 38 65 34 65  61 34 33 64 62 64 30 64  |24d78e4ea43dbd0d|
+000000c0  34 36 36 62 62 61 34 32  9e 39 20 68 a1 cd 6a ea  |466bba42.9 h..j.|
+000000d0  95 01 2b fa aa 8e c0 72  1a b6 2a 8c 38 39 63 37  |..+....r..*.89c7|
+000000e0  32 31 62 39 61 61 30 32  36 38 63 35 37 39 36 36  |21b9aa0268c57966|
+000000f0  31 34 66 36 39 61 30 34  35 37 33 31 33 62 37 31  |14f69a0457313b71|
+00000100  65 31 0d 0a 65 6d 62 69  69 20 26 20 50 61 79 75  |e1..embii & Payu|
+00000110  20 61 74 20 4d 61 7a 61  20 43 65 6e 74 72 61 6c  | at Maza Central|
+00000120  2e 6a 70 67 22 30 31 33  31 32 30 2f ff d8 ff e0  |.jpg"013120/....|
+00000130  00 10 4a 46 49 46 00 01  01 01 00 c0 00 c0 00 00  |..JFIF..........|
+....
+
+Here's one with photo: http://bitfossil.org/5d6e26df7030a3d719b4c203334d045a5f73fdba1f2627cebf3959a891d5463c/ on the wire:
+
+....
+00000000  53 49 47 5c 30 30 30 30  30 38 38 2a 49 47 54 69  |SIG\0000088*IGTi|
+00000010  75 6d 6e 36 51 61 66 63  41 44 73 79 35 6d 2f 44  |umn6QafcADsy5m/D|
+00000020  37 68 48 37 4f 6f 5a 54  6a 6a 33 48 51 37 32 6b  |7hH7OoZTjj3HQ72k|
+00000030  53 71 72 4e 4c 76 69 36  4b 63 30 2b 43 74 33 30  |SqrNLvi6Kc0+Ct30|
+00000040  34 75 56 6a 78 49 39 75  63 6c 45 64 6e 52 5a 67  |4uVjxI9uclEdnRZg|
+00000050  72 58 62 36 49 63 6e 34  6f 5a 61 50 64 77 62 30  |rXb6Icn4oZaPdwb0|
+00000060  37 7a 59 3d 22 30 30 30  30 30 30 30 30 30 30 30  |7zY="00000000000|
+00000070  30 30 30 30 30 30 36 7c  23 65 6d 62 69 69 4c 4e  |0000006|#embiiLN|
+00000080  4b 3c 30 30 30 30 30 30  30 30 30 30 1b d2 40 ea  |K<0000000000..@.|
+00000090  75 fb e3 d7 6c ab 7c a5  28 73 92 4a 80 98 97 87  |u...l.|.(s.J....|
+000000a0  30 30 30 30 30 30 30 30  30 30 31 33 32 3e 35 62  |0000000000132>5b|
+000000b0  66 64 36 65 61 62 32 64  66 32 65 62 36 31 35 64  |fd6eab2df2eb615d|
+000000c0  64 37 32 31 37 32 34 30  38 65 30 32 65 30 37 66  |d72172408e02e07f|
+000000d0  64 64 62 61 32 66 30 30  66 65 64 39 62 38 30 63  |ddba2f00fed9b80c|
+000000e0  64 36 36 63 30 62 31 31  35 65 65 30 33 64 0d 0a  |d66c0b115ee03d..|
+000000f0  62 33 39 61 35 66 38 38  39 32 63 35 35 61 32 66  |b39a5f8892c55a2f|
+00000100  33 66 66 31 38 36 38 30  32 31 64 38 61 33 66 33  |3ff1868021d8a3f3|
+00000110  39 61 39 35 38 33 36 66  33 39 65 62 62 36 38 36  |9a95836f39ebb686|
+00000120  62 33 32 61 39 63 65 61  31 64 65 66 33 31 66 36  |b32a9cea1def31f6|
+00000130  0d 0a 23 23 23 23 23 23  23 23 23 23 23 23 23 00  |..#############.|
+00000140  65 6d 62 69 69 23 23 23  23 23 23 23 23 23 23 23  |embii###########|
+00000150  23 23 23 23 40 b2 26 63  82 39 e1 7a 40 75 78 16  |####@.&c.9.z@ux.|
+00000160  ac 5e 45 b5 17 d3 4b 23  8d b9 67 69 15 86 d1 93  |.^E...K#..gi....|
+00000170  77 0e 91 6d 8c b9 47 5d  41 18 09 49              |w..m..G]A..I|
+....
+
+All of those can be easily found however with:
+
+....
+grep -Er '^SIG\b' -B1 | grep txt-tx | grep -Ff data/atomsea -v | awk '{print "http://bitfossil.org/" $2}' # | xargs chromium-browser --new-tab
+....
+
+This might be due to the addition of signatures at some point: http://bitfossil.org/7e79661bde52d5acbb746a2e813c738a2b962b972299ffc0669428dee04d0378/ "Just imported my profile and signature into a new #Apertus 0.3.3 client. #Groovy"
+
+They seem to have added signatures in a way that they are backwards compatible, e.g.:
+
+* http://bitfossil.org/9777d574716081a3fc25ea66590cb9d8b171b4c180cad3dc1a16997263207b6c/
+* http://bitfossil.org/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/
+
+both reuse the same data.
+
+=== invalid_tx
+
+link:data/invalid_tx[] contains a list of transaction output with invalid scripts, relatd: https://github.com/bitcoin/bitcoin/issues/320[].
+
+First one tx  ebc9fa1196a59e192352d76c0f6e73167046b9d37b8302b6bb6968dfd279b767 block 265458.
+
+=== known_op_signatures
+
+At link:data/known_op_signatures.json[] we are indexing some other interesting stuff in that database.
+
+....
+[
+  {
+    "count": 5,
+    "ioidx": 0,
+    "sig": [
+      "OP_DUP",
+      "OP_HASH160",
+      null,
+      "OP_EQUALVERIFY",
+      "OP_CHECKSIG"
+    ],
+    "txid": "6f7cf9580f1c2dfb3c4d5d043cdbb128c640e3f20161245aa7372e9666168516"
+  },
+  {
+    "count": 36,
+    "ioidx": 0,
+    "sig": [
+      null,
+      "OP_CHECKSIG"
+    ],
+    "txid": "f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16"
+  },
+....
+
+* `null`: means a literal number: all literal numbers are grouped together into a single signature, only opcodes differentiate.
+* `txid`: is the first transaction with that signature
+* `count`: is the total number of times this signature appeared
+* `samples`: are the first five examples of such a signature
+* `sig`: the signature. `null` means a constant literal
+
+Only the first transaction of each signature is kept.
+
+==== utxo_nonstandard
+
+At link:data/utxo_nonstandard[] we track unspent, nonstandard, non-`OP_RETURN` output scripts.
+
+=== Largest transactions
+
+The following files under link:data[] track the top 10k transactions by:
+
+* link:data/payload_size_in[]: sum of sizes of input script constant (excludes OPs)
+* link:data/payload_size_out[]: same for output scripts. This can be notably used to try and find interesting binary content not dumped in the ASCII or <<image-indexing,images>> databases
++
+You can download the first 100 largest of those payloads from blockchain.info with:
++
+....
+./download_largest.py
+ls -l data/largest
+....
++
+Or to download all our indexed largest ones from a full local node to not get blocked by making too many requests to blockchain.info:
++
+....
+BTCRPCURL=http://asdf:qwer@127.0.0.1:8332 \
+PYTHONPATH="$(pwd)/python-bitcoinrpc:$PYTHONPATH" \
+./download_largest_from_rpc.py
+....
++
+Once that slow crap is done, you can try to mine unique filetypes with:
++
+....
+file * | gv ': data' | sort -u -k2 | s
+....
++
+Or skipping the first 8 bytes to match Satoshi downloader payloads:
++
+....
+for f in *.bin; do printf "$f "; tail -c+10 $f > tmp; file tmp; done | tee ../largest-8
+rm -f tmp
+....
+* link:data/payload_size_out_op_return[]: same as `payload_size_out`, but only consider transactions that contain at least one output starting with `OP_RETURN`
+* link:data/tx_nins[]: number of inputs
+* link:data/tx_nouts[]: number of outputs
+* link:data/tx_size_bytes[] total transaction size in bytes
+* link:data/tx_value[] sum of transaction output values
++
+It is hard to come up with a meaningful value metric, because obviously after one initial huge transaction, a very long spend chain follow, with tiny amounts + huge change, and there's no way to know what is the change and what is the actual payout to another user.
+
+Most of those answer: https://bitcoin.stackexchange.com/questions/11542/by-byte-size-and-number-of-inputs-outputs-what-are-the-largest-transactions-in
+
+[[payload-size-out-utxo]]
+==== payload_size_out_utxo
+
+Smme as `payload_size_out`, but only consider transactions which have either:
+** more than one output, and at most one spent output
+** exactly one spent output
+
+[[payload-size-out-utxo-2vals]]
+==== payload_size_out_utxo_2vals
+
+Same as <<payload-size-out-utxo>> but in addition only considers transactions such that the value of each output except the last one is the same.
+
+This uses the heuristic that data payloads are likely going to be in a single small value outputs, optionally followed by a change address with a larger value at the end.
+
+This heuristic appears to be quite effective. Unfortunately, <<atomsea>> don't follow it, OMG... e.g. in the Mandela toplevel: https://www.blockchain.com/btc/tx/78f0e6de0ce007f4dd4a09085e649d7e354f70bc7da06d697b167f353f115b8e they have change outputs right in the middle, and the same happens for all their uploads we've checked. So we just keep a separate index for them.
+
+TODO understand:
+
+* https://www.blockchain.com/btc/tx/f65226900fb5e1c36db40dd1a3f003efbaeb1bee6211ed6a3d5cdf41534b7333
+* https://www.blockchain.com/btc/tx/9e79e84439b1fe84483699f1f78cb8c8762ad073a3148a05dc0cddbee70d41ee
+
+....
+[
+  88231,
+  "d3c1cb2cdbf07c25e3c5f513de5ee36081a7c590e621f1f1eab62e8d4b50b635"
+],
+[
+  88231,
+  "cce82f3bde0537f82a55f3b8458cb50d632977f85c81dad3e1983a3348638f5c"
+],
+[
+  88231,
+  "7379ab5047b143c0b6cfe5d8d79ad240b4b4f8cced55aa26f86d1d3d370c0d4c"
+],
+[
+  81468,
+  "d246f58b59be6595df03c404a6497177564c7b2bf5396596641e59d268b1b40d"
+],
+[
+  81468,
+  "3344647bc0801d3c4f5ca9a33106e6e4ed34754a1d7833e7bbcdc9094db347b0"
+],
+[
+  56540,
+  "ee7658b119496dc9ace8d011c36b82f4b69a787399a78f99c5605a6b73d34c69"
+],
+[
+  21000,
+  "0a702fc8dece1a3c857029412f5209960aff60b8a1f93f77c457fadfa365a6e4"
+],
+[
+  9300,
+  "4dd57f3e443ad1567a37beab8f6b31d8cb1328a26bac09e50ba96048ad07b8c1"
+],
+[
+  2020,
+  "f65226900fb5e1c36db40dd1a3f003efbaeb1bee6211ed6a3d5cdf41534b7333"
+],
+[
+  2020,
+  "9e79e84439b1fe84483699f1f78cb8c8762ad073a3148a05dc0cddbee70d41ee"
+],
+....
+
+This one contains the string `lucifer1.0.tar`, can't easily find a tar signature though:
+
+....
+[
+  31600,
+  "aaf6773116f0d626b7e66d8191881704b5606ea72612b07905ce34f6c31f0887"
+],
+....
+
+==== Largest transactions with unspent outputs
+
+Most largest transactions appear not to have any encoded data.
+
+Filtering only those that have at least two unspent outputs might lead to better results (not just one as one is expected to be the change address).
+
+First we dump the <<utxo-dump>>.
+
+== Deterministic output ordered by block height
+
+bitcoinstrings.com directly does `strings` on the blkXXXXX.dat files downloaded by Bitcoin Core.
+
+However, those files appear not to have a fixed order based on what gets downloaded first from the network:
+
+* https://www.blockchain.com/charts/n-transactions-per-block
+* https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_2):_Data_Storage
+* https://github.com/alecalve/python-bitcoin-blockchain-parser/issues/38
+
+They are then indexed as the are downloaded.
+
+It is true however that the client downloads blocks more or less chronologically, but still, that is only an approximation.
+
+This repository instead uses the index to parse them in order. This means that:
+
+* the result is deterministic
+* the file names make more sense
+
+One downside of this approach is that the file sizes could be more varied e.g. because in the early blockchain, there were less transactions per block. But we think it is worth it.
+
+== Transaction ID added before ASCII strings in the transaction
+
+In simple terms, much like https://bitcoinstrings.com/[], this project extracts only printable ASCII strings of length 20 or more characters are shown.
+
+For example our our file link:data/in/0139.txt[] contains:
+
+....
+tx cbbaa0a64924fe1d6ace3352f23242aa0028d4e0ff6ae8ed615244d66079cfb1
+Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.
+
+tx 23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94
+***************************************************
+....
+
+This is similar to what you see at https://bitcoinstrings.com/blk00003.txt[]
+
+....
+Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.
+***************************************************
+....
+
+but the data in this repository added the corresponding ASCII hex transaction ID before each of the messages.
+
+The goals of having the transaction IDs are to:
+
+* concisely refer to specific transactions of interest for future reference
+* try to infer things about transactions, e.g. who made them
+* find surrounding binary data that is embedded around the ASCII string stags, for example images, as done at: http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html
++
+For example, an image can be represented by an ASCII name `Nelson-Mandela.jpg`, followed by the binary data. So you need to find the transaction ID in order to see the binary data.
++
+Once you have the transaction ID, you can easily find the full transaction data for example at: https://blockchain.info/tx/930a2114cdaa86e1fac46d15c74e81c09eee1d4150ff9d48e76cb0697d8e1d72?format=json
+
+== Smart newline joining
+
+The number 20 is kind of magic as it is the smallest number of payload bytes that can be stored in the script of a transaction, which uses almost always uses the form:
+
+....
+76a914 + payload + 88ac
+....
+
+where:
+
+* `76a9`: `OP_DUP`, `OP_HASH160`
+* `14`: 0x14 = 20 bytes of data follow (the payload)
+* `88ac`: `OP_EQUALVERIFY`, `OP_CHECKSIG`
+
+This forms a https://en.bitcoin.it/wiki/Script#Standard_Transaction_to_Bitcoin_address_.28pay-to-pubkey-hash.29[Standard Transaction to Bitcoin address], except that the pubkey is data, so that the funds cannot be recovered once sent like this: you have to burn some money to do it.
+
+Such output transactions with the minimum script size likely lead to cheaper data upload, and therefore are very dominant.
+
+Because bitcoinstrings.com simply does `strings -n`, it does not take the metadata around the payload into account.
+
+This notably leads to:
+
+* some missing data
+* data getting chopped up weirdly
+
+As a concrete example, with `strings -n20`, https://bitcoinstrings.com/blk00001.txt[blk00001.txt] contains two following 20 character lines:
+
+....
+=ybegin line=128 siz
+e=8776 name=bitcoin.
+***2*.+D*/***+***h+E
+....
+
+However, if we smartly join those lines as done in this repository, our link:data/out/0123.txt[] contains instead:
+
+....
+=ybegin line=128 size=8776 name=bitcoin.jpg
+)
+**ww*T***2*.+D*/***+***h+E*/***+***p+R*-***+*,**+[*,***;***x*******
+*m*20010/211133246>76556C<=}9>GDIHGDFFJNXQJLVMFFRaSVZ[^^^IQcgb\fX]^\)
+*m+333656B77B\KFK\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+....
+
+So clearly our second representation is much more useful/correct in this case:
+
+* `size` is obviously a word that got chopped up on the 20 char limit of the script field, which must look a bit like
+* `.jpg` was missing completely, because its binary encoding must be followed by non-ASCII characters, and so it didn't reach the 20 char min.
++
+Therefore the naive `strings -n` misses the critical extension part, which people might be searching for, while our method sees it!
+
+Both of those happen because the raw data must look something like:
+
+....
+START =ybegin line=128 siz END
+START e=8776 name=bitcoin. END
+START .jpg <BINARY DATA..> END
+....
+
+The word splitting problem basically breaks every single ASCII art wider than 20 column, which is the huge majority of them.
+
+To make such art, the artist has to encode newlines into the payload. But if we split at 20 character limits, each line gets chopped up, and the result is garbage.
+
+See e.g. https://bitcoinstrings.com/blk00180.txt[blk00180.txt] tx 09a5d5aaecdce1757e6ec713cc8a2201abca9acdb6fbadc7760e831cdad3d680, compared to ours at link:data/out/0323.txt#L363[].
+
+Excessive word splitting also makes long texts impossibly annoying to read.
+
+For example with `strings -n20` around https://bitcoinstrings.com/blk00169.txt[blk00169.txt] tx a573ca62c9efd80c15d9a54fd7d3a422d930c26ca714ba980ad196f5d30ce1b2 we see:
+
+....
+<835|Bob Marley
+
+R
+obert Nesta "Bob" Ma
+rley (6 February 194
+as a Jamaican reggae
+ singer-songwriter,
+musician, and guitar
+ist who achieved int
+ernational fame and
+acclaim.  Starting o
+....
+
+while clearly the author intended something more like what you see link:data/out/0317.txt#L284[in this repo instead]:
+
+....
+<835|Bob Marley
+
+Robert Nesta "Bob" Marley (6 February 1945 as a Jamaican reggae singer-songwriter, musician, and guitarist who achieved international fame and acclaim.  Starting out
+....
+
+This also means that your grep querries might miss on randomly broken up workds, e.g.:
+
+....
+grep international
+....
+
+would only find a match in our repository.
+
+It is true however that in some rare cases, message authors did want to split newlines at 20 characters.
+
+A notable example of this is the Len "rabbi" Sassama tribute https://bitcoin.stackexchange.com/questions/3370/in-which-block-was-len-sassaman-memorialised/101276#101276 where the 20 column wide ASCII art has no newlines, which shows correctly on https://bitcoinstrings.com/blk00003.txt[]:
+
+....
+---BEGIN TRIBUTE---
+#./BitLen
+:::::::::::::::::::
+:::::::.::.::.:.:::
+:.: :.' ' ' ' ' : :
+:.:'' ,,xiW,"4x, ''
+:  ,dWWWXXXXi,4WX,
+' dWWWXXX7"     `X,
+ lWWWXX7   __   _ X
+:WWWXX7 ,xXX7' "^^X
+lWWWX7, _.+,, _.+.,
+:WWW7,. `^"-" ,^-'
+ WW",X:        X,
+ "7^^Xl.    _(_x7'
+ l ( :X:       __ _
+ `. " XX  ,xxWWWWX7
+  )X- "" 4X" .___.
+,W X     :Xi  _,,_
+WW X      4XiyXWWXd
+"" ,,      4XWWWWXX
+, R7X,       "^447^
+R, "4RXk,      _, ,
+TWk  "4RXXi,   X',x
+lTWk,  "4RRR7' 4 XH
+:lWWWk,  ^"     `4
+::TTXWWi,_  Xll :..
+=-=-=-=-=-=-=-=-=-=
+LEN "rabbi" SASSAMA
+     1980-2011
+....
+
+but shows as garbage without newlines in our link:data/out/0137.txt#L2[].
+
+There is fundamentally no way to solve this: either one or the other must break.
+
+The design philosophy behind this is as follows:
+
+* an intentional implicit 20 column wrap is very rare, therefore we break more things by forcing it than not
+* `strings -n` runs relatively fast compared to this repo, and is already available on https://bitcoinstrings.com/blk00003.txt[], so it is more productive to instead provide something complementary to that other way of viewing things
+* it is a bit easier to limit broken ASCII art blindly to 20 columns than it is to deduce the column width
+
+The only case where this repository adds newlines that are not in the data, is when a non-printable character comes in between two printable strings.
+
+For example in the incredibly long developer chat log at link:data/in/0360.txt[], lines are separated with NUL characters, and actually shows correctly in this project, just as they do in bitcoinstrings.com:
+
+....
+tx 210000d1392bec2505d1289e5c39c2039204ff1ecf7eef55f973ccd3111003e1
+22:45 < warren> jgarzik: if you aren't near one of the consulates there are some companies that will charge you money to do it...
+22:47 < HM3> gmaxwell, the schnorr construction is just cleaner algebraically, and I like that you can't do public key recovery
+....
+
+We feel that printing this newline is a reasonable way to indicate that binary data was present, as it prevents false positive grep hits from forming up.
+
+TODO some broken stuff, understand why:
+
+* link:data/out/0230.txt[] tx 3a1c1cc760bffad4041cbfde56fbb5e29ea58fda416e9f4c4615becd65576fe7 BASIC creature simulator, encoding is weird
+* link:data/in/0349.txt[] tx 243dea31863e94dc2f293489db02452e9bde279df1ab7feb6e456a4af672156a incomprehensible encoding, could be an upload bug
+
+Understood:
+
+* link:data/out/0288.txt[] tx c00a4a04905a2e8d8dee8a768165aa6bdf842413a8a648462a6349db89cd77f2: the seal ASCII art has implicit newlines like Len
+
+== Classify input and output transactions
+
+As explained at <<how-the-data-is-organized>>, this project separates input and output transactions into different files.
+
+Why this matters, and notable interesting input is being collected at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
+
+For reference, from blk 0 to 99 we have:
+
+* input: 10729 transactions, 312KB size
+* output: 288 transactions, 1.2MB size
+
+So we see that there's a ton of input ASCII transactions, therefore the miner ads, and much much fewer non-miner ones.
+
+But the non-miner ones contain way way more data on average, in the case of the first 100 most of it in `blk00052.txt`, because people tend to upload more interesting, longer strings to it.
+
+Calculations:
+
+....
+# Transaction counts.
+cat data/in/blk000*.txt | grep -Ec '^tx '
+cat data/out/blk000*.txt | grep -Ec '^tx '
+
+# Total size.
+find data/in -name "blk000*.txt" | xargs du -sch | tail -n1
+find data/out -name "blk000*.txt" | xargs du -sch | tail -n1
+....
+
+Full counts:
+
+....
+# Transaction counts.
+cat data/in/*.txt | grep -Ec '^tx '
+cat data/out/*.txt | grep -Ec '^tx '
+
+# Total size
+du -sch data/*
+....
+
+== Vs bitcoinstrings.com
+
+This project is similar to https://bitcoinstrings.com/ but it does the following smarter (and therefore slower) things:
+
+* <<deterministic-output-ordered-by-block-height>>
+* <<transaction-hash-added-before-ascii-strings-in-the-transaction>>
+* <<smart-newline-joining>>
+* <<classify-input-and-output-transactions>>
+* <<image-indexing>>
+
+https://bitcoinstrings.com works simply by doing a:
+
+....
+cd .bitcoin/blocks/
+strings -n20 *.dat
+....
+
+This is extremely fast, but because it does not parse the transactions, and therefore cannot achieve any of the extra features this project provides.
+
+This repository instead relies on https://github.com/alecalve/python-bitcoin-blockchain-parser[], which actually parses the blockchain, and allows us to achieve all of our extra features. I wonder how much faster the C++ parser would be: https://github.com/znort987/blockparser[], 10x would be a game changer, but this project is not important enough to be worth the port right now.
+
+Then we somewhat reimplement `strings` in Python(more precisely `strings -w` to include newlines).
+
+Currently only the https://en.bitcoin.it/wiki/Transaction[input and output script fields] are searched for. There may be other ways to encode strings in the blockchain: https://bitcoin.stackexchange.com/questions/32575/what-methods-are-currently-used-to-embed-additional-data-into-the-bitcoin-blockc but this covered all cases I was interested in so far, if you find a missing case, send a pull request.
+
+== How to generate the data
+
+First download the Bitcoin Blockchain full node: https://bitcoin.org/en/full-node[]. This basically means:
+
+* download Bitcoin core from https://bitcoincore.org/en/download/[]
+* run `bin/bitcoin-qt`
+* on the splash screen, unselect the option to have a partial node
+* wait 24 hours or more for the download to complete
+* close `bitcoin-qt`. This is necessary, because otherwise our scripts will refuse to work because of a `LOCK` file in that directory that indicates that `bitcoin-qt` is using the files
+
+Once the download is complete (hundreds of Gigabytes), and you have the `.dat` files e.g.:
+
+....
+/path/to/.bitcoin/blocks/blk000000.dat
+/path/to/.bitcoin/blocks/blk000001.dat
+...
+....
+
+Then run this repo as:
+
+....
+git clone https://github.com/cirosantilli/bitcoin-strings-with-txid
+cd bitcoin-strings-with-txid
+sudo apt install libleveldb-dev
+
+# Dump unspent transactions, see also #utxo-dump
+# Without this, things work, but some of the data won't be generated.
+go get github.com/in3rsha/bitcoin-utxo-dump
+./utxodump-to-sqlite3
+
+python -m pip install --user -r requirements.txt
+./main.py /path/to/.bitcoin/blocks/
+....
+
+This will again take about 24 hours, and <<deterministic-output-ordered-by-block-height,deterministically>> produce the data under link:data/[].
+
+When more blockchain nodes become available, you can update the data simply by re-running this script.
+
+When re-running, existing `.txt` files are assumed ready and skipped, except for the last one, for which the corresponding .dat file might not have been complete, and is always redone.
+
+Also, if you kill `main.py` with Ctrl C and restart it, the program is designed to produce the exact same output as that of a continous run, so you can stop it and pick up later if needed at any time.
+
+To force regeneration from the start, use `--start 0`:
+
+....
+rm -f cache.pkl
+rm -rf data
+./main.py --start 0 /path/to/.bitcoin/blocks/
+....
+
+`cache.pkl` is a cache of the Bitcoin index for `python-bitcoin-blockchain-parser` to startup faster during development. If you don't remove it, it won't see any new blk.dat files that might have been downloaded.
+
+We also have to remove link:data[] to start from scratch cleanly because it has running sums which would double count otherwise.
+
+Alternatively, you can extract just a single block of interest with:
+
+....
+./main.py --start 3 --end 4 /path/to/.bitcoin/blocks
+....
+
+Not supported by python-bitcoin-blockchain-parser unfortunately: https://github.com/alecalve/python-bitcoin-blockchain-parser/issues/40
+
+=== UTXO dump
+
+UTXO dump is a dump of all unspent transaction outputs to `utxodump.csv` with https://github.com/in3rsha/bitcoin-utxo-dump also explained at: https://bitcoin.stackexchange.com/questions/83536/how-to-find-all-utxos/101936#101936
+
+Generation shown at <<how-to-generate-the-data>>.
+
+The SQLite version `utxodump.sqlite3` is generated with:
+
+....
+./utxodump-to-sqlite3
+....
+
+With this, we can efficiently query if each output is spent or not from Python without the need for a bitcoin RPC server running.
+
+python-blockchain-parser does not support UTXO unfortunately: https://github.com/alecalve/python-bitcoin-blockchain-parser/issues/40
+
+TODO all utxo operations should be done by iteraing the UTXO set, currently we just add them in the middle of the full chain scan. That will be more efficient. We just need to learn how to access transactions without needing the the annoying RPC server running.
+
+== Censorship
+
+If we find any illegal data made obvious from this analysis, it will be removed from the data/indexes manually and force pushed out of the repository without explanation. Please inform of such content privately, not on GitHub issues. Skipping these cannot be automated obviously, and must be manually removed on any regeneration, which hopefully will never happen as it takes forever.
+
+Material that violates GitHub's ToS but is not necessarily illegal will be removed and a list of offending transactions will be maintained in source. The ASCII content of those transactions will be replaced with:
+....
+[[CIROSANTILLI CENSORED]]
+....
+
+All <<image-indexing,indexed images>> have been manually checked for illegal content for the supported decodings of this project.
+
+== Index of data files
+
+This index is updated manually with:
+
+....
+./gentoc
+....
+
+We keep it because:
+
+* GitHub stops showing links to files after a certain limit, and this would be bad for SEO
+* we add the file size as well to help skip empty files: https://github.com/isaacs/github/issues/622
+
+Here is the index of files:
+
+Inputs:
+
+* link:data/in/0000.txt[] (4.0K)
+* link:data/in/0001.txt[] (0)
+* link:data/in/0002.txt[] (0)
+* link:data/in/0003.txt[] (0)
+* link:data/in/0004.txt[] (0)
+* link:data/in/0005.txt[] (0)
+* link:data/in/0006.txt[] (0)
+* link:data/in/0007.txt[] (0)
+* link:data/in/0008.txt[] (0)
+* link:data/in/0009.txt[] (0)
+* link:data/in/0010.txt[] (0)
+* link:data/in/0011.txt[] (0)
+* link:data/in/0012.txt[] (0)
+* link:data/in/0013.txt[] (0)
+* link:data/in/0014.txt[] (0)
+* link:data/in/0015.txt[] (0)
+* link:data/in/0016.txt[] (0)
+* link:data/in/0017.txt[] (0)
+* link:data/in/0018.txt[] (0)
+* link:data/in/0019.txt[] (0)
+* link:data/in/0020.txt[] (0)
+* link:data/in/0021.txt[] (0)
+* link:data/in/0022.txt[] (0)
+* link:data/in/0023.txt[] (0)
+* link:data/in/0024.txt[] (0)
+* link:data/in/0025.txt[] (0)
+* link:data/in/0026.txt[] (0)
+* link:data/in/0027.txt[] (0)
+* link:data/in/0028.txt[] (0)
+* link:data/in/0029.txt[] (0)
+* link:data/in/0030.txt[] (0)
+* link:data/in/0031.txt[] (0)
+* link:data/in/0032.txt[] (0)
+* link:data/in/0033.txt[] (0)
+* link:data/in/0034.txt[] (0)
+* link:data/in/0035.txt[] (0)
+* link:data/in/0036.txt[] (0)
+* link:data/in/0037.txt[] (0)
+* link:data/in/0038.txt[] (0)
+* link:data/in/0039.txt[] (0)
+* link:data/in/0040.txt[] (0)
+* link:data/in/0041.txt[] (0)
+* link:data/in/0042.txt[] (0)
+* link:data/in/0043.txt[] (0)
+* link:data/in/0044.txt[] (0)
+* link:data/in/0045.txt[] (0)
+* link:data/in/0046.txt[] (0)
+* link:data/in/0047.txt[] (0)
+* link:data/in/0048.txt[] (0)
+* link:data/in/0049.txt[] (0)
+* link:data/in/0050.txt[] (0)
+* link:data/in/0051.txt[] (0)
+* link:data/in/0052.txt[] (0)
+* link:data/in/0053.txt[] (0)
+* link:data/in/0054.txt[] (0)
+* link:data/in/0055.txt[] (0)
+* link:data/in/0056.txt[] (0)
+* link:data/in/0057.txt[] (0)
+* link:data/in/0058.txt[] (0)
+* link:data/in/0059.txt[] (0)
+* link:data/in/0060.txt[] (0)
+* link:data/in/0061.txt[] (0)
+* link:data/in/0062.txt[] (0)
+* link:data/in/0063.txt[] (0)
+* link:data/in/0064.txt[] (0)
+* link:data/in/0065.txt[] (0)
+* link:data/in/0066.txt[] (0)
+* link:data/in/0067.txt[] (0)
+* link:data/in/0068.txt[] (0)
+* link:data/in/0069.txt[] (0)
+* link:data/in/0070.txt[] (0)
+* link:data/in/0071.txt[] (0)
+* link:data/in/0072.txt[] (0)
+* link:data/in/0073.txt[] (0)
+* link:data/in/0074.txt[] (0)
+* link:data/in/0075.txt[] (0)
+* link:data/in/0076.txt[] (0)
+* link:data/in/0077.txt[] (0)
+* link:data/in/0078.txt[] (0)
+* link:data/in/0079.txt[] (0)
+* link:data/in/0080.txt[] (0)
+* link:data/in/0081.txt[] (0)
+* link:data/in/0082.txt[] (0)
+* link:data/in/0083.txt[] (0)
+* link:data/in/0084.txt[] (0)
+* link:data/in/0085.txt[] (0)
+* link:data/in/0086.txt[] (0)
+* link:data/in/0087.txt[] (0)
+* link:data/in/0088.txt[] (0)
+* link:data/in/0089.txt[] (0)
+* link:data/in/0090.txt[] (0)
+* link:data/in/0091.txt[] (0)
+* link:data/in/0092.txt[] (0)
+* link:data/in/0093.txt[] (0)
+* link:data/in/0094.txt[] (0)
+* link:data/in/0095.txt[] (0)
+* link:data/in/0096.txt[] (0)
+* link:data/in/0097.txt[] (0)
+* link:data/in/0098.txt[] (0)
+* link:data/in/0099.txt[] (0)
+* link:data/in/0100.txt[] (0)
+* link:data/in/0101.txt[] (0)
+* link:data/in/0102.txt[] (0)
+* link:data/in/0103.txt[] (0)
+* link:data/in/0104.txt[] (0)
+* link:data/in/0105.txt[] (0)
+* link:data/in/0106.txt[] (0)
+* link:data/in/0107.txt[] (0)
+* link:data/in/0108.txt[] (0)
+* link:data/in/0109.txt[] (0)
+* link:data/in/0110.txt[] (0)
+* link:data/in/0111.txt[] (0)
+* link:data/in/0112.txt[] (0)
+* link:data/in/0113.txt[] (0)
+* link:data/in/0114.txt[] (0)
+* link:data/in/0115.txt[] (0)
+* link:data/in/0116.txt[] (0)
+* link:data/in/0117.txt[] (0)
+* link:data/in/0118.txt[] (0)
+* link:data/in/0119.txt[] (0)
+* link:data/in/0120.txt[] (0)
+* link:data/in/0121.txt[] (0)
+* link:data/in/0122.txt[] (0)
+* link:data/in/0123.txt[] (0)
+* link:data/in/0124.txt[] (0)
+* link:data/in/0125.txt[] (0)
+* link:data/in/0126.txt[] (0)
+* link:data/in/0127.txt[] (0)
+* link:data/in/0128.txt[] (0)
+* link:data/in/0129.txt[] (0)
+* link:data/in/0130.txt[] (0)
+* link:data/in/0131.txt[] (0)
+* link:data/in/0132.txt[] (4.0K)
+* link:data/in/0133.txt[] (0)
+* link:data/in/0134.txt[] (0)
+* link:data/in/0135.txt[] (0)
+* link:data/in/0136.txt[] (0)
+* link:data/in/0137.txt[] (0)
+* link:data/in/0138.txt[] (0)
+* link:data/in/0139.txt[] (4.0K)
+* link:data/in/0140.txt[] (8.0K)
+* link:data/in/0141.txt[] (8.0K)
+* link:data/in/0142.txt[] (4.0K)
+* link:data/in/0143.txt[] (4.0K)
+* link:data/in/0144.txt[] (0)
+* link:data/in/0145.txt[] (4.0K)
+* link:data/in/0146.txt[] (4.0K)
+* link:data/in/0147.txt[] (0)
+* link:data/in/0148.txt[] (0)
+* link:data/in/0149.txt[] (0)
+* link:data/in/0150.txt[] (0)
+* link:data/in/0151.txt[] (0)
+* link:data/in/0152.txt[] (0)
+* link:data/in/0153.txt[] (0)
+* link:data/in/0154.txt[] (0)
+* link:data/in/0155.txt[] (0)
+* link:data/in/0156.txt[] (0)
+* link:data/in/0157.txt[] (0)
+* link:data/in/0158.txt[] (4.0K)
+* link:data/in/0159.txt[] (4.0K)
+* link:data/in/0160.txt[] (0)
+* link:data/in/0161.txt[] (4.0K)
+* link:data/in/0162.txt[] (4.0K)
+* link:data/in/0163.txt[] (4.0K)
+* link:data/in/0164.txt[] (16K)
+* link:data/in/0165.txt[] (12K)
+* link:data/in/0166.txt[] (16K)
+* link:data/in/0167.txt[] (16K)
+* link:data/in/0168.txt[] (16K)
+* link:data/in/0169.txt[] (16K)
+* link:data/in/0170.txt[] (12K)
+* link:data/in/0171.txt[] (16K)
+* link:data/in/0172.txt[] (16K)
+* link:data/in/0173.txt[] (16K)
+* link:data/in/0174.txt[] (16K)
+* link:data/in/0175.txt[] (16K)
+* link:data/in/0176.txt[] (16K)
+* link:data/in/0177.txt[] (16K)
+* link:data/in/0178.txt[] (16K)
+* link:data/in/0179.txt[] (12K)
+* link:data/in/0180.txt[] (16K)
+* link:data/in/0181.txt[] (12K)
+* link:data/in/0182.txt[] (12K)
+* link:data/in/0183.txt[] (16K)
+* link:data/in/0184.txt[] (16K)
+* link:data/in/0185.txt[] (16K)
+* link:data/in/0186.txt[] (16K)
+* link:data/in/0187.txt[] (16K)
+* link:data/in/0188.txt[] (16K)
+* link:data/in/0189.txt[] (16K)
+* link:data/in/0190.txt[] (16K)
+* link:data/in/0191.txt[] (16K)
+* link:data/in/0192.txt[] (16K)
+* link:data/in/0193.txt[] (20K)
+* link:data/in/0194.txt[] (16K)
+* link:data/in/0195.txt[] (20K)
+* link:data/in/0196.txt[] (20K)
+* link:data/in/0197.txt[] (16K)
+* link:data/in/0198.txt[] (20K)
+* link:data/in/0199.txt[] (16K)
+* link:data/in/0200.txt[] (16K)
+* link:data/in/0201.txt[] (16K)
+* link:data/in/0202.txt[] (12K)
+* link:data/in/0203.txt[] (8.0K)
+* link:data/in/0204.txt[] (8.0K)
+* link:data/in/0205.txt[] (8.0K)
+* link:data/in/0206.txt[] (8.0K)
+* link:data/in/0207.txt[] (8.0K)
+* link:data/in/0208.txt[] (8.0K)
+* link:data/in/0209.txt[] (4.0K)
+* link:data/in/0210.txt[] (4.0K)
+* link:data/in/0211.txt[] (8.0K)
+* link:data/in/0212.txt[] (4.0K)
+* link:data/in/0213.txt[] (4.0K)
+* link:data/in/0214.txt[] (4.0K)
+* link:data/in/0215.txt[] (4.0K)
+* link:data/in/0216.txt[] (4.0K)
+* link:data/in/0217.txt[] (4.0K)
+* link:data/in/0218.txt[] (4.0K)
+* link:data/in/0219.txt[] (4.0K)
+* link:data/in/0220.txt[] (4.0K)
+* link:data/in/0221.txt[] (4.0K)
+* link:data/in/0222.txt[] (4.0K)
+* link:data/in/0223.txt[] (4.0K)
+* link:data/in/0224.txt[] (4.0K)
+* link:data/in/0225.txt[] (4.0K)
+* link:data/in/0226.txt[] (4.0K)
+* link:data/in/0227.txt[] (4.0K)
+* link:data/in/0228.txt[] (0)
+* link:data/in/0229.txt[] (4.0K)
+* link:data/in/0230.txt[] (4.0K)
+* link:data/in/0231.txt[] (4.0K)
+* link:data/in/0232.txt[] (4.0K)
+* link:data/in/0233.txt[] (4.0K)
+* link:data/in/0234.txt[] (4.0K)
+* link:data/in/0235.txt[] (4.0K)
+* link:data/in/0236.txt[] (4.0K)
+* link:data/in/0237.txt[] (8.0K)
+* link:data/in/0238.txt[] (12K)
+* link:data/in/0239.txt[] (12K)
+* link:data/in/0240.txt[] (16K)
+* link:data/in/0241.txt[] (16K)
+* link:data/in/0242.txt[] (16K)
+* link:data/in/0243.txt[] (16K)
+* link:data/in/0244.txt[] (12K)
+* link:data/in/0245.txt[] (16K)
+* link:data/in/0246.txt[] (20K)
+* link:data/in/0247.txt[] (16K)
+* link:data/in/0248.txt[] (16K)
+* link:data/in/0249.txt[] (16K)
+* link:data/in/0250.txt[] (12K)
+* link:data/in/0251.txt[] (12K)
+* link:data/in/0252.txt[] (12K)
+* link:data/in/0253.txt[] (12K)
+* link:data/in/0254.txt[] (8.0K)
+* link:data/in/0255.txt[] (8.0K)
+* link:data/in/0256.txt[] (8.0K)
+* link:data/in/0257.txt[] (8.0K)
+* link:data/in/0258.txt[] (8.0K)
+* link:data/in/0259.txt[] (8.0K)
+* link:data/in/0260.txt[] (8.0K)
+* link:data/in/0261.txt[] (8.0K)
+* link:data/in/0262.txt[] (8.0K)
+* link:data/in/0263.txt[] (8.0K)
+* link:data/in/0264.txt[] (8.0K)
+* link:data/in/0265.txt[] (4.0K)
+* link:data/in/0266.txt[] (4.0K)
+* link:data/in/0267.txt[] (4.0K)
+* link:data/in/0268.txt[] (4.0K)
+* link:data/in/0269.txt[] (4.0K)
+* link:data/in/0270.txt[] (4.0K)
+* link:data/in/0271.txt[] (4.0K)
+* link:data/in/0272.txt[] (4.0K)
+* link:data/in/0273.txt[] (8.0K)
+* link:data/in/0274.txt[] (8.0K)
+* link:data/in/0275.txt[] (8.0K)
+* link:data/in/0276.txt[] (8.0K)
+* link:data/in/0277.txt[] (12K)
+* link:data/in/0278.txt[] (20K)
+* link:data/in/0279.txt[] (20K)
+* link:data/in/0280.txt[] (24K)
+* link:data/in/0281.txt[] (24K)
+* link:data/in/0282.txt[] (24K)
+* link:data/in/0283.txt[] (20K)
+* link:data/in/0284.txt[] (12K)
+* link:data/in/0285.txt[] (12K)
+* link:data/in/0286.txt[] (24K)
+* link:data/in/0287.txt[] (20K)
+* link:data/in/0288.txt[] (16K)
+* link:data/in/0289.txt[] (4.0K)
+* link:data/in/0290.txt[] (4.0K)
+* link:data/in/0291.txt[] (4.0K)
+* link:data/in/0292.txt[] (4.0K)
+* link:data/in/0293.txt[] (4.0K)
+* link:data/in/0294.txt[] (4.0K)
+* link:data/in/0295.txt[] (4.0K)
+* link:data/in/0296.txt[] (4.0K)
+* link:data/in/0297.txt[] (4.0K)
+* link:data/in/0298.txt[] (4.0K)
+* link:data/in/0299.txt[] (4.0K)
+* link:data/in/0300.txt[] (4.0K)
+* link:data/in/0301.txt[] (4.0K)
+* link:data/in/0302.txt[] (4.0K)
+* link:data/in/0303.txt[] (4.0K)
+* link:data/in/0304.txt[] (4.0K)
+* link:data/in/0305.txt[] (4.0K)
+* link:data/in/0306.txt[] (4.0K)
+* link:data/in/0307.txt[] (8.0K)
+* link:data/in/0308.txt[] (4.0K)
+* link:data/in/0309.txt[] (8.0K)
+* link:data/in/0310.txt[] (4.0K)
+* link:data/in/0311.txt[] (4.0K)
+* link:data/in/0312.txt[] (8.0K)
+* link:data/in/0313.txt[] (8.0K)
+* link:data/in/0314.txt[] (8.0K)
+* link:data/in/0315.txt[] (8.0K)
+* link:data/in/0316.txt[] (8.0K)
+* link:data/in/0317.txt[] (8.0K)
+* link:data/in/0318.txt[] (12K)
+* link:data/in/0319.txt[] (12K)
+* link:data/in/0320.txt[] (12K)
+* link:data/in/0321.txt[] (12K)
+* link:data/in/0322.txt[] (12K)
+* link:data/in/0323.txt[] (12K)
+* link:data/in/0324.txt[] (12K)
+* link:data/in/0325.txt[] (12K)
+* link:data/in/0326.txt[] (12K)
+* link:data/in/0327.txt[] (20K)
+* link:data/in/0328.txt[] (16K)
+* link:data/in/0329.txt[] (16K)
+* link:data/in/0330.txt[] (12K)
+* link:data/in/0331.txt[] (20K)
+* link:data/in/0332.txt[] (16K)
+* link:data/in/0333.txt[] (20K)
+* link:data/in/0334.txt[] (20K)
+* link:data/in/0335.txt[] (24K)
+* link:data/in/0336.txt[] (24K)
+* link:data/in/0337.txt[] (24K)
+* link:data/in/0338.txt[] (24K)
+* link:data/in/0339.txt[] (24K)
+* link:data/in/0340.txt[] (24K)
+* link:data/in/0341.txt[] (20K)
+* link:data/in/0342.txt[] (20K)
+* link:data/in/0343.txt[] (24K)
+* link:data/in/0344.txt[] (24K)
+* link:data/in/0345.txt[] (28K)
+* link:data/in/0346.txt[] (28K)
+* link:data/in/0347.txt[] (28K)
+* link:data/in/0348.txt[] (28K)
+* link:data/in/0349.txt[] (100K)
+* link:data/in/0350.txt[] (48K)
+* link:data/in/0351.txt[] (244K)
+* link:data/in/0352.txt[] (24K)
+* link:data/in/0353.txt[] (20K)
+* link:data/in/0354.txt[] (20K)
+* link:data/in/0355.txt[] (324K)
+* link:data/in/0356.txt[] (28K)
+* link:data/in/0357.txt[] (72K)
+* link:data/in/0358.txt[] (32K)
+* link:data/in/0359.txt[] (28K)
+* link:data/in/0360.txt[] (6.2M)
+* link:data/in/0361.txt[] (36K)
+* link:data/in/0362.txt[] (44K)
+* link:data/in/0363.txt[] (68K)
+* link:data/in/0364.txt[] (76K)
+* link:data/in/0365.txt[] (160K)
+* link:data/in/0366.txt[] (3.7M)
+* link:data/in/0367.txt[] (24K)
+* link:data/in/0368.txt[] (180K)
+* link:data/in/0369.txt[] (40K)
+* link:data/in/0370.txt[] (36K)
+* link:data/in/0371.txt[] (44K)
+* link:data/in/0372.txt[] (52K)
+* link:data/in/0373.txt[] (56K)
+* link:data/in/0374.txt[] (52K)
+* link:data/in/0375.txt[] (52K)
+* link:data/in/0376.txt[] (0)
+
+Outputs
+
+* link:data/out/0000.txt[] (0)
+* link:data/out/0001.txt[] (0)
+* link:data/out/0002.txt[] (0)
+* link:data/out/0003.txt[] (0)
+* link:data/out/0004.txt[] (0)
+* link:data/out/0005.txt[] (0)
+* link:data/out/0006.txt[] (0)
+* link:data/out/0007.txt[] (0)
+* link:data/out/0008.txt[] (0)
+* link:data/out/0009.txt[] (0)
+* link:data/out/0010.txt[] (0)
+* link:data/out/0011.txt[] (0)
+* link:data/out/0012.txt[] (0)
+* link:data/out/0013.txt[] (0)
+* link:data/out/0014.txt[] (0)
+* link:data/out/0015.txt[] (0)
+* link:data/out/0016.txt[] (0)
+* link:data/out/0017.txt[] (0)
+* link:data/out/0018.txt[] (0)
+* link:data/out/0019.txt[] (0)
+* link:data/out/0020.txt[] (0)
+* link:data/out/0021.txt[] (0)
+* link:data/out/0022.txt[] (0)
+* link:data/out/0023.txt[] (0)
+* link:data/out/0024.txt[] (0)
+* link:data/out/0025.txt[] (0)
+* link:data/out/0026.txt[] (0)
+* link:data/out/0027.txt[] (0)
+* link:data/out/0028.txt[] (0)
+* link:data/out/0029.txt[] (0)
+* link:data/out/0030.txt[] (0)
+* link:data/out/0031.txt[] (0)
+* link:data/out/0032.txt[] (0)
+* link:data/out/0033.txt[] (0)
+* link:data/out/0034.txt[] (0)
+* link:data/out/0035.txt[] (0)
+* link:data/out/0036.txt[] (0)
+* link:data/out/0037.txt[] (0)
+* link:data/out/0038.txt[] (0)
+* link:data/out/0039.txt[] (0)
+* link:data/out/0040.txt[] (0)
+* link:data/out/0041.txt[] (0)
+* link:data/out/0042.txt[] (0)
+* link:data/out/0043.txt[] (0)
+* link:data/out/0044.txt[] (0)
+* link:data/out/0045.txt[] (0)
+* link:data/out/0046.txt[] (0)
+* link:data/out/0047.txt[] (0)
+* link:data/out/0048.txt[] (0)
+* link:data/out/0049.txt[] (0)
+* link:data/out/0050.txt[] (0)
+* link:data/out/0051.txt[] (0)
+* link:data/out/0052.txt[] (0)
+* link:data/out/0053.txt[] (0)
+* link:data/out/0054.txt[] (0)
+* link:data/out/0055.txt[] (0)
+* link:data/out/0056.txt[] (0)
+* link:data/out/0057.txt[] (0)
+* link:data/out/0058.txt[] (0)
+* link:data/out/0059.txt[] (0)
+* link:data/out/0060.txt[] (0)
+* link:data/out/0061.txt[] (0)
+* link:data/out/0062.txt[] (0)
+* link:data/out/0063.txt[] (0)
+* link:data/out/0064.txt[] (0)
+* link:data/out/0065.txt[] (0)
+* link:data/out/0066.txt[] (0)
+* link:data/out/0067.txt[] (0)
+* link:data/out/0068.txt[] (0)
+* link:data/out/0069.txt[] (0)
+* link:data/out/0070.txt[] (0)
+* link:data/out/0071.txt[] (0)
+* link:data/out/0072.txt[] (0)
+* link:data/out/0073.txt[] (0)
+* link:data/out/0074.txt[] (0)
+* link:data/out/0075.txt[] (0)
+* link:data/out/0076.txt[] (0)
+* link:data/out/0077.txt[] (0)
+* link:data/out/0078.txt[] (0)
+* link:data/out/0079.txt[] (0)
+* link:data/out/0080.txt[] (0)
+* link:data/out/0081.txt[] (0)
+* link:data/out/0082.txt[] (0)
+* link:data/out/0083.txt[] (0)
+* link:data/out/0084.txt[] (0)
+* link:data/out/0085.txt[] (0)
+* link:data/out/0086.txt[] (0)
+* link:data/out/0087.txt[] (0)
+* link:data/out/0088.txt[] (0)
+* link:data/out/0089.txt[] (0)
+* link:data/out/0090.txt[] (0)
+* link:data/out/0091.txt[] (0)
+* link:data/out/0092.txt[] (0)
+* link:data/out/0093.txt[] (0)
+* link:data/out/0094.txt[] (0)
+* link:data/out/0095.txt[] (0)
+* link:data/out/0096.txt[] (0)
+* link:data/out/0097.txt[] (0)
+* link:data/out/0098.txt[] (0)
+* link:data/out/0099.txt[] (0)
+* link:data/out/0100.txt[] (0)
+* link:data/out/0101.txt[] (0)
+* link:data/out/0102.txt[] (0)
+* link:data/out/0103.txt[] (0)
+* link:data/out/0104.txt[] (0)
+* link:data/out/0105.txt[] (0)
+* link:data/out/0106.txt[] (0)
+* link:data/out/0107.txt[] (0)
+* link:data/out/0108.txt[] (0)
+* link:data/out/0109.txt[] (0)
+* link:data/out/0110.txt[] (0)
+* link:data/out/0111.txt[] (0)
+* link:data/out/0112.txt[] (0)
+* link:data/out/0113.txt[] (0)
+* link:data/out/0114.txt[] (0)
+* link:data/out/0115.txt[] (0)
+* link:data/out/0116.txt[] (0)
+* link:data/out/0117.txt[] (0)
+* link:data/out/0118.txt[] (0)
+* link:data/out/0119.txt[] (0)
+* link:data/out/0120.txt[] (0)
+* link:data/out/0121.txt[] (0)
+* link:data/out/0122.txt[] (0)
+* link:data/out/0123.txt[] (4.0K)
+* link:data/out/0124.txt[] (0)
+* link:data/out/0125.txt[] (0)
+* link:data/out/0126.txt[] (0)
+* link:data/out/0127.txt[] (0)
+* link:data/out/0128.txt[] (0)
+* link:data/out/0129.txt[] (0)
+* link:data/out/0130.txt[] (0)
+* link:data/out/0131.txt[] (0)
+* link:data/out/0132.txt[] (0)
+* link:data/out/0133.txt[] (0)
+* link:data/out/0134.txt[] (0)
+* link:data/out/0135.txt[] (0)
+* link:data/out/0136.txt[] (0)
+* link:data/out/0137.txt[] (0)
+* link:data/out/0138.txt[] (4.0K)
+* link:data/out/0139.txt[] (4.0K)
+* link:data/out/0140.txt[] (4.0K)
+* link:data/out/0141.txt[] (4.0K)
+* link:data/out/0142.txt[] (4.0K)
+* link:data/out/0143.txt[] (4.0K)
+* link:data/out/0144.txt[] (0)
+* link:data/out/0145.txt[] (4.0K)
+* link:data/out/0146.txt[] (0)
+* link:data/out/0147.txt[] (4.0K)
+* link:data/out/0148.txt[] (0)
+* link:data/out/0149.txt[] (0)
+* link:data/out/0150.txt[] (0)
+* link:data/out/0151.txt[] (0)
+* link:data/out/0152.txt[] (0)
+* link:data/out/0153.txt[] (0)
+* link:data/out/0154.txt[] (0)
+* link:data/out/0155.txt[] (0)
+* link:data/out/0156.txt[] (0)
+* link:data/out/0157.txt[] (0)
+* link:data/out/0158.txt[] (0)
+* link:data/out/0159.txt[] (0)
+* link:data/out/0160.txt[] (0)
+* link:data/out/0161.txt[] (0)
+* link:data/out/0162.txt[] (4.0K)
+* link:data/out/0163.txt[] (4.0K)
+* link:data/out/0164.txt[] (0)
+* link:data/out/0165.txt[] (0)
+* link:data/out/0166.txt[] (0)
+* link:data/out/0167.txt[] (0)
+* link:data/out/0168.txt[] (0)
+* link:data/out/0169.txt[] (0)
+* link:data/out/0170.txt[] (0)
+* link:data/out/0171.txt[] (0)
+* link:data/out/0172.txt[] (0)
+* link:data/out/0173.txt[] (0)
+* link:data/out/0174.txt[] (0)
+* link:data/out/0175.txt[] (0)
+* link:data/out/0176.txt[] (0)
+* link:data/out/0177.txt[] (4.0K)
+* link:data/out/0178.txt[] (0)
+* link:data/out/0179.txt[] (0)
+* link:data/out/0180.txt[] (0)
+* link:data/out/0181.txt[] (4.0K)
+* link:data/out/0182.txt[] (4.0K)
+* link:data/out/0183.txt[] (0)
+* link:data/out/0184.txt[] (0)
+* link:data/out/0185.txt[] (0)
+* link:data/out/0186.txt[] (0)
+* link:data/out/0187.txt[] (0)
+* link:data/out/0188.txt[] (0)
+* link:data/out/0189.txt[] (0)
+* link:data/out/0190.txt[] (0)
+* link:data/out/0191.txt[] (0)
+* link:data/out/0192.txt[] (0)
+* link:data/out/0193.txt[] (0)
+* link:data/out/0194.txt[] (0)
+* link:data/out/0195.txt[] (0)
+* link:data/out/0196.txt[] (0)
+* link:data/out/0197.txt[] (4.0K)
+* link:data/out/0198.txt[] (0)
+* link:data/out/0199.txt[] (4.0K)
+* link:data/out/0200.txt[] (4.0K)
+* link:data/out/0201.txt[] (0)
+* link:data/out/0202.txt[] (0)
+* link:data/out/0203.txt[] (0)
+* link:data/out/0204.txt[] (0)
+* link:data/out/0205.txt[] (0)
+* link:data/out/0206.txt[] (0)
+* link:data/out/0207.txt[] (0)
+* link:data/out/0208.txt[] (0)
+* link:data/out/0209.txt[] (0)
+* link:data/out/0210.txt[] (0)
+* link:data/out/0211.txt[] (4.0K)
+* link:data/out/0212.txt[] (0)
+* link:data/out/0213.txt[] (0)
+* link:data/out/0214.txt[] (0)
+* link:data/out/0215.txt[] (0)
+* link:data/out/0216.txt[] (0)
+* link:data/out/0217.txt[] (0)
+* link:data/out/0218.txt[] (0)
+* link:data/out/0219.txt[] (0)
+* link:data/out/0220.txt[] (0)
+* link:data/out/0221.txt[] (0)
+* link:data/out/0222.txt[] (0)
+* link:data/out/0223.txt[] (0)
+* link:data/out/0224.txt[] (0)
+* link:data/out/0225.txt[] (0)
+* link:data/out/0226.txt[] (4.0K)
+* link:data/out/0227.txt[] (0)
+* link:data/out/0228.txt[] (4.0K)
+* link:data/out/0229.txt[] (12K)
+* link:data/out/0230.txt[] (28K)
+* link:data/out/0231.txt[] (4.0K)
+* link:data/out/0232.txt[] (0)
+* link:data/out/0233.txt[] (4.0K)
+* link:data/out/0234.txt[] (4.0K)
+* link:data/out/0235.txt[] (0)
+* link:data/out/0236.txt[] (0)
+* link:data/out/0237.txt[] (0)
+* link:data/out/0238.txt[] (0)
+* link:data/out/0239.txt[] (4.0K)
+* link:data/out/0240.txt[] (0)
+* link:data/out/0241.txt[] (0)
+* link:data/out/0242.txt[] (0)
+* link:data/out/0243.txt[] (0)
+* link:data/out/0244.txt[] (4.0K)
+* link:data/out/0245.txt[] (0)
+* link:data/out/0246.txt[] (4.0K)
+* link:data/out/0247.txt[] (0)
+* link:data/out/0248.txt[] (0)
+* link:data/out/0249.txt[] (4.0K)
+* link:data/out/0250.txt[] (0)
+* link:data/out/0251.txt[] (4.0K)
+* link:data/out/0252.txt[] (0)
+* link:data/out/0253.txt[] (0)
+* link:data/out/0254.txt[] (4.0K)
+* link:data/out/0255.txt[] (0)
+* link:data/out/0256.txt[] (0)
+* link:data/out/0257.txt[] (0)
+* link:data/out/0258.txt[] (0)
+* link:data/out/0259.txt[] (4.0K)
+* link:data/out/0260.txt[] (0)
+* link:data/out/0261.txt[] (4.0K)
+* link:data/out/0262.txt[] (4.0K)
+* link:data/out/0263.txt[] (0)
+* link:data/out/0264.txt[] (16K)
+* link:data/out/0265.txt[] (0)
+* link:data/out/0266.txt[] (0)
+* link:data/out/0267.txt[] (0)
+* link:data/out/0268.txt[] (4.0K)
+* link:data/out/0269.txt[] (0)
+* link:data/out/0270.txt[] (0)
+* link:data/out/0271.txt[] (4.0K)
+* link:data/out/0272.txt[] (24K)
+* link:data/out/0273.txt[] (12K)
+* link:data/out/0274.txt[] (12K)
+* link:data/out/0275.txt[] (4.0K)
+* link:data/out/0276.txt[] (8.0K)
+* link:data/out/0277.txt[] (20K)
+* link:data/out/0278.txt[] (0)
+* link:data/out/0279.txt[] (4.0K)
+* link:data/out/0280.txt[] (4.0K)
+* link:data/out/0281.txt[] (0)
+* link:data/out/0282.txt[] (0)
+* link:data/out/0283.txt[] (4.0K)
+* link:data/out/0284.txt[] (8.0K)
+* link:data/out/0285.txt[] (16K)
+* link:data/out/0286.txt[] (8.0K)
+* link:data/out/0287.txt[] (8.0K)
+* link:data/out/0288.txt[] (4.0K)
+* link:data/out/0289.txt[] (4.0K)
+* link:data/out/0290.txt[] (4.0K)
+* link:data/out/0291.txt[] (4.0K)
+* link:data/out/0292.txt[] (4.0K)
+* link:data/out/0293.txt[] (4.0K)
+* link:data/out/0294.txt[] (8.0K)
+* link:data/out/0295.txt[] (4.0K)
+* link:data/out/0296.txt[] (8.0K)
+* link:data/out/0297.txt[] (8.0K)
+* link:data/out/0298.txt[] (4.0K)
+* link:data/out/0299.txt[] (4.0K)
+* link:data/out/0300.txt[] (16K)
+* link:data/out/0301.txt[] (8.0K)
+* link:data/out/0302.txt[] (8.0K)
+* link:data/out/0303.txt[] (4.0K)
+* link:data/out/0304.txt[] (44K)
+* link:data/out/0305.txt[] (40K)
+* link:data/out/0306.txt[] (8.0K)
+* link:data/out/0307.txt[] (12K)
+* link:data/out/0308.txt[] (24K)
+* link:data/out/0309.txt[] (20K)
+* link:data/out/0310.txt[] (12K)
+* link:data/out/0311.txt[] (16K)
+* link:data/out/0312.txt[] (20K)
+* link:data/out/0313.txt[] (20K)
+* link:data/out/0314.txt[] (24K)
+* link:data/out/0315.txt[] (32K)
+* link:data/out/0316.txt[] (36K)
+* link:data/out/0317.txt[] (32K)
+* link:data/out/0318.txt[] (32K)
+* link:data/out/0319.txt[] (76K)
+* link:data/out/0320.txt[] (164K)
+* link:data/out/0321.txt[] (20K)
+* link:data/out/0322.txt[] (28K)
+* link:data/out/0323.txt[] (40K)
+* link:data/out/0324.txt[] (16K)
+* link:data/out/0325.txt[] (28K)
+* link:data/out/0326.txt[] (24K)
+* link:data/out/0327.txt[] (32K)
+* link:data/out/0328.txt[] (144K)
+* link:data/out/0329.txt[] (56K)
+* link:data/out/0330.txt[] (16K)
+* link:data/out/0331.txt[] (12K)
+* link:data/out/0332.txt[] (24K)
+* link:data/out/0333.txt[] (24K)
+* link:data/out/0334.txt[] (36K)
+* link:data/out/0335.txt[] (24K)
+* link:data/out/0336.txt[] (68K)
+* link:data/out/0337.txt[] (80K)
+* link:data/out/0338.txt[] (40K)
+* link:data/out/0339.txt[] (60K)
+* link:data/out/0340.txt[] (28K)
+* link:data/out/0341.txt[] (12K)
+* link:data/out/0342.txt[] (28K)
+* link:data/out/0343.txt[] (20K)
+* link:data/out/0344.txt[] (16K)
+* link:data/out/0345.txt[] (16K)
+* link:data/out/0346.txt[] (16K)
+* link:data/out/0347.txt[] (24K)
+* link:data/out/0348.txt[] (268K)
+* link:data/out/0349.txt[] (44K)
+* link:data/out/0350.txt[] (28K)
+* link:data/out/0351.txt[] (92K)
+* link:data/out/0352.txt[] (24K)
+* link:data/out/0353.txt[] (48K)
+* link:data/out/0354.txt[] (72K)
+* link:data/out/0355.txt[] (28K)
+* link:data/out/0356.txt[] (24K)
+* link:data/out/0357.txt[] (48K)
+* link:data/out/0358.txt[] (32K)
+* link:data/out/0359.txt[] (40K)
+* link:data/out/0360.txt[] (44K)
+* link:data/out/0361.txt[] (360K)
+* link:data/out/0362.txt[] (92K)
+* link:data/out/0363.txt[] (68K)
+* link:data/out/0364.txt[] (80K)
+* link:data/out/0365.txt[] (48K)
+* link:data/out/0366.txt[] (116K)
+* link:data/out/0367.txt[] (144K)
+* link:data/out/0368.txt[] (48K)
+* link:data/out/0369.txt[] (72K)
+* link:data/out/0370.txt[] (76K)
+* link:data/out/0371.txt[] (68K)
+* link:data/out/0372.txt[] (104K)
+* link:data/out/0373.txt[] (124K)
+* link:data/out/0374.txt[] (272K)
+* link:data/out/0375.txt[] (92K)
+* link:data/out/0376.txt[] (0)
+
+=== Atomsea index
+
+* http://bitfossil.org/44e80475dc363de2c7ee17b286f8cd49eb146165a79968a62c1c2c4cf80772c9
+* http://bitfossil.org/c9d1363ea517cd463950f83168ce8242ef917d99cd6518995bd1af927d335828
+* http://bitfossil.org/8d1b3c094b782198deb7381efb57b1208244375e7a1029ec159306d6a8fd25d8
+* http://bitfossil.org/86a0e565ba2698d4abc03253b9de47e88d3de4f62ee90722e6e7845a1c8e3aa7
+* http://bitfossil.org/affbac1bfde690c1fabd60812d046c911b2882038a42b18a4d2e7cb50e989604
+* http://bitfossil.org/78f31f03da7d15db96dc824bf96b39f010bb733969c62f27f2f8fb2738e74557
+* http://bitfossil.org/4c8cf0e647e3b3e5878856b7057e625e0fcbb01d714a6a4eabb91ffc4495f0c3
+* http://bitfossil.org/70fd289901bae0409f27237506c330588d917716944c6359a8711b0ad6b4ce76
+* http://bitfossil.org/78f0e6de0ce007f4dd4a09085e649d7e354f70bc7da06d697b167f353f115b8e
+* http://bitfossil.org/a87242880cbbbdc6448f8104d6acefac89e6c7c9f83e944e7261ae4c9e490974
+* http://bitfossil.org/3db98d72924097e168fe2c0edb4e765fe84434d3e170deda4b419cf64d3b9afd
+* http://bitfossil.org/5977ae129c3f99b69cea09a5f2c2ade843c605134a1b51e243ca7bfaf5136556
+* http://bitfossil.org/fb301363d0a52d3c961393a0455924322f40ff39ebf55d6941fff4b343791a8f
+* http://bitfossil.org/4289d91d21bb34dd0c4b387ac9c033a4fa078edcf506ed793676bc8b683cba23
+* http://bitfossil.org/4b2977df47ba57bdd1b27e455ea48a638f8a93386217c1540f9ed77d47cec6cc
+* http://bitfossil.org/b83b94485367a802ea44299646308271be96b1a09d28ccac777aff0b153383a8
+* http://bitfossil.org/6ddfa9bbf0d4a7424ecb58c19e4ee66a0c743139e96413c7b5c107fb8a3d9a5f
+* http://bitfossil.org/9c903988b9d3a9a73550701986c0651946f3bf39d396ebb63bd5289a465e3678
+* http://bitfossil.org/cbb6ed504a072fa505893506e1a6ba30a110c4ac2ad2c6fef455f7afd0240e88
+* http://bitfossil.org/7db1ebe1c390b60b5862bf394444e0f5ccc83ac4295fe1b25acf0eec628f7508
+* http://bitfossil.org/a7b5dae4286b52534ee1037de0e6b36f6c113825a227a7bb712517eaf5a95ade
+* http://bitfossil.org/c79a0ac841238e8fc92518554e2593fd26f3c28c6f347307dababb02b8d13d6a
+* http://bitfossil.org/40731e4b107bd84800b130c9733d26777ab4c4b03558f838acc0eee99b9c7a86
+* http://bitfossil.org/1f3cbb3813dee404b2031ac50246a5bf4d92b4fe4059c9e1c2e48ec00ccb1994
+* http://bitfossil.org/162e5d0147b06abac7aaba6bb409e5c091d312852677a2fb1fe40a0037962026
+* http://bitfossil.org/31fb338fbb2d64d6c5cbff023b0ef8253f47306eb36642b01009e34cd51ff9b3
+* http://bitfossil.org/0af1cc935b25eb9850ad0a2452f8b503f16e45a3332304c12de7a292819946c8
+* http://bitfossil.org/8a69773a505a7653de075f12120fe98ec18e6bf5565b242dd51eb37b0dcfedb2
+* http://bitfossil.org/809a245551e877d93d92992ede27610f970bbe1003f02e0f50237c1114c26079
+* http://bitfossil.org/3ff52882c93420c8fe4a90f6fa94b2a563316b5e7b83afe2ddd5bcadc86d3821
+* http://bitfossil.org/d1bbc2f586d1de38edefe10337e2e99d1e8580d0be1a34f0f74315b12c131425
+* http://bitfossil.org/75b94c18d2a5a50bcf03ae20c740e82a5db0ee0c567aaa0e2a08f2afff96fc62
+* http://bitfossil.org/adca6666f8c90d6c019f7887284bb93eb709dccd1ec928c5ba6cfd1064a922d9
+* http://bitfossil.org/969cff8aab41b8f2624ea7add968db5727d51326f35a25b0f453e604e07343df
+* http://bitfossil.org/eec9d22292be2740050993d53673e1f969ebd8001669bb5498a59bef6a0a98cb
+* http://bitfossil.org/70c0be6fe764e125f3b51dd6d999d4a43ef3e3e7a8df8fd19f0b674d6553e70e
+* http://bitfossil.org/393f4d3b3b0ac018b6483f58390ac0d56adf5f70f68e846af7d745359ca14bf9
+* http://bitfossil.org/fa15ac78927bf9a4a99c259f554b4c24715f69e548aeea8a8f5552b0215ce028
+* http://bitfossil.org/9bd4fadeafc428b13df0db5a1cb1f0f245bd6de9e486f04d1e185148bd7a45f4
+* http://bitfossil.org/7bee8dfb37624cab1c14b78832abf7da081ed8ef056005be1cc4e63bb01319c1
+* http://bitfossil.org/feee59fe4d7dc89f2828f894d3faf4e8e6957426da8f84cec291bb5a156e6153
+* http://bitfossil.org/0fe624b83c525a1a7c64404d748071f15dda1007c9950bcfddd954b97581ddee
+* http://bitfossil.org/06f9121e4d05ac95129fd997c245242073a09c7c2c00b7305906f02ada80f9a8
+* http://bitfossil.org/abf602893f5329ae27481b6966c636979f5714a1d63368747bb374f59f4e4b68
+* http://bitfossil.org/79f37f8f3f33652cafbd8e882c742737aed05287175a4c6840d17d9c46663fca
+* http://bitfossil.org/6f36b43590a0b9e66f28a59ac43d7b55fd2a5dbb919279866eca9e44ed95ada7
+* http://bitfossil.org/6ef8405ca44ddb8904edad21d07e4b5836d13d0a88a8ded6bc7746a1b2297e4f
+* http://bitfossil.org/a351d89c07c917fc291818e8da6a9aa8a1ca9e2e61a856b1556d490a405d3375
+* http://bitfossil.org/a3a24d6ea01ce481a50346818b8977220687f3ba385838fe8894ce61c9718bbc
+* http://bitfossil.org/21f09cbfd2c3ffdda085955b38cb96bf4dfe8d9deea9848651dbe199be239b0e
+* http://bitfossil.org/e17b83234402d85f3a18207eec11bc5c4397f88aa880aae4fb7d15802806a971
+* http://bitfossil.org/36d0d77acd760f0aa549b6b314f0c1e9690baa6bcc2d0f07ea9f3167f4a5ec99
+* http://bitfossil.org/ae8d3b46b934bedc363e11abe8c8607171994470957c286274f699a0b3a9bbd7
+* http://bitfossil.org/67b2facfd8160d4fa11b02829b6387d07537b57a7a24f19b029b2a5ae7b81830
+* http://bitfossil.org/6d606e3cf568c98d603a5d8a4664eb777318522575caf8af489171f88167d202
+* http://bitfossil.org/f3b185bd932ef28cfd8e0d6891fa5af059a0446a1512e24461ddade4f1df0b53
+* http://bitfossil.org/d0440b68c9e5e012dc02594fbe17b2334c154682223f31beabec93ce6b19e926
+* http://bitfossil.org/e80cbe3ecbda89dd0009ec4fcf47fb9d221664829f07c8ca55a9505bf5b36240
+* http://bitfossil.org/0724fa1b3f57d31124581cbad12c71141249fbdcfeb66442f0a644616155ede5
+* http://bitfossil.org/bcf6433166eb5cce9c97837c878200bb6e83e3fb0ad9bb3db6ce6aabfabab725
+* http://bitfossil.org/3176963fa546f2e83df7a6b010146386e200bf8f60d74d59da61f784eea84902
+* http://bitfossil.org/151c05d420a3caa41ccc32bceeb75a2a3ab2b443cf55380fe17d442d024000b1
+* http://bitfossil.org/743f3286b00fc96c13db4b16d5aead8a1e059fee9ce775b1761be9be5bdc2501
+* http://bitfossil.org/542de4ab1ac6917030e0dd5b3be584460a77ae6ed53ea3634b084c3750b4d05e
+* http://bitfossil.org/2c4b9497af8c0c0eb9383357b40c3de33dba0b4f481099a32719f2b9036da8e7
+* http://bitfossil.org/73e5e9a23b7870c3942abf640655191c38e817793e8373d074dec62609ce843b
+* http://bitfossil.org/792815e7feb1032a9e3ec08dd0d41744a24fadd806d4349bf8a5daa7bb682188
+* http://bitfossil.org/141fa6e184445ae2cb7bc2ee00d3f0c8cd60a20c7b2180bb6cf5fa6b50fda6af
+* http://bitfossil.org/ccec49e30a1798e8741becb9c344b84d4bd4803f6824bf46001aab13c98dacf8
+* http://bitfossil.org/3c667e40667c496ff7c220b3abc3db391e8a3ebc158ead91f6b2d9a2b486c6b7
+* http://bitfossil.org/39e10fc9e7d2fa345e83c957271cb64542a2b1040c3acbd56e00eaeb5ba77871
+* http://bitfossil.org/c6924069d8526ae2da2b9112c09423299f51641728c98bf6230b37b493581b3e
+* http://bitfossil.org/750f4b5530cbe03128ed4167b4184493a55bae32f1daa08a949d0209c9f7a7bc
+* http://bitfossil.org/59f5b76fce65a9cba95bb778e9ca2026fa2d4fd35cad10a9251b90e1685e0137
+* http://bitfossil.org/f47cb96461f01ef4a41a97d727aaf5193925b4c385c4b875cc7685772243dcc4
+* http://bitfossil.org/0618f12af65a4e82f8e7b41f8578721dfeb109e9a73ff71aebdbc982696e3720
+* http://bitfossil.org/fe0dfa51337dfce616a0e0305d10eed867e56a9f0f006b0521ec1ea32851a342
+* http://bitfossil.org/19ad7103f6de6033b59b1436cd026c3f1afc8a6bc0af7941c6b96e7cdcf9162a
+* http://bitfossil.org/6e70691bdd0a4fa7d77cb1d564753d0f0df287236ea2a2391f67781158fb4a75
+* http://bitfossil.org/75e2d9808b460b9f8c2e4b5e6cd7ee23cb080076f4b58d9736e4f4a0e53361e5
+* http://bitfossil.org/f5e8166c30fd080f9c5f0ab79a57b058e0d31364f8064f39badddff2675f754b
+* http://bitfossil.org/062990d54045a9c316110fb713009d1313b2f64c4b216d66891c7284d6c1ca0e
+* http://bitfossil.org/daa050bf8ac22752e40412c9265b4533f68ab8e6ed26d2db1eeee6710e7d9e4b
+* http://bitfossil.org/186c6fd66d1476c2047c4ea6d32891130a43d87cadbeef399dabba5321833827
+* http://bitfossil.org/743908c7b0dd89b68956987a3f8ddc3c1d4316452659bff71d241dbb0813fd46
+* http://bitfossil.org/7ce28bfb97ca9e80e6b843de635d4e5e2535fd210616d5592c11c928e4a5dadd
+* http://bitfossil.org/952345b613d4b0bc905225716dcf9bf78a9c0fe967ebed29d1b2e8bd2df3b20f
+* http://bitfossil.org/a2b95db9daed886bceafa4f090c91eea0b0102d39718a35ae44054112f40433e
+* http://bitfossil.org/d8eb3c0d311bc556cf131527dbd7889af0cf43370e801c2177365a146c5248e5
+* http://bitfossil.org/632a6ba8296cb5745c0a377b18e1bc4125098fd99a66b501023c36cb271dcc1b
+* http://bitfossil.org/8a1978af6985b445b0a8e9f98b775e80298de3b654483400eec7039b5286e068
+* http://bitfossil.org/483a428c6ffdf94f04b6deab0b02d78de40bfc62d839ba534f9da66dc9102ac9
+* http://bitfossil.org/3e4d412944604e7b28f1bb521040968858aecc4518aef8359788205ef14e7d28
+* http://bitfossil.org/0166db6053f1969c28de8b1f9a8fa4ec890cc4bdfee7602757993b306bb7f295
+* http://bitfossil.org/d668c9d24ad6be9f19d4327bb782573edc99557620ce49bcee686a7bd86b7888
+* http://bitfossil.org/92280392ad4255791c0df46b7de276ea5f08f488bb1337689edb6df1967c9e90
+* http://bitfossil.org/4dd7f804013c48faf8f326bfb71d779e4775e43a20296874573c74ff0de52895
+* http://bitfossil.org/5e54a332c6a5a5a925a69fa8bfe40cf71bc22d0cb8acbc4d78f25017da94c2d8
+* http://bitfossil.org/bae37116d18c1219b910d23ac9a96c67ce2e38b901bb05313aca4d176afe43c9
+* http://bitfossil.org/c8ac6981720f8833b7ec978cbdaec4fa22afa1475807cdd7bbdd2e38ebe2b228
+* http://bitfossil.org/eb11576a8751e4bcd4faed814583ecceaf3d8a65ff643f2d0db5a221eb9d398c
+* http://bitfossil.org/f47ee259e6a9c8f5ce542b0d45993c15eb91f0b99cf0ac8e18cdfc580d804581
+* http://bitfossil.org/45a285299a48318d53a8c2bba7f47a20a92add7b1e4ca1698acf29b594c8af65
+* http://bitfossil.org/7cccee71cd16b8fef6b943e38a4525792de4d64ba12b51170f670a30c718a1f7
+* http://bitfossil.org/2152025e1801b1c04f6ae8aa3f3aea7a0d2db13f71c60489f1e8f98d1b7340ad
+* http://bitfossil.org/9b1aae91f37e12bcf35630914ee6412a824085e3fddf3f242b2e7a7d90dff065
+* http://bitfossil.org/c6d2e535cd2ba4659e954a61198c66fd98c60f6475cf8ff92a404f3fe3a16c4b
+* http://bitfossil.org/c0fc3eb9e7b6c4f969e946a4b488fc8fea77d8bc8c61996fcccd48cd7e8de36a
+* http://bitfossil.org/474b81dcdf6c85e762092799e2a96886f2165e825d17e7eca58f210c2a572ce2
+* http://bitfossil.org/1bc87dbff1ff5831287f62ac7cf95579794e4386688479bab66174963f9a4a0c
+* http://bitfossil.org/a467eb78c5d5c5d3ce0e6dc5ad3b2532dd8b4e916ad762897d43c71ba868308c
+* http://bitfossil.org/8522787e7e49f3f3b6a9f9e86bc30336d26a3acbaecc93809d2e8b4bb1c4d611
+* http://bitfossil.org/0601220d73a077587a60ddca7cbd4a77166a47a7e2191a437d442872cc354dad
+* http://bitfossil.org/c29ad9a43149d29ce8a8f92b68ce38d01cb556acd812ed4f427c52693b617c34
+* http://bitfossil.org/8f76545181e2e9c29b6e810a46d607bcf4cec9cb0452fb912887f9abc2f0b5df
+* http://bitfossil.org/88144af29540aa788a9cb156ed461d57be82d97540d3255433a9defb4c26eb1e
+* http://bitfossil.org/56a8434f73486bc973673ec01502fa1ebdcaa0248ec3a572643520e63c0bdc57
+* http://bitfossil.org/5273f09867c347c798db7f9df9fbcc724520288662e9efe54db47cdd12eb908e
+* http://bitfossil.org/4c7d8f6e7082a30d2d2d07c47ab462ea389415f4b95559106ff5f83f2bca8c82
+* http://bitfossil.org/fde8a8309c993a54a6bf83a3492f028f75013aacc37c0d35e647354f152c3786
+* http://bitfossil.org/50d12347e7c33949b93ed7ad0e703f1adb45923352e8ef8e317f33a59b062227
+* http://bitfossil.org/118afd4a84d3f8588d5333fbe78d4e2b986c93453c0a4bcf1bca01e9e45eed66
+* http://bitfossil.org/bcc522a4ef06fc713c7a78bf90fe7d941433364b1b4efb15d1b7128fdd1f5c38
+* http://bitfossil.org/460ed23bea89176cdfe18e13fce51ad5386ad8e3e1f7d6f5b4711b3be97b0502
+* http://bitfossil.org/d305192d5c4312fb3e6434bf08fb598749abee14281c859af7019aa43bb91e48
+* http://bitfossil.org/c53719cd196ea0f6c6bc77f828954d485854854a4b22ccb3d63692dacfa17b36
+* http://bitfossil.org/54d73e61c13b9b2cad3cb65fd92e1b6e047380c2df1874d42d067a58c296ab3d
+* http://bitfossil.org/a1a859baf7682453409188ffd4f9b5956b39703eb94942afde02a3f4ab0b305b

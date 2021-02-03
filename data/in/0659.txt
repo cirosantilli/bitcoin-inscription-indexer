@@ -1,0 +1,858 @@
+tx 092ab8b6285399466bfb8268ba65fee9bf397aefc6b4748cd2c466a1bc7c4998
+
+,Mined by AntPool64533"
+
+tx 7af9c4b865f2ec93224a9e164e6a290e5704499b58e586d082ac090e236e26b9
+
+)Mined by AntPool6443a
+
+tx d2711f5f822f8b80b9d6b1e925721fcf0e303ef18ac94c7227ef2afc4e2dbb8c
+_/poolin.com/taproot/bip9/
+
+tx 83be23a2c734e4cb3e1d48041aba7bfb49b66b5c5b9d92908eb700ce872589d7
+/ViaBTC/Mined by lizi2020/,
+
+tx 395522f7edaeaaff1d1442fc88257507ecab4cb1b5b4cc568e772c0aa20206cd
+Mined by AntPool676Y
+
+tx 4cfafe88ccddef70901bf00a0726425b657141a1ec58337ab3902913c79e4c94
+Mined by AntPool664U
+
+tx 6c42d3406aed01b0b71fcfe4179706f8db137682382acf35f3cdc5873ecc5221
+/ViaBTC/Mined by qwertycnx/,
+
+tx 597883c8979649e062dc784d03553901a78fbb13d3dae2bf8b2ec51a2c373c03
+_/poolin.com/taproot/bip9/Q
+
+tx d5928d0661f33dd668a2f927c550f385cefe743aced59b94f50993cbf4ebd0fe
+/ViaBTC/Mined by nedwattum/,
+
+tx fd61e987b8d1f0573cd6de30e0739f96cc1d96a44a1f4c5375a3882e092e30c2
+Mined by ce1ceinc12020
+
+tx 34c30baee9c6cac57680c8462b9548ce879b123ce37e7775e561dd758b34dd8f
+_/poolin.com/taproot/bip9/
+
+tx fa03ab3d6012bca55043a8a4af75651317ff5413fd9bcd1f60d6b580a0784aeb
+/F2Pool/Mined by mgmt
+
+tx e0caeacae6d7d73330463123ae651987c2d20e78e88ff0bb23289e3c859a4473
+Mined by AntPool671U
+
+tx 334642fc49b46450842f4a6ec1782bd81714c4b4f5a69701e3dcc7f258687093
+/ViaBTC/Mined by fatemeh06/,
+
+tx 0de50843d839658ed9ddf8c01bc13e17a073237c30b14940f8f4c5abddac980b
+/ViaBTC/Mined by min174umc/,
+
+tx 0661c7192530bd1ab0b0ebf87fbda73f86dfb4edfb7a938f445c6a0d00c58955
+Mined by zhundongall2020
+
+tx 2e4aa58b9a8a15f8e8c843fd22b0f20f1fe9f682364d58257a24e53a1a7b5251
+_/NovaBlock/taproot/bip9/
+
+tx 783d9ae52af32f92d6718ec68e735e4ffb5dde6a54ae39ad3960f69d4785dcbb
+_/poolin.com/taproot/bip9/N
+
+tx c141397fe8e266f3b3a2c58381511ddd3c7fa6f6df540dfb7ea0306fff9b8584
+Mined by t18634941234
+
+tx 5249b08795e29621c0c7e66a102b8012be1e8c1f9747f8eb4f0106d6f6265ddb
+/F2Pool/Mined by xjyr
+
+tx d86d26cc28ec10ee6e8f503c028e4497f903a617a6282f18c5e8ea7b773e8771
+/ViaBTC/Mined by csrecbumsbtc/,
+
+tx 2d2554d7349c0b934956c2e06469ed3bf7a4af8632aefa34239f42607edf9176
+Mined by AntPool676Y
+
+tx 59f2d84045969dad0c8dc29ae054cb2a1ba43741087d77656cdfd1b6f0020466
+Mined by yuyunas0412
+
+tx 4ddf5098c33f7bceb8ffeb28d82c518c6a38d96eee88843adf58984c6818d7f3
+/ViaBTC/Mined by ebnoreza/,
+
+tx 669f9c19a2e3e75ec36f6d6a8b0dc4485e34b98c2c3ef000bc55e3c8dd2e5b65
+_/poolin.com/taproot/bip9/
+
+tx 4fffd2c5846b78812e020f30536c7d37ec7a9b627d83d3c6649056660ed10475
+/ViaBTC/Mined by ybwmpbggomhj/,
+
+tx ae250547ee80e8e58e0f8a00958c6cb4798cf2ea632bdf2463524155829acd7c
+/F2Pool/Mined by lhfs
+
+tx e05228784ea564ed509f1ca34eb854121c43133ac6250c0dfc9674c746f2dd4b
+/ViaBTC/TATMAS Pool/,
+
+tx c5e41777eb8145f49f1b122d81b7637a0032e64661825bd7d8f14cfbefe2de74
+/ViaBTC/Mined by xdh488/,
+
+tx a8787c68869e413969053f6577b910eaa96fbf67bcc1aded2a452a56f2439f34
+Mined by AntPool133U
+
+tx bb008d10062a2668ef316ca19a6b82986520f7ef9ec7969b0bde39f7fb6c4450
+_/poolin.com/taproot/bip9/
+
+tx ae2080e279d814358898e7c39554fe41774a94ffa6cb3a6a2106489ce6dc596d
+_/poolin.com/taproot/bip9/
+
+tx 7b739c779c7ae68a377bf38a94587a64dbf5cd4e82d5d50324437b7f0b0e059e
+/ViaBTC/Mined by btcsb1/,
+
+tx f268c9a5ed9eafd0a2c1a4e0de481537afb1c5a7a00fbb5cb90eaf80218145c5
+_/NovaBlock/taproot/bip9/
+
+tx 42319ad722c4a550855a600816cb962e892288ed710e2ffdc99d71f7ed149880
+_/poolin.com/taproot/bip9/C
+
+tx f35ee4992fac3929cc495f17dbf580eb5db0a5945ab80b4c150d01e1254f95ac
+/F2Pool/Mined by suzg
+
+tx 53f47d4928c30b002e2a669d8ae1ee22ff218ae4248b08dfc73e227d4b3d7ef1
+_/poolin.com/taproot/bip9/$
+
+tx 9e9263e1915cb124e30a2b6900d159f5200609117a6e17a44f46191071476b45
+L*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 14ac02668a7e2d1383894901ceebcf98e5cfb7a0c76c3c9a64fb5aa01fa1ace8
+/ViaBTC/Mined by rme200/,
+
+tx 37987bc68e6492668f2f9e66b617b7fcfdcb682bafc57dc2ffa978ad41909f8e
+Mined by AntPool676Y
+
+tx 02e590a6e1a7fedfa679a712ec7901c0782e574565edfbfe15a59c367a38ad33
+_/poolin.com/taproot/bip9/Q
+
+tx 7df39527334b41e8e19d567c463d5b5bb477a380cd1396995342aeee71c29bc4
+Mined by AntPool672U
+
+tx 13bfa52d7fa6f856b5110703ab97419822d6319ca1284de700e12b21b909d3b2
+Mined by AntPool678Y
+
+tx 08cb67c57adf6d8ca8b7da8fd4c319284ae837a8a499c889f18e5471336e56f5
+L*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 76a05e209c8f146b434ee4493e4af35bb44f7f2e98a0eeee527b6e19e1b5b487
+Mined by amirdoostifam
+
+tx d1b57bb402144c8e9cfc8d06430c80301d95ca78c67a15d432495d4c35400b14
+/ViaBTC/Mined by adel1970/,
+
+tx 3016f8962175731c9bb3a8d389c2dad5f270ef73841ce4b33a9338ab8f91c27a
+
+)Mined by AntPool6443a"
+
+tx c8f41ddd96b42eebfc22b3dd219d3903531cb9d052fc35d188450f7652a5d294
+_/poolin.com/taproot/bip9/m#
+
+tx 9e5806daaebe8a9f3777edca88fedc2565706c8f84c1714a3955075cd497f050
+/F2Pool/Mined by lhfs
+
+tx 3ddfa27d911b142816a48998776947cd36e09e070a409b72f052d6898b830a06
+
+)Mined by AntPool646c4"
+
+tx 6405eed535f79ae7a752a05f9a799f202c2324a6803f0f5d83ede036e2e9949f
+_/poolin.com/taproot/bip9/
+
+tx 7ea5776e3e15342ac6f99791249c89d537c303d28bcec4ae06fc962bc9c789f5
+_/poolin.com/taproot/bip9/
+
+tx 1957b08070e43504e0c8cdd07b036bff70910149a4c5e719b0b076853823abd8
+
+'Mined by AntPool625"
+
+tx c07d14c93d64561ced5525e3499cbde800aa5990af4942eff7b74e23f82cada9
+
+'Mined by AntPool625"
+
+tx 9dc4d4d7726272717453c4cd294543efbf4e41d24312cf58eb2635cac3210bca
+/ViaBTC/TATMAS Pool/,
+
+tx 186426d7f8077fa47b76306e572f23d435e8b225f9e5dfed4c31cf9f16724ce2
+
+,Mined by AntPool64533"
+
+tx f40bd117490f9161b224ab2ee4fabc3875c904d6ff8621c356c2607b00ce3ee3
+/ViaBTC/Mined by rme100/,
+
+tx f69c33b39f01839a0b130546e8c1bc4718586cd8d714fde45f7bc2b2710a17d5
+/ViaBTC/Mined by btclach/,
+
+tx 7f279c1b2dc41b37e685df8ba327cf86581a595b754e045fe098b67e2a52211b
+Mined by yunnanjisha2
+
+tx 78f54baeb3ccfe06462f4160c0160cb2a9c42e13f7b7c28a10e1b24c0c3074a4
+/ViaBTC/Mined by etrade/,
+
+tx dc792c30b79de94d45af2909e4614f872d19429196f81960d0b6980c8495c51d
+/ViaBTC/Mined by hmizan/,
+
+tx d5845e27f0b6d5e03cf5c7ed1d828578afd8fd8f63f45762288cbe8da0490141
+_/poolin.com/taproot/bip9/
+
+tx 0d9f8bd3444b45e95719059bba16c82063c85f252c69d340c84037f6aa692462
+/F2Pool/Mined by wst3
+
+tx 0968bdb37998fe5ff4f8cb9bc452ea719182f50bce6b34d3c66af412ce1d2413
+
+'Mined by AntPool625"
+
+tx f29e5776e641bc9a525e0898f0fe2678012db2136925a85ec711a2e2e7e5e6f1
+_/NovaBlock/taproot/bip9/
+
+tx 7c4d9306e22a4bd5f22433bfb9c6464178adf09696dbce15b3e8769b1bac32b4
+/ViaBTC/TATMAS Pool/,
+
+tx 68643a36300c6a517859959eeb506e06d8111c1f7d25d0e0dd04eb9d3ea2d63f
+_/poolin.com/taproot/bip9/@
+
+tx 9bebe24bc023f204eb194eda0562b10f6ab2b6787509ea78c10103f33edb9f78
+
+)Mined by AntPool646c4"
+
+tx 1f0d1c60d7e5e5f9fce84ff4ed7739e817e5c514a0f664c11d2b7b547ed82a90
+/F2Pool/Mined by lhfs
+
+tx 86fc68f9dd2da71c67e6225d6629d918ea8da701ce74fb63235f125431ba4e6a
+
+)Mined by AntPool6443a"
+
+tx f8590f75d427bfe86ad89925abeaccb52d2a27256060352da1702848c849d428
+
+)Mined by AntPool629ff"
+
+tx e8cacb7c485369df6b16dc403fabf45c82d521379361a311f6bcd476b1396391
+_/NovaBlock/taproot/bip9/
+
+tx c8067162f1a227206bb7e1ee7c547e8218e8f061009d5712689382e9db10d671
+Mined by AntPool664U
+
+tx ce3e9992cdfaa18671da2e2779fd07a94ceac1047dfec1e610cfabcb8387fb19
+/ViaBTC/Mined by dcgloan3b/,
+
+tx 88b370735d1af5582b10a8db2063fee4337274795515aae4132493d9226950e6
+Mined by AntPool675Y
+
+tx 73281cd36afe3a2295795d5f6e6f53e6064b904c403dddd76655e7b722345e35
+_/poolin.com/taproot/bip9/
+
+tx 7c4b3faaa69d07e1fcca78f08ccd463a71685d1ebf72b7be4b697cad91b10685
+/ViaBTC/Mined by vaerusmining/,
+
+tx 1f407030c73aa381902ebfd4c0e9eb1ae687ce516c24a231c08a67ae7f2047c5
+_/poolin.com/taproot/bip9/4[c
+
+tx bf87e023d05d1cf5897b29b1a52dd6c93a3212e8e50a8d7dc1d434338cc7553b
+_/poolin.com/taproot/bip9/F0j
+
+tx f3b74435228f92c53c1a35ad6611ae76fae3f95e169f5cee5fc1257921714eac
+Mined by AntPool132U
+
+tx a9e95ee3d8792e8c003f7ce1339d3d7c1f4c0fed2f9a5f399a5f48dc7b32af2b
+_/poolin.com/taproot/bip9/h
+
+tx 048e1c1f07a72d93ddc78e8ba19fa0c57b3168485c820dde6f86f62b0dcb934d
+_binance.com/hzbtc/zh
+
+tx 9d3aa3dc284707042044648a6e9be1d352a724bfa7b9c40180d2ea5ca9908fea
+Mined by qwq787qwq787
+
+tx a0b157d24f33670a34c9a5999a9e01a6f483511d931b35fe179ce39f221dd76b
+/ViaBTC/Mined by dcgloan1a/,
+
+tx b9dc5387de293de3a1f79d662879b38047f9a3e1930ce940db58ad8231743064
+/ViaBTC/Mined by dcpbbox4/,
+
+tx 1a27a4f349bbe0cf9605be5d637083bc05cd8252e9263ad5c3e27c2c0525e15e
+/ViaBTC/Mined by janajol1/,
+
+tx 188413e1058799c2aa64505be2a781a7ca0860a38fa584878929f40e41729666
+Mined by ce1cn1ne2020
+
+tx 5fcff8fe16d5206b8f2790a3e6110d13438d3fd18388d8c1d17e95a2522cdc42
+/ViaBTC/Mined by rezaramezani/,
+
+tx e01d500d8fb26f64509ffb9ac14895c964cca4f2f24530765f9b80a7e86a5d4a
+_/poolin.com/taproot/bip9/*
+
+tx 82849116cf319feeae8947662092566a60d1a9f5b0e5b57d123c0aca1a662a32
+/ViaBTC/Mined by rme200/,
+
+tx cb433c34d6e6c2f6925a2d203de42685a3e149d18b8f57d76bc3841732dd7d42
+/ViaBTC/Mined by 9270016/,
+
+tx 80bb517a48ae932a0c0bbf514081975902909c563c2861f65fc81ca52e891ef7
+/ViaBTC/Mined by s245/,
+
+tx 24eeb7e969ccea506edbbc15d4e040e957a064a923b7fbdd9fbf00176f064438
+_hangzhou/www.okex.com/
+
+tx 5386926cbf956d2865924de3ef8413d8b75e62609a5dac509b6c5444526caed1
+/ViaBTC/Mined by janajol2/,
+
+tx d8bac5ac1e93ec77d7aefa6c3b4e9547ed8f701d328607830ef37df27b455db8
+Mined by happygwhgwh
+
+tx 439230b9d44a2c5f7253ad07790fd08063afd2994cfd094e4c703c6a4b3143cb
+_/poolin.com/taproot/bip9/Q
+
+tx 9836f351c45337d4d33112028706cfbc8067eb74c3b9de3bc3fe1a74ad37317c
+/ViaBTC/Mined by 18505082888/,
+
+tx 5e5515d5dde5f3a350d46de93e7316be7303161eaef74803defc1fe8554d5f61
+_/poolin.com/taproot/bip9/<
+
+tx fa20c9dfefa5d4ab15c354b068aa98d137818eebd08faa845effa45b57c1c658
+/ViaBTC/Mined by mfonekd/,
+
+tx 011bed2917565188214e83ad708c755b17f78ca84633bb5ec1f08061a349fd55
+_/poolin.com/taproot/bip9/
+
+tx 1a84d323100e4ae89e373b3d7eb0836506bec8667a6125f5d307991e1ed4da56
+Mined by AntPool665{
+
+tx 49b293db3c9a95c626b01758256e0b1aee74a258b188a96cd022de42ce791433
+_/poolin.com/taproot/bip9/Q
+
+tx 2fe6efe07cd8858baa862e276ef74c016e91418f536895a6ba821c36e671b735
+_/poolin.com/taproot/bip9/
+
+tx 438d78d2b80a3c24f373e027e51c4e5110f1f2558e2e3b539041e829b40fd633
+_/poolin.com/taproot/bip9/
+
+tx b0a2ce9bc4f9415759f990da0f8ef9c049fb42c098794d101f5a3ebefbacd0b9
+Mined by gj303200191
+
+tx 07b66561ee8e24df45b2013fdf9b6385de294d6938f645d127f92ddaeb709483
+_/poolin.com/taproot/bip9/
+
+tx a91e352eb2c6e9aaf31a898589d09aeb81da34e78cd87579b48b50bea35b62a4
+_/poolin.com/taproot/bip9/
+
+tx d2bee72f800e4f460ab6095d73d34ab0621de99e72ba7cc64097bdc2a55ff711
+_/NovaBlock/taproot/bip9/
+
+tx 545ee93680aa69233f265b8dc719dec6d2431794698e3ad9475dbf31782650f8
+_/NovaBlock/taproot/bip9/k
+
+tx 2250b9a381b5b191c88a2b3eb97527c4b613d642eadfd2e245b1843e50610211
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 7fdf7afe77a48e65cb49083ad429d991dbda3989f4269497899c87cabeda2ab1
+Mined by AntPool666'
+
+tx 9f02940cef2d9102db2d73421868d76134d341709642bc6cb9455996513786ea
+Mined by AntPool133'
+
+tx cfe090b0470849019dc61b9785ce31295639d26005bbac580837dab1ee4b555b
+/ViaBTC/Mined by dcgloan3b/,
+
+tx 0c461d7ce17f12e608fac232766872fcb7654f118261fff8119001749849ae2a
+/ViaBTC/Mined by 9034810035/,
+
+tx b1e60b22afa5ae06d4cdb828627bb1c4eea48a82d97db2eef98c38bf061e834a
+_/poolin.com/taproot/bip9/
+
+tx af75f8f4a8d33bd83559fdf5502190fe8a383a60d034a2fceb9ec4408b7f9c7d
+
+)Mined by AntPool6443a
+
+tx e53d5e223dcc45d9a75c8fc63801d306b713b727d3c0d040cde1feae2eaca29c
+
+)Mined by AntPool627db
+
+tx 4e53e2178f3bb220bc06ede46e09d6ce537969c115376d23db125a44c1caef8d
+
+)Mined by AntPool62840
+
+tx 0201bdb362ce7394586721a951eb61c889ef1260a760309bf68b15ff252aec20
+_/poolin.com/taproot/bip9/
+
+tx 6eb8911c8981ab797b1572071893c7ba673219c315738b4ccb18987c907b773e
+
+)Mined by AntPool6443aP
+
+tx df4d8695bf955acd1e775c07586d45f127997319f810121d9235090640a5833d
+/ViaBTC/TATMAS Pool/,
+
+tx 11a9ebbbd14784cfb689e5213dbf811ddcdc0900024271c3a4634e0c2eb94d68
+
+)Mined by AntPool60198
+
+tx f8f9c10b18d7279882cd406c4a3344f15edb1037bc3bd507bf7903caa5cb57ef
+Mined by iam61166872
+
+tx df0f42f964b495cc5f00ba8149245c1f6a6c6060d12f9b30a44aef064314c5e0
+/ViaBTC/Mined by saeedjoon/,
+
+tx 1c558777bffa2001af4a1804910031db88c61d3f0efa4af2b2c9cce3aeec89c7
+/F2Pool/Mined by wst3
+
+tx 144ffef76d061c45e62a6a67bc5b219fff9a2a32eead27fe97130e23b561c21c
+
+)Mined by AntPool638bf
+
+tx 04ceae1561d35aa82a3d9b68d6558bf92e6ff12e89340a3244f9e4bb6e45b3a2
+_/poolin.com/taproot/bip9/
+
+tx d71dd5f23a288946fa14cd4ebcd4608854dcba8d4fc4eed9f0e288e0efbe3250
+/ViaBTC/TATMAS Pool/,
+
+tx a003f6ac714cf6152ecf0338b2d3292aef622234a05c036b80a934e5ee4549b4
+_/NovaBlock/taproot/bip9/
+
+tx 4fa805e95a99c0602ea3c0a5cc7f9aa08e5da48792321c0c2250d1c0dccd5c11
+/ViaBTC/Mined by heiheiw/,
+
+tx 36471ff3395f2eb8cdd8ce93c25176712345672c74a38f35704fc310cd574b2e
+/F2Pool/Mined by kz3
+
+tx 8261b5699037832b53d0a5e4ae734830a7db38fc54b6d9104124f743918a98d1
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 29e3a0d0b06bfa0e34d04cb1ae4ecf834bfaf7d45ce379e5a27bcf1310c1f308
+Mined by AntPool664'
+
+tx 87fb6eeb43c6c6790d4e7375eedddd4fcda858891e79b44ec6a2d45d4fcbb601
+/ViaBTC/Mined by nganzai/,
+
+tx a524f40c010dbd11c9b41c3ad93f6694e78c5a3f9fe64c51375880d5bd267f85
+_/poolin.com/taproot/bip9/
+
+tx 3dca418e248ecb9761186b35d9d21f1ef1f08b63d15f24a30b5eb1dbfc7f0fbd
+_/poolin.com/taproot/bip9/Q
+
+tx 5b6df1c25673c50206732f2487e7238a19100afb5ec19a8124291529ec602c03
+/ViaBTC/Mined by jaqbch/,
+
+tx 219e400d6d4d800121219863344e6d0f25ee776c22933b1b7fb74da28c7cca05
+Mined by AntPool672'
+
+tx 4970f3482361d495e4b2775305fe8a32594c59149fb978107ef28d0d5ebc88c7
+Mined by AntPool579'
+
+tx b4a8735096e09dcb5d5be32dd3ad6b02cfbcdb1d137b319c6c5240378521bca2
+_/poolin.com/taproot/bip9/
+
+tx 1478f82097ab63ab6518b21d3af6426109c4d16fc61b64b7384ac51149fd9845
+/ViaBTC/Mined by gran02/,
+
+tx 3971c2dffc0ca80ed5144e16a3b0b9d02956b3179a1f8cf56ab96bbb2b37ed5e
+_/poolin.com/taproot/bip9/
+
+tx f8a080d7dc55aebf26fab7e76bd3f847cabb6e983930be966bda728e875fbd7a
+Mined by printertang
+
+tx b4e04bae9c3f9ac0a6cd62b2531f5123109a135e5321171c054058db3ca455dd
+/ViaBTC/Mined by romanakost/,
+
+tx f2b743f9cca6a37e47b3ffbd8ee061af86aa66ac4fbc1e05bd53ba6494d245b9
+Mined by liushuishan
+
+tx 4606ddd2ddfc44f2385d8497d83d3bd9a5b2ff428d5aacab99264f33c6127611
+/ViaBTC/Mined by rme200/,
+
+tx c48995887caf5657101f5aa489d95b31fb7312940b1299729b1b33818c14c7aa
+/ViaBTC/Mined by poozanov/,
+
+tx fbf11562a559f015654465fbf1c6f59c6e02f0103c3639c703bcf033608398b8
+_/poolin.com/taproot/bip9/
+
+tx 10126220c4d5b1d04cca34594a5874c3dd10cbf0159299ae9c61d142a066a1d1
+_/poolin.com/taproot/bip9/2yr<
+
+tx a9cb863406a1d47104db2238be73003fe3ca1913885d97bc33c3f4a3cb732e74
+
+ /ViaBTC/Mined by mineradora2019/,
+
+tx 76f05c9c959749ffde4b26c74a7cdc2edff42851985da2c9212ee0fab47596d1
+Mined by AntPool132'
+
+tx 53f826250913bf0d3eca0b73f0f5a8a214c36fc439019d685f59a3026a7bbb09
+/F2Pool/Mined by kz3
+
+tx e066a619bf115627a948a57bf3da09928e46996ea9daf235fa3c1c810bcf76b9
+_/poolin.com/taproot/bip9/t
+
+tx 56e84eba577d67010e5dcf7c740062ff1fcfebbb31e0c3a7b7b1b03f97bdd949
+_/poolin.com/taproot/bip9/-d
+
+tx 3845330ca10c853011326c2526667226dee7facd57efa015a20e78a7fa643ca8
+_/poolin.com/taproot/bip9/
+
+tx 665032c8de187e22ee064423ed45397400b5e63418097d725d4e8f9d7c0bcf3e
+/ViaBTC/Mined by 1630778/,
+
+tx bb1911f926adceb901fb38e2c220b0f414ddef8fa85d70fbd0083b566bd667a0
+/F2Pool/Mined by dw88
+
+tx 8105e3a07a51ecb4b42d3cf1a43323ce26d4b24258f3a5582649fa5aeffd1691
+
+)Mined by AntPool62617P
+
+tx e5fae13594b6bc0075f9abdabdeb6cb3dc1e99430774ea94d2ac26cb3fa692f4
+Mined by commandplusp
+
+tx c5e1c3a141150824fe911a8ef6362313a8b2558c74562dfe670374272e733d42
+/ViaBTC/Mined by rme100/,
+
+tx e76d9fa8861a80a81af4739ede1863a8a259991b317ba4febd48099e701b0bc4
+/ViaBTC/Mined by vaerusmining/,
+
+tx 73ae718dce6e2d495efffb8c1313e6d032e7509d676aa8f03c1fb7ed9fd7a838
+
+)Mined by AntPool629ff
+
+tx 0d7b9b21abe62ded9d7ae5f775640a177e9fb90f7e0d8b153b15a34e81d5c5dc
+/ViaBTC/Mined by bitsmart2/,
+
+tx 1ab9b774457772b0908d1aeb9f6853a7760de0fc811bbfbed2b1e6733d831675
+_/poolin.com/taproot/bip9/2yr<
+
+tx a249f6d3b332a902886fd78d3bd1514ec902f4acaebf7439c6baeb404e102dde
+Mined by ce1ceinc12020
+
+tx 3135a58af4413621ba50c442959bbb005b0c8034acb3964b5e3b30a2bc2c6a47
+_/poolin.com/taproot/bip9/
+
+tx 5be2c4f4fba740bdbd6058d64ded4580c798faa246adfd65ac53afc297739914
+_/poolin.com/taproot/bip9/#JS47
+
+tx 92ac622bad7aba87df7ccadfaaf546c634f4cb2c8f3c52bcdfc8fa7ebc168981
+/ViaBTC/Mined by ali1312/,
+
+tx 2a0eb41c34d6d112152bfe621f6c26e47f3861798e893a26011b61ef383ff0b6
+_binance.com/hzbtc/zh
+
+tx 71c5022aa231a9c05fd36f1ab404127c3ccb1bd1c613409be475cd298652c92b
+_/poolin.com/taproot/bip9/
+
+tx bf7b1a986f2b93e5d6a82ec90e1c0340ab2eab9ade395d058e9a9292ad94a0d0
+Mined by parallel005
+
+tx 224805c9706925e830084686c2b10cd0e76017d8b4e0ad354bfc8de92eaa50fa
+Mined by zhang112211
+
+tx 76165c262082ae17d31e4dc8f71df37feb9ac80f5fa1a1b6d45a76d0d55d0e5a
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 2350633b24697f257621054e715576e70f44314b7dd63ecac8ab3113ac80a181
+Mined by ce1cn1ne2020
+
+tx 54229242f99e1c898965c4bb3c2d275bd849f59dc29ca92cc949b71d3d61a123
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 729e6055f26262d5c5318622e125ce001541ba0e02db407a0730bd0795c13c3c
+Mined by ce1u901spv02
+
+tx 0a89f081a3d601af225dd14f768a47921fb561cc81c9eabc1890ae60d0c91a6f
+/ViaBTC/Mined by 09143152090/,
+
+tx 393768bfcf9eda034f7972b4142814f32660010bcd64cf5ab086fadc36353cc4
+Mined by zhang137297
+
+tx beb78322a943f09d24a06a3c8d1570f4aeb5e586dd6bb4df3badab46bcac0390
+/ViaBTC/Mined by bitsmart2/,
+
+tx f81166384c02ea9c58a84c64b06118230c8b89bd9bdae049a7447f61f7ae5cf6
+Mined by chengbing8688
+
+tx 8f3000ddc264f969663b36d029c8e28eb3a2f60f67f33821076643850ada2b37
+Mined by ce1cn1ne2020
+
+tx ff946d526015f3fbe1046defb663d42d5e65aefdc44d4234c7c6cf0ffdf32cac
+/ViaBTC/Mined by 8831890120/,
+
+tx 1071efd5f5310f9fed2c60344da0421d8eca78cb3837edb21198c34ce9432415
+_/NovaBlock/taproot/bip9/
+
+tx 481bff4082590c5f0f35a8b07df5e2b558f2ddd923ee198167a0f94147eef9b2
+/F2Pool/Mined by kz3
+
+tx 7080d5b9aba55fccc84967c35b0d5b0d5cb6ff3f7e456abda9603d495ea4b2ba
+
+)Mined by AntPool629ff
+
+tx 18ed91f3a5c4c46da467df8f50d3a923ca49019adb71660def90e4f935136a88
+/ViaBTC/Mined by rme200/,
+
+tx d11eda04b1a4cc4954795436c6928e93f2834db144ddd7def7422bf555b49265
+Mined by AntPool632P
+
+tx b3adedfa8f24f2e527ad09d7dd41d396badfac3adc7c5cdb2597631090047fd4
+/F2Pool/Mined by cflx
+
+tx 05da99fbafc2ff51a5ed52160c02bf1ee582a6c047e53de3192be6d67fe4789b
+_/poolin.com/taproot/bip9/
+
+tx d346d4373715eef7a4071e6922b9ced09879f86c4024faaa114df3620c6067b7
+_/poolin.com/taproot/bip9/
+
+tx 32c9bfaedd28f5e1871077f6add00ba5153ddd69792e0a46d490b40b8bd2ca5e
+
+)Mined by AntPool60198'
+
+tx c342bda37d83ce37153d88d0a7b166edd8dfdcff6910280977e256972cdfb9b9
+_/poolin.com/taproot/bip9/Q
+
+tx 5df41a2e14a31b2ad38198dc8e02c9e6114c9b90d5665ab50ebe114e885cc79b
+/F2Pool/Mined by lhfs
+
+tx 281b63197b2b33ebbebcdbaa80e462526205fdf4c3fd133f34ad42edec68d3df
+_/poolin.com/taproot/bip9/
+
+tx f5d9ee2466fc9661a128a17875b373db8966e36ac1356860c34195a5f2036d3d
+_/poolin.com/taproot/bip9/
+
+tx 98a7f7fd7fb9f10522bf7bc9eb33f522a41dbc99ef0d25b38905bfc8597bbf04
+/ViaBTC/Mined by hivelachute/,
+
+tx dafe5cfe87aeffe6ef67981651b157503c39185c27c26f723407bcce28dd788a
+
+)Mined by AntPool62136
+
+tx c900d9eb5e5dc1495279d23475ddab2908dfaa8fc233e985c3136326eeffcb1e
+/F2Pool/Mined by lhfs
+
+tx 1620decd8058f92ad647c4a197e9f2197ffb583c7fd3082847024170c91b6223
+Mined by AntPool149'
+
+tx 3fca3abaf9d31597f9b61bf6755e999cef386de4287fd2cdc97fff445b506297
+_/poolin.com/taproot/bip9/2yr<
+
+tx 79bb5a1a4b78178a70e3fc81c731bf90a7eb1d0977ddb98410f8c2925d4c6982
+/ViaBTC/Mined by mfonekd/,
+
+tx 0b5014c1b7abe46cc549c359e0681b21a51f536ab50e09f8d827615905f6358a
+_/poolin.com/taproot/bip9/
+
+tx 3ae02752c27a493fe05341bca7503085d9726862e76ed8d65f039838fc48a59c
+Mined by ce1cn1ne2020
+
+tx e0b19e887f37b3665a1d56f9080c919e7deb9b313a72d9de631772b0de58d47b
+
+'Mined by AntPool625P
+
+tx f441fbc784fa65384c9612999c34a1161ca6bd0fa97c9f42e830f7ab6c0a8e61
+/ViaBTC/Mined by saberpooyan/,
+
+tx 81451775834e219f0d73688fa7e6cf2906c8415f79aad11cf8bd10f4ca771b4d
+_/poolin.com/taproot/bip9/c
+
+tx 837b1a8ac87c4e8de03b38fe5eb19377c6428ef903a922070f0a0697a024ef1f
+Mined by AntPool664'
+
+tx 85c9d9e974bab33296dec9d8346e7ab45b6b18dfcf5bda8fdf903301571462d0
+/ViaBTC/Mined by rme200/,
+
+tx 934082d216b3981f8d0a22f5321726c607561884c5849978b919d308f4ced0e1
+_/poolin.com/taproot/bip9/
+
+tx fd11c8e2e101edd00e7f94bb6b8e453bbe54e0ef482be33c1fdc0ca9ed814679
+
+,Mined by AntPool654c8
+
+tx 845854ca5d853a83b6ca4c4e7b3858ec31ddcadf99862cf24208880a0db16f3e
+Mined by ce1u901spv02
+
+tx 5b3cd34245a2950271e83bc2dcbd3857ec020c60226749b31978de9abbdbed70
+_/poolin.com/taproot/bip9/
+
+tx d0c94d41d4ac5172fb888ac48a419856a3beb503ff628ff016c4e665981e74ff
+
+)Mined by AntPool6443aP
+
+tx 78b30aa540aa0303a6c094a104e1b9a5731d3e51bbba9a2ff77259b57ba492c8
+/F2Pool/Mined by wst3
+
+tx 4a900b92bd099193dd72e5507931d95d4a689177faf02ee0d2b906f8c8bd08be
+_/poolin.com/taproot/bip9/
+
+tx 2c1e843d4dd538b5843157538927e13f1183e2e822b6bfa57a90d0d61fe5d74c
+/ViaBTC/TATMAS Pool/,
+
+tx 54fc5fdee854d13aeaa0c6ded7109846ae7718a47266d0a0efb82afdab241121
+
+,Mined by AntPool64533
+
+tx 56a1702bffcbb976d6edd0839fe184fcbf9a3f8fac7439611ed908eefe697275
+_/poolin.com/taproot/bip9/
+
+tx 1132ebe5bde511980baf082e4b83c7fddda0d8054c7540e258f5bfd801dd95df
+/ViaBTC/Mined by amirnafisi/,
+
+tx ffbe92dd4cac5b6cd47d16ccde3155b1095f2700df81dc28758180e8df4f1931
+_/poolin.com/taproot/bip9/Q
+
+tx 90d5d62e922ede14e1a6def2fd2a5ed9fa5501864274076596dcdd3bdbfa0f11
+/ViaBTC/Mined by 9171339500/,
+
+tx ac271e86edab6f605fc84d51204b7bafca43672261a1cad9738efed400e3d41c
+_/poolin.com/taproot/bip9/N
+
+tx eb04da7be2930caf2ebe5a1a48e61199d8455a3a2c377ca2c39cd0a597ce5388
+Mined by AntPool672'
+
+tx a85f91aa219e6a4edc4851191f23f3ca3bd2bd2c35ab11e6f81893705103c29c
+/ViaBTC/Mined by ferma20219/,
+
+tx a9732c1e9b3b2ecfe58801f24d120b535a5ae8abb750d217d5a837ae3daed75d
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 3cb1514625fb016fede2d53ad0cde5e193e307cc124f90f55da703123fb78964
+G_jrg
+$jsLZCr\r]o!m
+
+tx 81325883c5d1b23dacd6f01dd444bba4fd0bb67fa0598899bd6696d1a0edc950
+_/poolin.com/taproot/bip9/c
+
+tx 6ac61723c343f2b0e7abfb93bf0b58c96bab98693b71371f1a4890fee08c6bf6
+/ViaBTC/Mined by janajol2/,
+
+tx fd4c9f6c36b2815ac20f5fa964cc19336fa26e925cd16adb2b85b9225281c1b5
+/F2Pool/Mined by lhfs
+
+tx ccf70e567db8fc4dc713dbe296608e2f42cb3904cba1236e66aaf96e6a831539
+Mined by AntPool666'
+
+tx 2dc278ca5557b0da93fd35cea5613fd7b7bf6bcac95b0c93796b6e98634af82e
+/ViaBTC/Mined by baga/,
+
+tx 1892176189bf38ef88e96ffb50f8f6b669673873a349bb6aa1f6940997a51521
+_/poolin.com/taproot/bip9/
+
+tx 13fbba48c65626fef677aed4fb6f71bd4f2f1edf78124a2662d7e128a8c5424a
+Mined by AntPool149'
+
+tx 6d5ebe3d6f2a487833717d25c1fa35b8785d085fee3b623b2cce376ecea1ede0
+_/poolin.com/taproot/bip9/
+
+tx dabf113f560d5265edbc96656291d0c5714c393f77455ac01bde94f045e01396
+/ViaBTC/Mined by 18921419899/,
+
+tx 0a7b3260dcadda0c4c32526f3d669d7948b67a986b0bb1e374c8755d1954cb90
+_/poolin.com/taproot/bip9/
+
+tx 2672323e177491b988fccdd354320ffaf797c5d3631d2f85cb85c93274edecf7
+_/poolin.com/taproot/bip9/
+
+tx 71e5057b41d21c42871ab6c835652aca6c131aa8161670f89bed797641e8aa1f
+/F2Pool/Mined by kz3
+
+tx 8058590c8ec01ae425691d5bff36ed50a7c9ad1940b0613bc1cd6fde872ef0e2
+Mined by AntPool666'
+
+tx 52a6bdde36f1d63994393bd33f11623a8d84cb154d053f6a16be0afbcfc75ca9
+_/poolin.com/taproot/bip9/
+
+tx 0339022e4c87b383c7b6d44d18c33234a7c95ce745236f1242e110ea46c8555e
+_/poolin.com/taproot/bip9/-d
+
+tx 75a3e6b767b4cc690fd29f542ec0eecd684d65e01e940e07f2ab98c6f0251b48
+/F2Pool/Mined by kz3
+
+tx 62015dd5ef3f66d15d6e16e96d39076c791b86df28362f5c3acb604d0e8f177a
+Mined by AntPool672'
+
+tx ec5bad5de00d7bbe563fe535dbb8b488dc03847fedec3f0ee448a88aa61a4e0c
+/ViaBTC/Mined by mabnaa/,
+
+tx 42bee60dceda60a0ebf12eb99a0149b9a0bd2857214da4bbd2cec16f8816481b
+
+)Mined by AntPool62136
+
+tx 1232b15ad07b860708576b2790fbc579ea3a7dcaacc2eb78dc323653560077d2
+/ViaBTC/Mined by dcgloan2b/,
+
+tx bd95057276528d790d6220873dde6ce1e384452ed4a87e41bb86ef528d91f54f
+_/poolin.com/taproot/bip9/-d
+
+tx 808db9d584168ec1c8864a5bfb1acbdca4c80ea341b8ebb284adbfbd0f7cad09
+_/poolin.com/taproot/bip9/Q
+
+tx 736b42223c87ca99cced29280e8d5156c24224bc74f945408c9759e9ea1370b7
+/ViaBTC/Mined by lxd2020/,
+
+tx ad786f8891985d51864a262c41aeb5b3045f06df0707b22422ddb7e1572ca6a3
+/ViaBTC/Mined by natee1205/,
+
+tx eab6c062b73210cf991ecfea40f5ad657b9fd0062f4da96950aea99b938ef6c3
+_/poolin.com/taproot/bip9/
+
+tx bea326bdb3b9b200b693f672ef98549d441c299267a7e24989dcd9f27a941382
+/ViaBTC/Mined by lujuncheng666/,
+
+tx fd833fa4e3337ddca3569e999e56a53b8c58129084612b2a29c93afb617dd929
+Mined by songdeqing1991
+
+tx bc006efbfd3af00dc32e346db14fbe86864038e586052a64bf9ca27277222e91
+
+,Mined by AntPool654c8
+
+tx c3ba9b2ff413eb7645a8921645fd162b2a2f244459fc1dea12e0c002be8f55a5
+
+,Mined by AntPool64533
+
+tx f76bfc6a6987a7f02bf81da12a46a4a0d9ce1f175b94cd0b8947971053ace2b1
+Mined by AntPool670'
+
+tx ec5dabb5b30030bf8d3b5f6e24ca47fe3f2e12f7917500b0d484633732f1a614
+_/poolin.com/taproot/bip9/
+
+tx 5d5f468df062e022573305a1dfcd393174b21662f3164629da58f31294a9610e
+_/poolin.com/taproot/bip9/
+
+tx 8a230dde69343226e6a7874a5a05308f5fb675abc4aa60ca9ec894a93e223c58
+/ViaBTC/Mined by rme200/,
+
+tx 20aee5e21f6d868731d426801ed4e6167975dffeec39142ea1ad84bbf7e3e2ba
+/ViaBTC/Mined by a25gagra/,
+
+tx 6a8b855c556877718973edc312c47918312dee4397acfbd58152feb2931d6ca9
+Mined by AntPool664'
+
+tx b88041b372876ed56f67c4031d7901c926703442b2297430836d9df5ac8f068f
+
+,Mined by AntPool64533
+
+tx 1e62bbf60ed0b7a2de523e37d50d3afa31cd81e4f9d3824f9902bc4448678f8b
+/ViaBTC/Mined by zhujunqiang/,
+
+tx b9c3e6554c43dea7c418a35de07183da73105e2babd1fbe6bc143a835bf13499
+/F2Pool/Mined by kz3
+
+tx c5b9681d99a9300930435309836fa68bffc4489dcd55c2a4d8bb8ad1cc1ae886
+Mined by lengjian777
+
+tx 7064da9daa6e41d7de517b84b338c008159217d16b94505e89418239caaaeb2f
+*0x818f0da6ba72feababdabc33cc36300b61167faeuuS!
+
+tx 9026537b5300d202004eeb256a89517468a025a551a5fc626e9bf13230238894
+Mined by parallel002
+
+tx 04c9021c88c569a0b4977e638b29dddd86408166fbb5f37636bbecb2c9716982
+Mined by ce1u901spv04
+
+tx fd38b89b6e5747a5b01bd909125dd439723db5e115debcbd508224a3da8bdd90
+_/NovaBlock/taproot/bip9/
+
+tx 4d8c2ea5e127ec35c21af195a516cdf75c6b9f20727f368ff737d5184c13a2e1
+
+,Mined by AntPool64533P
+
+tx 3d7b53df2626f8093375832e85c299b7c502328fa9b0e801fb24f088b259e166
+_/poolin.com/taproot/bip9/
+
+tx 59300a4d1c139bce5fd3b308a88dda4c9d77954bb6bf6c8493b5ce7523553a20
+/ViaBTC/Mined by shums9old/,
+
+tx aa845d26d00d4fa7ba6660260867130102a7ecf671535707944b510b609105b8
+
+'Mined by AntPool625P
+
+tx e49001d34ca6792549bc5de02aa333637a6fdef20ed30c02e69128bf4e8cc602
+/ViaBTC/Mined by heiheiw/,
+
+tx 6e0fe9231a72f2aaba8b176f69661b3fe1973d0b7294dee63ed332db4cae844b
+_/poolin.com/taproot/bip9/

@@ -1,0 +1,38 @@
+tx ee6c47837f72563f778412d2cc42aed1ff81bd6ec235aafb3e7332b6ab8e4866
+<script type='text/javascript'>alert('the humanities!');</script>
+
+tx 8a9c6c6f8bbd74ec491dec8a10c582a6149c540cba84ad8141ccea9e4d88d7c7
+ /BTC PRICE source: www.masterexc
+
+tx 3d63d11df6dd7195f94fc4a058243ef5fc5afce03774b15512ac54708773bd9b
+Gk D/USD PRICE source: www.quandl.c
+
+tx 20f5f386bf6a5a2558ca9e692dd461f536f5dcfd694a284f0469e2d03a5e82f9
+Mastercoin encoding v3-testHwG
+
+tx ce24cb12aa2e0c31103c2ce6a3489ad5aa7eae527f0a3a3ba80dfe41f3ea06c1
+beautywilsavethworld8nAv#"
+
+tx 345c3914be96285d1092056cb0de2cd7d97fc5507545281cea752111c1db6d8c
+joke@domanscy.net.pl9
+
+tx fafbebaf0d9d2224993c99de0319040297050a00c783328e46836da33020c8ed
+<script>var a = 1;</script>
+
+tx a71438ec8227526be0b8ffdaf83197c7c73e189d12ae08e3bff93cb97364b434
+ /BTC\ PRICE\ source:\ www.master
+
+tx 9c9ea18231bd4058668cd079363c1c102ffbcc9aa7f6806de2984c792028190c
+Gk D/USD\ PRICE\ source:\ www.quand
+
+tx 907e7880f25a089cb227040ed94a339d8bf09eeaa27e5c12c69ac5539c2224b5
+Test LTBcoin Seat AA
+
+tx 14f9c88b53c4ef4626ec76012a8a3587e157bd20f2d6f302f1399e0fdd9122d3
+Gk D/USD PRICE source: www.quandl.c
+
+tx 20576761f2665df56bb35f748e33d865d054517c09c18d80e9da733e0454f77b
+ /BTC PRICE source: www.masterexc
+
+tx ec69c800b54bcf74a86d52a982d3c401fbbb39f703fbcc8afa40b7031628cbe2
+#www.bitcointangibletrust.

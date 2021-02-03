@@ -1,0 +1,116 @@
+tx 6f0e48cb073c328bdd323bc6a2b8c7d65291368d363663a3a76e55cafcc2ff02
+&1/100 fractional share in
+
+tx d259d2853b6ff2fa013ddd5e4072470d5a49e0e7c055b98114d23388db3fbfd0
+s!u=https://cpr.sm/AeEGhwpzx3
+
+tx 53ca65257dde234de34a28de8a137d54c5fda0cba99f64e21215e898f3212a98
+u=https://cpr.sm/miLZPHGyx-',
+
+tx 9495dcbaded91a6fa3e74d4d71fbdb351e309f83aa491403d65769426ea80db5
+
+u=https://cpr.sm/AeEGhwpzx3
+
+tx 6a3e59771b1e004cf0b50cec173d0ff2c33ca2799a16e6d41b2907c20a79f71e
+u=https://cpr.sm/miLZPHGyx-',
+
+tx b880c023800ccd5c8af4828cf0e09f34e8aec74ba3e20a396b84026a681efa3d
+{"hello":"world","this":"is","a":"json","comment":"yeah","now":1399311125456}
+
+tx 0b2570a58a366c390e1a395c1d272d4e59ac654758b45f24256bbdeaea5f224c
+ t 24 hour VWAP CEX.IO GHS/BTC va
+
+tx f0b82da4cab68cef1050c475c40f299ac114466183092721ce74afc0c880805b
+--Paybitcoin.info---
+
+tx 22c483e3a7d7e194219166657f4d3e86c3f53e0104665508d4dae615b840fa7a
+{"b":"Hello People! How are you? By: Fedor."}
+
+tx 585b4fac71f0d4edae1cfab4e108b88e621dc1526537d6eb22879eed36fcaf1d
+{"b":"Hello People! How are you? By: Fedor."}
+
+tx 9775cce133584e7b34cfad320e017399b6450a6a3956f763acb9af8b280a0b8c
+{"b":"Hello People! How are you? By: Fedor."}
+
+tx 4670677c15b19c86699a329bd637e0bbd9bf9fa9bfade96c3d6826143b233164
+*evidos victorious june 26 2014
+
+tx b46d85a129dbf502a46a113ecff53209287c82dd860b6f27212f2a97524c6825
+http://bit.ly/1fvekM9
+
+tx c64c6e5846823c22d0ef8a75f3c36be172185140bf0595a74a3dab500c4bde20
+{"b":"Hello People! How are you? By: Fedor."}
+
+tx 779bf77b7d41729e89d62506b05e6ca883bf1f209942f14852c7da59fbaa144f
+The Airbus A380 is one sweet airplane! N.E.M.
+
+tx 4a3574cd6053c14f6858555b942da16d1f6594aa1750e515c1f6be77e7f686e4
+a{"b":"Hello People! How are you? By: Fedor."}
+
+tx 2c408098e83d1f5838a324fcedf17ee395be942a3012f1d7df4e0b8eee72e52c
+&An asset meant to reward 
+
+tx 3a3401690b93c49064ec7c64e1e26cc49d92ffce8788516b3a7ea190b6e82ff4
+ t 24 hour VWAP CEX.IO GHS/BTC va
+
+tx 8f1e57809e930ec4837155eff727b83768edb31879211a6393b5520a2a69d5ef
+)There are 3.5 billions bo
+
+tx 6892b2d78d378d8f623658bcaf4b6d26a135451c8fa853fb4807f4c2f44c20b3
+)There are 3.5 billion GIR
+
+tx 729fc13bdc176f7b98af5b1b64d62be9c815ba24dd24945be76afa40ce264b25
+His name was Robert Paulson
+
+tx a47819449fd5855e2d51796a29e366912e125f12ce47745a6b6a64092c6af98b
+%https://www.multibet.io/D
+
+tx c1d94dab49c676855ed85e31a4167e7cc26509ff49fbbb8f51ba218413e44eea
+&1/100 fractional share in
+
+tx db67c6932fb09e457cb6d7fe8f71535d21dba1778eb656ee28275b87d2a5c25b
+%https://www.multibet.io/D
+
+tx c7d17ae82e0252376722ec3011c3c6ad18e6bc78175aaa7373380ed9ee066f0a
+&1/100 fractional share in
+
+tx 5254a9d4fa987f987b14fd251bef7603a87c19c55e06614e84fb6205f1d656bc
+o'This is my personal asset
+
+tx a3fcbede2455b9ad546c5eaf8fca5f3aac0394e2b1d1a078745e6dc13d5f8103
+http://bit.ly/1fvekM9
+
+tx 95156dbb48e957754a1fff53ccb9604ee5592dfdd2f117aa37baf635261ef93a
+Buddy is the best dog in the world
+
+tx efd87d4f5960b48bd03021b90cef98ba29ec58657f4725058b226a40fdaf1d47
+mw^Monkey see Monkey do
+
+tx 7ab0fabd43c6dc73010399a308b277840987901cd9bbdbf41750dcf0890ab22f
+Somehow previous transaction got rejected, very odd!
+
+
+tx 325b46f2042b003227a27f1508279d11071adf9a119a4d5906b335dbad497cc5
+mw^LKKL, Dark Ages, Never Forget
+
+tx b8065128d41d6479935c36a5e528c24f0d027ed9eb69cd935b8b8b8115c197ff
+Longer message, than usual but hopefully it still will work just fine. Even if it is almost 128 chars
+
+
+tx 3cb579c8ca64cad4765a6e34e7f9e8d2fe40fbacfb44e17076952bdb088f583e
+'GShares of Strange Membran
+
+tx 52b7ae5b64842a0d4eec38e98e13e3baff078115157ab8d4defe4a3a523c5335
+S)There are 3.5 billions bo
+
+tx f7c9c8da1463974c987dc1b5593cffb59e68023ece5ef9bb98da76a488c5dc54
+S)There are 3.5 billion GIR
+
+tx 8aa9999669674bc9138eee6308f6bc42da5f3fa97cadfacffe4afad9088fee10
+o'This is my personal asset
+
+tx fa85ec90a67afa28d258c14ad9bf2e32272093ac0ce11267d9e2eba58edab7f5
+o'This is my personal asset
+
+tx 9cb4a5c615124f977c9bc7e3e6f236bc68b7c1ded414d68ae4d3d87e15ca3df6
+@Hello World From D!

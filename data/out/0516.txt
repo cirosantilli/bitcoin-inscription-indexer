@@ -1,0 +1,380 @@
+tx dcfeb0e3b6032ff3c49db1baf5f0f24b83214673438cf6309bcc5fc3d55ff9f7
+J26dd2ddfe38d78fe72a5c2346b3f371ee3ec14357be159b487a6a4eb20f85994
+
+tx 52da0f426a2d4e45fe1581b22b02cf5550420ed51bb8e4ee612bb0f44c5183e4
+1966d24e8dd35834d587a915b62510ec090c9502dc9e2c88e416e7aa3320aabfra@
+
+tx b281671cb7fe4a2266d5db48fd06c4e57fd8593a528bbe2d18791bb1c7dc3420
+24dMaRv6UYFMi5Bs2FxzpaKPGbaxzcJQkaJQfhsI
+
+tx 6cce0117a22b0802db4873974e3190fc14e1409ee8712299f9a369fe664e1d6a
+RT {"ver":1,"auth":"0","title":
+
+tx 4d2aed546ecc62b389a7a819179be6f94afadc304c8ba23189ca88cb0680bb64
+RT){"ver":1,"auth":"0","title":
+
+tx b29bb524cf518a733842e73176a0964a87b75b850a349b2e6d8cc07b8218d5e3
+IPOR: ba576ee4c73080b1697abdc5e13a512917b9227f0e0d73690882881593f175ff
+
+tx 2bdd3fa69e83ea6ef25e2d9514e0e1a9cafeee019eafe2a43fe823f8c48d6445
+n kEW Jan and Charlote
+
+tx 9db2501f65876f05d472f4ce492e7e5df0de8f198b2da9531bc9c39336dabb2a
+CSvpsKwTNABmq5hN4CZgJB2oaHV3G2PWJ0Btv51lp1O4=
+
+tx 0d7d8ec257cedf3567a33d72e48708a81705cbac99007f2b6fe417fe60a8a16d
+CA1- 31/Mar/18, BTC 25% / USD 75% refTXID=8b5ee62f8ea9bcd3 dkey=qGcRAwEB#uMT1D9#
+
+tx a39dca61298a789900ccf04c90f068c3aa5640cc3b1460297c3749f1395d0215
+14cMZaSBFsMAEaqDG7Wi3CwXF9dTpjadX51Pt4QI
+
+tx c63b91a368d7e0920547fbb4613b056b777b8a3078f93de65d9a56dee29f09a5
+E6c33f0b3421e315301c86afe2966feeec4eb582b8ad2cd2a13a045940c7dbcfa
+
+tx af37ffec3c1268b0069ef76ba5f5875030114627cc7384e911213f6f8419ce02
+@6629e674cb2836a1a175bcdbefe950793196e3bc7daaf199e96c6f4c2f744e8c
+
+tx f23700d227e38096cdd76d652cd7a9be913514df33c6fed5ea13fefc2a0032aa
+K5|EW l think I would prefer to stay not loo long in hibernation this life.
+
+tx b897d1e564d8f8edc46d061cce2de506872ab40d4e9c04728b6c40cd0f1d52a2
+EW Watch Eva Voesten. You heard it here first.
+
+tx 7d1b16cf21e977f07f2967784d47f6aff89e5f5f5420c86f3d70c2824ea0790d
+EW I promise to prevent a depression to come in my life ever again. Love u
+
+tx 4de94d4c5fafd12b03f83e305d1a3ee6270379684ebd1f8a6300eaba138092b1
+397JcTNGPa6AAdH8o8pKXdwQwGDi22xiLnSDo7PI
+
+tx ded5f30147266309173f5337ca7cb4fd80ffa2cefe587600e01e16063f063e9b
+1522631617 40 2 9 30 41 3 1PProorGK9uSJ5
+
+tx 76954e1287d5c6c865e3c84fdc0ed78d8e3f8d904e47632e90079a8e208271be
+u=https://goo.gl/WQkCx5
+
+tx 26158d072eaf7d36e94d4efd580e13cd24c8d933702c2f0a25ad70c78317ecc9
+u=https://goo.gl/216JmW
+
+tx 9a1c860b7f5f9d6e1573651c533e3504b5cc1c41f7610a92f83c125ff5159f21
+IPOR: a4a2f8a602fdbec58258f2828a8d4b0127b2027124427c0ad06832fc441c4bbe
+
+tx 9d6b20666686029a3938aabc5f837a695144b62adbf4ca7f7ce0fae1563fe009
+d91b980c98f113bd656523cad892cfba27636b9529534ed6ca0ae324bc8f0cf1
+
+tx 1cd190db65e0045692dde48bed8831cdc4df8d8149213e55fe2d317d98acec11
+4562e6ee9aa927e112214a1507ee5ed4a020696fc0b3f49e5737fa95623878d2
+
+tx 3d11f4c6c20e8614a85e5b47c70987720d8055d878d43e7609b5919c6cccb77b
+CA1- 01/Apr/18, BTC 0% / USD 100% refTXID=9db2501f65876f05 dkey=EM74Gp#e7Fc8xUJ2
+
+tx db811cd8b6b58f03b22ef86f375e09d7f8909b3bab9a6e19538354c63346c7da
+C++ytFVewNFArH0dUe1twByXLoAQSqzWYH9vhAnkPMnQ=
+
+tx 02999b736a399836687b33a199915f497094b6fc8a6f575a1cdb3c899dcacfb1
+1Yf3YqMfEgr6tZVTVnh64FS8MUGBbDYBj98xJBhI
+
+tx 5393e8121fdd3b27200240724b66751d9e885e8c78f85a7707f29a7b25d7224b
+dc3474c383311aa1e9927c0e0af6879fa5f9af1af3aa632e35c91951c5ecf357
+
+tx 6c26638bb252b5cf0050953f6204feba02b87e0fa5edc81abaebfb92a0c5d864
+RT*{"ver":1,"auth":"0","title":
+
+tx 8e5e78063f577e6ae47f64e79a21343e815be23e6216352769130d09f0acd0c5
+Comprarbitcoins.org es la mejor web de criptomonedas
+
+tx f66c245ccd2af42135b13762ae9483f7ac3ff1b171192e78175d016041612924
+73dd1dc1a9d70c6bf346909b5f41acdb58e0cfe78af5b0b3ab15eada4dd369352
+
+tx 355c0f09a50b472ece11cff0ec87c838a59dae77647f060d2943e44599789bd2
+0ddcc39d5d49bc268efe3ed83576818f64a36fb1a92788dc119f7bbb54ab7987D
+
+tx ce6e3c00162bb06e0207107dc1866b1f167db6ca4f1a0a9f291fd9c1cd009eac
+1erdFHJKH89y4N9bMWdcwqnaqgH5ipmepyMM97NI
+
+tx 16f86fc4afe80dcc84dc6a83b4a5e98fbdfbd23facebd59fdd1462ccf9434e0a
+IPOR: a180df09e95452d22a73ccdf478bf664f7300c87aed92d22645febd03a00717f
+
+tx 9660db2f90683f7d962a0f1cf4b59ca2f5e77029ff150e92bed1ace0bc7fe059
+u=https://goo.gl/nvyazm
+
+tx cc534ce3e70ffa87efc8279e88c4406356ba1fc299ecaee00acb3d68aede8c70
+u=https://goo.gl/CEvprn
+
+tx 9d5e1f68a882aec15fe328a4fd1fdb5c213151cdd9275ca48ca351ec1f0b68f0
+u=https://goo.gl/GSgpm9
+
+tx 0abef5af0d1f9083e7686ef0760563f4611cb96b574c8d71cc1384f99979fbf5
+u=https://goo.gl/PhEgJk
+
+tx d3c58c76f8c1c6cd0b1d846048c78fbfe60c0c96467c30b74cb52de1266ce9d8
+u=https://goo.gl/huz19e
+
+tx aa26f470853571278fed716ea3f6e4a7014bb163c2b451fd27f21745ce8c3b06
+6550ec568673e1491dd55eb9a7378c526f9dac6d4efb37c7ebac0c59d4844495
+
+tx 7a63969676605612abe64d226f78ae5544e31fdf4da1fa62b6c2bb7092dd4f77
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+tx 99a79f50244319bf329f2b0c25c0ae612e7019d2dd1387b8d18677bb29479bb6
+CA1- 02/Apr/18, BTC 25% / USD 75% refTXID=db811cd8b6b58f03 dkey=OFV8X#RpADBzwTSS
+
+tx e3569c04dd6438aa8e089b2c042f36ae7f34bfbd1dc2104eb30de47c658b6c8f
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+tx ddf7d3044f85371df4cd67f05761eb370f1e536f742519ef6ed6b0d93696c39d
+
+
+Forever and Always
+P.P.S Including the Oh yeah and oone la and I'm so happy to and future generati and the most loving card will live for  hold your hand and  to hear me say than wife a husband coul wiith you.
+
+No word)
+,
+Mikey
+
+Badabushka
+..! Hola from 2018 :E&M 25/06/2016
+
+P.S I just want everyoneIt's encoded on the One day our familiesTo Emma
+
+I thought ias long as bitcoin, ave each other (to have you).
+
+Happy 28tbest mum to our kidsblockcchain which cad everr ask for.
+
+Madison, Isaac and I le friends and familye in our family or heart. I love you to h birthday my sweethhe love that we sharhow cool is that :D k you for being the n never be erased.
+
+nd :D hahaha
+P.P.P.Sockchain birthday caol to write you a blons will read this, ove you so very muchow lucky we are to hrd :)
+
+This birthdays can ever explain tse messages at the eshare life's journeyst thing... Hi futurt would be pretty cothe moonn and back! 
+
+tx 2fa33e11b2f95e8fa403555dca5d4ff9c8d1419e3019100910e494ca020a2659
+CgL826TlrSO0i8l7YcYzDAY087nD5fJysdStPCYd8Hjs=
+
+tx 0ea52f0c3e047e70cd24544c5f7d599741b90d21f45cdf855136a94598644037
+2vwUU89MFrtEpaeevtr4u1RPBNm2t7vpfc5Y6ehI
+
+tx 3882c48263f04be5ea122df959d8de2acda51cb4befba95e4bb898194de68e3e
+-huangfeng.LianLianPAY
+
+tx efde72f8e7a3c08dafbff3ebe49d9c4285da13e7edfc6b15a7666c39929b9333
+qEW Estamos cambiando el mundo un blockchain a la vez. - George Levy7
+
+tx e982c827e8004a3cd88653e1252074853e538bad2868f7fe5c32fa0b262e1247
+8Bokhoe:YH Lim,YS Kim,SB Jun,TG Kim,WC Baek,SY Lee, 1000K each
+
+tx 66d8a468dd0ad08e96c3b9e1ca82ffc2dfa566eb430946055d9784e56e07020d
+test post pls ignore)
+
+tx 601aa191ca69493fbe81cb78bb028ea9a74113a487a93340be37e379728e6739
+5025932a1f802f13365cffae05ac454036875a667a94f9762064a26f5fa0ecb7H
+
+tx c59260ddaa005988bdde1f7e0fe2a892b9ed3f81d9d1edc032f5f1ba45bde667
+bEW Gefeliciteerd met je verjaardag Vincent!o
+
+tx 80c866bb4a798ef27747dbb6314a4076dfb145f74a5ecbae7eacc7cabb9093a8
+DRWHO? If lost return to River Song" I will call just seen this,DRWHO
+
+tx 0aa05ae053bef29ddfddb5a41ac63facd25d80cf9a5066bb390894ba1f959683
+id:vanessazampolin.id
+
+tx 69716f34c204b2dd0af336df775da27acb5b0ea503ad347244bdcf650c7cde13
+2McWfPbVf9qXoiL5k97yKc76kL3dmh3jNgQZfKLI
+
+tx e3c4553329107f232414b5aaba9340b95480d19b03bd1637f19f8c2c9b507a1d
+IPOR: 41471847d324df05d428e58176c34b68dbadac69656c1dcc20da1b69b2352c20
+
+tx 96e47473ac3ec27e5d376f0ec12347bc2282d3500d587f902d0e6d6f86f31bed
+78d81dbe253fcf1ffd8ba5e8de5aacbffa237933150c8695aee47040dee453a1
+
+tx 4132259b0b225531c86726ac04309c191a09497c3aeef38caddde184e3d41af1
+u=https://goo.gl/6ZzAcv
+
+tx 91869f1c8aac7f4820bdb2a12404196165fc9d1578b34720da7900b9a51d3d7b
+Zhenya-pelmenya ja teba lublu! Denis!
+
+tx 7dd9487f96fdd7e47a9af7bf007fa3d35d7bc06f2af137036782ba2762b5e651
+u=https://goo.gl/Lft9Km
+
+tx 93e8715311bc77a371b2233576ab03d5316cf1520c913e6e7546230d69a4d06d
+u=https://goo.gl/EF3sxM
+
+tx d97ed065591aa795172c89bfcb85e31f8808983db2931b273ebb88cbac2df81f
+c686602d308670747219f6ef19bae2ec8f6a4940915c6f695cc892fcd3326a2a
+
+tx c5167ca962e0b0527f72e6809b95992db94bbb0b7f9dcf2ae7541a7d577f16d1
+CA1- 03/Apr/18, BTC 0% / USD 100% refTXID=2fa33e11b2f95e8f dkey=9kQ#WD#hQfE#cE4p
+
+tx 8396f0691173be7ad6213d58af02be2b2c2a0bbc11c52ca74cb88e5b4d8b721a
+Imya Familiya_______Otchestvo___________Was born 01.01.2011_
+
+tx bfe9d8e013af6a3fb3234fe84e766cd66bb04ebc52ff82abdfa932f519a3a934
+CW4I4frFlw8lL44NYyAqblH+3ry8d6oMW7sejHTdSuAI=
+
+tx b6b6076958750c7b8db5d78453ac3657f5ca5d3305a47e85caf158fa852bb370
+3QY7hhJR7qEfkX9EzhaYYhiZMkHPRPXhSKeXKBTI
+
+tx f5b964afbc56098600f5c3094e39586ad56f1305c9640ab52a98b08affb4a57e
+AND_________________In Ukraine, Kiev____Litvinenko Evgenia__Married 04/02/2018__Pavlovskiy Vitaly___
+
+tx 3e69b9619f2c6a1954fcd392da3adb27c243e50695fa29e92f06d40f2b8cb34b
+[d1620ccfc373cd0381574cbe78dcbfa6b8f1836221283bf7eadd96bab800cf18
+
+tx 1544c652bafea228eebc608254e4964b195b5b16a8b54a16fca348a0bc5aeccb
+531483f3c16f322c1fb25ba69196107e997e2fd52dea1c7a0eb3b58da29aa450
+
+tx a14069f98ffbf619888ee75e54a4d915b57b17419fc5debe5ca4eaaa165f82ac
+970b9a2804137c8a53561b57b130e27efeb15898604fd986c74bac2149c8ef5f
+
+tx 345abf3f494638c4a44d9f3581e542c6f361163ca5f80ae466bbb436cf41d90e
+L36ab97256b92e07bda321004b33865ae6f8f59554eea501c9db8a36ac5a319a8*w'
+
+tx 49927a5faf1280d58892384891f02670c6809fc338be8f557bc11c02add9fdbc
+KEW Giannicola1994 at gmail dot com
+
+tx 494d9729d354a994c8e0acc17ec98e1a7982bfe31225ba91a91e8f9d16f84ab9
+a0e3870557b90ee96d3eadc3c46334f8118c2d99c9e09828b246fc84ff38e6f1{]
+
+tx b572109bdb3a17b3ad0d8b18c53406e3395abb43f66dbf8608bf85dd61c9e46d
+6bc72d627e798408c07b65422e98145acf1f069831bac8e8aeda4f257e0b53c5
+
+tx e20d94db69bf2e63a1f4c7d985b41dd678ba5ba067d85bd0e95a0481f97feb7d
+3B6u2q5CphVGewTNqK3v1yVFLgn9CkQYwyQWY8xI
+
+tx 84748525a2029815e0615eac89652048040be547a1a994b380c638b9c35d68bb
+IPOR: 2d8995110a07d933b9526a1223d3619cce29d2835535466929c714107c51b404
+
+tx 0d42d7dd55c19db482cab86edf13abeaf27f75c71deee0f55dc151a13cb6a434
+u=https://goo.gl/dFFnE1
+
+tx eeb511a71b27f6d183d9bc254e1f6a1d2af62ef2267031cc99249b55f2f7e6ae
+u=https://goo.gl/rxuNwc
+
+tx 296945294fcaf3ad4b79c3e5eb38e69427d6a99b8d6eae7be10ba5f119b45584
+886f0fcacbec8034badcf3ba35b3b72fcf0a29993d55f0774f45c4bfd71af2c8
+
+tx d80db8ffbda80d0d33a0a29e3ef770f60175697670a377820eaf4916d016fd64
+a1edf110305ce4c8eb4f8210fceb949437bd1856af18b6f96881066423b27244yN
+
+tx 4e26a691052132735cc4bc53f644096d212c39136bac333e0456583489a86d65
+zEW Giamma <3 Vale <3 Leo <3 Lori <3
+
+tx 0b83318dc8e8e6c958663e245a09607f1e7280a28ffab7d68593da198d749992
+53f2c25868cc8c9fb3ffea50c05f3c3293553836e6cad281648d83a2cb9556d7
+
+tx f6ec2d3a01b5548858d7a373b0c2de92c00b34014843dc4a9cd1991c55daf7c7
+CA1- 04/Apr/18, BTC 0% / USD 100% refTXID=bfe9d8e013af6a3f dkey=74pzF87G277C8#u0
+
+tx e35a49c2b786d71ad690936fed7c317d667ab988da21a9f0eb13cf6a2345c7eb
+f2369fb2c534bd1f92517bd3733f97533c939faedffc0d6022c546d220ead0ef.
+
+tx 70e4a5964d52b52d8bd1d2eaa1efe049fa0bf384c691dd25a42473dcad9cc92c
+1qgoFzJCBp6dU6qQFbEYxgfS37hzP8L6eZuSwnBI
+
+tx af61d67a0152b3abf257ed70eb4b83facf4293dbe58df0c3cf7522eccd35b573
+CsqLFw4qprNktCMkJOCR2wzkhL1/RsJyb0cvM9VAfYM4=
+
+tx 9467abad7ec2bb2f33f6a46a0926baeae430abd0acb8b4fc829aac090cb0757c
+1___________________2___________________3___________________4___________________5___________________+c
+
+tx db9d599b5ee054fb3417b777756c5b0e3b09cd88683433a32197133f58131751
+Pavlovskiy Vitaly___AND_________________Litvinenko Evgenia__Married 04/02/2018__In Ukraine, Kiev____$
+
+tx 03cc7fff01624cb7c9376df56690a5b9c690665cc82abf390ae720127151bd9d
+AND_________________In Ukraine, Kiev____Litvinenko Evgenia__Married 04/02/2018__Pavlovskiy Vitaly___+c
+
+tx e3aff70cbe1db2dff91bd7fd3a085846ca24eacf3e5568671223e919d48469f9
+6bb009f59ddcb62eff4a49de84daa9e0c5fa84d74d97c01489545c7d8aeed9f5
+
+tx 4835551d439f024e39e77e14053bff2e5e1bb8d16397014b0667f76c937f15f1
+b46cd75a6d567536e943f6bfa620f182bcf31fd56e91d921614f10c39d73ecd1L
+
+tx ccb3763a7850e90506a2b7ae3fb068f5ae6c45a832e19eddb9fdf44b1718c0e1
+id:physiotherapist.id
+
+tx 7fac02c3baec41dd6b6d97251255ae73ff5102b5f03126cb0ab260b2c6efdfe6
+511df42fb2944f12be4134fee025e6a4bc8fbce9a1e6ccaa999535504b3f38fd
+
+tx 6f6116ad87b72eed0bcf566d4adb0fa8dc94d1d6cfc38d16429c5a2a9f3610d9
+gina web www.comprarbitcoins.org es la mejor p
+gina web de criptomonedas
+
+tx 3b1f1295edca3dab62dfd081e3a0374d452a98e18726bd90a40ddc9f55d30d5f
+1edqCi54Qnig2NGEKFB6mf8LYoH6NjTwUe7hvVAI
+
+tx 0466cc465c76c5421f5deaa14f5ff68df6fc06d33b9d20f37be31a005e6e9685
+EW I love you Snugglebutt <3
+
+tx ad5050edfae2436a45ea3a09f8f8f45834b86a98cf2b8a86aecfe28ecf203e17
+IPOR: 1126af047e17c1030cadb1b1355e52fad0ba16cb5f663ed3d8e8208be50ee2a1
+
+tx aed03b7d4cfe2cfd9b43c76e3650f1810a3085d6d43d23a43e21e99d07108469
+RT){"ver":1,"auth":"0","title":
+
+tx 7a53a2cc943b936f8102dff54e72cf29050e24b88c14f41d691741c713c8cfb4
+=SfMy dear daughter, this is for you. 
+
+tx 8f0f5ec9bef05afeeb819ec8afe8e707d951878d149603c0e63d881e1fe250b1
+u=https://goo.gl/EMrHKT
+
+tx cfa355637f377ba020c95fcd5c9f71b416646b3acaa6efa2c74b9832f8a6fff7
+u=https://goo.gl/B3Lz6n
+
+tx e4b0112dcf2408dc2878832e4e138d321910c7261ed3d99baa385ab29b0f3b7d
+u=https://goo.gl/vdBj26
+
+tx 24468430a3b6b209781dad717a3f89589550a0ca2f7d14a62949e6c694a9bbbd
+750a4b8fa56831c0f4071fb0ec9f81da2fa13e6a7a0e185dfe08dd2aa7b37444
+
+tx 566b9fa6b2fb238730107d1126685397bac6ea0df54718f59990f60fb5038a46
+c8739deac16f56f8ec9686930933a23cff675385489cd6a055d9bd2c535c369d
+
+tx 12fba831eb6de8eb944e80e42c78d29cf05a833831a335a5711a4b61cf90802e
+Grishchuk Roman_____Pavlovich___________________AND_________Gres Anna LeonidovnaMarried 01/04/2015__=========================++++==++++=========++===++===++=======++====++====++======++==========++=======++========++=========++======++===========++====++=============++==++===============++++=================++=========$
+
+tx 53d3b9c73aaf093d157de786691b2139e6150f9bb111698b4a3f7270b1fb31ba
+76dc378f5882f7b278854c443459eadaf108e20b443b8991901d297ab90454f2
+
+tx 6c6afbae764a31ced5a15421d05e1db39e22a50aa74b047ac9509b6754d97920
+CA1- 05/Apr/18, BTC 0% / USD 100% refTXID=af61d67a0152b3ab dkey=GDANXES#C474BOOY
+
+tx 1e5a2831f49621373bf83489053b37632e9cf1dc345e2572f087235ae52ed31e
+CmXJNoCM/ZHerhIYN3RYMCAz1TSDc3+xDZdEhfwltHS8=
+
+tx d82378187b4c34fe0e8c188d99ec7d623a6388f537efeb2496e66e5742cd7fdf
+353YNS5nCy8c9vGVXpWqbb6jNG6X2x9F6DT4dp1I
+
+tx 61186633ed7b2c360daf9ff69397263bdee6e10ff5b1b48f2cf5b9d15f832c22
+RT&{"ver":1,"auth":"0","title":
+
+tx d5ad6005c14e268dde75ea61a8396e61f336866428a491a0bc65f28647d0041f
+fdf84a747209741720cf0dc7db93d29b451a939cf24f8b4014add2579d64507a
+
+tx cb6b060e638af88c4c40dfce7a6d246e9be1ca3f280999391c073b664cc5f43c
+0102444751181C69eGQTWWWv7p
+
+tx ce58e4ccf9948683b6487c7251c26a1270db60849f85b5d6afdaa54d441691bf
+howdy hows it going2
+
+tx 7005058ee5acf5ebc6858fee3ee4994319e2c570795c20e533e7d74776802f03
+0102444751181C69eGQTWWWv7p
+
+tx 549c902c2c7f9869c5053f5c7b9d1b4b5440b88cef7b0ef1b5b95219ac1e5b7e
+payment id : CPCD4MWDM1IQK6HLJ7V4RJGOC7
+
+tx 1428bc567e0bd597f50d6d08ac68c2b971e79edde65ff32b6757d47cc4feb56b
+0102444751181C69eGQTWWWv7p=
+
+tx a83b021fb1033c65749416831a4f52a5a4cae970fa94e1e92a5df4cac41bee39
+..............See the full picture at TDAmeritrade.com/Blockchain...............
+
+tx c41fb6ea708f7aa0c5256ba4274615aa2db5a6fad9f87ea96919f66b94f0a3f4
+860f1941815d2dc4074626fc061ce5f478e87ff7903931a4518c5db7fe0bf4e9
+
+tx 75aab0641d37ea669ce1868109baf4ec505ee793ca55ed1c55e8537bec0a5262
+................................................................................
+
+tx af97ad8b92a788dcd70286e115f3b3e4442b2068f659a34ce129df85509284d6
+2dfEbMuj75uR1nnPxfcs7UMgUvpCqZCTD83hhqAI
+
+tx c7861e4385e93a10f90359b560b0b4a5e5d407273dc5bba9900a0f5789e121df
+IPOR: 271fcd5445480616029f42bf7a4eeac705d139eb4cc4f03ea5d4a8fabd2b6b7c

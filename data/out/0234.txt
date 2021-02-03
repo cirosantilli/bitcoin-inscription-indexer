@@ -1,0 +1,2 @@
+tx 510a0dc01a01ed7a8a9cfaca309669feea742fd419338ca1157454bd50340d69
+tetazoo puntlist (sha3-512 of newline-separated hex hashes of seeds)

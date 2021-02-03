@@ -1,0 +1,63 @@
+tx eeaaeaacdc161ddb2ebd927917c581ad853799649b86243852d769a9e5790b7b
+12345678901234567890G
+
+tx 240a67ac15918eec76b3a25f5112e694b4d81163ba0860b965b03820a6b4bf02
+w)MoneypakTrader.com_foreve
+
+tx 166b4d8f68bb9eb5e38820e6d2f0352ef410a1e104f13d4d118162f9ceea0544
+J)MoneypakTrader.com_foreve
+
+tx cbe9eadd78e8233b7e5ea3cee522c459613c4b6454a8739e4cf6dda5946bdc58
+ /BTC PRICE source: www.masterexc
+
+tx a2a4ea7388e8348f4ad40d0b143a5ffda2df250c23b6a5446658e3c4e6d549b4
+Gk D/USD PRICE source: www.quandl.c
+
+tx cedbac027462b2a93bfd9fbd85c0c60e654d2051ad5992306a796715e0ea7156
+ /BTC PRICE source: www.masterexc
+
+tx 780ee89a8ffee8099e279562afaab60eb5c3b2166e20c1c7ee35a081f1ba17f1
+Gk D/USD PRICE source: www.quandl.c
+
+tx 104a1b025e1260fe617e20d37c05eb005758d863f2c86d3ba7846b517a1d2176
+ /BTC PRICE source: www.masterexc
+
+tx 3c7905a2d71edec17503e12d8bc35fbd098a78086d169788070fcf6a97715ef8
+ /BTC PRICE source: www.masterexc
+
+tx 2c2ecdaafcaa5ce598c780adab16658b2a4d92d3859b3740ba27339f17e33b7e
+ /BTC PRICE source: www.masterexc
+
+tx f76cf5add0f15f7b0f861145ae2f5368d6ad4ccf748a5db1dcb21ef8a1b472d0
+ D/USD PRICE source: www.quandl.c
+
+tx 0c747fb91d939d34638c8c0445aa7f2ad7c6f76591059c11eb7ae5389f368681
+Gk D/USD PRICE source: www.quandl.c
+
+tx c381bade763a9f6b2301f2368167af1359ed5c9531018027fb8b03e13c5ad33b
+ /BTC PRICE source: www.masterexc
+
+tx 9206ec2a41846709a59cafb406dd7b07082bfc27664bbc5c6d4df310c1e1b91f
+[[CIROSANTILLI CENSORED]]
+
+tx c1a5ba0d24ad94cbd21abea53dc8d2cefe42eb92a014685325b31d3564ecbe03
+ /BTC PRICE source: www.masterexc
+
+tx 1d6f1b24bc31363d07644bae61d6e2a2e54daf815ef7645e0835c964fad913a0
+ /BTC PRICE source: www.masterexc
+
+tx 97cee6564aa1b9c249f525fc78dbc909bd2ecc0ea76345fe6d6e73b16b70c7a0
+ /BTC PRICE source: www.masterexc
+
+tx 6cfcf727f0f69604bb6ce89f0ee032c46321371bf28d31be4e787e3520871350
+http://cryptograffiti.info
+
+
+tx 31c6a708d94f137b5db574206682413260f8700fffd5c4a1913df3576ab1f558
+ /BTC PRICE source: www.masterexc
+
+tx 17fc9f694f5f037345595a2fb9fc393341c20e9d7174ad43bcb080743ba923ee
+Gk D/USD PRICE source: www.quandl.c
+
+tx 7f9aa0784c58dd34c84cee514ee72d35b78ef8d9d03955278719b8a7944cba79
+ /BTC PRICE source: www.masterexc

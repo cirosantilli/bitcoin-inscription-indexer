@@ -1,0 +1,633 @@
+tx 36415039d1452f4578ef1de580bd2248f4c6ebe68d57378d69091fdef523b9a5
+Khttp://www.foldingcoin.ne
+
+tx 646c11ea249cb6b3420f83a40ce1eca8046b59e4ff2ddf6e5c10b948a900ace8
+http://www.foldingcoin.ne
+
+tx e22bfc0af658bdf63d39c902f7c8b0b1336eccc6b9b9157b2836b0a1d52fc024
+http://www.foldingcoin.ne
+
+tx 8e68c21c0958a396d1b84c7ae6977e9e832b276b2309f22b5d76cf61b9d27090
+http://www.foldingcoin.ne
+
+tx 8218c9c1920742f064e520a8bffb67edbf10910607716f5c230479652aa2f546
+http://www.foldingcoin.ne
+
+tx c97e3b2d4316230926c129c9d20529e4573d6da8ed859c4ee16e063462da5bd4
+http://www.foldingcoin.ne
+
+tx 9ac7059c21836dacc34d3507a37d7984910af29fc77d0598d42f36f84601b9da
+http://www.foldingcoin.ne
+
+tx ff448241c8eaff12910cc43181067c2100bbf6855ed6446d20144c033a6494ed
+http://www.foldingcoin.ne
+
+tx 4ea36f160e43795fdb80e1dfa22f598db75aff04c60a7d65c0cfc59b9edf8f16
+http://www.foldingcoin.ne
+
+tx d268ee0b0638a2de5d986b58604d5eb8c25b0c81061eb84f0f7c1f6fc989425f
+http://www.foldingcoin.ne
+
+tx 70a2fdfc12f1726d8bcf861817b578a1c33b7d20e8aa8e645cdacdb9035c9047
+http://www.foldingcoin.ne
+
+tx c5a31e0ff2346efa555a44d6f2227d06f6184e2d6cb508ae12945c249216e94a
+%1KFdMXu5XtfaMYEy4t3N.....
+
+tx 1e702757c8ffb9a0f922412dba7722d0d69940f2321136c5acb09b18f5e04144
+%1KFdMXu5XtfaMYEy4t3N.....
+
+tx 446188406994a3db9673381cc8cb6f7e0e664811c10e059c4f9bbbb2e8e83d5d
+ credit coins of NILIcoin
+
+tx cb674d20d68a16e0c92b90955342110c4b9f03462bfe509fa30da0efe444588a
+ t.io/feed/15VSEs2i8jiEqjcHViRRkB
+
+tx 86781976a98fac58308436742b9c2a73072e585141262ed0a89565d48bb09555
+ t.io/feed/1N3vQcu3iDL4M3Ty9Tiqp2
+
+tx 69cac244051661cc0b8b08905af5ab312a1282b68c932e5d1e3c46ad47ff0f7a
+U2FsdGVkX189edFqLnkpI3VAl54PuBoXwkJJFocqT4Bsv6YW53310AkuBPKy+K9H
+nLIZ15VHIzy9vM9tgSSpwrvEEzIDT3aPMXlXLdEagw0eD8+GHy8KyOG+iTDBCn87
+/hZncJaJbEJd6RWUhxD+eUBbk1TksQNXRm5YVceH4w8=
+
+
+tx 9d7bffa56458030f5a5af78f3efb8df5c4dd902543dafeb48537ec258a3fbc14
+Disney Artcoin of NILIcoi
+
+tx baf5efc9608d2d6bc9e09be58863c482cb3cd4fbb2ad244f9086a5b012b40c14
+encrypt:
+openssl <cipher>-cbc -e -a < cleartext.txt > encrypted.txt
+
+decrypt:
+openssl <cipher>-cbc -d -a < encrypted.txt
+
+
+tx c9569d44b380fce99fd524eb14a678cf6d1be8768e2623e8ff757bb21b6256a4
+lu=https://cpr.sm/u4EayBCu2S
+
+tx 9e0c2cb8d494d6324d77eb4a070ca8c698fd7595fcd7ec79ec456dbaf1e08055
+asset for Swarm testing (
+
+tx 85fdb87c1c8be9bf5f09973560a941eb3b1437201c6f7a61769948bd435715fa
+$asset for Swarm internal 
+
+tx 20b8feef3d293a0dd79e3c169fceb1217465502a523acbab903a7eb0cd183709
+U2FsdGVkX1+BVimRShDAwSXbNyix523DtohyZc7C1SZ0n0sI2M9R4Vh58i2uBoKb
+6HEAWFo3vGQ9xGjuC4arn0LkUv8oOJf+NJzYhLRgHkFlOfetLJXDTMJIBjTQNrlA
+k6dmlBjQ268ToXhsFHiI2G4HUAzcc6rlJQ+o8lmLd86s7RqSx54OUtlBG7P5/VOj
+coBLT8Ui2pSA0UuW/cXJlP8m+4+/DcIRAH6A1bh1yW0fezcjNJsfZHFxxEc3nZGH
+M1coJhUH1nSnsfq/zpnZzRIkSMR0pkhNv98Esqn7Sb2s6xID88PMQNazGy60j16x
+LN3cZX1MYj1C3Urey5xp58L0rtD0FshBszeuJxUB2frK0c8fOcjkuk/NDH9ZCh62
+JeZ6F+Btf1AEBRxIEMLCWrnYgb/v8sl08Rl+pdgi24o=
+
+
+tx 06ac57c3f5927c230d5ca649422219dcc10b653da93697ae16f6b461a84e2874
+6b6e2d312d33326e72716f327132723134353832343233393739327134337137317037347139397135357131346f353330723370336f38327031716f6e3171726f7239383734323673396e32326e333670706f32703432363038316e3534343831736f326e6e7339716e333935366f3334303130343172
+
+
+tx 6c3bab5fc6e6352c62a16ab0f47394845aa41a2c0b25e1a1073a4aeac150e03d
+U2FsdGVkX1+5litew2lMhfrMjodr+gm14lX7LSGSYevcZ+j52sVLKTxXItmY0xaS
+ffC+gVSgXO8GDZvjRZzYFm3hq9w0feS+7i+tVtA02CORDZ7ViySX3BLq5T0EkQ5u
+FN4bwBI5SlNt1/gX7/I7xvQ0Z7hj48xo7kHK1N19FWibdQw/oawMn8bRgiQFY3kP
+jniEjlVfe0M0movLk0GvtPqzQ9V5F9owvGMaQ5l14WzBWOv22CbvtJJv7zjOD6BU
+C3an+O3iiFgOE4tIvJuTt9Afrq3Nnp8LhjxIFcSsgvc1KxcgiCn5BrHZ14qVAJ2N
+Ml+vnb6cIVBmytxfGh6xq5OGxfLyKvqs9HG+EhtmLqA=
+
+
+tx a0e4f837c8372913fa61592c7802338bc15708e580f3f75b2ea0e27db7c5abee
+That's it for now... Let me know when you have cracked any of this!
+
+
+tx bb17b613735fd1e6a9b674847ff2f76b675030063a6abdac28019267033b0814
+iu=https://cpr.sm/gUpxix-ADiv
+
+tx ba92e66f5469ed5551c3ea4391f09dfcc34b78b66946183e80b8636843a34940
+#!/bin/bash
+pw="m1.firstname.lastname.country.descr"
+getpw () { 
+        echo -n "$1" | openssl base64 -A | sha256sum | sha256sum | sha256sum | openssl base64 -A 
+}
+pw2=$(getpw "$pw")
+pw3=$(getpw "$pw2.fuckyou.$pw3.fuckyou")
+pw4=$(getpw "$pw3.scrypt")
+echo "scrypt: $pw4"
+scrypt enc -M 1000000000 input.txt input.scrypt
+pw5=$(getpw "$p4.openssl")
+echo "openssl: $pw5"
+openssl aes-192-cbc -e -a < input.scrypt > output.aes
+
+
+tx 793c96faf796a60f25d3883df7d72da9c9230447df0dabf0cb4c363cf832d73d
+USA Art-Coin of NILIcoins
+
+tx 6c96d6ec1de97156ec05d6e320f3f49e44071ebc116a50ab83a9dcbcda5b62d6
+(Investment company - dayt
+
+tx 46b57bdc48e61936d9056e0d21eaf9550fe780d92a93c0f5afb4f5fdeefa93e9
+'dddddddddddddddddddddddddd
+
+tx 71289db3b63d848deeedf3c5b7763f6d93d6ff42a08fcc0bc0dae5d626480158
+1 Coin", "total": 10000000}
+
+tx e959e8e447c501d94e570cc49e5dada47d114434f3f44cb5f4fbc77a58d171d9
+0 {"name": "TruthCoin", "desc": "Truth 
+
+tx 14d44f7f7c4c4b4db217a35dfa8eb36ffce566a94d91df972cbda484a0d03963
+\1 in", "total": 10000000}
+
+tx 5637ffff1fec9c163a94bea584dab58531d4b328ba2f37755fdac68a399c7a5e
+\0 {"name": "CashCoin", "desc": "Cash Co
+
+tx 43fa323bf228152e818940902a6ce511b52dc0eb2af56c68db1d507e9eab5196
+1 in", "total": 10000000}
+
+tx a7cbbae9000cf0735d8b4aff5f4a9a6f30c08e4efaa7ddf115b6a265f0a7db3f
+0 {"name": "VoteCoin", "desc": "Vote Co
+
+tx b25d9a44d1001e39863753394025d609897e8f1913bf3f8f3d9362a7b64e7a9e
+http://altanimus.com/cryp
+
+tx ff5b576f868a4b34a32bf8cfce1c66466acc7dbd18e620611022f7a99b278967
+http://altanimus.com/cryp
+
+tx 2fbd28b8dfd542c163815432cd05236576e03688c015a178934e8dfb8d84721f
+http://altanimus.com/cryp
+
+tx 84d1638d106214e76a4cf0043467a67f45f139ab7905f0f946d035c1e57c819c
+http://altanimus.com/cryp
+
+tx 9c23d892220a24fa5901f7f78273dd1007dcb69ec00cb47d441f488a6aca4a4a
+http://altanimus.com/cryp
+
+tx b74beee670f255af8310d6cd41596c74a26aeeb879e69db87b6e24e98b897dfd
+1 t Max issues.", "total": 100000}
+
+tx 97f1eadd054b6b4d04a0b5b076963973bc5b2b52ee34d3ae916700443976cb7d
+0 {"name": "MaxCoin", "desc": "Coin tha
+
+tx 674dfac6e26a4228a9195c24170cbc217a1b0dad56bd7e6a61e7b9ce0ddbbba0
+2 I create", "total": 10000000}
+
+tx 641bbf195df827520e38c152530f7bc337a3ac99aef207042ffec041482258e4
+1  an asset that represents the things 
+
+tx df587b1f71d298da9e00124dbb16246e124b6f2c4b607d55ec45cf1e6b0060e3
+0 {"name": "nybecoin", "desc": "this is
+
+tx a0f05f3460e4f8a4abc2a0001bbee771ac4a84707223590edf1e6e41f507d757
+http://altanimus.com/cryp
+
+tx 35387582fb846cfaa37b3e7ee882cfcc925dfe3f3b689a66dd924ae633c85c83
+D MESSAGE-----
+Hash:zz
+
+tx 05d1393a0d8d58afe40216a1dd04090ca79c052811470bd2fd665d5e4618eeaf
+
+
+
+Hong Kong democracy timeline
+1997: Hong Kong, a former British colony, is handed back to China under an 1984 agreement giving it "a high degree of autonomy, except in foreign and defence affairs" for 50 years
+
+2004: China rules that its approval must be sought for changes to Hong Kong's election laws
+
+June-July 2014: Pro-democracy activists hold an unofficial referendum on political reform and a large rally, which is followed by protests by pro-Beijing activists
+
+31 August 2014: China says it will allow direct elections in 2017, but voters will only be able to choose from a list of pre-approved candidates; activists stage protests
+
+22 September 2014: Student groups launch a week-long boycott of classes in protest
+
+2017: Direct elections for chief executive due to take place
+
+2047: Expiry of current agreements
+
+source: http://www.bbc.com/news/world-asia-china-29430229Hong-Kong-umbrella-spraying.jpg"14699\
+!)E-)&&)T<@2EdXigbX`_n|
+
+tx 004dcf6d531011567e89b3facefadf817cd00e48c87d6f62de324efcc8b0b639
+/5894<Hong Kong democracy protesters defiant on National Day
+
+Tens of thousands of people have been blocking parts of the city for days.
+
+They are demanding that China withdraw plans to vet candidates for the next leadership election in 2017.
+
+Current leader CY Leung has urged the protesters to go home, and Chinese President Xi Jinping has reaffirmed Beijing's influence on the territory.
+
+On Tuesday Mr Xi told Communist Party leaders in Beijing that his government would "unswervingly implement the guidelines of 'one country, two systems' and the Basic Law, and steadfastly safeguard the long-term prosperity and stability of Hong Kong and Macau".
+
+Mr Leung, Hong Kong's chief executive, has rejected campaigners' call for him to stand down.
+
+On Wednesday, he attended a ceremony in Hong Kong marking National Day, a public holiday that celebrates the founding of communist China in 1949.
+
+The authorities have cancelled a fireworks display that was due to take place later in the day.
+
+Meanwhile the US restated its position on the protests, saying that a genuine choice of candidates in the election would enhance the legitimacy of the chief executive.
+
+Heavy rain in Hong Kong late on Tuesday failed to dampen the protesters' enthusiasm
+
+CY Leung has appealed to protesters to go home - but many say they are there for the long haul
+The streets were relatively quiet on Tuesday but thousands flocked to the protest camps as night fell.
+
+The demonstrators - who include students, supporters of the Occupy Central group and others angered by the police response - said they were confident that they would step up the protests on Wednesday.
+
+"I think there will be a massive turnout, over 100,000 people tonighyuzt and leading into National Day," Occupy Central activist Ed Chin told AFP news agency.
+
+"We are not afraid of riot police.... We will not leave until Leung Chun-ying resigns,'' student leader Lester Shum told the crowd.
+
+The protests began at the weekend, and police responded with tear gas and pepper spray. Police later withdrew and protesters have remained calm.
+
+Carrie Gracie, BBC News China editor, Hong Kong
+"We want a real vote" is the chant heard in the heart of Hong Kong, which the protesters have renamed Democracy Square. A crowd many thousands-strong stretched in every direction, using their mobile phones to create a sea of dancing light.
+
+It is the third night of protests and the demonstrators were exhilarated by facing down riot police. In a show of civic pride, many had spent the day sorting rubbish.
+
+Others painted democracy slogans on the umbrellas that protected them from police pepper spray on Sunday and that have now become the motif for their movement.
+
+China's National Day is a test of strength that all sides will be watching closely. If the numbers on the street allow the protesters to say they have won the hearts and minds of the general public, Beijing will have to start thinking of a way to end this which avoids either loss of face or violence.
+
+
+Beijing concerns
+Hong Kong has a population of 7.2m and though there are many thousands of people on the streets, the degree of overall support for the protesters is unclear.
+
+Some residents fear the demonstrations could affect relations with Beijing or hit the economy of the financial hub.
+
+Britain handed Hong Kong back to China in 1997 under a formula that guarantees liberties not seen on the mainland, including freedom of speech and the right to protest.
+
+Beijing ruled last month that Hong Kong people could elect their next leader in 2017, but the choice of candidates would be restricted to two or three people who must be approved by the majority of a pro-Beijing committee - meaning the Chinese government can effectively screen candidates.
+
+The protests are seen as a direct challenge to Beijing's grip on the territory's politics.
+
+Analysts say Communist Party leaders are worried that calls for democracy could spread to cities on the mainland.
+
+News of the protests is being heavily censored in mainland China. Media have blamed "radical opposition forces" for stirring up trouble.
+
+The US has repeatedly called for "restraint" in China's response to the protests.
+
+On Tuesday, state department spokeswoman Jen Psaki said that Secretary of State John Kerry would discuss the protests with Chinese Foreign Minister Wang Yi when the pair meet on Wednesday.
+
+"We believe the legitimacy of the chief executive would be greatly enhanced if the basic law's ultimate aim of selection of the chief executive by universal suffrage is fulfilled," she said.
+
+Separately, the head of the US Senate committee on foreign relations, Robert Menendez, wrote to Mr Leung urging him to respect the right of protesters to demonstrate.
+
+"The suppression and intimidation of peaceful protestors and opposition media... indicates that Beijing has reneged on the promises it made to the people of Hong Kong" Mr Menendez said in the letter.
+
+tx f02afffc43dd74c0fa683deed98440d16148281d9a250c71a9a3b1a3464431a7
+Hong-Kong-sign.jpg:9719>
+!)E-)&&)T<@2EdXigbX`_n|%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx de155cff8de0c80379e40226bf9ba91f099fe369553c0b6b2db2b2e656a3ad4c
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 1c8d960f5476e26dfcdf9f5b0081d4506fd9b274fc5a49922e6e52dcf7a52a97
+Hong-Kong-tear-gas.jpg<13415?
+!)E-)&&)T<@2EdXigbX`_n|
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx e2784ecf02e83e08f9b740bb77ab894147049f5d86dbd2a070ffbbd56bddabaf
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx fe0dfa51337dfce616a0e0305d10eed867e56a9f0f006b0521ec1ea32851a342
+004dcf6d531011567e89b3facefadf817cd00e48c87d6f62de324efcc8b0b639|792\004dcf6d531011567e89b3facefadf817cd00e48c87d6f62de324efcc8b0b639
+05d1393a0d8d58afe40216a1dd04090ca79c052811470bd2fd665d5e4618eeaf
+de155cff8de0c80379e40226bf9ba91f099fe369553c0b6b2db2b2e656a3ad4c
+f1fec4edb7de8d929f5319bcf05a86fdc429dc624772d09d27162189faff9ddc
+1c8d960f5476e26dfcdf9f5b0081d4506fd9b274fc5a49922e6e52dcf7a52a97
+e2784ecf02e83e08f9b740bb77ab894147049f5d86dbd2a070ffbbd56bddabaf
+7163103aae9e3c0f849f6d0060898da43f790cf5fe0498de579460e5c92dae0e
+f02afffc43dd74c0fa683deed98440d16148281d9a250c71a9a3b1a3464431a7
+255f7b968bd70f3139c547abc50396b44fb5348bbf57b710298f4d7f5e048768
+694b7764ba16c200c34c27084871cdef1e91e12d8e0ff6abc8f8681abea89085
+7cdb8c88332036b43afa72404d9b9bc42c1eacd8f85e7fe5624r
+5bd73abebc13f
+410f7f60c629d6c180a154b57e1f3b756aeff73abc5970eb539139a77852bf00
+8pyngtVTYWkhdNokfZ
+
+tx 7cdb8c88332036b43afa72404d9b9bc42c1eacd8f85e7fe56245bd73abebc13f
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 694b7764ba16c200c34c27084871cdef1e91e12d8e0ff6abc8f8681abea89085
+Democracy.jpg\10193/
+!)E-)&&)T<@2EdXigbX`_n|
+
+tx be5444b7557b8e5dd5fa6a4872be99d7dd63fc53844b5b47ef4e7873303e7d4d
+u=https://cpr.sm/jkpAaMSylt/>
+
+tx 97bffcccd3c65129f4acc49cfd0f9db406a4efdc0364a83c90ad29538f1b51a7
+ju=https://cpr.sm/cm2gO3Np8o
+
+tx b95c11215b0ca07b37037a8829a11998df2730a56a2c881635e291bb65f34933
+Deepspace/bitcoinOTC
+
+tx 1f4e00d8b11d8f9d587ab27b924fbed9897b34b482a615e0e30f96a89565b899
+u=https://cpr.sm/cm2gO3Np8o
+
+tx dddced2bda6d7e42ff69ee8e477dd66e3756240d0c92ab8cd6e370a3a9534ec0
+1 fraternity Leola coins", "name": "Leo
+
+tx f34e60e637934c40cba2c6e19d2209f38a488a5787785655533798fa3a2deb1a
+0 {"total": 10000000, "desc": "Student 
+
+tx b1f1f1d615026326cb1439260335a40cd454771c8e1adc3a011eadfa1f1b5a50
+2014-10-01/anduck/bc
+
+tx 39661fcb367986c1bbc4ffcc3e3c77fd00f4de838561ce0c06a9d600cdf728d2
+This will be a test transaction for BitcoinStrings..........
+
+tx 9b59148bec7036d3818793395f42d1283e6e08a9e7b018e8351bdc8db2e17b3d
+Testing~2014.10.1@6:52AM
+
+tx a01ad4c0644c910e5b6d19644289dca07ed6015cc0d56189c38ce4bcb2460bc4
+Testing~2014.10.1@9:10AM
+
+tx ce61f3075c97c0f37d70fd591f7bdc113715af2af34b74d6ee6f4cdbdd3c5be3
+https://twitter.com/DanMAbraham || https://www.youtube.com/channel/UCup3BpriTR2GdWGmK-VYPFQ/about || http://www.facebook.com/daniel.mystory.
+
+tx 39bd5238cc0cf37ccdc61d055f1d696cf56f733ed024fbb388e409ff2acb2959
+BlockTrail promotes greater transparency of information within decentralized networks, by eliminating information-access barriers and providing dedicated tools for analysis of network and economic data. Founded in 2014 and based in Amsterdam, the Netherlands, BlockTrail is dedicated to delivering better tools for the Bitcoin economy......
+
+tx c01f9fe326e9c259c8c9a2782c6ecffcd9ec4764cb022229a41f1b751137585c
+TOACIN-TEST:Be obscure clearly.
+
+tx 2730c135e1fee091b82ad30bd201ff950019b08464c1db930934f8908a69fbd3
+f928c8be83d37e0413eea83fc4681bf2584dd7118110d5dd4a31c54b180doQ
+
+tx 9fa04ead8c67aea71f309ca24e67b890fabc082d466a0e06d8c98586a3a907c3
+$https://www.chunkhost.com
+
+tx 5332c214b86513806ef5edd863aeacec8105f7060e66befecb505e6e6dccfadd
+LRBecker is awesome! K
+
+tx 09a5d5aaecdce1757e6ec713cc8a2201abca9acdb6fbadc7760e831cdad3d680
+,,,,,,,,,,,,,,..........,,,,`....,,.....`       `     ```                                                             ` `      ```.:::..,:...``        ` ``.``.````.```
+,,,,,,,,,,,,,,..............`............`             ` `````  `       ```     `                `                      ` ` `  ``````.` `,.:.``.`     `` ``.`.````..```
+,,,,,,,,,,,,,,..............`..............        `     `     ```                                                     `.:..,::```...````,....` ```  `    ```````.`````
+,,,,,,,,,,,.................`........,......`       `   ``` `````     ```````   ```````````  ``                        `..``,...,.,``..`````:`.``.. `   ``` ````.```.``
+,,,,,,,,,,,.................`................`             ````` ```  `````    `````````` `````                         `,.., :,,`,,,.`.,. `.,,,,````````  ````.`````.`
+,,,,,,,,,,,.................`......,..........`        `  ```````` ````` ```  ``````````` ``````         ``            `,.`,,`,:::,::,.,`,....,:,..`` ``   ..```````.``
+,,,,,,,,,,,.................`..................` `     ` ` ````` `````````` `````````````````````  ```                 `.`,``.,,..::,,``..:....,:.``````   ```.`,``.```
+,,,,,,,,,,,.................`...................`           ````````````````````````````````````````                :,,,.,:. .:.,..;.,`..`,......,` ```  `` .`````.````
+,,,,,,,,,,,,,,,,.........,..`...,....,...........`      ``` ````````````````````````````````````````````    ` ` ````.,'`,;. .  :,,.,`;:'`:.``.``.:,,` .  ` ``````.``` `
+,,,,,,,,,,,,,,,,..,....,,..,,:..`.:...............` `      ````````````````````````````````````````````    ` ``  `,;:,,,.:` ` ``:.,,`,;,`:.`..`,.:,,,``````  `` `````.`
+,,,,,,,,,,,,,,,,.,,,,.,,,:,..,,..,:,................ `    ````````````````````````````````````````````` `` ``  ``,:,...` ,`````,.,.,:,,``:.`,...`,,,,````` ``` `````.``
+,,,,,,,,,,,,,,,,.,,.....;,,`.,...,`,:................ `   ``````````````````````````````````````````````````   .`::....``, ```,:,:`,..``.,...`.`.....```. ```  `.``.```
+,,,,,,,,,,,,,,,,,.`` ``:;,,.`,..``...:....,.,......... ``  ````````````````.````.``````````````````````````` ``,..,,,```..```.:,.`..,```......`.,``.  `.``` `  ...`````
+,,,,,,,,,,,,,,,,: ````......,,``......,.`..,,.......... ``  ``````````````..`.`````````.`.````````````````````  :...,```.``.:,,`.`.,````.,....`,...`   ```   ```````.`.
+,,,,,,,,,,,,,,,;..:.,.,,.....,``,,:,```,.`..:`.......... `````````````.``........``.`...`....`````````````````` .,..,,.``.....,......``..,,....``..``` ````  `  ````...
+,,,,,,,,,,,,,,,,::,.`:,,```.: ``.`.:````:`;:,`. ......,.. ```````````...`....`...``............``````````````````....:;,,,,.,..::,,,,`.,:::,,.``.````` ``.  `   ``.....
+,,,,,,,,,,,,,,,,.` ,::..``  ;:;:.`.``` :.;''..`:`.......,.``````.``..`..........................`.````````````` `;::,:;;:;:::..:,:::,.:;;;:::,,,..```````````    ...`..
+,,,,,,,,,,,,,,.```:.,,```..:;;:,```,,.` ,::;,.':`......,.,.``````.`.................................`````````````.:..:;;'+''':,:::::;:;;;;;;:::,..` `   ```   ``````.``
+,,,,,,,,,,,,:,...`..:,.,,:`..,... .,,` `,;.`,.` .`..,,,,,,,.``````...................,...............```````````..,.,;;'+++++';:::;:;;;;;;;;:::,..```   `    ``````..`.
+,,,,,,,,,,,.,,`..`..,.`,:,:...`,,,.,.` :.:.`,,` :..,,,,,,,,,.`````.......,.....,,,,,,,................```````````.,,,;'+++++++';:;''';''';;;;;:,,.``        ``    .....
+,,,,,,,.,,,,.,:,...,:.,.`'.`` ...`.````,`..``. `...,.,,,,,,,,.```.........,,,,,,,,,,,,,,,,,............`.`````````.,.;+++++++++''+++'''+;';;;;:,..```      ``   ````...
+,,,,,,,,...,,,.``,``::`:.;``.,`.....`...```````;,..,.,,,,,,,,,.........,,,,,,;,;,,;,:':::,,,,,..........````````.```,+'+++++++++''+++++++''''';,,```      ` `  ````..`.
+,,,,,,,,,,,..``..`.`,.: `.,.`......,..,,,.````;'````..,,,,,,,,,......,:,:;,:,;,,,:,,,,:::,;,:,,,...........`````````,''+++#++''''+##++++''''';:,.``       `````` ` `..`
+,,,,,,,,,,,.` ...:.`,,  ``,,;.:,,:,::,,::,..``:,.`..,,,,,,,,,,,,....,,:,;::,:,,.``````.,,::,,,:,,,.,......``````````,''++++###@@@###+#++++''';:,.``          ```   `.`.
+,,,,,,,,.,.. ``.::,`.` ```,,;,:;;:;;';:;;::,.`,`....,,,,,,,,,,,,,.,::,,;,,.``.,,;;,;;,:,.``,,,;,:,,,..........``````,'''+++######++#+#++''''';:,.``         ```` ``  `.
+,,,,,,.,....`.`.,:,`````;...:,:;+'+'++'''';;,..`....,,,,,,,,,,,,,::;,;,:`.,:'':;,,,,,':,':,..,:,::;,,........```````.'''++###++++++#####+'''';;,,`        ```   ``  `,.
+,,,,,,,,,..``.::,:`` `,,.``,,,:;;+'+##+++''';,..`...,,,,,,,,,,,:,;;:,:..,;,;,;,::;,;:;;,;;':;.`,,,:::,........``````.'''++#############+'''''';:,.       ```````  `` ..
+,,,,,,.,,,``.``.,..` .....`,.,:;;''###+++'''';::,,.,,,,,,,,,,,,::,::..,:;;;;:;:,,,,,::,,:;:::',,`:,;:,:........``````'++++++########+++++++'';;::.`      `   ``    ` ``
+,,,,,,,,,. ````,... ``.......,::;''+##+++''''';::,..,,,,,,,,,,::'::..,,,:,::,,:::,,,;';,,,,:;,,,,.,,:'::........`````'+++'+''+++++++'''';;;::';::,`    `` ` `` `  ``  .
+,,,,,,,,,.``..,,,,` `````.,..,:;;''+##++'''''';:::..,,,,,,,,,::;::.::,:,:,:,:,,:;,,,;''::::,,:,,,,,.:::::.......`````'++'';;;;;'+++';:,.,.,,,::,:,.``` .:. `` ` ```` ``
+,,,,,,,,,,``,,..::``  ``,.`.,,:;;'+++#++''''';;:::..,,,,,,,,;;':;.::::,,,,,:::::;::,'''::,,,,,::,::,.::;::........```'';:,,..,;'++';:,....,.,,,,,,,..` `.,```  ````` ``
+,,,,,,,,.,`...,:,``  ````.`,:,,;''++++++''';;;::::,.,,,,,,,;;::;.::::::::::::::;;:::''':::::::::::::,,::;:,.......,.`;,:,..,,,:'++':,,,...,:::::::,..  .,,` ````````` `
+,,,,,,.,..``..`.,.` ```.,``.,,;''++++++++'''';;:::,,,,,,:,:;:;;.:::::::::::::::;;:::;'':::::::::::::::::::;,.....`';`,,,,:::,,,:##+:,.,,....``,:::,.```;::```` `` `` ``
+,,,,,,.,..````.`.` ``.``` `..;';'+++++'++''';;;;:::,,,,,,,;:;;,::::::::;::::::;;':;:';;:::::::::::::::,;;;::......;,.:,:,`.,,::;##+;,,,,,::::::::::,` `;;:````````` ```
+,,,,,,,,,,`` ``..``.```````.,;;;'++++++''+''';;;;::,,,,,,:;;;;,;;;;;;;::,,,::;;;';;;'';::::::::::::::::.::;;......;:.;,..,,;:::'+#+';::::;;;::;;:::,.`.,::```` `` `` `.
+,,,,,,,,...` `.```.````....`,,:'++##+++'++''';;';:::,,,,,;;;;,;;;;;;;;;:::::;;;''''';;;:::,::::::::::::::;;::.....:;.':::;;;::''##+''';::::::;;;;;:,.`,,::` ` ````  ```
+,,,,,,.,,,````  :;;,```.`.`.,;;+++++++';'';;;;;;;::,,,,,;;;::;;;;;;;;;;::;;;;;;''';;;;;::,,,;::::::::::;,;;;;.....,+.'';::;;;++'##+;''++'''''';;;;::.,:;:;` `````  ` ``
+,,,,,,.,..``.` `+:::.`.,```.;;+++++';:,....,:;:;:::,,,,,;;;':;;;;;;;;;;:;;;;;;'''';;;;:::,,,:;;;;;;;;;;;;:;;;:.....',+++++####+'##+;;''++##++'';;;:,,::;:;``` `` `` ` `
+,,,,,,,,,.``..`;::;,.`..``::'++++'';;,......:;:;,,.,,,,:;;;:;;;;;;;;;;;;,,:;;;''',,,,:::,,,,,;;;;;;;;;;;;:;;;;.....+,'+++#####++##+';''++##+++'';::,,:::;:```` ````  `.
+,,,,,,.,.. .,,`;,+':;,..`.;;+#+++';;:,,...,::;;,....,,,;;';,;;;;;;;;;;;;;;;'''''':;::,.:,,,,,;;;;;;;;;;;;;;;;;,,...#;'+++####+'+##+';;;++++++''';::,,::;:;` `````````..
+,,.,,,...,``,.,;:+;';:,..,''###++;,,,,```,,:;''.,,:,,,,';'';;;;;;;;;;;;;;';''';;;;;;;;;,,,,,,;;;;;;;;;;;;;:;;;;....##'+++#+#++'+##+';;:'++++''';:::,,:;;;.  ````   ` `.
+::::,,,.,,` ..,;'::;::;.,:';++##+#++';:..,::;'+'``.,,,,'';;;;''''''''''''';''';;;;;;;;;,,,,,:;;;;;;;;;;;;;:;;;;....+++''+++++'+'+#'';':;'''''';;:::,,:;;'` ``    ``  .`
+:::::::,,,.```.;'::;;;':,;'''+####++;:,,,,:;'##+:,,,,,;''':''''''''''''''';'';;;;;;;;;',,,,:,';;;;;;;;;;'';;;''....:#+;'+++'';''+'';:::::;'';;;:::,,,;;;:```   ```` `.,
+::::::::::`..` ,';;;:++':;;''++++#++'':::;;'####':,,,,'''':'''''''';;;;;';;'';;;;;;;;':,,,::,''';;;;;;;;;;;;;;;,....#+;'++++;;:,;::,..,;';;;;;::::,,,;;:````` ````` `..
+::::::::,,,.,:.`++'';+;+;;;''+++++++'''+'++#####+:,...';;';''';;;;;;;;;;;;;';;;:;;'':.,,,::::''''''';;;'''':;;':....+#'''++';++...,,,,:;++;;;;;:::,,,:,`` ` ``` ` ````.
+`````.....,:````;++#'+;+;''''++'++'+++++++++####+:,...;;'';;;;;';;;;;;;;;';;;;:::,,,,,,,:::,''''''''';''''';''';,...,++''+'''#+:::,::::;++';;::::::,,` ` ` `` `  ````..
+``````````..`  ``+++;+'+''''++++++++++++'''+++###',...';;';''''''''''''';;;;;:::,,,,,,,::,,;''''''''''''''';;;';.....,;;''''#+++;;::;;;;'''';::::::,,``  ``` ```` ```..
+``````````....,```+++'+++'++++'+'+++++'';;'+####+',...;;;;'''''''''''''';';;::::,,,,,,,::;:;''''''''''''''';;;''.......;'''++++++;;;;;;;;;;;;::::::,, ` ````` ```` ``,.
+```````````.,,.`  ,'++++++++++'+'''''+'';:'+##+++;:...';;''''''''''''''''';;:::,,,,,,:::;;;;;'''''''''''''';;;;',.....`;;''++++';:::,:,:;:::;::::::,,``` `` ``` `````..
+```````````. ``   ,;;';+++++''''''''+++;:::';:::::....';;''''''''''''''''';:::,,,......:;;;';'''''''''''''';;;';......`;;;'''':,,:,::,:,...,::::::,,,`` ` ````` `````..
+```````````...````,'::,++++++'''''++++'::;';::::,,`...';'''''''''''''''''';::,,,,;;'''',;;''';''''''''''''';;;';.......;;;';:,.;;'''';::,,;;;;::::,,,``  ```` ``````...
+`````````````, `  :''::+'++++'''''++'+;;'+++':,,,.....'';''''''''''''';;';;:,,,,,;';;;';;'''':''''''''''''';;;';.......,;;';;;,;''';;;;::;''';::::,,, ` `` ` ```````...
+`````````````.`   :'+;;'+++++'''+++++''''+++'::,:.`...';;;;;;;;;;;;;;;;;;;:,,,,,,;;;;;;;;''';:''''''''''''';;'':........;;''+++++###+';;;;'+';::::,,,````  ````` ````..
+```````````````.  :''+'''''''''''+++''';'++++';:,.....;;;;:;;;;;;;;;;;;;;;:,,,,,,;;;;;;;;''';:';'''''';';';;;;;:......``;;''++'++'';;;:;;;'';::::,,,,`  `  ````` ````..
+`````````````.,.``;''+''''''''''''''';::'':,,,,,,``...;';;:;;;;;;;;;;;;;';:,,,,,:;;;;;;;''';;,'';;;;;;;;;';;;;',......``::;'+'';:::::::::;;;::,::,,,,`  ````` ````````,
+``````````````.```;''''''''''''''''+':,...:;::..,```..,;;;;;;;;;;;;;;;;;;;:,,,,,:;;;;;;''';;;:;;;;;;;;;;;;;;;;;.......`.,::;'';;:::::::;;;;;::::,,,:,````` ` ```` ``,,.
+      `` `````` ` ;'+''''''''''''''';,:;;;,,,:.,,``....;;;;;;;;;;;;;;;;;,,,,,,,:::;;;'''';;;;:;;;;;;;;;;;;;;;':..........;:;'''';;;;;;;';;;;:::,,,:,,  ``````` `` ``..,
+         ``````..`'''+''';'''''''''';;'+'''';,:,````...;;;;;;;;;;;;;;;;:,,,,,,:::;;;;'''';;;,;;;;;;;;;;;;;;;;':.........'';:'''++###++++';;;:::,,,:,,  ```````  ````...
+          ``````.,'''+'';;;;''''';;;;;''';;::::,````...,;;;;;;;;;;;;;;;:,,,,,:::;;;;''';;;:,:;;;;;;;;;;;;;;;;;,........`#+;:''++++#+++++'';:::,,,,:::. `````` ``````.`,
+           `````.+'''++';;;;''''''';;;'';;:,,,,.````....;;;;:;;;;;;;;;;:,,,,::::;;''''';:..:;;;;;;;;;;;;;;;:;:.,........@@':;'++++++++'''';:,:,,,,::,' `  ````  `` `,..
+           `````:#'+''''';;;;'''+''';'';;::,,,,``````...:;::;;::;;;;;;::......:;;...;''.,::::;;;;;;;;;;;:;;;;:,.......`'##+;:'+++'+'''';;;:,,,,,,::,,:,`  `````` ``....
+           `````+@#+'+''';::;;''++''''';;::,,,,``````....;;;;:::::::::::::::::;;;:::;';:::::::;;;;;;;;;;;;;:,.........`@@@@+,:'''';';;::::,,,,,,,:::,,' ``` `` `````...
+           `.```@@@++'''';;:::;;;'''++''''';,,,```````...::;:;::::::::::::::::;;;:::;;;:::::::::::::::::;;;::.........,#@@@@',:;::::::,,,,,,,.,,,:::.,+ ` `  ````````..
+          `..``#@@@@++'''';;::::;;''''+++'';:,,````````..,::;:::::::::::::::::;'':::;;;:::::::::::::::::;;:,..,...,..,,#@@@#@:.,,,,,,,,,,,,..,,,:::,.:+    `` `````.,..
+         `...`'@@@@@@++''''';:,:::;;''''';';:,,````````...,:;;::::::::::::::::';':::;;;:::::::::::::::;;;;:,,.....,,..,@@@@#@#;..,,,,..,...,,,:,:::,`''  `````  ````.,.
+         ....+@@@@@@@@+++'''';:,,::::;;;;::,,,.````````....:::;:::::::::::::::';':::;::::::::::::::::::;;;;.....,......#@@@@#@+'..````..,,,,,,:::::,`+'`     ````````.,
+       `......@@@@@@@@@#++''';;::,,,,,:,,,,,,,``````````...,:,::::::::::::::::';;::::::::::::::::::::::;:,,....,.,,....,@@@@@@#++;::,,,,,,,:::::::,.''',    ```````.,,.
+      `.......'@@@@@@@@@@+''''';:,,..,,,,..,.. ``````````...,,::;:::,,,:,,::::;;;,,,:::,,,,:::,:::::::;;,,,.,,,,.....,.`@@@@@@@#++':::::::::::::::,;+'';      `````.,..
+   `...........@@@@@@@@@@@#'''''::,,,``.,:     ``````````....:::::::,,,:'::,,:.``:,,.``,,,,;;:,,,,::;::,,,,,,,,,,,,.....:@#@@@@@+++';::::::::::::,;+''';       ````.,.`
+....`..``..,...;@@@@@@@@@@@#''';;:,,.,,.;;`      `````````....:,:;,:,,,:,;,'::,,,,,,,,,,,':';;,,,::'::,,,,,,,,,.......,..@@@@@@@@++++'::::::::::::+'''';        ` ``,,:
+.``.`.....`.....@@@@@@@@@@@@@'+';::,,,.;';     ````````````....:,::::::,;;::,,;,;;,;;:,',:,';,,,:;,::,:,,,,,,,,,,,,......;@@@@@@@#++++';:::::::,;++''';;         ` ` `.
+```.`...........,@@@@@@@@@@@@@'';:::,,;';;,    `````````````....,,:,;;,:,,:,',':,,;,,':;;::::::::,,,,,,,,,,,,,............@@@@@@@@#+++++'::::::;+++'''';         ` `` `
+`.`.`.`.......`..'#@@@@@@@@@@@@';;;:.'+';;'     `````````````.....:,,,:,:::,,,:,;;,;;:,,,,::::;,,:,:,,,,.,......,..,......;#@@@@@@##+#+:;';;::'++++'''''      `   `  ` 
+`.`.`.`...........@@@@@@@@@@@@@@+;:;#++'';;     ``````````````.....:.:,,:;,:,,,,,,,,,,,,:,::,,,:,::,,,,,.,.................@@@@@@@@#+#,+';''';:+++''''''               
+```.`.`.`````.....;@@@@@@@@@@@@@###@@#+'';,`      `````````````......;.:,,;:;,,:,;,:::,,,,;,,:,,;,,,,,,,.,..............``.:@@@@@@@@#,'''''::::,+++'+'''  `            
+`.`.`.`.......`....#@@@@@@@@@@@+++#',;#'';,`       `````````````......:;,,::,,,:,:,::,:,,,,,,,:,,,.,,,.,.,..................#@@@@@@@,,:;;:;:;:,.,++++++'``             
+`.`.`.`..........`.,@@@@@@@@@@;;';;:,:.+';:.        ```````````````.:::::;;:,,,,,,,,,,,,.,,;,,,,,,.,,..,....................:@@@##@,,,:::;::::,,`,++++''.`      `      
+.``.`.`...........`.+@@@@@@@@:;#++';:,.,'';.         ```````````...::;::;::::;'::,,,,:;;,,,,,,,,,,.,,..,.....................@@@@@:::.,;;:;::::,`;:+++';.`   `         
+.``.`.``````````.`..,@@@@@@#.::'+';;..;;;'',         `````````````.::;';;:::;;;:....,,,,,,,,,,,,...,,......`.......`....`....,@@@;''''.,;';;:;:,,;;;++';,`        ``   
+.``.`.`.``......`.`.`'@@@@+';,:+#+';::;;;'':          `````````````.';''''';:;;:,..,,,.,,,,,,,,,....,......`...........`...```@@;;'''':,:;;;;::.';;;'+';:` `  ``       
+.``.`.`.........`..`..@@@'+''',;++''::''''';         ` `````````````:++''''''''',,..,,,,,.,,,..,.......,...`...`.......``.`...:'+''++'':'+;;:;,.;''';'+;;  `       ``  
+```.`.`...````.`.`..`.:#+#+++''''++';,'++++;`          ``````````````;;;';''++';.,,,.,,,,.,,,..,.......,...``..............`..`'@@++++';;+#+;:,;'++'':+''        `     
+.``.```````````.`.`..`.'@@@#+++'+++#;,'++++;.            ````````````#+++''++++...,,,.,,,.,.,..,.......,...``.........`.....``.;#@@#@@#+:++#+;,;+++++';'+ `    `   ``` 
+```.````  `..`.`.`....`,@@@@#++#'++#',+++##;,`           ````````````###+++++##...,,,..,..,....,...........``........`...``.....@@@@@@@#+;++':,'++++++'+' ```    ````  
+```````.``` `.`.`.`..`.`+@@@##+##+'+;,+++#@':.            ` `````````+#+#++'++'.,..,...,..,................``...`````..`..``.```###@@@@#@;';;:,'++++++++' .````````    
+`````.`.`.`.````.`.`..`..#@@#@@#@#@@#:+#+@@+;.`              `````` `'++++'';;:....,......,......`.......`.``  `.````..`...``.``,#@@@@@@#@:++';'+++++++++`.`.```````  `
+```````.``.`.````.`.`..`.'#@@@#@@+#+';;++#@#'.`              ` ````` #++'';;::,,.................`.``......```    ```.`.`...``.``@@@@@@@@#:'#';'+++++++++`````.````````
+```````.`.`.`.````.`.`....@@@@####+++;:+##@#'..                    ``#+++''';:....`....`.........`.```..``.````.````...`.``.`.`..;@@@@@@@#,'+'';++++++++'```````.``````
+```````.``.`.`.````.```...+@@@##@##++;.+##@#;..`                     ,;:;'';;:........``.........````...`..````.``.``.```.``.`````@@@@@@@#,'++':+++#+##++..`````.``````
+`````````````.`.``````.`.`.#@@#++###';,'+#@@;,.`                    ``,;;:;;',......`..```....``.````.`.`..``.`..``.``.``..``.``.`'@@#@@@#,+++;,++###++##,.`````````.``
+``````````````.`.``````.`.`'#@+'####+'::##@@':.`                   `  .,.,;''..........```..`.``.````.````.``.``.``..``.``.```.``..@@#@@#',+++;:++@@@@@@#:..```````````
+```````.`````````.```.``.`.,#@+;###+;',,+#@#';.`   `                 `';;+++;..```....```````.``.````.````.``.```.``.`...``.``.````#@@@@@;,+++';;+@@@##@#:`.`.`````````
+````````````````.```.`...```##+'+##++';:;#@@+'``   ` `                +###+',...``....`.```.````.````.````.``.`.``..`.``..``.``..`.,#@#@@;:+#''':##@@##@@;``````````.``
+```````````.` .``````.`.`.`.,++'####'';::#@@#'```  ` ``               '+#+';`.....``.``.```.````.````.````.``.``````...``.``````.```@@#@@';#+++';+@@@@#@#;.````````````
+if you like it, leave a tip: 1Hygkhh5Lx6uiUXPQUYaVGmAqPCNLjg8sk 
+
+
+tx 9cc477da77a95a7dc3efacad7e3c82afc8d8636391f9a3c788e30d23aa71f0c8
+Govern by all Thy Wisdom, O Lord,
+so that my soul may always be serving Thee as Thou dost 
+Will, 
+and not as I may choose. 
+Do not punish me, I beseech Thee, 
+by granting that which I wish 
+or ask if it offended Thy Love, 
+which would always live in me. 
+Let me die to myself, 
+so that I may love Thee. 
+Let me live to Thee, 
+Who art in Thyself, 
+the True Life.
+
+Dear St. Therese, 
+guide me in your LUittle Way, 
+so that I may ascend to the heights and happiness of 
+Heaven.
+
+
+tx 1a71b39a87021f81ade388e74d9a3e42ae39abe51346594706526e4855c27fab
+,u=https://cpr.sm/AD5Tu4vn2O
+
+tx 42bba6916932d4ef4de9b291a4f261ade560e6aa3168d72bdb2fadfef5547986
+,u=https://cpr.sm/AD5Tu4vn2O
+
+tx 09b26ea94d7d115bcf2ce93783d0e7c7d192ab91866aca488d67f1a30eab85e5
+=A
+$Philanthropy taylor.ryan3
+
+tx e71d15fa95180ff8c15704a4365a6e83e29264f184e73d977b0b3d28a10dd4ac
+bitcoins.SG asks Chris Ellis about one of his open source journalism techniques
+Timestamping videos in the blockchain achieving 'trust-less verifiable non adulteration of media'
+https://gist.github.com/MrChrisJ/bc944b79869b88ae4417
+d215ffdb2a5f0cf7d0e90df1f2a85d64c9039cd0e93eb032b5f989537544c396
+
+
+tx d18b4663bfcc74600c2b8d308972c0fe1c49dbabd37d6dd3f8b9ca0154331380
+u=https://cpr.sm/cm2gO3Np8o
+
+tx 37b19df439ee1946ba8b1b16f265018f36e6eaafdcae0cd94fc1a70123a67bef
+creatureconduitsanctuary.
+
+tx bcf0e93e1dd3aeccb5187feeed15161b7fc30d8c05e47e44b04c48d18fedf423
+u=https://cpr.sm/ywL_4cu7iD
+
+tx 06eb8ddaee0e72c4b36c50c313f67af3272f5352fef27e71219f32e75ac74d19
+ u=https://cpr.sm/vtZXusjGir
+
+tx 3f983970c538f12f07c27aff5d9661999c82bb8973379da6aff24c7f8679ffcd
+V t.io/feed/131JuvBgFwNEa5nMny2fin
+
+tx 0f5137796dacad5db6fed2ca55b0437b5b8f744dd2fe68b1cd5116a3e0807621
+	bu=https://cpr.sm/yI5yMosYvjG'
+
+tx d200823683bdceab6d22460b8b0f85ba04a329c8c345272bca35530f787904a3
+7e11f5200677e6057b193ab135e26bcebdc486bcoQ
+59052b3b8b0939d67fbe7d1d
+
+
+tx d8bf48e9ad3de62c695ff34a96e340912bd62e0a0282b94da6386b837c31a30d
+3ab135e26bcebdc486bc6
+<:C59052b3b8b0939d67fbe~
+7e11f5200677e6057b19
+
+tx aefb28a5cb1018cdfb122b28e025d6795a166c6d0045bb1a08116a422e1940fe
+2 sembly Coins API"}
+
+tx 028be8edb1ec168702a249e30665ed1d14fbe276653b933c725bf5925ae454a3
+1 0000000, "desc": "Ownership of the As
+
+tx dae97c40239d7488470a4098e25d687d21f5dc02eb244a83487dc37d360dae2a
+0 {"name": "Assembly Coins", "total": 1
+
+tx 4c7e786380261c05b2662a7165fd856696547e33187d538dfaac44d73dacb9c9
+Ku=https://cpr.sm/jkpAaMSylt/>
+
+tx 1f2e941d3049089c1314e69b137d54c9b472dd61c70076d767eb56061aa0f8ad
+u=https://cpr.sm/HGiV1wc_RWzg@!
+
+tx 25e0f15a71179c462596652687ff58b7d61b34e74db09c52cc51d4f97bf43e1f
+Cryptocurrency backed by 
+
+tx 6cce8ba5e2b689dfd3005d2b26f94102b31f8813b478b711b540ac803550e91f
+Chris Before Coffee - Power and Participation - 1st October 2014
+http://youtu.be/Ou-zumqDHbA
+magnet:?xt=urn:btih:938fcb49089fb89dba85189ab139e5158c017697
+
+First timestamped
+http://www.cryptograffiti.ioQ
+nfo/?txnr=1199
+f928c8be83d37e0413eea83fc4681bf2584dd7118110d5dd4a31c54b180d1267
+
+tx bc7cdd0e1cc191cdbba1e118dd143e8b21cdc73d44c6c6a00190b66b1c21b563
+2 "total": 10000000}
+
+tx 9e1133cb563cf42248fd6180fe1e89539d38572252f1a1a34e5d6ab3711c9734
+0 {"name": "Assembly Coins", "desc": "O
+
+tx 55b138cbd96cefac7cf600960d82d67e6690ac726cebab7270a5787452889fbb
+1 wnership of the Assembly Coins API", 
+
+tx 634911eb438cfeafb10ffbe687f9086d5e2c86947dfc316db94de84ea98f0bf1
+1 : 10000000, "name": "BitMarks"}
+
+tx 8d107cfcc5518ec35ef63ae51f2e1a5c70add5d12d25a9c55907aed6d1cce159
+0 {"desc": "Geld fur BitLeute", "total"
+
+tx d516ff95c259aca17f682a0a37880546262d2af2b864b317523f29eee574735f
+To OP_RETURN, or not to OP_RETURN.
+
+tx 3dfacfcca1ed0a6202da4bc71e790c5735c8472276203f1f63786436f415f6d7
+Hello, real blockchain!
+
+tx 3ece28c857abbc09a5288437a5ce64d2bbeb6893daf6497575d8072e83a5566b
+ddddddddddddddddddddddddd
+
+tx 0e4381200f1f9eac358d7061ebc80efe8131fe68d15cacce602e4ba66e008501
+ddddddddddddddddddddddddd
+
+tx 2899bed3d270e52c0acea6efdeae4d3b499206712d3dc64a43ffbd9da9a454f6
+ddddddddddddddddddddddddd
+
+tx 5f8e06d276e2907caee50ade14d6c252d4e7f2185ee8fa1eba095f45eace715f
+ddddddddddddddddddddddddd
+
+tx 3f21db9672ed6c8e83caa04a77c0665c68569381d6a0d46ca1795573af10653e
+$Tecmap token for proof of
+
+tx d6a3fc196071beb87f9154ac0da2c9848fccaa0e13188fece0955a3aa6646c86
+Dutyfree.io - Buy cheap cigarettes with Bitcoin
+
+
+tx a41982c360c9579970a0b26a9ee3faf67ef55e9963abb2e8c81118a88a542b6a
+In-Game Treasure Hunt
+
+tx 7a08afa1f67d38c327de4a28d658adaeb72db17b783f89d50b92cbd63c8426b8
+)Crypto-Rewards Program ht
+
+tx 88992824db8fa42600d403b173498367494797fed6b6db57ed395e4316b89d36
+u=https://cpr.sm/pW2kelgElY
+
+tx 94349bcddcc927944049d5542ff3bb6a56672a59548ef36ded7b984c58107df5
+ A cloud dedicated to deve
+
+tx 915560121ba0dd09e6efc61241e1d15ce760a4fa1502aba25728e536686a9b14
+< t.io/feed/1MfiDU8eBV6STVQ3oXTwbo
+
+tx d3c1430d16f103b8cd001f4817bde0f886fa4fdaf6ed9ef9c499ddee87b6a4d8
+bc1b21bd13504f11e6e54a1d55a1319a2cd3d599a1a80b16e380d84cbf119c7e
+
+
+tx 65f8d1ae444c5afa113f47a3852edb4951e9d57d2c342953c697183495ce618d
+u=https://cpr.sm/7IYJ8wcb-Om
+
+tx 230fd9e70ebd66c2395b5f67a1a414e6ab906caae6a73c1eb7e34c595bb939d1
+'https://bip38wallets.com/
+
+tx fef3d4e40096665ea36881258132cf35871f71566827d981164258920515d4ae
+1e44cb08f7b7869034b2dcc6ebc735071c5e570b282b5ee113461b6f1ed4#
+
+tx 4789a4b5497f01b31e4c8054346782476cfb7dcc7a1410df3bdf92602d34e532
+&Goods & Services in Sub-S
+
+tx 74d88874a54f9df10dcac402fdd5726008f46d00f17a4757bc267adbb6bb0553
+Y7 t.io/feed/1KYrVtHMKB1RYt5N8y3jm8
+
+tx 84a260657af3bdcd493a8b7ae59d5ba89c55e81f43e4cb0a3ce1287dd9d77a4d
+ t.io/feed/1DzvVUAVU1P6WifMYPSYe2
+
+tx c3f69c99ca51c709fdea710b1b413f8fe432064719f464a685f3c497e06ee167
+ t.io/feed/1JUpi1ZyciqfLtAHnfhsJE

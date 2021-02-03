@@ -1,0 +1,26 @@
+tx 9173744691ac25f3cd94f35d4fc0e0a2b9d1ab17b4fe562acc07660552f95518
+*>{o*>{o*>{o*>{o*qf;
+z+o>z+o>z+o>z+o
+>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z+o>z1)
+
+
+=yend size=8776 crc32=a7ac8449
+
+
+
+tx ceb1a7fb57ef8b75ac59b56dd859d5cb3ab5c31168aa55eb3819cd5ddbd3d806
+=ybegin line=128 size=8776 name=bitcoin.jpg
+)
+**ww*T***2*.+D*/***+***h+E*/***+***p+R*-***+*,**+[*,***;***x*******
+*m*20010/211133246>76556C<=}9>GDIHGDFFJNXQJLVMFFRaSVZ[^^^IQcgb\fX]^\)
+*m+333656B77B\KFK\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\)
+*I**+/++++++********+,-./012345)
+34@ABCD
+OPQRST^_`abcdmnopqrst}~
+*I+*-
++++++++++******+,-./012345)
+4@N^O=[ABCDPQRST_`abcdmnopqrst}~
+*>{o*>{o*>{o*>{o*>{o*>{o*>{o*>{o*>{
+o*>{
+{j/>{j/>{j/>{j/>{j/>{j/>{j/>

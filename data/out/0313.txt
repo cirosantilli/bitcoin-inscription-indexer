@@ -1,0 +1,530 @@
+tx 6f498dca130ed3742778d6480ef0e5e7894316c424be0570a714b041c45d6a62
+ feeds.info/static/live/btc-usd.j
+
+tx e5b168121916df2ca0553adb5186b5828759d10af622d0274be48b5a2f2a8007
+ feeds.info/static/live/btc-usd.j
+
+tx 1189c4bc3f19a69e83e413e0b7d0e8e2974ee3d8ff4fecb805f4e55808e0ec30
+tu=https://cpr.sm/IBr1lTfxy-
+
+tx c11a17bb1b3fbf8ff9750fec481f0f66939daf9a2c821ceb589331973a476352
+ feeds.info/static/live/btc-usd.j
+
+tx 94188b263342c8d8b7456bec4cc4396b79e3345be531e0a7c114d6c9a8c466d8
+!"Group Buy Mining Payments
+
+tx b00400959f2b3714924c1ce07748641502dddfb61d9e4381d63083d4d212c982
+!"SolarWindMining.Com 1 GHS
+
+tx 25f1b722942233a0445c3416faa0e09b0d61bce46f2c097b88afc33dd68268f7
+ feeds.info/static/live/btc-usd.j
+
+tx c5fccaf33390d5321f295d48df1d0ba5ef27b491323361689cd8e68fe66b6b36
+Ou=https://cpr.sm/VYpxTw_sm0T
+
+tx c993b0c4e03fc40f6527be7f98f55603eef6815af3aa30b4a5de93ec388ef262
+0u=https://cpr.sm/VYpxTw_sm0T
+
+tx c20890805dd4e0da887210833e2e81978fbb71545c573e6c7169a33d83a52ad6
+( "image": http://i.imgur.
+
+tx b47584b6d3e12885e0af346eba9b2c0704ba8d6b1bae4f93707429cebc231e7e
+ feeds.info/static/live/btc-usd.j
+
+tx ed6232d3e1e2f611fc4f861daf2a307e90d51cd7f5a93f0dd18dd0ac575fb564
+ feeds.info/static/live/btc-usd.j
+
+tx 309d41719486a6e991f6cb65a023abb833928bccefee2a85b6462de1ffabab35
+ feeds.info/static/live/btc-usd.j
+
+tx cc77c9f50bd387193e95d0179b2d58d07d13d4c5e87da4da21270de2a5475293
+ feeds.info/static/live/btc-usd.j
+
+tx 59010396b9ec6b8692c4d18d68870bd5286d5f75a17c6a37325e8c74a9750fb2
+ feeds.info/static/live/btc-usd.j
+
+tx 3543449f9fd4e2c011c77d0d6e8a3f43e95c1873790ffc2788b7c6b1a9ddada8
+ feeds.info/static/live/btc-usd.j
+
+tx 9871cddb7dda535de506533ebc0887c78453e51f6b61ff42dc87fa11be971010
+ feeds.info/static/live/btc-usd.j
+
+tx 61f9c514ac26093fb161dc5cf7853eeac64eb0e4353c2e88e4c77d3053251cc7
+ feeds.info/static/live/btc-usd.j
+
+tx 51cd6e747af4fd022b06f9a1d03e4fcbc8660edca95fa1fe5719a48ed109ff29
+ feeds.info/static/live/btc-usd.j
+
+tx 1f0f27f9514a2bb8dd09822dae63bf80b6b6951ab174a3d0fb9a2bf026d9f09e
+u=https://cpr.sm/XaPaOccLS-
+
+tx c5403c4d5621a34e397b6310e09f683af1917ae8a5f162ef5d91964b07df5d62
+.c> xcp.com/feed/561
+
+tx 4019f44646a8c0bf2e29dfa5eb3a62b571a59f405ffb30261d4e5b92adbd0055
+1$FrostAmation Studios Tick
+
+tx 52d3ac60a91b35f80395cd910c6c5db38797ca7e43e56cc1cf85d2e9162ecf44
+ feeds.info/static/live/btc-usd.j
+
+tx 0f6436534b087b8fc8598f03a90b4b239df624e995d5a3646737ff2e792784ec
+1http://tinyurl.com/nt2bqu
+
+tx c594c76779f5f50410cea41110d9b060139cf4f5e18e20ac0b1f7be180f62525
+ feeds.info/static/live/btc-usd.j
+
+tx e81afc692023b600a19ab844dd576299dcea15f9b48b9ea1737169c8b029b6d9
+@charley,37.772667,-122.412318u
+
+tx 5a0a355f9664d73fe2f8f0dc09a5a6e70cf875540e633d7c3174d9ff2da57aab
+u=https://cpr.sm/Orpcws-o3U
+
+tx ca45000d3aa228032ae99eedc308386a2bb441e0464e7f732ea2be73d5329de2
+ feeds.info/static/live/btc-usd.j
+
+tx d7822e9331f8fe708570416a7f92b30989773ca573ceb7dde7b0063a45f381ad
+ feeds.info/static/live/btc-usd.j
+
+tx 49d94504d6963ebe2f73840af8bab314937bf148a963df6776c07e7de53d6abc
+ feeds.info/static/live/btc-usd.j
+
+tx fb87ec754d325a0b585e1e405943ada976d81643aecbe766f8e825b672618442
+ feeds.info/static/live/btc-usd.j
+
+tx 7fe7507445d1f60899118ab5492747f3826f7842da9bd7dc4e6fa40398055393
+"United States Commodity I
+
+tx 23978727034fdbe8be01e5a59848be3eadfd95eb2e69d6465a0768b32382deba
+ETFS Physical Swiss Gold 
+
+tx e31d87bd4c19f55fc07c9370538a37231e9da15cbe85f86f75b72024b318a79a
+Exxon Mobil Corporation
+
+tx ac8c8d5ab1ebebd2beed3dfb495577012982c5ce9cca0d8189e93c7966165eec
+ feeds.info/static/live/btc-usd.j
+
+tx 0b801d4f8c51a4124732ec2cb0cb98bc8962c3fe21bf0543ca41f478ce569c7d
+*48|Dear Aliens,
+Pl?Mease respond..... Monitoring NOWasTtGuZ
+
+tx 9d7656d3d5537bb7e3e809ae1325acd64dcfb1c31bcaa43ac3caa3074c080812
+"98"Is anyone out there?  
+I am Realtime chatting on the block chain using Apertus - Disk Drive (ADDPD)TLoVUdPqNiRqeDJmO
+
+tx f29a0316e49d94b83fa2b89667105f21e84952c40c962a3f3ef1800fed92fa58
+ feeds.info/static/live/btc-usd.j
+
+tx aa7c99c03e1970290fff082667e77492b4c3777b26f105f79fe33d2c6445a7e1
+ feeds.info/static/live/btc-usd.j
+
+tx 1d3caa8350f759cd053ad067387877a82874feb2713151f9d64e69d517eb7a8a
+ feeds.info/static/live/btc-usd.j
+
+tx 56c1951e270a358e9d98cd820048e8d6de790eb524d147b1b45a9608f37221ee
+q%For bioinformaticians and
+
+tx 169f9b67410d90b3f3fa0921a05e7ae01adaa8b6c86b20a1b3e34c32ccbfb222
+ feeds.info/static/live/btc-usd.j
+
+tx 7cb17be5c3cfc8c15a38997f5ad5a1b0476243c1bd5376f72895e3157a8605c5
+:; 0000","title":"LIVE Series - The:;  drum that never goes out of tun:; e","expire_utc":1408464000,"emai:; l":"newbiecoin@gmail.com","name":; :"NEWB DEV","topic_img_url":"htt:; p://newbiecoin.org/images/topic_:; sample.jpg","web":"http://newbie:; coin.org/","logo_img_url":"http::; //newbiecoin.org/images/logo.png:; ","item_sets":[{"max":5,"price"::; 21000000,"label":"If you think t:; his is a cool project but for so:; me reason don't want one of thes:; e funky drums, this is the pledg:; e for you. Your name will be pla:; ced on our website as a thank yo:; u. Estimated delivery: Aug 2014":; },{"max":10,"price":105000000,"l:;"},{"max":10,"price":30000000:;"}],"detail_img_url":"http:/:; /newbiecoin.org/images/detail-sa
+
+tx ff672945e318b53dc83e4873acccb72e9b40f64483f8f2223d22004ee07f1e16
+O$Boosting AI industry at c
+
+tx 26dad6f6df1a5067ea53a6319ecbfb636bdbc6b8f10e982e0b85459744aef4c0
+ feeds.info/static/live/btc-usd.j
+
+tx 6713bc4fc10578c6acb31b53e2177f386e1afe07c4c9ec1b90bd7b8f40bdc30d
+bb251b6aa9a2a35c8904e110106347d3eafa11414
+
+tx 5186890f32478dae5b4f2bfaf349f31f49e127cb6c2c965516d7719ab4ee5a5b
+ feeds.info/static/live/btc-usd.j
+
+tx a8289e3542f75f4f9323473a5eccb20316620f5e561c27c324edd49fceb6c446
+THw xcp.com/feed/616
+
+tx 0282ca495ba87317500bd6d6692f48c9a873f48f6f3e8e46bcfdc172ecdf9bca
+ feeds.info/static/live/btc-usd.j
+
+tx d9cb96364824c581c77a25b09f4f25a3c8607a38c64b89bbb0d9b87dc378db15
+ feeds.info/static/live/btc-usd.j
+
+tx 49c2a0076ef840fc176aa42435593935ff577186849906faf5edc606d23e16f7
+!"Group Buy Mining Payments
+
+tx a7ca6d846fcf39bf24b77234e2bcf11796aff2c32964a49a2f831b331c26fcc3
+ feeds.info/static/live/btc-usd.j
+
+tx b794f5920095a77c4724cab69504f6eab235597db25d67554a2eaba4167afd4f
+.c> xcp.com/feed/561
+
+tx 7dfd2a5c3c31efd7ca50c1e7497a73bdaa38c3a2a7e37f7d28b9e77157876560
+ feeds.info/static/live/btc-usd.j
+
+tx 2d2dd6356f5c3b3131427c59ee5ff29d9775f4e711add7edd1ec7b173300e267
+u=https://cpr.sm/3IwGXlH4ym
+
+tx f83faafc87f7846b31bc80f0763597da537f805025a5575419d51308c0e18bf2
+"Tokens to fund Underdogmi
+
+tx e3ccd57e60ef59b15ed57bef8b0ff5752d7761260079436332713f9a969c2287
+ feeds.info/static/live/btc-usd.j
+
+tx 6e65d95002babc1fa3c284a6aeb97fc13bb4e19ae2f020780f17d7175a6ad6ad
+ feeds.info/static/live/btc-usd.j
+
+tx 3a1a42cbb6c66df302140dc08b8063a7ebad6a322a2f3be3193193e4f6935249
+"85>Cleaning house.
+Getting ready for Chiharu's family to visit.
+
+We are so EM
+
+tx d21d064e2156cdf44017b1690801682d14341e6b2a212670fd1539aff172dd52
+ Torp was born July 21, 1931 in Ipswich South Dakota to Andrew and Katherine Thares. She was the fifth of six children, and spent her youth in the Ipswich area, until marrying Guthrie 
+ Torp on February 3, 1951.
+
+Now an Army wife, for the next 17 years she would move all over the country from New Jersey to Alaska, with stops in Michigan, Missouri, Texas and Kentucky along the way. In between moves she gave birth to 7 children, and managed her growing household, often single handedly, as her husband was deployed overseas.
+
+With Bud
+s Army retirement in 1968 she was finally able to put down permanent roots near Rapid City South Dakota. She became active in her church and was honored to be asked to be the Altar Society President of her parish at St Therese. Her house was always open, and she loved to bake, play cards, and visit with friends and family from near and far.
+
+Bud and Betty moved to the Minneapolis area in 1997 to be near family, and soon joined the All Saints parish in Lakeville. Betty is welcomed into heaven by her parents, her son Andrew, her daughter Loraine White, her son in law Thomas Dooley, her sister and brother in law Mary and Leonard Lippert, sister in law Rita Thares, and baby brother Donald Thares.
+
+Celebrating her life today are her children: Karen Dooley, Janice Tharp (Bryan), Ingrid Maher (William), Guthrie Jr. 
+ (Sally), and Katherine Eggers (Mark), her brothers: Tony Thares, Bernard Thares (Delores), and Louis Thares (Helen), and her 11 grandchildren and 11 great grandchildren, along with scores of nieces, nephews, and extended family members, both related and not, that she touched along the way.grandma.JPG|5853*
+UyUNaNed8K6B1WL5BQJC
+
+tx f65f033ebfff4dc54de2b52e91abdbdd91bb5f40ca3510bfec57b29e1305b8b1
+((((((((((((((((((((((((((((((((((((((((((((((((((
+
+tx adca6666f8c90d6c019f7887284bb93eb709dccd1ec928c5ba6cfd1064a922d9
+d21d064e2156cdf44017b1690801682d14341e6b2a212670fd1539aff172dd52?528|d21d064e2156cdf44017b1690801682d14341e6b2a212670fd1539aff172dd52
+bc7409f242346756d7d0f4858fd89913fe7cdf5c976f038e5fa261915929c742
+acbb6c8d203c5ef65d0ef83bab3ec13bb8657ffbc05ab5979a5879ab5cdafbb0
+f2462557a68e839882a7ef6c8994563afc0d33d4094870b80fb658f6c2545b14
+031f056bb92c0f7e59ec858f456Lb9474ad9e17f604d24fb6bc7bfdf0f5be5181
+aa603dc03f0df4651a557242ded892b4b34c5c8d82606508ec10ba2c227dff9a
+f65f033ebfff4dc54de2b52e91abdbdd91bb5f40ca3510bfec57b29e1305b8b1
+513fc0942720ab5a4d2b0ad7b4899fabfe8f9285823e80597a119e12307262cf
+YK
+
+tx c882bc071b284ac4bfbaf572cd851e68a7e9181a4fbf2bbd1171966fe5405f4b
+ feeds.info/static/live/btc-usd.j
+
+tx 3955f4fadcf0b032cb7ce62bfc760217ade2244aee06f8eb5a8e7b8e7cf388c7
+ feeds.info/static/live/btc-usd.j
+
+tx 3bdb9115869cc80a3f6d1e0f9370132f5cf0c41bfe910a8280b446b6412f4e6f
+In-Game Treasure Hunt Tok
+
+tx 796275b30581e40362a6bc72f1c8d20b93ac8677c878932c678728c899e6fdbd
+ feeds.info/static/live/btc-usd.j
+
+tx e525c964125635a26d754bfeddd354d40aac804e5265e25d5171bd559eed02b7
+in-Game Treasure Hunt Coi
+
+tx 8a77b7452aa2c143d15f3d850a9b504190f610aae9e4c87e6664e6eec6c77034
+in-Game Treasure Hunt Tok
+
+tx a52faf87a56e0bfa9c1914c2c1030fa369c4dc3b0028d0af7e8c2f86c05374d1
+q%For bioinformaticians and
+
+tx 4fda9be1e9115970afaf660bfab9274619098037394457c02717dd3c02e5153c
+q(The official coin of the 
+
+tx 21a031d88205f12b8b6343d422d3f13b6cc213f686a36a1019049e50e6408a1c
+ feeds.info/static/live/btc-usd.j
+
+tx 2ad26b809df16bde4c78c69862fa9463d5e9d60b119503950b4af012d8670fb3
+ feeds.info/static/live/btc-usd.j
+
+tx 40083fa9f7348f64ff088d174e515ee1e39e4e6bafd8a6ad3de3f5771aeaea08
+437c952273f7e0c2c46570fd62693269345bd83d~1
+
+tx 274e2639f2220aeeb0631c1422abc6f45549467633d6e936647c9b1cd95673df
+05111a7dc41b0abef551e73fd7548561c41beb44~1
+
+tx 5b8afe4e78154820e0f7cc23bf8d64ad82679f0d7e3b762cc22e54d5efa0f48a
+0681c6e43c9579d62516b98146364b3ce5c39fb4
+
+tx 417e4807455372ca8c8f319eb6a979e8052fa04eb2adec4327d4ddf4bd551775
+0a3dafd57fef52dc14e560ce8affa72ae4ebf818~1
+
+tx af445b15dba437bbc12d4142216da3e12780340ca695911538599997d477c3b7
+ feeds.info/static/live/btc-usd.j
+
+tx affb086f09f955c60f62232cd40662b505cfd8644f9a21954ff442575375fa0d
+THw xcp.com/feed/616
+
+tx 72ae96c7065499d039b5164776a2cdfce7f443373ff49520260e939f946c19d1
+2fd3ff505da2dd4cfca8d2d1e92ca4d02e6f745d
+
+tx 48053c29d23698ec4c504cf4e9842f08a98ebd507380d06c201a68ba52a6d55a
+ feeds.info/static/live/btc-usd.j
+
+tx 5601fffb63efce2dd726adf93fcf4725d92d1d1086b905e1a1bab1ad9a90ee12
+ feeds.info/static/live/btc-usd.j
+
+tx 14457d76f7ca0b864ceaf3520c85c28802a4f2cc93f8a10df933c970b872ec95
+l.){ xcp.com/feed/648
+
+tx 301f0a37846a207fc651f27c5b22dfd29a805c48f5f8dd544b05d5271438e731
+ES4W%Qr xcp.com/feed/642
+
+tx c32d811c79b920849bea55e071cd6c185d158579868c7da94b80149d284c05c3
+ feeds.info/static/live/btc-usd.j
+
+tx c8ce03aea842d5c308c3349ff8d8e7f98b0ae46fce1bf7dde288ffcd0199a359
+ feeds.info/static/live/btc-usd.j
+
+tx f1cf08704e6f011c42e90d9f89d0fe622ff11fb162b1166f32a823c431495552
+ feeds.info/static/live/btc-usd.j
+
+tx eba3c2191e453caf0e4dfff60fe8875a0ed3df17f614bc582b4b79bde0f2ccfc
+ feeds.info/static/live/btc-usd.j
+
+tx 1e589de53e33844b54c5ff43d12409caf0e0d0e3404c4a5b762a8036a8d8440d
+In-Game Treasure Hunt
+
+tx ae862a0982d71b2bda21c18c45dcae590af01aa5dc43afcd051280f2662a3bde
+@Thttp://blog.swarmcorp.com
+
+tx 98d106db172cc82391cdf42ae6d647a7f7098f106d2bef35d1590f0c4d344e6d
+ feeds.info/static/live/btc-usd.j
+
+tx bef06ff4262758fc3bf24eb24ffdc17ec398cf81b33ddbbceb81ad15e5cfd304
+ feeds.info/static/live/btc-usd.j
+
+tx 4a067236f12dfc18cb3d1a8ca32a1288285bd64f035d07ab83a33720c387ba4f
+ feeds.info/static/live/btc-usd.j
+
+tx 7e8709a2c6c9cea3997c3e45dfa5b8e9f2ce485c5e4d6d1579504f8a46ad1b42
+ feeds.info/static/live/btc-usd.j
+
+tx 2b33e23c8032c310df13fe8558b61531aaa74c45d4d3924f308b0a51e37ca44c
+ feeds.info/static/live/btc-usd.j
+
+tx dd0102a71403201998181aa5ccc2983a045fa1cf707d5f0e6e7011ab2120b6f5
+l.){ xcp.com/feed/648
+
+tx 353bd617cbdc8b6d7f0ea8c7cc4d8fd3c41fab2315b212ec10edf9192a9f141e
+ES4W%Qr xcp.com/feed/642
+
+tx b914c9fdffba3fbb751ade78eb360cb853f6fee70f0c127c485db7324da69996
+ feeds.info/static/live/btc-usd.j
+
+tx eddb9698d5bbe680665a9283900a46fd594d67118ce1fd5af823550705f8aab4
+u=https://cpr.sm/Yi6KfG4z8o
+
+tx 6bce4f475dbc910d72f795858657b29b0e9b8ab14a6756da25d52851a060d1d5
+ feeds.info/static/live/btc-usd.j
+
+tx 56e441e7142c3547d9e2ab9810d9159da2090ae1bf41336f14c27c137d88a9be
+)Crypto-Rewards Program ht
+
+tx 19350ede631b93663193a302fea9f431f5851194e3b730693039ac6554bf99dc
+F?tB; xcp.com/feed/715
+
+tx 3238448bfe67e0cda3b3ed449314de253d43e4cf566859aef18125d162400425
+]PQ_VAFmu?Ntdi.;oKpN
+
+tx 74d14887b966f283644c988868e037e46452fad998d5437cbb534c928cc65027
+ feeds.info/static/live/btc-usd.j
+
+tx 6bfccea03e21b9dfe3c355ac2a97ff2e327c6f69e09b325e6f9ef3b20bbf254d
+ feeds.info/static/live/btc-usd.j
+
+tx 375059d59ec79adb6b83ff7c497799a21810ac61ef99325d7e63b68862babc34
+ feeds.info/static/live/btc-usd.j
+
+tx 8ad2ebfa04645d3c19f2e67b3b8e29b03f06715c99abc879c8e4e668718a53c6
+ feeds.info/static/live/btc-usd.j
+
+tx 71ec5ec554c85e527607f75d894b2ca8dd56064d47812f54205f5d84968d0a23
+ feeds.info/static/live/btc-usd.j
+
+tx 1c06217cd817f02589d4b25a2fe42d65f26266cd3f6e95c155dd44fce83cd260
+Bitcoin Merchant Forward
+
+tx cde86b5771508fdb3cadcee34ed5701ac9ba7f36f71e987d9c0af8d1e2262ee9
+ feeds.info/static/live/btc-usd.j
+
+tx ffa7693bab19841911106d6e59caa413c2a033b7deef62491efc2b19c7c5c31e
+ feeds.info/static/live/btc-usd.j
+
+tx c7b43a51b5b41ce9811fdaab93faa8317333d35c51db0ca9524ee60dbe4b2f92
+ feeds.info/static/live/btc-usd.j
+
+tx 7675ae05dc8b85c4218b5bd3ec0cee49766f915b863e91ab3eb26e9d3ebe8b47
+@Rodomonte,41.892916,12.482520u
+
+tx 16b06930da4efbdf76182769592c569ffbfc3d3ff3aa43a9b2a3f1e3310a81a9
+ feeds.info/static/live/btc-usd.j
+
+tx bb4efd9008e30ec328077c00ca9e03932aa9abe7882596bc28622b236ae32a46
+ feeds.info/static/live/btc-usd.j
+
+tx b17a36086118182f7f03b951bf285958efca77f3a12fc65655a7abb79779503c
+@Rodomonte,41.892916,12.482520QD
+
+tx d9109e9553df98082e559a9ef932080d5ac6bd10409d1c4ee8e1c0bd540645d2
+vOhttp://vyktory.webs.com
+
+tx bfe24a5defefc8dfb329839870712e00706a40459b96e0d0c7ab567178a2042b
+F?tB; xcp.com/feed/715
+
+tx 86050507d7ebe977e000e11555e8b8920a94cd89bb23558a2ab7b40006408788
+ feeds.info/static/live/btc-usd.j
+
+tx 105f6b5fd491f0f1ef79320176c8b62ebd67a34a7167ea2f1f6240f300518a2a
+vOhttp://vyktory.webs.com
+
+tx 92fba6e349376cde33502f39de9a06dfe459d8fd51c78d08ca974d5b2989c91f
+Medical Development Vote
+
+tx 262add85d47b2cc4f7eb5a48bfd8333416699c4e700ad63bd8db474e8b82340d
+ feeds.info/static/live/btc-usd.j
+
+tx 891ce774a7889440e2483a712326988f7f72f42f887b82f9ad34efcb4730aca0
+1)For info goto www.FrostAm
+
+tx 342b60aec41e41ab0e65550104eba5fb342f6abe70ad19ca0bed20cfd901a864
+u=https://cpr.sm/Dg0PFPAf9a
+
+tx c4b971df346891827fd61c2bd18d7b9aedc03f17f1199e20a186df5b52f0e2f1
+u=https://cpr.sm/DeTitxcNJkE
+
+tx 6ce581b3b330f692e1c0755d67b3c3c0b3e5f683fae91375185c1bf55bea37fe
+ feeds.info/static/live/btc-usd.j
+
+tx 8ae10ef956ecbe49dcd0336cdb692f02dd66ebfac5fda8be3cfcd7d8e5ac01ce
+bfa xcp.com/feed/725
+
+tx ae75f7bf98c3f479404b6fbe408b9c3298a5a979ab15d2a5f9e28c91e7f5c1c1
+-oi xcp.com/feed/717
+
+tx 2e001988aa7e7a893764287eea253f92206aaec4c19b3c2f92866274fcc9f017
+Y`-kw9 xcp.com/feed/720
+
+tx 252c02bd6326b8b29a9024aa452f82b6c275ef8e2843530b38d76f6127fceb82
+ feeds.info/static/live/btc-usd.j
+
+tx d9990f4c77d23b49f8fd2e35e35e18dcb5cbc116e8b778687fd2a32a58c0f628
+ feeds.info/static/live/btc-usd.j
+
+tx 3e44c707637ff42223906ba4ded731540c1a7911d270227ff3f891c566f77d65
+ Official ASICRunner minin
+
+tx 704ab0ba07d896818fce3b33dabba0ab1e6326d5fa7d0b7c3e2cd8f7561ccfd3
+0626ce4cf01ad1fff0a33aca23fc9dc30510a0d3nD
+
+tx 603ee53f601228f0af922bafaa31cac7c9e3b9e406c042f5f76a09b847c64f94
+u=https://cpr.sm/0ENAUHDoPZ
+
+tx 4fb22a7f253a72802273bc6f2fe37422eff8e167ac61b8b0bb15d0d7faaffa93
+'u=https://cpr.sm/OrMIHDA0xjiS
+
+tx c74b680fb5b5311ce3bbda49184a3f3e71d6b30b6010fa629ac76131685d86b4
+'u=https://cpr.sm/JBIOtousWuI
+
+tx 98344eddb3557a5dccd8398f2378a849c8ca39b45213ade4e34593efb1d98e49
+u=https://cpr.sm/MRhAZRdGII?Y
+
+tx 5b7deedc1657b013bca0bd7810ff17f1fdd6eed4d723a516a35312d24eeb03fa
+3ZF9u=https://cpr.sm/MRhAZRdGII?Y
+
+tx 466ed47c408ef56a6b61c61027c8aae7f5ff7d428f35a29ac8d7e4aba5dc8f25
+ www.tetranon.org postage 
+
+tx f3569940872f20e186fe5b8d653032a9141d8cd073cc76f23a032c6f3e8eb3ad
+ feeds.info/static/live/btc-usd.j
+
+tx d97fa5352d92c4000edb93329537a5c6273191f5640224db47c1a60ce5868e98
+u=https://cpr.sm/Dg0PFPAf9a
+
+tx c28fc48650b56a69a617066a4a98e3d320a55dadb513bb28149eebd8f72dabfd
+5c2fa21549641c4c17847179ebac054f0900a097
+
+
+tx 26cb9d74516207e56e72dd0e0f56c1c6e460c6b95bfc945c40d7e021f9bbc9f3
+ feeds.info/static/live/btc-usd.j
+
+tx 4b1573a490d8d0c33849fef8b8430b4071c773d611b22720c2ead5439d87652a
+DOCPROOF::CoinSecrets_PATTERN_WENT_WRONG
+
+tx b24b53aac22ba8765c6ea22731b92dd7b40d5a52112df62be0fac95803402ab6
+16f14066ee48a9b727b66
+e03fe33e43582d98dfdb
+
+tx 64190a57af04036aeed34f9dbe929149443606341b17132e2ae2115befb35d73
+DOCPROOF::CoinSecrets_35_BYTES_ONLY
+
+tx 9e3086b50b7ab23c2c04cf9836cd3ced2ad0a54e35d4869c3db068e95fb13f11
+:; 0","email":"newb-test@gmail.com":; ,"prj_tx_hash":"7cb17be5c3cfc8c1:; 5a38997f5ad5a1b0476243c1bd5376f7
+
+tx c1d45bd2d61c35976650474d138bab4712d3ae436c510ba032cffad4773e00b6
+ feeds.info/static/live/btc-usd.j
+
+tx 1b9bd41be44ff7347289d32d82c9963c34c1aaf9b46547642e868309fed44d46
+u=https://cpr.sm/fatQeH01DJ
+
+tx 92f2816c865578724d4c1c2ead4acaf136fd794d5972ebd5fcf5d2386c66a577
+6u=https://cpr.sm/fatQeH01DJ
+
+tx 94b40fbe4dea842d24a9a7264408d03c29181a947d1c81d8525e2f8b8e62753b
+ feeds.info/static/live/btc-usd.j
+
+tx 2eac0712c9ea4b10a0882b72f24d98f609ffc75b6e94f7a7ed0670ad4b892e4f
+:; ","email":"newb-test2@gmail.com":; ,"prj_tx_hash":"7cb17be5c3cfc8c1:; 5a38997f5ad5a1b0476243c1bd5376f7
+
+tx 728558b421095cd99a304c1e7b4a2243f164d88ce517d9ef4208836eb97edc86
+ 0","email":"test-n2@gmail.com"," prj_tx_hash":"7cb17be5c3cfc8c15a 38997f5ad5a1b0476243c1bd5376f728
+
+tx b27c1dddf0498d12039029e59aeffbcacc8baaf234dfa152f275b9e5ad4d2945
+ feeds.info/static/live/btc-usd.j
+
+tx f3667d3295aca059c349d0d88c1f8df928df4a7a6e8559f34bc958434a7bd9a7
+ feeds.info/static/live/btc-usd.j
+
+tx 10823bef863a1a5e0a95beabebe88745c8b959f2919965d4affcb39908b1129a
+ feeds.info/static/live/btc-usd.j
+
+tx 1065f28130e230dc21b03809f731bd97f6ccef8898b9998bdd0c2bab542bbbfa
+'`ZG ","email":"flankliu@gmail.com","'`ZG prj_tx_hash":"281a47d0c5f8b22b01'`ZG af1cd0fe192f872cf103954942a3d249
+
+tx 9e9ab901ad3dd02c45e8707d8eefe7f66a2b9853af8fe39c33684fe21057ade0
+Testing OP_RETURN for /u/Netizen_Cookie
+
+tx 1d285312e70ae67027caae3891aa32dc365bb77bd15bc5bd5b9bc93ff7cb6c14
+ feeds.info/static/live/btc-usd.j
+
+tx 9f167a9cd1bdd91ee02feaad60b2f2b35d2d30d6fc8e3f392d926f614453b654
+  34567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+
+tx 75dd65e515d58a9d34422a7116e5ad84c1bc76c893f51f10fc17c4b56cadfde9
+Hi Jesse, from Denis.
+
+tx f7e7354551432f82ffcef8bd2f14ec09fc1718b81791aadfdc9c88e460154619
+Y`-kw9 xcp.com/feed/720
+
+tx 6fc8183b38cb1dedb5872207ae7e9b9333307931bc1440f922186b7ff9e85fb2
+-oi xcp.com/feed/717
+
+tx 9e9f043028a5dcaca75ba2f37dc6760e8215589215ff7a1475e6e94089b4cbb6
+bfa xcp.com/feed/725
+
+tx 8e616ed0f97424f791e52e0ead6f84fd6dbc546579293f13e15c5cfd3328deec
+ feeds.info/static/live/btc-usd.j
+
+tx c6d443bb1b62dc31d9e4fcac841ad5dddcdf627620eb6191449ead1f6eb7b982
+ feeds.info/static/live/btc-usd.j
+
+tx 3cee3634e8dac5ae7da82ba08d2991228dce3cd1852f07aa20f7d36afd13dcf3
+%more info here : http://g
+
+tx 94431f36217a28e85b799100088bdd26d5f0b6f55913b751347ad8db657ac240
+ feeds.info/static/live/btc-usd.j
+
+tx caafa8a75673ab6f19829a3e30b93e394e8e004324f52507f5511445885016e8
+%more info here : http://g

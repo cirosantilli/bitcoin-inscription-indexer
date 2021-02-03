@@ -1,0 +1,1256 @@
+tx c92846f6c98669adef2f75b00f83e669140de8b09db69556b82101acfb10bc34
+ feeds.info/static/live/btc-usd.j
+
+tx ee2e542f1965d12bd1ebfc5e889f64048cbbc2105efc1827bc6f47f1673d0df7
+ feeds.info/static/live/btc-usd.j
+
+tx b5919bee90cc50b226a23bf7b10d2c7ca5c89bd0f86bf12aa217d5b4e47f1776
+ feeds.info/static/live/btc-usd.j
+
+tx 766c6ad340946abeb185daffc3e2cb9fe5fc490f4b38e8618e7cd2376bcfe16b
+u=https://cpr.sm/-o6A81NnDp
+
+tx 3bc2f56e6180db98a4fbb3bdf2a14dc834e59549030b411b36884302e32d231b
+Let's sign up and say hello!
+
+tx 497df70b770316a7a7808955fc2732fb2a2a7b7699a710ca92733ccdc5aca578
+ feeds.info/static/live/btc-usd.j
+
+tx 866c883da9ff174f834ae00ac8ef1cd9347a3ce96e7c6a50caa8fba0ef524a4b
+ feeds.info/static/live/btc-usd.j
+
+tx 88b5547d2f5eb95e9f72c693aac1da051f6a9084253235ac2ede98eb69fb7ecd
+ feeds.info/static/live/btc-usd.j
+
+tx 0c11be2d9fc3909844e4849991285d61e0d888446b9df948fa617fbcd4ff0d3c
+ feeds.info/static/live/btc-usd.j
+
+tx 59d979a73d8c4864e9cbda6993558184684a97e130dbfab7e1b02da5d4b221bb
+ feeds.info/static/live/btc-usd.j
+
+tx cd3b3f33c67ad3c0ba7ed241a508b1a70f337dbf5ce463796751c849f0d0ca7c
+ feeds.info/static/live/btc-usd.j
+
+tx ecada103c4a274d116df40d24f2570fcb558b6e67ebf913d4f8587da82abb24f
+ feeds.info/static/live/btc-usd.j
+
+tx 4abafeb497297cd23d6e709e12bc1b36ea2282027afe71ace9e9c4b972a8d402
+ feeds.info/static/live/btc-usd.j
+
+tx f22bdd3c34e7d18a5399ab69b33c2e907f1203c80e220c6d64d56c4be8949d16
+ feeds.info/static/live/btc-usd.j
+
+tx 3c32b8909419d2bef44595d1cd55087e3de1afa4df0b9daa7b9799b3a73fb3b1
+ feeds.info/static/live/btc-usd.j
+
+tx f3d94d98d74bc304e4f9b00a3f3df7f1db33ad17d884cf36eb0bdb7ad6fd0fb0
+ feeds.info/static/live/btc-usd.j
+
+tx 74b398a685c12040adafd35b2c251a53eabbfaa7c07539516bc040db663b4649
+ feeds.info/static/live/btc-usd.j
+
+tx aad3b964c4588d9d92ebd5346696439cf301acb3df8f113c0eda688ce002dfc9
+ feeds.info/static/live/btc-usd.j
+
+tx 1f0c9b364cea45e537b96eb36d0ab21ee6d52645b437417a45833c6e07469746
+ feeds.info/static/live/btc-usd.j
+
+tx 63c679623743ac707fa0b4a45ad4b43c65662025ffbd127bc0fa783c8eef6021
+ feeds.info/static/live/btc-usd.j
+
+tx 536a6fe58cb79f861fbbcc2291bd3c3ab2a1016c6f53f67d7a5b6e6c2d618db0
+ feeds.info/static/live/btc-usd.j
+
+tx a78f3c07d3a3917ffb372256c0e25d54446e5a65a0d6ef432e6615f6f9388255
+0 {"name": "kkkl", "desc": "tennis", 
+
+tx 360a56e44337e5c481c4f2eab5f13fe433892058e2e09014a9ccc94bc204ee3b
+0 {"total": 42, "desc": "tennis", "na
+
+tx d2fcb8516f5a045b52c2ab72132f281edec943dbdfa8de6fb897ba090abf49a1
+ feeds.info/static/live/btc-usd.j
+
+tx 97233013f1d10bcc366d868d8708ec1c7e2240c26d494e2634e4791a736d9b58
+ feeds.info/static/live/btc-usd.j
+
+tx 2a11c7a7760fa8b49f1e22f2a2ce96ceb540c6f87161fe0896be3464cb906cdf
+ feeds.info/static/live/btc-usd.j
+
+tx 1760a87c7acc506e6a2158b26dd6de38f0bc950bdd175e08cd36c21f31ae2225
+ feeds.info/static/live/btc-usd.j
+
+tx ff44261162532546f200ff9044e8349381ae597ac00608fa9b049b8798e93671
+&digitaltangibletrust.com/
+
+tx 2adb0b097ffb10fd720470db502ddcb86a333b2333df0861f8f30f43c1a38854
+ feeds.info/static/live/btc-usd.j
+
+tx 9f9422856243f4634566d2e581b564c94d9cad6b9b281053a7c9969bfdf68da2
+#http://jpja.net/ BULL $50
+
+tx 8e99588565f7f65f8606140aa8886b501df27c916a489eefe0e2b60b4f31e232
+#http://jpja.net/ BEAR $50
+
+tx e436ebdaf78f5e7f1bfd39ac215bc4391f8a2eca5f43f92980a61c86eab5dadd
+?727"Sky, Earth Series
+Expired Kodak Ektachrome-X circa 1963-1974, exposed Summer 2011
+
+Title: Sky, Earth I
+File Name: 6546.005.tif
+File Proof: CD581838B3B6B9E48B8A5624C8E1B60811F629C462CBC85CD88AEF15CDC5B57B
+
+Title: Sky, Earth II
+File Name: 6552.010.tif
+File Proof: 4844B1A37EF29A1A9A6D00F7E9151245E501A0B569F502A8555F48C64B7F3106
+
+Title: Sky, Earth III
+File Name: 6552.006.tif
+File Proof: FDFE430C503587E6FD5969F5D2F5923327190B607D968D5423098964B347F879
+
+Title: Sky, Earth IV
+File Name: 6552.007.tif
+File Proof: 7A57B8F0E78CAD257836EFE8F30BAB70A38E4C87A322928B00D44D2C96FC0CA5
+
+Title: Sky, Earth V
+File Name: 6552.005.tif
+File Proof: DE4198678F9E962815440E825066A2394E3D44E5263351551ADD099CAD40744E
+
+EMBII
+SkyEarth5Archive.jpg*18508\
+Copyright (c) 1998 Hewlett-Packard Company
+
+tx 4e37345c184b72381d7319a72d0b0965dadc3b3c9519747faf22b75a62d9902f
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+
+tx ed521a854985ca1cb4c52b419eb25512914a616dc09f0901cf0d5a34e547271a
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+,Reference Viewing Condition in IEC61966-2.1
+,Reference Viewing Condition in IEC61966-2.1
+!)E-)&&)T<@2EdXigbX`_n|
+
+tx 34312d9d0ca043b6bba45a181e812d6b6374d3755e0255ffe26df3527f1a62df
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx b85ea5db1f4a1850eda7c4007400b09f3ddf66f75eb2d48eb6f58b3a9ac307e7
+SkyEarth4Archive.jpg?18583|
+Copyright (c) 1998 Hewlett-Packard Company
+
+tx d4fd981a175a54063660318ab8a23ac39925dd1ffb6c4eba68f7fad921e8ad65
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+
+tx daa976f9e8b2a1cb7d8b81956992cf99783d5ebd23f88318b6b431950ba07a0e
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+,Reference Viewing Condition in IEC61966-2.1
+,Reference Viewing Condition in IEC61966-2.1
+
+tx 7ea921ed9f833269df3bbfb5bf0b09400c3e9cc6482a3ea6735b97e64553451d
+!)E-)&&)T<@2EdXigbX`_n|
+
+tx bcf8583bbcadb0688b2d038c06acaabcb6161bc72051e6d972659e35aeb84b09
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx bfa8dc3e6d3094b66688f8f65879260de8d17a016674f13ee4122828d7c51ff6
+ feeds.info/static/live/btc-usd.j
+
+tx 75fc91da531e7a9ecacbdf9ca7a25c16ef1b722d55f2b4af05c3121c068ad976
+SkyEarth3Archive.jpg*16065|
+
+tx db2baf6d95cc99efa9ada9e80b5178c25caaf2d03ff26d093021ee53f3d5cd68
+Copyright (c) 1998 Hewlett-Packard Company
+
+tx 252b48a713ff4834d9aff7daf37c887401398bfd4d25543fc35989464372ef74
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+
+tx ee4f66c461327e2593e10200ebb4c8543624bed7c53291358b34057095397bf2
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+,Reference Viewing Condition in IEC61966-2.1
+,Reference Viewing Condition in IEC61966-2.1
+!)E-)&&)T<@2EdXigbX`_n|
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx c8b297f4d87911f30e6a1883f20929e85a2efe2b20414eddcb309b34e22cdddf
+SkyEarth2Archive.jpg"16582>
+Copyright (c) 1998 Hewlett-Packard Company
+
+tx ee939261312aa90ab04ef7cfec014d98a107cc903e3169854f521d57519dae20
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+
+tx a5d6c2ba9afbfdb74e4cd9d0d878889ec709cc267656e12c0cb3a4045e2f153e
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+,Reference Viewing Condition in IEC61966-2.1
+ence Viewing Condition in IEC61966-2.1
+
+tx 82b557a71c8f0c7882d8aea2638e717feaa6dbc0a8da6fd239512b5a8d2a8657
+!)E-)&&)T<@2EdXigbX`_n|
+
+tx 04c0a88b19fc3fa2a9175f92e3fe0880ea3963c32460876c2f5d40763efc720c
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 33b5a4d85a2fd07ef2da5c59faf189e42075893bdef5dccb2e18928575ea9380
+SkyEarth1Archive.jpg>18180/
+
+tx 4352d51282df936494793da015037d982e2efbf76dde254bb07c1982e0a79c5c
+yright (c) 1998 Hewlett-Packard Company
+
+tx 665c5a0633f20ef9ecc309d28012db94fe4817daf45e3c20291992eeeaeddec2
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+
+tx 40c94c1ede9cb30e03776764edf8782e8e199abb5eced7d0ad04457ca9092d6a
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+,Reference Viewing Condition in IEC61966-2.1
+,Reference Viewing Condition in IEC61966-2.1
+!)E-)&&)T<@2EdXigbX`_n|
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx ae8d3b46b934bedc363e11abe8c8607171994470957c286274f699a0b3a9bbd7
+e436ebdaf78f5e7f1bfd39ac215bc4391f8a2eca5f43f92980a61c86eab5dadd\2970?e436ebdaf78f5e7f1bfd39ac215bc4391f8a2eca5f43f92980a61c86eab5dadd
+bb362ace2d0a4598cb8f3c38809ef41db39e385ff532b001f24aafda57b25887
+4e37345c184b72381d7319a72d0b0965dadc3b3c9519747faf22b75a62d9902f
+ed521a854985ca1cb4c52b419eb25512914a616dc09f0901cf0d5a34e547271a
+34312d9d0ca043b6bba45a181e812d6b6374d3755e0255ffe26df3527f1a62df
+262fdd8cbe2465271c37c6a4ef6cfd130474b53bc3e3b120f00c4bd8218c1bd8
+aee05408cd313fd56d87b1062c708cd09f44891a198dd5b38a273a34342089b9
+b575d31c1e5d7ed55668d0e8b5a140e540fddf8e0c59ac4f090b62c752dbd539
+b85ea5db1f4a1850eda7c4007400b09f3ddf66f75eb2d48eb6f58b3a9ac307e7
+d4fd981a175a54063660318ab8a23ac39925dd1ffb6c4eba68f7fad921e8ad65
+daa976f9e8b2a1cb7d8b81956992cf99783d5ebd23f88318b6b431950ba07a0e
+7ea921ed9f833269df3bbfb5bf0b09400c3e9cc6482a3ea6735b97e64553451d
+bcf8583bbcadb0688b2d038c06acaabcb6161bc72051e6d972659e35aeb84b09
+4b8dc22834f4a28bb2c0d0a86cbd0bfe22c315ad2e40dd1e1f3a44dc87e5618e
+aa80a7a2ff65f3fcd657fc73793dad31c72fab447e69594a8fab4cc616ada54b
+249247a44fb4fe54284268549e4f6ee07bec519b10f93988c6adfc61b637ae01
+75fc91da531e7a9ecacbdf9ca7a25c16ef1b722d55f2b4af05c3121c068ad976
+db2baf6d95cc99efa9ada9e80b5178c25caaf2d03ff26d093021ee53f3d5cd68
+75abf3b916949efce027de1cd5a8f298b877744db509a67d4078d8fdd014d91a
+252b48a713ff4834d9aff7daf37c887401398bfd4d25543fc35989464372ef74
+be60f2d44818508c71b8c5396c963c5861174b3a1f5541fd4ed148fa58e837a0
+ee4f66c461327e2593e10200ebb4c8543624bed7c53291358b34057095397bf2
+7375283f6037e7b8ff9e920b18144801f43c10954d6541626f0f965d5d007ca4
+4d3d6e5f3fbdf38900c67f4c4c2d398a6c376c932b4670cc656c37f5f462d748
+7f2b4a93c1cefea5ce95dcbd82f624825a317b30cb0496735ca720f12433f1ca
+c8b297f4d87911f30e6a1883f20929e85a2efe2b20414eddcb309b34e22cdddf
+3da5556d4803c78fb3412b659e12d12970178e66808157b0bfffce4bc9a64e90
+ee939261312aa90ab04ef7cfec014d98a107cc903e3169854f521d57519dae20
+a5d6c2ba9afbfdb74e4cd9d0d878889ec709cc267656e12c0cb3a4045e2f153e
+82b557a71c8f0c7882d8aea2638e717feaa6dbc0a8da6fd239512b5a8d2a8657
+04c0a88b19fc3fa2a9175f92e3fe0880ea3963c32460876c2f5d40763efc720c
+5b22cae59bba1e6aca21b8750d9bc27d081f0141cdc899eea13079eabc792961
+704cfb6b942998c9ba2dabdca78205fc24e660704bc81ff4328fa09ee797eaa2
+33b5a4d85a2fd07ef2da5c59faf189e42075893bdef5dccb2e18928575ea9380
+dcbf58647b492692f0f38c28a71aca4c56f9bb73eb368a8804ce5e8b65a01049
+4352d51282df936494793da015037d982e2efbf76dde254bb07c1982e0a79c5c
+85d7809f42931df446afec17e434de054276df755f4fdcf694ee13fd44132187
+665c5a0633f20ef9ecc309d28012db94fe4817daf45e3c20291992eeeaeddec2
+a820584e14864e9651729e2f6074cd9b2ea26ad4485962f757d20f78620dccec
+40c94c1ede9cb30e03776764edf8782e8e199abb5eced7d0ad04457ca9092d6a
+38777b2227c858549ebeb067499a993e27dd9b7d344c371e1d4ce4e130dd9e0a
+b063c1b2b03eae37260d02ea48da1d9c00a8c144dadc8795bd72a44a12ef7107
+6535abd32058ed82dc816ad0f3569554b112b8696ebdd9fcc66b0294fa8b0612
+2ed66fa525437f1bb740b6eff46ea9b9e611165753a0505573ef2f44d57a8999
+eaf4cb10c53bf9bd9f2afb91fe7d744ea190acb7b30e0c8c91a665f43d470b3d
+
+tx e3f0bf94df3da245db28e52257a6d6fc175bad7eddabb8c0b7ec2a0c15a730b3
+ feeds.info/static/live/btc-usd.j
+
+tx d3eae20c3ff1dfb00deacc8b839f0304a369eb525d1a20c7ba7228167ca95be6
+ feeds.info/static/live/btc-usd.j
+
+tx 06ea452a40370e8f1690222df6db9f6979354228fd8904ad3d7533a4d3d9af06
+ feeds.info/static/live/btc-usd.j
+
+tx eec91650c804201894f8517efb3deeb49f53eac185433f63c527dcbb15e0cccc
+ feeds.info/static/live/btc-usd.j
+
+tx b54efb39489a9b9862f550cdf9939fec710e8d65abeb2b98a4d75c7ec6bf1d10
+ feeds.info/static/live/btc-usd.j
+
+tx 7ec180b2c22ec260bee0f1ba3139d195680d22dcc9edcb17215bd570c61b9a29
+ feeds.info/static/live/btc-usd.j
+
+tx 031e49f2e2969ae3d40d7829e37abb061c478f13a08e410763982c6414c85524
+ feeds.info/static/live/btc-usd.j
+
+tx 7ae19eabdc9a007e9e097656f613525cbb0669e9c0e7e939f6c6da48ee43a7f3
+ feeds.info/static/live/btc-usd.j
+
+tx 60d44113e19873418f97906efacbe7fc7449403263217bd62ce7bd1746065dbf
+ feeds.info/static/live/btc-usd.j
+
+tx 4ed8d81b94adae85da44e114aa4167c320747d034b45c7e6ef3c42f136189d66
+ feeds.info/static/live/btc-usd.j
+
+tx 35a4d750d850661cfec930c98cc32030d59f59d8a00a5f787b0f6ba8eb14bbbe
+ feeds.info/static/live/btc-usd.j
+
+tx 4035501e433b2c54b54961e7445ecbcfa151718c62ee515af73cb11eb9419ba9
+ feeds.info/static/live/btc-usd.j
+
+tx d3dab00ed85ffed996b346f905eea16c155c55c7c65d09d52c5c8c3eff951f46
+ feeds.info/static/live/btc-usd.j
+
+tx a1d6ecb4f80c2a87059285ef4163111341ce750f5a06feeab0668d79c714e2fb
+http://goo.gl/6jQ86V
+
+tx 76031bbe0e0a1a833d0d8dd76e946d2762f5ff8f03bc5fc5d87747debaa50857
+ feeds.info/static/live/btc-usd.j
+
+tx 86d3546694465888bf172fa7a072df24d6a85bf0f39df9cac3354fc6ff4a9dce
+ feeds.info/static/live/btc-usd.j
+
+tx dbd94a6bf2621fdd68e9bfff0374b7aa9eb0dfa3b8c48b7ad9c845fcdf47d72d
+ feeds.info/static/live/btc-usd.j
+
+tx f18c542f1244d1940acc84c75570ce5b6e71c5356509dfdcf61e8748f835653d
+ feeds.info/static/live/btc-usd.j
+
+tx 171e52f64a593ac7b2933ff8bedca532a056f0a728563656abd5f5226ecb6c88
+ feeds.info/static/live/btc-usd.j
+
+tx 9630eb42c2a225bfb1d587a4623d8e220557a64f16f63a4f3176d5e4a8789e46
+ feeds.info/static/live/btc-usd.j
+
+tx c5d0057c17658d1809cb9fd7a537b102c0c0f642c318e37e2380013301993016
+ feeds.info/static/live/btc-usd.j
+
+tx 8332813d0bd5d968c942d94f7e817dc2b08740c6d393a84b4fdca3890ecbcf71
+ feeds.info/static/live/btc-usd.j
+
+tx cb77dbf114fea188848e32b2d7d50bcdcc4ab642d763ee6c0296ffbe2dec8046
+ feeds.info/static/live/btc-usd.j
+
+tx d5ff240d4884b1bdb8dcfe7c0ca44a5afd08bd430b1fe819bbe957f10130ef21
+<LTB Organizing Token
+
+tx 655200b5269e07a14d5b9a46d0dbd97ae8ed3ee2c95ac24c943007bc81fd26f9
+!A Token to Control Commun
+
+tx f9222ae485a3b3aa40638c68498bfc658afa49630d463ecdf721868f9c5814ef
+ feeds.info/static/live/btc-usd.j
+
+tx 6a911d040d610c6191404c90511c607759928e4840e8bf7afcd8abb0a0e0046d
+ feeds.info/static/live/btc-usd.j
+
+tx 0145c277e2050b62258b281c980453780a7d67a79bcb97f58b61d4d9fa38b823
+ feeds.info/static/live/btc-usd.j
+
+tx fbed5fb8eadb629ad421aaa3cbe6c44de812f32acf8afea1a1f85ec591c7c4d9
+ feeds.info/static/live/btc-usd.j
+
+tx 56f0672ed21069d6348286565ae6f8479120098c2d1176bc221fb5ca752ee40d
+ feeds.info/static/live/btc-usd.j
+
+tx 1b1c9400e186ce0010a1a5f6dda0424025687f8cf42b405c0624de3242397c04
+ feeds.info/static/live/btc-usd.j
+
+tx 3a60615ca16b0a6b7aa365ecd2c1e7a290d002b2d6bdfe20ebe0c499d8990086
+ feeds.info/static/live/btc-usd.j
+
+tx 83ba7fcf79322b188e203463d4272094f973253aeffed4f10644eecf12f07e76
+ feeds.info/static/live/btc-usd.j
+
+tx 1c50624984e681591017f8af04b1fae86016586f640c058f71e21d4564cc127b
+ feeds.info/static/live/btc-usd.j
+
+tx bf0b72449588f8d3a52062158c09571c1271e53703ad0f0f9760087ffc6c1bb1
+ feeds.info/static/live/btc-usd.j
+
+tx f698cc62b5dfb3fac8ac57f08226ebb7b00ebae1f33bb5b49f9e2daefaf97f4a
+ feeds.info/static/live/btc-usd.j
+
+tx c35ec0d07e38663a4decc498630259d416c97999109cdcccfe3c9948f5f9cab9
+ feeds.info/static/live/btc-usd.j
+
+tx 7be3ac634ffd9f920aefacc189694f55eb2d696fed5da59907a520c52d3ca6ba
+ feeds.info/static/live/btc-usd.j
+
+tx 5ece352372002620ed1744632152626f2d827cb68454209b4116c1f73eec4f5a
+ feeds.info/static/live/btc-usd.j
+
+tx 87e8e730f75c4bf3b586c4da761ac2c9a7e6a55432635a2b9ede1bdfd82d6bcd
+ feeds.info/static/live/btc-usd.j
+
+tx 1f953217775a2cce3848d5136709a5d392c627b4e0cc7f1790dc82322f448903
+%MaidSafe is a decentraliz
+
+tx ab53f4d8525210776432b4e0466a5306be975c1fe4fc45fa35cdc815c3b7b9c6
+)MaidSafeCoin is a proxy t
+
+tx 2396d6ee6d40dbc93945ede86d089d32ef26d8ad743de2ccb75eaa057c7af964
+}?http://maidsafe.net/
+
+tx 167f5d9b56126f39f43b41f1a41afd2e97cc323dd6ccb7e6b7c0f836cec1d524
+ feeds.info/static/live/btc-usd.j
+
+tx 58858f59ec31614935b1a9b632c74a2b6076eb2995e7f7efc2a113b9d2ed457c
+^&57D!There is Only One Brookly
+
+tx c41a5babcede37d1c0a16e45278f7d9ae43329b63704ebbf616a59595c746cb5
+TJUST A KISS AS PAYMENT
+
+tx 1da623938a8dd86bb537f3ad3d8796ab3ceeae015822f027279cfa039eefb6fb
+ feeds.info/static/live/btc-usd.j
+
+tx b122e64b85c7a3c9a5781bb894967122c2980cc76568ba3e55b532a948863a18
+Project BlackBean Asset
+
+tx e5d1656daaddb1825b769ee97a1e4eccc250e41dd67a633576e8d5e43e60a0bd
+ feeds.info/static/live/btc-usd.j
+
+tx 96557d9c814cb66b63e0fd901ae2097dc3713765529089a47dc7ba4ad08cbecc
+ feeds.info/static/live/btc-usd.j
+
+tx 8644f059e5a42a2f80403caf5306bdded9c83a749518347da3ab8979f96c4f22
+<179|Chiharu and I found this little yellow robot while exploring Chicago.
+
+It will be covered by tar or eventually removed but this tribute will remain.
+
+N 41.880778
+E -87.629210YellowRobot.jpg>19305/
+@.0&4LCPOKCIHT^yfTYrZHIi
+
+tx caa72ccf16dc61d3d1e27f5f111def27e90d0681520d937ef28053d2a58c7646
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 67b2facfd8160d4fa11b02829b6387d07537b57a7a24f19b029b2a5ae7b81830
+8644f059e5a42a2f80403caf5306bdded9c83a749518347da3ab8979f96c4f22:462|8644f059e5a42a2f80403caf5306bdded9c83a749518347da3ab8979f96c4f22
+caa72ccf16dc61d3d1e27f5f111def27e90d0681520d937ef28053d2a58c7646
+1eb0d9f82ac46afac2774d504f50494039819eb4064755626944a5acc0298308
+f205b00a7a5e515aec46977179c5215802803f8df4aa30a54daf0f3bb92589aa
+d6bb841bb56a2937d9e60c5f0ee05fbfb35a73cd13862141cbefb2fb2bb49020
+7314c0e8293b57122f416076e4954a2b6d22d864f2ae9f52c1c5ff991e3ee82f
+4bd2992a5404f7a7dc3b2ced0c6e9de6e43ee90d10f4e378ecd6fd21aa584280
+Z9ST0knT
+
+tx 2d598dac619dadafbb40a8e8682931fb5c05aeda5bd0b50ad99673ab1369e4f5
+ feeds.info/static/live/btc-usd.j
+
+tx ab6c767ecb76552e8e66f792437de219901b75d7a61529c4aacfee16ce8b2df5
+ feeds.info/static/live/btc-usd.j
+
+tx 34911ab0d93a9bf332f2d69905b5cc5e727126fa376b8792c910aae28bab85ab
+ feeds.info/static/live/btc-usd.j
+
+tx 46f52c565df9088280de48b8adde4b37503821a59d39f865d7fc0e50650bacfe
+Gives access to the Staff
+
+tx 29e7ff0399b87d729242a34124b66b2856a7fbd1bb86bdbd1db5d6a7e0d19f62
+ feeds.info/static/live/btc-usd.j
+
+tx 13a428e9487708aa8742c72894dbf002a8c751180dc3100a72a5ee6a2223ea43
+ feeds.info/static/live/btc-usd.j
+
+tx c8eab366feca47cf6342b8c00df05d2da66502aeb014ae8b8ea4970853c17b99
+ feeds.info/static/live/btc-usd.j
+
+tx 6fb203276ecb2bbcdb5435dce9ca11d6e738bb11a0cf6294653c3b08da0b8cd1
+ feeds.info/static/live/btc-usd.j
+
+tx 2182a121a7e4bd503ac4ada0402277bcbd51c8433655351de1025a4eae27ce41
+ feeds.info/static/live/btc-usd.j
+
+tx ffe05c8b01475a0189f8d364dd8b29e65a6d596397b88e3977e433189d0eba13
+ feeds.info/static/live/btc-usd.j
+
+tx 6d606e3cf568c98d603a5d8a4664eb777318522575caf8af489171f88167d202
+c60a5f452f298ccdd01b1e171c694a1996fadf2562592fc651b9e72ccb8d3755\264/c60a5f452f298ccdd01b1e171c694a1996fadf2562592fc651b9e72ccb8d3755
+fcb6a7a4309ea2514ea93400692b688b44593a33b0c09ffbd15ff2b4e38b40b8
+e6bb32d96086ed9b20eeec3c100c4eb04c42e8185f907be17eea8bd7fa77e248
+5cf3d30c3b18c17029eef69dc5f935cc22e3314912ee7d2e860bf89cf30cd139
+icgdTi
+
+tx 4bb74478ebf01340dc82a60c04b49fc3da7b0bb75279b1d02c12e9adb0ece3e0
+\1330?Robin McLaurin Williams (July 21, 1951 
+ August 11, 2014) was an American actor, comedian, and filmmaker. Starting as a stand-up comedian in San Francisco and Los Angeles in the mid-1970s, he is credited with leading San Francisco's comedy renaissance. After rising to fame as Mork in the TV series Mork & Mindy (1978
+82), Williams went on to establish a career in both stand-up comedy and feature film acting.
+
+His film career included acclaimed work such as Popeye (1980), The World According to Garp (1982), Good Morning, Vietnam (1987), Dead Poets Society (1989), Awakenings (1990), The Fisher King (1991), and Good Will Hunting (1997), as well as financial successes such as Hook (1991), Aladdin (1992), Mrs. Doubtfire (1993), Jumanji (1995), The Birdcage (1996), Night at the Museum (2006), and Happy Feet (2006). He appeared in the music video for Bobby McFerrin's song "Don't Worry, Be Happy".
+
+Williams was nominated for the Academy Award for Best Actor three times and won the Academy Award for Best Supporting Actor for his performance as therapist Dr. Sean Maguire in Good Will Hunting. He received two Emmy Awards, four Golden Globe Awards, two Screen Actors Guild Awards, and five Grammy Awards.
+
+On August 11, 2014, Williams died of an apparent suicide at his home in Paradise Cay, California. - WikipediaRobinWilliams.jpg<11109|=,.$2I@LKG@FEPZsbPUmVEFd
+;!!;|SFS||||||||||||||||||||||||||
+
+tx ae92dc4c31943955ad6e3e45a4eb0067f488fdd9aecca65c946460dd2a85488d
+||||||||||||||||||||||||
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 41f212136111254db588aeea46b6b617569e41b660626ae508f07b8f3af47c81
+\3784>Michael Joseph Jackson (August 29, 1958 
+ June 25, 2009) was an American singer, songwriter, actor, and dancer. Called the King of Pop, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture for over four decades.
+
+The eighth child of the Jackson family, he debuted on the professional music scene along with his brothers as a member of The Jackson 5 in 1964, and began his solo career in 1971. In the early 1980s, Jackson became a dominant figure in popular music. The music videos for his songs, including those of "Beat It", "Billie Jean", and "Thriller", were credited with breaking down racial barriers and with transforming the medium into an art form and promotional tool. The popularity of these videos helped to bring the then-relatively-new television channel MTV to fame. With videos such as "Black or White" and "Scream", he continued to innovate the medium throughout the 1990s, as well as forging a reputation as a touring solo artist. Through stage and video performances, Jackson popularized a number of complicated dance techniques, such as the robot and the moonwalk, to which he gave the name. His distinctive sound and style has influenced numerous hip hop, post-disco, contemporary R&B, pop, and rock artists.
+
+Jackson's 1982 album Thriller is the best-selling album of all time. His other albums, including Off the Wall (1979), Bad (1987), Dangerous (1991), and HIStory (1995), also rank among the world's best-selling. Jackson is one of the few artists to have been inducted into the Rock and Roll Hall of Fame twice. He was also inducted into the Songwriter's Hall of Fame and the Dance Hall of Fame as the first and only dancer from pop and rock music. Some of his other achievements include multiple Guinness World Records; 13 Grammy Awards as well as the Grammy Legend Award and the Grammy Lifetime Achievement Award; 26 American Music Awards, more than any other artist, including the "Artist of the Century" and "Artist of the 1980s"; 13 number-one singles in the United States in his solo career, more than any other male artist in the Hot 100 era; and the estimated sale of over 400 million records worldwide. Jackson has won hundreds of awards, making him the most-awarded recording artist in the history of popular music. In what would have been Jackson's 52nd birthday on August 29, 2010, he became the most downloaded artist of all time in Nokia Music Store. Jackson became the first artist in history to have a top ten single in the Billboard Hot 100 in five different decades when "Love Never Felt So Good" reached number nine on May 21, 2014. Jackson traveled the world attending events honoring his humanitarianism and in 2000, the Guinness Book of Records recognized him for supporting 39 charities, more than any other artist or entertainer.
+
+Aspects of Jackson's personal life, including his changing appearance, personal relationships, and behavior, generated controversy. In the mid-1990s, he was accused of child sexual abuse, but the case was settled out of court for about $25 million and no formal charges were brought. In 2005, he was tried and acquitted of further child sexual abuse allegations and several other charges after the jury f
+
+tx 0129c3398600239ca49a991a809fb80ce37e321cf98545ce32ea2999e0f0118b
+ound him not guilty on all counts. While preparing for his comeback concert series titled This Is It, Jackson died of acute propofol and benzodiazepine intoxication on June 25, 2009, after suffering from cardiac arrest. The Los Angeles County Coroner ruled his death a homicide, and his personal physician Conrad Murray was convicted of involuntary manslaughter. Jackson's death triggered a global outpouring of grief and a live broadcast of his public memorial service was viewed around the world. - WikipediaMichaelJackson.jpg\18770>
+ B/2'6NERQMELJVa|iV\u]JLl
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx f3b185bd932ef28cfd8e0d6891fa5af059a0446a1512e24461ddade4f1df0b53
+41f212136111254db588aeea46b6b617569e41b660626ae508f07b8f3af47c81:462>41f212136111254db588aeea46b6b617569e41b660626ae508f07b8f3af47c81
+0129c3398600239ca49a991a809fb80ce37e321cf98545ce32ea2999e0f0118b
+6b5264d1b0609d6a274c7a5f3ff84f19ed415eed15debd2d54012e1b4b53e348
+1d87b303b5118acb96ffe5b811d21c82ad0cd064c54549167752a745ea5f215c
+134c84cb5acd75274f8e18de9269da08283614b6f83dc1e818a0e360c0246c2d
+618331eaf2b61bb740e29cff35c2d31c20a1db0457bfe874399a4db8e6c7de4e
+122507d47ec6580b1fcc0651a829975628652182c66234ef808c8e2d328730c9
+rPZoWn5M
+
+tx c60a5f452f298ccdd01b1e171c694a1996fadf2562592fc651b9e72ccb8d3755
+\1487?John R. "Johnny" Cash (February 26, 1932 
+ September 12, 2003) was a singer-songwriter, actor, and author, widely considered one of the most influential American musicians of the 20th century. Although primarily remembered as a country icon, his genre-spanning songs and sound embraced rock and roll, rockabilly, blues, folk, and gospel. This crossover appeal won Cash the rare honor of multiple induction in the Country Music, Rock and Roll, and Gospel Music Halls of Fame.
+
+Cash was known for his deep bass-baritone voice, distinctive sound of his Tennessee Three backing band, a rebelliousness coupled with an increasingly somber and humble demeanor, free prison concerts and trademark look, which earned him the nickname "The Man in Black". He traditionally began his concerts with the simple "Hello, I'm Johnny Cash.", followed by his signature "Folsom Prison Blues".
+
+Much of Cash's music echoed themes of sorrow, moral tribulation and redemption, especially in the later stages of his career. His best-known songs included "I Walk the Line", "Folsom Prison Blues", "Ring of Fire", "Get Rhythm" and "Man in Black". He also recorded humorous numbers like "One Piece at a Time" and "A Boy Named Sue"; a duet with his future wife, June Carter, called "Jackson"; and railroad songs including "Hey, Porter" and "Rock Island Line". During the last stage of his career, Cash covered songs by several late 20th-century rock artists, most notably "Hurt" by Nine Inch Nails.- WikipediaJohnnyCash.jpg\9391/
+ B/2'6NERQMELJVa|iV\u]JLl
+
+tx fcb6a7a4309ea2514ea93400692b688b44593a33b0c09ffbd15ff2b4e38b40b8
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 1bd7c78e3bb04e12cb730d96d40dd53ae1923e7b7617ffee98b8c9d15b5c014e
+/1330:Robin McLaurin Williams (July 21, 1951 
+ August 11, 2014) was an American actor, comedian, and filmmaker. Starting as a stand-up comedian in San Francisco and Los Angeles in the mid-1970s, he is credited with leading San Francisco's comedy renaissance. After rising to fame as Mork in the TV series Mork & Mindy (1978
+82), Williams went on to establish a career in both stand-up comedy and feature film acting.
+
+His film career included acclaimed work such as Popeye (1980), The World According to Garp (1982), Good Morning, Vietnam (1987), Dead Poets Society (1989), Awakenings (1990), The Fisher King (1991), and Good Will Hunting (1997), as well as financial successes such as Hook (1991), Aladdin (1992), Mrs. Doubtfire (1993), Jumanji (1995), The Birdcage (1996), Night at the Museum (2006), and Happy Feet (2006). He appeared in the music video for Bobby McFerrin's song "Don't Worry, Be Happy".
+
+Williams was nominated for the Academy Award for Best Actor three times and won the Academy Award for Best Supporting Actor for his performance as therapist Dr. Sean Maguire in Good Will Hunting. He received two Emmy Awards, four Golden Globe Awards, two Screen Actors Guild Awards, and five Grammy Awards.
+
+On August 11, 2014, Williams died of an apparent suicide at his home in Paradise Cay, California. - WikipediaRobinWilliams.jpg<11109|=,.$2I@LKG@FEPZsbPUmVEFd
+;!!;|SFS||||||||||||||||||||||||||
+
+tx dde8a1c5b62a14a8f1a0f80c57c31c3afc9f60bc2d67d3733d750d3fad01f509
+||||||||||||||||||||||||
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx d0440b68c9e5e012dc02594fbe17b2334c154682223f31beabec93ce6b19e926
+1bd7c78e3bb04e12cb730d96d40dd53ae1923e7b7617ffee98b8c9d15b5c014e<330|1bd7c78e3bb:
+W04e12cb730d96d40dd53ae1923e7b7617ffee98b8c9d15b5c014e
+dde8a1c5b62a14a8f1a0f80c57c31c3afc9f60bc2d67d3733d750d3fad01f509
+3c733ee2167b96154e6c87aaca76f6a88719540afb3041ed4936ff629d9cf60c
+7cf86b0e3d864218f0fb6cf6708c07525d1a83c7aa6f92db4dd8fe0f9136a957
+22361059b1e108021eac88d985b7e0fbb8fa9ead06b5fd8fb78832d19a696cbd
+
+
+tx 92c4336577945cb2c6c122bf92a0476dc78ec87cc60314d6dea9da7b5de6d8cb
+ feeds.info/static/live/btc-usd.j
+
+tx 970eb4d29bdcbaefbdc0a069a9bc6cdf9104dfa0e1ee56d98050726ee646ac3d
+0 {"name": "jk", "desc": "sosirius", 
+
+tx d22f8f36b474893623eb9dda1850dfc40464064f37150a5731ada7acda7feeb8
+?3184/Mohandas Karamchand Gandhi (2 October 1869 
+ 30 January 1948) was the preeminent leader of Indian nationalism in British-ruled India. Employing nonviolent civil disobedience, Gandhi led India to independence and inspired movements for civil rights and freedom across the world. The honorific Mahatma (Sanskrit: "high-souled", "venerable")
+applied to him first in 1914 in South Africa, 
+is now used worldwide. He is also called Bapu (Gujarati: endearment for "father",[4] "papa") in India.
+
+Born and raised in a Hindu merchant caste family in coastal Gujarat, western India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights. After his return to India in 1915, he set about organising peasants, farmers, and urban labourers to protest against excessive land-tax and discrimination. Assuming leadership of the Indian National Congress in 1921, Gandhi led nationwide campaigns for easing poverty, expanding women's rights, building religious and ethnic amity, ending untouchability, but above all for achieving Swaraj or self-rule.
+
+Gandhi famously led Indians in challenging the British-imposed salt tax with the 400 km (250 mi) Dandi Salt March in 1930, and later in calling for the British to Quit India in 1942. He was imprisoned for many years, upon many occasions, in both South Africa and India. Gandhi attempted to practise nonviolence and truth in all situations, and advocated that others do the same. He lived modestly in a self-sufficient residential community and wore the traditional Indian dhoti and shawl, woven with yarn hand spun on a charkha. He ate simple vegetarian food, and also undertook long fasts as the means to both self-purification and social protest.
+
+Gandhi's vision of a free India based on religious pluralism, however, was challenged in the early 1940s by a new Muslim nationalism which was demanding a separate Muslim homeland carved out of India. Eventually, in August 1947, Britain granted independence, but the British Indian Empire was partitioned into two dominions, a Hindu-majority India and Muslim Pakistan. As many displaced Hindus, Muslims, and Sikhs made their way to their new lands, religious violence broke out, especially in the Punjab and Bengal. Eschewing the official celebration of independence in Delhi, Gandhi visited the affected areas, attempting to provide solace. In the months following, he undertook several fasts unto death to promote religious harmony. The last of these, undertaken on 12 January 1948 at age 78, also had the indirect goal of pressuring India to pay out some cash assets owed to Pakistan. Some Indians thought Gandhi was too accommodating. Among them was Nathuram Godse, a Hindu nationalist, who assassinated Gandhi on 30 January 1948 by firing three bullets into his chest at point-blank range.
+
+Gandhi is commonly, though not officially, considered the Father of the Nation in India. His birthday, 2 October, is commemorated there as Gandhi Jayanti, a national holiday, and world-wide as the International Day of Nonviolence. - WikipediaMahatmaGandhi.jpg?12279/
+
+tx 14a3cd643852e31a169e10d82a620c3daa87cc3be4e36f1924cc1ac87db0e72b
+ B/2'6NERQMELJVa|iV\u]JLl
+
+tx a09f0c67cbcd806351116b431d7ade504cf2dad3a044179e61fc06212c44692d
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx e80cbe3ecbda89dd0009ec4fcf47fb9d221664829f07c8ca55a9505bf5b36240
+d22f8f36b474893623eb9dda1850dfc40464064f37150a5731ada7acda7feeb8"396\d22f8f36b47a
+4893623eb9dda1850dfc40464064f37150a5731ada7acda7feeb8
+14a3cd643852e31a169e10d82a620c3daa87cc3be4e36f1924cc1ac87db0e72b
+a09f0c67cbcd806351116b431d7ade504cf2dad3a044179e61fc06212c44692d
+6fe2efef63bb2d0b98ed4c83e41348b3dfc37106a81545b01f6c18397e504844
+f0b4c445822e0e012fb9abeb7c5c5d33c909ef68afe29e09661d64e3021b2483
+5c75c8c18a504613c7493a3ee39c290db3a7076c7c620ac421bfa479dfa35f7d
+600kvGaQV22bxe
+
+tx e7c1805e9def1ca12ce70bf36052f04bea6997c5401a682388740bcefd970230
+ feeds.info/static/live/btc-usd.j
+
+tx 688a72445385df424c4cb59a94a3637f6bbd4beedf85ab374a05e7f11e0154e5
+|2873"Martin Luther King, Jr. (January 15, 1929 
+ April 4, 1968) was an American pastor, activist, humanitarian, and leader in the African-American Civil Rights Movement. He is best known for his role in the advancement of civil rights using nonviolent civil disobedience based on his Christian beliefs.
+
+He was born Michael King, but his father changed his name in honor of the German reformer Martin Luther. A Baptist minister, King became a civil rights activist early in his career. He led the 1955 Montgomery Bus Boycott and helped found the Southern Christian Leadership Conference (SCLC) in 1957, serving as its first president. With the SCLC, King led an unsuccessful struggle against segregation in Albany, Georgia, in 1962, and organized nonviolent protests in Birmingham, Alabama, that attracted national attention following television news coverage of the brutal police response. King also helped to organize the 1963 March on Washington, where he delivered his famous "I Have a Dream" speech. There, he established his reputation as one of the greatest orators in American history. J. Edgar Hoover considered him a radical and made him an object of the Federal Bureau of Investigation's COINTELPRO for the rest of his life.
+
+On October 14, 1964, King received the Nobel Peace Prize for combating racial inequality through nonviolence. In 1965, he and the SCLC helped to organize the Selma to Montgomery marches and the following year, he took the movement north to Chicago to work on segregated housing. In the final years of his life, King expanded his focus to include poverty and the Vietnam War, alienating many of his liberal allies with a 1967 speech titled "Beyond Vietnam".
+
+In 1968, King was planning a national occupation of Washington, D.C., to be called the Poor People's Campaign, when he was assassinated on April 4 in Memphis, Tennessee. His death was followed by riots in many U.S. cities. Allegations that James Earl Ray, the man convicted of killing King, had been framed or acted in concert with government agents persisted for decades after the shooting. The jury of a 1999 civil trial found Loyd Jowers to be complicit in a conspiracy against King. The ruling has since been discredited and a sister of Jowers admitted that he had fabricated the story so he could make $300,000 from selling the story, and she in turn corroborated his story in order to get some money to pay her income tax.
+
+King was posthumously awarded the Presidential Medal of Freedom and the Congressional Gold Medal. Martin Luther King, Jr. Day was established as a holiday in numerous cities and states beginning in 1971, and as a U.S. federal holiday in 1986. Hundreds of streets in the U.S. have been renamed in his honor. In addition, a county was rededicated in his honor. A memorial statue on the National Mall was opened to the public in 2011. - WikipediaMartinLutherKingJr.jpg\6090?
+ B/2'6NERQMELJVa|iV\u]JLl
+
+tx 401c5710f595f5a1474d1bb411a31bf568d729ea08f40ccefb6d475bed8db4f6
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 0724fa1b3f57d31124581cbad12c71141249fbdcfeb66442f0a644616155ede5
+688a72445385df424c4cb59a94a3637f6bbd4beedf85ab374a05e7f11e0154e5\264/688a72445385df424c4cb59a94a3637f6bbd4beedf85ab374a05e7f11e0154e5
+d83ce29335c12cb14a3addfb5b5124575c1e2b1e3d366f154b49a6676d38e88f3b
+401c5710f595f5a1474d1bb411a31bf568d729ea08f40ccefb6d475bed8db4f6
+ed421c92b0df8b009420d4e27f219dca7e20274b552763890dcf7c79979ed476
+oaEX7Z
+
+tx db3dbc9fba7f059f8cc409be79b990b627c308cd7c5481d7166763bafd430bd6
+ feeds.info/static/live/btc-usd.j
+
+tx f45b00c65f9f1ced8915f4e3e9e7e3581cc7d9fbe4d87342d45df9f8d2abb90e
+ feeds.info/static/live/btc-usd.j
+
+tx ad5a84968278849f3141135e1a546df343b7dd40c0cec3573d4917c14beb7df7
+7585de3411d187717d3b
+
+tx f8092b50f4b9e3f9cb6589ef188fa72079dc1f203d13678a29f737b7efd5ae3c
+7a2be09811a86b8304cd
+
+tx 60f85b6dee3c43389735ee4fdbf186ef32086a13e42c43d736b52097f7cb6ef3
+v-I am rich and virtuous.
+
+tx 7128ddc205bec2fcf5c565f23113bc7962a9dc29ca6610708d619185a5ef6e32
+v-This is a placeholder.
+
+tx ddebbeb5a33186e5d08ce0eef8367fd4741eac79ae0fbb824dffb5f06de7980c
+FBITestMessageFromBK
+
+tx 5a6aad7819d6eb2e9eeb0608466fb56015f4864a320b1aa7d73202288b9574f0
+v-I am rich and prosperous.
+
+tx f724f60c0cc4ab00264fc497f4f63b38f56e4d7843bfd50be6d94930ab245eac
+ feeds.info/static/live/btc-usd.j
+
+tx b17a027a8f7ae0db4ddbaa58927d0f254e97fce63b7e57e8e50957d3dad2e66e
+Yuki will you marry me ? Tetsu.
+
+tx f72a4fc558ecc3f46ba5e0230417018013d675921adf55321aa021e752bdd3ac
+ feeds.info/static/live/btc-usd.j
+
+tx 935183a8b8e9b36e8e189fdadeda91df332662da492d89134631d4f432af900e
+ feeds.info/static/live/btc-usd.j
+
+tx e5ef8b7dcac2dfbdfba1399dc852f708d3e7535a9027b393327d4f21c60f9b2b
+ feeds.info/static/live/btc-usd.j
+
+tx 6c85d7c8353a163596c9b7a733d9b2d6605f513133be884e858777a502031412
+ feeds.info/static/live/btc-usd.j
+
+tx 869a3ff36faf88e265632209efa2130614ae138901d47428612c3ef76d82d8ae
+ feeds.info/static/live/btc-usd.j
+
+tx b613240172f51a35c584c1bc3578f1770ee9823950a8832e53df4143bebf6299
+ feeds.info/static/live/btc-usd.j
+
+tx 5be44b772270a5810f3dba2536962fc92d33678fc92350b37c020f109bffa09d
+ feeds.info/static/live/btc-usd.j
+
+tx 542cdd02abcbdc1c0e86b2087e9335977649df9096991494980972966b279b95
+ feeds.info/static/live/btc-usd.j
+
+tx 3a07a840019cd92982a3926cfc49255c2b8d7a2007506f73f0289e2dc819f0da
+ feeds.info/static/live/btc-usd.j
+
+tx cc707e71184cf06d1935ee0dcc4309e09337927cc7a348a4182b11e7a8dba010
+ feeds.info/static/live/btc-usd.j
+
+tx 82a1e18adef911277339562bf82d9664340a1f83e59d1c7e288ffc877865dcd9
+ feeds.info/static/live/btc-usd.j
+
+tx 9ffa74e79556d91de9009a45624c58c4d3f6c6c039ea88fdf43ace92fb507b97
+ feeds.info/static/live/btc-usd.j
+
+tx 509560524a31913b1225a376846f24cf1504c44bd138fa2c22f0928f9ede3c0d
+URL://bit.ly/1rSHdYj
+
+tx 1338949a0c2071659c9246d5e2158150c077944e119ee31aa982cb5a5332e440
+a7a0eae84eb95fb95c4c
+
+tx e1767be3552803484c50cd0ad713cf8be6cf1ef4ec2def85422b73ffa804a3bd
+cc24f6fb537b2cd4892e
+
+tx 18baac572c412ed0f1487d9c5083ef875719e1675e8e7c95ef3c41324e1f20ae
+ feeds.info/static/live/btc-usd.j
+
+tx 59dcf7d627899e69c2f09d99537e519a544703ba76d09071950c5bf7ab820f2e
+ feeds.info/static/live/btc-usd.j
+
+tx a9f257ca3e0767e2037174cf73ac6007af4d450360e0fa7d587dca8a16ca7d3a
+ feeds.info/static/live/btc-usd.j
+
+tx f148e560b09402b68f4b22290a36f266c077e2d755242307e68d216b94e5d334
+ feeds.info/static/live/btc-usd.j
+
+tx 13144289daf907270d26aed455ed00b81d31d929178f1da14f11185242e3462d
+ feeds.info/static/live/btc-usd.j
+
+tx dd79b9768f307000ed34241c899e5e9e8037eedf2b9ad3f7d5266a313347c755
+"5307"Carl Edward Sagan (November 9, 1934 
+ December 20, 1996) was an American astronomer, astrophysicist, cosmologist, author, science popularizer, and science communicator in astronomy and other natural sciences. His contributions were central to the discovery of the high surface temperatures of Venus. However, he is best known for his contributions to the scientific research of extraterrestrial life, including experimental demonstration of the production of amino acids from basic chemicals by radiation. Sagan assembled the first physical messages that were sent into space: the Pioneer plaque and the Voyager Golden Record, universal messages that could potentially be understood by any extraterrestrial intelligence that might find them.
+
+He published more than 600 scientific papers and articles and was author, co-author or editor of more than 20 books. Sagan is known for many of his popular science books, such as The Dragons of Eden, Broca's Brain and Pale Blue Dot, and for the award-winning 1980 television series Cosmos: A Personal Voyage, which he narrated and co-wrote. The most widely watched series in the history of American public television, Cosmos has been seen by at least 500 million people across 60 different countries. The book Cosmos was published to accompany the series. He also wrote the science fiction novel Contact, the basis for a 1997 film of the same name.
+
+Sagan always advocated scientific skeptical inquiry and the scientific method, pioneered exobiology and promoted the Search for Extra-Terrestrial Intelligence (SETI). He spent most of his career as a professor of astronomy at Cornell University, where he directed the Laboratory for Planetary Studies. Sagan and his works received numerous awards and honors, including the NASA Distinguished Public Service Medal, tjhe National Academy of Sciences Public Welfare Medal, the Pulitzer Prize for General Non-Fiction for his book The Dragons of Eden, and, regarding Cosmos: A Personal Voyage, two Emmy Awards, the Peabody Award and the Hugo Award. He married three times and had five children. After suffering from myelodysplasia, Sagan died of pneumonia at the age of 62 on December 20, 1996.
+
+
+The Pale Blue Dot is a photograph of planet Earth taken in 1990 by the Voyager 1 space probe from a record distance of about 6 billion kilometers (3.7 billion miles, 40 AU) from Earth, as part of the solar system Family Portrait series of images. In the photograph, Earth is shown as a fraction of a pixel (0.12 pixel in size) against the vastness of space. The Voyager 1 spacecraft, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and to take a photograph of Earth across a great expanse of space, at the request of Carl Sagan.
+
+In his book Pale Blue Dot: A Vision of the Human Future in Space, astronomer Carl Sagan related his thoughts on a deeper meaning of the photograph:
+
+From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our 
+
+tx 534438ae9c4f8c5e562ed395063f5704c581ba328bce804e7aa936c68136a52a
+joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there 
+ on a mote of dust suspended in a sunbeam.
+
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generalsh and emperors so that in glory and triumph they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner. How frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Our posturings, our imagined self-importance, the delusion that we have some privileged position in the universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity 
+ in all this vastness 
+ there is no hint that help will come from elsewhere to save us from ourselves.
+
+The Earth is the only world known, so far, to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment, the Earth is where we make our stand. It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another and to preserve and cherish the pale blue dot, the only home we've ever known.
+
+
+Carl Sagan, Pale Blue Dot: A Vision of the Human Future in Space, 1997 reprint, pp. xv
+xviPaleBlueDot.jpg*7481?
+*<5?>;5:9CK`QCGZH9:SqTZcfklk@Pv~th}`ikg
+1gE:Egggggggggggggggggggggggggg
+
+tx af047083779c39bc9e2eda1da6ff740c5863a15f0b07b75802bc671a96302e0c
+gggggggggggggggggggggggg
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 39d08ff76042d0cc39b6ec523900fbb2992a3576cd8c413b7a6e4d1bc7eb1ec1
+$" &0P40,,0bFJ:Ptfzxrfpn
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx bcf6433166eb5cce9c97837c878200bb6e83e3fb0ad9bb3db6ce6aabfabab725
+dd79b9768f307000ed34241c899e5e9e8037eedf2b9ad3f7d5266a313347c755|528\dd79b9768f307000ed34241c899e5e9e8037eedf2b9ad3f7d5266a313347c755
+534438ae9c4f8c5e562ed395063f5704c581ba328bce804e7aa936c68136a52a
+af047083779c39bc9e2eda1da6ff740c5863a15f0b07b75802bc671a96302e0c
+550d76b1b809e2eba93dbd35dffb0ca045bd4de4ec4270c00278b3459b0c65c2
+39d08ff76042d0cc39b6ec523900fbb2992a3576cd8c413b7a6e4d1bc7eb1ec1
+2089247b60620b74698861cf16ae66ff8c087f723cb4d2e90dff83ea3c37ab4b
+27a455e1fd259b1f06d5857910853eeaa2f8d319fb9e60a93109cac3cf1fadcd
+1ce6637fafedec6a8812472ad7cf68180d5f77d1505a9b21f3cad08451135c48
+xJ
+
+tx 2dc726ddc1b33e70575a00fb1ee83b3199b9a64bfe9cb55d4cb37fe0b1fac6f6
+:2599*Albert Einstein (14 March 1879 
+ 18 April 1955) was a German-born theoretical physicist and philosopher of science. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). He is best known in popular culture for his mass
+energy equivalence formula E = mc2 (which has been dubbed "the world's most famous equation"). He receivedC
+ the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect". The latter was pivotal in establishing quantum theory.
+
+Near the beginning of his career, Einstein thought that Newtonian mechanics was no longer enough to reconcile the laws of classical mechanics with the laws of the electromagnetic field. This led to the development of his special theory of relativity. He realized, however, that the principle of relativity could also be extended to gravitational fields, and with his subsequent theory of gravitation in 1916, he published a paper on the general theory of relativity. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules. He also investigated the thermal properties of light which laid the foundation of the photon theory of light. In 1917, Einstein applied the general theory of relativity to model the large-scale structure of the universe.
+
+He was visiting the United States when Adolf Hitler came to power in 1933 and, being Jewish, did not go back to Germany, where he had been a professor at the Berlin Academy of Sciences. He settled in the U.S., becoming an American citizen in 1940. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential development of "extremely powerful bombs of a new type" and recommending that the U.S. begin similar research. This eventually led to what would become the Manhattan Project. Einstein supported defending the Allied forces, but largely denounced the idea of using the newly discovered nuclear fission as a weapon. Later, with the British philosopher Bertrand Russell, Einstein signed the Russell
+Einstein Manifesto, which highlighted the danger of nuclear weapons. Einstein was affiliated with the Institute for Advanced Study in Princeton, New Jersey, until his death in 1955.
+
+Einstein published more than 300 scientific papers along with over 150 non-scientific works. His intellectual achievements and originality have made the word "Einstein" synonymous with genius. -Wikipedia
+AlbertEinstein.jpg|10190\
+#;&#  #H36+;UKZXTKRQ^j
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 799cc72cc332f80642a5edb0a12abaddffffd319927aa1a783b0c3b953754931
+6789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 3176963fa546f2e83df7a6b010146386e200bf8f60d74d59da61f784eea84902
+2dc726ddc1b33e70575a00fb1ee83b3199b9a64bfe9cb55d4cb37fe0b1fac6f6|264*2dc726ddc1b33e70575a00fb1ee83b3199b9a64bfe9cb55d4cb37fe0b1fac6f6
+799cc72cc332f80642a5edb0a12abaddffffd319927aa1a783b0c3b953754931
+f5e6e325983401e2cd68ee63c273939134ae5caa641fb900bf951316160fb56d
+a3525d4e28aa274e4499563343768be746fdf620e0e595629d9f6201d2728746
+BmghG0
+
+tx 4d1a2fea8512c97519d363d9753b4a4f88244c7fe28fc319b437ece9a55afc35
+>108<the universe may be infinite, but we are all stars and, therefore,make bright where once there was darkness.AmandaVolk.jpg/9384:
+VKyEr5C4mV7FZmYukCAX
+
+tx 06b91b11b15df519994c8876cd4146a2fa868389cd9769fcaa22d9cbcfac9cee
+(((((((((((((((((((((
+
+tx 6bc1adc034091df7b163099737e9d0abcea2a2c563ea11d157458db67134c39d
+(((((((((((((((((((((((((((((
+
+tx 151c05d420a3caa41ccc32bceeb75a2a3ab2b443cf55380fe17d442d024000b1
+4d1a2fea8512c97519d363d9753b4a4f88244c7fe28fc319b437ece9a55afc35>462<4d1a2fea8512c97519d363d9753b4a4f88244c7fe28fc319b437ece9a55afc35
+8399259eee0f6c5f42f5fe4357defe79b1cdfd2df63de83ff788aba0b92c6f4b
+57966b3028398dc012051e066a84eec066c55771a3cfa7412a3059998ca5076e
+06b91b11b15df519994c8876cd4146a2fa868389cd9769fcaa22d9cbcfac9cee
+6bc1adc034091df7b163099737e9d0abcea2a2c563ea11d157458db67134c39d
+5?ca2413ed84dbd4651f6073574ffc7e7d5340c8d5917459f6b5df26dd21b6d19
+dad44a10c2fb0faa262e50bc956eb1dd6a410f6a95f459a45fae668f237b8f0f
+aXN9wE87
+
+tx 8644444a9d24ededd44c4b85227e10bd92b6418056eff530128ab32816d4d11b
+ feeds.info/static/live/btc-usd.j
+
+tx 40736845d5e0688d0d58ea37ccaf54d289fb2134371690c539528bbddd92f18c
+18333988a10999d1057b
+
+tx 8c648459fc1d4109981bf9bbeefbb8b1f87f4102cb06ad5d07819f027e1deaf4
+ feeds.info/static/live/btc-usd.j
+
+tx dbe21e846c32d0d23591da8525b37f57e020b3797c6f200860050167a55c20e0
+BestUseOfBitcoinTechIs E-Bill of Lading.
+
+tx fe6c00d6c377685786b4dfbb5267af47ac1e881df41edbbdc5040535abca649a
+ feeds.info/static/live/btc-usd.j
+
+tx 526077a0bc8207f72f70fee0957e58dfa40a39ac2007827543a640375877c456
+ feeds.info/static/live/btc-usd.j
+
+tx 43a33b680d49f0ed3a0179c1e3fe0b85e1bdade655716105a69c55059c3e4e89
+ feeds.info/static/live/btc-usd.j
+
+tx b248983e4eb1bf593977658644b445166ee9d0a6da0795c3ccb3094991b3f7cd
+ feeds.info/static/live/btc-usd.j
+
+tx 40408325f9b60b1f3a04bbc2232790aa96e9a8f0c707e7a0f72b41207d947e6c
+ feeds.info/static/live/btc-usd.j
+
+tx 82165cc7c6043a5ff17869664b344735f259ec0894547dec5783900b547a0102
+ feeds.info/static/live/btc-usd.j
+
+tx 57c047fe7c94bb1cf0b64f9b3fa7114be1d30dae6a9f702e7e33c509ab97eaf1
+ feeds.info/static/live/btc-usd.j
+
+tx 81c42d833dd196ad4854ea73629b25f310d373fa4d11dc2a21671630d04502f0
+ feeds.info/static/live/btc-usd.j
+
+tx 264bc5bf21b9469ee3ada339556da42edc5879aed99bcd2101c0cc02d19205c7
+ feeds.info/static/live/btc-usd.j
+
+tx 6508b76725c9c4fd0ea05014cb3a906d79985856411d6b02f78b5a4e03e5a398
+ feeds.info/static/live/btc-usd.j
+
+tx 5a35fbc1e6d38e094b6e2fb304701fce43e77a82b1a1087be4b07d9b7ce1e507
+)Crypto-Rewards Program ht
+
+tx 41a751852a8595b7a53c764a2ae4263d3f947754916bc282a6d53dac2808b507
+ feeds.info/static/live/btc-usd.j
+
+tx b8213daf54d708e0a4a03a05169c350508fac4c15d6856d3af74750821e35f6b
+ feeds.info/static/live/btc-usd.j
+
+tx d3920a7c0d850a9ddee526e8458d5e8384cfbc2b8337d21951b0f7b0f467c770
+ feeds.info/static/live/btc-usd.j
+
+tx f45b45a053c9c033a06d76588418ee5573a9e2c7068f45459a73c9e3f061e1fe
+ feeds.info/static/live/btc-usd.j
+
+tx d09f05734ac1321bbc1ff928e51b58645df501bdaee924ac63fcbbeb8e9ad138
+ feeds.info/static/live/btc-usd.j
+
+tx 8da01ea1c76be77e809f7510baf85531c463714a685c6e716482ab75b0d77a02
+ feeds.info/static/live/btc-usd.j
+
+tx 1f8988e29009278f3e9903cb5895f60c0121338406b8194b098afb644006b34c
+ feeds.info/static/live/btc-usd.j
+
+tx d0aeea9f263828a4cfd9de8121a3978c2101d930e1fc5fa7b99107bc9c2b5f4d
+ feeds.info/static/live/btc-usd.j
+
+tx e7a3fdc1f773a5ef7793bd5c150a1eaba1b0489d2e745622b140bbbdbef5a4f4
+ feeds.info/static/live/btc-usd.j
+
+tx 7e5db6cba66c214cc22fa4f2f59a560b2870c168460b64c75d155d82483cb4db
+ feeds.info/static/live/btc-usd.j
+
+tx 9d6068cda18e70c04ad37cd90033c4979528f1011b4880a6b68fc82b0788d624
+/A2 otal": "10000000"}
+
+tx 5a7a5d40939c1556b30039f9785c9167b8759c68858ac69feae874aa9a644eea
+/A1  "An asset for Assembly Assets", "t
+
+tx dce5f324ecac65b6872ceb71c9a74d8e69bc56542c17b2aa65c6dade7d2bf749
+/A0 {"name": "assembly_assets", "desc":
+
+tx 58c8cb37664fa8cea3544b5e8ee5a6b78a2771b847d453c81e06ebbe5ab1eddb
+ feeds.info/static/live/btc-usd.j
+
+tx 4661fed96d47f5332d5ddfa04292dfc870036e65b87c9988cbf647d60b54c397
+ feeds.info/static/live/btc-usd.j
+
+tx 0b8e49f44f76d4ef5c901cf47255a252766ca65be20833bb83b7747d92f2c9ac
+:1745|Neil Alden Armstrong (August 5, 1930 
+ August 25, 2012) was an American astronaut and the first person to walk on the Moon. He was also an aerospace engineer, naval aviator, test pilot, and university professor. Before becoming an astronaut, Armstrong was an officer in the U.S. Navy and served in the Korean War. After the war, he earned his bachelor's degree at Purdue University and served as a test pilot at the National Advisory Committee for Aeronautics High-Speed Flight Station, now known as the Dryden Flight Research Center, where he logged over 900 flights. He later completed graduate studies at the University of Southern California.
+
+A participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs, Armstrong joined the NASA Astronaut Corps in 1962. He made his first space flight, as command pilot of Gemini 8, in 1966, becoming NASA's first civilian astronaut to fly in space. On this mission, he performed the first docking of two spacecraft, with pilot David Scott.
+
+Armstrong's second and last spaceflight was as mission commander of the Apollo 11 moon landing, in July 1969. On this mission, Armstrong and Buzz Aldrin descended to the lunar surface and spent two and a half hours exploring, while Michael Collins remained in lunar orbit in the Command Module. Along with Collins and Aldrin, Armstrong was awarded the Presidential Medal of Freedom by President Richard Nixon; President Jimmy Carter presented Armstrong the Congressional Space Medal of Honor in 1978; he and his former crewmates received the Congressional Gold Medal in 2009.
+
+Armstrong died in Cincinnati, Ohio, on August 25, 2012, at the age of 82, after complications from coronary artery bypass surgery.
+
+NeilArmstrong.jpg*12657<
+(#!#-+(0<dA<77<{X]Id
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 4f5b25fa8021c67235423930580e69121aa0d2c2bb779f75139bf442f8dc7297
+OneGiantLeapForMankind.mp3/12288:ID3
+03a-rocket_evolution-diy.output
+MP3Resizer v2.1.0.515COM
+ 000005E1 00000000 000032A1 00000000 00001CFA 00000000 00006B83 00000000 00001CE0 00000000
+ 00000000 00000210 00000A70 0000000000064C00 00000000 00016834 00000000 00000000 00000000 00000000 00000000 00000000
+
+tx 80796e2293c806df5ad88d39a178130eeb6db6f9c4f9f0e4020670715f3c7431
+Apollo_11_first_step_July 21_1969_02_56_UTC.jpg|6021\
+
+tx bb018c39ccf8671c901145eba756e3a47a8fb4faf2c8b94ee2652687c18708d7
+503ea9d9daee1e2fd1429f
+d0707f0e228f70c02228517cd96fb5d4ec2aa072176348ea5ba434245de80f7d
+a9de23cda24371715448cce2f9f2fa5202aa368bcaece588f36fdad8d74e607e
+613501362fae3ba4157516923271596d2549155999a639126e47f6d422f0c00c
+ae500d4ae0e929889d36dfadff37658895974d700093d47cd15037ff5cef4e66
+f9618b0b88f8bc6c03d13501c4ce2b3bc28787a23160d10646e5e909f7c2433b
+cd288bd5a8e1373447a98ea3db77857a16551ce90dbf1e8cbded942df8f20575
+e3adf8f08c32a2097d6c8ff5e675395f75853b76b7b752372f88e337a446e88e
+bae6c0eaa6398e6d834544e2e2f66b3a8cedea77d0e24849062aa170452f71fb
+f4c59758c05ecd0207e97f3479cffd9c24062559e11409680775400d7524007b
+038890d6e53015193ffffcbb24228145dc4a4483afdddc33edbc263976574692
+bded5bb06c9f44f459230efe44a3ec538a7742d0baf5869025df9f8cab25debc
+26000ed294111787a344f393815a0430726e34d41d12a640a9446c1280a1f9be
+3a8d4f782b8c6078b778601ff3f970e7a56e2a8cedf5c2c574787424520be8cd
+e75c96c07e160528c159de8b8d8e8a191f9140c19139a3285f9c87f3a3ed4f82fb85
+169c98be08d9e9d278663f1f7eae3d33250c687670916efb280e2b3698f2e58b
+d8cff07fbf240afeb024d9733e3e9fbe13b003cbf084d80c080d99738e3f4f8d
+80796e2293c806df5ad88d39a178130eeb6db6f9c4f9f0e4020670715f3c7431
+728cc886427a45c2ca7a3f95e5b995a68e63de44ddd06311b639a84972709567
+WMs
+
+tx 743f3286b00fc96c13db4b16d5aead8a1e059fee9ce775b1761be9be5bdc2501
+0b8e49f44f76d4ef5c901cf47255a252766ca65be20833bb83b7747d92f2c9ac:4426*0b8e49f44f76d4ef5c901cf47255a252766ca65be20833bb83b7747d92f2c9ac
+8e4c2046cbefb7cf12349c3ce3a8d727a375f136b76efddc230181cfab5db36e
+e33f5dcb3f5f5d85964de70c5719c874ef4988ee26168860bae43f8e068dc903
+d184cc91faea328124459844f01bd5d5cce96eecf785e1e3c66f3dcefdb98a9a
+4f5b25fa8021c67235423930580e69121aa0d2c2bb779f75139bf442f8dc7297
+f292d1601cde00d84bcb4b8fc95eb63dd5c58648400c601395de66ee118ce609
+e206346c9c8efc6701bf31869f957092a5399bb7ca50e555fd5231689e35fa17
+ce1b345aabfac4c84ddbe61bc8932f0f3b970e0509bbdcb611e1ac8364aed194
+26d15ce32f10618e447707f9593482db62a35a5fda30cbcfbbf4950476f9a2ce
+019e8e1004c2bf80418e5579654e2f5058e143444543fdd810f7cf9c36126603
+fbc06da6e684f47eb91e4c22e47856c55326428ae5c7ad68b5cdaf746938a158
+91aaa2030d4bd3c67256f3ad812e0dbd2459b0587d6e257c8d72ccc945bc5c66
+d7459f284b1ac7541887f6da21b7eda6092fea843dbef2b173932df58093fb72
+4d4d90acfcd84da895c55509818aa2344e82d530d85a9dadcd317d626ab91210
+51ffa902b59920a795adce9bbd23161ebc39f54f61343bc0cf0a5352ba6ffb3a
+acf277fdfb12d07cd25331e842223a6f82525eff4d089e285ea9e9fb5ee5ca04
+bbdf861e324e78f83bca222553f19a3ed92a6002de9251170c3846d438bf75ed
+66060c7ec57da7b5415782bb915b914a128ed6dbbf3746e5b6dc920b32ecde86
+ee3a86c53708ca4059a50092f927557e7a94c7b54558b6cc9af70868c78069d4
+de30deb3baafbed20cfd6d45e0d4bd0c56b2fdcb40ff467b9305e4eccb6504a2
+bbbc3f7ba6f358635f4f25dc1b7e2efa5e26388ecb65391a91813459b1a48a33
+fd4288faadd504e8b18816d0387f7326c5a1f69e4e56fa753b8d6b0ac9419d47
+e76b6e2fb12616f1eba9ee0b39733ee591d952305f3a5748b12b4966955c22ae
+571d00e6105a433752b10b0a0b140bdbcb83858fbe8888dc7254c9ae1b2a312a
+a2cc51811bd42d1e27040d189a64c57bdf36b1298d218739d627cf75144ff56e
+b210d059842b316644059f864551ced377f4ec079201e1103320c783dc55d96c
+1e0a08939c311322f0ca0f92d05552f389b3b4517e3e9ecbece134b0fe7b36dd
+67b80196607ed5edfa09c653777fd5c613d7535deffb55f9b2f0344b6d4f60f7
+6c23adf8938cd124502f7735c0bda60d47b170788a0d6eec8081a08545be4147
+62185cfc3a6200b18c3017489e7ea3ec31e48cd953171ed35c4c26ed4fac9a50
+d0a1fd546d66b9d4569793b33f96d307c59e77e5a3a474c5ab2c0b04257fa76f
+e422G
+caaad8dfcf16100146c23b7bdbfdc2a750455505df4aaee3de94ac18aa0a
+dba23ac5284c3eb16a3539ed1e19acec5e692335b4d873ccc4999305b2d03cc0
+e911a3b5071ec1a927d11e5c036b92da4c71a49641c502554b8f4945951408f7
+7d553e4ab6c59d24fc40652c94417093b73013075d2e67055b8e0fc8ce4399d6
+82a0f861edb7f74076aae063370f89ca3822fb75b2baf74b6b552de738db2b23
+2eb23bbbe8fcc65183686a0e6ff937ed94b81aeef0f78e9ed652c40d8579ca51
+489df6c4898e79dbd1f7bf3cbc798ad4574e5367d3ea82bce467c5cb4005ae1c
+c35830638f0296f8c601c0baeb85e685f03e34c26cb562eec9b6400af6a91e2c
+00deca66d16f37c4ad1e1f7f143af0007f836425c694889e507a1a502ed64d15
+7b8a6ed1236a954544eeef66ca2e2d61aad64c089e7df2807dd3e156db2c1df1
+caf0a6f7aae70a9a5c94c9ee4ff92bd67168102b4e674eba72a47cccf98d9733
+8721af81831abb3f2a375c88f40cf9db77180a81821f5bbb28b6e455d173a44c
+47a48341b83673fb399c84ed7f39d50d57cfde31a1fe46fc48a54fbb87aed14e
+7b0af7fb6e9b46b486e6a94c361b406f2f066f3575d883c74db6398773f304f2
+97ffb4039c831c113456dcf30742e4fb9c0947adc4a345907603577dfa113cef
+faf0fbb9c7490fdb82f60555553c0fe9c99b0f1e5e8c7199a60cc00d1e2a2e49
+d5fa2924c7af5173100ff109ee43d28d1b01fb4244af6833343178cf47fee00e
+c32cdc0a0480304af025435cf937852157dbb2b844
+
+tx 0427ec598df38b7d7dc75721316c0bbdec54de4871e11aff8ea64f3717c07efb
+743f3286b00fc96c13db4b16d5aead8a1e059fee9ce775b1761be9be5bdc2501*132?743f3286b00fc96c13db4b16d5aead8a1e059fee9ce775b1761be9be5bdc2501
+bb018c39ccf8671c901145eba756e3a47a8fb4faf2c8b94ee2652687c18708d7
+71qnZUhrYiEjoLibci
+
+tx 3e1c1c8144587ae9b8ab080b391a0d0efc0f962d9469aa46e19ace5342045462
+ feeds.info/static/live/btc-usd.j
+
+tx 22c19df3451764706fa6d866071dc74d89604686a3a1c9380da8b2a4f14c4393
+ t digit blockhash 319812, 1=odd,
+
+tx fd47c7ba8a014a65c9eb6e64ebf76b22308b21621ca00633bbdf2b3a6bb24ddc
+"1322?Blessed Teresa of Calcutta, M.C., commonly known as Mother Teresa (26 August 1910 
+ 5 September 1997), was a Roman Catholic Religious Sister and missionary of Albanian origin who lived for most of her life in Ind0
+iia.
+
+Mother Teresa founded the Missionaries of Charity, a Roman Catholic religious congregation, which in 2012 consisted of over 4,500 sisters and is active in 133 countries. They run hospices and homes for people with HIV/AIDS, leprosy and tuberculosis; soup kitchens; dispensaries and mobile clinics; children's and family counselling programmes; orphanages; and schools. Members of the order must adhere to the vows of chastity, poverty and obedience, and the fourth vow, to give "wholehearted free service to the poorest of the poor".
+
+Mother Teresa was the recipient of numerous honours including the 1979 Nobel Peace Prize. In 2003, she was beatified as "Blessed Teresa of Calcutta". A second miracle credited to her intercession is required before she can be recognised as a saint by the Catholic Church.
+
+A controversial figure both during her life and after her death, Mother Teresa was widely admired by many for her charitable works, but also widely criticised, particularly for her efforts opposing contraception and for substandard conditions in the hospices for which she was responsible.MotherTeresa.jpg*10090?
+$" &0P40,,0bFJ:Ptfzxrfpn
+
+tx 542de4ab1ac6917030e0dd5b3be584460a77ae6ed53ea3634b084c3750b4d05e
+fd47c7ba8a014a65c9eb6e64ebf76b22308b21621ca00633bbdf2b3a6bb24ddc\264\fd47c7ba8a014a65c9eb6e64ebf76b22308b21621ca00633bbdf2b3a6bb24ddc
+4a455b4f862f4394bd20549e682fd4a0c0fcc6ee00b96f978fe15dc6cba96e99
+e8d586804cd1f2eb0f5d51a44f15af7f36e756710af2eed64c9c4584ec7fff42
+01b4911cfe382d8b71ff7e5c69458b95cdec1e8669e0bb23d33cb80815ba42a1
+iCCF3r
+
+tx 4a455b4f862f4394bd20549e682fd4a0c0fcc6ee00b96f978fe15dc6cba96e99
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx e99006bc47502a2092de9233a95b7f43ae09b4bdb6b517816711f2e6d6b81a19
+ feeds.info/static/live/btc-usd.j
+
+tx 6e0b813b0545dd981448d916007dce773a77eb408b481d392eb60f714881fcfb
+1  "total": "10000000"}
+
+tx 8a16c5c295f3a90d3813caabfcb24e42f6a2ae3bf3482230a72430becbe982f0
+0 {"desc": "sup", "name": "pflorins",
+
+tx c7cac010294121d05326a75b6682cb96ec4fbc61b8bb4c61eea2b67ec1923414
+ feeds.info/static/live/btc-usd.j
+
+tx 6f37ed1d728b873a45212fed793344cdaeb1de7d65a69ce099a359469f423f64
+ feeds.info/static/live/btc-usd.j
+
+tx cb26584824eb14474c0bd4b13ddfc271f9860ca9de0b1cd125529f840b29e876
+ feeds.info/static/live/btc-usd.j
+
+tx 09ab7cce76106e1aed72a81658b4f570fa1abf5ad90335033672f095a37b8189
+ feeds.info/static/live/btc-usd.j
+
+tx 32d96208d0c80bcdd5fc34b553595e57750aefb62021e980f5289d16e0736796
+ feeds.info/static/live/btc-usd.j
+
+tx 2e0df9fc88b7a81d569c8f7e7769aeae377fc3ad93ca84304a28dc06feab8e73
+ feeds.info/static/live/btc-usd.j
+
+tx aa76e906f77e790c164bb14196bccc7cd26740a09fbf3ad40ba6310258750cbb
+ feeds.info/static/live/btc-usd.j
+
+tx 69a5c95d369c25d013c825237ac80b1b0b6076edc3530e20e813636b3b31f5b0
+ feeds.info/static/live/btc-usd.j
+
+tx 1f9eaeb13a698a4567e9411f65b50187b5e0401253e78ddbb84536af1b5ea028
+ feeds.info/static/live/btc-usd.j
+
+tx 3a2bbd00da2ba0c33c63bb682a81c4f9d811597845497dfe3773b856bf5f6e88
+&For cryptocoin get paid t
+
+tx 7d7153f708ae45f9e1e116b38df811b6f9634a405faa7bcfe77a9920c546739e
+ feeds.info/static/live/btc-usd.j
+
+tx ac2eb920a11634263367151b4c9aab74bbcd7e15e1cc638cf0236f7e74a9aa55
+1 , "name": "pfeltchgeld"}
+
+tx ed075de53c26678f1cab6042ec51229e6e429d89f7324515f4bdde2f1ee3a40a
+0 {"desc": "test", "total": "9999999"
+
+tx a8f02b667802f020fbd642de3c74b28a625d58f073ae69023aa967ed2cc39ba1
+ feeds.info/static/live/btc-usd.j
+
+tx cd76b4503c4915679710dcf41b19ccd5c4df63cf827b06e41f1c543eae21e5bf
+1 st", "total": "9999999"}
+
+tx 584fb02294408427db1343502507f4aadff88e3db98a4bbf3aea774876bd4362
+0 {"name": "pfeltchgeld", "desc": "te
+
+tx f1fc20a63b9120499e1ee85c47bafdc4298d695dc06c15c0df6c37446d2f744c
+ feeds.info/static/live/btc-usd.j
+
+tx ab42ebb292335031457466c2be1f9ebff29acff18b67177e7f06f5faa49df54c
+#2 otal": "10000000"}
+
+tx e060e20b9b66b0b56c74d098e67a0882b9765b65ced50f4072f22e474fc7d81d
+#0 {"name": "assembly_assets", "desc":
+
+tx 0625f9f1e437fe1eed7badd831ed904a006a537a7540d70c96c0d7106f704440
+#1  "An asset for Assembly Assets", "t
+
+tx 06a060211d6f695c6328afb6623f4ee18b45b608666fbf06c12e765716d53539
+ feeds.info/static/live/btc-usd.j
+
+tx 5119d538b64e2301980c18d3937d6a73cb79a29ece15a964a2590aea73250e76
+1 mbly_Assets", "desc": "thirdtry"}
+
+tx fd9eafefc39884ac929b4bc12842324fa9cb01d3ac952ed12c7736ff9612a3a1
+0 {"total": "10000000", "name": "Asse
+
+tx 52646f49b0e3ed9394e772655fcacf443258f04fb8c2a5133622e8f00b380bdd
+ feeds.info/static/live/btc-usd.j
+
+tx bc465a1ba605ef42c53a4b938394849b2d3a1f947a212e94ab8f2c7f468b62b8
+ feeds.info/static/live/btc-usd.j
+
+tx 5ada9e0a379bc47e1bb02e5c8f814927691a59d69c3ad0d30bb2b6d102df8728
+0 {"total": 10000000, "name": "Assemb
+
+tx bf3d77d064859d944ea7b9bf1c14d8305c2ae0f62db921b6ac5003f7c258edfc
+1 ly_Assets", "desc": "Assets Of Asse
+
+tx f711a2a9a76d630ef644bc1fefed275e9b602a6c1a2ce3fe1e7055561da49bec
+1 Koin", "desc": ""}
+
+tx c152bd53ed2c6910284cbcb206920687af986c382d6c9f00272ed1cb67232e65
+0 {"total": 666, "name": "Mississippi
+
+tx 6b71d883002a965483e86b469e82945cca7695ec4bfbab265ee054890c7e63e4
+#1  "4th", "total": "10000000"}
+
+tx 5683c4c99feb9d5fa9c84bc14ad1fffc42e4e8db4e5a637711a56739ef7f8c89
+#0 {"name": "Assembly_Assets", "desc":
+
+tx 6a6d8b65a849b4060a1bf4f2910c3918dc5fe1efda33136f9803f944b76ffb05
+ feeds.info/static/live/btc-usd.j
+
+tx 29eaca46bf15bc8b8d40c9e1ffc83cf973b2b986be2a748bbb0cd02b53165783
+ feeds.info/static/live/btc-usd.j
+
+tx 0a3d33d74276809e71ddf3022e706069467c89048e3f98f5a247baf581fd8ed4
+ feeds.info/static/live/btc-usd.j
+
+tx ca6fbaeee0c2875d9897c75d0908ab124fc586e984ad482ebe68c300ba60885d
+ feeds.info/static/live/btc-usd.j
+
+tx 571503a0c83a550632887c31ed7d511a6662b34a443d94d93e5b0022ef48c944
+:2506*ALLEN LEE VANDEVER
+
+Artist Statement -     I feel an artists body of work is his unwritten biography, archiving his progress in both craftsmanship and self-discovery, all the while capturing the most personal and essential moments in his life, and revealing his personal reflections.In my painting, I feel free from the jumble of words all too limited in their ability to fully illustrate an image of my sensations and reflections. Painting is a way to bypass the filter of conscious analysis bypassing the point where we attempt to name and catalog our responses, which often diminishes the true glory of the moment.I am free to explore my dreams, very often so intensely alive that they continue to exist in my sight in the material world. I have yet to find the words capable of illustrating such glorious visions, so I paint them that I may relive them, and that I might apply a pinprick into the veil between our worlds allowing a speck of light to illuminate its existence to others. I aspire to reveal such worlds to my son, that the images from my journey inspire him to begin his own exploration, for a mere sliver of light is enough to bring the world gushing forth, demolishing the walls that confine our thoughts.Although I fail to find the words to convey my passion, I cannot deny their role in my reflection, for words have allowed me to further explore the images I have been moved to create. For when I write, I am transported into the silent realm of the mind, where the voices of human reason and passion can be heard in intimate conversation, contemplating the infinite dimensions of being.
+
+Bio - In a recent interview, Allen Vandever states: "I have never been normal. I have three wonderful sets of parents and have lived in 13 different homes while growing up. Education was interesting - football scholarship, spinal injury, chemistry major, art major, psychology minor, yoga school and pimp school. I've been a New Orleans street artist, farm hand, hospice worker, and a leather S&M store manager. I've worked for a women's spirituality magazine, a TV studio, Greenpeace,  art galleries. I've been an owner of an import business and a full time artist. I have been rich. I have been poor. I've lived in a VW bus and in a beautiful condo on the beach in Hawaii. I have mastered lucid dreaming and am working on lucid awakeness. My goal in life to be the best person father/partner/artist possible.
+
+General Information:
+Born 1971 APRIL 13THGender :  Male
+Location: Chicago IAmTimeLoop.jpg*11880?
+
+tx 43e744ed3f798ee41e3b9d828b08a6ba2dec345144d2c53c39b51437fdbaf32d
+%!'&$!$#).;2),8,#$3F48=?BCB(1HMH@M;AB?
+?*$*??????????????????????????????
+
+tx 78c605d40d57e3aaaf9b66b213b46ef3fce1c85d0385c4f74c87a2964372a8e2
+????????????????????%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 8b73e6ced062821011265a8bbd5d3744508c8a6e3b3a722b2903adbdac2bb168
+@.0&4LCPOKCIHT^yfTYrZHIi
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 2c4b9497af8c0c0eb9383357b40c3de33dba0b4f481099a32719f2b9036da8e7
+571503a0c83a550632887c31ed7d511a6662b34a443d94d93e5b0022ef48c944\2376/571503a0c83a550632887c31ed7d511a6662b34a443d94d93e5b0022ef48c944
+aaf4c2e0406c9d65b8b2a92cd3a3356138452d1d7b1eb16bf85dc22bf9d5af3c
+17838188eabe1b68c493aade5453f242c4415fff8d1bc4234f7196fc7389f3fe
+43e744ed3f798ee41e3b9d828b08a6ba2dec345144d2c53c39b51437fdbaf32d
+78c605d40d57e3aaaf9b66b213b46ef3fce1c85d0385c4f74c87a2964372a8e2
+15502068a4d10fc1956d48d8462430167d0efbadce15d6d03b964faf01a65641
+0fb685561497b5b7d2a61562831fa78bcd76365b108e64c65a6ff21aecd30db8
+31ad9287e81be1917460bb4e21ca746a58dec426ddbd706d4b8d8b2c013e9ff6
+c7355973ccca21fce65d2bae06402bee30a2df0c0da046cb78c839c57d1d96ab
+7bf3580734e2b840ab8c45bb37bd1580b55f95c54d5eb3e06144b02309a62815
+8b73e6ced062821011265a8bbd5d3744508c8a6e3b3a722b2903adbdac2bb168
+8f77412a06eb8fa1a4eaefeba31886d938f1ec0c95b119f0d37142f017a09397
+0a914f9e9e205f0af110b48a8513321ff9168fe6ec4e449060ee2ab00c17eea3
+53e8d1a855a32ceb89123d2c5b8a29d3688353a73fea2b0f91c654a5473915ff
+e6170e3b5be0125f0a99249e87b78fa83c2e29594d9601d71611e2c1db45edf6
+be9e77ca687b68620ff9b8793a2c477845c6159fe3a17121f62b0061626298e2
+e1ef2bed59174fc1025598daf5e162aabad16891ad57a47c2b18ea1973119534
+79a701175531f62d1327d087c05eb0710cdc3b72e07997e78e8360adccc6e286
+275f26739ef505f475f6206c4e4a66308140dfe1f24428b9242927b0d0cc5618
+800a943bd2b2ab997154dbde7cf7df826ffae2e6fd0a035bd695236badcc57cb
+627133277d38a4efca2a165f1de205541c6fbfaa94bface2fbff0dd491b13ff2
+b9397199639ced7d3d631edbb6c60cfc00334fe4e851f95cdf9a285ab6905473
+3e8e5d8966c2fbfc719dab67a8191d42970dbbf8088568c78b91e8d5f8850f2d
+aaf322d445e43d2e2111d14cbc39eb831812423bb550f0c305111b60620c0dae
+559edb2ed72764cb0e88461a308e9787c4b9d71502ac3ebdb477b9fb14d6c8f6
+1c32e053436aa968102c0faa3b8a31e9a121206fa9ac70933763d5a6b1924169
+9167482bfb92b7e20a6edf28537c5655ea5be914d599645e01347cbf304ec710
+5fd516f79d498f9a3ccf66e881a246dbd026e0570418359707242de4ac45c7d9
+d1e5139f73b796838dd6b4d246264c8631245968c30dd17108ba50e7f08d1ef8
+4085c936bc863dde^uP1b9bc39814a74bfa4b8a6ba5b44eac22d95a1798660731af
+ea11fef19573fc321f367557b2a74213e2e51955034b8499e92b4749546696be
+8910dd4063f3546353fb68de274e7478e747931e1370caa635b1621b5ee1b627
+1dedf26cf5128dd7c9e9037fc7aae09dac7f1b06fe50633d46d3d88158dfb2fd
+10fc63c548663e0a3d78eff07425ee021eb82b8c6128487967e5247bac7d7c66
+a29610a3fc9a79217c571eaca004586da81ae9f177c38bb46c3c6f8d4f4978b1
+866c6375c4f696d84435a895b4be0e17749da4cb49be233f80f9753733facaaf
+NTZwSzOMcpniJ
+
+tx ae161fd450db9d071f646d119db9c2f50035eded77c9a4d4446bc3930f74032a
+ feeds.info/static/live/btc-usd.j
+
+tx 5e99d8fd9aa1226edef6b048324f211e5b2f2a121725bceb6806bed203fc9928
+ feeds.info/static/live/btc-usd.j
+
+tx 140c3789b63574f7b0921b655b89e98033208fe1b47ef3d5e1e11b659445965a
+ feeds.info/static/live/btc-usd.j
+
+tx eaf71157947ccc2b169c628ac66b3ff5020e63be457b42457c97e33cf70f594d
+ feeds.info/static/live/btc-usd.j
+
+tx ebf5fca02f8cd6b09c2de4bcb4c612454030585ea2dee45b7f6d0a7f89f9cccb
+ t.io/feed/1G7o5H76BkW45ZdGkh3ZX2
+
+tx 5d0852bfb66d26e56e57995f9d05813b4ffd550571d4cff17555a5e943a4f913
+ feeds.info/static/live/btc-usd.j
+
+tx ec31a68f9772c924140256b07c16e642bc3ed80c5e3885eb741998e33d2b808b
+ feeds.info/static/live/btc-usd.j
+
+tx b1e520757456304fcfbc0defdbf24c968ea608932bdb43b2f67559ea4caa74b7
+5http://coindocket.com
+
+tx 35d7b33f6556bb0153b86253ec0d189d74b03ee254a1078b2a22dc75a8a6bcc8
+ feeds.info/static/live/btc-usd.j
+
+tx ff8ac0c880b5a2e4a195d628c3b3b714c8f67c21d46b5a6e4a2ae8d13c8552be
+ feeds.info/static/live/btc-usd.j
+
+tx abc44306abbec43e5b9db780bccd1cf4ad2d4391e4760d193fbeeff0d27c06ef
+ feeds.info/static/live/btc-usd.j
+
+tx 6ac8fdaa936a0494841a14ffd41c8337bf3f1e941c88d746149c0007b6b98765
+http://www.ournem.com/
+
+tx 1ba88a170cf696834f9b06413dbc31b07d07eb9ce070fb18a45474c816a26ea1
+ feeds.info/static/live/btc-usd.j
+
+tx 7ebf4c8547d91cf4f2cdef9685ca065918b633254b6732b0316ef8832ef25395
+ feeds.info/static/live/btc-usd.j
+
+tx 8864307a05bbc70dfa01273fbe3078c74960daa908866168a26edb447b1f903b
+0u=https://cpr.sm/DA5YKtU5bV
+
+tx b15711b736f3c02240a58261be5012bc2745a72d66e63761cc78abf2382b2f8c
+ feeds.info/static/live/btc-usd.j

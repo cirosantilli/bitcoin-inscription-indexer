@@ -1,0 +1,26 @@
+tx bcf1a016e9d909a993ddca76cc7d1b1c217544c26380ef471b28c13c6eb16464
+ 500/USD www.dac500.com
+
+tx c034a3e4fab3589b3ccfc5e009202504502210d5f4203f27c552e082ca642239
+'vhhttp://heybryan.org/pubke
+
+tx 0cc3e0a812a8c0bf92d28afefa7eb17fac6b037c08d087e92e22da632aadf32e
+http://heybryan.org/pubke
+
+tx 4c64cafc218e07476f80ce66948f849b6d7ecfc210c2212d47d499106ee22e40
+ /BTC PRICE source: www.masterexc
+
+tx a9df239b36ca908cbe619f3cdb2c1964ba5c684ab2d6ccb323bb0ae6986a50af
+Gk D/USD PRICE source: www.quandl.c
+
+tx 8f27285ce06b20d6082d980c059b4b15a4938bb74708f0c73d945ff5d9dc4b10
+proof-of-publication
+
+tx 2fb5b3868e049286476808e402068293ae839f3170bfc17befcff7e958163cc4
+ /BTC PRICE source: www.masterexc
+
+tx 2b8023b618786d7c051cdbc68c950f154135471a0534788e6b66dc0d5f19960c
+Gk D/USD PRICE source: www.quandl.c
+
+tx 7c2994e364f6a0dd6515a0c33e41d71911132d8d4cafd15c4a53d1cba22bc165
+Bitcoin is Great! Yes,I'm jd at Apr/03/2014 UTC8

@@ -1,0 +1,756 @@
+tx 48cba992340cbc27c1db95bc014e46bfa90e5b68a0a6598e8be6ccbc209c4492
+/ViaBTC/Mined by 18959026368/,
+
+tx 1fb959b660f1e79433c6240fd52b0889065839801008715fa356a6037773b34e
+Mined by AntPool78P [
+
+tx 974b057789c878e322827ba7a84f1ff104b2c089ba9839b48420b62c141f45d8
+Mined by AntPool616 [
+
+tx 02d526377fb3fe206fc74c72d8b662cd2f81ae2026d79ab04dfcb82fa8ca9ec7
+Mined by AntPool5= [
+
+tx f3c6fd61d2160b856572850bb5d117d690436dbef67e5883deedf7540e5ebc5c
+/ViaBTC/Mined by hellsingmax/,
+
+tx d0f733693252d080695048640fac0cd05482ae926b90df113c7d2c2c4e15f7c4
+/ViaBTC/Mined by koychen/,
+
+tx 25a69f02cdd37f1ec4a81175f0debca72f2f8c195df2b2c281427e1771dca17a
+/ViaBTC/Mined by chenxuebin82/,
+
+tx c24520ca688e31a634bee533aa6bfab1a5e708fb1da28c9c9896827913280df3
+/ViaBTC/Mined by n53d/,
+
+tx 8b9870af7dc4423ba2d59a4642b175cf6c450e0c13c6126c561edfda1d95c912
+Mined by AntPool78P [
+
+tx ed39766c925fa4bf8faf166f498b0ed92cbed97029c1168f7c89205344829c6e
+/Bitcoin-Ukraine.com.ua/
+
+tx a329741a5b8128b1c35e0a61a99306c5b795e2dca0cc3ed5e5fbdb085bc4e5c2
+/ViaBTC/Mined by erics9i14t/,
+
+tx 49558b98c221f7cf9f5d29b6eed177ea67e1cc959f687859fb824efe6345dc6e
+Mined by AntPool29C [
+
+tx 7349c8ffed75a0656f58c4f59e0e4f6ad1862e0307647a746c63ec1719a4eb76
+Mined by AntPool78P [
+
+tx 6e26c9725833c278835346f34e0bd319f39bf3d36cdd7ea2686ae500148f2e73
+Mined by AntPool19: [
+
+tx 9d2fe17067c42d8a3c2d9120ce64f50b5cbba4028910a4710554dd0cd077e95d
+Mined by AntPool78P [
+
+tx cacd3e9a71dd1ab70cd606603752e9546f77910a204509241c9e98f89e423495
+Mined by AntPool29C [
+
+tx 346201fa52bf47dbe4684d57c0e0876c8e36d53456ca6b29db13d2334afa1a1c
+Mined by AntPool16I [
+
+tx e3438cfc29b66c5c80854c00a269975c5b25bfb574bc5a8d0625d1c1003dfdc7
+Mined by AntPool1M [
+
+tx 4a47fd37e872fc012054ccb2d54e5f9b6829e5f80177939f1bca831a908ec7be
+Mined by AntPool29C [
+
+tx 827d6a26bc3f5391d83ab53b025a9319301e923d1a94f970629a6d5f4485dc11
+Mined by AntPool5= [
+
+tx 863e56ec6cd402f02ef4de7df2e20c1be5141461c1b1a9431745faa9d140e406
+Mined by AntPoolcN [
+
+tx afc811b900605a6179db914aee1452f90024d9f375e02d09f032002803bf4393
+/ViaBTC/Mined by wz66666/,
+
+tx bf14f7eae87485f942962a16d8304b0adc1c1120095f6cd5c69db31ce4766a75
+Mined by AntPool616 [
+
+tx 465a65ade76d9551997022c55f9008bfbd48b2025c4e473aa9792941f17115ee
+/ViaBTC/Mined by miaoran/,
+
+tx 924e1a9ae11f0049bc997dd90222d96932b0c2e4293ff5f328caf98353b0964e
+Mined by AntPool19: [
+
+tx 167e591b2e01596fe36baaa87e47d00bc47eec38614ce7def9d532999f9bd1ce
+Mined by AntPool29C [
+
+tx 3e5baae325e135d4c3beccf75201f30f9d42b7c7f1b9d09cd0e0f25829d21ed2
+/ViaBTC/Mined by nmwy/,
+
+tx 8210a3a54ba096df601bc4c3a7ab8364a1524f13672cc31c811d1fe620cd2ce8
+Mined by AntPool4% [
+
+tx 3c1427db063406474e171aff2f556709a6067e1fab040ec5c9cbeef34b79eed9
+Mined by AntPool1M [
+
+tx 67d73c031d3822fbbf0a9ccb61b544eb584fa42c50116b1f9b05183779942406
+Mined by AntPool79F [
+
+tx 825ef72535a3abd180c3fa30747a5cd4a189e9a4a8317401e8cb4b8e87f19faa
+Mined by AntPool3* [
+
+tx 0cd90cafd0c0ec8b5473f726b4c45e6c6c187baac469953baaef3fe393c5a25c
+/ViaBTC/Mined by eying/,
+
+tx 6affa7f28b437bcaf280cd1c0371cfd953bbf2bdd1ac24fcac43521c45c5b4cb
+'/pool.bitcoin.com/EB1/AD999/FG2@494784/
+
+tx 7f0348fb036d1d9bfdd77860dc77db54b3dca7b8f5d85f26dfd2392ab80de56e
+Mined by AntPool79F [
+
+tx 3d5ab56b47e8c90a61c34c6b4f9e0a4a19104ca9c049d13458df4e28b8023927
+/ViaBTC/Mined by eying/,
+
+tx 3015b540e2280bea794e8638fd829e06ebbb250763f8825261c85f0e9a66ffbf
+/ViaBTC/Mined by hang/,
+
+tx 6ad78643e1eb122fb21fe36f018fd641ac12aafc0c1e75c8f06caf903e5f9167
+/ViaBTC/Mined by dagecrypto/,
+
+tx f3e7bb92b21f92decc0c451096b67cb9c6bf92c9dacae2bf142d4d9934ccb4a5
+/ViaBTC/Mined by seungtaik/,
+
+tx 022e3f3670f61725f30ad20c973852babe18b7b9aee30c5a6183bd338a071fa5
+/ViaBTC/Mined by 13868663030/,
+
+tx 33c5bbc391488fd158bfd1ae0bef23c8f0c156a3dc7b1d8080739d90650c687e
+/ViaBTC/Mined by hurui11/,
+
+tx 14fa6128fe77f1365abf60fc0fbc69e417f5c7c5db8a7dc2167f047198d36e4e
+/ViaBTC/Mined by nmwy/,
+
+tx 028d71241e247d0b57dcd6089c910e70a4129b052af898e7390de44bc3376e2d
+Mined by AntPool6P [
+
+tx b95319049288f76710bf067699dcaf197f2e4d466865c35e4836c59505c0ff33
+Mined by f2750xdt1dq1805
+
+tx abdab9c6d67c1e921171466b9ba8ee848c775e9a72021e6ccc767ddb7c13126a
+(Mined by BW.COM)	/BW Pool/
+
+tx 5cef8bb0c5e24bea0c5f4abf8d4a0ea854aca4f54bcbbc43582c32bf8fc9209a
+Mined by AntPool3* [
+
+tx 607b6fac40f3a94518613a85fcfb2f3b091d967ba80d73055325e57da01f437f
+Mined by AntPool16I [
+
+tx da51fa1572e161324a078c894fb7e97736a5f1c9de7c45af8b74c59029566c7c
+Mined by AntPool3* [
+
+tx 795a47c66609e86c358a41e035288bdff390325f53a85a24978b4be2a9cae89e
+/ViaBTC/Mined by whitney/,
+
+tx e0faeaf80808f63db154e9189c2d1eaf883e52174a0f1156725dbf9ecd807aa1
+Mined by AntPoole\ [
+
+tx 04d58c7ac773cf9f12a2ea66cd750176da2f7b4b99f83cdee11dd1cd6ef4e22a
+/ViaBTC/Mined by hongjiang68/,
+
+tx 64fffdfab5467a7ea843c50d5c5da259184606b5e1c811820d49f0fb7607e983
+(Mined by BW.COM)	/BW Pool/
+
+tx 11f62773364626b963ca580139436de8df5e95d2904914d2eeb37ae4fa3e5740
+Mined by AntPoole\ [
+
+tx cd9b0f94bcda3c684445cdd20b6d558fcda3c2ee741327a04cb438807a567006
+(Mined by BW.COM)	/BW Pool/
+
+tx 08989f923d02ae15e6e6a959766dfafa06da575948186b1192b698888692ca6a
+Mined by AntPool616 [
+
+tx 3839f0e9e566d30b8d9fc0489e172ec081fb468b022381425e4df08dac62e70b
+/ViaBTC/Mined by miningfy/,
+
+tx 9caa077df7ba9baf7a4faba7699bbe664f34ece7a2cfaba2e06e802e9e079057
+Mined by a13695685211
+
+tx f1ad117d175dc8d2e14139aafb85163c52074841a80352f1d820d49bee3587b4
+/ViaBTC/Mined by yangzong/,
+
+tx 973e519a0d9c94bc026ca5c22416716bf5062544e502fa1e5133273d85c12218
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 295f9d90611ca5f4a09fdc6462afd94dbe95d13658af8f0b175b1ec4f0763df6
+Mined by AntPool78 [
+
+tx b378b8fdecdd4a51dcb5b758587fd40005c8ec1d72b1d9d8eda9e4b61513e354
+Mined by AntPool8& [
+
+tx 4356aa164acee1cb26059582f05b077e4c4dd965ef82a5c69b023b7058fcee06
+Mined by junalife123
+
+tx 1c22bfd9fbfa00c97b1d02456257397bf2cb1739fcc4c26b4a7f7626b9f4a60f
+(Mined by BW.COM)	/BW Pool/
+
+tx 0e8bc2a4db70cefb93287e7a20bffe30404000a39a1fcde19560464205879125
+/ViaBTC/Mined by lmlcbla9904/,
+
+tx b609c65fd7a2e6c8b0c9e847f5f1fc084696abe3b0b7407ed6729b75e508faf9
+Mined by AntPool1M [
+
+tx ba3801be26aecd9485554994076d3cca864aef1b8141d656329b29b7451e4488
+Mined by AntPool4% [
+
+tx 4c93310593fdb76c932bf970e6bcee6f5aaa5d4a0c7024a689d268c94e718a88
+Mined by AntPool78 [
+
+tx d20bb0ccc77caabf11420a20c23c1e91f24e7dca9d3627ff4d1e133180e5803d
+Mined by AntPool60] [
+
+tx ed078b176b57a120c165d75429327a1daecf357810c48bc58e97be5e952d6d39
+Mined by AntPool7X [
+
+tx bcda0f51a97a66e4d9eb5d982ba3276adfdeed4b5bf1fee563270b57a781d842
+/ViaBTC/Mined by wo2017/,
+
+tx 6fe652ea357b193752ed85bf26dc2faa8a396b1799779aec92f179721f51d2eb
+Mined by AntPool79F [
+
+tx 96c6c0728c9c288c162bf5544125c4c2c2a3e1a6526c3ca0d020f406e5c735b3
+Mined by AntPool78 [
+
+tx 05d25f671ad3b5a557e0ceae7cf72fd9f09db673dd250ad21ce44dac8baaff99
+Mined by AntPool20 [
+
+tx c97c5814cc593720b13309abdf6f7da22191b441aa44b89f1f0494e3c243d291
+Mined by AntPool5= [
+
+tx f9d24ab8af0772de7130aac736a3c0f4678c092e665d21e73863aaf802eb0072
+/ViaBTC/Mined by dongtian/,
+
+tx b7859664c698ab51cea1b910238567f567f62437f1cd5bc12d80a3eb11ce6b9d
+(Mined by BW.COM)	/BW Pool/
+
+tx 712bbd17162b2a075c88672fe54493a8efabdf32232cdbdeb68648c2642bdd4e
+/ViaBTC/Mined by zhujunqiang/,
+
+tx a184ebb5170d9d523246442329db605180e8fd5b21d39c036e5f756bd5d3c659
+Mined by AntPool30c [
+
+tx 707bb1265c08cbc6c9a8c33f952b374dc719b921c9f2d343ba061b34e821a094
+Mined by AntPool7X [
+
+tx c5b481a8b0eb32266b5af5d49c6a2f158a3c1276e8aaa4c8604065d9f0e31dd0
+/ViaBTC/Mined by wanggang/,
+
+tx d1567955718db1c8601bf51feb4aefa57f3969f474e5bb17c5090c27e7f827a8
+Mined by AntPool1M [
+
+tx 62f03dee3a8049353d86a10edd67abeaad155cf41005113aa31c42d039dac1a9
+/ViaBTC/Mined by t214l/,
+
+tx c04546f81e44663ec48163bbb80e5d70f7b8fd697a0ae0986e4317eefb908bf8
+/ViaBTC/Mined by rustamche95/,
+
+tx b17094e1cf676386d3f1cce61b9cc64d955d786aa6f85dc52d7bedd5a526c662
+Mined by gaobo198101
+
+tx 4ac4b1c52599029437c4df14b49d779ea37e192755872d12468d5aa426f8e819
+Mined by AntPool16I [
+
+tx 3ef48aaa690be8be4a0f3505e62c1fc21cbab3e9b052658c4e0db17021666982
+Mined by AntPool4% [
+
+tx 62ed5310d41f9d6b2af30e1ff55fe6f00aa38654b7481fa2bad5ca026d239dc1
+/ViaBTC/Mined by zl88888/,
+
+tx 404328f5f562bbaf8e5d2e85d6ac4ddd85af2096cbf13baca6362eaf5ce2d6f7
+(Mined by BW.COM)	/BW Pool/
+
+tx 158652a24b6c9d8910e6d00f503bf9c3dbf5a3b70448c8f48a6279b726cda815
+Mined by f3000xdlx1805b
+
+tx f11548e19271bba7595c80a842a7c4e73e5fced2d2f77011e0f72cceeaab8d85
+Mined by AntPool57D [
+
+tx 7d723cca7ac7ceb4fd4b2d823220328a460acbdfa08b11b9d92858b8d555417a
+Mined by f3000xdlx1805b
+
+tx 4cb73f8c72d527e7908bfda679723fc202e0168e67a65fe7ff4d0923ed1159d3
+Mined by lianghao8882
+
+tx 376e190bdf345970ef0c0f72f04d39dd8266e754563a4a5a3c48445f589c6b4c
+Mined by AntPoolaG [
+
+tx 5d26f8004ca0c5671aa14890b0b25a02b9f96cf43c1c4427ed35d60704bbceef
+Mined by AntPoolcN [
+
+tx 14e99325a15355589e77240c92fa378faf41f82f5bca382ac18d52e41acda3a5
+/ViaBTC/Mined by myurkas/,
+
+tx 07092858ea30100ef0bba160ee41fddf8f1d0ffe28b82789d6cf4d40b86b152a
+Mined by AntPoolcN [
+
+tx db56d04946fa963ee384a8898cbb821fd1c26a6de4187ea42cee257522dd23c6
+Mined by f2750xdt1dq1805
+
+tx d7317381ec0ae6dd4affddfbe496924aa15050c37cb6dc9eb7520b7a65d13863
+Mined by AntPool79F [
+
+tx 1d243bc132c0ec67f5bcc1df0570ef40be164ff6be40ce625783b80d117e67a7
+/ViaBTC/Mined by 13980011111/,
+
+tx c8e1461e1ee6cd4cd3b0d4d363c9ce7ab531012379cbfbecab22a9173fe4e98f
+Mined by longxin0035214
+
+tx ae3b34e592af28bf4f56fff2065740417d1b990cffb78e4105fe19813a427517
+(Mined by BW.COM)	/BW Pool/
+
+tx e2f532789b6ef62e05fd3c627a624bcce0287564091095f60c9c95f72890151e
+Mined by AntPool16I [
+
+tx b862bc38ece8660c85a1c6b759ae8fc81b276157848bd5c1de592ed2baf75845
+Mined by AntPool248 [
+
+tx 1aa7d48a6266b11be2aa434a9d35753f3635bd7b2e4e7404c51e09816a2f040f
+/Bitcoin-India/BIP148/
+
+tx 8efdf07d58cf840d15efa50753b7548bfeb7300b59795bd8bb3c1267a56895ee
+/ViaBTC/Mined by liuxian1/,
+
+tx 05c28ff57b76075999be427d73694e1a161d2d80ec717b47e3fb2f0af9cbc446
+Mined by AntPool1M [
+
+tx 4e13a6fbd1b5be122669dbd4dcc4936057ea8c9f1388e13e26447c9aebef579b
+Mined by angeldx0801
+
+tx df8a6e9bf174fec9b5c4b89015865f20949efb8e309f39b278c79a3407705c87
+/ViaBTC/Mined by cm01/,
+
+tx ef0e99c9de8e4c67519f0201c9b02e326b0503e122aa9b768d191d51be41facb
+/ConnectBTC - Home for Miners/
+
+tx 69005c8f6f9c24eacc0609ca90a460e776d499d58ec225266fe9ed407f698ab5
+Mined by AntPool6P [
+
+tx 8f3445b3bbade9037330a41404004f1af883b65d5c0ab93d1d1d412232af78cb
+/ViaBTC/Mined by maxymcl2/,
+
+tx 974afe1d88876c2e54e95bfbf9af567dae387ca8a7867979cb98679b594ada9e
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 51352561a668189288932dc86205968f60696c67ecd9ee6c6e456fa9f9b4309f
+Mined by AntPool27[ [
+
+tx 33b701e8f4db87d41a84e30494736fe99e26a2b6263e22d342cee53a2f62de60
+/ViaBTC/Mined by zhaowq88/,
+
+tx 975a6be84865f7120e326c12076a29579f9c6333b37d8f7521aa2d2d16b1d1eb
+Mined by zhengfuqing1012
+
+tx e8d434728df077fa1d914ea93f2487b61fda3f948068ecb165273679c7653a40
+/ViaBTC/Mined by szozs9135/,
+
+tx 1ac8f8bdbd6bc9f00fa41ab6716265319b0d56d300b923718bdc6a1ca567d173
+Mined by AntPool16I [
+
+tx 4d2892f1cb4a4cf44c37abb3e2440afd258cef44136098a53a2e07474a40790e
+Mined by siliancheng
+
+tx 26dfb24f56aaaf0411c365038b7df1f0cf9c49e7339639226d1fae44fc41192b
+/ViaBTC/Mined by bbc2017/,
+
+tx 3e4e3f312e9ff523ca93c18b80264fadbe05b5ca2757c844c06f2b719444a21c
+/ViaBTC/Mined by 3322/,
+
+tx 22afdff11ae2daf32320ba13b126cadd5391b9df74bd62d539148c3d955563ec
+Mined by AntPool4% [	/k=-
+
+tx 3077f07a0946518e17e457f586b14c13825a74bd209c84cdef599bda03f31864
+Mined by AntPool57D [	0
+
+tx b343d3ed88bd27e553c886c7a42fdb0dc54cb4add241275e222181a453e325b7
+/ViaBTC/Mined by szozs9135/,
+
+tx 1978d49622a5ab4a4eed5f703dec955aa6b37547c73f4fd7393db975034ceb0c
+Mined by muzhanjun123
+
+tx dd1b43afe20c7b7583928a9a658ffeae8151e02dc48876296d0fbedc3fc3ab0b
+Mined by AntPool27[ [	B
+
+tx 1c95102e7da55ebba4d2148bd824a348b189ca56daa6b069b95c48fca9f15c92
+/ViaBTC/Mined by hukuta/,
+
+tx c0ad11f1a2c0aadf8971ebdbbb572352086441dd7e9f52a52437491026dd0e04
+Mined by AntPool616 [	dtj
+
+tx 4296dcd4556e0741889e2c8cf271614253a5e06630fa17b47128575cd64ea5e4
+Mined by AntPool78 [	g
+
+tx a58af0776a2eebbdc395805fd13013b9e2a2b714b757a376d7df9b0003b6d653
+Mined by AntPool4H [	q
+
+tx 6ab4b1247e5a9a11d5b16b56dcad7cbabb752a9679350c4bb87582903d7aa8f3
+Mined by AntPool6P [	
+
+tx 77c16498486410c4e85c7e697ff2b84bfa338f75c18acb229b4b5e769903a9a1
+/ViaBTC/Mined by yueyang/,
+
+tx 00665b7861ea21dd27754bcbce1f98a8bc62e5c8552b967e034265077ac32f72
+Mined by AntPool45` [	
+
+tx c26825269de5dfa20f019fae658f1f101e208ae71c728c2d28a4595da2aad40a
+ /ViaBTC/Mined by zhongyuanxibu0/,
+
+tx d86143930740753e513b49357a2c78714341987b95384654b813a6a7e58e09b3
+Mined by AntPool48M [	
+
+tx ea4016dbc6437f1c78844f1542c5f6386414e0930d8d82e72a04f97ed8a56886
+Mined by AntPool12b [	
+
+tx 2e6b5b8536024b2269e17e05ade21d0ca960f185e87e9c3a4f90c61fd687703f
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 22f20fdc7672729acc31f252c102dfd8544c6a495bf5645bd5bee7266c63322f
+/ViaBTC/Mined by zl88888/,
+
+tx e5ab45d01c70d5f15f39ccfa7dfb96b4aec3a17199c017fc1f213e0b1f00d170
+/ViaBTC/Mined by karson/,
+
+tx a899a00206b3f616f8860da42c5faa4431f8be24186bcf07f842a8ced047f6da
+/ViaBTC/Mined by 20171213fanli/,
+
+tx 0e1e16eb4dc7f9f5513e57c82ee4a0e30bbd031c70a8543b65ad81249be23803
+(Mined by BW.COM)	/BW Pool/
+
+tx 7579ed6f06d10e8e87cdbb44b494d39de25f6a9f4ff7e47408948e22cda2b18a
+Mined by AntPool4H [	
+
+tx 5bf936821cc1c9ee707e37f34d1fdbf944967aa38cc8f859561ed5debda7deaf
+/ViaBTC/Mined by jianjun365222/,
+
+tx dfbfebc9f43c365f8602593897ecfa4ff0aa2b028b14b1a11f19f7a6d0e9f04d
+Mined by AntPoole\ [	
+
+tx 0d6cb6a904c3db764b156b1eadf0a7a262e270a6fc805a661c4cb8e46218ea4e
+Mined by AntPool616 [	
+
+tx dc9e17eced9457ce89985b5cbc35a2f25aecd1a7f339000c95aecd37b11cd5d0
+/ViaBTC/Mined by 13381123665/,
+
+tx 77d8e98ad80675f9fa63b2499dc69c863654f2f476e4b3c6148cba2f2f116eb0
+Mined by AntPool4H [	
+
+tx 29b80434d243b027d97c1cc7bf6bf3be3b6b9b4d99357afded5e02f5353c8c88
+Mined by AntPool9K [	
+
+tx d7a1e7e0fb29cb4f1f285beb138dd34dd56ccde6c9dc018e146f57ef227a663a
+Mined by AntPool7X [
+
+
+tx 476fada7c724cf925774fdf6983f01a53c2108f950f070854e1a6ef7c845338c
+Mined by AntPool21E [
+
+
+tx 0f7f58b43ac37294f47cb466a8723645935c47205858c0ae4eada840da285b14
+Mined by AntPool3* [
+j
+
+tx fdbca1c5d4afcaddba7ab84ff2444f452cd9e0629e96576ac99745a233b851de
+Mined by AntPool42` [
+
+
+tx 5823459f237e97cf3a0fe7c2c6a8d1623f9496a9b26a6ce5296b7c80b8a0b520
+Mined by AntPool78 [
+
+
+tx 6f5a6fd8096df81134cdea1690826dc0c6aea0a899ae58180a8bd6a4162c305d
+Mined by AntPool8& [
+
+
+tx b43989a512cecd4edd51b53c1a9e7dfaa39fadcf2f09d28c82a3516f4f471b24
+Mined by AntPool12b [
+
+
+tx 073b34fce420db4cdb9c6f4122b58652913d61c66bb327afcb2492cdfbea542a
+Mined by AntPool8& [
+:
+
+tx a9329f82419f94e995943404f59726981edc57415ac9b36783bd9279000e42c7
+Mined by AntPool16I [
+<
+
+tx 471dfa4bb926722a1ecdc7a81ab38aea0ffb9d3660cf84b611cb40001f017898
+Mined by AntPool41" [
+\
+
+tx a5c46a1c889ac034c1ea15b89949fdcd2bc53dee39ba9a21f20d534290656f43
+/ViaBTC/Mined by crimsonkee/,
+
+tx d036509e3c3ac15276a845247303515910ce38ca637991dab9e2b0608a6923f7
+/ViaBTC/Mined by aeropuerto/,
+
+tx b3e20f89d401394f0b2eaf3c5c771362418fc4cd7a63c21b165b2af185207bfb
+Mined by AntPool616 [
+mnz
+
+tx a1e6de657c30bf6742aca3d90364cc59c7f175de23259dc75608e814caf642c5
+(Mined by BW.COM)	/BW Pool/
+
+tx 56d4347f858314dabf05685286d3ccc167aadd5595cc751aae14f73ddfdf6267
+Mined by AntPool27[ [
+w*
+
+tx be48302addb2e60e6113e49b93a64bdcdb2c3f3ccd1819348a1506a6126677ab
+/ViaBTC/Mined by gigmantech/,
+
+tx 3fb02217138e08b1e48bdefd0bc65e12563110ef4364a2aafa65c335af93ae06
+/ViaBTC/Mined by yxdc/,
+
+tx c080b15eed566ba4cd74846f391149382bf584cf632152f921d70c068770aaf8
+/ViaBTC/Mined by nmwy/,
+
+tx 996a52d4a700fdb26bf0b2b2515b4d1b76c141b9b7fe44f503c81f49ee6c94b0
+Mined by AntPool6P [
+
+
+tx 242ec34ab040f76456601c57f379c4d83135953dc29b0b2d10082f3d4c43ecf6
+/ViaBTC/Mined by doodued/,
+
+tx 6c0f69c995f29b757d2ab758bf4fa373fe3f3d0593bffce6143621bdaada0cf7
+Mined by AntPoolcN [
+
+
+tx 816e6bdce5dca093d9a76f4777c0ea16f70557c3b65e5333a83aab352cec258f
+/ViaBTC/Mined by ys520/,
+
+tx 565f6a8bdb700acb3a567b873e2ac9acd0187df94d3489d8b5c67880aa15da33
+/ViaBTC/Mined by c6672/,
+
+tx cb875759941eb95f2f83c3e5399315d4bc1f735132d46c6d3993570b7621c6b9
+Mined by AntPool616 [
+
+
+tx 105b229ea564132096478b0cdf0b254c7f273d706d47e667267997596ee0f95f
+Mined by AntPool78 [
+
+
+tx b6db028a31ea0285d7dec482cf8d194e13cd39bbe036a3c4a81a98a8b9fddadb
+/ViaBTC/Mined by 15832166620/,
+
+tx 8974253814dc06dc8e4e628d896c00a41c913d90d5e46bf4d5ef2daf9ef4c401
+Mined by AntPool19: [
+
+
+tx eec35e8385b36d2173a8c4858c4fd606893e7961d28ea66881db161b6036f35d
+Z(Mined by BW.COM)	/BW Pool/
+
+tx 98687c1035a576f5dacc9f236de69329cff1b904d7f5e04e35b324b0e5a82ca5
+Mined by AntPool3* [
+
+
+tx b065eb196e59abc2807246f969c8f6b9924b13e6bf4a20e6049a92f6dcb29b20
+(Mined by BW.COM)	/BW Pool/
+
+tx 8e6b9ffe99ac8dd1a375726ff54e0778a638017bcb232e14642cbf6c57d156ea
+/ViaBTC/Mined by zl8888/,
+
+tx 81ad3ae9fc706baeadf4c771a361f124f55d3b2be366eccec599cad7493e2781
+Mined by AntPool31& [
+
+
+tx 61ad6369daf55336f48860c9c9fadee6c6c188d549a7e9c5f5feacef1d141384
+(Mined by BW.COM)	/BW Pool/
+
+tx dad0ff49517e0695aa69ff6dc13dd4a4207a75afd965f57bacd92ab8e383c485
+
+ckpool/ckpool.org/
+
+tx 1e157ef1c712383a0e6adf32a2c7ffdf7d91aa1938912908db3b22878d40042e
+/ViaBTC/Mined by aravt/,
+
+tx 2507924ac0cc32cdda3ed394e33930aff647e44b9421356ab77e82755f4266b9
+Mined by genesisbitcoin
+
+tx 30516e5c9f4b2888dcc26d2b7bfefd5e8ff3abdcae053fd82fd98fc92324b4e6
+Mined by AntPool31& [
+
+
+tx 4a25b936fc4cec3ef1bd8328d7365cc672d8c397076e21541d7cfd6830c65d78
+/ViaBTC/Mined by lxp88/,
+
+tx 5028dddf7e9378489ae015bcdd83dacb8ddebf6fc66ff49fefaf4ee52358a21d
+Mined by AntPool8& [
+
+
+tx fa6a4bbd923d8c890d94b4ea7b54f8039b97b0de063dc3d8eb32245adb8cb2b4
+/ViaBTC/Mined by noom43543me/,
+
+tx d772efd4ba708d34abe2a61acb0057f290ef8cb4b9fe79ea4e84b33697a953b2
+Mined by AntPool616 [	#
+
+tx 3b7dc2bbb36df80b322c84836d8b199478f369f153be02f70b19adffd89d3eeb
+Mined by AntPool78 [
+
+tx 5ec0cc37c42b8087473fb5de124022754769d928d42d6c25966a763e11d60b89
+/ViaBTC/Mined by mengyan1/,
+
+tx 5c0dd84a463acb67d36e3f24f0a968b74f0a9999fb14254e5d74ea727e8255bf
+/ViaBTC/Mined by t9ss/,
+
+tx 684634cded7b35a19e46c7565e41a26eecaa1d3c1fc792cb24067c5aa04b707e
+Mined by AntPool29C [M
+
+tx b16844f8297a2f18c2f075ec680686e052f0fe9ef2865631d18a4077d1e711e6
+@(Mined by BW.COM)	/BW Pool/
+
+tx b5ebb5a046d833dd3b10c938aef23aa5d7b8648c6c11f044ebea25ec9fa7021f
+/ViaBTC/Mined by jinmila/,
+
+tx dc610a8304817a16b22f0845850ab67c7e532af98e5c3c5b5b14cf5558428df8
+Mined by AntPool8& [a?
+
+tx 1d5e1833f5a93799ff7e59bed7245d0633197891d1d518d9a98331e276363721
+Mined by AntPool78 [aS
+
+tx 8427bb5205b8f6fa912a053b3de3ab6875a0eb805c0ed90e25983afaf4b79a04
+Mined by AntPool78 [g
+
+tx 703122d778a4da3aed931dd6245080c29687cfbfd5486c6e83004cab9c4cdd0a
+/ViaBTC/Mined by 18905523772/,
+
+tx 5ea0f0b960479267e10b802ee37c154e81f8a2c6fde442290ace1b5c6a0dbd43
+Mined by AntPool1M [v
+
+tx 2e7cec9d03e691e1df63d88096d531d4154a5b9072d4285bbb99d129ca698564
+Mined by AntPool60] [
+
+tx c0fa247773dd96212d9e0fad69c9587c4890c59e012c974e0af983679e1ce801
+Mined by AntPoolcN [
+
+tx 38969760b3eaebe8fbf6d94221c2b85333bafc52e5aae6231794651d0150a7ee
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 07238ec921384282c1995fd12ddc08e12b8f22cb431a4aca54be17bc29cf474d
+/ViaBTC/Mined by beamteli/,
+
+tx 70465d116b611a9c63acf4ef4c38a631271abad50ea1e509165abc437cba8d3f
+Mined by AntPool5= [
+
+tx ce023c4977eb8756b0d71210652d478d14b2edc8b4fb90c2005c69d80158973a
+Mined by f3000xdt1sw1805
+
+tx 5bcba63dd3f9cec7f2eeebce6586dc8da7498fcb5e5f50dc4954f2b31ac14775
+/ViaBTC/Mined by piminers/,
+
+tx 8ffd0b3d0b0c5b55aa9b80fba2075f0308cdf6288978e069346637e94c5a6752
+/ViaBTC/Mined by dcpaul/,
+
+tx 95b5b84c2d320bd30c11d3ce9608278f5d76dbaa8bc54aab575524a6b07f69e3
+/ViaBTC/Mined by 13821555100/,
+
+tx 62033c66e2ea29421ef173a3c49e6f31991ceee566362d966fabc3f6bb41068e
+/ViaBTC/Mined by jinmila/,
+
+tx bae7058b64fdd8fde55717d61e5ce99f962143adba8d8b96e7796d9a59c1ab0e
+Mined by AntPool3* ['
+
+tx 0d336768fc0344f83f78e47b2ba48d5ad6f090a243bdd8c7fb8f932243e32b5d
+Mined by sxh13854662522
+
+tx 148522db80b67c6f99b48a696ed048a7004867173b89a0089cea09c125fc68e8
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 9b8c546cd9693f056c2525e972f98385e56f2903f74c0738bbd2afe976c4ee57
+/ViaBTC/Mined by gyze9/,
+
+tx 37a8b2f36adc039b76f0fb19902b77513f2f925cb4a39b597e3f9912bae5fe70
+Mined by AntPool21E [g
+
+tx b919a05f48ecc6e3179ced4ee8bbaeb47df4f01a4ec02790722b2aa54991ff3a
+Mined by AntPool252 [h
+
+tx d499a3391aed3a2d5cab3fc182d946e1db9b703af2d11fd1dc380fcc36383fb5
+#/pool.bitcoin.com/Use/Bitcoin/Cash/
+
+tx 454acf3250720220f95a28791a483b04c9166ac06cce64974435a3b81bed3601
+Mined by AntPool4% [x
+
+tx c75eb8a72508361cc7c006071aad5131a4926a6a7afab7608e9572b7fcf6a40e
+Mined by AntPool78 [{
+
+tx be6c79189ad7449886d9a158cc47f0a3069fb95900ac385625426a94e0ee3292
+Mined by AntPool616 [
+
+tx 21ab0a88cdd2407ca1bdc51371f2b3d9e72608ea02886f23d84f809a16d1d7c8
+/ViaBTC/Mined by 18055211699/,
+
+tx 3183ab02d28c200425ec5f5f4749e52b839b28bfa1b57375a025a35c5b8460b2
+/ViaBTC/Mined by nmwy/,
+
+tx 37b3208353ffc41e5bef7e3230dbac88104ee2ef0db6641e74ed359369a1fdd1
+Mined by AntPool29C [
+
+tx 92b8c13b1bdc0ae2fa154f28abed2d5c53fe12dfa88687dac82387e266695307
+Mined by AntPool54F [
+
+tx 3a692009fddb258aaec4a489fad06533b33fd4e0f5c88d54fd9fea71c2836246
+Mined by AntPool3* [
+
+tx 139c3cf53c4225e9d55edc602058447deac037f31917a3622ef66bcf818fa1da
+/ViaBTC/Mined by mq21/,
+
+tx 5672dccc92f371455d4cca3c328f010989a39c185a59ca468905a5b70adf47a1
+Mined by AntPool37W [
+
+tx e2e9d210ed6000293d6523b46b323020ae3d5ce7e15644c726750630e4d462a2
+/ConnectBTC - Home for Miners/
+
+tx dbcdcabcf5b3d786e5ad19632a04be0866443e062f34c5a4b8c3c78676ff349c
+Mined by AntPool4H [
+
+tx d18e52a641bd1f98d13cb3a71620d8f6f48ca8b391e1b1c2f9d4739fc0366d99
+/ViaBTC/Mined by guozhiping/,
+
+tx e605919bc52cf8b48a47e9f5f031f01cdd21be5164d4aa17518a2389f11cac7d
+Mined by AntPool16I [
+
+tx 8c37cc6860c09ab528f795fc661d9dc68ac1cf742ec9873cc3870c9e061d3fde
+Mined by AntPool616 [
+
+tx 62f5818773435504e3cea130b84b254b9addad7c1658668eb0d65dd9b82dcfdb
+Mined by AntPool4H [ 
+
+tx 39fd7a7ea1321ebc388ea979a35133049d5bed4b66cf10dad543c83eeb7159a1
+/ViaBTC/Mined by 15052066017/,
+
+tx aedb9583c2ec56c6dd6b9b766569c6e844426f34718f44d45aaf34e3c5046ec9
+Mined by AntPool42` [&
+
+tx 00422ee042b990473d4bc3fadf86665dbbe9e2fa325e44331396711db13dd27c
+Mined by huxinggaozhao
+
+tx bdb2edc1c438ea008800e549298b0ab5ad1be419d6e0f599dc74f821500d7e1d
+Mined by AntPool16I [@
+
+tx fb660658770170dde409b707f394d16dd14b68e702a4de15cd9401a89953051f
+/ViaBTC/Mined by nmwy/,
+
+tx d4b1411da80829babde33bdfffed68d638578133b0a661f955fca07a23024295
+Mined by AntPool19: [S
+
+tx 52913a8b0c5c1ccad32b1c200c10051927754bb582ad79443ee50a818ede3717
+/ViaBTC/Mined by hellsingmax/,
+
+tx 1c427d8c9e66360f336713744b58834ffd076bffe681c5632c0e7ccf3d854290
+/ViaBTC/Mined by xlz1988/,
+
+tx c3fe86605fd70ecc2b113fc9a40b63d00a2b675af709979e87b545ddf6471232
+Mined by AntPool4H [
+
+tx c0f50fe15db7133b111172eb9d359933ccc3002d18159c77ce8b41513e217378
+Mined by AntPool616 [
+
+tx 9a6fc01cf8a36735b242655b9ed8dd88bb01f572b976564ef88e4c22785ebef3
+Mined by AntPool616 [
+
+tx 5a1b6ae5012b4fa12d04a1f73a27e057adf592fa9aef8d048da0d0f95dcc6b93
+Mined by AntPool4H [
+
+tx b0896ab9832a6d69fa51547da96130ab22f9fb02f16c7b2b102faca3cd99ae18
+Mined by AntPool78 [
+
+tx cd258ff4f344e8ebdccbdf03f9b31313b7e6f46abc2e98cafe0d75057f48d940
+Mined by AntPool3* [

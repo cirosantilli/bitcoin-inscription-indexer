@@ -1,0 +1,107 @@
+#!/usr/bin/env python
+
+import argparse
+import os
+import struct
+from pathlib import Path
+from binascii import crc32
+
+import blockchain_parser.blockchain
+import plyvel
+
+import main
+
+parser = argparse.ArgumentParser(
+    description='Downlod transaction script constants from a selected source'
+)
+parser.add_argument(
+    '-d',
+    '--datadir',
+    default=os.path.join(Path.home(), '.bitcoin', 'blocks'),
+    help='Path to .bitcoin/blocks'
+)
+parser.add_argument(
+    '--images',
+    default=False,
+    action='store_true',
+    help='Download all indexed JPEG and PNG raw images'
+)
+parser.add_argument(
+    '--satoshi-all',
+    default=False,
+    action='store_true',
+    help='Download all indexed satoshi uploader transactions'
+)
+parser.add_argument(
+    '--satoshi',
+    default=False,
+    action='store_true',
+    help='Use the encoding from: https://gist.github.com/cirosantilli/7e9af25f4f742b97074c10b9c5816f3d'
+)
+parser.add_argument(
+    '-s',
+    '--source',
+    default='blockchain.info',
+    choices=['blockchain.info', 'parse', 'rpc'],
+    help='Where to download the data from'
+)
+parser.add_argument(
+    '-i',
+    '--input',
+    default=False,
+    action='store_true',
+    help='Download input transaction payloads instead of the default output payloads'
+)
+parser.add_argument('txids', nargs='*')
+args = parser.parse_args()
+
+if args.source == 'parse':
+    blockchain = blockchain_parser.blockchain.Blockchain(args.datadir)
+    db = plyvel.DB(os.path.join(args.datadir, 'index'), compression=None)
+
+def download(txid, **kwargs):
+    global args
+    if not 'ext' in kwargs:
+        kwargs['ext'] = '.bin'
+    if not 'outdir' in kwargs:
+        kwargs['outdir'] = '.'
+    if not 'satoshi' in kwargs:
+        kwargs['satoshi'] = False
+    subkwargs = {}
+    if kwargs['satoshi']:
+        subkwargs['minlen'] = 20
+    outpath = os.path.join(kwargs['outdir'], txid + kwargs['ext'])
+    if not os.path.exists(outpath):
+        print(txid)
+        if args.source == 'blockchain.info':
+            data = main.download_tx_consts(txid, _input=args.input, **subkwargs)
+        elif args.source == 'parse':
+            data = main.extract_consts_tx(blockchain.get_transaction(txid, db), _input=args.input, **subkwargs)
+        elif args.source == 'rpc':
+            data = main.download_tx_consts_from_rpc(txid, os.environ['BTCRPCURL'], _input=args.input, **subkwargs)
+        if kwargs['satoshi']:
+            length = struct.unpack('<L', data[0:4])[0]
+            checksum = struct.unpack('<L', data[4:8])[0]
+            data = data[8:8+length]
+            assert checksum == crc32(data)
+        with open(outpath, 'bw') as f:
+            f.write(data)
+
+if not os.path.exists(main.bindir):
+    os.mkdir(main.bindir)
+
+for txid in args.txids:
+    download(txid, satoshi=args.satoshi)
+
+if args.satoshi_all:
+    with open(os.path.join(main.outdir, 'satoshi_uploader'), 'r') as f:
+        for line in f:
+            download(line.rstrip(), satoshi=True, outdir=main.bindir)
+
+if args.images:
+    with open(os.path.join(main.outdir, 'jpeg'), 'r') as f:
+        for line in f:
+            download(line.rstrip(), outdir=main.bindir, ext='.jpg')
+    with open(os.path.join(main.outdir, 'png'), 'r') as f:
+        for line in f:
+            download(line.rstrip(), outdir=main.bindir, ext='.png')

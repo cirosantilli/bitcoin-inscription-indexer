@@ -1,0 +1,798 @@
+tx a6784e7957976fefd21984c6492beb149cd18f000e945fa343bb1e547828400f
+u=https://cpr.sm/M-so_snjmi
+
+tx 5af4453a439bef6933066a88d82aba806f7826b378e2af0ce0ec974a9d69eeb4
+OU0 {"total": 10000000, "desc": "A coin f
+
+tx e15b5b6e3fbaa349bb229db482df588a07c92778f985ed218948afac54ec2a35
+OU1 or Froges everywhere", "name": "Froge
+
+tx c67ae6fdb555b2f100b5b7bf0d163b45ad545e52647824a01adad2a58b4c3418
+self testing
+Better than stealth
+
+
+tx 1e35f40ebb0064ff3509d9fd5cc056d8c8e91a2c61771bd4a92d0d52b1d225de
+u=https://cpr.sm/0rJmn5bX5v#
+
+tx aac19aaf5530e3dfd48a70aec05d9e549499b781af3c5502561e418b5ddeab1a
+Stealth addresses new home.
+Paystamper.com
+
+
+tx 3394c0336d0adfd3862ff92920a424367036ec94ed88534dc4535facc97ee378
+\3859\To my amazing wife:
+
+Ten years ago, we took a quiz
+That tried to capture who we were.
+
+Converted into raw data,
+Quantified twenty-nine different ways,
+You and I ebbed through wires and silicon,
+Becoming inputs into an automaton
+That was fulfilling its purpose of making
+Connections.
+
+Dry code endowed by its creator 
+With the power to join warm flesh and blood.
+
+That Sunday I read the message it had sent.
+My fingers moved just fractions of inches, 
+Responded with small movements, tiny gestures,
+Which nudged us towards each other, 
+Causing our orbits to pass through the keyhole 
+That brought about our conjunction.
+
+It seems magical that this can happen.
+We can trace the genesis of our Universe
+To a specific day, hour, second -
+When our chaotic quantum turbulence 
+Was measured for a brief instant, 
+Creating an entanglement across space and time
+Which cannot be undone.
+
+These are the leaps my mind makes
+As we hold each other,
+Drifting off to sleep.
+
+
+From userservices@eharmony.com Sun Dec 12 16:19:51 2004 
+X-Apparently-To: russharben@yahoo.com via 68.142.225.144; Sun, 12 Dec 2004 16:19:52 -0800 
+Authentication-Results: mta115.mail.re2.yahoo.com 
+from=eharmony.com; domainkeys=neutral (no sig) 
+X-Originating-IP: [164.109.155.49] 
+Return-Path: <userservices@eharmony.com> 
+Received: from 164.109.155.49 (EHLO mail1.eharmony.com) (164.109.155.49) 
+by mta115.mail.re2.yahoo.com with SMTP; Sun, 12 Dec 2004 16:19:52 -0800 
+Received: from web13.eharmony.com (l580e.eharmony.com.znkr [10.107.52.34]) 
+by mail1.eharmony.com (8.11.6/8.11.6) with ESMTP id iBD0Jpk01511 
+for <russharben@yahoo.com>; Sun, 12 Dec 2004 16:19:51 -0800 
+Date: Sun, 12
+
+tx 3c3bb05cdef52091e2ce0f88e8d8af8c502ca8d7ee364784936fa208a6dd3308
+?3857/To my amazing wife:
+
+Ten years ago, we took a quiz
+That tried to capture who we were.
+
+Converted into raw data,
+Quantified twenty-nine different ways,
+You and I ebbed through wires and silicon,
+Becoming inputs into an automaton
+That was fulfilling its purpose of making
+Connections.
+
+Dry code endowed by its creator 
+With the power to join warm flesh and blood.
+
+That Sunday I read the message it had sent.
+My fingers moved just fractions of inches, 
+Responded with small movements, tiny gestures,
+Which nudged us towards each other, 
+Causing our orbits to pass through the keyhole 
+That brought about our conjunction.
+
+It seems magical that this can happen.
+We can trace the genesis of our Universe
+To a specific day, hour, second -
+When our chaotic quantum turbulence 
+Was measured for a brief instant, 
+Creating an entanglement across space and time
+Which cannot be undone.
+
+These are the leaps my mind makes
+As we hold each other,
+Drifting off to sleep.
+
+From userservices@eharmony.com Sun Dec 12 16:19:51 2004 
+X-Apparently-To: russharben@yahoo.com via 68.142.225.144; Sun, 12 Dec 2004 16:19:52 -0800 
+Authentication-Results: mta115.mail.re2.yahoo.com 
+from=eharmony.com; domainkeys=neutral (no sig) 
+X-Originating-IP: [164.109.155.49] 
+Return-Path: <userservices@eharmony.com> 
+Received: from 164.109.155.49 (EHLO mail1.eharmony.com) (164.109.155.49) 
+by mta115.mail.re2.yahoo.com with SMTP; Sun, 12 Dec 2004 16:19:52 -0800 
+Received: from web13.eharmony.com (l580e.eharmony.com.znkr [10.107.52.34]) 
+by mail1.eharmony.com (8.11.6/8.11.6) with ESMTP id iBD0Jpk01511 
+for <russharben@yahoo.com>; Sun, 12 Dec 2004 16:19:51 -0800 
+Date: Sun, 12 D
+
+tx a7f38875b2dae5f84165a1e5c49c83a788218ee3565c24b55a84f5d3f072be5e
+Paystamper paid peque2 to say "Paystamper is so Easy!"
+
+
+tx 748db83e316edf86ea26ab4a3945c5ff84618e428bf8ece6c13dd0842aba87cb
+Paystamper paid Madcarnage to say "Unlimited payments with only ONE Address
+
+
+tx 91ddac8ab90bbca9235aba145c33e8375a31147c1490bbfb9956cd2818e16819
+KryptosBit say "Paystamper One static address for Unlimited Payments"
+
+
+tx 82561a38bb21b68fc0080df2eda15f085566c1b1ffe14821861213d47b73d328
+KryptosBit say "Paystamper-All payment details Blockchain verified!"
+
+
+tx 93985b2eb136784d8473846e4205f78286a8da46e1f6df0fa9805e2260e517ca
+"2154*Ten years ago, we took a quiz
+That tried to capture who we were.
+
+Converted into raw data,
+Quantified twenty-nine different ways,
+You and I ebbed through wires and silicon,
+Becoming inputs into an automaton
+That was fulfilling its purpose of making
+Connections.
+
+Dry code endowed by iets creator 
+With the power to merge warm flesh and blood.
+
+That Sunday I read the words it delivered.
+My fingers moved just fractions of inches, 
+Made small movements, tiny gestures,
+Which nudged us towards each other, 
+And caused our orbits to pass through the narrow keyhole 
+That led to our conjunction.
+
+It seems magical that this can happen.
+We can trace the genesis of our Universe
+To a specific day, hour, second -
+When our chaotic quantum turbulence 
+Was measured for a brief instant, 
+Creating this entanglement across space and time
+Which cannot be undone.
+
+These are the leaps my mind makes
+As we hold each other,
+Drifting off to sleep.
+
+
+On Sunday, December 12, 2004 4:19 PM, "userservices@eharmony.com" <userservices@eharmony.com> wrote:
+
+There's someone we'd like you to meet... 
+
+Dear Adam and Megan, 
+
+eHarmony's Compatibility Matching SystemTM has found that you two are a highly compatible match, based on our rigorous 29 Dimensions scale. With this level of compatibility, we believe you two will have a lot to talk about and may even find true love together. 
+So, Adam and Megan, we'd like to make an introduction. 
+
+* Megan lives in Chico, California, United States. Read more.
+* Adam lives in Redding, California, United States. 
+
+The next step, Adam, is for you to begin communicating with Megan.  Explore your shared areas of compatibility, and have fun discovering if there's chemistry.  
+Remember, your match has been carefully selected from millions of candidates because you share extraordinary levels of compatibility in the areas proven to create relationship success. So we encourage you to consider this match with care and find out what lies beyond your summary profiles. 
+The next step is simple
+just begin communicating today! 
+Sincerely,
+Dr. Neil Clark Warren 
+Founder, eHarmony.com010261.jpg?12800\
+"!&+7/&)4)!"0A149;>>>%.DIC<H7=>;
+
+tx a2b95db9daed886bceafa4f090c91eea0b0102d39718a35ae44054112f40433e
+93985b2eb136784d8473846e4205f78286a8da46e1f6df0fa9805e2260e517ca>330\93985b2eb136784d8473846e4205f78286a8da46e1f6df0fa9805e2260e517ca
+632c033b5b0407f781b4dc9ad\
+G,6a4d23c8c7dc143d2372cf3243897230c26e55a
+4cfb0c6346438650ba8775728349c10fe6fc22125b8926bf2b3ded51a134030d
+bc572111eae62daf2b0194913c37ea3cdb8c1489b48a9b81a3b2d4562aff796e
+eda38efe393361ec2a5f455265f67efcb73294ed27809fe3af8c2483b5d27f83
+
+
+tx f9a2399aa475920f2a8866012eab2d3f64f8030b9a3f0d06e0ec74b99b6a8cb6
+u=https://cpr.sm/Ur2FkvROsG
+
+tx adc134b35b89ab22fe60e2722518ab5e03f1050a12d1c052880dc0aef17d05c2
+u=https://cpr.sm/0rJmn5bX5v#
+
+tx 31c75b03091b0f5ae2bf375e3df653f0a463da8a705aba20b801c06f704da2be
+2u=https://cpr.sm/5YgSU1Pg-qM
+
+tx 501265ea3097a09baa941038fbacb3d868935fb11f3a4ece2c47529115337652
+Vi onsker alle en riktig god jul og et godt nytt aar. Hilsen familien Akselsen i Grimstad.
+
+
+
+tx 0e75cb073cb5e6af58f927ca70e95592d5b3abe245922468babe106a4537ae2b
+?Cu=https://cpr.sm/aNSAyIRJSrz
+
+tx e2defb79eee12e0dc38561d348d73f5bcde01ed34a9e42e3e9a23487315c1e4a
+*41?Would you rather be a fire or a door
+
+tx 22ba25fde52549f1e0a681085618bfe0e2b464cc0ffb15045e1283712cd5e833
+|132\"Unknown"
+EMBII
+
+File Name: Untitled.jpg
+<p>
+File Proof: 9EE0BA95B6A269E173B60BB4EE20BA4BC50A60A2BC6FCC1164BECD909597465F</p>
+Untitled.jpg*1525?
+
+tx 7fa0c2f8578cd51e74e2fc3d4d50bf5cbed8b450dbbf66408477b966b037f1e2
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx d8eb3c0d311bc556cf131527dbd7889af0cf43370e801c2177365a146c5248e5
+22ba25fde52549f1e0a681085618bfe0e2b464cc0ffb15045e1283712cd5e833?660"22ba25fde52549f1e0a681085618bfe
+=0e2b464cc0ffb15045e1283712cd5e833
+6c071b1ebd1d8fef42c8aee956097b271fe4fee3c71f52a300a0f82ae796ce42
+e4e1e30a8d0c8c15e2b76b157ebdeb0ea63428eeed7ff2d39f71c34f4ad681cd
+df5e66c6b82869893f273bccc666e38834e063fd5f49965aa07c5bf9158e9f62
+7fa0c2f8578cd51e74e2fc3d4d50bf5cbed8b450dbbf66408477b966b037f1e2
+b2042e547bf92f31310d4bf67746127e21d4b92ed96995e720f1f74d453f5652
+bca63cf679978017db5c93ccf3ba08c3b9ec07e2fa059fc66610589be7fd5195
+eb7ca7162821a0b7743d3ba02915f82e11a6394bf659f93af8e5ea0746ca47e7
+7d4102d45aa119c82101ff26fd0e36bf354b60ecfa770912a6aba518183bae4f
+7f4c856ae890850c9303f8078c88a75a12eba75ec6af1433380c3f4d662bab89
+py0CQdtf5R
+
+tx 6cb6bfc6ad8f896002c3f593201fb66bafa3ad5281ca4e6a2a795493447aad9d
+"45:Future Self(s)   Have you arrived yet?
+EMBII7v4mqLzAiq
+
+tx 3db528bc1e57c0ae977e14b5a98198d5c48839754bc58436068f5fdd1a1c940d
+*76?<p>SORRY FOR THE INCONVENIENCE</p>
+<p>WE ARE TRYING TO CHANGE THE WORLD</p>Change The World.jpg\10567/
+
+tx 8653b0d931ff4a38125b9ff0dc731ddc9b81a4c90cae663133d9f574eec3d801
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 632a6ba8296cb5745c0a377b18e1bc4125098fd99a66b501023c36cb271dcc1b
+3db528bc1e57c0ae977e14b5a98198d5c48839754bc58436068f5fdd1a1c940d|330"3db528bc1e57c0ae977e14b5a98198d5c48839754bc58436068f5fdd1a1c940d
+8653b0d931ff4a38125b9ff0dc731ddc9b81a4c90cae663133d9f574eec3d801
+b3adc60b85885531a5e6bb9a4eb2ab7573ccb3ef1a96987a5f5bc505ed94b926
+4db71eef0af3921cc9c200a9bfcc4c9da6308fac65244890503942b9914ee45f
+91f1689c88150e1bc07cf3f3e9b06fc1f10576def443c23a49bc32a93cf9da46
+
+
+tx 927b8dc02fb684c0814d6918271421b16538cd05911a2166895bc61294105cb0
+[u=https://cpr.sm/btzpHYA-FD.
+
+tx 39824ea5abe1ec4c1b58fadfa5f380c0c4f726063d706a4ac7e8948249797446
+Python 2.7.6
+string.letters + string.digits + string.punctuation
+
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+94 chars
+
+
+        
+
+tx 40d8b17db1ec39ed6434649ee1416197acc52da2196ff584be804e0ec30ed120
+wJ:u=https://cpr.sm/PG_qUTyYbw
+
+tx 29b32abdd52184afacef59fdf6c9da86fc66c25a87c5a202c6b24a5ba26e84d2
+EX9vfxWDv6BARNO021949Credit Suisse10.000
+
+tx e6d44995bde2d26ade1eaaed9fd6a66220b60f4a721f64f57da13612a5ca8192
+gu=https://cpr.sm/7Bx5QbuRV6
+
+tx 91a9e89358de1763ef0e3ad11814fcb3041817011308a7f8ae86df50461d6509
+gu=https://cpr.sm/7Bx5QbuRV6
+
+tx a33180a93c944c14e3d4eb4cf87e63f9e4074737b8e5f051d5c8619a1dc16c09
+ru=https://cpr.sm/s2iGrDwqj3
+
+tx e2c3b0e02d9cf2e4b031c19779d1544515f9c0fc6b3d8743e64e6dffb28e9187
+QVHello Blockchain (5)!
+
+tx 27dabc10c7df8902bb8f22c58e0b1f3973e81c6f80eb844d93cc0507f63a9dda
+c5>vyH9MZ7WMKRRRRR021949XXXXX107XXX0.02801Q
+
+tx 69b3f2cc951f5caf2f7aff601771dfebda9d337cd668d53b08c1eff7eb3ff336
+7djzgfGh7wRRRRR021949XXXXX108XXX0.01401Q
+
+tx 45979ed2c7cff4ebe03ceb7f69ddef1fb99d0c66155f13e8e7dece7f7db6d22f
+c5>vyH9MZ7WMKRRRRR021949XXXXX109XXX0.01401Q
+
+tx 0286beae1dca936f752f6dbb2a8ba4d836d6be83955c0e1e7ab91b761e7e4ca6
+vyH9MZ7WMKRRRRR021949XXXXX126XXX0.08401Q
+
+tx b75232aacfe0e0a26702cbf3df130c3a37c0bc67dc23ad15e7b8dd5462787c55
+c5>Fc5SHUnb6wRRRRR021949XXXXX148XXX0.00031Q
+
+tx 3a64d871f4853e5a157d120263f4bb75da6f63cec781e9119e7f1d9135789864
+Fc5SHUnb6wRRRRR021949XXXXX157XXX0.00281Q
+
+tx 4b7abee5daec6c68c3c0ed451d7282397faa10878a3f9a8d44063ec06e215f88
+c5>7djzgfGh7wRRRRR021949XXXXX158XXX0.00141Q
+
+tx b7411868383b977c0ebc9f8256841ef693c39e5656dd8c952febdbee37ad4681
+vyH9MZ7WMKRRRRR021949XXXXX166XXX0.14011Q
+
+tx e1b7b68355c0b3fa484456451f1b9a657a821f5542039b22458ab47404bccde0
+590c.org(^_^)v1412-alpha3
+
+tx f777083814b4d1c83b491732b00bcaa265045de4f9765abc81fdaf8f6f745ae3
+\169"<p><b>EMBII</b> | Would i pull sound out<br>Of pop crackle hissss<br>And to record An answering service<br>Played first fast<br>Backwards. Then<br>Repeat. Repeat<br></p>Pop Snap.jpg*54688<
+
+tx 7ee52d21ba3f077c0a506bc4f417d73771a0d2380915066a888ab8d6712d1590
+$" &0P40,,0bFJ:Ptfzxrfpn%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 64c68fe60c00a0d864727793acad88c435a41fd5fdcfde5de736d43ff48ab383
+590c.org(*_^)v1412-alpha3
+
+tx 8a1978af6985b445b0a8e9f98b775e80298de3b654483400eec7039b5286e068
+f777083814b4d1c83b491732b00bcaa265045de4f9765abc81fdaf8f6f745ae3?3366|f777083814b4d1c83b491732b00bcaa265045de4f9765abc81fdaf8f6f745ae3
+7b4078694e7c5f7a0e62c8c9e0d5acd163f650e32186c0ea3b0677c41ddafaee
+4689e9d5d7aadda6eb856f45119a175b1002b6757c5d2d3d68592989dfae4acf
+7ee52d21ba3f077c0a506bc4f417d73771a0d2380915066a888ab8d6712d1590
+c8574961b7d96fd3bc0a578436bc33c450963f487aa33b98bdfc215c3ca8c29c
+14b7b38ede59ee1733fe2853c62dc813552d9835f27cbe88f196c87d4c38d0e8
+edae8f2c7c0e3ccada0ca1c3ce1c3eaf5036e2d6dbe2c64c608fb8c746997364
+3463109833ebe1251607944c6a0160507c9fa9e3ba778f5eeb9e473101161539
+2536878239149be23d1c92c76bba00a9a19efae425f6c6d51bc18213cbf16376
+e75b4a34a0eb66bd9a277157867c19113b92f5e79fb2d0eb0e6ef2bcfa534174
+c3e85e648535e30d04ec687409b4b845bb5049b0232684ee504b7bd3dfee6fb3
+4a4b097aee0fa1092c9e67056b3f2c7c075673c124af5b1725b922962da72de1
+6bbf533e527d7d2e849d243906236676fae8f28524a0f0df12b3d3c556eb4e98
+dcb68498755066bf8a9d97cd29fa35013a407bd1dc6abb2a7544d1797a940e35
+74dcc27d98302a25374b2aaa59ed34dfe9b4297b4000eb24f08517b2e31013bd
+1e51176251632b80c87d86671c89c0128f8fa58ab8d6b24e8fbb2c855bde4644
+d3277980cc3fec8a90329b426b29c55aea64f5ec4488d41c95584129dbc976c1
+0ed79a878a6b337eea98d232dfea8204c363a5ddda54741539d37ff7f84001a3
+baade649c3fd6b029eff3d3da3a3a74d9cb5cc824dd0284e9c0d0050b1e342da
+e8a9f1870b41a92345d156d1646d4894eb74bc340b4557bf9e8c2b35c6f83a23
+ebb98257d4cd755666955643add8bd6027eacf4ed80e931cbfe98ef096a052fa
+3084a9c55dcc4fdf59fd39f22d50651816fb345dbd7a967c7f8005475c82e726
+1182bafc0007a66c648518474c130b5a463bac463da0bcc29fd9d6ca2e60de83
+eed25e43c9fd731617483da72c86321c2b243dcc950a781a3362o
+47bc19a56203
+fd7bac7a98da8b5bb26d56b4f9f85e8ab797fafa2b2984ea7d0bd3a13b238cb0
+b0f7010b4457b4f4e4599b73c6085bcd9f793a68d1303d16f59e51e82c16cf2f
+8b509bbda37ac1bf83fa90f2e8ba993aa5b58bf820977421546c98a43df23c91
+271fe5c4b93b1f6b7d71be8c360530595297a2473b036d7a8883fa414725a743
+5b481272b73ee6d3e1feffdb34fe3661897b5fc22a49dbb58e9ee396c660c91f
+79efeebb17059ce19eb347d3fd051d30a0e68d5211a343fa272897cd093a47ee
+ad0d7c1e4de331e5c7e98ec4e2084eb76c6e92e56797f4105e0a4193a70ad98c
+36286fe7d8cce2a6c94a0b6596a5324b1553ed744ca7d8bfaf405c7ba005fe32
+a52cdfd63981a942a3eb32cce09bed4894f4cfcf696edd1b198f71cc40119dbf
+bec184c433e3f4298afcf5028a89be5c53849417a12b1879ef5d013cb5dbbce3
+05dbd6d8395b2a985fdb7436e7f6152c6fb4c6202af279004d79995a316203c8
+5599e51073d98959b8af65017f2c8d4929ca1ea78e0c4483d1fb702c4976b4c9
+b383815d3aae6cf8a0f50c42e871ebc203edb3c61faef660f592b020c140437a
+e525562fddace27e2c340bf0b0d79776a48340395b57e56374bacd5e7c5f45cd
+022fdf40c3a8c270add283a00fedc8e9c58eea1236ee2daa5d532662890044f1
+ca4707fc13ee8b84d3f53df5687ac2e13ec214fd1cfcae701a5a46c459ddfaa3
+245ce29628e685c3a3d22afd8595844636c47d5cd50a0c14a9d3ae36a4dcf2f6
+622a6c58071efd1388f095dfbef12a695db5c1fa458ecca49e7c0e2c1d4be863
+d22c0325ce995990ec7bcc0c2e5639ce84482fc971a83559f1d144da186196c8
+82f903145dddaa68bc1007867016607d3ac2b2d10b948b38c1e0a0cd4b2c95d8
+cd36d6c56a64ec04ac896f56037e0656936bdc00cfd06f107b235da5724e8a00
+ed96af8d0d205cd550529c4b9478f6b9ee47f9b2de97201db8466be52b8ad8e4
+4d1684264dfecbc1d47bb99fba29f6bb0791114e56e95bd5de55101e5316c6ac
+936790439bbf6e43c1242cd8e449b36b37c8f15dd79157239202aeb31a8c5e48
+64b87fbdb25a93a8383513fd0bd64288db95b18764
+
+tx 3a82c9d1417f56fcb92d6253d7bf832331cff5b0aa6e08542322e6996bfedd88
+0d1171ea3d94829cbb0e16
+3fa91321b8c21b245abc5c2bc185be2c092f935dda9af4af46b342859816c4de
+3cdd8fba6d7761613a19aafcaf9cd8febc87850687b2281e4876d238e5877bfb
+3Kx
+
+tx 483a428c6ffdf94f04b6deab0b02d78de40bfc62d839ba534f9da66dc9102ac9
+8a1978af6985b445b0a8e9f98b775e80298de3b654483400eec7039b5286e068*132?8a1978af6985b445b0a8e9f98b775e80298de3b654483400eec7039b5286e068
+3a82c9d1417f56fcb92d6253d7bf832331cff5b0aa6e08542322e6996bfedd88
+o47rwuPd6AwQVCoC90
+
+tx b3fd80a32d3926354e9bf521dcd160ca5822137c46b4ad1ccfa429b9e4931790
+|61\<font color="white"><b>EMBII</b></focPnt>| Is anyone out there?bDGkwm8L63cKTp
+
+tx 8a816460f4f8df4e5ee16e03f22deb90fd912c59743787456f012526a754564a
+8btc.com/1547893(^_^)590c.org
+
+tx d322d26ee0846fbd758235026299aedfeb48b5716bfd1e0bfb7f714c29b63d54
+u=https://cpr.sm/0RRC3QC5-A
+
+tx 8e97b51ae2ad422f10feef7851953df48d7ccbc02a82eb722130edad5d43ae41
+u=https://cpr.sm/i5vQnbitESn$
+
+tx d11895da00740fa0e34ad3403d6ea90e61ad785d8ecf88ef8a0586b4c6c4064f
+u=https://cpr.sm/hWhr4M4TbD
+
+tx 25937908b4c9352cab69e02da3adcc06a8791b0e0447b0f449aa68442507725e
+f27c21c015db2896536371d678f8f994be1ec5e6
+916adcdf30323a5b3d816206f9f66ed1420fd458
+
+
+tx e293257aa5b54986ce6eb20b04251d481e2070be8c9648ddea1f19521b5e0509
+.Hello Blockchain (6)!
+
+tx fc3a5ea621eb958ba213acce4a14b9260b5c53f3517a54599ee3345324bc5129
+freedom ecology equality peace economy
+
+
+tx 0c077b310e9d5c6fc92db906c32c2d45bc34c586fd8be44a400c0c47a41d33f6
+ru=https://cpr.sm/v84K6KSX3R
+
+tx dca3ddd056baac6f051acc0d4953a41a2fc070210342b0a3eff72e5e06a3b786
+u=https://cpr.sm/F4NZHbQJRa6z
+
+tx e3df0c8491da40cd4bca2b3c7135162bffa43f6fac0c29af4f5c35df1a371408
+rSHello, blockchain!
+
+tx 3ce1c8ac07f33dd2160d9e0640f9291816d1373fc64193104c4004190441cd68
+.kHello, blockchain!
+
+tx 355fbc11dbdbdd6014e7018ab1d785a3ca5b7999227309061d290e9750e736f6
+:Hello, bitui bitui.io blocktip.com
+
+tx 1b27f84df1dc80728dd2115b0311f5755d38147c64d834bcdcb5a2a7fc7ff36a
+ d, bitui.io blocktip.com
+
+tx 14da4362d5e2fea8101631b16305d3296101f5579ae653d7d41a6301831b02ac
+590c.org(^_^)TaichungCity
+
+tx 08dd8022bcb575f213d163fcc7019a84e7da54f383e52470c5b1b06180fa6ed8
+6wu=https://cpr.sm/P2fsq1MCNu
+
+tx 3662c28444df9585bd7a2659be3aa67905edc5153991e0abc762bae73e0db90f
+u=https://cpr.sm/GWXZuDRxm0[P
+
+tx 8cc733a0734a60617761d6757df5e8d07f7444b8b10868e54f6a6f5128a47498
+u=https://cpr.sm/GWXZuDRxm0[P
+
+tx 2b3cc869fb1b6791e0e69a1de518da4d809c44eab2f96b943958d6405780828a
+:u=https://cpr.sm/cw4TGKIWUC
+
+tx 88b700adf3831ad124068869205c5b3f1b43af417919b00d06e768b81193b234
+:u=https://cpr.sm/cw4TGKIWUC
+
+tx 48cfabc93fbdc38bef3c100be676e8806670ca805b1a394bd98e00ad57c1cb41
+
+u=https://cpr.sm/cw4TGKIWUC
+
+tx 6eef5194b399c92e382bbee9659f3c4b183b3b4a848ab8dbdf7bb1088dc75e0a
+
+u=https://cpr.sm/GWXZuDRxm0[P
+
+tx 48f866e79a9c9fbdddda345fb8087a2c79949a7280a8bdf88e1feddbb61d646e
+sha256 of all block hashes from 1 to 300,000:
+f68db58f84e66d7f8a8e19e7355c253e6d95b35494c96324027121c2867a0288
+calculated from: electrum, blockchain.info
+
+function definition:
+bighash(i) = sha256(bighash(i-1) + hashed_blockhash(i))
+bighash(1) = hashed_blockhash(1)
+hashed_blockhash(i) = sha256(blockhash(i))
+            
+
+tx e354d22a51725f697b0bf7b29d07267d120bef7909c5d733674d47d4de71e425
+u=https://cpr.sm/bSfy9n4yI_
+
+tx 2bc26a5ed578681d3766b5e833c3db5a9c502401bd6e607d6815edbfef87c43c
+Get a block hash (and much more...) from blockchain.info API:
+wget https://blockchain.info/block-height/1?format=json
+
+Check for main_chain = True because of 38 orphaned blocks returned together with the main chain blocks from block 1 to 300,000:
+
+j = urllib2.urlopen("https://blockchain.info/block-height/" + str(block_height) + "?format=json")
+j_obj = json.load(j)
+
+for b in range(0, len(j_obj["blocks"])):
+        if j_obj["blocks"][b]["main_chain"] == True:
+                hash = str(j_obj["blocks"][b]["hash"])
+   
+
+tx f486a9e032d14df960c23fce0dca066b9d72965c7b191028a05f9ee57b16518b
+u=https://cpr.sm/x4UvjaFJ1M
+
+tx 8f1c196586107baabb7acde52433528c13c884ebad1fcb5c17818c5a8602f77f
+u=https://cpr.sm/-JMiwjb2-F
+
+tx a136fb36caf0baaf98ed142f14ffd65a329f9a4309730b4717ab93c10b83e0f1
+0 {"total": 10000000, "desc": "", "name
+
+tx 7a97e219d0c2d654a84ce511096b4e8d1d3df559a0a65cd7559b922a4e25758d
+1 ": "Assembly Meta Coins"}
+
+tx 6c57ab642748db7a90c3c8ebb8be6b17551fb81e2636e72818455992cc3ca10f
+0 {"total": 10000000, "desc": "", "name
+
+tx 864b3ad24b332ff3e4177382de75d5bccfd19dc16f6e64b0898540c54f378f05
+0 {"total": 10000000, "desc": "", "name
+
+tx 3f1c53c4835a8b62232713b370bdc1cf19aa781dcea90a7ea864c84d63e9e68c
+1 : "MattCoinTest100"}
+
+tx 8536569590fb881571be1f0d540fb97ecdaaf18e7765912ccd55bf45ad285325
+0 {"total": 100, "desc": "test", "name"
+
+tx 755361afb4bf4a44261642ad54159286a74c7655ef97411401a8ad018ec75a61
+dd5b67b097de48e8919d15e6f0ec5d9fd476412e
+
+
+tx d720fa80f6c212b9399b7415d9ce50473f26fc115fcd850f6a5c3ab47bbe8acc
+8812a3b9e6828be55c745fcb8f6d0d506fc9ba4a
+
+
+tx c8a319c49213c792da8facb4d49e3236495b8765c84481256ca0fc2be01994bb
+e3aa6f8ad070889330d480612d40cbf8ced6d00coQ
+
+tx 1bb3130bb281df0a405ed55b072b910d11b38227553503cca0a500666b567622
+Hello World, **~#^?!
+
+tx c19467730e8d03ce50c125f9f40494118baa9900f52264cf6d0b6dfb1c2ddc77
+u=https://cpr.sm/jVklm8TJupn-
+
+tx 075dacbc6eff01de36a1e03bb8b2fe58e49e9e5bd17f6e588b8ddf19f6bcb9e1
+.
+Begin
+Order
+Test
+E.
+Begin
+Order
+Test
+E
+
+tx 4b228db9f5c4501e9b1ce427772b0535207015de7e243466363886dd0dfe0027
+! either by persuasi3rth living, or beca weapon. ThroughoutPy nation today shouS25/1961
+Terror is not a new2o die for a life wo0Rnd or foe, - JFK 9/9d that aggression w4use the terrorists n used by those whoIt history that ever7en cannot be fright$l, either because mQld know, be he frie  could not prevail,Hin the light of tha6realize that free m%en are not afraid t@ould meet its own rAesponse. And it is  history it has bee5themselves came to "on or example. But 8ened by threats, an#inevitably they fai
+
+tx aabd1b3c24c25dedcabe5440c0ed17c1f62e25d318edbcaf00adeeffad07b250
+1 oin77", "total": 100}
+
+tx 82138da74f72feef379c7673fee4a1edccb0dbde6b04eacaee89734dbd3a909c
+0 {"desc": "matt coins", "name": "mattC
+
+tx 9623bbb4aaaec48dfc977fe7219e86cba6e771dd01c1d586bd55e26a3ddf6904
+C1 oin", "total": 100}
+
+tx 358ee29c2763acdd714f435d9afa800e04e39cd68f41afcd2994d93b2ed83469
+C0 {"desc": "matt coins", "name": "mattC
+
+tx 9d016c488089cca3e745561af35cee17ef6850a9681274bf42ed6f5e8677489b
+Y1 in88", "total": 100}
+
+tx edecfecb40091cf75c171cb14dba870a94c9fa28a9a91edaaef9025511eab721
+Y0 {"desc": "mattcoins", "name": "mattCo
+
+tx ec0566bf86948ed20eae99e0637156e4e0a98b97f532edff27427221211f8f5c
+u=https://cpr.sm/i5vQnbitESn$
+
+tx 1b512c17873e2700f11b679103587146b3871bd8cebd7b5a2693d38ecf1928b2
+:O1 Coin", "total": 100}
+
+tx 5f75117c86e54203839e29c1b0ac93590122e9b624692cb0a49ad067352d83a1
+:O0 {"desc": "emilycoins", "name": "Emily
+
+tx b87d14accff72eca7af6fc7f1fd087cf1586a4eb6f64f538cef3dbe9d8d98fd3
+?1 Coin", "total": 100}
+
+tx 4b7dcd2813b0b637bbf1d2850b8c5e28e84a348ae3d267551925923574697b0d
+?0 {"desc": "edwincoins", "name": "edwin
+
+tx 322ebd242894239a9e8d6dec37679d8c2f9ab83a3db562261ffaeffddf697122
+1 , "total": 10000000}
+
+tx c0272e3ccaf7f7789cc96062b7a20fc5c6186da5fe166b1d90e356e8f9357513
+0 {"desc": "", "name": "Zenforms Coins"
+
+tx b4dd1b496d7a59e8213207c831cb2bed79c225dfbb883c2640a04eb242cf980e
+>8<REMEMBERI Am Timey
+sRGB IEC61966-2-1 black scaled
+
+tx 3493b8b217b870488c98281989035ea66d04e6b85b3cfc0d9e73d88ee56591fd
+.IEC 61966-2-1 Default RGB Colour Space - sRGB
+
+tx f5c1a70cd87d280d091643a9335f4e53fa5d07e739a18f5b495f658af0af5c32
+-Reference Viewing Condition in IEC 61966-2-1
+
+tx a4f8cd2fc02464db318e7cf654c30f9abb4bf42ecff070626b50cf0b84ffed43
+Copyright International Color Consortium, 2009
+
+tx 1a7216f2329961c662b4fde79cf6f194793c8a3f0591973920282b9f0709de5b
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+tx 3e4d412944604e7b28f1bb521040968858aecc4518aef8359788205ef14e7d28
+b4dd1b496d7a59e8213207c831cb2bed79c225dfbb883c2640a04eb242cf980e?1452"b4dd1b496d7a59e8213207c831cb2bed79c225dfbb883c2640a04eb242cf980e
+ea3a3e5c0d362299ae86af497848179c0e1f1f058774f858f5acabaddb252c90
+88a00c7adf5337cfadb1af81bf104c9de2434e1a75700c7459228f438979fee8
+3493b8b217b870488c98281989035ea66d04e6b85b3cfc0d9e73d88ee56591fd
+e49338c421ea78b8419eda3009c8b02063351aaa55abc9be705afd47d20e19ae
+f868bbe624f8b87b40f2961e881ff0a4c0abfc6c2ae9bfc8cc175461e9edd89e
+f5c1a70cd87d280d091643a9335f4e53fa5d07e739a18f5b495f658af0af5c32
+6cab2e132f51c5f5ac86b5c5df2344e3c8a819fbe661adb42270985527c8c7ca
+ef347235bd3127457e54bc3f8ede4a2b7ed1abd247ddc7ef4e32f3f15b9f474b
+a4f8cd2fc02464db318e7cf654c30f9abb4bf42ecff070626b50cf0b84ffed43
+e24e5b49d303d7cd0a5e78558d3210965ed24d0610e2a19244b8e7d02592648c
+8a0a0b9a8aa187d86a20d0712dab66838a85e1bb6189e15bfce7860ac878dc64
+1a7216f2329961c662b4fde79cf6f194793c8a3f0591973920282b9f0709de5b
+a18157729d45c2c2cf0f94f3906a24ffe51a17d64f1670dd66fd888030245ea3
+80b8b7f18a30b05594285d1d66f6d6f4ce36987561ac0bd408b7f1146e10e83e
+5b43e1cf3adef920292b44920b964400571384a21a146419da6d81c1ab276770
+b81c731167f68e1ee91faeb65a26850ae5e24afe0b595a0549978b7b2c77ab17
+39f96e48ec29c54b7981323e82714cb01deba535e395bf5a5003709b2a9bb692
+cd9f1566af95355066a308b87817a97b5f5abb6e694bdd038f6e7d5c0077baa4
+9d1e0bce95ee763c38d5c37b7f78cc024a8fd13576fae6faa780e609b68f1de9
+6b8ec62d93s4WRR
+ca73aaf489aa3bcc84d487b6d86ef2bcfe1a80cc961e60ec3f9447
+4012590cc7d684afc728838ef6a0c339ea9cdf290d5a9b537a75998e0a1ea9ee
+OoXwwD7uHTRMfHoca
+
+tx 2a34c304cc48d1a308ec2324607423705e5d10f237f53b603ef08f9594e7f54f
+Llx1 "total": 10000000}
+
+tx cb077e0a19d908fdd36a9c7f67f3062bf721896608655aef7e8829265c146bba
+Llx0 {"desc": "", "name": "Ripple Coins", 
+
+tx 4d10c42f029805dba04db2a4a0784db9c732cc4c4765f91f6ee5d414aae608bf
+?1977|Dear Time Travler,<br>
+
+<p>I hope this <u>new</u> letter finds you in good spirits. Consider this your personal and <u>final</u> invitation to the 2014 I Am Time Loop Party.</p>
+<p>This Year's party will be held Dec 21st 2014 at 715 Broadway Apt 11 in Fargo ND.  The party starts at 10PM CST and ends the following morning.  With an infinite universe of times and spaces to visit you may be asking yourself why vist Fargo ND?  Why Dec 21 2014?</p>
+<p>Well, to be honest i don't have a good reason for you.  I can only promise to throw one hell of a party for anyone that decides to show up.  If you're feeling a bit shy or its impossible for you to be here in person please contact us via the bitcoin channel in the same format this message has reached you in.  We will be monitoring it during the event.</p>
+<p>To prove you are from our future you must deliver a decrypted version of the attached encrypted message before midnight CST on Dec 21, 2014.  Shortly after midnight we will be decrypting the message and permanently archiving it onto the bitcoin blockchain.</p>
+<p> <b>[ <u>We are transmitting a new encrypted message due to a potential compromise of the original message.</u> ]</b> </p>
+
+Begin Encrypted message
+<hr>
+EnCt2377f32ff39f7c21d73c176f65b39acc1a535fd02377f32ff39f7c21d73c176f6kiS/R=eX9AL
+lKJF5klThqo4hE2xMU5z5WYOVhRb3OSZjjYiV0htTHAv1YlugBKyryXR4dR3l9CvauxjPmPgqn3bhZuc
+5gKqpp0h1x4R3E0MZs8nuPZgNpyhUOHcJdEZdUAIi+CjOM6t7JNyicsJtcI03rHoamtSalSo/BWytZyr
+Q0xzxaFC4+r22V5qzT0/Q5mydXTrE+e0mXFdgt5tNtpP8puC+pwo2/h96me97Xbpw8JlQhynT4rs4ISM
+4Odtwgb4ph97xSFPMNoqKoOViV9Sl6mgh773mjpTDwDtpf1F/UsvmeHp1QoW+NYp4dsbSntxBr7lHSBw
+SQpU3z4XZ+BlQe+wwnftocfuFnXEU3oDHLjuMZt3+FrVVq1vyCvAbeFAtihRkQ7oSsfB6YkrwP5/va0Z
+BWiSnaF7oe/klEx0bJvG54O1oEvFR9ciHvBKVhdof1nS0PYk=IwEmS
+<hr>
+End Encrypted message
+
+<p>Safe travels & thanks for your "tq
+
+ime"</p>
+<p><img src="../7033eb8138de0d3f4be111a57dfb8319b400d3b6a6f5b387a22b334ebb998e93/EMBII.jpg"></p>
+<p><3 EMBII</p>j8Ymf2fDPq0TaXZw
+
+tx 3059a11a7e95be744229e1310136e41e5f3faa1e8bc7b5c74fd7dca3a060f35e
+590c.org(*_^)Overlay@Oracle
+
+tx 8730861ed55f544a35deec6357b48617de917f28785c26b59daf061846c2a7b0
+your message of max 40 chars
+
+tx 403f927388d22b24db1bb55b2920689f2a5c9792f702e21d9ca21ded23bd8afb
+1  "total": 10000000}
+
+tx 55c1b5eeac98e24a98a38708088f07077d08b8bc21794ae669a3884c6053d6f8
+0 {"desc": "", "name": "Saulify Coins",
+
+tx a6af1d628db99098b4ceb4c39de698a66a04f647b38e33cc87083786ccf4efc4
+-1 s", "total": 10000000}
+
+tx 73d3252aec57725d52a09736fdd6c6d0b7075b2776fb03c90b347e1c939596f7
+-0 {"desc": "", "name": "HN Monitor Coin
+
+tx e4b36e6e91b6f5fd5ed1eb7c08dfd7ede2417f2b8831f1652528f3c1224d81ad
+0 {"desc": "", "name": "Vacay Coins", "
+
+tx 841cca360802c23b59cbb5026e74008ca30e5d60e6f3f2951e0c267b4e3bb44b
+oU1 Coins", "total": 10000000}
+
+tx ba016e48d7f257d029fc9cdec2a4e41ba75aefead0354d6b6b2ef145254e0d11
+oUPay it Forward Coins
+
+tx 449aaa35fc28e9d1bcb210e88bfc935e88bfe202665080054f86e7d855e0e7ea
+oU0 {"desc": "", "name": "Pay it Forward 
+
+tx e1aa9a62ad92c60436aa811492023419899305c86dbe8e16baba799ca4ce6a48
+ 1 "total": 10000000}
+
+tx f7147251dd368386cc342f5a2ae51230716e580e29b7676c5e13be6c2fbb5cc7
+ 0 {"desc": "", "name": "Prudio Coins", 
+
+tx c2a9a8182280e05219e428bc08ef0b94ec236c72d02836d93abce03752218844
+1 s", "total": 10000000}
+
+tx 952cd26245d13955d8d2e3370b12ad8947496234c4166697ae7dfd74fdac1c96
+0 {"desc": "", "name": "Flash Dash Coin
+
+tx 9cff5053a3a0f2ca29ee952211d16b82b1214c5acd4d69b2eef20508cce2c6f3
+OracleOverlay(^_^)590c.org
+
+tx 2deaf6a5737d5d7a84c20bb1ad3b7e0391477f5366f2741bac85e847fceae3fc
+|94\"He who is shipwrecked the second time cannot lay the blame on Neptune."<p><b>#Fortune</b></p>0
+
+tx c405ee00f26037a3ca3dedfb412be6ce58e649423ff9aed132f1e8803cec94d6
+zASCRIBESPOOLREGISTER
+
+tx 84b55f773d7f1e5254587e26a46cf31353b8fa11b0407fe84fabc61e27e7a0fa
+zASCRIBESPOOLREGISTER
+
+tx 9c30df07a31259b7186a06b941c26ea7ae12cb0dfdebdfc0c87d16cb9cdcc38b
+590c.org(^_^)ISTScare@Taiwan
+
+tx 66ee81e8c63e73372802ae3535ec96a08669d77ec11e212928bdd3e67ea9bd4a
+zASCRIBESPOOLREGISTER
+
+tx b0a1a63b7196c5cc4a24177459229d4db5f5dcec49c05128ca0d8da158db689e
+SKU1932-12442-34215-TAIWAN
+
+tx 5d3faa077d54fd27c937fd9349a4a8788b8d9409319e4c9f41ec596a51806adb
+Vu=https://cpr.sm/_FZLWjVJNigbD@.-
+
+tx 0037ed079624776f18cf76b8ce272ca58cb66625968219b57cf48e54e36a5d47
+SKU-1023-124@Taichung.City
+
+tx 90d0cfd5ec95163b00f52a6315e4dd59c417112df038403ab0c017fa59ec2e9c
+IPW(tm) = Investor Protection Weeks
+
+
+tx 57a4edce05dee9012ff5991532e9aa02aef82ee8d3ebecb9f833c12bfbc708fe
+   MERRY CHRISTMAS!              __ _ __ ___
+         &                  _ __'.:;.:;.:;.:`
+   HAPPY NEW YEAR!        _'.:;.:;.:;.:;.:;.:`
+                         '.:. , :`,.,`;'/`__ _` _
+                        '..:;.;'.:,.;.:;\      (_)
+                      -__ --_-_-_-__---_-)
+                     (                    )
+  ____               (_- -__-_-__-____-__-)
+ /####\ /\            |  ,~~~'  `~~~.   %@
+ |#####\#|             )  ><@>  <@><    %@%
+ |#######|            /      /          %@p       
+  \######|            ( *   (_c)   * )  % %      .vvvvvvvv.
+   |#####|             \ '%@%@%@%@`, %@%@       .vvvvvvvvvv.
+   /#####\         _ _ d%@ `----' @%@%@ \ _ _ _.vvvvvvvvvvvvv.
+   ~~~~~~~       ':;.;%@@%@%@%@%@%@@%p  /.:;.:;vvvvvvvvvvvvvvv.
+    `.:;.'     ':;.;%@@%@%@@%@%@%@%@ :: ____vvmvvvvvvvvvvvvvvvv.
+    :.:;.:`   ':;.:d%@%@%@%@%@%@@%@%.:;/####\/\.:;\mvvvvvvvvvvvv
+    :.:;.:;` ';.;;.%@%@@%@%@@%@%@%@p.:;|#####\#|.:;\mvvvvvvvvvvvv.  
+    :.:;.:;./;.;;.;%@%@%@%@%@%@%@%@ ::.'\######|.:;\mnvvvvvvvvvvvv
+    :.:;.:;.|:.;.;.% %@%@%@%@%@% % :  mvv\#####|.:;.\mnvvvvvvvvvvv
+    :.:;.:;/:;.;.:;.q%@%@@%@%@ %p.:;vv%mv|#####\.:;.\mnvvvvvvvvvv
+    :.:;.:;|:;.:;.;;;%@%@@% %.:;.:;.vmnv. ~~~~~~ .:;.|mvvvvvvvvvv.
+    :.:;.:/.:;.:;.:;.: o  .:;.:;.:;.vv.:;/.:;.:;\.:;.|mnvvvvvvvvv.
+     `.:;.|:;.:;;;.:;.    .:;;;;;;;;;;;;;|.:;.:;.\.:;\mnvvvvvvvv.
+      `::/:;;;.:;;.:; o  .:;.;;.:;;;.:;.:|.:;.:;.:\.:;\mnvvvvvnm
+         ;.:;;.:;;.:     :;;;.:;.:;.:;.:;\.:;.:;.:;.:;|mnvvvnm.
+         :::;.:;.:;. o  ..:;.:;.:;;;;.;;;;\.:;.:;.:;.:|mnvvnm.
+         :::;.:;;.:     .:;;;;;;;;.:;.:;;;|.:;.:;.:;./mmvnm.
+         ;.:;.:;.;. o   .:;.;.:;;.:;.:;.:;.\________/mmmnm.
+         :.:;;;.;;;     .:;;.:;.:;;.:;.:;.:;.;.:;;;;`mmnn
+          `#######HHOHHH###########################
+           #######HHOHHH###########################
+          '::;;;.;; o  :;;;.:;.:;;.;;;;;;;;;;;.:;.:`  H.Classen
+
+tx ae03478322cf5b60e20f79cfe327a73511195f674cb4d27d8edb76297cc5733f
+zASCRIBESPOOLREGISTER
+
+tx e40e8a74072a7abfa75b21bca7ab7085c97c61b72064bb0ab90c9ad1912b3ba5
+zASCRIBESPOOLREGISTER
+
+tx c53b4f4015cd70094864921be31c70315dfaa2189a326d09d95a4655f91ff762
+zASCRIBESPOOLREGISTER
+
+tx cdb60cea212f8e56f1fb59f928aec13853dbaceb83ae660e6d84207eb76750be
+zASCRIBESPOOLREGISTER
+
+tx 4c6569e95c2509b1429510dd9d7416140e08b9b7dfa4565fde6cf102ce770465
+zASCRIBESPOOLREGISTER
+
+tx 5216218f1df8204c65ddf74a5f62f8cb542458fbba937b9f6ffd8f71dcbb35d1
+zASCRIBESPOOLREGISTER
+
+tx 5392d4f3901ed29f87304d10f0038782780063f0472ac6a66a8c689208c5fdea
+du=https://cpr.sm/B6x_rHC2N2
+
+tx bd03e19071d53302a000cece3fa89b537daf09c40759b57d6545df291bb201db
+u=https://cpr.sm/sYm6vA6q8E

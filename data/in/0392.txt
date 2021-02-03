@@ -1,0 +1,1826 @@
+tx c0e7daa71d850b4757f5e57947af7623ec69c9bdf144b9b6f35315e87f3e5bde
+,KnCMinerB-P2/BV8000000/BIP100/
+
+tx 17c754197450937810ea249e95f09ef7a78ffd7a5ef7ed59140026146585bec6
+/BIP248/Mined by haobtckds5
+
+tx da4b992e086335d057ac0918cb7f95bfabe9b9c5f34edb7250b7ca3e559de956
+/BIP248/Mined by g0ldeneye
+
+tx 74568403d6acf1dc5b1b70a4124b86d680fdb4a1197d52e3ca30843ce207a8f7
+/BIP248/Mined by y975185474
+
+tx 999f7d198ad20d47cd77eeffeea4f9875b81ff94b071a578bdf3b98d3f03ae7b
+/BIP248/Mined by ramboben
+
+tx 56c1d17a43a18c9f390ce7d0b8b784d26618a16893c0e0b849b6ff9130fa26fa
+Mined by AntPool usa2!
+
+tx b4ec19fdfd0484c0cb1ba819c2d42381bc722b7222e1b843caabda7cf4cf0a27
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 70007986697c643b414fd2325e820244deff736bb67755ae72c49b578af33005
+/BIP248/Mined by f2poolhaobtc
+
+tx 2aa6d6340a21c7a491aa1eec099b690cd0434cb4af0042901d8753bcbd87248b
+Mined by AntPool usa1
+
+tx 609df812810be48c25f9709f006ab5aac191f27af4c33d30ddf815f8a585e37c
+Mined by AntPool bj13`
+
+tx a6fb4e3b8ddd09362b822978d78bc1b67ef18bf2b194766c2e904fe43631118b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 192ea5492727e332488997c31421f05979970a3b6035d8df98febc82e2a3accf
+/BIP248/Mined by cntengyue5
+
+tx ae83cd81deed9f58f8802f8d521d0eefc8062c2a83ad1710579f809a94dece0c
+Mined by AntPool bj82R+
+
+tx ddad36425f43cf890a9f85589766a006a0b4b9b476a14cacf8cf38287fc2c4ff
+/BIP248/Mined by sxzfafaaisinila
+
+tx eb15f1ea5b3b4d7ef4b0f3f4cd1d01c62fc9fde1868aca807860c31fc15c31fe
+,KnCMinerB3-P1/BV8000000/BIP100/
+
+tx 299b1898aceca7335516fb351801b54553b94aadcdef28becc6fcd9d7c144e83
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b8dd23fa52fff297420cda3d0fb114a1fe1b7a37a9a5b6b77897a8bc77856834
+/BIP248/Mined by yangkun
+
+tx 2dbb7befbca2b26cba76fd118a0f0737694e6f1ea645d3d511ccdbd4eef7eef0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 2d42bb5504791f2aadba2e643a726dbd92505aed42598811e6bccf28a12bbe67
+Mined by AntPool bj82R+
+
+tx 9d6243704c79bd700d9031823b8a73750acaec6a9212690769de08800755deeb
+/BIP248/Mined by feng19820930
+
+tx b2abf4bf46a6c099299a90bf6bd9132b4669292548a319d52127661aa775b3f1
+Mined by AntPool sc0
+
+tx 9ff392f5da71c924c8ba5cb0acd5129cd83d7b46f9f5817b109698ff96a971e4
+Mined by AntPool bj5
+
+tx 880773b74bc43dd3648a3f3ac9b7edb394e1de7561cbca330efbdcbe954bd793
+/BIP248/Mined by zorritos
+
+tx 3a010cf32e71655ada8ac6ffa751082196f1f1f22a89a86c93473a16a341f7e7
+Mined by AntPool bj5
+
+tx 3d4bdbd681146cf36c6bed0d93f09fa4a642a069c2d2112c1358134987f7622a
+Mined by AntPool bj6
+
+tx 644124abfc075ab5ed1a9a4255221a617af81966b38cc82d4247f529034de7a1
+/BIP248/Mined by zgl8888
+
+tx b0be1ae3af44d9e0f3768e6add8a5a2473f12fb8e3bbe0d6c9f9a059234758e4
+/BIP248/Mined by xwy
+
+tx b31781c1aa7e39e054840f3f7ead0b64067609a493466ffef39522b12ce88ed5
+/BIP248/Mined by longshao8023
+
+tx 3c1c3b1b077602c998b7d46ccb30795bb211589ede01f0272be86cb594b702cc
+/BIP248/Mined by syz1307171
+
+tx 2b7f3b21626c649ea3e8495a1e391127f67c6469918f536b1b63c8d99b3dc526
+Mined by AntPool bj6
+
+tx 5c81602eae507dc5521a8dba177a4b1ffa94773bee0343e6d6489cc0c1edb00d
+/BIP248/Mined by junjun
+
+tx 885c6b4f54840723ec9aab634e525e829989c350b34dba2a00fb161d4962d346
+/BIP248/Mined by f2poolhaobtc
+
+tx 35ff941376ec474926fbd18d32b9688f9a925c3a428913c8579d5c98701bdb3f
+Mined by AntPool sc0
+
+tx 59dfe08155a744deb6f3fabe70ae7df0cef5439c4eaf95025eedea89815fa3ed
+/BIP248/Mined by c13780184815
+
+tx d389282ae2ead504d4a92d71d94c763fe34ba8ffc41beac5089b8eac80ecce02
+/BIP248/Mined by guohuang
+
+tx 29f6461fa20cbaa4c63bf0a3b858726cf9891bfb492ec5fd2eb371ea41467ff8
+/BIP248/Mined by rhft
+
+tx 85f93d084ab23c36f4db8dfc1fea612f7477f73d68d22d9fc789701993f8bf78
+/BIP248/Mined by wangbo0616
+
+tx 9df85ceada864f8289cb7c2f7e951463347a89a6923bd5cc275a6204ac8f8cea
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 09bce4551e9a8f253de87cf27211ca2825c540f28ecb14d2a1fa651c5ff3f4eb
+/BIP248/Mined by bitejing2
+
+tx 1b55c4ae91ed6d33ba64ba807ade72e1d06f2e9cb5e3a1cce36cfacc40886a26
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3ff4810835226ad0c8339832d4414cf7234b2f5dade74af98859d1c0fe25ae34
+Mined by AntPool sc0
+
+tx 72dbbe10c44d5ecbd21270c1bd17f1cc9237f1ec2efc8e8b0a1dac6b56b7b0c6
+Mined by AntPool usa4
+
+tx decac8c13643de09d7db40566105c7e8c4c54fc375fe4172106a48aae41e716d
+Mined by AntPool usa4
+
+tx 3d069c502d5e1509cd39ca22ccc4f32ba6bc67afc97f9aee0b00c5ee9af4781d
+/BIP248/Mined by a443689095
+
+tx 133280cad5d26d2b56e1e19cbd0c953612dd33561cb118bef94ecba9231f3362
+Mined by AntPool bj6
+
+tx 4317a4e456db50d4a55996184a9eec337be1e0d296702f105adbc79fc3453e4d
+Mined by AntPool bj71
+
+tx 1f13a6e9773630d817b9bd04488ffcc1a83ce1161a7f2cd738672453f2fda6cf
+/BIP248/Mined by guiyang828
+
+tx 62409b1819aa8297af55787eade038992b11ca9ce6cb7d3b2314c945610441b0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8b5ad07a7bb3a917ca710206435b36672060e7ff16377224298a9ef804be7f45
+Mined by AntPool bj5
+
+tx 79219a3d5f93654d61867a50cd5478cff785d7c18bfe7c765000220d26684f49
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 2a03c4148e93b3d0ce2b496ddd57257b8e54f122b96cc524ab4bf2561b583a87
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 35b98c5be143f55da0da8db331eb373b9e5b076fe949e10cbc41255ffaf36e7f
+Mined by AntPool sc0
+
+tx 0541e2f0aaad8017cc7717b474f37c41b9b68e53967f0ab822dc3b10fa95b0ee
+/BIP248/Mined by daizheng
+
+tx 06300c55eda3ab4345d63b9a963276e6f3b29931887592ec446b68ef096f0ebd
+/BIP248/Mined by yangkun
+
+tx f09a5a86a49eee276c2db6875c8416e19b2762b98da43dc6eec210d8b6f8ca85
+/BIP248/Mined by haobtckds5
+
+tx b53958f8bd5a631eb1f65626ea7354587687f3f45762b5a4a2e022eef6786f06
+Mined by AntPool usa4
+
+tx 120bf2da83c1397018d5ccf02eabb6ccf2763fc43fbf2d7a424235f48f0b6b1c
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx 392bc9e06ef4f11e088ccd11672a9a7b4107a15780c544cefb2b5767e4549fba
+Mined by AntPool bj71
+
+tx 8cfc98a58a5904585b74a0dc568b59a236ff2b592019ab071280156d65e4d27e
+Mined by AntPool bj13`
+
+tx e6088a2f47ceaae0fe84e8167239d4e9c9936fd1a643c94609cba12d8fe5fceb
+Mined by AntPool sc0
+
+tx 7e8141b1361c1a270d82fcc26cf43f3da8fffdae73d9b34f0175d135fd5b94c3
+Mined by AntPool sc0
+
+tx 3d180de19982882813ed353a2e788d8104e39dcd9f888d1d5c59167f2c32da6b
+Mined by AntPool bj094Or V
+
+tx efed5e72fdfca1d902351492b59017209aa8fa88e28d30004e2313f8497f96bc
+,KnCMinerB-P2/BV8000000/BIP100/
+
+tx 54567cd9a2ff5523ee7dd29172e772beb7e25b6f4013f4c78102d0f7da47dc23
+/BIP248/Mined by xjianshix
+
+tx e24d8af59e826326edabfddcb8a0b08f832942dbcf810e231459c99a20aeb1d2
+Mined by AntPool bj6
+
+tx 50738d9c6cb47d24c4caca6496d207de990cd4b916a3ae0716633e0120bd8191
+/BIP248/Mined by xdms895623
+
+tx a92701f4e2dcfcde88a8635c713ec5a991dd933f1d17d8704ced27c542ec84e8
+Mined by AntPool bj82R+
+
+tx bdf2e7c1cdf622d61030f784459f7965aca104e89f1b36f2213bf28a99906cea
+Mined by AntPool bj6
+
+tx 28934c156121159ca3dfefb10614ed2e7b4e162c1a637f8ecc7c63903c6a8644
+Mined by AntPool usa4
+
+tx 98a246ac2e2d84833c5736d504a1cfa910f4a8e3d9f456159c3e61b475ae1a6a
+Mined by AntPool sc0
+
+tx b85abe802573a610e015a5e3d4b836b7ca4876f34f2f987b09f4128059770d1a
+/BIP248/Mined by chillyang
+
+tx 9a56e1d2cee012f429a838882b5cc3dc60091d621a97b641f8491b991c5b006d
+/BIP248/Mined by haobtckds5
+
+tx 786547dd4127aab63494f8e7290b14000c3cb95a97dbfe8645d2e12853756eca
+Mined by AntPool bj6
+
+tx d5986fd02fc658d9c94789e8a5e532632d99589c444b2c32464206ea73a21a3f
+/BIP248/Mined by lw15238282666
+
+tx a872044902fb2f598e4e7be89b8efc4d97ca124082b04a365ba44bd360ccb0fe
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5b1398b694b140fa50ca027e44ebfd33765283c293809f7f65716ba0d76afbb4
+/BIP248/Mined by lizhengang
+
+tx f83a328c04e2756bba2cfe29d751dd150f6738a4877fed316438a824cc88ee98
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 1c40ed20ff57fc8b0f6c655af7bad7287dae12becfdffac5cd3668f50daaa960
+Mined by AntPool sc0
+
+tx 16fece56a0a8a86c920018dbd72a90ddcba9f68dee0b56307300c14f668da7bd
+/BIP248/Mined by hty2015
+
+tx fa343dd63050230a7c641fe9475b51dfbdc8d6db8df810b11ff964b48f4901da
+Z
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 78a1c27bfd1bab87e2dce54238b9a86a2412c335e7438d14659fe95e3bc9f0ba
+/BIP248/Mined by woody20285
+
+tx d936eac3cd3046738f398ae7a78bbf75fb9402772bb5d345994e56fd7aac6c1d
+/BIP248/Mined by a9966
+
+tx f19403b3634a1a03db0669e45fed50e0b1c8b84177fffcdca5f5af67802131fb
+Mined by AntPool bj82R+
+
+tx 6758d6ea5f0f82376919681975c3eb46a453e7e55c3e099b4ee135f660f422d2
+/Kano /BIP100/BV2718282/
+
+tx cbbfba6e778aafc79bec08fbb573caf894b14c8f28f74c51fa21dcd7311997ac
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx 948f762da7b61eeaa35cf13976ad23c042f9629d685e5e1c2b7bb640fe17ef90
+/BIP248/Mined by fanyejun
+
+tx cdb05cb1bf293ddeea2832f34b6a905db803e975b4c7a5204397a27ae367cc35
+/BIP248/Mined by hanguobao
+
+tx 964a203221539cd3fd2ad0ae869a88cf13eca03acc7951bf17847aaca511145e
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 20a28c0c056cb6825e5f3fc44f2030aae25dce019f46c5267802fccdd44cc038
+Mined by AntPool usa1
+
+tx a02fb7cf0129d15487f612fffed9f107f1aab89f1e702ddcc6a61beb431b346c
+/BIP248/Mined by lxd888
+
+tx b0682298294d51d8a05cbab71ee1064c243a804af427bf3a25ca203bb015ac21
+/BIP248/Mined by haobtckds5
+
+tx bc64568c7d22181044b955d6088d34257bd39a1fdc0f30123b8ce0f678ac92ad
+/BIP248/Mined by haobtckds3
+
+tx 1233f9d282e4f306dcb0bf308ec475ab62481dce4e5c0b55b2e8c28bb1018c11
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 33fbce3e1f11e307d4f7be61285d108ba3ded958c446f54686a429bc4e0bfa57
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3164eeef9ff67df8aaec8cd35fc8cc757da5f2087138389be95575fe932a4614
+Mined by AntPool bj71
+
+tx 193792b24ac1f9be3afe32151ceeaf45532c2458a68b731a166014395b83322b
+/BIP248/Mined by cgz2015
+
+tx d8cb47ca6502d66cf0e6be741dbe15d81f99973b98d3fb4a13ea4ac38241a37d
+Mined by AntPool sc0
+
+tx 84b7be296c1b4e3ff3c3763f7b7af4d86e01e09bc10fe2929c90ac5756dc6bb4
+Mined by AntPool bj5
+
+tx 1d8a1086be82851c03b37e7edcede03a8adc7bbec94cc8a4fb4333803e7e0c26
+/BIP248/Mined by xiangsheng
+
+tx 060191950fcd31ec84b36870232cd410d170d82d228f871d3f3aa79c6e70c62e
+Mined by AntPool bj71
+
+tx 2858aa846e0226fec67b124ea6cc52e7590aaeee9550994fb09bdd5d88f588d3
+ Mined by AntPool usa4
+
+tx 848e77614690cc5c1b2a1c64a33a82944833de8547aa1d5374b0b2d63522ad16
+/BIP248/Mined by aidar
+
+tx 6f0661da23a42cc0167b7f8098aa38b0d57da9513b4f61c8e15d57ae1e97bac6
+Mined by AntPool bj82R+
+
+tx 1d52ff04a5ac7b53f300e66099b0c572fbf4c6c34fb7920f0ae8ba41d2f99eec
+Mined by AntPool bj5
+
+tx 8e7b7555d8236200ef63570a236fa6c28de703a28a8d882fdbb2cd6f062aa614
+ Mined by AntPool usa2!
+
+tx 84ecb02ff195bf078695410c54632fab43cc6c565a8b36fd5e588596d0f88c58
+/BIP248/Mined by tgj19620506
+
+tx cbf3c78afb9e14d43117804c6d11a7cc6b013202253174e8c7445509d9d4c4a0
+Mined by AntPool bj6
+
+tx a598690567363eb2d636c4451f340355a03ffdca9aed2ce9da5a535c87018ab1
+Mined by AntPool usa2!
+
+tx feca92c51b7f1676a3aa72d499219302be1b71e66169bd14c8c8e2e05c9309a7
+Mined by AntPool usa2!
+
+tx 04108cc074324477613cd630f48325bab1695dcffad638ce850b60d24ca00315
+christiaan huygens0E
+
+tx 551d61a4d05e3bee45c08cb26dbf9b06306403efa92633d570bd1bfe45c10efd
+Mined by AntPool bj6
+
+tx b06a36a602b38dfdbb663ac64c3a4583f70ff6527d4143d53c1ca0e8619d7b65
+Mined by AntPool bj82R+
+
+tx e76de79bd1c6b1754dc76e4a99bda4cfc8c1f3b10c2ec0e5beaa1e77718d9f0f
+Mined by AntPool bj6
+
+tx 7672bda98ba5a67e580871beddf6176d7b9a758b4fda8b87bef8b8bd88a220e0
+,KnCMinerB3-P1/BV8000000/BIP100/
+
+tx 27eb29271cf490d7f69ad66467abfd433e3954a7f471898d25e08a34059093ba
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx c3bd811936a95a6b9d621302f95492b392ce1b7487e64b4d50cb5b7d6595e1d1
+/BIP248/Mined by cww2hj
+
+tx 49c9a736e10cc7e5722f8db03d1d0c70597b66f189360cbdd77a31080805cde6
+Mined by AntPool bj71
+
+tx 35f4747e2ee0e3aa7648f201e3752dd3498eb232dbdeff17c59edae5c1f33ca1
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 8afb93bbeaaf81167b125f7d4f84f3c8c944b49884985c6f1809198ed7cb50dd
+Mined by AntPool bj6
+
+tx 012a9c953de9227d817c240d3895a629f016275c3fa6d7e1f741431e78616445
+Mined by AntPool sc0
+
+tx e4f4a5e52028cc609db5b305df7dc769e39410ba5dd9f362870c31c3befab7a3
+Mined by AntPool sc0
+
+tx 67509d3bf3223ce01accfd928c7ce925abaf2ebd06e552134e6fdfd46e8a4111
+/BIP248/Mined by zhoujunteng
+
+tx d67050fc53bb2368a90a5ef3ee2504f93a9b5973c935a5eacda94dd4722ae845
+Mined by AntPool bj5
+
+tx 7e16c807f4f8e942f937584c7c9fbeb10bdfe92ab324328aa843febce3815ab0
+Mined by AntPool bj5
+
+tx 6dd0853fcf325ed0d6497e1caf43be62b9fc09d3193a3328077dbf2967fe328b
+Mined by AntPool usa0a
+
+tx 9bd86292e774eda0be5f5721289e562ddc1db14d06ea8b4bbf8c1f8e144e55ef
+/Kano /BIP100/BV2718282/
+
+tx 203c2b710b763f2cfe7a7d9903ce117a339d53ca6c99ce09224d0bf0d8d70e81
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 0b88741783457ec3a6f399602344df78ae63aadac123f32dcef5fca493f61f1e
+/BIP248/Mined by happyzjq
+
+tx ec32aa29996f4f1e5c8ad83b263fa5c01f2f9455f62b6e01ce99b1844c7adb34
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx edb6d640db6dac603cd972f866a625284b2ddc6c0dc6fafde386d1789ccc546f
+/BIP248/Mined by zhx001
+
+tx 047bcbcb99dc2c59d6ba92f2e9f152a6a0d3f40cb62f11d09f81864214037011
+Mined by AntPool usa2!
+
+tx 8923e94bd5892965789fb212ee5a06ffeac431566ec270602f572a8a782bc048
+/BIP248/Mined by zhanghua521
+
+tx 2ce8a25c2404c9a8cffe87a5aabf4cac145197902369c3b444f2132bb9d25e36
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 859ca721f0f0596bca1a374a6c31f1ea565f62ebfc237dff797abbf35f8be038
+Mined by AntPool sc0
+
+tx d9fc11c04056005ad090c910015473382b3c0354b9971bc7ee189e302ff5aed2
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx eddadb76a7bff76f7f01cd2b44ad8e81196d2d76644a6eb69ada25e4792442ee
+Mined by AntPool sc0
+
+tx 565c9980f731303e8e3ebf6edf414268dd6fd3cf276b3edd622f6256365d9394
+/BIP248/Mined by handsome005584
+
+tx 82c1e89432ad09db7e6cb806d491b5562810b45b29d1dd75ef382e145da847a4
+/BIP248/Mined by zrxtk
+
+tx 48739e471c23957351b83a2b6a31905582f064fa7ba44c34ee74fe888d1f5e39
+Mined by AntPool bj5
+
+tx c3db64a83e4a88c2f718a1d5753d1ed6c6075711fdcc08c3e4365326e1e14877
+Mined by AntPool bj71
+
+tx 3282bceaf88a050851189e5409db7f060d4f8be4d2eedf1072b78912713c2dc5
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx d7c50e76bdb56ddb0cfe5cd39393d5bbbb9899f9e3379ca15cc726f5b69e79eb
+Mined by AntPool sc0
+
+tx eee5bb9638fcba8ec97c614355176b2199993903622907c5c4ac9b00253348af
+Mined by AntPool bj82R+
+
+tx eab7117a4c54bc57b096c21ac6cb081f631c87eb22d04e3e647b75275e69f250
+/BIP248/Mined by wm2015
+
+tx b568f8704791e38bfe3ec128614d946092cd98ee48e871cc1ec13c10ce9d62fc
+/BIP248/Mined by haobtckds5
+
+tx edf893bd5440edbe3ea86ada6412aa77b597a63f4439e12fe42a5814993c15a0
+Mined by AntPool bj094Or V
+
+tx bc1958071c0b11adeba45ea280d3053e52368a676a033235394775b5aa36dcfd
+Mined by AntPool usa2!
+
+tx 6fc578879e37248c4b80a3521b64ef7edd884db35826014f9a2816ace5633dda
+/BIP248/Mined by aluba5033
+
+tx 242ba3569c7bbf9cd95db6cf21290f9140c914c1e330e8d8875f29054b8bbb52
+Mined by AntPool bj82R+
+
+tx 6e4efe5e35d0a7b6d51f7e3407d8546aaba7694a0f95dbfd72e63edfb4de0faf
+Mined by AntPool sc0
+
+tx 10ea1587a0b838248a08493918c76176a9fa62191b93210d49cc7831a0fe256f
+ Mined by AntPool usa0a
+
+tx 69e3bc32b663733da77b5d7d51e59507a1ea7340d1c7467c0f169a6b24518d57
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx c4f22a93cd92c287b4dca1f17fec141507afbaa2d0b6335255bb3bd7e644373a
+/BIP248/Mined by haobtcnjs3
+
+tx 7ed40f5b01fcefd14889970212fe17f3efa9ed6aca4846ed39787260c6bbb748
+Mined by AntPool bj5
+
+tx 70800383f7bc01ee2aa51c4c4cd5a3dd21c90da7ed336a7a04fa7547755d4f75
+Mined by AntPool sc0
+
+tx af2d9730523740e6447fd2a1ff16ed50ceea228e69b489d33ad7f81d0069f7c1
+/BIP248/Mined by sl365039975888
+
+tx 996786b44d140aa895f685fa4c01648b8d3c07b4d762a3d6a04e5779de15b28b
+/BIP248/Mined by yangkun
+
+tx e1cd923cc241c08e02caa547adc33286ff97df5614ed2470c9f1758d42007c21
+/BIP248/Mined by fengu
+
+tx 75ac67e7977963218b4b6020c6fe62fb7d8d5618611cd4b6ab95f7020aa498cc
+Mined by AntPool bj13`
+
+tx 4c5a3813149e25cfd56330f7edc54bdbb38675400043fe833ab07a77ccc65a3e
+/BIP248/Mined by liyin
+
+tx 3c6ee422c330de4af030bc353966dd29dfa76bfaa17da8e283ecedc47de0e555
+Mined by AntPool usa4
+
+tx d6f0c8a8b9b4c6d02a606bfa8faa4039ecb4159064945f3bb438d884e8350489
+/BIP248/Mined by dq303
+
+tx e8e19f6ab75c21204f1016db3a6ab34d77ad2ab2b11f2f9e4eae2ab3d971de39
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 6adc955a36855a97aa060e6547a9bb0f2d2b39ce392554beee3f5eef74923da5
+ 0;CUGOh& 2O#!%'0gu
+
+tx 730de0f5d85db841341c856fc7cb6068999510d3cc37d38777e507b2d3e448e9
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8597eebd3dbbe2a96b38fafe7c7e872831fbb3cc375349ace53104d1d31fe77b
+/BIP248/Mined by laohu888
+
+tx 0cf60b3bbcef8c45983cabd416bff207f6ce4d78e80e4d3339f193f3fdd21510
+Mined by AntPool sc0
+
+tx 9b33649f719d11ebb09ef4f59dc1105a225139b111c93c0b8f15b0af83608e7f
+/BIP248/Mined by jkeyster
+
+tx 16fc65c4dd7aee43aa5ed3c08988f1eda9646881022dc04b8696042a3fa9a673
+/BIP248/Mined by hanping34
+
+tx c1e5a572f02b76cc4099207d553e6620e39b820b2132cfffbbb8d7161d4e6022
+/BIP248/Mined by yachao
+
+tx b50eff697296d101119be097b71fd58b0e1904403e4bd16b898bcadf7257949a
+Mined by AntPool bj5
+
+tx ec5b43b878a27c725de193309f9bfb9eb61608c91bd478a02e70c2bb96e558ff
+/BIP248/Mined by lsg
+
+tx 8b4436acf69dab21a86e198570898b1803b644adc4d308dfa5c2438b426d5363
+/BIP248/Mined by pats2306
+
+tx 6c825eac47456b1fd05eb4a4989abe18953c27ee529cc9cde1efe02faf2f9a40
+Mined by AntPool usa4
+
+tx bd219715e43f7d5dea64537995ea1e0b7f004dd92c6c02c0025ccdf11f3a332c
+/BIP248/Mined by ccb
+
+tx 4230db461d6bdc109e69fe269a185d3ebf9d276460266c9c66bc94a4ef66acde
+ Mined by AntPool usa4
+
+tx eba4452f9194f4c26028c5e6aa17f56da70ae7067943eb9609ceb4956d08f371
+Mined by AntPool bj82R+
+
+tx fb4946626bc7ebe2f424a0ba16cd4bdd18963d979f43e5f4c19d2329c25beb49
+/BIP248/Mined by longwang
+
+tx 11a7e16c713452baa8078cb920c284b0e440c39329b18c00189cbdbb6abebb6e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx df1b75a385f993eea7ea7fd4aca665f53a082b60a491ff2c3684af44e03df2ac
+/BIP248/Mined by qun
+
+tx 299d7ce0b6c76c946977575648389d143366af8cb85ad92759ad539f5563e309
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx c7e61f11ad36b4a3fe77a04222b4fe5b63fe8ca7cf9af0b0dfb4aeeff2118e12
+/BIP248/Mined by my1097
+
+tx 6bd842676fff5249829a887fb0df48411cfd44ab25667c7176e066ef3c3fa16a
+/BIP248/Mined by mqszgz
+
+tx 0662dafe6cf73efd7de1e57a6380a679e965802ac0e67f85edc3fcfd7c646332
+Mined by AntPool bj71
+
+tx af8eb596cc53bfe71126a0e0cb4c9409233c9984c92f3bb4e50ea26bf50792f0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7c820bed0735222c3d32704e331987ab81c03ca1a8982610ab968052df71e562
+/BIP248/Mined by haobtcnjs3
+
+tx 1653840a72dd810f665d9b7bbf8b18354a929797e48b25bbccfd2d66b05f5e3d
+Mined by AntPool sc0
+
+tx 5c5444c19f0a5ca733add7f4f081b64de85f70e6a1f8749caa351d674ed5028e
+Mined by AntPool sc0
+
+tx 422b4be4a450b77ca820906323f89610bc760506734b73378f081ff5e61a6552
+/BIP248/Mined by lgy2018
+
+tx 7bfa76157470df79a8edd76dcdc88afb271c78ee378cf6bcfd80e8044744a2cd
+/BIP248/Mined by ggm1
+
+tx a4cb0e00375321864c9c9bf5252a94257074e8d9166f8095c78c0b1ff50ec1d0
+Mined by AntPool bj71
+
+tx bdfe25ae42f9a622234eb423885962a735afd8671fac107a6484c4f1abff1b23
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 882d680542a28310c461d6cd22193e7ca5121f0200222e286d90889d0afe7fb4
+/Kano /BIP100/BV2718282/
+
+tx 109fc9728dd289adf6e3643c800cfbe347ce24cfc2f016fc01ea1c8f09f243a7
+/BIP248/Mined by xuweiaiqi521
+
+tx 24471d93659e0695644802a17815c13d8ac0a15c22f45a397105b4ce07909b8f
+/BIP248/Mined by haobtcnjs3
+
+tx c8dce44b524911c714be2d42fd2221295666e6057ca8a3a8eafccfb23cb0dce3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 95e6accdc5197251479f5f7c83454bd02f849b816256524ba22d018bc1e8ada6
+/BIP248/Mined by longwang
+
+tx 33250ab783b2e17464499a44df338fd6274c2d6ae20f4f9884da3c5e295c9cdc
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 8d85be6465ec7e990889a76e5dec76ddb6c2f38ed0ab433c49d0d069e777e18d
+/BIP248/Mined by lvnet2595
+
+tx 1774ffca4b07eaead4b6e7c04dfc7b7c2458dd51ddc5e0c894f3cddfffeb5ade
+/BIP248/Mined by ws67488
+
+tx eb37ad2e38b7be360d878ba4ba213f877029d86d68957aa1d7aa562dd205d6f7
+/BIP248/Mined by zzhhzz
+
+tx fd21b3784df092472ddcc4eac21a3a1b7c72a4369b8904db76b4bc0bc024fd8a
+Mined by AntPool bj5
+
+tx 4228fb7bb35045aac8090200a10136b9f4bf4cb7d862d510c0de08f3caeac206
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 32751893e143ad1a0089202ff378ff0b2ba1b1bd5a0e7c47323d9cc03b6fb757
+/BIP248/Mined by rhft
+
+tx 19c9cc0dff88f4747dd04eb5659e1b6179f80dfed9e652d1fedef25215a620ec
+Mined by AntPool bj82R+
+
+tx 064be4268a3e6e7f904ced7250bb19bb2fcf5e2c2b1d11b433ad84fa34017f33
+Mined by AntPool bj6
+
+tx b7b4bfee2dc7e7d0d584aa544e044da8697e59f75206799b21873b88cbf36694
+/BIP248/Mined by cwd12345
+
+tx 3a40d4ac83dbfb54c7e391175e5bdf5436ff0e1eee80586aac0a61ade01bbf18
+/BIP248/Mined by lgp
+
+tx b30ed3a42623bdae1347c27b2309903fc97d40cdf8a3bde96082c49add3621f2
+/BIP248/Mined by hzw2015
+
+tx 709abe6e7fe6a8f99c6307341c4a6219cf66fa612696d832fae67cf9d4438fca
+/BIP248/Mined by haobtckds5
+
+tx 3ac31172aba74a7b1662f4bbea30ce0808e762d2b9cdfca52b6ea5d547ce6f70
+Mined by AntPool bj71
+
+tx d2c24e4a995aa70ddb58e80fe4909fb29f35d52ce0072bd05eea832f330a28e6
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 4137f9b6c5916d596603d6dac32304caf5c2a21be4d0cf8c8ac06f1ca59d8cc5
+Mined by AntPool usa2!
+
+tx 9504530fe068f76731d09ddac9b2944dd4856fda5429b85a55e2c139f94b42c2
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx d5957258b3ce5139f9ef39b5e5d349946623565527b84fa8f8099bf8e294a129
+/BIP248/Mined by zhoujunteng
+
+tx 831f4739694cdcea2c6de1a679f9151ea3332b5af01db3dc3cdc43ea6974e00c
+-KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 7dafe9d09c362032c120b66365d6dd5a31e50ab35b5c4c37d469c8b670b4c6c8
+two thousand hundred0E
+
+tx 4b62487ac713a0e53b013c9a2f0e4f8104e99067e398399926107d9e3fc17e73
+/BIP248/Mined by guohang
+
+tx 80ae649b932be416baa4bfb6105647a7ddb8893c5471eade5c7ba5ef09a1c3ba
+Mined by AntPool bj5
+
+tx f9967e09fba7f6b5699399b4e416caa0232d2ff4e3c950b77f3d19147c6434e1
+Mined by AntPool bj71
+
+tx c09dd7c8b7d4d110ef3bba206eebab45974e2466269a01a39d6d119651f63abb
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx e4eec4745480264cdcc70736ccee6af1204df72305f2793232f7aaa7c50afb41
+/Kano /BIP100/BV2718282/
+
+tx ff8958f78f8f21dcceba83050e7635d1cee37dcf442edaddf5777dbe6b3b1861
+Mined by AntPool bj71
+
+tx fe0cb0dba661fed70e8bb4849efeccf17cdfb1c7321aa78f22b6c52e8e57fe91
+Mined by AntPool sc0
+
+tx 2f4d40e6dd0d89dffffc665e76b59afd7c40f46efc0518ac8d2c3568132879eb
+Mined by AntPool bj0'
+
+tx f780b6a295677628d3d8dcdb91b1333875f77ce0c0a988622c3cf73c9dd808c4
+Mined by AntPool sc0
+
+tx 68b95a7d756cd7b2bc35979ec57ad566272744c4b525a3afd0f4f1c9f68c7a25
+Mined by AntPool bj71
+
+tx 2b4a7e8f321135cbf68d551fa67b6e5b948bb25ed56e75ab85c66a67add33798
+Mined by AntPool bj13`
+
+tx 9032b2089434bebed20f2dc0c64d7cc46ffe24f6e84cf95696e3ff34881ab2e3
+/BIP248/Mined by laoguo
+
+tx e5d8ae0626c8c8b961cb28a997409679e9ba655c96d4cc73f0e90a4075f64e24
+/BIP248/Mined by lqc888
+
+tx a01b0f347e1b2ec760f54e8f8b2dced67ee4aceb726bfe15eeccebcf381e94eb
+/Kano /BIP100/BV2718282/
+
+tx 68ac83dc6738e9e0de7be1279abad44c67d94eea2533ae191d6ec84030708a0f
+Mined by AntPool usa2!
+
+tx 11fa820627812af1f4a2ab7b3523f49a66181f35ede0cbcc6ddf3ee9c6e7a87b
+Mined by AntPool usa1
+
+tx 78646eeeee3fb3ff36efc377c522a80c7e00b09eb957b71e0fbef4e745acc2be
+Mined by AntPool bj71
+
+tx 167f1d9f8ff2f94f250b8b51779aa111b36078fce6f55ca7d954f8a62ccc70fc
+/BIP248/Mined by hanguobao
+
+tx e036e3bdb75a1f2dc7ffb8dffe1553b3e918070adb50a81d58d5e3b0e0130a51
+Mined by AntPool usa2!
+
+tx 4ed0cc1451192650c4bb44db6b3edf7afab33e8323f437c293c7f1e3e3c9b04e
+Mined by AntPool bj5
+
+tx ef8b66357da62762de775d4b373f222e702115d1b7220d44a9f79b4d3de42bac
+Mined by AntPool bj6
+
+tx e44d13ab22142ee5c428f90217b2d3c248c1ac47b0d0fbc402bc6edc6950cc4b
+Mined by AntPool bj82R+
+
+tx ace678896c0af5154e5b0227d492f0c0de65167f7c8ac2f95163552421f8af35
+Mined by AntPool bj6
+
+tx 22c5d5cd9ab7aafb999174166dc62a7d6f95e8f024cba05bbf0e9865148e6fb8
+/BIP248/Mined by pdslh
+
+tx 1d3065ad20cac5dba1849f19422c3aeddaa169a7e4520e44165a18e0c2d6ba70
+/BIP248/Mined by niagara
+
+tx e0feb020d5a5dae5a996dbbc1b2a274ce3778b6689330597a7d4615d0280ab7e
+Mined by AntPool sc0
+
+tx 4244e9f430fec3e24493d380f68b3dc95aaa826d32bf0d22d3a1c47c95c9fe8c
+Mined by AntPool bj82R+
+
+tx 385c7735f4cd65e71c1db48f9bb7ff6ef2cc89076bc3cc19ab7433fb9741b7c9
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx c4fe1a555b65126c023e670a964b30ed3d8db5bef365fe2dab7d299f99975f44
+/Kano /BIP100/BV2718282/
+
+tx e64ffe309760a0b37df7255a3b42bd7a613f716bb841da7e57814bb312d9253e
+Mined by AntPool bj71
+
+tx 9872dfe38700c28094343874b1863f4d04833d1d2f35fd7c6d7f55b892e06229
+/BIP248/Mined by xw1980
+
+tx eadb6cc9327999aa667b360bd67cecd0ca4bd2ff15504f370ac54b3d3ae4b111
+/BitClub Network/BIP100/
+
+tx d2934ee102adc654edbae140beb9a8c785c8c7c592e16efe0b3c41ad5cf9cffc
+Mined by AntPool usa1
+
+tx 7c92d9cee0fe20856af6ab6c82da89cc3bf3d7313b5fa4e8e8038ccdd0388def
+Mined by AntPool sc0
+
+tx 5a22589ad5e30390c54ef6e397b5dbe7dfc0c66c2d5434918a268c771babce04
+/BIP248/Mined by emaruntisbtc
+
+tx 544bf8bdbd46ce76e5897d46caa5c1ed62083b98e2bd4558cad75121f9a7d9e9
+Mined by AntPool usa1
+
+tx 0fb4de21a54a5af7e5e72acda81ac874e17e8d943ab6b23f8206c9d5807efca8
+Mined by AntPool usa4
+
+tx f99ef7ac9f79d153b876f9649cd7a8fbf0f484914e683def29d906180ecfdfe1
+/BIP248/Mined by by260150
+
+tx b20defcf48d51286dddbafad619e8c03a55ae87f430bc4529111eb63bcd0b06c
+/BIP248/Mined by my1975
+
+tx bc70ec9b346ec659441073337362fb5d6c026e2ca3e712c5d5abafe2a2459a13
+Mined by AntPool bj13`
+
+tx 3273efb4d3b5d7efea412ba5e703c569cfeeb71d4ce05b33c2983b8805415c56
+/Kano /BIP100/BV2718282/
+
+tx 1e0d100803f548892d0650e1e97e5e4502e112048001f0ccfd7466bb4fd4922a
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 0f3f6a664f213e78058093a13f45c26901fc18a1a699d858adad492a412c66cb
+/BIP248/Mined by hnwpai
+
+tx 2af47e7792911e0cdd6768950c48b75f3e3942782ecb3f1c1a10e49d788fb546
+/BIP248/Mined by laohu888
+
+tx 55b62a7531aaa4eeba2f3a51ea9f3728195fa419aecaf78c64db8db19aebe47c
+Mined by AntPool usa0a
+
+tx c0f4c226db71594aafda7290b081647833b6bf63cc2c7a795e1b95e4f198bc69
+/BIP248/Mined by zcy8888
+
+tx 8fc6d9c54553246a332d67f24415af744d45e26a7a08122656eb9f7eacd93661
+/Kano /BIP100/BV2718282/
+
+tx 5b4314a76b496910c5ca4e258847a52d7e5dd992a3a5449096e33c615d89ea26
+/BIP248/Mined by liuzj
+
+tx 614f98eecfece912fe667bb6e9d20c19a846ae54cdf35f7d8e2a75880ead8a25
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx c6cd38f3db1fcbb0b20d49203dbc6e0c6e84af9adcf410ece5d204e7d6c2876f
+/BIP248/Mined by guiyang
+
+tx 645e0280b9d2c4c7c2f5ef95ed9c908960f4ff90ad663334e5ad8aef359ff997
+/BIP248/Mined by sanlanban
+
+tx 9377343776ab25fa284f840b6ebb33c1e8186a7c2685148ef089a3f3ad33747f
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 702597e094b70ea18c69b9c652fd5102dc822a19b1c5e4ad32c9eb1f436b6fb9
+/BIP248/Mined by chenguanghai
+
+tx c4770c51bec069d41c4a595f81f8dd47b414aa28ed65ce868d5459c871a15bb4
+Mined by AntPool sc0
+
+tx b1662e9498bad293fc88897852eac43b341e77893eb57976fc38dc4c020d78cf
+/BIP248/Mined by liangjie
+
+tx ec896d70fce2f364627a203025d3b738ea5c76001aeb176ae73afc060df6cf63
+Mined by AntPool bj71
+
+tx 2d4b48a698b06aca18108525aa8013883dc28bbaca13f2f82360bf4e00ff3429
+/BIP248/Mined by a13783289399
+
+tx 2fe8e023bb34590afab72d396176989da4ba571ce91378d00e6d924c2de3a24d
+/Kano /BIP100/BV2718282/
+
+tx 3a4c58669c05ae7f2756db6a5540bf0954f8d07e2763ea36b2772615bdf90e6c
+/BIP248/Mined by luoct999
+
+tx 628b3105c63f64b8c52764801eaa0bf77a08fbc846ef89acec7a7d3fb0a2e3d6
+/BIP248/Mined by f2poolhaobtc
+
+tx 864b4179883f8d42f3f6988d0d62bee423e734732c285a10d20650929f68fd25
+/BIP248/Mined by liyue888
+
+tx 177b7d40c84149d64b221863d8ff2b6397009aedd3db0cffbb1f4804d4f9f46c
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 28760c91a393cc040211f8c0f3589d34742a1b754e7716420507239d4a5e640a
+Mined by AntPool bj13`
+
+tx a5049d27819fc8361b4345ff57d6a9b5f04f19a410327f4d811c198f7a102426
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx e6afd743c9e4ecd2f281270df40fa863fefc863f46822f44914ccf877e5baf82
+/BIP248/Mined by ruanhao44
+
+tx dc05a842d2b419952ce80981a3805cfa6b0ef9dc2cf2848c74545d2ca749e3f8
+Mined by AntPool bj6
+
+tx 1203b94fd408c7fea9bdd22fe8359a92421b6d9feaac8bbe8fe247a316f7e9d6
+/BIP248/Mined by wm2015
+
+tx 712f08397106461cdcea2f57d722880de35b9dad182c3049a8105f0a1ea1686b
+Mined by AntPool bj71
+
+tx dcce899a2bc6bd025a2eef62021adb030c29d64ee4ed6643f90ec1873461bada
+/BIP248/Mined by fwl
+
+tx 2f4773c53fd4697666af1acca3aebab7c30534d1acb2790ba1cc40ee660f250f
+Mined by AntPool bj82R+
+
+tx b6b200d7e0eb26d51fb056e2adb658e5666c22bb01984339ef6b5916795d7d34
+/BIP248/Mined by njwf
+
+tx 6f713c3391010fa3992625d5e8448a24420f658652d4202de042b720779fccd2
+Mined by AntPool bj6
+
+tx 89fcac10c1ebd8d993ef00d87b7f77d37f99a21815d806bd81ed01afae8a6228
+/BIP248/Mined by kimjonguk
+
+tx 9f9cf6a87c3e10bdf277ee8e70fe3f3928a087a6116a97b216d8c9f1a18a17bd
+Mined by AntPool bj82R+
+
+tx 1951cb0733e41b22294f5cdac5b0e60bee4ed276a88a2205570f5e10502a0073
+/BIP248/Mined by lxy123
+
+tx 0c4ececd0416d90fd876ccebd15620f527bb3d67ca48ee036e05515705adb4ad
+/BIP248/Mined by wqy88888888
+
+tx 9bcbde32f4267093795abc34a2a592a31db5b64c0b22c8c236344c6edd2d287d
+/BIP248/Mined by lfazd
+
+tx 3002056cb31a5850ac6ac2bd64b4df753df7f5882be1368db72804a9f1c3e544
+/BIP248/Mined by haobtcnjs3
+
+tx b8b264be12c434c955d328ce1008402a238dac635a41bf981afd12d32e3450bf
+/BIP248/Mined by haobtcnjs3
+
+tx 897c9abfce7857ac547e5fde357715a0bb9fa4429b8ec7d44f62b08522a6b6d1
+Mined by AntPool sc0
+
+tx b21d45e914bef2c0c674ae17ef4679b8917a28b32c1f485dce9d5a875aa6d937
+/BIP248/Mined by rhft
+
+tx 1172f4e07c71d922351fff0852cb6a378c559a2a0562955c4255175917741a4e
+Mined by AntPool usa4
+
+tx 49b719902eb4effea8ffcc32616c7af13111ba5254aad5ea24744dfbe738f272
+Mined by AntPool bj5
+
+tx 7a85d1748bc4704fb784ee5f92f47e7347ae773abbe241de17833fa8f501ec18
+/BIP248/Mined by d1258792312
+
+tx 49cee575bd9459afaaa645c60942820cb29b6f2aef009f0c6dc45d3732637148
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 384885a7cf5f9ee7c3908dd1bf7a119619733b2cd111608ec971696076c053ba
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fbaa92fbdb8642d12f9ebd250d17ccdfc58d283589eab5fabdd2f4b01bdfa17d
+/BIP248/Mined by lvnet2595
+
+tx 11bb3257050673350aacd31900962ba016b357a219d6e63cc6a89ef6316414ed
+-KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 2a8bd398ca1563346fd87879aa2440c12c208743c0574af86caccd2df8a17c2e
+/BIP248/Mined by yc001
+
+tx 5a53cd431564bcede165a3795845e53dfeb7cbbef40bde30e728a7314d06cc05
+/BIP248/Mined by huterli
+
+tx e767acf68d250e26478df5fa3a88ffce2f2e6eedfc31d9f04c7ac447fbc5ef82
+Mined by AntPool bj71
+
+tx 9f4ea59466b7206966378d88333df32aa1823b84766f301fcf9e849bd134fa56
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7637d77791b977c9c35fe78d118ac01727ab38ddea0f40a65c838173b9b5ec1a
+Mined by AntPool bj5
+
+tx bb251f851f861f4a83bd6d64f827695a1f9e14c25b11fc879ca7a9b9d5416899
+Mined by AntPool usa1
+
+tx 51fcf9d0110b8c2c76414ef1f8377a8727269ea84e06cd0c89adeaa87c5d0042
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ae9eecd7d83d0be26a71e50705aefad670b44a83ab01ec26f2a9fe04b816fa3c
+Mined by AntPool bj6
+
+tx 400e3e19ef00749f235afa24ee2153f55e2a1d66896b07b94e26afefa4f92ce3
+Mined by AntPool bj6
+
+tx d40be55bb31eaa59e17c84805acb0b35652c83cbd21a91246f1d7a7c438b8eae
+/BIP248/Mined by rocky1234
+
+tx fc849dc66c16ae27e99a00a899711b5011d34c745adbfdd4b18622ecf46107f0
+Mined by AntPool bj13`
+
+tx 1ed945f9718c75a8b679976453a6b0efeb4c4737a3d355522dab4eaf9bcc566a
+/BIP248/Mined by rocky1234
+
+tx 3f4a45750dcd4d729e2dea96e935cdca8d3d0873065aab197b9aa29d25e226ff
+/BIP248/Mined by doskinthemix
+
+tx 5b1fa4150c4f975ab508bbecbe48a6be8f38fd8a8af362baa1ca4a5d9d831033
+UY
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3612a2b1486259f324c47e291548966c725fb9e8949356bcea984456314eec1f
+Mined by AntPool bj6
+
+tx 6830c7c51cd6c74ddec70ff59b22064816098b8a1ba8d0efa8deaf6b5e2ff242
+Mined by AntPool bj82R+
+
+tx 1fab74fa0aa69f74867c0a9a7c7a528d3cdfe8b9b29881165f154376d8f83036
+/BIP248/Mined by mumu
+
+tx ed761e437c188370b795ab3b064fc7dd9bfd16f8c214c060e134e11bcb2282ff
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 8ef5d77e23f0d47a7c3afff2af1ee55c885b961c958f8b830caf6ea82d8feffe
+Mined by AntPool bj13`
+
+tx a31f2cbfb2222aa5a6c05651f417915b700d749d2b37fd79b896bdee2a31b515
+Mined by AntPool bj5
+
+tx 03db0ccae3fae1d8a8a59429e8aad13d66e0398c831e8bdf9ab607679d0fcffa
+Mined by AntPool bj5
+
+tx f893646b2fedc5266a9bb10eef3b5b1b47010bcd3d609482d881da791bf73f24
+/BIP248/Mined by xwy
+
+tx ff9948732b111696f0df4ae64581e0dcb0985c67128557d6f42177f24116cf56
+Mined by AntPool bj5
+
+tx 1c92da23c5a6f72dfa998ebccf0bac68799de95bad7f46f9fa83310d72f4d29f
+Mined by AntPool usa1
+
+tx 09ac142f877777c8ce5a499ab7eea607840cb3e92b62fcc38d914802a90ed242
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx bf8c6168b04acded01bc3ad4118d79e7680d99fea49730a708791bde8a004932
+Mined by AntPool bj71
+
+tx 666875191067e5293eacbf7612430b86093d1d12d5c32c144d0fa6ad562b3c4b
+/BIP248/Mined by zhibin
+
+tx a466da9b7495d9e8baff717550752252631debe7072ebc95f16c4edf7958b43c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d5a6384a2fdd4fe2e1e50e227bc90e5f12624536d99e89ffbb4ea3abb13ff25b
+Mined by AntPool bj5
+
+tx fbf7bb3d6f73c1a2125f5186e83a9efb61c171e0c6f40513b8fbe9707a4e4485
+/BIP248/Mined by yan1688
+
+tx fd2bd890ad20435b30846a1b19b9d3701b20400ebadfae8524258fb60c1dc2e4
+/BIP248/Mined by jiaolian
+
+tx e41a6f25da020f9aa344690d056358c1b90eb875ecca13389b84f7a17bcc671a
+/BIP248/Mined by haobtckds5
+
+tx c4baff08286596b83cbe667888126bc7389b46080609d1d42b5d3852b8236609
+Mined by AntPool bj6
+
+tx 15faaf08330cb551a642e98a93bbf6f5dfc36ccee2a8bd4fa4d4af240b8721db
+/BIP248/Mined by peshev
+
+tx 5ff69cc0f993c2d1d65734929ab48729a23527a6cc4bf093c9893dc3002946eb
+Mined by AntPool sc0
+
+tx f5d51887786fb3cb1f54c6690880cb03baede50510a274cfc4a2bac57149dfc3
+/BIP248/Mined by yang1788
+
+tx 34b8c5e73c4748a28d098ec9702762e54aec6c53ff937577899367e045bf6544
+Mined by AntPool sc0
+
+tx bd44adb7f08e663ca48a59e266ee05e6a602a092a52f835b1546d7d65bfbf290
+ Mined by AntPool usa1
+
+tx 8a57b951b8f1c95afd307834a1ad60d2774f313830f9d8d582eac763c38ef827
+/BIP248/Mined by aluba5033
+
+tx 8daa15cd50842f41292b538d316f2b2c7e9a52a9224ca0079c7cb1599050029e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ef8dd6a504b82626e2c4377d0b95bfd4b99645aad0b8d51dd1456c468728ffff
+/BIP248/Mined by beian
+
+tx 22424514b4c975037777d7d4cf61cc77ec7c82e8edb0e3035ed09673f2d26cd2
+/BIP248/Mined by elvislee827
+
+tx 468696457b299fe8a355e7750b65f68d9db866f0755d2f410cb5c3f13059dd99
+ Mined by AntPool usa4
+
+tx d0f3ef5aff438c59faa50c87dbd853bc817f683238ad0911bb795cedc314d61b
+Mined by AntPool sc0
+
+tx a62e0530711a0646d3f64dbe685d211e4a98038d76c87f72db6bccfc4a1bc19c
+/BIP248/Mined by zy001
+
+tx 8ed37133e598832c4dac5b4ef6afaac5d47f1578f4f43d1f1c9f5efefcf8fe32
+Mined by AntPool bj5
+
+tx fa32ae40d635670e8d722e1e3f296cde1fb5abdd062b9e24ca45065e8c32fd8e
+/BIP248/Mined by evans
+
+tx 63b4f20d67760e5a5d3d6a296f9cea65182a44ae1e79023ce96cdfa6aa69a5f5
+/BIP248/Mined by my1975
+
+tx 6f14b83c4172b69544430356a2375fc97a02280737f616a847711af99090f87c
+/BIP248/Mined by chenguanghai
+
+tx ace7f734c35d1ced4ba1c15d3dac817f48dba40754b26d36ae5535519cc640ef
+Mined by AntPool bj71
+
+tx 8f9b4c24625caf339886867c1b3957c9f3737e28e92c58ac75ce5122de880f52
+Mined by AntPool usa1
+
+tx 807151c7f3180a63abf26482001abe3a2f29ae4e0471191da93ff8cfe833f427
+Mined by AntPool usa4
+
+tx 21b7bf827a7215b74763db7422c904a67d2f2297a8f0f30b95e44d06e8a4c8dc
+Mined by AntPool usa1
+
+tx 100dcc7afe558331596bf3a7e85df4ca56958a239ae5bd3a0a57feba06f4ee37
+/BIP248/Mined by exrion2004
+
+tx c5c303c1b719e82e4ab329ef008d6f35c0b1c762228fd6fa2cc3ec4241006e9e
+Mined by AntPool bj5
+
+tx 122e42568a6580f1c142e35e2936d88740ca4ed453bcd5489f8e27bb2e3f513e
+/BIP248/Mined by aa9138906
+
+tx a6e9e8fb97969ca80be78fc668265d98e05d6d7494f0364e2246bb294c47984e
+/BIP248/Mined by a294753975
+
+tx a2b3b2a5fc63a9a2782e476c938c8c9f2391050047d685d57d6647a520373430
+Mined by AntPool sc0
+
+tx b182f89ff153de998a1c7a5ff98e1481f28db35135d08ca923ccd53b28d13401
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 325e86d7fedacf2f2cbfb27c2a5f6638e3edc292f1ae8f04377a2b32de330319
+/BIP248/Mined by dc521
+
+tx 3394ea2eb5ec2982856fabebd7dd7aeb8fdf9407c71418b83d482fa2bb97a493
+/BIP248/Mined by magang
+
+tx 06008179b92533646a54bc9e4ab86fb3196c785de09e161ebe47c180230a61fc
+Mined by AntPool bj6
+
+tx 129919048f7c7bead1c2478a0e3b654f3bf90be99d4089bf1a32d39f1a9e7566
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8f850c7d57942fa13721ac14b7dd8880acc15673c6dd8705c2167aad1a02fc10
+Mined by AntPool sc0
+
+tx 1231d7b5efbce4b115b1bba86ad7d2fc36e3b629738693f6fb819b0b9dd5c35d
+/BIP248/Mined by norob
+
+tx 4f2394a6e9845a70511ada8fb27aa25a678107a58b8bb0d8de57421fff2f771a
+Mined by AntPool bj13`
+
+tx c8a1cdd2868991a065e439bd7d39ae98861d6323a3b21ebb54b0989b857b4e01
+Mined by AntPool sc0
+
+tx 7fa93de4b7bce726fcc7cf36a83bc2d7fb801fb544f13d58dd6a8ec30c2a6e5b
+/Kano /BIP100/BV2718282/
+
+tx 7556cb7c2ae6ea85ae770c7baac2289efe94e3f7b7ca5da37572602ed6271566
+Mined by AntPool usa4
+
+tx c7d09fd8e39c38f2a8001ff0449d1813bfb7c61dc2103302de70a42768992ce6
+/BIP248/Mined by xb195741300
+
+tx 6027ca971849fb8c769bb1c08e3a101e99f2401d4d5bde7a16c1566ae4e99ace
+/BIP248/Mined by haobtckds5
+
+tx 7d51c9af08bc5cc7d17f1053410fa98830d3ff21e2270f19c97868fee33acc42
+Mined by AntPool bj0'
+
+tx a7177b92b73cceb99f91e4fedcb7d0763d8a91f524e8cb80e49e64c2a18db0ba
+Mined by AntPool bj5
+
+tx 5f7e518f52fd4f34253890decf9f78dd43191b4503e56c27b0334dc7237a8cdb
+ Mined by AntPool usa0a
+
+tx cef7b744f5d82b4026e90e5c427ab5902d5800c18e526fc5683c20e91e88497e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a677eed64907725dc4527bc0434c7710d1e19507b52626211e22054e4e43940a
+Mined by AntPool usa4
+
+tx 6443e77542e96979da0d4ab7dcbe92060103679d3dd97b1469f7126ce9cce251
+/BIP248/Mined by wangyiqi
+
+tx 0be471fd9ff18898e2e724f6de22ef97b28b48e73f1e63fc08a3cee0a7de9727
+/BIP248/Mined by a82274925
+
+tx 436a7a59b3dc08e9e0a4369a783ec65c871c9a6fc57b6655dd08fe03205fa926
+Mined by AntPool bj71
+
+tx c62ee0772171a81736e252f81a8c8b3e291ea7622111e6cbc2e381f6091bcb7e
+/BIP248/Mined by zhangzhiyuanchi
+
+tx 54be7d672991495393a366ea5813e1d48cae0fd018df7bbdf065c1bba78a29a3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ae5ebd87f600a8ee02cd2de64433232473c5cfbd1aeefb4bc8d7c9cd101f9569
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6685fda25139ac820685640a8dc0874c7c14baabcd8883bb2e2fef5a3256b2ba
+Mined by AntPool usa1
+
+tx 6a91ec0b57b8bdf3830ccf22688e00a21bf09f750f36e4632b7eb3fc4c054999
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx 0bdd78878a9f18256a49524f589dbde702eeb91571f9aaa304f9ee7a3e5ddc75
+Mined by AntPool bj5
+
+tx 729cd0e594f155e331dcb0b00990f4bb8cab0396f691b91266feb6b959069a92
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a3bd5e7942baf49e904f54bae0204e4c12f4b900da060627c216cf3abef63ce9
+Mined by AntPool usa1
+
+tx bd0c010f4092320c88c52b09fbabbada087bedf36f64f8a5126ba2b9f6c8a166
+/Kano /BIP100/BV2718282/
+
+tx d509d488002915cdc8e7b617e5c56f8b415ad48df3b0ec3bafc94d4587ccfb8f
+/BIP248/Mined by akm
+
+tx 1d0656d37155f7cb803dc9c2f044ea5c719d8c61f96aab2143b46353b4f41797
+/BIP248/Mined by linweiqi01
+
+tx 806e66800b44af1b86d18bfe4a9aceca35ee763c83018acc8363e4cb39b70558
+/BIP248/Mined by zhangli1
+
+tx 9dee13631d697a12f813840a57faf488ec9be664479c733abbde0fc0307318ec
+/BIP248/Mined by minerbn
+
+tx 2194e3e3930be512488bb157d9ca2eee26a09ed258850c3089cb1e078c0b3519
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7741214f47dbd3e7e5bdabefbb1cd5cacd98ad12c90d908423f9a26d30f454e3
+Mined by AntPool bj5
+
+tx 514e3d942eef6ea5950ba3b5e21edd27737148c1264dd28b8e3f2f57d24ceba0
+Mined by AntPool usa4
+
+tx d587e3369eb458afbc1607fa91546b99a97a3267fd20bdd0bf48862ea906fb10
+/BIP248/Mined by f2poolhaobtc
+
+tx 0083f3b29bb722e9c090e11eda12f2f14d2fd90515951d5191cf6c804ba204ea
+Mined by AntPool bj71
+
+tx 122ccd7efec0cf4446dfc09cfecb7f4185d3b8c2849f459e6939c8d496b0f924
+/BIP248/Mined by zhy123456789
+
+tx cfa550809f5a5c30ece34d4364e691bd2b15e44b27fe75c5fa1e75c2201c89ce
+Mined by AntPool bj5
+
+tx 65ecdfbcf2c49048e33ac2a225df0220e5b28f42fc227379b538421b018020cb
+Mined by AntPool bj6
+
+tx e5a634f101a8ae24a308d9748601f1a73f4a8d7cc56d8386528f62a6e51b9343
+Mined by AntPool bj71
+
+tx 3b8ee1c93cd1bdbbbbdd73bf78b5dbfd4b833c1f2686e271c8b6ae5a06d83ede
+Mined by AntPool bj71
+
+tx 82e3b28e6f485a75cf5c6f96fbbbab75e354107552c7b3fdcf332b26c1962177
+/BIP248/Mined by ggm1
+
+tx a34a7d98d6bbb1059c7ac70f140fbbe0060cc4e8e0b2ca6e2be2f85ab062076e
+Mined by AntPool usa4
+
+tx 4099016dd6d120358bebc767f4f4ac5f90a40c69a2d441b9dfd04131c22bdfc4
+Mined by AntPool bj5
+
+tx 4f3ffaaafb1b0c4e415d2fe51e1f27ef4e91b62bdd7c484033a819e6f17bdaf2
+/BIP248/Mined by yj0433
+
+tx 8f7129acb8b5ba2115b64a300ce4fe71e7e6356071c3cb5e92365be7edc8dfd3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 62aab03e86b75a2029bc3b4f3e9c03af416971df5fc19f7bd1ef27592c55bc08
+/BIP248/Mined by yachao
+
+tx efde7c2ed4e7052d54f9f540725d89b3a6d48b3f7cacd151f588eed05394cd80
+/BIP248/Mined by jegoho
+
+tx da984d60fe7fc243dac634c8fbc6b6edb1e1ee29a3b1b6e9b3194f4a909bdcf7
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx abca15ed0ce1d47c873dc60e7c6900ba0dbc32390f5ccfbc9920685c944babae
+Mined by AntPool bj71
+
+tx 6b39a3e08d99613f809d608ffdb1c9f48140f1c291afa20b11cbedad99f0f975
+/BIP248/Mined by fredkhanh002
+
+tx a0377d5ee87a5eb785c8d72a6956dee9471f7c25e34df5ed87633ab1aea3387b
+/BIP248/Mined by chencd
+
+tx 3db041686bbaf8602595390f6a4e310b8d1a2252048c707b91f789e1ae305868
+Mined by AntPool bj6
+
+tx a4e1e90a1d00f6ffc55c7cda563896722f14ff6a0ab3fe591d4785b2aabfb626
+Mined by AntPool bj5
+
+tx 66d45e5747b57be9c5065d054e3ae5a4feec2ba50dcc4b8ac42a174807ebf175
+Mined by AntPool bj71
+
+tx 8ed6260dd2807455314074476209bcbb29c5d250de030d450e606efbdb04fdd4
+/BIP248/Mined by xgwei
+
+tx fe90a8a7d4596c28605a5d0acf34778a0554671e360a5a5190c041869898aa18
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx b9fe80fa319e294db2e91c42ebf5c3cb20141ab1ca8be1ec184e63b1f7558d34
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6b2bd48d35073927d60bfdd524d1d2b394aecdbb58b91937f433ed3f869c5f19
+/BIP248/Mined by kopenych
+
+tx e14fe139a04407a5aa933da4bae3847c4e6893ccfc01ca46e3c8f9d7725cffad
+/BIP248/Mined by a542043516
+
+tx 09c104e0ae7ae5659f60b35b6947d7a8fdefc1a948766fe8ee42bcc1943fc07f
+/BIP248/Mined by xgwei
+
+tx d89f4210961152b821f0a5d83348cb8763d83ebf9aa9d141f6016ee30ad4c561
+Mined by AntPool bj13`
+
+tx b9855db47301f7cc1637ffc2b26e6762dbefd26e752d99ce45cbae806caad2e9
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a3791d9db877dc39b16f5caf94e9f74b94756a0bdacb059f826b50a1e64b4544
+Mined by AntPool sc0
+
+tx 0c614e1f9f0d73db8610937328cd9061292a6594c00f54c210fc0f733bf4152e
+/BIP248/Mined by zhaogang8888
+
+tx 360780394569b992558ca3a28f070fdf6033f1a374c708af251f39491405de3e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx db5892590d4e531a4783cfe0f7c67d1af6d95a22dbfde1c3a378770ec08a1025
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 868c3b2ef2f1a22f131d83a2f0a070639214b9cd6fecf95d4bf55c48e6168a2b
+/BIP248/Mined by yangkun
+
+tx 2e7b91ddc1bdf6aca14f4ca2c931dd360bba908bb33755939413cb78f2de1497
+/Kano /BIP100/BV2718282/
+
+tx 5c9e59c2e23689193545d9109f900baf634eb7c2893c594782cbb5b68f32f173
+/BIP248/Mined by liaoyang
+
+tx cdb73cd06e4f847909222af2f1dcf23dee94378aa700e02b3951c8311bc52d00
+/BIP248/Mined by hj1111
+
+tx 0d802e0709169ecbc7c7be6f07df8dfbd6b60c5923b02ae6dc0a0a971759616d
+/Kano /BIP100/BV2718282/
+
+tx 26992555ef5c7c7d4e64549229e35508831f5fe81e22142be6522f94609063dc
+Mined by AntPool sc0
+
+tx bc0e51a49abb796ba29f0e9fe153a66eb9c9e4a43bb5c76a36d5dbd36c0e50e4
+ Mined by AntPool usa1
+
+tx e017d20af746499b756fd799f1a9aaf7a03607c309e62f5574a68dab4231338e
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 286da1383eeaf32e172927945246f6ee4764c1b02f2fc55f966451949c93ec75
+Mined by AntPool bj5
+
+tx f43da6d6ecdfadc5d93e48d9dded65600f227b4f445b7eabf58c65535941d176
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 0e13c21463fd66cdca749fe262c9a7da8dd620c5a0687684e6316e9bdaa72926
+/BIP248/Mined by ryanhumey
+
+tx 0d07c030ec590f01a0e1a2ff1f31016c42699337d78c012b33a12e014227ba7d
+/BIP248/Mined by liangjie
+
+tx 597a57f9a99c0d90bc89917ae33f71fd0639d5d730bc1c112b0d08f65d033caf
+Mined by AntPool usa2!
+
+tx ab5d2d728e8897e6d59231b59881977c5890b7d810a861a379503d9cad828030
+Mined by AntPool bj5
+
+tx 337999b9469b965294d6c5bcae0846ab8147aefe83f12d6778ebf4cd59a0c40a
+/BIP248/Mined by yangzhongwen
+
+tx 0cfc979dc1021d1af68d4ae227365513f1b5235f7a41bf1813bc05a07ce0b046
+/BIP248/Mined by chenguanghai
+
+tx 832f638117fe92b1a82070300d2111f5be198c9f065cef9c88eca2597a6f3f11
+/BIP248/Mined by cmb
+
+tx 5a30315a42caad0444712b59bc0ebc31933bb4976a7de83caa14a9c4a595601f
+/BIP248/Mined by native801015
+
+tx 921ca9d2c0bda1e2529e5dc73dff676070b6603d6d00cf8c110c0c6d6594c61c
+/BIP248/Mined by haobtcnjs3
+
+tx 8b18a90bf0bee0ad1a86bd97eab57ebe12e326eb54901305faeb2c2ecd21be3a
+/BIP248/Mined by anxiuhua
+
+tx 520fd238cdd9c63007e868a19e57e9fc4c77b631c4dd96a497f7e10cddc74331
+Mined by AntPool usa2!
+
+tx 8f8f7cf070dadd7a98c05936e0d2da9e877bfa1c2b2f2d1a050bb1b74c959e82
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 1ee245bc4775d3e58efc223bff5868f001ca6fb55927c78f052c5c966a758e2e
+Mined by AntPool bj5
+
+tx c11333894b06a1a61fb7d9a07286a6d0a60cc09bdd9aae8600e61d1a3d28d721
+ Mined by AntPool usa2!
+
+tx 562ae8da47b629e53a8c99dd2abfa835dd81cadbde78e293d6771b010fade0eb
+/BIP248/Mined by z951753x
+
+tx f1892080832a8de1d8a3dec21914d1627d2821b206e74a886db9b94ff616db3b
+Mined by AntPool bj0'
+
+tx cf2a1b15305f7327c9e328c8d3ac0587151af07bce7b0d664a5a2bd91e0588fe
+/BIP248/Mined by shenfei001
+
+tx bc99eccf6bf811489f1146f4966a9587802d5d06b39ca5867f09e210add55e46
+/BIP248/Mined by wo2014
+
+tx d9cb80cbc657c217967e06cf0a9706d77ccfff8a241f042fd85fff5b7f932a9c
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 2f1c176c96d4e007c58c85af27bbdf9fd9980d2d326c24d56a58ce24a9a09f18
+Mined by AntPool bj5
+
+tx 0f97f199e3e53ed4ae0d14ba1dc006ca0ba8e42029c2b2391131eb9fe356b24e
+/BIP248/Mined by cckzjh
+
+tx 0ecb47f3d4af9808c1d6bd897adfb6eeac3c378cf88022377ace5b6f466851e9
+/BIP248/Mined by gaoyuebin
+
+tx 86c1605ddef85795b3aa87c96ac2b6a6d118614007d9616bb422317d1ade7e46
+Mined by AntPool bj13`
+
+tx 8da8aea03e68afd5ae8efa2a87d68cb852c01ae82cb69151637274e886a75567
+/BIP248/Mined by virtualnobody
+
+tx 1bf5ee127f6623c99a3f7b9502bf4952a6336672439560c697447d4a09a8904c
+Mined by AntPool usa4
+
+tx db3403af0d0da6161b950de1865642950a78f5d08672b10301f4f95ad5999429
+Mined by AntPool bj82R+
+
+tx 0969ef22793e01304f91af6f6cd84502ba14609266e3ea700f383b13e864bff0
+/BIP248/Mined by daqing
+
+tx f6d8dd4bd2750d74ee811aa4e475a69188ddb869a08c08d21a3ef2a0dfb9f4a2
+Mined by AntPool bj5
+
+tx 4f9329e4e2e3b90dc8414b4185fab2496a3d59efb5219f159ae2fc1d4e41e8c2
+Mined by AntPool usa0a
+
+tx 1dafb48fdb18dc6e7c54af5d367a3e22da52c854c31390e081d7f722d33679bb
+Mined by AntPool usa2!
+
+tx e3048e51eb4368a9502b8f6c1edf1d55eebbfc35507ee33e832da8c58d66dc3a
+/BIP248/Mined by kbrshaz
+
+tx cbcb67e086381ea03cba0f5d280b2d6443e08cf007de9912d362746fe77c1abc
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 06a1d3c692d814540c3730f679e5932a7134cbb714403446e32899d085c222a3
+/BIP248/Mined by haobtckds5
+
+tx a9378fe2d8a49f6d4ac5bc2d6997ac38d47d2b069562a2f51b7ada7275cca2c5
+Mined by AntPool bj13`
+
+tx 9dfff02f02b00c88d9f177518a3eb335780833890a6b36facbfe049f0ce229ad
+Mined by AntPool bj5
+
+tx c89e02ffcde9377e4b9f105072900a683405e53e7713fa252cc7458d593dd874
+/Kano /BIP100/BV2718282/
+
+tx abe2172b525c1cd7c1d9f3ea7a225f2eda4f7bd2842a94e92e6abae4b2884ec4
+/BIP248/Mined by hxdwl
+
+tx 34eb15babd56f55b77a5d3dd039d3267f813e8d009c1a2da0d176b6a6e78cc65
+Mined by AntPool sc0
+
+tx a4ccf0f48abc2b165dc2cccb66d110c8ffd73e181899a98e4bcce707d2a8f9fc
+Mined by AntPool usa2!
+
+tx b6c45a2726cef12b72f1f94db9973b7b0cb8105a2560020c954e70b7ed4bf8b7
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx d8a19391a15ae5f653e4d3a173eb32938ccb37b24b7c0f6d2b7d15b07ecd36bf
+Mined by AntPool bj6
+
+tx b37af8d0816dc32e58abb26d11678694f411f884f6b00da23cb4bd553e63f8f1
+/BIP248/Mined by liuyan1120
+
+tx 1dd5a8665dbd691b2e34a8b4bf3370a0bf61b3ead38ce1f83a18cca6b7cc9f1f
+Mined by AntPool bj5
+
+tx e904b7cf2712f51ba85f0dee7181360b5f56cb6cf0fa2b18ffd4575a25ba4c01
+/BIP248/Mined by zhoujunteng
+
+tx ab0538752e48440584e74090d40620c098c2bbdd2bf8d5577fee5966f619342b
+/BIP248/Mined by f2poolhaobtc
+
+tx 4483068f34ffba9a9d989adddc840873e2920929742374880b534ac42ca587e4
+/BIP248/Mined by dashengbaoer
+
+tx 69f48c8037ef35bcdfebe9de3ed3ea32f2c85d80490b5b77aaae5711678788d0
+/Kano /BIP100/BV2718282/
+
+tx e20acfe5adde5ae6af0049856c28e0e8deb1ca98902cb85c6dd6f33664e09400
+Mined by AntPool usa2!
+
+tx bc1b0a90888fed3c79e0bd671e95422b00bccd05714cb121ae970a734a0e12ba
+Mined by AntPool bj0'
+
+tx e13c582ad149eda53c3eb594101be2f32910119a7ce5f5845ffdb18d5f367a22
+/BIP248/Mined by njwf
+
+tx f067506656b398e309906f62a0761e3ba06f0e253220b953458d334dd3b586ec
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx 80edb4fefb27ef62da561a1a259c6f1c6c1b23d8df2c992feb94a51ad306278c
+Mined by AntPool bj5
+
+tx cc6733481a1f69150dcbd81d771d475e068ef114ddf394cf0222aca15d4a8daf
++KnCMinerB-P2/BV8000000/BIP100/
+
+tx 45e4ace8816da2d8dbfe715e88e24b5595db66d5c575bd97fa2b4b67dec21534
+/BIP248/Mined by happyzjq
+
+tx 3e454addd1b3b99f2619f3d727b6f603d9072b3c3b113fd6036ee88ab38dae01
+Mined by AntPool bj71
+
+tx 8ad20071f5667f678ec369b4dec74caac8400372f308928b1b145dfe6e445d5d
+ Mined by AntPool usa1
+
+tx 3750c4945f0520e40a6964ce7c86c336da4df9fdf431e81855c89ae6ca0e8250
+Mined by AntPool bj6
+
+tx 58d47b81136b3b08f1f7739179e2a25ef12ac3544bf6f0c68ec6a83994e60385
+/BIP248/Mined by liu1192086918
+
+tx 524f36cff8f476833a3ed79d15fdb006e8a0b48dd5b442b3d0cd04bc29d74715
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 872b79ac7dd8432efb69dfcd1d09dc1e863d7be28bda7203db5182da9186b16a
+/BIP248/Mined by z855806
+
+tx 02b0864daa1e2414c7b1cc35753b87e4b1f40cf40f1ade7d024e9ce399649a9f
+/BIP248/Mined by handansx81
+
+tx 514982c827a9f38994b63ef6933fe01c69fccba86eb553509573c67f50ca1678
+Mined by AntPool bj6
+
+tx 1413d84db9173b91b54b56b1df350211008102c13f84c472de4c1aeca5a1fe81
+/Kano /BIP100/BV2718282/
+
+tx aeb71c2c5b724c619ae229c2055c598d0d7752490317d81e48a57ef4ca22ceb9
+Mined by AntPool bj5
+
+tx 5dcd38e19327f673894eb8f1b010fd5e98925f0af3df1acc9ea87755525b75be
+Mined by AntPool sc0
+
+tx 532bd672fb1aa7cb14402dc6794e50f8323edb142a20c8649b9aa378aaab30a3
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 4f1be52a265657b6143537f11c6a28bdfe1e4b0192d49341019b83bb1e08189f
+/BIP248/Mined by vip11btc
+
+tx 652afa4e878f6529bf6f2ce31b2f73eb84aac89f07a4a7484c46cad701e00475
+Mined by AntPool bj82R+
+
+tx 9255b0735613aaee3013770f10d06b2ec9d6fa74f9ad4482fca45627e6ec445b
+/BIP248/Mined by haobtckds5
+
+tx 2cd9fd42b771631b9dbe473c75a6e6f9eee117027a6f9a71e04c79a50c78798c
+/BIP248/Mined by xpz
+
+tx c4d7113f3047046516cfd731d5ce06f3e620ea1e4a7e568ee3c03f0da2f76185
+/BIP248/Mined by wjpw520
+
+tx 97c6177282f83054d735c640081fa289999bf1e3764231bc063ba7ac192bc236
++KnCMinerB3-P1/BV8000000/BIP100/
+
+tx 00003593f4ff4c4c599e8193735f482f81b56d4f952f2bc25097a59cc91d60be
+/BIP248/Mined by lfxykg
+
+tx 2146d8f5c67993a1778bc099f7c8bfe3144ae125cd3f384c20360239da917ad4
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx db881c8f5829cb88e78c1a6c4c84aa3fd6b51428c48f57dcc1db4d9eb2cacf15
+Mined by AntPool bj6
+
+tx a2a789dd1b092dfceb6574a151c34ee3374f29d23d20c164d71a0228e9f9874f
+/BIP248/Mined by lihonggang168
+
+tx 70571329b623126979541bedd33b2b77da31dcbe0f48da23b9dbb682da90f316
+/BIP248/Mined by niagara
+
+tx 3dc9f4c06481d74065392b23b7419aed3612b08d4ecb430c3f7d070d8aa2c8de
+/BIP248/Mined by dq3037
+
+tx 2d5872a25459a5b9276a57ad8386579fc887651e502de29cf56ac1c9c86d156d
+/BIP248/Mined by wm2015
+
+tx 8360dc7026d472ebcc7de82d30b9c478aab393436d50e3fed924a339c6e7aff6
++KnCMinerB2-P2/BV8000000/BIP100/4 
+
+tx 8517cb09dae5b32de3733daf56f4ab4db84825c97856a7d7a2c8c641b4fa26d4
+/BIP248/Mined by xzm888
+
+tx e86fafc0f0dca98a3c0be2cee0e0711fe0c7dfeb036116aa478bdcb3afa042d0
+Mined by AntPool bj6
+
+tx b4cca129afaec71bfaeb85d17db5d285add7fbbf4b887a5df7e1fe661739b69d
+/BIP248/Mined by shacky
+
+tx 2bf28f6c9b460cde9b84d4ab1d79f9bda969dd559b7f312f8483eee3fc5be987
+Mined by AntPool usa1
+
+tx 96099393914dd3306f55b2c8d5a6bcaa9d3659d9cf8d5671800b770dce2dd6d9
+Mined by AntPool usa2!
+
+tx 46493c5928743699fb3e2bac837a012ae144e42196169a6cb3d5b04f3c62eb50
+Mined by AntPool bj82R+
+
+tx 255340f59231505dadeefe82c3d701586546c08b00337da7ff0d1d1ecbd8215d
+Mined by AntPool sc0
+
+tx 8ffb8c301529805de311e0403970f6cab939fb8a13d5a48c7e1d4cb327c9d1d9
+/BIP248/Mined by hlmmmcz888
+
+tx 0ea62a9638c3b33de57ca5fdd86346b53b6c3fe6423256bd6f3a346b902f279f
+/BIP248/Mined by aradium2
+
+tx d023c745de144f21171133446f9dab2cb38728ad05cfadd76b62e955eb835386
+Mined by AntPool usa1
+
+tx eea687e83d550a330c4fdfa1f81569f76d2acb16f16b509c63e361ea5d0fae8c
+/Kano /BIP100/BV2718282/
+
+tx 0b4e1d12ecf8c7547c248e360ff1e610cfdb66202bf6ad830f93b195ef5ccbdb
+Mined by AntPool usa4
+
+tx 69e4326783a724d122f9ffd5dbfa86c07a08b45f28430cae5200052daf0c257f
+/BIP248/Mined by chak
+
+tx 144da45e9161c3432345449813d45077a6537670ea02d581548efe3cc85b5755
+ Mined by AntPool usa4
+
+tx 23aee3a0b0b3c247ad93f1eed93b3774f23ff3cc090a818bca8601acc3692a66
+/BIP248/Mined by liaaa
+
+tx 663bd5263d8d6ade2e60d0e94540dfd2c2fc9b5279ab30f534f27a60d9fef8ac
+Mined by AntPool bj82R+
+
+tx 79d1f36f9cfe53d8e1d46b316ce7b85c3515041993e566d956c9ddfead2cf04e
+/BIP248/Mined by guiyang828
+
+tx 7986a2bbc4b6aa7816be2356962e8ada624afb53c4c08b70f9e609477a3b5b71
+Mined by AntPool bj13`
+
+tx b0479e7c12c6f77d29a97de76aeb8540699aed165509cc6fc2e1d95142d9ff1f
+Mined by AntPool bj13`
+
+tx 5f6a3547ba532279f6799e98ccbda7de955bf2244d8df357f32f49b2e0021bdd
+/BIP248/Mined by haxwdn01
+
+tx a129d1db68711ccc2479c6ddd9599048e5866f7f87f197fdb6125869f13b9bcf
+/BIP248/Mined by xiayujie
+
+tx d9111f645b9e426ab867d2bbf67531230361b7921e737da09cc2f6d3d81181bc
+/BIP248/Mined by cmm211
+
+tx 30e3ae93324a6a977210760f66428a6496517722e4444fea4973a906b22175f9
+Mined by AntPool bj71
+
+tx 7ba5e79adc83112732b92395cc106a917f36d3b28622d1854776ca75923185c1
+/BIP248/Mined by peng410402
+
+tx d57094719d29e8791b1f7b3c8ca227e3c6fe939bbdd2465b589b1de4ef2862c9
+/BIP248/Mined by gg2015
+
+tx 3bd27adc7c9b1152ffeda1ee41e4c3df92536419afda90d5d99d2224dd37c826
+Mined by AntPool bj6
+
+tx 93f8e0f5ee4700d990c91d4510fead966de814cc514a5ddd5b17fa5d280a80d8
+Mined by AntPool bj0'
+
+tx 2fddda9e77fd611f8efdb6d7482073129b91f3aa099f821b1cee6d4dd566f4db
+/BIP248/Mined by dongning5
+
+tx 1f7ea611827ce6cb901421daf244299594d5eab26f8b2c23e3617d1b8f28d348
+Mined by AntPool sc0
+
+tx bac12dae5b71aec7bfff83fac8884b84584b22803cf918967be0d29b6fc4066d
+Mined by AntPool bj71
+
+tx 567c25a36f726363107b86d637ca1356f42d965b204d480a7a6f520a23f9b7ff
+/BIP248/Mined by cimicimi
+
+tx 390e89ab3b45444f12e2dc39eed9c58015921889cec0dc7d9ac8f364eb03dd4e
+Mined by AntPool sc0
+
+tx 8d4bca0316ac9a7cabe7c6da1259357d3cfac38bdcaeffe4a26abde38821369a
+Mined by AntPool bj5
+
+tx 1d335e026f8403179dc531f3ae4149c533be183e04352d01489c97d850db8c75
+/Kano /BIP100/BV2718282/
+
+tx 1ddfe2ada18ac7bd5707e682a26b2455877b0a33fa315ea819f1c73e8be0350f
+Mined by AntPool bj71
+
+tx 862be4aac8776918cb58bfbdbc7a7e3a4b59a3c86deb04714b5c18be3d4ad187
+ Mined by AntPool usa2!
+
+tx 8a098359e91ad0e92f7243186d420c3beecf001a0f922af6d97ad7c43cccd3bc
+/BIP248/Mined by huochezhan
+
+tx ccc851e24dc2f627df43ceb102c9cff1ddf63e23c7153ce476083ba45e2c734e
+Mined by AntPool usa0a
+
+tx 07ecb527f6605ff472486366e9d3fcc47f507ea461c186de0f808f01682cf9f0
+Mined by AntPool usa2!
+
+tx f0c0e4342db2eb2163a3542c6b0ab75b219b1c9703957deb5ea09f7b5155414a
+/BIP248/Mined by highsharp
+
+tx fd920935bacf1b5652ebe083d33710bfe98f8f911789c7b18321f5deb9d031b9
+/BIP248/Mined by happyzjq
+
+tx 47470ca9aef63fcb6dd5ba747170c4e34ff30c3e8bef1f7a146872f58faf604c
+/BIP248/Mined by a304808269
+
+tx 81b2b1bd26fa927b9933a5d4b473832b332a8df3bc699cf24a26dcb3e2ba8fea
+Mined by AntPool bj71
+
+tx 07dd592c2037ccc20f206850a638218a58888a9ae367e483bb406c1e0df239bc
+Mined by AntPool usa2!
+
+tx 964d4b72154fdfe0651534a5cf0ae7d01504e48a26ce64ab4ce831adf75f037c
+/BIP248/Mined by guozhensan
+
+tx a95ea084c1c7c4ac5c7d03e93f9dad4bd8091f6487b89670cd1df9ff41ecd940
+/BIP248/Mined by hya4999
+
+tx a1e08cfed4d0f67b950798a07dfbf78f30bc5fe3f287cbd67630e6f466c5e3f8
+Mined by AntPool bj6
+
+tx 185477485a998cce0519d669ed17893f229beac6f277f7655dc3cbc724f3f12f
+Mined by AntPool bj71
+
+tx 201e9ec92d971d3f28c08e64b03c0c80217d55e97ab2694bb4971f812d8c7816
+Mined by AntPool sc0
+
+tx f4215d5c150b4255c9f138b1b97b39665c439ddfabaed86948f93c21fbcba5a5
+Mined by AntPool bj82R+
+
+tx e1eca8609812cba36fc8be5bd7769f2fe732e242aad464d251caf59cebd7e1ad
+/BIP248/Mined by wangsunhe
+
+tx 86dc2945cf27a15d724165208459de4db8b780e6579e92747b9f5824eb680edb
+/BIP248/Mined by ruanhao44
+
+tx 0a52686d07a4fa1cb806ba2b32a416a9fe8bbfda713a835e92cd0c3689fc9773
+/BIP248/Mined by zhanghuihuang
+
+tx 38431e10878bbf9b681e8d58246cfece870798084c748d650cba8cce5704736e
+Mined by AntPool usa1
+
+tx 9beca76087e0657a157426146d3e8f4cd1ed0ed945582c00a1a60d301db58a3a
+Mined by AntPool usa1
+
+tx d5c4259e578e981a710150309513b166a866d689fa2cfe0f8251be6f5ffa554a
+/BitClub Network/SEGWIT/
+
+tx b4ec413e5698d37b38b4f8186aa71058353f728eefbce87cda4e018bfc1898db
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 41a2b9e0eb41d419fb8bf20a4d8844994756d2f3e43a16d0b9cff2a6b7bfb87c
+Mined by AntPool bj5
+
+tx 68c0e07f1b9db61cbf6e4bd55d42c1462967d7cdac25ef8398448001df6c53c2
+*KnCMinerB-P2/BV8000000/BIP100/
+
+tx 9855eef902a5f1f12537738fa5a27c4c7441b32eec67937e71c59f10d9944669
+Mined by AntPool bj6

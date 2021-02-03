@@ -1,0 +1,374 @@
+tx 77fdf7df23ea1dbc28af1ab79e11428ef9d4d3037e67451efe275d856c41212f
+/ViaBTC/Mined by hanz01/,
+
+tx 46156772d8eb2c2b44f9725d2e6043d19e2ee6211e57c3b55a02b9891441acf9
+/ViaBTC/Mined by hadinabavi/,
+
+tx 123e6f205dad2d7407a086052c620bb8aa1c8bd971ca0f5e37a9ec6b449286ca
+/ViaBTC/Mined by cxy4555/,
+
+tx 0de7aa025178902abdff835f6bebb03477a623d900d964f255062ce5c78964e7
+Mined by atlas02coxj
+
+tx 43536fd168d12f99782444a3d015e4726343f5a4919845c5716118de90e93952
+Mined by kangdingjy2
+
+tx 5483053aa84f17f9000694d8419e2972d236676f59f4b60528886704acf352bc
+	 /ViaBTC/Mined by qianruidianqi1/,
+
+tx b3798a7a19eabc31cec1ed600c6e5e9cf77789ff0982b49885ff002c5934923d
+/ViaBTC/Mined by hubo2019/,
+
+tx 8ceada876c856ba9cec6e387f5d1f6736c80a1c2dc6debe41881fa4b4e566c03
+Mined by wenchuan001
+
+tx 2b80e2dd62e35f17474e46f69ca746486905dc114d3ced9c4f894b5928760f8c
+/ViaBTC/Mined by spcs2t9/,
+
+tx 9b9c4a31e8e65d2e7c6d7b945a3c53c56c218d9a233431f7d7d3524dd3f6acd4
+/ViaBTC/Mined by gystssmm20s/,
+
+tx f1d420ae6f8329cf8c75c7c0732bd345f266f866d04ecee219c712e0d347a3bb
+Mined by zhundong20s
+
+tx 69342e955d97fbf7200752cdb5354d2f3f5991e3cdd19c01ad032e1f19cc1964
+/ViaBTC/Mined by teoh9418/,
+
+tx 52dfea75e7e20fa7b4ddeac68da9cf1d0afb4cfdd8df8fbd52c9f6a045824724
+Mined by atlas02coyn
+
+tx 6397228968181f267e43113269199b5c5ad40189445b68b2f2121c3f5f12953f
+Mined by zhang1395070346
+
+tx fbae2ae21e128b78b128c58b0b7b4d623c3a2a99e05d483f0e3704c6524e6884
+/ViaBTC/Mined by murni/,
+
+tx 81d72abbbcf9e86459dd14af2b3d1a9f8c43e22e2f6e11964aabc1191df52d10
+/ViaBTC/Mined by freehosting2/,
+
+tx 9f3e0e4f44bd9b787bb17ce7a895ea5eee7a68a1a2ecd0f99dbb4176528f501d
+/ViaBTC/Mined by kripton2/,
+
+tx 157a747ede979a865e500114271f7c4842111e87b48f62d6c1ab9b707f7126b3
+Mined by bqk200203185603
+
+tx e94267c8dc88501d823807f5f0b7be5bf39656f68c694645e7ed66dae8b6d27c
+Mined by penghougang
+
+tx dfc968374b19b9f0a8b25b0cf71caa05487d0416720927908d148a5cf130e663
+/ViaBTC/Mined by orche1989/,
+
+tx e8a2c911feb67f3e2444d702faa847769e637de23ee6ce30e075c77245bcf787
+/ViaBTC/Mined by semenyik10/,
+
+tx c33f7332c69ff478e11a883a43cffce656f24a2c92f200ea65207cf92adb7d75
+Mined by bqk200106179992
+
+tx e5f114d56b827e6294cf6c869e0509517ffafeb0d532d1f03e4db177f7462e35
+Mined by AntPool133;
+
+tx 9ebac973ccf667b082234cd2e75eee099d0d9260f67028ef8283b24824326789
+Mined by zhundongall2020
+
+tx afe382841a43e226b0a07e3d6145211e5876bed1a360e5b245317b6a5edf8032
+Mined by kangdingjy2
+
+tx f668fd67b6242f47c7c09b2e7d17563e8cd63299ffddbdeadac6b5b1c79d1cc2
+/ViaBTC/Mined by hr93959/,
+
+tx 3b56b816a64108058f53a410a661689927cea5e07cbb8abc9a27633d8a42c8c2
+Mined by kangdingjy3
+
+tx ff9928aed29603de74605b55e1da8212f2820a80d6c21d0ebe1d1db0170cc2c9
+/ViaBTC/Mined by sai1200/,
+
+tx 9afb5dc8dec08c3a92a64f3109cbafc8b6358a13d3101ea1166efe95004e597e
+Mined by bqk200203185607
+
+tx 8f25890ac4002b075083205f418ef8f8923633de2912b22fe16c40e5468c1e07
+Mined by gaosunan0410
+
+tx 49ead8fa8bd957c6e32579de82d93dc812dfa9cd590d2489e484ad0cc0fd1e04
+Mined by giantfinex2
+
+tx 5a184b233f44a69bc58168c1c92aac12ec435b68fdd8a5a6ac5bd94e0e4852e6
+/ViaBTC/Mined by pouriakasr/,
+
+tx c6182a888fbee1e2553057463ff34e0fad5b9edf2caab8906f3508489c704dfa
+Mined by mlstbmys9j145
+
+tx 8e30dafd20a4bd9ddb3463a439755bd3f90fa8da4406a045863365af4b24f4e1
+Mined by giantfinex5
+
+tx 27fcb1a17f7bde8752d2a083cf5bee67a8342ac993eb69a22eae4cb5fd7a151f
+Mined by cryptouniverse
+
+tx 0e8075aff5675dc4ec109d085b6f94f814194213ddd9c3ae621ee0f9cf13f2c0
+Mined by bondhaoyong
+
+tx 3b9a55834ce28ef80ebb101ce1ed837fc2c49e0a3138f03a3e132be6b5598ddc
+/ViaBTC/Mined by gu88888/,
+
+tx 1c1f9cdc7d4f1ab51d1e6ce241aa6f605d7cd6ddcb897c84844053735a7ab49f
+/ViaBTC/Mined by csrectansbtc/,
+
+tx fc083b6c72bb90e0b773f24250dcc5f22f04025d8f1062132637f0ea1ce3a44e
+Mined by AntPool133;
+
+tx 1b26758e45f17ae1b5dc4557b00759fea0950335a96561ecc078ac909cb81dd8
+Mined by adnanheydari
+
+tx d03654010b53f5e32ae731fb1666836b939c7ed9f602a568dd031d01fddc3f2b
+Mined by poppypoppy2
+
+tx 1f96f7e59d817093b9508ee3dbf175e632248846ccae2747ac22a94e03fda8ee
+Mined by AntPool105N
+
+tx 98d0bf8d5344913743e6df6d68d8ccb734f2747fdb93c729589ca3eb1b1d8129
+/ViaBTC/Mined by jeff6661/,
+
+tx 2c832cdb0bfa0ccb8777d1c0f86386f3d3e79925662debf38b32345ae1dfd62e
+Mined by atlas02coyn
+
+tx c0ef2fb2756b4e805b7fa082d8b88a0652868029ffb7b8826a24bb4bda23cb97
+Mined by ce1bo1hp001
+
+tx 5deb4abe142b128bdae76bdf559630f881082005051bd470adb0be7cf66d7e37
+Mined by atlas02coyn
+
+tx 5eb1b49c67582e9717ef3a451bb79b818c1448020599c5a3cdb1b7baf08c3081
+Mined by bqk200203185605
+
+tx 3a773c07053c22ae111f63cd4adec0133075b1ad0822b4d23b74a9ecfa5ed29b
+Mined by atlas02cosc1
+
+tx b54d3647d61b04092c0a319aa91d4f5d97b897a6aa81a3cc30cd3a24d1d8c244
+Mined by xjzdxx1qt17
+
+tx 7f378afe94efbcda1721224485e4cc1b671650ce425da12c86b2f314cbd3a621
+Mined by keepwalking1234
+
+tx 1e27cc7d2c2cda1e71801031309b02a4e22aefce1346b8f4836a27da858bf20a
+Mined by bqk200118182120
+
+tx e666fb97bc309101f9d1afe5d94df923b12bd81afe42292e1e5823ea9906041c
+Mined by herojustin17
+
+tx c8056832709932a53e64d59df0e9c26b242b94e82727c9a25444b93445d67792
+Mined by szwwucaiwan7
+
+tx 184ab967b38397f314416b33f1b7b82f3cea8e96206863d6b514d8b315478d6c
+/ViaBTC/Mined by russian/,
+
+tx 83bbe3be5699a40db8fcb9200f30e0648a1548296a61d577bc264a89c87797be
+Mined by ghf19817498586
+
+tx c76c15e1d0d9dc94a839b24f7b99227fd8c5d558de037840b765989b8ad8b1a2
+Mined by szwwucaiwan8
+
+tx 852a6635d65c846495ed0b8e67722db7b44e4deb15fdbf9147b516ea6ac79fd7
+/ViaBTC/Mined by avch2019/,
+
+tx a2222e1d85ede0d68e582fc858e7c606269f5adbfcdcaf3b4d391c1929045705
+Mined by szwwucaiwan14
+
+tx 33c82ab67c8a78c095744fafd3015ed4919c35ef210c4a137b0aa4b04f08f72d
+/ViaBTC/Mined by bumstagomibtc/,
+
+tx 1795f8b2dd6c58e88832750f97b51ed4553fb9cac68e30581efb8543d215bbeb
+/ViaBTC/Mined by bettywu/,
+
+tx f14b58e8a1d897de31a9fe74d0dd7e5b5595633ab6763335b187c5ced46a7adb
+	 /ViaBTC/Mined by akitrademining/,
+
+tx a58f3096e1d1b020dcfc4d184211052639a828832636a1b1592cab5d89d47099
+Mined by atlas02cosc1
+
+tx df40a63b2ed177b7af7428e42f0e947cae5f208f0c0399d7562005445d5fdea3
+/ViaBTC/Mined by bettywu/,
+
+tx c63135c6b5ed876acfc6d64263b26b4fe2f8dcca8430652c8a12986b03ab8aef
+/ViaBTC/Mined by parizat/,
+
+tx 11945cf7d55db6b7b61d4e9fef8ec34aee6b4e18999bb2f6526f80c7d058cdde
+Mined by lhc13988672943
+
+tx 7b34553893e1f4b61e6598b7370b9875cdfd0b77d5ff992e071041d140beff93
+/ViaBTC/Mined by nedwattum/,
+
+tx e019fb11cca57a01c5a9c5023b1ba3191e80a020f9fb9a00c4e1742c93b2084d
+/ViaBTC/Mined by aminhaaa4/,
+
+tx c30330b2fead559c26f249968c10fe84e9c80731602b058b3e7b7cc5864331bc
+/ViaBTC/Mined by plenyik8888/,
+
+tx 887d230ab98a70c8ff055a826c0200a182c7ae3be9d0b461a61c104933dee111
+Mined by szwwucaiwan11
+
+tx 99d93accfed27715ef3b98c6281c0feed00dc2372bafaa1e688a54a3edc2b926
+Mined by limdazhou1985f
+
+tx aebbd57f8e36528ed51078c53679013b7622fe1ce5b7482c4785d3e438529043
+/ViaBTC/Mined by hostaidt17/,
+
+tx 91d8e92db6b51a7e6007e9e8a27de81f6633984b5d62ce81ed2c68583e085556
+Mined by AntPool105N
+
+tx f66115f94e593dae12c2eb09332e38102a114c1d3b962477017a3bddc2a45412
+/ViaBTC/Mined by bigstarmining/,
+
+tx 7df0ce297903d499d90293f4756690bd40beaf3068f4219fb05e87624f40e748
+/ViaBTC/Mined by yaokong1378/,
+
+tx d1b7ceadf78356faeed6adf36944978d64e538d5d4d9e12637eb243165810a7c
+/ViaBTC/Mined by wat88/,
+
+tx e3e55ba786319ff59462ecc8d58c850092b7c5719c840ee8afc4355c9066f0c5
+Mined by ce1cn1ne2020
+
+tx f4e68b8cb6a2c990b4f463d54f81aafdac433d898d4e7e7fc037541c23e9a128
+Mined by mohammad1904
+
+tx ac2e0546b46b0d96fc64e3f51a688349c763d42f69e6c344f31d437dc5cc0fec
+MFRpool.bitcoin.com=4
+
+tx 4002a16f8bc8ad769b74a9fd4dad6f097ccc1467b45fda95330d3c39c1eb44f9
+Mined by fengjiawei19892
+
+tx b46f7050926f5db4dda1b62fde45daf460aee961fc85aa2b87f5cf0f002e2ca6
+/ViaBTC/Mined by yinle/,
+
+tx 521e5698e1b4c2fa6c1c0055e66f732182309a7ea416012edc1305a6d668fb7c
+Mined by szwwucaiwan7
+
+tx a738c08cfe70b380665cdd237d4cfcf7ab7ffda6de01aaaf432f4b2257b77b30
+Mined by bqk200319192029
+
+tx 14f0f77ade1948799f7f8d393b29bf235f0cd77cce7dd1d27a4b862759eafff2
+Mined by giantfinex2
+
+tx 82d91228c8aedb392b8112ae4250004a979da33a6d8364f0e1fb3edf99c70210
+Mined by parallel003
+
+tx 8284d8f6191d2c60c2f364c1205cad52d15d41e614cf3f0f4ad63e1d46f16fbb
+/ViaBTC/Mined by hamidnajafi/,
+
+tx 0738db91b74d9fd27ac8eb985f0598b0e6af479fdb7b6a76f14c0a0ca7f326ce
+/ViaBTC/Mined by cxy4555/,
+
+tx 273281ef115d5d9b568059872e1ab1f4729b5dbefd4828bdc0ef7f3694cf3569
+/ViaBTC/Mined by htvc/,
+
+tx 9f5a2145cbfda5f7986f8643bc225d417a41c8e4ba647233353e923f9613d8fe
+/ViaBTC/Mined by danial7988/,
+
+tx 1e57c5a7a361d2dda73e7e012a9f4fc902f7fb4046b649e6215239a5029dab14
+/ViaBTC/Mined by hamidsha70/,
+
+tx e462f5e93702c498e968156e73394f89770c2a5c9ef7e85d34427c31c2cc6b20
+/ViaBTC/Mined by sajadwolf/,
+
+tx 97606f383e385c131093226961f91f3acb34c0bace149cce480f4c07e93a274d
+Mined by atlas02coyn
+
+tx f3ea68d94e60fd9d642c9f6d95d3b06c3bda2f97766c0101c0e3c945d79b8b4a
+/ViaBTC/Mined by romanakost/,
+
+tx 7c0486a0f6d8ea5252f4b6b8c97d4c16ac2ec4a61e017ea629d1dd1995886336
+/ViaBTC/Mined by a4906/,
+
+tx a1accc772eef84d104b45c725e5de1c048896212ab95bd75829e9a5e26297a27
+Mined by zhundongall2020
+
+tx 2ea1c9296f68de823b470f36005ca2144461151c0f9d1d5432b91a6d74f1171f
+/ViaBTC/Mined by ant8/,
+
+tx 05bd98cbadf96a2f7c528d35295120ad74ac0bac6045f832cd41f70d0b766db8
+Mined by liudajia111
+
+tx dd8c3da57b2d27b896fe6e0af861cd55b1f930468614f36d21b7396417ea5289
+Mined by bqk200114181408
+
+tx f8ed19c4d44fe1467bd33381bb1f52c01a44ebf3b631a9ad61968c17f9c42860
+/ViaBTC/Mined by juzeddy1989/,
+
+tx 6bbea38e6feeb18777381cd0d71eae4b20647bdc59502bad615dae85ab7289db
+Mined by qq852376207
+
+tx 61a3cad80b4c173a58a9b8e15537bcd98728ed5c8dd679ff0611175adc8ec248
+Mined by x13881878789
+
+tx ad9f86b5345bc713d8bb8eee64986f4cfa02230180d0e92b8ef8bc49d8bbf0f7
+^/BTC.COM/Bitdeer/BTC
+
+tx 1d5b8dd145933a30589d5f24623c7b9eeacd4fa51d91406d446553f6c311bc8d
+"Dpool.bitcoin.com=4
+
+tx eadbf437fe69bcba328bdcefdabb1be2b72344f791f33d000c98b1f844a62cd7
+/F2Pool/Mined by emcd
+
+tx a6678c88967411275fa3dca129d4e2aa99ec24c9412e46f45b81fb7d27fe5faf
+Mined by szwwucaiwan12
+
+tx 3ee58b19d6896c96164ec2c8cd9be3c63451466e493259b57226cc2d02bf74a0
+/ViaBTC/Mined by a4906/,
+
+tx 7330354a3087228c8d17ccb2395cf637e3d80e6653d31846671e48239b7cbd8a
+/ViaBTC/Mined by s9019228000/,
+
+tx 6353aa7feea00b2c8c792565be31f87a315c7880e413ea563a1454222e2e9534
+Mined by AntPool105N
+
+tx 794aa639ad137ab9ddf8df8b34ff9aac22144b6e27e55d6da0917d567ac7966a
+/F2Pool/Mined by wc2
+
+tx 307e0915c742dd2f0c7abbbce59e4eec5c8f7efebeefc3e1ca4fac280d0a44eb
+/F2Pool/Mined by emcd
+
+tx c5041cc008a2b7dc556bfe7866401692a10d770c06fea0ac58cc158877e48fc9
+/ViaBTC/Mined by nedwattum/,
+
+tx fe9ff3acaae47590f5d7d8ad58de6fd8486909eea7833df28616e321d30361b2
+Mined by atlas02coxj
+
+tx fef34131f207a7068f69dd7d13b9af46eca7b299005efcef5fcbce174fba67a0
+/ViaBTC/Mined by tvz03209/,
+
+tx 8ccbf2550bc01fbb4ed2f0c291b4246bbd64b7ab3a61a202b776026b4c5c4e93
+Mined by keepwalking1234
+
+tx ee3f4264dbf1c84d6c81831656fa4231a20fc7f862aaeee7d466e32e413f04b5
+Mined by he5m20sm21s
+
+tx 2bc8651e04c7d1a0db6115214d5d335a8d484141ac68b1506fc872709e871d11
+/ViaBTC/Mined by janajol2/,
+
+tx 1b2f00d7ca85d54c524ad8fb4c06c90f692224d642954f75c901fc885fd53292
+/ViaBTC/Mined by eugenepd99/,
+
+tx b2c1e16b01a6ce6fb43f356ea9c10ec243d9901427a07dd5e1020b2c01d288b4
+/ViaBTC/Mined by 13318804666/,
+
+tx 0b81b141eba8e0eb559f21b0e462c083d3a1424bad7d0b0e77e2695b506a5f52
+/ViaBTC/Mined by hubo2019/,
+
+tx 51a999c5adef7edeefb40ea785906501c7705bad6d758484d2e8e5ab09375abc
+/ViaBTC/Mined by fak388/,
+
+tx d390714979de643608c676e65c3142c0d6ff3eed4122c5e76dcfc546902bf4ce
+/ViaBTC/Mined by 0010729585/,
+
+tx 24f28dffe1778d6ada4c3715b51479d9e6b07b003d28ec3e530500c9bd783d24
+Mined by zhundongall2020
+
+tx 5255b051a599f6f9f66b1f4725680c64be946e0623f9f42cf6c36b22520b5df9
+Mined by giantfinex7
+
+tx c0e51f38835218adf02288733267943a4c47cc24d9fe455d496fb502cb943552
+Mined by zhundongall2020
+
+tx 2a9078e6465d812be55f33db74c91a474f4a4b33afa812301ed00b5a769b09ab
+Mined by mpcwakuang1
+
+tx ca4018886c3f660d3d66d547a7010563cd7dd9882c76cfe4785975279276fdcb
+/ViaBTC/Mined by csrectansbtc/,

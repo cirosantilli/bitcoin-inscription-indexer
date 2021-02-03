@@ -1,0 +1,1348 @@
+tx df380568ec64ebf9d41ee00b63049e3d52091e8bc898421be26fd0fd5595c29b
+u=https://cpr.sm/YvFNYl8J4m
+
+tx cbec9ec6c19746e1bbdfaafde69d6d69e8647c2b4fb4cc19a9838461b477bff2
+|u=https://cpr.sm/Frix1E9bzQ
+
+tx f587ffc8099ea7b2abd9111b2e26c47127a4a6eff713b6f1dd3f1d0fcac097d6
+F"Investment on shares of t
+
+tx 24950db7c41bae0b250f138b19712a013cc9550fbacfe4d7095219376f796613
+Torduckin0 - http://X
+wx3wmh767azjjl4v.onion/
+
+
+tx bf285dacc353afed861484c472b5c64d918dde0e3d8fb137640dcf060f212a76
+u=https://cpr.sm/y3LcONmuFQ
+
+tx 159cee82602ce37d382b721862ee7fbae3f9e2c369206eaf4d6bea5dc799ac75
+)Crypto-Rewards Program ht
+
+tx 1acda904e7e08d9208fc3dd60ae456b2935aff3ba6509ef178deacf5fe43bc8f
+\u=https://cpr.sm/8Sw9h-hrnb
+
+tx 42534dbda92a4e32eb329c418c500ae581374b50e45aa64289ef924b5309b227
+u=https://cpr.sm/uKZDjTIDtCX
+
+tx 7f43da385bb5db523a0cc706ad9d1452a6c93225db6cd27631040f7914c964e2
+ 5248A5C1D9E606DE22408A7730B10873702968B913C82E3690E2CAB3636A
+
+tx 403c9e95590d4fa80758c2fc881d72d8d1616bcd93760944cbb62fcb84f82e5e
+R	PedroHDA_welovU_AAAD
+
+tx 8415623c2b791384f0905234c10c2a302d68d031da7abba8149c7ff8d85e7051
+*169<<h1><a href="bong-ball.html">BONG</a> 
+ (0.2)</h1><p>
+<h1><a href="../062990d54045a9c316110fb713009d1313b2f64c4b216d66891c7284d6c1ca0e/bong-ball.html">GO BACK</h1><p>bong-ball.html\15315?
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>BONG 
+ (0.2)</title>
+    <meta charset="utf-8">
+    <style>
+
+</style>
+
+</head>
+
+<body>
+    <center><h1><a href="../062990d54045a9c316110fb713009d1313b2f64c4b216d66891c7284d6c1ca0e/bong-ball.html">BONG</a> </h1><p><!--#include file="..\broadcast\global-tweet.ssi" --><p>
+		 <script src="../f5e8166c30fd080f9c5f0ab79a57b058e0d31364f8064f39badddff2675f754b/jquery.min.js"></script>  
+            <script>
+
+                $(document).ready(function () {
+
+                    //BEGIN LIBRARY CODE
+                    var x;
+                    var y;
+                    var dx;
+                    var dy;
+                    var WIDTH;
+                    var HEIGHT;
+                    var ctx;
+                    var playerOnePaddle;
+                    var playerTwoPaddle;
+                    var paddleh;
+                    var paddlew;
+                    var intervalId;
+                    var playerOneDown = false;
+                    var playerOneUp = false;
+                    var playerTwoDown = false;
+  
+
+tx 49203bb506a365d1e856e6e216c0139828a77ba39a46fed05b810b3e4b0a06e2
+                  var playerTwoUp = false;
+                    var radius = 10;
+                    var playerCount = 1;
+                    var playerOne = 0;
+                    var playerTwo = 
+
+tx 9ab04266026c2c238a4fff4d168a92b054e0bbdb3739cf39d09245fb2fc64c3a
+0;
+                    var pause = true;
+                    var dazzle = false;
+                    var imageObj = new Image();
+
+                    var canvas = document.getElementById('myCanvas');
+
+                    //Handle various key down events7'K
+                    function onKeyDown(evt) {
+                        if (evt.keyCode == 40) playerOneDown = true;
+                        else if (evt.keyCode == 38) playerOneUp = true;
+                        else if (evt.keyCode == 90 & playerCount > 1) playerTwoDown = true;
+                        else if ((evt.keyCode == 65 || evt.keyCode == 81) & playerCount > 1) playerTwoUp = true;
+ 
+
+tx 43cbd29a465b3b0814f0259132840b09a2cd2997810b719f7e6f8d861071eb55
+                       else if (evt.keyCode == 32) pause = false;
+                        else if (evt.keyCode == 48) dgazzle = true;
+			else if (evt.keyCode == 66) radius = 1 + Math.floor(Math.random() * 50);
+                        else if (evt.keyCode == 49) playerCount = 1;
+                        else if (evt.keyCode == 50) playerCount = 2;
+        
+
+tx 37050aaa92575139723f852b857367d93fc576da4b3f15ad602ff2587a0daa7c
+5t                else if (evt.keyCode == 51) playerCount = 3;
+                        else if (evt.keyCode == 13) {
+                            playerOne = 0;
+                            playerTwo = 0;
+                            clearInterval(intervalId);
+			    ctx.fillStyle = '#000000';
+			    radius = 10;
+   
+
+tx 98748a493a215ce5afa9ae66dd1cb9a7ca6b3e1da9c7ec0bf1da6eaab059531e
+                    3     init();
+                        }
+
+                    }
+
+                    //and unset them when the key is released
+                    function onKeyUp(evt) {
+    
+
+tx ab978efcde2bbd1026b6f0c938c58d8b353f0b23cac68539ff4ed7aa341547bb
+                    if (evt.keyCode == 40) playerOneDown = false;
+                        else if (evt.keyCode == 38) playerOneUp = false;
+                        else if (evt.keyCode == 90 & playerCount > 1) playerTwoDown = false;
+                        else if ((evt.keyCode == 65 || evt.keyCode == 81) & playerCount > 1) playerTwoUp = false;
+                        else if (evt.keyCode == 48) dazzle = false;
+
+
+tx 52a59f96d208a61275af2ef98f699592b4cf9991bbd103c121d02bf2bc005cc0
+
+                    }
+
+                    $(document).keydown(onKeyDown);
+                    $(document).keyup(onKteyUp);
+
+                    function init_paddles() {
+
+                        paddleh = 75;
+  
+
+tx 23ff6523d6dca1330101cc0d0f6df063f8c70af354fd9ec9f07c520e8c9a83ea
+/k                      paddlew = 20;
+   
+
+tx 2637a713768d21123c91edbf5c89f103c4566d4bf722f3d8fada39b8286bd20c
+                     playerOnePaddle = HEIGHT / 2 - (paddleh / 2);
+                        playerTwoPaddle = playerOnePaddle;
+
+
+                    }
+
+
+                    function init() {
+  
+
+tx af9a895cd3c19a734c1a17df94abbe08fe804d2cc1e8f676a9b8f3b4b45cc083
+                      ctx = canvas.getCo=
+*ntext("2d");
+	                canvas.width = window.innerWidth - 100;
+			canvas.height = window.innerHeight - 150;
+  
+
+tx 09467109c67218969bf893f773de8d853c7c71d69cd01c8c3e6485ac2642f64b
+                      WIDTH = canvas.width;
+                        HEIGHT = canvas.height;
+                        init_paddles();
+                        
+                        dx = 1 + Math.fA
+loor(Math.random() * 3);
+
+                        if (playerOne > playerTwo) {
+                            dx = -dx;
+
+tx 3be2f2604215024caa7d952b28f89f9bd540dff68c9606a834162a0dfdbb45d1
+
+                            x = WIDTH - paddlew - radius;
+                    
+    }
+                        else {
+ 
+
+tx 93459f7a0279d7a67ceb5d059d8bcdc4bab7c6603c8ceda1500b826aa745d7ad
+H                           x = paddlew + radius;
+                        }
+
+ 
+
+tx aa6cb17e2c966b5993d72322878908d8457cba4e2dab54536a1b70887778e2e2
+S                       y = HEIGHT / 2;
+
+tx 95eee7d1c94f419368b7d717f57db71d3acd695230ce3ff3c107c75fb28e48d9
+                        dy = Math.floor(Math.random() * 9) - 4;
+                        if (dy == 0_S
+) dy = 1;
+
+                        playerOneDown = false;
+                        playerOneUp = false;
+                        playerTwoDown = false;
+                        playerTwoUp = false;
+
+tx 270da939ee108c75c3020cd81400691efe1804a306281afd9131066ecfd5ddee
+
+                        intervalId = 0;
+                        ctx.font = "30px Arial";
+                        intervalId = setInterval(draw, 2 + Math.floor(Math.random() * 4){0
+);
+
+
+                    }
+
+                    function drawImage(imageObj) {
+                        var imageWidth = imageObj.width;
+                        var imageHeight = imageObj.height
+
+tx 1b6bae99058514458385a6f07f131015c78b5343742d4de956baa4eca1d58998
+;
+                        var imageX = (WIDTH / 2) - (imageWidth / 2);
+                        var imageY = (HEIGHT / 2) - (imageHeight / 2);
+                        ctx.drawImage(imageObj, imageX, imageY);
+                    }
+
+
+                    imageObj.src = '../062990d54045a9c316110fb713009d1313b2f64c4b216d66891c7284d6c1ca0e/bitfossil.png';
+
+
+                    function circle(x, y, r) {
+                        ctx.beginPath();
+                        ctx.arc(x, y, r, 0, Math.PI * 2, true);
+                        ctx.closePath();
+q
+
+tx c0bdc51505d5097606954c90e81338d9abfdba41315bdaa8d4950a40421604a5
+                        ctx.fill();
+   
+
+tx 085ad9431188f0623873cd2bb500e698a2fd39515b4f4fe3af3bcb1108abc036
+                     
+                    }
+
+                    function rect(x, y, w, h) {
+   x
+
+tx 2f224d593e318fda3b8a76c0aced2d24ed2401bca1973ee8c510ef1d64e3603f
+                    AJ ctx.beginPath();
+ 
+
+tx ae2598d69b3b4810a5e26ce4f038d1c73a33ef852ad134de886ea481251f9952
+                       ctx.rect(x, y, w,_}eJ h);
+                        ctx.closePath();
+                        ctx.fill();
+                    }
+
+                    function clear() {
+                        ctx.clearRect(0, 0, WIDTH, HEIGHT);
+
+                    }
+
+                    function playerTwoBallAI() {
+
+                        if (x <= WIDTH / 2 & dx < 0) {
+                            //randomly pick number beteween 0 and 1
+     
+
+tx 9736e4028510be6bfb8c10dd329fd3b10832dc4d42375722cb77c62473d2b4fd
+                       var delayReaction = Math.random();
+[
+>
+                            //25% chance of reaction delay
+
+tx bcc9f77cd570468351758e503adf34a1e6b9a37662ea1c1f5099b74ef52c5cb6
+
+                            if (delayReaction >= 0.25) {
+
+
+tx e14a12acde2130de252eb37fe4f906f13e9bb2354c36de7df05c1d59960efeeb
+
+                                if (y > playerTwoPaddle + paddleh) {
+                                    if (playerTwoPaddle + paddleh + 5 <= HEIGHT) {
+     
+
+tx ae1f5e5a90194cca78b3cea3c01e951b76074ec567387f20294cac515b9f572f
+                                   playeK
+jrTwoPaddle += 5;
+  
+
+tx 2191add956add6f70315220af4fa2a265e3f2f21e16f02662594e944b763dbba
+                                  }
+   
+
+tx 329d78c6c08237a8059aa42953d97c3f2199184dc600534b358df3f561451065
+                             }
+
+      
+
+tx cb8277ff9c0ff65461e5121ea33be43e456511630eea392c953a0a4a76091c0e
+                          else if (y < playerTwoPaddle) {
+ 
+
+tx 94273164bc7249dc1be99b169c57c0416d0e531f1dbbcadee563213a80cd1ab7
+                                   if (playerTwoPaddle - 5 >= 0) {
+            
+
+tx 562abc5e81d4c3b95a051649dd2a634ffcb7c76e5611b9134dba4ea95b04f6e1
+                            playerTwoPadv3s;&dle -= 5;
+         
+
+tx 897834523b3bf8e5052ce297dd5668b3469c2b13915d13f2e704d46ad705b243
+                           }
+          
+
+tx 63daeb21aaafd5b17f2b61f2a4e2073802129c6b6fdddf597a483257ae92355c
+                    g  }
+
+                                else {
+
+           
+
+tx ca00e9c4204be88fba1c0305921b007cefb4f5414e50e26097aa9cbabd87fcee
+                         var centerPaddle = Math.random();
+
+                                    //80% chance of better centering the paddle
+                                    //otherwise the paddleAI will most of the times
+            
+
+tx d685a0b83b2d6e6c24f09f1590cce85839a53bc53e21c550a6823a80639c0c42
+                        //hit the ball in one of its extremities
+              
+
+tx 5a678abdd2f95f29e62e3a1e9aea6d4f24bd1ce22f19dac58029d38197aa1889
+                      if (centerPaddle > 0.20) {
+
+        
+
+tx d4db1d4f54553492bc602b8a304b3a2eae896295ae94c3b0c92c0d76283c1572
+                                //if ball closer to up side (e%Hof computer paddle
+
+tx 4822794e028d3d3afd4d70f974a8b038ed4ba9ef4ac3ef38dea39b31d03f58c2
+II                    
+
+tx 3109f8a7379cc4b95d609468a4f623d32e66f9d6cba06338fd00dbb2ba5ceb40
+                    if (Math.abs(y - playerTwoPaddle) < Math.abs(y - playerTwoPaddle - paddleh)) {
+
+tx 2d93c0fe7a2c0df9621bc34b9921c4a1f6ffaa4be03b478074d2ace4927b2dba
+                    
+
+tx 1a118cc4a5d44dcf04820c3aa28cca4d0933eb756aa4bbb9996534738803b9df
+                        if (playerTwoPaddle - 5 >= 0) {
+   
+
+tx 42a9b6956d7c66cf49465cd7ba8156470c8d306069b85ae7689cbc14b6d4fc1b
+                    
+
+tx e565c8c064d0bc7fbbb5e852b057f53d32cde9494101b166da787559e1be633b
+                         playerTwoPaddle -= 5;
+            
+
+tx 805984e2e95c9d5db0d094d20498d6c571a13b98a7b400adf713b5a2cae553ae
+                                }
+     
+
+tx 54a9a8c0c9b0f67254070687222c8ebd11dce6c40fecd3d23c4d63d49f6774af
+                                   }
+
+
+tx a46fd5cd5bfc1f2c5f2034b249c7eba3516052e3c7d294f82d8f68a8802a6973
+                    
+
+tx d56c85cf3dfc4182e550da6314f5c096c3d585816e276b9d7d38ee8ed474bfc9
+                    else {
+            
+
+tx 99867abf68c9638a67fff6567ad3ef42a5738cddc05a9dd3d44544d2abfbadbf
+                                if (playerTwoPaddle + paddleh + 5 <= HEIGHT) {
+
+tx ef68646c619c6740e3194b04a8d31f7f672953c3e8d179321ffca30d009c0e69
+                    
+
+tx 962de646dbefbe15ee16e1457701c31991478646ee497e431db5b543999764a0
+                            playerTwoPaddle += 5;
+         
+
+tx f112b9293e22d8fe001e48c908ff66a26d943bcdb7dd207ab5b7644a481e26aa
+                                   }
+  d
+
+tx e418faac3a902396ee8046ec80bfb93575d2ad6c72e62156499f77c028fda35d
+                    C
+                  }
+                                    }
+
+                                }
+
+ 
+
+tx aa72ccd9627d27b1cad543c5b555e05ac59d52520ce67df58470e66a5641707f
+                           }
+                        }
+
+ zq
+U                   }
+		    
+		    function playerOneBallAI() {
+
+                        if (x >= WIDTH / 2 & dx > 0) {
+                            //randomly pick number beteween 0 and 1
+       
+
+tx 06bd293b57172438d44bab0cc566e366f4fc9e0c69bef3b9a4fef90a931e753c
+                    !g
+ var delayReaction = Math.random();
+
+ 
+
+tx a039e679e799a01fddea09c9d21cfd3373f70ef1cfe78ae3f20e3078fd808a2f
+                    PfZ
+7'TZF       //25% chance of reaction delay
+ 
+
+tx d6cb4bfed3e0c87452af7f0e8995421902c0c0d8de4c85fbcd5ed4a00a459402
+                           if (delayReacZtion >= 0.25) {
+
+ 
+
+tx cc9c1f5fbfaefb9bda6bdee9886553028749d5a16f9cb5c394f81e226927f44e
+$                               if (y > playerOnePaddle + paddleh) {
+           
+
+tx ec02ff47cffcecc7fd2bcb13c00fee084c4d46bcfb01b7fde0333efadb3958e7
+                         if (playerOnePaddle + paddleh + 5 <= HEIGHT) {
+       
+
+tx d5478c1638972c11c918d0fb867b9daa98b06260c07b37346683898c55140c92
++//1                                 playerOnePaddle += 5;
+    
+
+tx 2f2a2ba3442fa3f1754105eb696884fd3e3787fdf76c39abd60ce3aac1132ab7
+                                }
+     
+
+tx 56f602d072c3404e29bafb7cd1b24b7e77789638d3ba84441a4ebabaa8037fda
+                           }
+
+        
+
+tx 7de25d4aa52ac66e9a25e6de65dfe8bd1c4422191d7d0f333aa31b6726d0b5d7
+                        else if (y < plaZ
+yerOnePaddle) {
+   
+
+tx a54fd7b6dd441eed49d29677c6ce31633f083df4ebfbae68e62387e1ee538387
+`o                                 if (playerOnePaddle - 5 >= 0) {
+              
+
+tx dc914ebfac92bf76d9d6dbd32391bc0a737f93f00dbc3aabfeceda2d44c08747
+                          playerOnePaddle -= 5;
+           
+
+tx eb552cb70b5acab1f8d36cd974d6d32c2fd5fe4130814d7680e76f84fb48d4bb
+                         }
+            
+
+tx 3aa8d78fb07c20087013bf53c9bf7f94f821472e6003caf5e0a9a0df375adb89
+                    }
+
+                                else {
+
+             
+
+tx 9caa8269ade3ba2160d8e165b3c25316b573337c0bc5b26e05adb7cd82b1894c
+                       var centerPaddle = Math.random();
+
+
+tx ba7c1fad0e931be1b4790e7d438248609902ae137a691003110e8ee003cff2fd
+                                    //40% chance of better centering the paddle
+                                    //otherwise the paddleAI will most of the times
+              
+
+tx 71e1f2afbab260f63cc66f90865534921e778274e19e4db7d71315963c9151f0
+                      //hit the ball in one of its extremities
+                
+
+tx efb9aae2733f247768cf07414bf489812657c3b85adc291af01f177264351b81
+                    if (centerPaddle > 0.60) {
+
+          
+
+tx 74ec52ca8d36aea2c83d8b83f2cdc3b93ab140c241e120c6635a0f6ca624205d
+                              //if ball closer to up side of computer paddle
+  
+
+tx 54d024e6971f62e02f93f63ccacfa091a0a5675ec1fffd60592b44801c1d7893
+                                      if (Math.abs(y - playerOnePaddle) < Math.abs(y - playerOnePaddle - paddleh)) {
+  
+
+tx 83158c554924ddd424779169e696800aa0d628c36899d253acb949033c5a1e43
+                    H
+
+tx 3ce2d634b38435bdeadd0bc7ddc4523ea486140fd0add7bb0c44e1dc53facf19
+                      if (playerOnePaddle - 5 >= 0) {
+     
+
+tx b96bc87ce79bf0b8f94416c87a91309a69dc0f2eb05d1e6f4c09b4eaafc1e653
+/                    
+
+tx 4d20d3e159e97056251de5d5d1dae0322da5ba17a4b7beb010930d4c6d352866
+                       playerOnePaddle -= 5;
+              
+
+tx d9c6cd82279090375d8edf208cf6b51e8bd8b6b6efd74d18187b36f021766b87
+                              }
+       
+
+tx 59d03ef0eb3ddc864a2168e69900623130639d40eab80a072bc0bd912ded7e4a
+@{J                                 }
+
+  
+
+tx 3be20e658a4a3ab341f63ee92ea1625651d559d2895ff3eb6a07112885384d07
+                                      else {
+              
+
+tx bf627abbe1f2ad1ac689a19c30b40331f66cac13bf8af492cbb381c928309ac2
+                              if (playerOnePaddle + paddleh + 5 <= HEIGHT) {
+  
+
+tx e2b227aa83a5c7081076bd91422afadb46f29cf69e360f17747925486980339f
+                    h
+
+tx cfbbe26225857b8369ff4ca4f140fca6f4a86fc401459b7e224a4c00647bbe65
+                          playerOnePaddl0
+e += 5;
+           
+
+tx 5d6786d037c89d12fcdad2ec96a70e080bd2cea72e38cf214e3111806bcf3e3e
+                                 }
+    
+
+tx b8e45c3c14b85ed07d3fdf9cb450002fe2498f82accad71b628efc77de400c50
+                                    }
+ 
+
+tx fc9df6d58f292041c598e1f25146ed577d14ea45d555ad67c07b8241c8adbf74
+A                                   }
+
+
+tx 3e26f8db92472f0bb9f153b9ffadff403b8cd9ee950f22179348115d126fa204
+                                }
+
+   
+
+tx 4342ed6d4474c30638bf63d192439dc5495c2140eb4198f9f99327c327f37733
+                         }
+                        }
+
+                    }
+
+                    function drawSideLines() {
+                        ctx.beginPath();
+                        ctx.rect(0, 0, WIDTH, 10);
+                        ctx.closePath();
+                        ctx.fill();
+
+                        ctx.beginPath();
+                        ctx.rect(0, HEIGHT - 10, WIDTH, HEIGHT);
+                        ctx.closePath();
+                        ctx.fill();
+        
+
+tx 8b22a8f840b95d6e5b7d0534e9fb0bb5f9663813c24543870c65e707e2a36ef0
+            }
+
+                    //END LIBRARY CODE
+
+                    function draw() {
+                        clear();
+                       	if (dazzle) ctx.fillStyle = 'rgba(' + (1 + Math.floor(Math.random() * 256)) + ', ' + (1 + Math.floor(Math.random() * 256)) +n
+ ', ' + (1 + Math.floor(Math.random() * 256)) + ', 1)'
+    
+
+tx cfa7051a1ad393d98089f217927f6748ef023eb1cbbf0b841fd420d12b661861
+                    circle(x, y, radius);
+                        drawImage(imageObj)
+                        ctx.fillText(playerTwo, (WIDTH / 2 - 70), 50);
+
+tx 30b61b0a80950a61a27f4ea55486f647524692159c4651f2db65990d9b5ed27b
+                        ctx.fillText(playerOne, (WIDTH / 2 +x
+ 55), 50);
+
+
+    
+
+tx 78a672776cc6e15bd55675516385637edcfe925ab51fce8bde20ea7a2184802b
+                    //move the paddle if8
+ up or down is currently pressed
+
+    
+
+tx 469fa6a6c6ae9d6162ceae5ada8767c171ad4ead736159c91bae02148b46e65d
+                    if (playerOneDown) {=Y
+z$
+                            if (playerOnePaddle + paddleh + 5 <= HEIGHT) {
+  
+
+tx e67b0a9ae9db24c33b9a397d096985c99f0e7f47d3a9c184eee05fd8c8b8fa30
+                              playerOnePaddle += 5;
+       =m1
+
+tx 6a5d013d33e2a500c63ab90ff8c8ba1710c427616b20bda286b49f5fb5942923
+                     }
+                        }
+
+                        else if (playerOneUp) {
+                            if (playerOnePaddle - 5 >= 0) {
+                 "<Ha
+`V^T               playerOnePaddle -= 5;
+  
+
+tx 9ffab9fcb520ee7e7c87f43b0e2f6aba2a0c2b12a8cea74d58ec797ea13868c7
+                          }
+                        }
+
+  
+
+tx ec9963e19cef0030ab48aac6cd2e530ef4aca7d6d5f6b25ebb7f83ffab52828c
+                      if (playerTwoDown) {
+                yP
+<            if (playerTwoPaddle + paddleh + 5 <= HEIGHT) {
+
+tx bbf3d6dd346b7e49eb59fb6d79d41f457e64e4b6c65e03af3eb4433a40573d6a
+                                playerTwoPaddle += 5;
+     N
+
+tx 11e21260d03c6d7f0e7846246fe06b3136f07e8e7e1c5832f6f049a366c4c91a
+                       }
+                        }
+
+                        else if (playerTwoUp) {
+                            if (playerTwoPaddle - 5 >= 0RZ
+) {
+                                playerTwoPaddle -= 5;
+
+tx 4719b2c65d3a79c1e20bf37b5fd13199d6e892363fe432fda4236201eb05b899
+                            }
+         Q               }
+
+
+tx 563266dd8be0b7fda91ff8d9a9b57f5c7296f787c9de3584158e4bb1879dd848
+                        if (pause) {
+  
+
+tx d1db3c2b7de5655984dae4d9a5073f1d11954afca3556404b6c1b61157d428dc
+                          if (playerOne > playerTwo) {
+    
+
+tx d2bcc9cc92cb97f8e669b57a4697d19f348e5c3189a87df14ebb4b1896f50c49
+                            y = playerOnePaddle + (paddleh / 2);
+              d
+              }
+   
+
+tx 135fd2952664199f5e14d2feb67ee133d3978f8154e5e7826ec3c6877ef65d2a
+                         else {
+       
+
+tx 1b0be4ac5e2f35bc0ca7e1cf9ffdecb14b70375eae83a43bdd93ca075546bb7a
+                         y = playerTwoPaddle + (paddleh / 2);
+                            }
+                        }
+
+
+                        if (playerCount == 1) playerTwoBallAI();
+                        if (playerCount == 3)
+			   {
+			    playerOneBallAI();
+			    playerTwoBallAI();
+			   }
+
+                        drawSideLines();
+                        rect(WIDTH - paddlew, playerOnePaddle, paddlew, paddleh);
+   
+
+tx 8213e3cc94be9f04444c36b43c68b61669fc8092227388297012cbdaabf7a4a1
+                     rect(0, playerTwoPaddle, paddlew, paddleh);
+
+                        if (y + dy + radius > HEIGHT || y + dy - radius < 0)
+                            dy = -dy;
+
+                        //left lane
+                        if (x + dx - radius < paddlew) {%
+
+
+                            if (y <= playerTwoPaddle - radius - (paddlew / 2) || y >= playerTwoPaddle + paddleh + radius + (paddlew / 2)) {
+                                if (playerCount <3)pause = true;
+         
+
+tx 60776e05489b057f26e8ab62995389223a5d4d7bd3bd58c4f747994f10c21be6
+                       playerOne++;
+   
+
+tx f8c35c68eea4f52743a2e054475b0623e49cc43dc3b573df6d2baa9cc5d4ef18
+                             clearInterval(intervalId);
+   
+
+tx be5d794366330b954204c423673e66f3a45c9d1bcb621eb3087b8027a0f2a378
+                             init();
+
+
+
+                            }
+
+   ~u
+
+tx 344af170c6f07764c85f9a5804a572028f94b34df889e537d276ce54b53543ce
+                    m     else {
+       
+
+tx 7300c1b46b4ccc01a05a12bba2c96fe0718ab6b4d0dde66e04d72675ba2fcf42
+                         dx = -dx;
+    
+
+tx b1085edd8d6c8003c68d02c5648164572e774af04d88ce28c3ed2c52fa8d276a
+                        }
+
+           1
+V             }
+
+  
+
+tx 4c2212e5ef4fa1f12de1e9b7062a1ba6506b2c7066c2faadeb1e1dc68f0b0728
+{                          //right lane
+
+tx 57216b466d317392cb2e3682a7b97b8a48ddd9b72221abb7682a5af6808e6577
+                        else if (x + dx + radius > WIDTH - paddlew) {
+
+       
+
+tx 01d06b9fb5cccf94973db5b06014918a50beb4f251e2fd0a3d2dadf8b13e0590
+rcounterfeitbitcoin.com
+
+tx 9242bae27b0a8eb5937f36988ddea6e817a12670f2af5e51d995149d3a3dd99b
+rcounterfeitbitcoins.com
+
+tx b0a4b0828721ca6c18b739d78caca18a7d42458a4b0ccd5f0a3cda348bc150e6
+rcounterfeitbitcoin.com
+
+tx d9b17ae54e29a83676a8bab9302a7bd9f185e128b8de4e52347b0f63ca2b9241
+u=https://cpr.sm/LhbWUy9pCs
+
+tx 09c7277e8fc0bcbb505eaace538b69e6b4a4363bedc0e3a0a2dd32a43ceeebaf
+See:www.btcsouk.com/
+
+tx 10a72fb51ae6276431c2faeabbdbb00c2c27e72b4095c1b907964fc19c7a51be
+u=https://cpr.sm/g8JRaPF9q3U
+
+tx b3e823308dcc95431c09efb6686329499d485dbdbe16441c201e917d61d8d4bf
+u=https://cpr.sm/dCYmjtbhNd\%
+
+tx 23f8ba3a2394a01307a89224d3f9ce6d7a17788ee989870aca892990812b947f
+                     if (y >= playerOnePaddle - radius - (paddlew / 2) && y <= playerOnePaddle + paddleh + radius + (paddlew / 2)) {
+      @@
+
+tx 425a5f0024f8aa7838d4b23cd4d21651ee24d75d26b4ed62c8974364c4e26d51
+                          dy = 8 * ((y - (playerOnePaddle + paddleh / 2)) / paddNa
+aleh);
+                                dx = -dx;
+                            }
+
+                            else {
+ 
+
+tx faef20a9e3803e1bfc68b759c52ca2bfc8076b1fec8f15fca8526fb86f8e4003
+                               if (playe/rCount < 3) pause = true;
+                                playerTwo++;
+       
+
+tx 40736721a2f7d220d4326a233a00da0b2631966f13e410bd3f02183ca400b36a
+                         clearInterval(intervalId);
+       Y(
+
+tx 563f442e51ce5e284ee98e9d204e19443c0491c1dadecfdd4878afb58e64b255
+                    Djy     init();
+
+
+  
+
+tx 6e896f349bfde1823a9e1c5e14d28a6e41c866896a60c7cd9580659ca71bd0d6
+                          }
+           a             }
+    
+
+tx acabf8f07855cfb001055eccd3d9e485ee4a31c208dbc25b5636c86f0f78a439
+                    if (pause == false) {
+                  L
+	           x += dx;
+                            y += dy;
+ 
+
+tx c22c9b2e629f816d8d85241caa145ba8aa21aef34ab5c8d5001f1e8909f4dbdd
+                       }
+                    }
+
+         s           init();
+
+
+
+                });
+            </script>
+             
+            <canvas id="myCanvas" width="700" height="500"></canvas><p>
+</center>
+</body>
+</html>
+uRJB716Hu
+
+tx 186c6fd66d1476c2047c4ea6d32891130a43d87cadbeef399dabba5321833827
+8415623c2b791384f0905234c10c2a302d68d031da7abba8149c7ff8d85e7051"7986/8415623c2b791384f0905234c10c2a302d68d031da7abba8149c7ff8d85e7051
+49203bb506a365d1e856e6e216c0139828a77ba39a46fed05b810b3e4b0a06e2
+9ab04266026c2c238a4fff4d168a92b054e0bbdb3739cf39d09245fb2fc64c3a
+43cbd29a465b3b0814f0259132840b09a2cd2997810b719f7e6f8d861071eb55
+37050aaa92575139723f852b857367d93fc576da4b3f15ad602ff2587a0daa7c
+98748a493a215ce5afa9ae66dd1cb9a7ca6b3e1da9c7ec0bf1da6eaab059531e
+ab978efcde2bbd1026b6f0c938c58d8b353f0b23cac68539ff4ed7aa341547bb
+52a59f96d208a61275af2ef98f699592b4cf9991bbd103c121d02bf2bc005cc0
+23ff6523d6dca1330101cc0d0f6df063f8c70af354fd9ec9f07c520e8c9a83ea
+2637a713768d21123c91edbf5c89f103c4566d4bf722f3d8fada39b8286bd20c
+af9a895cd3c19a734c1a17df94abbe08fe804d2cc1e8f676a9b8f3b4b45cc083
+09467109c67218969bf893f773de8d853c7c71d69cd01c8c3e6485ac2642f64b
+3be2f2604215024caa7d952b28f89f9bd540dff68c9606a834162a0dfdbb45d1
+93459f7a0279d7a67ceb5d059d8bcdc4bab7c6603c8ceda1500b826aa745d7ad
+aa6cb17e2c966b5993d72322878908d8457cba4e2dab54536a1b70887778e2e2
+95eee7d1c94f419368b7d717f57db71d3acd695230ce3ff3c107c75fb28e48d9
+270da939ee108c75c3020cd81400691efe1804a306281afd9131066ecfd5ddee
+1b6bae99058514458385a6f07f131015c78b5343742d4de956baa4eca1d58998
+c0bdc51505d5097606954c90e81338d9abfdba41315bdaa8d4950a40421604a5
+085ad9431188f0623873cd2bb500e698a2fd39515b4f4fe3af3bcb1108abc036
+2f224d593e318fda3b8a76c0aced2d24ed2401bca1973ee8c510ef1d64e3603f
+ae2598d69b3b4810a5e26ce4f038d1c73a33ef852ad134de886ea481251f9952
+9736e4028510be6bfb8c10dd329fd3b10832dc4d42375722cb77c62473d2b4fd
+bcc9f77cd570468351758e503adf34a1e6b9a37662ea1c1f5099b74ef52c5cb6
+e14a12acde2130de252eb37fe4f906f13e9bb2354c36de7df05c1d59960efeeb
+ae1f5e5a90194cca78b3cea3c01e951b76074ec567387f20294cac515b9f572f
+2191add956add6f70315220af4fa2a265e3f2f21e16f02662594e944b763dbba
+329d78c6c08237a8059aa42953d97c3f2199184dc600534b358df3f561451065
+cb8277ff9c0ff65461e5121ea33be43e456511630eea392c953a0a4a76091c0e
+94273164bc7249dc1be99b169c57c0416d0e531f1dbbcadee563213a80cd1ab7
+562abc5e81d4c3b95a051649dd2a634ffcb7c76e5611b9134dba4ea95b04f6e1
+897834523b3bf8e5052ce297dd5668b3469c2b13915d13f2e704d46ad705b243
+63daeb21aaafd5b17f2b61f2a4e2073802129c6b6fdddf597a483257ae92355c
+ca00e9c4204be88fba1c0305921b007cefb4f5414e50e26097aa9cbabd87fcee
+d685a0b83b2d6e6c24f09f1590cce85839a53bc53e21c550a6823a80639c0c42
+5a678abdd2f95f29e62e3a1e9aea6d4f24bd1ce22f19dac58029d38197aa1889
+d4db1d4f54553492bc602b8a304b3a2eae896295ae94c3b0c92c0d76283c1572
+4822794e028d3d3afd4d70f974a8b038ed4ba9ef4ac3ef38dea39b31d03f58c2
+3109f8a7379cc4b95d609468a4f623d32e66f9d6cba06338fd00dbb2ba5ceb40
+2d93c0fe7a2c0df9621bc34b9921c4a1f6ffaa4be03b478074d2ace4927b2dba
+1a118cc4a5d44dcf04820c3aa28cca4d0933eb756aa4bbb9996534738803b9df
+42a9b6956d7c66cf49465cd7ba8156470c8d306069b85ae7689cbc14b6d4fc1b
+e565c8c064d0bc7fbbb5e852b057f53d32cde9494101b166da787559e1be633b
+805984e2e95c9d5db0d094d20498d6c571a13b98a7b400adf713b5a2cae553ae
+54a9a8c0c9b0f67254070687222c8ebd11dce6c40fecd3d23c4d63d49f6774af
+a46fd5cd5bfc1f2c5f2034b249c7eba3516052e3c7d294f82d8f68a8802a6973
+d56c85cf3dfc4182e550da6314f5c096c3d585816e276b9d7d38ee8ed474bfc9
+99867abf68c9638a67fff6567ad3ef42a5738cddc05a9dd3d44544d2abfbadbf
+ef68646c619c6740e3194b04a8d31f7f672953c3e8
+
+tx 01baa004a2cd210313f863ca853039d8e8ba5364687c3e301ab21b91230c79cd
+d179321ffca30d009c0e69
+962de646dbefbe15ee16e1457701c31991478646ee497e431db5b543999764a0
+f112b9293e22d8fe001e48c908ff66a26d943bcdb7dd207ab5b7644a481e26aa
+e418faac3a902396ee8046ec80bfb93575d2ad6c72e62156499f77c028fda35d
+aa72ccd9627d27b1cad543c5b555e05ac59d52520ce67df58470e66a5641707f
+06bd293b57172438d44bab0cc566e366f4fc9e0c69bef3b9a4fef90a931e753c
+a039e679e799a01fddea09c9d21cfd3373f70ef1cfe78ae3f20e3078fd808a2f
+d6cb4bfed3e0c87452af7f0e8995421902c0c0d8de4c85fbcd5ed4a00a459402
+cc9c1f5fbfaefb9bda6bdee9886553028749d5a16f9cb5c394f81e226927f44e
+ec02ff47cffcecc7fd2bcb13c00fee084c4d46bcfb01b7fde0333efadb3958e7
+d5478c1638972c11c918d0fb867b9daa98b06260c07b37346683898c55140c92
+2f2a2ba3442fa3f1754105eb696884fd3e3787fdf76c39abd60ce3aac1132ab7
+56f602d072c3404e29bafb7cd1b24b7e77789638d3ba84441a4ebabaa8037fda
+7de25d4aa52ac66e9a25e6de65dfe8bd1c4422191d7d0f333aa31b6726d0b5d7
+a54fd7b6dd441eed49d29677c6ce31633f083df4ebfbae68e62387e1ee538387
+dc914ebfac92bf76d9d6dbd32391bc0a737f93f00dbc3aabfeceda2d44c08747
+eb552cb70b5acab1f8d36cd974d6d32c2fd5fe4130814d7680e76f84fb48d4bb
+3aa8d78fb07c20087013bf53c9bf7f94f821472e6003caf5e0a9a0df375adb89
+9caa8269ade3ba2160d8e165b3c25316b573337c0bc5b26e05adb7cd82b1894c
+ba7c1fad0e931be1b4790e7d438248609902ae137a691003110e8ee003cff2fd
+71e1f2afbab260f63cc66f90865534921e778274e19e4db7d71315963c9151f0
+efb9aae2733f247768cf07414bf489812657c3b85adc291af01f177264351b81
+74ec52ca8d36aea2c83d8b83f2cdc3b93ab140c241e120c6635a0f6ca624205d
+54d024e6971f62e02f93f63ccacfa091a0a5675ec1fffd60592b44801c1d7893
+83158c554924ddd424779169e696800aa0d628c36899d253acb949033c5a1e43
+3ce2d634b38435bdeadd0bc7ddc4523ea486140fd0add7bb0c44e1dc53facf19
+b96bc87ce79bf0b8f94416c87a91309a69dc0f2eb05d1e6f4c09b4eaafc1e653
+4d20d3e159e97056251de5d5d1dae0322da5ba17a4b7beb010930d4c6d352866
+d9c6cd82279090375d8edf208cf6b51e8bd8b6b6efd74d18187b36f021766b87
+59d03ef0eb3ddc864a2168e69900623130639d40eab80a072bc0bd912ded7e4a
+3be20e658a4a3ab341f63ee92ea1625651d559d2895ff3eb6a07112885384d07
+bf627abbe1f2ad1ac689a19c30b40331f66cac13bf8af492cbb381c928309ac2
+e2b227aa83a5c7081076bd91422afadb46f29cf69e360f17747925486980339f
+cfbbe26225857b8369ff4ca4f140fca6f4a86fc401459b7e224a4c00647bbe65
+5d6786d037c89d12fcdad2ec96a70e080bd2cea72e38cf214e3111806bcf3e3e
+b8e45c3c14b85ed07d3fdf9cb450002fe2498f82accad71b628efc77de400c50
+fc9df6d58f292041c598e1f25146ed577d14ea45d555ad67c07b8241c8adbf74
+3e26f8db92472f0bb9f153b9ffadff403b8cd9ee950f22179348115d126fa204
+4342ed6d4474c30638bf63d192439dc5495c2140eb4198f9f99327c327f37733
+8b22a8f840b95d6e5b7d0534e9fb0bb5f9663813c24543870c65e707e2a36ef0
+cfa7051a1ad393d98089f217927f6748ef023eb1cbbf0b841fd420d12b661861
+30b61b0a80950a61a27f4ea55486f647524692159c4651f2db65990d9b5ed27b
+78a672776cc6e15bd55675516385637edcfe925ab51fce8bde20ea7a2184802b
+469fa6a6c6ae9d6162ceae5ada8767c171ad4ead736159c91bae02148b46e65d
+e67b0a9ae9db24c33b9a397d096985c99f0e7f47d3a9c184eee05fd8c8b8fa30
+6a5d013d33e2a500c63ab90ff8c8ba1710c427616b20bda286b49f5fb5942923
+9ffab9fcb520ee7e7c87f43b0e2f6aba2a0c2b12a8cea74d58ec797ea13868c7
+ec9963e19cef0030ab48aac6cd2e530ef4aca7d6d5f6b25ebb7f83ffab52828c
+bbf3d6dd346b7e49eb59fb6d79d41f457e64e4b6c65e03af3eb4433a40573d6a
+11e21260d03c6d7f0e7846246fe06b3136f07e8e7e1c5832f6f049a366c4c91a
+4719b2c65d3a79c1e20bf3
+
+tx d81c333266345f958d3a08dd7b8be740dd6f5175c4a7dcb829ee84550a802923
+7b5fd13199d6e892363fe432fda4236201eb05b899
+563266dd8be0b7fda91ff8d9a9b57f5c7296f787c9de3584158e4bb1879dd848
+d1db3c2b7de5655984dae4d9a5073f1d11954afca3556404b6c1b61157d428dc
+d2bcc9cc92cb97f8e669b57a4697d19f348e5c3189a87df14ebb4b1896f50c49
+135fd2952664199f5e14d2feb67ee133d3978f8154e5e7826ec3c6877ef65d2a
+1b0be4ac5e2f35bc0ca7e1cf9ffdecb14b70375eae83a43bdd93ca075546bb7a
+8213e3cc94be9f04444c36b43c68b61669fc8092227388297012cbdaabf7a4a1
+60776e05489b057f26e8ab62995389223a5d4d7bd3bd58c4f747994f10c21be6
+f8c35c68eea4f52743a2e054475b0623e49cc43dc3b573df6d2baa9cc5d4ef18
+be5d794366330b954204c423673e66f3a45c9d1bcb621eb3087b8027a0f2a378
+344af170c6f07764c85f9ajU
+5804a572028f94b34df889e537d276ce54b53543ce
+7300c1b46b4ccc01a05a12bba2c96fe0718ab6b4d0dde66e04d72675ba2fcf42
+b1085edd8d6c8003c68d02c5648164572e774af04d88ce28c3ed2c52fa8d276a
+4c2212e5ef4fa1f12de1e9b7062a1ba6506b2c7066c2faadeb1e1dc68f0b0728
+57216b466d317392cb2e3682a7b97b8a48ddd9b72221abb7682a5af6808e6577
+23f8ba3a2394a01307a89224d3f9ce6d7a17788ee989870aca892990812b947f
+425a5f0024f8aa7838d4b23cd4d21651ee24d75d26b4ed62c8974364c4e26d51
+faef20a9e3803e1bfc68b759c52ca2bfc8076b1fec8f15fca8526fb86f8e4003
+40736721a2f7d220d4326a233a00da0b2631966f13e410bd3f02183ca400b36a
+563f442e51ce5e284ee98e9d204e19443c0491c1dadecfdd4878afb58e64b255
+6e896f349bfde1823a9e1c5e14d28a6e41c866896a60c7cd9580659ca71bd0d6
+acabf8f07855cfb001055eccd3d9e485ee4a31c208dbc25b5636c86f0f78a439
+c22c9b2e629f816d8d85241caa145ba8aa21aef34ab5c8d5001f1e8909f4dbdd
+LRJ
+
+tx 743908c7b0dd89b68956987a3f8ddc3c1d4316452659bff71d241dbb0813fd46
+186c6fd66d1476c2047c4ea6d32891130a43d87cadbeef399dabba5321833827/198>186c6fd66d1476c2047c4ea6d32891130a43d87cadbeef399dabba5321833827
+01baa004a2cd210313f863ca8^4fR53039d8e8ba5364687c3e301ab21b91230c79cd
+d81c333266345f958d3a08dd7b8be740dd6f5175c4a7dcb829ee84550a802923
+85vNSN2owGy2
+
+tx 39ac7362f221b9f80774bd5d9df1d5de4756cb39fd090cd8a73e758fa9e22a0c
+op_return: "hellowwww"
+
+tx 0e167486274966a5948f1715cbfce9e98428053995b3ea6c705dc4fdcad91362
+u=https://cpr.sm/bv6t6ZK1H9
+
+tx de382b74092231c1ef3b0c6bed390f126736c2aebb039c356177fb9b184e5af7
+vu=https://cpr.sm/5YnJMVg-_Zp
+
+
+tx cbea46edb30fbe42beaca76e929aeec90b2fb8a356e033981997b2eb8f7b3265
++u=https://cpr.sm/nhonRtQdoA
+
+tx 1655bc7139e4af4022aa0dadb0a47ecc2dbea256fd61a845cb1396a918aeec96
+0 Celebrimbor was the son of Curufin, f
+
+tx 645833086b2f3e92c257e41d13bab0d80b1c02b29f0ccf14f241101f745d8377
+3Au=https://cpr.sm/6a6TEUanpQ
+
+tx 3eaef22d54352bfcf8de404d7dff2e72d102a7ba18110cac377a5d8d33f5aa51
+ru=https://cpr.sm/qEFU6zSDur
+
+tx a12c49a468a94bcc818d605e5a9f2988a7b3edca3a687ff40c24cc233088d0f2
+1 Kats", "name": "KatKoins", "total": 1
+
+tx db89afbd85819196a786b8685af8434f9e9036e77665a76f3d65dbb69187fc44
+1 ": "Lunchpad Coins"}
+
+tx 677e42b4bcef55ac87181d6eb5558a9ae51d282f37a808985b4e7aac5897248d
+0 {"desc": "Karefully Krafted Koin for 
+
+tx f3417ee1b0f1b8360da064cd9761ea118ac6f91d67658beb7ee6d8c708070ec9
+0 {"total": 10000000, "desc": "", "name
+
+tx ac2e1081fa1dd878578a98565e2efde0e61fc926129f292669fc318573e17c00
+u=https://cpr.sm/uRxxNmUboN
+
+tx 1fc78961e45103006943ea3dfb5bf39a19d13e62e23acb0106a1a90bda485c2e
+gu=https://cpr.sm/TlAuInLFhe
+
+tx 676ef1df9e7593bbce06ac1ad5c00237f92ef35b73c1122afe967c77b437ae5a
+u=https://cpr.sm/yU52UWmsYT
+
+tx 44f664948fd01f9ff147433f458ddead613d924c092034da5240049b5a89563d
+Ku=https://cpr.sm/VMahF-9nJo
+
+tx 3e114cbf4dcb67aab7340790409da85f8a53e9362e24a0a3fff4f6357f3971a9
+u=https://cpr.sm/AvLRaB5JO6
+
+tx 2bc9d433efaee6f8fde1622ded1eb8ad9ad45267b479e835ea9ece6aedd34d9d
+u=https://cpr.sm/dCYmjtbhNd\%
+
+tx 787c6806a370e413ba0c96e53056fa1be025717dee2a10cc001b3c8bd05168cd
+vu=https://cpr.sm/5YnJMVg-_Zp
+
+
+tx 0712df0de493da96c713792c4b576a83cc95cd9954f2f8f5d7a2ef7b8b9f7f8a
+u=https://cpr.sm/dsbFf0SSV0b)
+
+tx 067695197f3568bafe11e06f2bc04ef324138e5294defb3b2713c5edfe517937
+Bu=http://www.rizooma.com
+
+tx dba5f137595a211f9fce38f843d370fe4d04d04ea2f9ca2650331f392c80975a
+u=https://cpr.sm/dsbFf0SSV0b)
+
+tx 6ea9ab12752226b00f5b3b00dc6424603da3375e76ea653151a0173d885d17b9
+3Au=https://cpr.sm/Jq1x2kQgX7j
+
+tx 6374ad98e28e630515a2a0d4781a88725aa41411721d7d25cd3bf086ccfdd594
+3Au=https://cpr.sm/Jq1x2kQgX7j
+
+tx ffa2e7a2d1349edd18cc65175acf139db032ceaf07f60eca3da3972d80a782a0
+\"https://www.topcoin.com/a
+
+tx 7dae73b8c5e7ba5bf13a7723ccc582bcbd99be0bbb611d57be1680601c8681be
+vu=https://cpr.sm/5YnJMVg-_Zp
+
+
+tx 39e27e1e2945c6ae702466505ac5c1f5c302b202481d0e55b862a7640a2d2a2f
+Iu=https://cpr.sm/FYtxPxv1kF
+
+tx 91e9021a9cef092c0a85000ae73258af7ab1ac2a163b0b1da3a83e56f2e4e2d2
+|Jqopensour.cc Developers Ne
+
+tx 0ebbe594094dda41f0d933ade419140b86cbf99071b95c3e3c5b294efcef672c
+|Jqopensour.cc Developers Ne
+
+tx 251e09a06e36c5c631880b8ca9e114666856140a2d97a40cc8db1640d13e4ae3
+b5c02acc0425cb11ba0224360d452eae5bb94315oQ
+
+tx 6a9d954df92d2be54e2a4e7ee334324048e4253494a9ce0fc78a02f87ebe1a0e
+PROMESSAS DA TERRA VIRTUO
+
+tx a5d210ea94d8a1b2746d7c84838aafd99d7fd52236ab7ebc7faba081c52f7a50
+TELECTRONIC BID TOKEN
+
+tx 77583ef248881a4fad7d248e102e396989c2d055affabef43ce50478a173ee48
+TSPANISH AND ITALIAN SOCCE
+
+tx e7b61b540731bd8fb3605dffb92a27f6ab7de527dac2a548d42de5cb014e4138
+TELECTRNIC POUND STERLING
+
+tx 0e7c81f4ea0dea3c57dbfc4c8ad740e2786048b10e73abd93cebfcd84b093796
+TSPANISH PUBLISH TOKEN
+
+tx 15fb57b79b995b555d1285efd304aa01f3ba488263d633132e3a5df658a03034
+TPROJECT FUNDING TOKEN
+
+tx c9675bb2c2d189407962f790b18ded232f6455e51304c800c54ff9546c42a293
+TEXPERIMENTAL FUNDING TOKE
+
+tx 78ba01bb656c3f6205418d3a6652d223bf190f053f9cbca9f8f3db65b02fd99e
+TADVERTISING BEACON REWARD
+
+tx f1f4b2f8dfe7bcd7dfdd27ab98cf34a548794588deadb3293c6d525d5fcd5251
+TSAME DAY DELIVERY TOKEN
+
+tx 363f8db2f2d45c09ea9c257e9d56f59a2e4e4eda65a5942574860394761baed3
+TINSTANTANEOUS DELIVERY TO
+
+tx 2759caa5443ec1d827d3d328eded834e1e9095459d94fb33fd9f67d1666a7290
+TBLOCKCHAIN TIME STAMP TOK
+
+tx 00a704c9692e73c21767626687460d8d59beaf11e300745f523876fbc3d340d5
+TBLOCKCHAIN STAMP OF EXIST
+
+tx 67cca171255bcd51f5af50a1f126e77669e1277bee547aad758a80f0513ca773
+T%BLOCKCHAIN PROOF OF EXIST
+
+tx e4476987d69d8066fed14d061fb7974443a5bdab91c09a4aa492b9574f1db812
+TBLOCKCHAIN PROOF SEAL
+
+tx 8bb080114353eafe3398d2bfad7213c92b89bb4de09b8218d66f1ae77bbf3ad0
+TBLOCKCHAIN RELATIONAL PRO
+
+tx 389746a4fc4ee6628b3d4935123c8f1bb4d765d6187b3a4368a4cc21f27240c6
+TTAX HAVEN EXCHANGE MEDIUM
+
+tx d1195cb48c7b167acc3982f9ec74e352d14ffa37216f2ff27775975e95bc457c
+TSPANISH RENTAL TOKEN
+
+tx 4f4b9d864876beb4bf208d63fd0be195be64bd315ea030cdc7c28d0d8ba0e5e9
+Bu=https://cpr.sm/xAiI3VCXho
+
+tx f4ba7edab914e63c43274dbe1377552971b1d8d76339476fe80866faef1abcfd
+u=https://cpr.sm/x-KAs4aZpGDw
+
+tx fb403ff3aa8048be124aa50be2dd5221fdb9556c156a8c82cc24457360581fa7
+T MASSACHUSSETTS BAY TRANSI
+
+tx 115038b36f14d06dee87e009f0b9384023367142d1e465235e0ea9c30914e413
+T#NEW YORK METROPOLITAN TRA
+
+tx efa23eb824a6c361b2b28d18afcd00610cd9ca309b883634bff61fb9ae15c78a
+T WASHINGTON METRO TRNASPOR
+
+tx 9b46fe603fe4041b11ee5f00d878372e8b5ac7aa9764a73d5d21d60dcc170fc9
+|Jqopensour.cc Developers Ne
+
+tx 90cb6ea5517b9c4965de26d977f182fa8597f7ad8b63af869a0ac266237ef811
+|7173?<div class="section-body"> <style type="text/css"> .section-body { background: #f6f6f6; padding-top: 10px; padding-left: 30px; padding-right: 30px; padding-bottom: 30px; font-size: 14px; color: #4b4b4b; width: 680px;}img.displayed { display: block; margin-left: auto; margin-right: auto }</style><p><img class="displayed" src="potus_statement_topper_312x244.png" width="156px" /></p><p><tt>An open Internet is essential to the American economy, and increasingly to our very way of life. By lowering the cost of launching a new idea, igniting new political movements, and bringing communities closer together, it has been one of the most significant democratizing influences the world has ever known.</tt></p><p><tt>
+ has been built into the fabric of the Internet since its creation 
+ but it is also a principle that we cannot take for granted. We cannot allow Internet service providers (ISPs) to restrict the best access or to pick winners and losers in the online marketplace for services and ideas. That is why today, I am asking the Federal Communications Commission (FCC) to answer the call of almost 4 million public comments, and implement the strongest possible rules to protect net neutrality.</tt></p><p><tt>When I was a candidate for this office, I made clear my commitment to a free and open Internet, and my commitment remains as strong as ever. Four years ago, the FCC tried to implement rules that would protect net neutrality with little to no impact on the telecommunications companies that make important investments in our economy. After the rules were challenged, the court reviewing the rules agreed with the FCC that net neutrality was essential for preserving an environment that encourages new investment in the network, new online services and content, and everything else that makes up the Internet as we now know it. Unfortunately, the court ultimately struck down the rules 
+ not because it disagreed with the need to protect net neutrality, but because it believed the FCC had taken the wrong legal approach.</tt></p><p><tt>The FCC is an independent agency, and ultimately this decision is theirs alone. I believe the FCC should create a new set of rules protecting net neutrality and ensuring that neither the cable company nor the phone company will be able to act as a gatekeeper, restricting what you can do or see online. The rules I am asking for are simple, common-sense steps that reflect the Internet you and I use every day, and that some ISPs already observe. These bright-line rules include:</tt></p><ul><li><tt><strong>No blocking.</strong> If a consumer requests access to a website or service, and the content is legal, your ISP should not be permitted to block it. bW
+That way, every player 
+ not just those commercially affiliated with an ISP 
+ gets a fair shot at your business.</tt></li><li><tt><strong>No throttling.</strong> Nor should ISPs be able to intentionally slow down some content or speed up others 
+ through a process often called 
+ based on the type of service or your ISP
+s preferences.</tt></li><li><tt><strong>Increased transparency.</strong> The connection between consumers and ISPs 
+ is not the only place some sites might 
+
+tx 0628440ddc21e399858922d056311cdde3ded2878c0fa17acf835b38d1f50edb
+get special treatment. So, I am also asking the FCC to make full use of the transparency authorities the court recently upheld, and if necessary to apply net neutrality rules to points of interconnection between the ISP and the rest of the Internet.</tt></li><li><tt><strong>No paid prioritization.</strong> Simply put: No service should be stuck in a 
+ because it does not pay a fee. That kind of gatekeeping would undermine the level playing field essential to the Internet
+s growth. So, as I have before, I am asking for an explicit ban on paid prioritization and any other restriction that has a similar effect.</tt></li></ul><p><tt>If carefully designed, these rules should not create any undue burden for ISPs, and can have clear, monitored exceptions for reasonable network management and for specialized services such as dedicated, mission-critical networks serving a hospital. But combined, these rules mean everything for preserving the Internet
+s openness.</tt></p><p><tt>The rules also have to reflect the way people use the Internet today, which increasingly means on a mobile device. I believe the FCC should make these rules fully applicable to mobile broadband as well, while recognizing the special challenges that come with managing wireless networks.</tt></p><p><tt>To be current, these rules must also build on the lessons of the past. For almost a century, our law has recognized that companies who connect you to the world have special obligations not to exploit the monopoly they enjoy over access in and out of your home or business. That is why a phone call from a customer of one phone company can reliably reach a customer of a different one, and why you will not be penalized solely for calling someone who is using another provider. It is common sense that the same philosophy should guide any service that is based on the transmission of information 
+ whether a phone call, or a packet of data.</tt></p><p><tt>So the time has come for the FCC to recognize that broadband service is of the same importance and must carry the same obligations as so many of the other vital services do. To do that, I believe the FCC should reclassify consumer broadband service under Title II of the Telecommunications Act 
+ while at the same time forbearing from rate regulation and other provisions less relevant to broadband services. This is a basic acknowledgment of the services ISPs provide to American homes and businesses, and the straightforward obligations necessary to ensure the network works for everyone 
+ not just one or two companies.</tt></p><p><tt>Investment in wired and wireless networks has supported jobs and made America the center of a vibrant ecosystem of digital devices, apps, and platforms that fuel growth and expand opportunity. Importantly, network investment remained strong under the previous net neutrality regime, before it was struck down by the court; in fact, the court agreed that protecting net neutrality helps foster more investment and innovation. If the FCC appropriately forbears from the Title II regulations that are not needed to implement the principles above 
+ principles that most ISPs have followed for years 
+ it will help ensure new rules are consistent with incentives for further inve
+
+tx 02e3fb9ad2ef89e94e41e1953ec104cf65d87d0ab6059d8428842fd796b94af5
+stment in the infrastructure of the Internet.</tt></p><p><tt>The Internet has been one of the greatest gifts our economy 
+ has ever known. The FCC was chartered to promote competition, innovation, and investment in our networks. In service of that mission, there is no higher calling than protecting an open, accessible, and free Internet. I thank the Commissioners for having served this cause with distinction and integrity, and I respectfully ask them to adopt the policies I have outlined here, to preserve this technology
+s promise for today, and futuDre generations to come.</tt></p> </div>potus_statement_topper_312x244.png>11063:
+
+tx 7ce28bfb97ca9e80e6b843de635d4e5e2535fd210616d5592c11c928e4a5dadd
+90cb6ea5517b9c4965de26d977f182fa8597f7ad8b63af869a0ac266237ef811>528/90cb6ea5517b9c4965de26d977f182fa8597f7ad8b63af869a0ac266237ef811
+0628440ddc21e399858922d056311cdde3ded2878c0fa17acf835b38d1f50edb
+02e3fb9ad2ef89e94e41e1953ec104cf65d87d0ab6059d8428842fd796b94af5
+9cc01524d7a1614c7f6a5a71f2769180213c0ffd9e7f1c8934fd43b5dfcf1e94
+248e110769b56f351e02cfb7fffe0f80f3c56ce445cca35fac873f2df1a2dcfa
+a1198fecaf6c4d60043fdc6c674054a2da57f560f291b90ae7c7e7f32f3feec3
+696427f2e2982d6c97f7dde11b14fbd8ed867841b914e7f4ff3c8e19321d6495
+409fd9a573a759a6da3c7b0b61a55f30162f5a145b7d0012e56b423a345070c7
+qz
+
+tx cd856c36442e403568cb90aeb674f4719cfa9b1b83317c459a0960d6ee3e424a
+u=https://cpr.sm/RlNK9ntHjF
+
+tx d48085a29b75cbaf49add20a592a878328f81d3837e9c1bc872d54a9ffc6cda3
+u=https://cpr.sm/vtwCfHgSbn
+
+tx 37edee8cc8b70670a9e8932c85ad5482052b99ef8a3387946bda8f7f2a7a0e7e
+u=https://cpr.sm/r3TNokblxH
+
+tx ca093600938a7dd337cac1b6d8471e62b34e6025560aaffe0dd50576df2f4d32
+8c8846af260f4efb823c820fb6cbe313e7cb9a44oQ
+
+tx 6ed273dbb4ad2cb7d6021441870afe2950514f4093d61037bed197f22d8f140d
+|Jq CKSCAN VERIFY-ADDRESS wxnwnagqmf
+
+tx 36eb8cd4ec408f8c780a215ac3e20385c96db1cb7bab6742b05e57c136434229
+Sent via brainwalletsweep.com
+
+tx 93069b75f15b24857de4972a25ba28e1b1bff4230ece20d71a1940024bd5365d
+Sent via brainwalletsweep.com
+
+tx 46d3f53c517d6fc1510d97055c7d099a8432172b21b3a8afadf34879c9c64e2f
+u=https://cpr.sm/crD2iVDkSH
+
+tx 1164c73413b7976d92f2844030190d4fb9608c08287df06f1c737d8f8db4ffc2
+u=https://cpr.sm/HKxrXm9hx4
+
+tx a3c69616c278788917dd9b8320c8931c0dd7098d3ed407d130650a355d051889
+!Digital Voluntary Carbon 
+
+tx 4a84dd0939ee73533816baa9ee67c89fd865fe85290434822370152820d52334
+5~r_}"The Way of the Slig is My
+
+tx 55b7a647f6a2ffbbbdfc30b826fa84e3836d5f5b75498de951a0380f99ba687e
+VINCIANE SEVERINE ET ALEX POUR TOUJOURS
+
+tx 3ea0e0385924d3fc2e567bd93496722959b31d5e32bcb48c2e460eb6fe85023b
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx a1f87ef9c2176e9c385fbc7e1196046fc2f5db1c5be5ae2d5f6e43d5c69edb6b
+Hcu=https://cpr.sm/9Tbrv6JCWv-
+
+tx ca0a575b64a88a3b2228795440acc8906211244f8e68006751d116fc5d2fecfe
+Pu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 5372d4d9449c1e2f784460734ad49b4337808fcc8c0d5d2c70aacd10bbe46540
+Hcu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 6ee7bbbdd128fe32a3a8e4401fbcb85f938541b1479befd6ba5933835cfe858e
+N!u=https://cpr.sm/9Tbrv6JCWv-
+
+tx d4905c1dfa21547616befe13b389a1cec18a40db7064f56ee4051b174a2fc975
+tnuu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 10a84c76084254ae0e036c8a7b40d9c3c9a412684bc3d50e04143f44a95e84b8
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 2bab86959c5c4f8927b9816e9dec9a860d57f707a03bf9cef84fa015fb0c19d0
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 4a28c6771031359008ddc6d41899e166a76f946e8db78185c9042bb55e7375f7
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx f7a26de11f449b1bc92715db21a0abefc5d37c67c62b6993f6cc0e2d5a646fed
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx f6c78f15f6c540101c153397288141e7ef3f1a34562d24810e558d87793dacc6
+3ZF9u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 003d99b6d3e54463774cacce8e6dae832c3bae4e1bbffe4d097611937e8da06b
+ewu=https://cpr.sm/9Tbrv6JCWv-
+
+tx c5831787b28013bc3f31850711390c9128bb9e990d7c487b35351adb8ccc0ba2
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 4f92342865dfe54f6b8404e7a19b2266386e8cc17863efa70ff59cbf44e5ded6
+mu=https://cpr.sm/9Tbrv6JCWv-
+
+tx dd1d47dd16f88cfb427e5837ecf8ff83b14036552eb3b28ccb1b8a2c3860b7d0
+tnuu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 41eb1a3e4d296fd6c2d345ea3ee68b30da518b329f3773f2b3d214e85a563231
+*u=https://cpr.sm/9Tbrv6JCWv-
+
+tx bbb95590b355d9876eef5ecfb6888586a90ff2fc652114809da1e570d44232ed
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 2d5ea72bf8af1245e1c9087a146fe30ceea049bff600ff415d9eb78fe2594933
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx cf511e0bf78a0802640ce45ea5775256b8c31ab20c035dee80ebb2a1fc154c07
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx d81f0b86f15d69f5256e22265c9abbf83e7eb13375de9540a6259e8c7faa1114
+Mu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 944af16878efb1779469672c43a6c9539c262bcaa8e4f4ebc406b067baa81390
+1LyB$4u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 24dd8291b30448c3a144f54e81463d5329dda9a1b88b14b42f4ce06bb013b7ea
+u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 13e179c953382f55d8f0d7b5eeff9d8dc10c188e1866950c676f217eb865f66b
+eu=https://cpr.sm/9Tbrv6JCWv-
+
+tx 0291de30c7d92cf84dbb8c35209277f1846758831505721e90e0ae0d7867a603
+2u=https://cpr.sm/9Tbrv6JCWv-
+
+tx 4dc20d2ad548e897677fb9f94e743a4a10e20b2155a3c6e79b49d0d0788172bc
+N .net/pdf/janssen-portfolio-2014-N 11-12.pdf  Short NOK  38d5b6fae7N a89ff7e47ac0e4e7337e09328821651fNf1aa766bd1f1ad30c59152
+
+tx 5f2b185d3da1a65a7178718c3203c7848f15c7d2f50823275a9e453f23c11d0d
+Hu=https://cpr.sm/CDJstP4OEEa
+
+tx 532a8a145917db122b12794df8b1c29f26b18abd975c8d7b5ed90b0db51e219c
+L'contant info at dhimmel.c
+
+tx 8d9230a527194f60c9a1cde1d3daabea0e9d590c80bbce12dbbf19eadbbc3562
+L#contact at dhimmel.com fo
+
+tx 84381f59c8dc00705f77ee95eafaf3aaeffbc30ef32c01cbcb3f134cee1e78f4
+L!see dhimmel.com to purcha
+
+tx 671f1cd7770198f508b8530f7229669410de12fd42f27b32526a71fe890364e8
+L#contact at dhimmel.com fo
+
+tx 90b9b9f63a6bc4213b4e226ba809296f83375fe7ec26db7edf30e5316b822821
+bitcoinumbrellas.com
+
+tx 8c903f6b1216f3427a8c26df707c812edaf1c7cdd7b5fccafb90018c151dbc01
+u=https://cpr.sm/97-MH_e4hu
+
+tx f694465fea0df7eb493ec536ae035976c8e03f66745d3d8ccf7eb24ce771b9cc
+u=https://cpr.sm/97-MH_e4hu
+
+tx 0aed8647c21072605862087e50b3e3b9ff6e936632cfba80cf0ac11d539d248e
+rDISSERTATION BROADCAST
+
+tx dd692212dacb1cbc80a7e3eed2bc20943c8845eed89407c7e5298152070ab61c
+rVALID DECLARATION BROADCA
+
+tx 576872dcbee879a9d6ae362681e9120c66fafb97ffd61360b6d46c3ecc01e886
+rDECLARATION OF NULLIFICAT
+
+tx d9e2b0af30bd0b6470a8f740beb5c70e74daf04dc3a840d037515219100310f3
+%Go back to your home on W
+
+tx 473c169e7ed84cc599bf6eb324157589e7ffdc5b87389669cedf62fd12ceab91
+Everybody needs one.
+
+tx fcd6c7076b65522ec681698f0628ebd180daa1621cf362211f0cd42854d7683c
+u=https://cpr.sm/Y_foDyxGhP
+
+tx 7fdd324aa5386fd9a35699f7b9b0b5828924cc6051c7bd45785e88a3abae2cbc
+Immortality and all that 
+
+tx 110c2b1bf3860b83418f7927cd37f9736efe28de83d57feabb4728668af5ac62
+Buy your way into heaven
+
+tx 0a03ca3087c5c50b99911b61e81c473beebc8de78f1d1fef23cab138d60b43ab
+)For doing chores, homewor
+
+tx eac6b0dce645f209b59530af020792ba8939a35b243bc16f5b2692d7c8a58be4
+ef94a3e2c10ef0891b5bd0c1c5236bb534e4d13e
+
+
+tx 08c2c58e161301a2eb31b3179f8744dd296def4eb418a432cbd00b8bf86b1d66
+8c8c82e0c3abf591ed65f11e616bac5352753141
+
+
+tx 15340b8117ad9731c7736d08347234fa9c26034514be5514eca680407f5c20f1
+FC23psutMujB:1:3:mdp1:Laverg>mdp2:Alexan
+
+tx cf6271acfaf2b879c27e54f05cd650eff28478148469c7b35a35f7bb02e65c2a
+u=https://cpr.sm/9Mbbx3V79I7
+
+tx 7b434b439364fb12909f68c86df5e276637f7163ce94549ddf41045ca460832c
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+tx 97ae28448c6ab3f1166a6a4f2d2188cdbf3217ebb8f044f214a6b0eadf9907aa
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+tx 46d1b8808b75dea9c9b6639cbee30a62685c8fe471e46b97c544c23a93b870ae
+and with the weeping
+
+tx d8da824ed9371794d7e12bc2e86dd00faee12a67be09bc6295c6350bd40846b2
+u=<http://www.caiselian.com>
+
+tx b4e6364e3046108dddbcfaaa268c7d7fe9006d09fb4b1d0e4951a124fee56ae3
+;gold gram crypto token
+
+tx 2c464421a7aaddd325f5eec69cacb6ae734ef05ff9bff228350ca3682e268175
+Bhttp://dohod-s-nulya.ru/

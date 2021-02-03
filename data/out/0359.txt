@@ -1,0 +1,1074 @@
+tx 985ef3ed2f77250bfc34b4a7852a9e9941b174f85d279fb66f13cfe7b74dd0d0
+f0u=https://cpr.sm/_W64nt2PVb<\
+
+tx 2da9079edfea615a4586f0b1db19fb368656fc37715a08674047739ec99604a6
+t-u=https://cpr.sm/GsgrGzVR68
+
+tx d95af333ca278537dd0d7e2fc183bee862684dba687da574fc65743773fef249
+zASCRIBESPOOLREGISTER
+
+tx e31db1fdd8e5e99672118e4d234f5ff5939a4d6cf39c9fcf45a78cd8d828ca9b
+zASCRIBESPOOLREGISTER
+
+tx a9547d3df62670df0d228cd4c4dc053d7f5821e41aefa92926eaf573fbb00f6c
+ASCRIBESPOOL01REGISTER0
+
+tx ae223dc13be5e473b186f5fe214dd71dbfcef87a708f3ceb809556dfca3164e3
+ASCRIBESPOOL01REGISTER0
+
+tx 718f07212a6fc4af3146d65914ed663596dadb4f8ed3125091afaec1951acb50
+ASCRIBESPOOL01EDITIONS3
+
+tx 066aa713a8ba434ecc08f96085dff797ca249c913448bc009be673d2750fedf8
+ASCRIBESPOOL01REGISTER0
+
+tx 3611176510bc309618b0d445b2776fe6aebe8d4b4b4671905d72f3ceb3b55627
+ASCRIBESPOOL01REGISTER0
+
+tx dc9f69797e7c24ad73ade1f9349fb407b26ad3d0d94b742c23d8f9ef1d2341d7
+ASCRIBESPOOL01EDITIONS3
+
+tx fde70906299983af80225eedd5843daa6138866dfaa719f6d05c9e387803ac1d
+ASCRIBESPOOL01REGISTER0
+
+tx bdfa4d14761d13b6a31320cc106f9848464b3813c088d671f601858de53c9e30
+ASCRIBESPOOL01EDITIONS3
+
+tx 8360cd43140f0827b5b36ae85d026e972fe831f29ff080cb2a4d5e912bff3a6f
+ASCRIBESPOOL01REGISTER1
+
+tx d92afd4f4e19a891006b3d29de6b28322e3a61a9828644fb03cbda45d00ed242
+ASCRIBESPOOL01REGISTER2
+
+tx 3c4b95dd01d7804019becea83edf905a9dc881185c9c9f22860ff8be35dcf9e7
+zASCRIBESPOOLREGISTER
+
+tx a3e918e6e9b83938fc659c3f6ea4b72661ff73b0155c28b3b22800dc0c1efa20
+zASCRIBESPOOLREGISTER
+
+tx 25f56783e79a2752ab4676bb4604a32ba700be02416229344123947f096f5d7c
+zASCRIBESPOOLREGISTER
+
+tx 0ed807c869e9340912aba5be756e89bf9d93db787a2a5bc0343058b2b56e2aae
+zASCRIBESPOOLREGISTER
+
+tx 602efba3600ba55cefddde4328f1ed03df78c7deb4dcf7064105e1ec4c52bde8
+zASCRIBESPOOLREGISTER
+
+tx 14f61ba95535f50a6940cfb245350798e102d4d4c6a146870194ed0111ec098a
+ASCRIBESPOOL01REGISTER3
+
+tx cd5a52a6f43f6f5248a769a3bba374e4283a35ffb5c84dc9093293b973f22698
+ASCRIBESPOOLREPLENISH
+
+tx 90b65f3b610584843587e722555bba5e2bee711e438a5fa61212e7393c28b1bf
+ASCRIBESPOOLREGISTER
+
+tx f41bd567d92616dcc46f202472ea89f284915972eafc12620569859b26d109e0
++ASCRIBESPOOLTRANSFER
+
+tx 483e729fc93d8cc5e8eb8cc1acd7037844b334c8687e6d3c43aafec478617ba2
+ASCRIBESPOOL01REGISTER0
+
+tx c63b6cfcda31371d94e28a734dcc0acbcd30047c03c23340601d806851d711f6
+ASCRIBESPOOL01EDITIONS10
+
+tx 2bbe9475b66e30e02cd4133efe15990452fe94fdfa5f442c3cc44ae0fa56e872
+ASCRIBESPOOL01REGISTER1
+
+tx 894d0c0130a317f378bf2f131685e5b2409e69b9530defc3ad4fca528e1f9734
+ASCRIBESPOOL01TRANSFER1
+
+tx 8397af812bd3c0b98faabfd69e79b9890208d7196ec0a2794b9e078a4b93aee6
+ASCRIBESPOOL01REGISTER2
+
+tx a4c28836cbf893741677631a7e57892e229cdc8c01565a8dda45c2c10293f600
+ASCRIBESPOOL01REGISTER3
+
+tx 9f53f1f66481b13c14cf2417868e3039d5b445c78f6316875d9c792ba2a30619
+"Daniel Michael Abraham [ 05/12/1985 ] - If you see nuclear jihad, watch 
+whats next! Putate(Mating with 12 year old girls), { Why lose freedom? }
+--> http://dmabraham.info/ @ 1EW6G5DfewxJtAintR1pwVR6TpEYHFfwdZ
+[ 14:06 02/06/2015 ]"
+
+blockchain.info / ECDSA Signature [ G0Tzer0YrzS/0rYFH/8CRbCxHVJ9R6/LFGSk
+nG1EWn1BYWjSJPMKIobUifLibJ5co5O1b6yybzqtTIlU/tLG+78= ]
+
+tx 497052c27d1456f61d9a2e29f4f9aafe235d6fb378f0e02850045922f8457db8
+ASCRIBESPOOL01CONSIGN3
+
+tx fcbe5c863daa49b2fc215633e70f37f88a2c707ec15d9ea31cd2b0763e10e975
+ASCRIBESPOOL01UNCONSIGN3
+
+tx ec2bdae3f49b246d66a13f1bbbfb47e82477f70962f0cb8e86de0115d0777037
+zASCRIBESPOOLREGISTER
+
+tx 8f24175e82c3bdd96ad783e0c42fe3bad9e9ead7fbf66ab9c6fc307952ff8e5e
+zASCRIBESPOOLREGISTER
+
+tx 192ddd2240140eb8c5c5d2cd53b845b7afbeef9a8731ec997a15112be6771f93
+zASCRIBESPOOLREGISTER
+
+tx aaca53333ba46c8a500a57e9cec6b100cebdcef07db340fed96266ba9f837ab4
+zASCRIBESPOOLREGISTER
+
+tx 22e74142143abb0dd0ccdd962be01e4b1604a057f6bcd7ebdf78e2567cfadaac
+zASCRIBESPOOLREGISTER
+
+tx 40b54dfa90433c161f1e0a0c03beb97adfda4fbe1155d9dfb50c01551f5fdc78
+zASCRIBESPOOLREGISTER
+
+tx 7711cc5c347ec8cf2457e3f9967a5ebc6a221ae15c1590a86a9985f7eacb69e6
+zASCRIBESPOOLREGISTER
+
+tx b1e469e25b5f7194370912b76b283dfdc7cacaf88ee3617860c8e54b3f38a11d
+zASCRIBESPOOLREPLENISH
+
+tx b4c872cc84b475ab8c237d401fa3994b11d365e6a6a1231f99659f890e894269
+LASCRIBESPOOLCONSIGN
+
+tx a980b5bec026290e504779f36648538a3987546cdd9c312dac97be525b4d0dd5
+ASCRIBESPOOL01LOAN3/150602150604
+
+tx b156d24868502db8f6119a3bf0d7032e45e49f5e6f7acd9db0e688a8a45ea696
+ASCRIBESPOOLREGISTER
+
+tx a548e760248022da3ece77b3b2ddb0b5b371c4dc0f7b3f0bbaa722c671aec802
+zASCRIBESPOOLREGISTER
+
+tx e4e0f02e04a5957c6fea89b0762adbe6828ef9b63e227e4dbe37cc4b92ab54e6
+zASCRIBESPOOLREGISTER
+
+tx 57db2a310e1943ebe0349ee4592f608a9f8dfcd327dfdbe47c572df9dc015990
+zASCRIBESPOOLREGISTER
+
+tx f4591ef180ade0e15424f1eb23a76f84fa1654e378e26f718a5fb8f0108a8cbd
+zASCRIBESPOOLREGISTER
+
+tx 7ac683ee0bd1048520d271d7a81abea0c9fa34be1b4db2babadac291b89e9d44
+zASCRIBESPOOLREGISTER
+
+tx ae827f5645ac8a5c8861385253ac27792b178b2d299ef6b4cc95244718091f09
+zASCRIBESPOOLREGISTER
+
+tx 1b9a2cdd1196e78487a568888cfeabe59912a06ddd6e227fe87f27f6679bb40e
+}u=https://cpr.sm/hVrS39_PeQ
+
+tx c7ba0a7073e8cf3aca47537d78fe07803881a2feb3be6a9a650fd932f706b5ce
+zASCRIBESPOOLREGISTER
+
+tx fee281cff7a9f60f3371f72aed64a3873dec479661d56a1d9a681ce0dfd0e323
+zASCRIBESPOOLREGISTER
+
+tx 5428e3027eda2ece5a89c6d97a9fe64b6fbcb049f8fb4fecedccebf3792f272c
+}u=https://cpr.sm/hVrS39_PeQ
+
+tx 79012efc399ceb9e12aeac0492b0392d7a1ebce4145cee1515ca3396ab72b925
+444f4350524f4f46217a24e6bb379e6784895155
+
+tx b01b758fef345b5c9393d86cb2fd718c1942357059ef62d0b8321d45ea9c009d
+0939bec6af39d9e6a842af09f490c6905b56ac52
+
+tx 9270871f12ab6a467e5e1351f8606ce93a75cc41a32f1467c4f9498f402358eb
+u=https://cpr.sm/032EpEo_5Ks
+
+tx ab22d676f9c63a043be3d6d4e8064d25027efb4a809d0cd0a214cfb4958deed0
+zASCRIBESPOOLREGISTER
+
+tx bc926aaf65debf024be052c8f760c54de5e8fc67e52ad0cad699a04ff38f6a91
+SIG:0000088*G4IlGDK0OZ7868S+jYNg5czJ/9YJeC7tnMy8522/RTj5NRZfsXsx089Z+yXqagbMA2KBWjSxWFZh1Ifxoy59mOg=*000000000000000058<Present Earth Visitors Please respond.  Awaiting #Contact #
+Contact#############
+
+tx 744c885bfe67cd02ed30097ec513814e993ac32499bf63e36a4f49e3e9a48d9d
+u=https://cpr.sm/032EpEo_5Ks
+
+tx d78ccee6ad03af9ecc02d3753fedda8028cbdb322b0971944d7118d324fc101f
+Alex Millar Blockai Test -Raw 
+
+tx 5a41995331796861be2b1d19340267e382ba1bb891878ade329d5f025953ec39
+ https://i.imgur.com/V3AgeW9.jpg 
+
+tx 1beace15865f99a07b0b9456ef4b0aa9842ce8171017922a9f181c034d93229f
+
+end up in dead ends"r
+
+tx 3a0885eb163c095cb7975c6e83ff55862d41f6cf0c5e134e58ed2cd06a90dae3
+
+end up in dead ends"r
+
+tx 2c4e19cae2e2f1a85b8b512094a4c6f850c67cc536c9f377f0bc5d1fdee81f19
+ASCRIBESPOOLREPLENISH
+
+tx 63214f45520730f8ddcb33e7425f2f3736fa92bb03b15455791ccb47a03cd0bc
+ASCRIBESPOOLREPLENISH
+
+tx 2452f03a911e2363fcf10d7bdb55b095a603c453ab6a044f6bee449ca569f727
+ASCRIBESPOOLREPLENISH
+
+tx 51cb2f2a52440c6f8c7606653488be4998d800f22622fe16528fe99ccb74797f
+ASCRIBESPOOLREPLENISH
+
+tx 01877604582d117befeb763259f98c8f8048d38176d3dc5698ad731181ada8eb
+ASCRIBESPOOLREPLENISH
+
+tx 40c30dfe48e3f975818c02240e23fefde19217150134b61c59ccc0a2054bf6cf
+ASCRIBESPOOLREPLENISH
+
+tx fb221dafb3b0c000926af18c325b7c598411f432b9f13632720c73db93b5868f
+ASCRIBESPOOLREGISTER
+
+tx acc10c551d357be0558b57320a95e282a11114bf6a04b5783c2837d389ee1521
+ASCRIBESPOOLREGISTER
+
+tx 7936637ab4df1850268904bb0b8a0506db3049ab129abe71a2c7fd1c33019fec
+ASCRIBESPOOLREGISTER
+
+tx bd989475f96d1c9a0131789adaa8011fbf8ccdec03bc6871de8a20733beb5581
+ASCRIBESPOOLTRANSFER
+
+tx aa6b844752d117ab0fb6604e06051fa99f7ffbebb505506eb704aac69b225c2f
+1ASCRIBESPOOLTRANSFER
+
+tx f966d0dae1d6723b73618eb840d6191292956b66df7e2c0d4bd21d1b223081a3
+ASCRIBESPOOLTRANSFER
+
+tx 78366577f5158a7e29da2fa92d9bb73a43f45313f6ca42a00c8bf6eff14e25a0
+ASCRIBESPOOLTRANSFER
+
+tx c88400c225be4ac7f1fe32f7f668e958dfde6d65cd16fc90635d9c28e70aff3a
+UN'ZyASCRIBESPOOLTRANSFER
+
+tx 8bfe37244231cae8114f7d23a29e4efe30f2ed04cd9c1e63ffaa7ea0fbc4c7f8
+mMASCRIBESPOOLTRANSFER
+
+tx 2a36264ccced22a3da3cb0f26a17d06514d5ba65996a9411a243467706f53e91
+ASCRIBESPOOLREGISTER
+
+tx 3b234fa8fe3b2045aa8ae3ad90dc09b7708005db8dcf43f79097f9257579f82b
+ASCRIBESPOOL01REGISTER1
+
+tx a94df4d573314c884dfcbf5a65b803fde0c587478bae7a71fec7867579b2f902
+blockCITE - Hello World!
+
+tx 08ea6447d1f6ba9a1eadf72d23c3f01a7e78e41bc04cd8164166ffd719bde9fa
+blockCITE - Hello World!
+
+tx 1f7efafd4c55a1044d156e52b8720b5b4c608c5ed2b896d972b27c396ca08bdc
+zASCRIBESPOOLREGISTER
+
+tx df07eb36ab0abe65f3f3dbabaa5b7c0aff566b79b3eb75e27cd14e88c121e279
+zASCRIBESPOOLREGISTER
+
+tx d565841056fbe5fc53b46e85e2559571d2945de6a57f08faaa3dc4ffa0951d24
+zASCRIBESPOOLREGISTER
+
+tx e9ca9d9eca202551d7f71f29c27892bf2a0f847e48a7ff401db425226cb81517
+zASCRIBESPOOLREGISTER
+
+tx 6e6a4e29df7cd99eba8091a143513bb8d677f1c08f2ea7ae206d96219607dbe9
+ASCRIBESPOOLREGISTER
+
+tx 5c3c6e1d00f8c6f9198efa9930077d37414488f12d5f355db7c5d0984322d102
+ASCRIBESPOOLREGISTER
+
+tx 6fc09bdd30dd6dacc5799d1af4215dc08c0d3bf4b9724ca1b93070e903159776
+ASCRIBESPOOLREGISTER
+
+tx c72ffb64ef70c5dd3835a5ffd1d9ef19c8e70ef8b8f806f70ce50873b9c56f3d
+zASCRIBESPOOLREGISTER
+
+tx 756eaf87e9268ec01d046a78ad92378fc2a9d2ba64b62a0af49158f3ad3b09d9
+zASCRIBESPOOLREGISTER
+
+tx 9c5b9a4309349e35484ced13a75885c02605ccfa8cff042df4bf538fa0cc3e82
+zASCRIBESPOOLREGISTER
+
+tx f3da74c76d2bee880b4b15072a9be9f85ba62375746cc05794a7549f6737bb89
+zASCRIBESPOOLREGISTER
+
+tx 33a7b468b86448c583dfb76b2db03d99abe6c56a4572031cadb0f738e619851f
+zASCRIBESPOOLREGISTER
+
+tx 914dfdd0e9edff918b66a9a72ec228787cf4e82ff9bb7eccfe09c7d9cd9563a6
+u=https://cpr.sm/CmBnaMNvPo
+
+tx 08f9371dd0aef13f4993d80a2610e55103e22921f64a6282c119484ba1d33603
+u=https://cpr.sm/d80ftgcM9n
+
+tx f251e2ec2c9cade960edd6d2070858d1974c80ccd123dfd7d79da8d0b86e5c31
+blockCITE - Hello World!
+
+tx 7ea506a5a2d9311b937a76a4e960495d8b360fa1de663af652410da35cfcca87
+blockCITE - Hello World1!
+
+tx e313bfee1474a8d7170080ec1a0950fdf5247c9702ace9559f3384d6f680a47d
+u=https://cpr.sm/d80ftgcM9n
+
+tx d02c559d6af7cb56511c77af52579e0cc6ea43bb128e46eaae48fe3eac0d7d37
+0000000000000000Daniel Michael Abraham [http://dmabraham.info] 
+end up in dead ends?
+
+[+] Beware cancer, beware cancer research, beware magic pills, beware 
+the danger of unknown unknowns... while(1);
+
+Crypto##{Unsigned message}
+
+tx 0317496e97337cf3812bb4eb9d4f7ed0d8e5d49046e93c5299c9d388eff96261
+vu=https://cpr.sm/wFkxB6bAZH
+
+tx b63d1ef58f8c20dfcb4dcb32bb25c34a7ea385149bcaf4cff5d58daee9dfb860
+vu=https://cpr.sm/wFkxB6bAZH
+
+tx 9fb0008ce776fe011c973d1dff16b7c95f06b714dc1fd0e7161e075291a5105f
+ASCRIBESPOOL01REGISTER1
+
+tx bf87fc9cacc07ef9945017708a92baf83038f20aa557b816b086c90050ad21c0
+ASCRIBESPOOL01EDITIONS2
+
+tx 892292ee5470991d6b37c3956a7ee112a2b0a5b7d391c7a5979450f0904caec1
+u=https://cpr.sm/FwSgjk4Iu2
+
+tx a0a0a421a51f7d01a7d0180e01777cb2b4dbcb845732c7b33ec9870f6fba4ff9
+u=https://cpr.sm/FwSgjk4Iu2
+
+tx 4d0423d39e2bd9e789bfd5c8dde0bd92953d6054081e0793f97de8ac1aa43b60
+zASCRIBESPOOLREGISTER
+
+tx 50f0d9f427f8ca5732b9cb9dfce130637a84d306a1160255068e5c181cfdd7dd
+ASCRIBESPOOL01EDITIONS3
+
+tx bb4159833a24544f8aeefefa0b2db5455aefe12bdad15567b316833022bb40a5
+zASCRIBESPOOLREGISTER
+
+tx b1b9cfd3a528551ec5ff7006cc65e680507d9d35cc2184408a54ccc12ffacc05
+zASCRIBESPOOLREGISTER
+
+tx fcb39723a26cc4ad9fc25742b3ed04a12fbf5cb8a45f44e6ca90f1fcea4de87d
+ASCRIBESPOOL01EDITIONS2
+
+tx c10bb703c681eaf9b83b7c7e147246f7d3d8c2b6e1a2c36d6f67f2d47ef50994
+ASCRIBESPOOL01REGISTER0
+
+tx 4593cb54378c1a54e6f7356e8774ee69c97a7aede4bfdec316d4ccd10c5c58fd
+ASCRIBESPOOL01EDITIONS2
+
+tx 9fbd342ccc78ac6f3dccb580da868d07ef13f9e40f01bfcb5e3d0250ecac59ef
+ASCRIBESPOOL01TRANSFER2
+
+tx 196ccef2442f9b9c798c952659ace63617ccd5206dbefc2400b75d23db08adce
+ASCRIBESPOOL01REGISTER1
+
+tx 55933b12c7f382e101241fc0141ade3e9df36b4ace0cd6b2de1b84e2e3ff6198
+ASCRIBESPOOL01TRANSFER1
+
+tx c9e8551d6f3cd8d9eda897fa2adee999fa61eb8180e20c697dcc7362093dd893
+zASCRIBESPOOLREGISTER
+
+tx 4102f090a6b60c26251f0c0f16451b29ff5ed9919b01c98be24c2a087d75ff7d
+zASCRIBESPOOLREGISTER
+
+tx 3544bbca7d33fe939f2dc7fdb26f1229e465befba31a7f83771dbd82dce591d5
+ASCRIBESPOOL01EDITIONS5
+
+tx b4d0fbe5914a5bc572233404e074326daa66914a26cb85ccd04885a0ee163a0f
+ASCRIBESPOOL01REGISTER4
+
+tx c2a1105ff46a52d1f7202983ae60d1e3ec62c20999cd8016a805ff8f9b1d66f3
+ASCRIBESPOOL01REGISTER0
+
+tx ac4be33f8a8c76ddcbb56e5f0270437e7d7d68ded2765207fa31a9d4d45dcb57
+ASCRIBESPOOL01EDITIONS5
+
+tx 6e7030ec869c3f2f9b3403be9f9e1f63557dae5afe62c812fcb78cade27cd3ff
+ASCRIBESPOOL01REGISTER5
+
+tx cd66a0f01e2a395bc335f23bc1b3133eb2111ae591e2abf2d1debe5ae799b5ba
+ASCRIBESPOOL01CONSIGN4
+
+tx ba21b43e9a37c6d7a084d5a5f11e31f95a6d34859209bfea776eb114861896ac
+ASCRIBESPOOL01TRANSFER5
+
+tx f016d11254c841bfeba8f07d393eaf33b7c02130dadb79fb2a0059567490f547
+zASCRIBESPOOLREGISTER
+
+tx 6c5d138aa146908f1f393feb226ca4e17cce992309238f446e74c6fcfd7eeb00
+Nature loves to hide.
+
+
+tx e3b3f9737859ca7b3a1b68ac597f1e3e2628f7035bc953c325403b2ecd466f6b
+It seems that certain people, with names and in organizations that I will
+decline to disclose, seem to think it is OK to deliberately infect
+Chimpanzees with infectious diseases, in order to conduct medical research.
+They then push their medical treatments on others, and expect ME to want to
+consume these products! Is there any surprise why I completely oppose the
+entire Big 6 Pharmaceutical corporations and everything the Medical Industry
+is based on? Watch out Eli Lilly and Company!
+
+Daniel Michael Abraham [ moarrr | Mystery ]
+http://dmabraham.info/ | http://dmabraham.com/
+Bitcoin: 1EW6G5DfewxJtAintR1pwVR6TpEYHFfwdZ
+{ ##Crypto## Unsigned Message }
+
+tx 55623bf694f6dfbda4db2ea7a940ffd80c49eee3430e44a57fdfecd4e9381f72
+
+                    ,
+                   dM
+                   MMr
+                  4MMML                  .
+                  MMMMM.                xf
+  .              "M6MMM               .MM-
+   Mh..          +MM5MMM            .MMMM
+   .MMM.         .MMMMML.          MMMMMh
+    )MMMh.        MM5MMM         MMMMMMM
+     3MMMMx.     'MMM3MMf      xnMMMMMM"
+     '*MMMMM      MMMMMM.     nMMMMMMP"
+       *MMMMMx    "MMM5M\    .MMMMMMM=
+        *MMMMMh   "MMMMM"   JMMMMMMP
+          MMMMMM   GMMMM.  dMMMMMM            .
+           MMMMMM  "MMMM  .MMMMM(        .nnMP"
+..          *MMMMx  MMM"  dMMMM"    .nnMMMMM*
+ "MMn...     'MMMMr 'MM   MMM"   .nMMMMMMM*"
+  "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
+    ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"
+       *PMMMMMMhn. *x > M  .MMMM**""
+          ""**MMMMhx/.h/ .=*"
+                   .3P"%....
+                 nP"     "*MMnx
+
+[ mirrored by http://dmabraham.info/ | moarrr ]
+[ CryptoGraffiti: Donate BTC: 1MVpQJA7FtcDrwKC6zATkZvZcxqma4JixS ]
+[ Latest News: EU/Greece chaos due to huge debts! ]
+[ Bless! ]
+
+tx fc4981261701d06610394c4200a9cbf03f890ac928db58938bed8d7ba7eaccf3
+
+                    ,
+                   dM
+                   MMr
+                  4MMML                  .
+                  MMMMM.                xf
+  .              "M6MMM               .MM-
+   Mh..          +MM5MMM            .MMMM
+   .MMM.         .MMMMML.          MMMMMh
+    )MMMh.        MM5MMM         MMMMMMM
+     3MMMMx.     'MMM3MMf      xnMMMMMM"
+     '*MMMMM      MMMMMM.     nMMMMMMP"
+       *MMMMMx    "MMM5M\    .MMMMMMM=
+        *MMMMMh   "MMMMM"   JMMMMMMP
+          MMMMMM   GMMMM.  dMMMMMM            .
+           MMMMMM  "MMMM  .MMMMM(        .nnMP"
+..          *MMMMx  MMM"  dMMMM"    .nnMMMMM*
+ "MMn...     'MMMMr 'MM   MMM"   .nMMMMMMM*"
+  "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
+    ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"
+       *PMMMMMMhn. *x > M  .MMMM**""
+          ""**MMMMhx/.h/ .=*"
+                   .3P"%....
+                 nP"     "*MMnx
+
+[ mirrored by http://dmabraham.info/ | moarrr ]
+
+tx d338da06d13a21a296506c0c8cd8c8533ba8fa076ff5c2c1fd02a457aac3ef77
+
+                    ,
+                   dM
+                   MMr
+                  4MMML                  .
+                  MMMMM.                xf
+  .              "M6MMM               .MM-
+   Mh..          +MM5MMM            .MMMM
+   .MMM.         .MMMMML.          MMMMMh
+    )MMMh.        MM5MMM         MMMMMMM
+     3MMMMx.     'MMM3MMf      xnMMMMMM"
+     '*MMMMM      MMMMMM.     nMMMMMMP"
+       *MMMMMx    "MMM5M\    .MMMMMMM=
+        *MMMMMh   "MMMMM"   JMMMMMMP
+          MMMMMM   GMMMM.  dMMMMMM            .
+           MMMMMM  "MMMM  .MMMMM(        .nnMP"
+..          *MMMMx  MMM"  dMMMM"    .nnMMMMM*
+ "MMn...     'MMMMr 'MM   MMM"   .nMMMMMMM*"
+  "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
+    ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"
+       *PMMMMMMhn. *x > M  .MMMM**""
+          ""**MMMMhx/.h/ .=*"
+                   .3P"%....
+                 nP"     "*MMnx
+
+[ mirrored by http://dmabraham.info/ | moarrr ]
+[ CryptoGraffiti: Donate BTC: 1MVpQJA7FtcDrwKC6zATkZvZcxqma4JixS ]
+[ Latest News: EU/Greece chaos due to huge debts! ]
+[ Bless! ]
+
+{ Supa - https://bitcoin-otc.com/viewratingdetail.php?nick=supa }
+William Robert Girdlestone
+1535 Dingwall RD Apt 35
+Courtenay
+British Columbia
+Canada
+V9N 3S8
+
+( https://bitcointalk.org/index.php?topic=575743.0 )
+[ One of the lowest rated #bitcoin-otc users, owing me at least 10 BTC ]
+[ Most likely much more with compounding interesting, but its all ]
+[ written off as a huge loss to me. Never again deal with him! ]
+
+
+tx 18ca7443835719eafcf6e9128c934c0f784a080797dddb072e1693deac49c6e3
+Cool vids and posts, Daniel (https://diasp.org/u/danmabraham).
+Here's a tip for you, bro.
+
+tx af9d6f4bfd6bbd3cd2ebea35fdb3313cb68d367b0f30e5b8acfcfae64a3cff6a
+http://cryptograffiti.info/?txnr=3139
+
+Thank you for your feedback! Love the response!
+
+"Nature loves to hide." - Very interesting! I dont like hiding!
+
+Daniel Michael Abraham
+http://dmabraham.info/
+
+** Cryptograffiti:
+Donate BTC: 1MVpQJA7FtcDrwKC6zATkZvZcxqma4JixS
+
+-
+
+ECDSA Sign on message prior to '-' via : 1EW6G5DfewxJtAintR1pwVR6TpEYHFfwdZ
+is Gx6LA03Cp7xJ7q90i37PyBa0LuiwZOKxoVMBmNoKNzIhK7GGau8ke3NLpMiyFiYsrKKiyzxu
+tj9rz7+YTZOzq4U= with method ECDSA/blockchain.info
+
+tx ace8c2b84409067509982d5f260cc2098f710b2427f84d4b91bc73c4807e08f4
+u=https://cpr.sm/GF3h4i-svr
+
+tx 86c1b7bd8bbdd8903355a8f6a408616621fd2ea4321b9aced778f388afe0b244
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash:243
+11/19/2013 4:46p6218
+12/5/2013 5:35pAmtrak 51, 77
+12/8/2 62226243
+12/9/2013 sx 6221
+12/18/2013 5unk, 1 dirt, 1 emptytrak
+10/4/2012 5:06plf commuter
+10/8/201rak Downeaster
+10/10sx 6205
+10/11/2012 5n standing commuter on engine platform
+1 6205
+10/18/2012 7:46247
+11/4/2012 2:22p37
+11/13/2012 5:08pm 6247
+11/19/2012 5:5rak
+1/28/2013 6:56pm0, 6234
+1/30/2013 4: 6222
+1/31/2013 4:40 6241
+2/4/2013 5:58p6207
+2/5/2013 4:26pmcsx 6207
+2/6/2013 5:sx 6209
+2/14/2013 6: 6240
+2/20/2013 6:08, 6224
+2/26/2013 5:012
+10/13/2013 2:32pmaster 90213
+10/23/206203
+10/28/2013 5:22csx 6222
+11/5/2013 5213
+2/27/2013 11:12pcsx 6204, 6211 with T engine
+3/3/2013 3: 6241, scrap sorted by size
+3/3/2013 8:26227
+3/4/2013 4:45pm4 small scrap, 1 twigs     csx 6207,6240csx 6215, 6246
+3/6/2, 39
+3/14/2013 5:40pn back
+5/4/2014 3:38x 6236, 6246
+5/4/201Amtrak 89, 90214
+5/5sx 6213, 6206
+5/7/20ak 2, 193
+5/7/2014 6, 6213
+5/8/2014 4:16csx 6213
+5/11/2014 4, 6236
+5/12/2014 5:16210
+5/14/2014 5:04p125
+5/19/2014 5:28pm4, 6243
+5/21/2014 4: 6214
+5/22/2014 4:50sx 6214, 6243
+5/23/2rak 817; backwards & fast
+5/27/2014 4:53csx 6223
+5/28/2014 4, 6247
+5/29/2014 4:5223, 6217
+7/15/2014 243
+7/17/2014 4:40pm243, 6290
+7/21/2014 7, 6237
+7/22/2014 3:csx 6225, 6232
+7/24/x 6230
+8/18/2014 1:1ail systems MEC 344/pcham railways
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCAAGBQJVcKQ6AAoJEOWSpli/39VFHI0QAKbhSyZ1+q8bCs+H78QKpgKV
+n/1EmwXKjt76/J24UUtaBEhP/YEZnxWAP+QHnMqmSiHgY3kMkcZUq8fHS4Z4Gt7/
+YG5dAzRP21MY68Q41pJi+WyJa3FoOwVkMVo2aQv2Vn0Kkj61eLMHfDBiSAErJm2p
+yZbZs71nqaE0wUUjcxLbH5ytOHEQ7IqqmBibX0FPFLtlq4tgAaa7KJzES3OxTsVL
+rebz9qZP5ezBcSC09Yw9Lp64NBJn525WPWBAZcCQv4lNMwWWNw/pYIeFZzn/OBBd
+MoNBxmo37ghJOKf1If2knxz9RnJsaGWVT3a8KT7UF0sFQjoPXeswqxyEDShxrFf2
+8UWQ9sZ0D3Uv1PK0BoZF7DIBoa98CRfyGYLu7jPw0q9Hi61Vkbys9LhX5YIwQtEr
+skdUVbqqv9xd0y96cxDvg6QjC8E3ahv8wOIkWaz3kAfRplAKda/0lRrjr+reVy3V
+aEedlvMdVVoV8rEQeqLgvQ7gcp/8EX21mqOpIOTW81YaK+DiSWPkrlPI+2gD0cku
+g6wr4Lza5EV85QjygY5DXJ109MAF2rAxMHfPY9GZMY0/X8awDV/CAxYjkTevY22x
+4p/sNCVvA6WcHA8N5Qilnyk10z12hKcqYJNTE5XUj9MTCYCj2d7xNQh/V9a8WQjj
+UfcO54xvPiZ7U1jK8dCP
+=JZuI
+-----END PGP SIGNATURE-----
+
+
+tx 862936ebadefc71c4ee546721730ebea135fa04e99744996b74d39dc34f25003
+zASCRIBESPOOLREGISTER
+
+tx 39ed93ffae4789c631b031e93440aa9535960b80ae85aa7b429264d8f1ce6bf4
+zASCRIBESPOOLREGISTER
+
+tx 55a5d0c09ad5535711d649fdab394add3bb6e50cc2c49920cf0cb758ff0b69e8
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+time    direction    # covered    #uncovered    notes
+11/11/2013 6:31pm    E    4    1    csx 6243
+11/19/2013 4:46pm    E    3    0    csx 6215
+11/19/2013 5:44pm    W    4    0    Amtrak
+11/21/2013 4:05pm    E    0    0    csx 6206
+11/27/2013 4:12pm    E    0    0    csx 6201, 6206
+12/1/2013 4:52pm    E    1    12    csx 6213
+12/2/2013 5:56pm    E    5    0    csx 6218
+12/5/2013 5:35pm    E    2    0    csx 6218
+12/5/2013 6:06pm    W    1    0    Amtrak 51, 77
+12/8/2013 5:04pm    E    2    4    csx 62226243
+12/9/2013 5:54pm    E    1    6    csx 6218
+12/10/2013 4:34pm    E    0    0    csx 6218
+12/16/2013 7:37pm    E    1    0    csx 6221
+12/18/2013 5:04pm    E    5    0    csx 6207
+1/14/2014 5:37pm    E    7    0    csx 6240, 6242
+1/27/2014 1:52pm    E    0    0    csx 6212
+1/27/2014 2:13pm    W    0    0    T 1027
+1/27/2014 4:22pm    E    4    0    csx 6224
+1/29/2014 5:12pm    E    6    0    csx ?
+2/3/2014 4:50pm    E    2    3 med. scrap, 3 empty    csx 6212, 6235
+2/4/2014 5:44pm    W    2    0    Amtrak 20
+2/10/2014 4:15pm    E    0    12 empty    csx 6223, 6234
+10/3/2012 5:12pm    E    3    6 junk, 1 dirt, 1 empty    csx    2012
+10/3/2012 5:45pm    W    2 pass    0    Amtrak
+10/4/2012 5:06pm    W    0    8 empty    ssx
+10/7/2012 5:08pm    E    2 pass    0    half Amtrac/half commuter
+10/8/2012 4:55pm    E    9    5 unsorted scrap    ssx
+10/8/2012 9:26pm    E    3    0    Amtrak Downeaster
+10/10/2012 6:31pm    W    0    0    csx 6205
+10/11/2012 5:57pm    W    7    0    csx 6205
+10/11/2012 8:27pm    E    5    0    Amtrak
+10/14/2012 4:14pm    E    2    0    2 men standing commuter on engine platform
+10/15/2012 2:47pm    E    0    0    csx
+10/18/2012 6:18pm    E    4    1 scrap    csx 6205
+10/18/2012 7:45pm    E    1    0    Amtrak
+10/24/2012 3:55pm    E    7    1    csx
+10/26/2012 10:55pm    E    5    0    T
+10/31/2012 5:35pm    E    3    0    csx 6247
+11/4/2012 2:22pm    W    1    0    T
+11/5/2012 4:13pm    E    5    1 dirt, 1 scrap    csx
+11/6/2012 6:02pm    W    2    0    Amtrak
+11/6/2012 7:49pm    E    0    0    Amtrak
+11/7/2012 6:26pm    W    0    0    csx 7237
+11/13/2012 5:08pm    E    1 cylindrical    2 large scrap    csx 6247
+11/14/2012 4:25pm    E    0    1 medium scrap    csx 6247
+11/19/2012 5:57pm    W    0    0    197
+1/11/2013 12:52pm    E    0    4-steel beams    MBA-c1
+1/13/2013 2:33pm    W    3    0    T
+1/23/2013 3:49pm    W    4    0    csx 6240
+1/24/2013 5:54pm    W    2    0    Amtrak
+1/28/2013 6:56pm    W    1 scrap    0    csx 6240, 6234
+1/30/2013 4:31pm    E    4    0    csx 6241, 6222
+1/31/2013 4:40pm    E    1    8    csx 6236, 6246
+2/3/2013 5:00pm    E    8(2 union pacific chilled)    6    csx 6222, 6241
+2/4/2013 5:58pm    W    4    0    Amtrak 186
+2/4/2013 6:45pm    E    3    5, 3 large scrap    csx 6207
+2/5/2013 4:26pm    E    1    5 medium scrap    csx 6207
+2/6/2013 5:28pm    E    1    11 medium scrap    csx 6207
+2/7/2013 5:07pm    E    4    2 nearly empty    csx 6246
+2/10/2013 4:42pm    W    0    0    T
+2/13/2013 5:42pm    E    12    0    csx 6222
+2/14/2013 4:04pm    E    7    0    csx 6209
+2/14/2013 6:15pm    E    1    0    Amtrak 42
+2/17/2013 5:11pm    E    12    0    csx 6230, 6222
+2/17/2013 5:46pm    E    4    0    T 1033
+2/18/2013 5:11pm    E    0    0    csx 6211
+2/19/2013 5:26pm    E    3    0    csx 6240
+2/20/2013 4:59pm    E    0    0    csx 6240
+2/20/2013 6:08pm    W    0    0    Amtrak 42
+2/22/2013 12:37pm    W    0    0    csx 6245, T 1125
+2/24/2013 2:34pm    W    1    0    T 904
+2/24/2013 3:51pm    E    7    0    csx 6247, 6224
+2/26/2013 5:07pm    E    3    1 1/3 full of large scrap    csx 6211
+2/27/2013 4:11pm    E    1    0    csx 6238
+9/10/2013 4:30pm    E    4(union pacific chilled)    0    csx 6244    2013
+9/10/2013 7:10pm    W    2(chilled)    1 empty    csx 6244
+9/16/2013 3:30pm    E    0    0    csx 6217
+9/16/2013 4:30pm    W    2    0    csx ?
+9/18/2013 5:55pm    W    1 dining, 1 pass    0    Amtrak downeaster 117
+10/9/2013 4:15pm    E    8 chilled    0    csx 6212
+10/13/2013 2:32pm    E    2 upac    2 twigs, 1 platform    csx 6242
+10/16/2013 5:55pm    W    3 upac    0    Amtrak Downeaster 90213
+10/23/2013 3:05pm    E    0    0    csx 6203
+10/28/2013 5:22pm    E    6 refrigerated, 1 other    0    csx 6203
+10/31/2013 4:34pm    E    3    0    csx 6212
+11/4/2013 4:30pm    E    4    4    
+11/5/2013 5:00pm    E    6    0    csx 6222
+11/5/2013 5:41pm    W    3    0    Amtrak
+11/7/2013 5:56pm    E    2    0    csx 6213
+11/18/2013 1:18pm    E    7    7    csx 6213
+2/27/2013 11:12pm    W    7    0    csx 6238
+2/28/2013 6:06pm    E    4    1    csx 6204, 6211 with T engine
+3/3/2013 3:38pm    E    5    7    csx 6227, 6241, scrap sorted by size
+3/3/2013 8:29pm    W    6    0    csx 6241, 6227
+3/4/2013 4:45pm    E    1 union pacific chilled    3 med scrap, 4 small scrap, 1 twigs     csx 6207,6240
+3/4/2013 5:44pm    W    4 pass    0    Amtrak 44
+3/5/2013 6:49pm    W    2    0    csx 6215, 6246
+3/6/2013 3:57pm    E    2    20 (4 small)    csx 6245, 6214
+3/6/2013 5:42pm    W    1 pass    0    Amtrak 137, 39
+3/14/2013 5:40pm    W    1    0    Amtrak 39
+3/14/2013 8:12pm    E    1    0    Amtrak 39, engine in back
+5/4/2014 3:38pm    W    1    0    T 3248
+5/4/2014 4:05pm    E    5    5    csx 6236, 6246
+5/4/2014 5:45pm    W    1 chilled    0    csx 6246, 6236
+5/5/2014 4:07pm    W    0    0    Amtrak 89, 90214
+5/5/2014 4:46pm E    0    8, pillow    csx 6235, 6245
+5/5/2014 8:08pm    E    2    0    Amtrak 2, 56
+5/7/2014 3:52pm    E    0    0    csx 6213, 6206
+5/7/2014 5:00pm    W    1    0    Amtrak 2, 193
+5/7/2014 6:32pm    W    1    0    csx 6206, 6213
+5/8/2014 4:16pm    E    2    2    csx 6213
+5/8/2014 8:41pm    W    0    2    csx 6213
+5/11/2014 4:07pm    E    3    3    csx 6246, 6236
+5/12/2014 5:13pm    E    7    7    csx 6201, 6210
+5/14/2014 5:04pm    E    1    1    csx 6236, 6246
+5/14/2014 6:45pm    W    2    0    Amtrak 142, 94
+5/15/2014 4:14pm    E    1    1    csx 6210
+5/16/2014 1:49pm    W    0    0    SRS 125
+5/19/2014 5:28pm    E    0    1    csx 6201, 6227
+5/19/2014 6:40pm    W    4    0    T 2002
+5/20/2014 4:55pm    E    4 (1 chilled)    1 empty    csx 6214, 6243
+5/21/2014 4:55pm    E    7    5    csx 6243, 6214
+5/22/2014 4:50pm    E    0    3 med scrap    csx 6214, 6243
+5/23/2014 7:25pm    E    1    0    Amtrak 817; backwards & fast
+5/27/2014 4:53pm    E    1 chilled; 7    0    csx 6223
+5/28/2014 4:25pm    E    0    0    csx 6236, 6247
+5/29/2014 4:53pm    E    1    2 large scrap, 3 med scrap    csx 6223, 6217
+7/15/2014 4:30pm    E    0    0    csx 6243
+7/16/2014 1:36pm    E    0    0    T 1123
+7/16/2014 6:05pm    W    8    0    csx 6243
+7/17/2014 4:40pm    E    1 chilled    0    csx 6243, 6290
+7/21/2014 5:15pm    E    2    9    csx 6217, 6237
+7/22/2014 3:54pm    E    3 chilled, 5    0    csx 6230, 6243
+7/23/2014 5:11pm    E    3    0    csx 6225, 6232
+7/24/2014 5:00pm    E    4    0    csx 6230
+8/18/2014 1:18pm    E    1    0    guilford rail systems MEC 344/pcham railways
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCAAGBQJVcKqzAAoJEOWSpli/39VFtCwP/1SyCkrz1yfSIt0GqAwQCaKJ
+w8nFmjhZZibJ+2K84Po0f2eQK5C/TIJqoY8JzDqOaSB7h3AdfKLBEkSqNOMdnPz7
+orj9NVETIeWwaUy1tMz9NpETHBemYA8N1zKWlMj4c7Ih+7pkHc7V4Bp7a/vGBsuI
+410zeK7v/aEoQlLOge/AkAwl1c60y9v1f4UMD0Vv8fqlj562jTSiRYD9Alnj5LVJ
+wZkYmvMufFrN1dGCYi5gmkzuVfVAEPZp/Vny2dmsLwrvyXWBdBynIyoOuGXgWkyB
+F/6vO5OSyGRCP9h0BcuWNuLCzILq9oo99aa+3WqkC9jhFPRLaDua8G7rvt1pGnp0
+rOesCUJrDL4JtSi/gcza3R4iLhQ+62Rf3XMXibFSSQe9Pd+tUgbDOC79A++SKi2P
+5BdC6rpPnPTr7sSqFPRHxMG3suEmOuq3GrUw7p9yY1cKCmbP8Sho6eEj87RREWOb
+tZP4VCrxTgqIqdhsiMJuHNQ7UzAjMy1JGKn7/DNl2kOZUc2FVqXeyPB09XTbDqDv
+3C8SXdAO9AfHE4+nSn/UhEPAax40GT6mMwbAucaVTfNfkIkWUSggi48lFQs9M+7H
+HdmGcYwcJLtrQWp6vwU+c6OmP1wg565KCujH8i4tcMs2ZZOtQd/EHcKSeAvIB78H
+/pWVTVMKvzJ6EeN79iMm
+=Jkqh
+-----END PGP SIGNATURE-----
+
+
+tx 2681ca23e1625bca958df3590d4118996ccb70feed7afe913f7ffdf42acfb24f
+$u=https://cpr.sm/GVXmGwR66W
+
+tx 0e4bf86a03e42028c8d9f42ede8d3e007fc12932bca0fe7713cf186f595026c8
+Iu=https://cpr.sm/3treqeQrdG
+
+tx 7db010f4fbcb184019038c39f3ffec828fc9d0da0389f83d0beadd00f307a95b
+au=https://cpr.sm/p22vrfB4s0
+
+tx b4511fa4387db69f5f01bc1173d4419f88eb6f85b47f6a276cc18b180d229e1a
+zASCRIBESPOOLREGISTER
+
+tx 5763a9fb04fc77549ded4f4bfe3abdfb12fac43c231eeeb0182927ac2dc216d3
+u=https://cpr.sm/0RDFFkkAMK<
+
+tx 8c2b5655b62df69600cbcac74a9d089758354f879f7f030a04445c4c6fe74ce2
+blockCITE - Hello World2!
+
+tx 860d216c1b541d9f042e517ef972fc05b2de5d457fa398395b01dae90a1ddd65
+blockCITE - Hello World3!
+
+tx b8d6c428f71cf3349df0fee7c360d2feb7c891833138fc4e73bab328c2dc6ee1
+blockCITE - Hello World4!
+
+tx 251dec9fe62ca8f66cfddc8d9e5f9f674cdbf4d92b22e2f03717fc969dcf70a0
+$u=https://cpr.sm/GVXmGwR66W
+
+tx ebaf4eb8d40a4569755943fe8f000641be16e0b8680190e6b299ee0f115316e8
+ASCRIBESPOOL01REGISTER3
+
+tx 06f959127da9fe1fac487d8f264432a9c448be0efaeeec9eabdc4493f20214a8
+ASCRIBESPOOL01CONSIGN3
+
+tx d0922f68b069ee7f277857329a495c30a79727b88324373bfda491bc9b314de5
+}@ASCRIBESPOOL01UNCONSIGN3
+
+tx 475ec1b23eb6519fdf36e762433f4a6b9196b83b28193214723b897d8b6b2414
+zASCRIBESPOOLREGISTER
+
+tx 14f5836545184656410891ed4da5981f10db8bf0d801917a98687395b2013aa5
+zASCRIBESPOOLREGISTER
+
+tx a8f7c65016dec10490ea7bfa8a8549c85df91c96dac88e9d4e9249beee9c255c
+ASCRIBESPOOL01REGISTER2
+
+tx 715607454058e5a9ad9e973d2fc9bc190dd850b0487530f17256221726433653
+_ASCRIBESPOOL01LOAN2/150605150610
+
+tx 4fac3eb5327d5d423871c1d23da50d3b4e5d242ea6a92b16ac7dc2c41692bb4a
+ASCRIBESPOOL01REGISTER1
+
+tx f51ce9946c537e9fa9ba30cbddc276cb6c0262acc8da7d7c1bcf29d66ac68237
+ASCRIBESPOOL01REGISTER0
+
+tx 122f360fb4e95dfb69a013e236937c46c699476fffd1bda83dfe82429febfeae
+ASCRIBESPOOL01EDITIONS10
+
+tx 8673457047e56ae6c9b01014b5d5b8455688569da29f04c56c893a3d0c8cc037
+ASCRIBESPOOL01TRANSFER1
+
+tx 299e1238663fcb67248368c70ff190c2582a93748131fe61b99c334adf177b42
+zASCRIBESPOOLREGISTER
+
+tx 4c6db704099cae078598db7e8ff76d04dd9cb6e8069d591a397581891b5b8e1f
+zASCRIBESPOOLREGISTER
+
+tx 210e1aee5facbfd79df59f5e4bd488246090c6459c5906c38ca397b31f797396
+zASCRIBESPOOLREGISTER
+
+tx 8680c470851708877acf2ef8fde99f23e7def75d719310621ffafae96d804c5c
+zASCRIBESPOOLREGISTER
+
+tx 6f204746716734cd208c6ce6a7e9213404216da4a539650fa70efafb881eae1e
+zASCRIBESPOOLREGISTER
+
+tx 2dfe566ae38a19b489872d7a0fdab5443a11736cb5d889fabaaa7545591d764c
+e9330c7bed640db6b5387232c18ef63a4552cfff
+fbe8f85e7e4ec243f9e1a60e46883ec44ab6498dbee409b23587f164f01&
+
+tx 2870636cf1631250d58b8baf02e081c2f01326744c3ac74df86b2a10993ece1b
+zASCRIBESPOOLREGISTER
+
+tx baafec450a25659ada5c79a6cdef05d248b31ac4123dae304e2de057d557b01e
+zASCRIBESPOOLREGISTER
+
+tx 5c42eff5bdfaf78376de1713ac8fb82d1309fe457dce4494f71ce2f46f657e80
+zASCRIBESPOOLREGISTER
+
+tx 32edc9fa67e4f439f1f73b5e5d16f7bc6bf304de9b170e74a041fa3afbe02e59
+zASCRIBESPOOLREGISTER
+
+tx 63e24a7533d75b48853c3cdf1831d7b6e89cbc9cd7254cd96086c82431fd46bd
+zASCRIBESPOOLREGISTER
+
+tx a3a0aca14a2a87bfbe15c0205463eaff3c54cccdcce2f029a4ee696db3e15c56
+u=https://cpr.sm/BSS_QFGyjd
+
+tx 2d3760a74f0a08f3c645b11bfb09a35555f328fbca9cf49c065260606036ff45
+u=http://bit.ly/1FzrTRF
+
+tx 6101eaf4eceb35366ab387f42b501fdc01c14ea413b823392ee33e6cf9e604e1
+lu=http%3A%2F%2Fbit.ly%2F1Mu51Yw
+
+tx 620e97a02f5c09574b121596effae76f8529c85bffd8e365cb7e03548e31ea06
+u=http://bit.ly/1IqDt80
+
+tx 99bd1e2c4dbdc19a5fa03ed747fe982b6e4dc2445cde3063edc4d7f117e0e24a
+yNu=http%3A%2F%2Fbit.ly%2F1Mcwrl0
+
+tx 3606d42784c661a261607349f30e02a5aeaa552513b1560eb4dbe5a293f5685e
+zASCRIBESPOOLREGISTER
+
+tx 89f0189bf7e7e769d507a77f2953fcad2570efef57bfe6fb0372995df1430914
+zASCRIBESPOOLREPLENISH
+
+tx 93f34088c401ef2d691335b9fc956a8f0913166179cc405aa064f26d838c485b
+zASCRIBESPOOLREPLENISH
+
+tx 178c4cad2bf7c4048e5b1e66f06d0b15be343736f0bbf7eb535835af85d84b7f
+zASCRIBESPOOLREPLENISH
+
+tx 09131c54d49ba9936bbdf14a148b484e0cb703beadb861f063b636a530847add
+zASCRIBESPOOLREPLENISH
+
+tx c63e13b5df63607027267118559d0f8c71203cf85d768eee142f2602b7cec172
+zASCRIBESPOOLREPLENISH
+
+tx f671d2b30c435fed77b388df5a38d25fbfe872c0f53a6d3e3fa4cf2962df0b2c
+ASCRIBESPOOLTRANSFER
+
+tx 39de34a40ac7bd2f1c9e4e455ba50bb449388fb04a8e32442928b87c3e1e53dd
+ASCRIBESPOOLTRANSFER
+
+tx ad387ba720b5ae38439ea729ce9542e1b654b94a67d4c8ee6c7d652899b054a7
+ ASCRIBESPOOLTRANSFER
+
+tx 3e35d44eab2a4be3077bc17766a4a7db9f225d93935faf47c595a4eb1d47d866
+(ASCRIBESPOOLTRANSFER
+
+tx 50aab8d1fcfa5acb5325f70f4da33083fecf190670c88a1980a6fafbb39ca467
+@ASCRIBESPOOLTRANSFER
+
+tx ca2603ed363682e06ee8cdd94049b2bd395bec0869e6b1f7def2aca659c4c326
+zASCRIBESPOOLMIGRATE
+
+tx ea4e952c15a7fef7fabbd48dc31b51321f18e22b158f37d986e450743bcc9128
+zASCRIBESPOOLMIGRATE
+
+tx bf52fd5d7598376e9860e98c970bfbfd70d1e980d01db5c099637ceea1e3f6d0
+zASCRIBESPOOLMIGRATE
+
+tx 1e48446eb9c810b1c846bf1bc901a6668bd8b9c9092c75ba2288e4f1144f6f54
+zASCRIBESPOOLMIGRATE
+
+tx a02fce88b0af3605cefa6de308ff2c3ebc0ec21e0612203ef0321c19a10e7390
+zASCRIBESPOOLREGISTER
+
+tx 3568c1e56f9cfe2c31a67c964e1681de5a8cb29af927bf0134fc57b46f4c7396
+zASCRIBESPOOLREGISTER
+
+tx d191a380ae5e015b6a77d61ff6da879f095129a12a8fa62c9af981f77da7e686
+zASCRIBESPOOLMIGRATE
+
+tx c6b52c0c91e0594b70bfdcfbd5fb85f2181a48b5e1050586c33d4d556715a374
+zASCRIBESPOOLMIGRATE
+
+tx 9cb9db36170bed8d07020348278d460930c57f54db58b9add7e7a91965cc1e78
+zASCRIBESPOOLREGISTER
+
+tx b178cbf2f146b5276661e4a4bca75218907bb3275fc54c5ff4ef3731fe012951
+zASCRIBESPOOLREGISTER
+
+tx 3ed9e7d5bbcbcd13da015d20a7fa545956f050f5f37314e0ab7024959a032a37
+zASCRIBESPOOLREGISTER
+
+tx acf7b10a49ddbe5fe4c65da02f8ab137119817ac486fcc9f44d13096b25b4ea4
+HASCRIBESPOOLREPLENISH
+
+tx 96fd24a9df63e4212b7a2ca81eb97fef491eba079c6c66a83d9fc4a036f6fb82
+ASCRIBESPOOLTRANSFER
+
+tx 678d45b801d716aaf39a9db356985678f2bb6eaf720de671242d0ce0e0c96262
+Yu=https://cpr.sm/XlOU1eEiGM
+
+tx 4103cae58fc0951a4e5fce223efb306da7ec7faeba511574a844fa17af3e9eb8
+u=https://cpr.sm/vzuoEsjqWut
+
+tx 61ba99303b92f54a956a976ad623d20898def8bdb17367e55d9abdabb2ffec6d
+u=https://cpr.sm/keud8s2kYa
+
+tx 2239f2c1f5b6869687f1ab24b25e458da465047ca26938f5a962f8f00560cce8
+u=https://cpr.sm/7pfmbpQ95p
+
+tx 3bffa245765691c3a3e7b4f4fc7289683f2d04585edaf19e974062a7e55cccee
+zASCRIBESPOOLREGISTER
+
+tx 8bd7969d0fff63d8d1e72d95a17047f280ff92d8372524b9b3d3e67bbc186559
+u=https://cpr.sm/GVXmGwR66W
+
+tx be7613ba08984b66c7c5c0a69b35da28362631da9d75c8f30bea9ed40c90cd62
+zASCRIBESPOOLREGISTER
+
+tx 73cf9ce5772df4255d2bfcf0adcde808ec32a7a15e62f487204214fd09723476
+u=https://cpr.sm/3EmB3No7V8
+
+tx 793cbfd99e017764827d3cc486fe06e07e6043c8f93172cd6ce2b0988fcf65ba
+zASCRIBESPOOLREGISTER
+
+tx 009d58b2724c79f4a44310cf858942da0b76443c775d47debec8cf8db7f44a9f
+c`u=https://coloredcoin.io/dmt
+
+tx 7e8f6b1c119161df2231bdf069ea22008b9f3451dbd1aee4bfb3fc6c777b2fee
+zASCRIBESPOOLREGISTER
+
+tx d0e0f76104930d52b95a53b9656f7da04de7b522349fec98a60b77a4007e48ab
+u=https://cpr.sm/GVXmGwR66W
+
+tx a53920de12e3de71aba246425c80e45b208b3cc1b75a7d750520269cd26a0e21
+zASCRIBESPOOLREGISTER
+
+tx 79c92e4c59cf2aa015d324c964a30b0ba80f6cfb5d4682f9d9dc6346a10c33d2
+zASCRIBESPOOLREGISTER
+
+tx fc1ed73686dad5a57507b71da04c3617e85d1fda69a8a9b352329bfa1423f5f4
+u=https://cpr.sm/GVXmGwR66W
+
+tx 6816c96918662aa445ba7dcbc2da2308272439d6e2707324cce4d90d7837f7fe
+u=https://coloredcoin.io/dmt
+
+tx 0c22aef046734f5bfae412f08280b6ee95ed24a96f0634be33b302799f2e8688
+u=https://coloredcoin.io/dmt
+
+tx a21e583d9680ec26ebaa78339c67cd258cbacf01f25ceb2a73ad9a1291f4b086
+u=https://cpr.sm/pTKwBNIiUa
+
+tx 358005e64d763d5d5c89d3c88f5573b8c4fda203b7ec45c79d3243d898ae3acb
+'u=http://t0.com/osd.json
+
+tx d118ae898fe9c49ff51cb1c477705f5c77f4b2fa8f63223474102a31799603e7
+u=http://t0.com/usd.json
+
+tx 70e112af2c41272cf946b19920eb392186d1eb26077f92eb31403cf0d8a03a8d
+ASCRIBESPOOL01REGISTER0
+
+tx ba4d5ff0205932d0a66b985a9a76fb1138129b64c799447e8c58839781b9e98b
+ASCRIBESPOOL01EDITIONS2
+
+tx 8572a6692c78750c08bfa517d44b66e0c744d93c2506422c81dd603568be972c
+ASCRIBESPOOL01REGISTER0
+
+tx 91f31f7948983d473a4e1ef5cd6d3725e28db074fd564b2703bd6b8b11dccd7f
+ASCRIBESPOOL01EDITIONS2
+
+tx 9b947b251bc56e06849d769e01a63e6fee75884319f8ec6d0f2772ec248c4f02
+zASCRIBESPOOLREGISTER
+
+tx a011998164a30ad791d269905d5f4bf5c47057db1d5fa160edcfed783df86ec3
+ASCRIBESPOOL01EDITIONS2
+
+tx 2537f33c2cd09676679ccd22a84492065980146c51199f734f82be50602d2c4a
+ASCRIBESPOOL01EDITIONS2
+
+tx 8277790639da913893282d27412f7982cf87c272756b829b3f3f2b1c77eccfc7
+ASCRIBESPOOL01EDITIONS2
+
+tx ce180dfd5f614f19fa84969cf1d087dea7a40b88572163c92b8140dd5fc24950
+ASCRIBESPOOL01EDITIONS2
+
+tx b3948c4edeef3d4e0a295572fe331c89e898f437bd581c791f12a3415928a1e0
+ASCRIBESPOOL01EDITIONS2
+
+tx eb873bbf220192dd0fda9abc216d41d68cb337555498576800e80fcd9aa994ef
+zASCRIBESPOOLREGISTER
+
+tx 6a282e0dad212ccd741a23e7b5e8c6535f199c301898176884740777a881811b
+ASCRIBESPOOL01EDITIONS2
+
+tx 2cb95d22b710b1cdd975e73e8cdf6815c3d6ac9ed69108dfab69378ed6f176cd
+ASCRIBESPOOL01EDITIONS2
+
+tx e1f5f580623a8c60744c013138e81d3d159af8325e8657b2f9696a6a4f0eeb7e
+rs5AnvGhjFtoiDuBRAc3DWnRfL7fQSM8ny:usd
+
+tx b9614453681571b30f8e1789d3fff5f686f112afd99ca6c6cd1fc969c7dff391
+@ASCRIBESPOOL01REGISTER0
+
+tx 67b67f1c453dca345b232dc08308c04fbc69f8ce86c28595c3b5a9c3eaf1bc9f
+ASCRIBESPOOL01EDITIONS2
+
+tx ee0a7bbe21742f33c11f4fa65402ed29cdb9a21c0d3e38c84f99f20286d2919f
+@ASCRIBESPOOL01REGISTER0

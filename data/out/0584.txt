@@ -1,0 +1,2149 @@
+tx d1957b7ff0c84936261cadbc1dc4b8fcbda7c39ceb0341171fb6b664525712f9
+# backup.7z - File Size: 1161836186 bytes
+
+tx 0e429a6069fb7c1813038bec735900760f21964fb91dc500b5dc3cab75be901a
+# backup.7z - File SHA1: 948305846BBA457A3964834F3B97086309B535F4
+
+tx 99556cce39adb25b60ca76b1c71160dae0e5b13cf20b635a4b7e701f4144271b
+# backup.7z - File SHA256 Part1: B3151500804AE809ABA67D2FC85C97AE
+
+tx d500b08adf3f7cd2ed3c8e72280104dc1797ce1af18b75adfca3b48b2c48b20b
+# backup.7z - File SHA256 Part2: 45BA0373740159E038913023DA989A1D
+
+tx 08f1bdc52f139436082d79254e7e2a25390e78c36491d561cacd053113f73f6e
+8ef1915ea7ae6cc4f9a655de1f43dc860818cffa286c5ca32221c30d65be0e69
+
+tx e59156e69e35e5d5c5266b6ce4e863f81f6ee73f53c2a27eaec310fd05bd5f16
+8ef1915ea7ae6cc4f9a655de1f43dc860818cffa286c5ca32221c30d65be0e69
+
+tx cb6eba37033565e113db6bd8f68b39bfb618e1f4294d96b759fe845055013799
+@'a5a68bb1e447e0206e46277669166c57,1562326540,39.890075,116.358925,20,
+
+tx 4ad56c79325d118d5f58b3bc5351fbd0aafcec64b97d1625eeb66c15ba08c23f
+RT {"ver":1,"auth":"0","title":
+
+tx e0ace7b3a19984bbbb9d96866e8e9cf76f28e7b1c924035287b31ea6254f9eac
+RT {"ver":1,"auth":"0","title":
+
+tx c61eb5d5bd60263543b03dbf92c080756960c141c37db34ea68aa00b0ffd4ca6
+RT {"ver":1,"auth":"0","title":
+
+tx 2f6b4912707934c1ed60192fc5e648ad4e474823fe5bda900d1d1bb634a2bf42
+RT {"ver":1,"auth":"0","title":
+
+tx 22cb8d31a0739865e0382908dc55c4ee23fcfb574185ec97728948988252de83
+RT {"ver":1,"auth":"0","title":
+
+tx 5dcf287d93ffeb599658c49927312d33aced98ad97f1f63f0bd22f954b7cc990
+RT {"ver":1,"auth":"0","title":
+
+tx 835ef956ddcf32345b1c67da1ea8b2f9afc98578760e4028d510c5c0ee56b2fa
+RT {"ver":1,"auth":"0","title":
+
+tx afc4fd7067a14b9b79057e348343cda739c0196b9cd71bfd1c566338962963b9
+RT {"ver":1,"auth":"0","title":
+
+tx bba6d5fe6cd88b65462ff37d9fa7ee3c8767b164edd8577682e41a0ad79bd377
+RT {"ver":1,"auth":"0","title":
+
+tx 3b6d08d02a7acc3c07d967143656a6c601285dcbf8a38e34050a5d55b0ac1a24
+RT {"ver":1,"auth":"0","title":
+
+tx d5e2f1d1fc6c7e798aaac66998b07530ab7dc6167379b6e7ecc5fff5cbae07c1
+RT {"ver":1,"auth":"0","title":
+
+tx 1231224820c60bfc662cae86b05d6c81f6a8cd7ce9a8b227f9ba42f9fb47a387
+RT {"ver":1,"auth":"0","title":
+
+tx db62c48f1269f350d89b781440081f682b421ca8a0dd2806232211621682d00c
+RT {"ver":1,"auth":"0","title":
+
+tx c54c0925cddf4d63abf08413eab60cb1bf1086ec6967edb07b0cd5425605c0ab
+RT {"ver":1,"auth":"0","title":
+
+tx 504924a4325c00dc625598781ddad9a6b4c02acd61ecc1ff962bda27266550dc
+RT {"ver":1,"auth":"0","title":
+
+tx 744333da96bfb072ff7984bf9d6eedab4466fff0e0a59ee545de0a527ce2d92e
+RT {"ver":1,"auth":"0","title":
+
+tx f2a6f31cc9b871d6bc351726e08e0d8fc6f130dceb501d1a799df4be264c74bd
+RT {"ver":1,"auth":"0","title":
+
+tx c7d71740125e94e5d9f8b0bf2a40ed2a191905aa34540d65e1470c4b1d50f353
+RT {"ver":1,"auth":"0","title":
+
+tx ed69a877a932615a0dc08b9e987ebf564ab00c955b61b7078a516b7e0d7f5eff
+RT {"ver":1,"auth":"0","title":
+
+tx 6b109c910ad64a23f9bf5a4ed9682642085e1f2e8c916203ea5ccd0a2c465fb4
+RT {"ver":1,"auth":"0","title":
+
+tx ce434e496aa0fc13b607f5d0e0d8facc0ad04a95418e5070012318ee32fca888
+RT {"ver":1,"auth":"0","title":
+
+tx 9f72b36f1c13b73667e20f3fed84750a520f7b22ba1ae6abf9cac773e7536415
+RT {"ver":1,"auth":"0","title":
+
+tx 50f43bcff61bc2e78e18f82d92818aac25620b812de3cc8ca282b5a385b1da73
+RT {"ver":1,"auth":"0","title":
+
+tx e9717d32a78005045ea71afa66bca4cce8306e2b645a74f4e877a902ac4cbc33
+RT {"ver":1,"auth":"0","title":
+
+tx 46dcfd61d5945179c9f0628fc0a6eabafc1cf940ece99f4cc75676fef80b2140
+RT {"ver":1,"auth":"0","title":
+
+tx ea5d4e84a59f99d02f4812332ec55b8e11ea9db6fe8fbbaa4d20c2e260ea5a52
+"001d2695243ba72af6a979e9deb0947672134fa13ac4633146c0212779f35b82"
+
+tx 32e62420d28edc4fd9f23b7c899205066b9b8b5109dce435b84a67aeb824e2e5
+U551439.2628                   {"ver":1,"cmd":"TR"}
+
+tx bdee8f95553945e2317e855dd6df287b452e75ed1dbc67debff7348829af79d5
+RT({"ver":1,"title":"","email":
+
+tx 66e346aa5658f9e937c054aafdf6d7f64b15f5f1d2fbb508f615e1a5058234ec
+RT({"ver":1,"title":"","email":
+
+tx 753b3041667476a887c3d0a7a21768bcfdd88568359089777106537841c95cc0
+RT({"ver":1,"title":"","email":
+
+tx 1ed2a44f43fb950d52727cd571ccaa0f06b09430cdfa98ca8b699a89c217dde8
+RT({"ver":1,"title":"","email":
+
+tx d14859469638ddee7441e81533a5fb432877d333f52e0bec10ceb3106027b7a9
+RT({"ver":1,"title":"","email":
+
+tx 415849fae6c17f3babe928d7b39681751de18e199be455df5ecab1833be9dcc8
+RT({"ver":1,"title":"","email":
+
+tx 60ce1049586c54fbc5da77c027cfe4202eb8ae0ca7d8bf7758ed736e3f5598e5
+RT1{"ver":1,"title":"%E5%BE%97","email":"","auth":0}
+
+tx 422e4e83bedb3dad44ba4103fccbb07fb0bf29ea74b0c7fd50b5e17d02fdcdd6
+RT:{"ver":1,"title":"%E5%BE%97%E5%88%B0","email":"","auth":0}
+
+tx aeee88dcbf57469c44d60f8ec8218d83d1d4a42e0261a93510e5687fbae44702
+AuroM 437907f298d761c01ee66bf709aed632a80d0c2b5d032387e4298a39c22f7e4c 190705l
+
+tx 0b4fad5b42498bdbb27f65d5e98cfd47f14e13a5b0401ea002d9c164a0abe488
+@;20190705202136UTC;ORIGMY
+
+tx de76cc27d429b1cea3c6b9521326ade3447fbd76fa04fbddd5cd4aa218bb1284
+;20190705202213UTC;ORIGMY
+
+tx e933030aae0c8695157bf98e32ceef5c3bfb49b46dd7bfbb8b6e60af030a53c3
+;20190705202134UTC;ORIGMY
+
+tx 69072bf550733917d2ff6cbcf4e6243a8b8a4d09d225e0a4eea1035421b05ac4
+};20190705214504UTC;ORIGMY
+
+tx a69dc22e6d427634dc09858424c679114fdbc9338baf03f4e0f67a39407229bd
+IPOTX: 218c4528dbc12febbdf37305298b65cabf03676b4075dba94fb6722e8bdf423b
+
+tx f7a690579822d79c7b0c46296813ef17975c10d68562b0e23a6d964cb5859350
+277ZSo1aRqQ6wj2ZwYWnQmkT218kLLpJ8i17SSiI
+
+tx 2048bbba8fb89bf49e1d7fe540787d998b50db44ffde019f6a6a56fefc50cfa0
+https://shafish.com Certificate(1)
+
+tx d46f03e724f3d969001327b70be5e8122411a863d69e5bf4b862ee1daa137cda
+RT*{"ver":1,"title":"ko","email
+
+tx 052d8e188c6efaf6c4c1619d9a0f12b77ee66c1e8ba7e5e8ba68a653e3531933
+IPOR: caffe85f3c0354bb9f44841d2d3ac8e1711ab945edda417479c6cb0f2aa0512c
+
+tx c932232a90a196f940e9bd523757688d239450f9d133daa875435f78fd156fae
+8f16c1cbb3e5198c1baa0d30200242b4,1562386999,23.111097,112.516515,20,
+
+tx 645e4e79637186dd0f784306718c0470eb5c56e079ecc25c502ca5c5bd38d606
+U562823.1392                   {"ver":1,"cmd":"TR"}p
+
+tx 440004dd9ba4ae0649d7a7597cf166f3fb027481fdf4d30dccb886d43516c3cd
+ESPKEN_VTUBER_KOSEKI
+
+tx e4b871e2a62234b3344f2c284e90292b31bf52cbebe384dfde29da5d646a2c5f
+ba53f31bb6b68f75cf16abb1fe58e7e1,1562393716,34.001717,109.141846,20,o
+
+tx 29e555a9f8870d987fc46315b758541a8608b88e804dc3d137e3764517f145b2
+754edadd3b078acf202b7fd7153c746f,1562393645,34.001717,109.141846,20,
+
+tx c9c32eb36762c9fd3e09eff8daa7e0355ba7e672af8459364965e442b9064b0d
+{"ver":1,"auth":"0"}        
+
+tx aa55992ba80aa23e5f4aced1cfd96c92d3b130537d4748a02bfd6d1042bc5f63
+RT%{"ver":1,"auth":"0","title":
+
+tx ae6a723e870064f32b0ba3e8d29a2b791bd75ddac87630a430a0e76a2d42d158
+RT&{"ver":1,"auth":"0","title":
+
+tx bdda1785ee7cd8f4713baec00078be522e21e629edcb34a80a244843097cea0d
+U562823.1392                   T.{"ver":1,"cmd":"CU","tx_list":["584090.2184"]}
+
+tx d8650b4203fe0eb4fdf6dcdcdd6be1da2e48e6a1f1f8bb300f299658506a2c7a
+{"ver":1,"auth":"0"}        
+
+tx a2612eaf6c30db8f35fdd2dd3cc2294049ef1aa9086c2132b412d36414f40031
+{"ver":1,"auth":"0"}        
+
+tx f374306b2367d153936233f445155884c5148037aaa8d2d47654f5fd611876ef
+{"ver":1,"auth":"0"}        
+
+tx 613bbb85a12e5c14c9efa08848085168d910c847ce67fb8440106dd091b35fef
+{"ver":1,"auth":"0"}        
+
+tx d425ae13e0481aff92730d88769b538c493ead7934b4ef76db624f020ae42fb4
+{"ver":1,"auth":"0"}        
+
+tx ddae83786c969f743c8b9e7243b7c24e348ef2004a866a32f6f78b6dac0f9f29
+O*;20190706065204UTC;ORIGMY
+
+tx 11c12954bef7ebdc40bf3d3d75943088f0c868647d835b29a5283ab41a04c075
+|;20190706065210UTC;ORIGMY
+
+tx 26add71cc76a8cf721020f3d866ca72386a423278b978285fd1085fd58564213
+U551439.2628                   T.{"ver":1,"cmd":"CU","tx_list":["584031.2132"]}
+
+tx 66a8bf6b0cfc452b37f377e3df5914c004fe6c9c6228f225a7f0300c5ab84944
+U562823.1392                   {"ver":1,"cmd":"BI"}
+
+tx db6f49a8236e7ae0d95836c9dbe3124887a64a676bb40458c91f0bb6f55d75fe
+1359a6dc98ac1977ea03ea20ce2719aa,1562403528,31.254382,121.374959,20,
+
+tx 7eb644d259067dbaa3640baaec8b7a609310bc34b9b22e257bc8644059f45f30
+1a00b7c48afdf5ee7d2f39002a20df1c,1562405052,33.426915,116.20946,20,g
+
+tx 2348abfc443cf4ad9d9bf662be1c5b10be4cf707e10f0df16aede20fb267fd9e
+U565428.800                    {"ver":1,"cmd":"TR"}p
+
+tx 84189c82995db355e92e37f8cfe8a9274e9a5d157f1f1658067672e707469a09
+U2FsdGVkX1/FO+pLeLaIvD20cPH6yt8hYMDALt4M
+
+tx 1150aa444d0f519b4433ac35a929fec5d93f4a0f49e9e11a82877e7a8038373f
+d3CVyQFJhxgw6vRFc7SaErn9
+Sw/wwddo4yNxCfu
+
+tx f5440242b92dadb7b96469eb566ad35509912a6dddf7d96d71cfaecb7e5a4e2d
+3CbdCcJvh4Zju2RewKI23hN342jbD/m1ejz09RGD
+
+tx 2a1284fc62e6c09d4db376a2517aaf616ddc7ea1a0a82c8554793ef0de3021e7
+4e/Qh5Xpz
+jhsaoxkOFz2SJjmkZJS2aPCumZeo1V
+
+tx f9f086b37eb98fa7eac2e673f4e62966ebe451df3775d52c8233ed15f051c745
+ZMI2mawulB6LMEFB0zDdqkSGxccsjhiOqL
+XAb94
+
+tx e90b18ce1029b63fcb976bacc23bf2a6569b74026997c954ec0c0b94392cf609
+BlJ66o8gXN9pBhl0lwUnNPWn6cy1SxfvfIr0CAK1
+
+tx 546861dceb4c827e1e9028f3862906b1d450445e20b193c7708ea3db7dfe19d1
+oi/KaHrWFSlBW+zhINA
+mTzgqmNLJF7cADA08td1
+
+tx ea14fc4f355f02447eee6589f04913f58c6b7078ba3d48820eee06f1b5d93101
+WNtdpSCAy2K9YXa+N3CP8Soo32Xq1h1XfGuMc6kP
+
+tx 4da59a899121ea0822235b148b4975addc8f946325858afe0482c610260eeb45
+9UBX
+d8fJFU2xkHHI+Q496I0lcUa34EZHzNkKx+u
+
+tx e132ec2b3346a1e01e8f8d897def1cd72d8e39994475067cb37b25885b3e808d
+e6ziW9sUTW6k3Hk6rBgB2/4qoGLAn
+mwuXjmgH5N
+
+tx e6809619711522e31e33d96e47db2f413185cdd2507479024f6c8f9f618e4e67
+AOtHGN8laC7QIC9jIZm0zHbzg7O7xxQBXC5jNgy1
+
+tx 4436da1cb8058f039a44d1cde56fdaa8dbdf5d3288e730c77148da00d57c9869
+7LFYQSULUPJ14h
+RP+lFyjCwiy6ZmghCJG3trFh0
+
+tx f752dcf7740331ec4113306c5d367701a739256d6195250e6addf0ffd19779c7
+K7jIrfmtgmmT9Oc7oztQbA6Lp4eFyRqprLF2B8v
+
+tx 808bf7c295cbd4d2721a4a29306153e3f7da72c02f0bb1c66608d3d84235e54a
+DnEOMAr7hpkcDCld/uCPn0+zLmQtIYgLAsMlaB2N
+
+tx e8a7221f3a061e569bbb8a462c0354b54cd4d4d0f3f0c389ea2cabb8a1026dea
+WANPGJpfkWIED7pKBf2JX8KW
+SQ94KF2ESdkiU0C
+
+tx 17f546d8f9fc37f9660c1a43628c64ad43b32dffba91a35ed300cf9d472824f7
+TTIJ/D6dmufuPDci/P6KY2xHX2xxyDw6r7Ia9KyG
+
+tx 37552b02e0b80721f0fdb7f7b9db458ae115c24f97769edc5d3bca19cfff60d1
+ym69iKM0S
+GZgWKKMb0gWKDx0BHWky2j8JbkNQ+B
+
+tx 4fd85fa4b7cefb6ec107befb103237a06388d1fa3d21e224520f32cf437256dc
+tN+N4ae+FAlfv7p21ExOL13p25ywVxC2Kb
++fzNb
+
+tx f8837f10ece1eb2ca0c1a03072ab2394c35a6b88794bd27b5c6eb7455c550c08
+LkVuJeJCT7Yeq3dHdOBrnf3c1/vQGf4b9hqujurt
+
+tx c7965ad7074199fdb889b9efead62af58246975039ec51b5bd4664e54bd1c733
+cbciWmjdFZTrec1wpHc
++gi5b/mqCMojJKD2s9M5
+
+tx 103952a1391961f1a009801569e4cf75d824b0ff7b042e66d2ce147d2de61810
+gBtKvhQQVnKjcPehM87wcHv5G2v5BbCHfKhivOj1
+
+tx a915949532c004750eded70b07391df16664db43a969b56f24e89d1c5d916d03
+5JWG
+OvzzhT6CpsW3NmzFMrwwcpuw2fqOdNVylms
+
+tx d0ca6673258f268c04cf19cea4f29eda2a57ab62cf2434e8c0f22989abefbc2a
+xCGn9sLVlOLfBA+n81KqiMTqbjfHu
+Hkfko2oEk+
+
+tx 36f0466ae2248a841351999ab37b7f40974de4540d1d6c89a1a48ae2714f5b57
+1Y2PZEJPz6vmyJVDDgokYcF0BqkTGEDcC8LkjB7X
+
+tx 5306b732c939638051ee9560445df50e62b3e5163e35460c363d3db172c8e2bd
+R3YMm1EG3EmDMk
+uERXcok3bcf9yIIcdiqmcVU7e
+
+tx 74239a5eeacbdc3a82f2bba5441e9769c620e99947934bce179aa9677fa8154f
+Umtepva1/YFX/EJGMxEuCrDngKrbGo/T8I4W9R+
+
+tx 247730c1b510b15930a015da8036b0940e7e3f0aaaa2e9fc1b81d0d3bc59cd32
+YeRtfU8uJgC8fHRB/ZgFOUXe8eutOZnMjAwVdNb7
+
+tx 9332f4e5490ef9b03c23a0b304c9cc53a3a97bb1294cc3e06595f4821f66a0f4
+U565428.800                    T.{"ver":1,"cmd":"CU","tx_list":["584137.1827"]}
+
+tx efdbfc186b3c686fddcc81fadb5299806288e23a612854923dc8001ea17893a8
+U549132.1205                   {"ver":1,"cmd":"BI"}
+
+tx f5c1a7514bea4e0cfe8c52d6daf62cdb65af76eea79046aa012156930b92dbd4
+bitadresse.info scamNd
+
+tx dd1a7942d0f9ff71888da17d2feba19a9511de3ed3be232f0dfdaaeed62003b0
+Cheating victim I am
+
+tx b4a397ab9fb3ab8f92d02b7280609108695ed41e4139e32f424cd45b434120b8
+U565428.800                    T.{"ver":1,"cmd":"CU","tx_list":["584137.1827"]}
+
+tx 9f369cee2975e506bd867d91bc3e42eb2e2207da437306b21012ff267cde0494
+RT.{"ver":1,"title":"newone","e
+
+tx 48b816a46e8d487c7a8e2c0410788b3f2dca79f22c32fe6daef9dab96b688956
+{"ver":1,"auth":"0"}        
+
+tx edca9fe2a1ad29d8adb77c1552769ec8b7d9c66f059429bb368fd3005f2f3eb5
+{"ver":1,"auth":"0"}        
+
+tx 5f31def0531709c88669259c880b5870503a20e3189babade777546ded2cd0e8
+{"ver":1,"auth":"0"}        
+
+tx e7790bed243c21e9ed1393150202816ccef5286bee8758c6cbfb499b2e03ea99
+{"ver":1,"auth":"0"}        
+
+tx 6c4ebcacddc6fba72c619de92b40f653aa1b1b5e978a3473effc45679cd74c28
+{"ver":1,"auth":"0"}        
+
+tx 5dc40826d03f986e6988c583c09271e37c5e0402250f81e691a960cdb3d515c6
+{"ver":1,"auth":"0"}        
+
+tx f9a6fce080ba3b138f4c4578ccfdf03c8588646e53306de18e71de612cfa8cc4
+{"ver":1,"auth":"0"}        
+
+tx ff9e15b32ce13b24f9bf0bd5644a5ea0e09eafe6c66c0b9f749537703e801950
+RT!{"ver":1,"auth":"0","title":
+
+tx 0456ea5adef32a08265331f18163853b932d8b5cb393b563bacda4b244f7045f
+RT"{"ver":1,"auth":"0","title":
+
+tx 68c8d1d8244bda4c1c3674c6f5810de35e89aa08aef62ceab76dfb977e35bb5f
+RT"{"ver":1,"auth":"0","title":
+
+tx 48b2341cd5763b66a4b6b28d26964c4a57a3ebdc8b1270a631027494585ba0a5
+RT"{"ver":1,"auth":"0","title":
+
+tx ee24a6bf46151831c1f81214925d754221d4dd1a66b24162b2d3c492cbba067e
+RT"{"ver":1,"auth":"0","title":
+
+tx 7fdf85dacb5130d27d9d74b4918e534113e827b5795a39d20445ab92686c0a7b
+c7d55b21b3fa577efa072f192477b838,1562431770,27.812859,109.05708,20,
+
+tx d032bd12a4f144364e7c0d32f2e0936615ecd8f1901430f0bcff1ff1e8482a69
+AuroM dcf2dd65db4e481271b6746b400b74119747858891fb89c2f4e87b80f48efc16 190706l
+
+tx a9981339c87c8192f85d21354d35da948ceee71e25c6c6850706387a3aec704a
+{"ver":1,"auth":"0"}        
+
+tx bb9284c0e1aa00e515951262d9d8352b43e086f33b3fb5c230f83cf62038b328
+RT {"ver":1,"auth":"0","title":
+
+tx 3439f42ff59ee5e42fcdd5ce91808c4b0a3ce8ddf6ff1197fa1d30bcb8389f27
+RT {"ver":1,"auth":"0","title":
+
+tx 83f1e45372af70f2d2b98a4a3ba0bd06c74cbb019829b6097951f941c8fac976
+RT {"ver":1,"auth":"0","title":
+
+tx 856720ca115a1cc27de707a0f391b6f9d530f2fb6e9f11aefeb673fedb5882f9
+RT {"ver":1,"auth":"0","title":
+
+tx ce27afc168e91ab56edc68452d584228cb06dfc4839e7faff1a21ae29f51513c
+{"ver":1,"auth":"0"}        
+
+tx 9313388703ad95d3997efff8dfb5632121d884d75b6e6cadfe19ae1fc67175a2
+{"ver":1,"auth":"0"}        
+
+tx 2eb9e5f27d346bf5248ccef79714467bf96306d60f62726d261d26180b0b1642
+{"ver":1,"auth":"0"}        
+
+tx feb67db9557504c3e2d3eae06a80ffa40f3e2f3140ff665ad58bb10974f49452
+{"ver":1,"auth":"0"}        
+
+tx 3ee7c1e26d2b476e46bb9237f364aa4dd6132053297d2850509fea25ae733956
+{"ver":1,"auth":"0"}        
+
+tx e3cf06e9d8d103e473f137d43262a72f412b6414364ca16213e52b78b00ffd04
+{"ver":1,"auth":"0"}        
+
+tx 04c7202cd2df5aef010d2b19451a49407c3445bed6d576b33083025ccf96381e
+IPOTX: bada85c7363920b91b0d40747db0b72dc6275b7ce2237b2ab5849bdcb9a53bea
+
+tx 3edb199eb951e02670416af469a8a84f33dcf2fffd1e88abc74af7b11c2c528e
+RT {"ver":1,"auth":"0","title":
+
+tx 4c47f275490cd007d7dd7344e27d9958b984c22092db51201ef6e258039ca853
+U565428.800                    T"{"ver":1,"cmd":"BI","email":"163"}
+
+tx c6035db0cccb030ba3b36b62885b4c6d74719a20c828b977f28c5b7a69ec53f4
+RT {"ver":1,"auth":"0","title":
+
+tx cf34493ba674c8b094e533dd8faacd0d0c4d064a678ed0d1925bfd0bcbc61a60
+RT {"ver":1,"auth":"0","title":
+
+tx f1501181c7c38c26c35e1fe4c28162af73fa8fef4e73beb7ac84d30288733022
+RT {"ver":1,"auth":"0","title":
+
+tx 957cf9bffed3c69dad450a2e099a59cf78e63732f54787dcad0376cd619bfc42
+RT {"ver":1,"auth":"0","title":
+
+tx d4a0f75f63905380426e40d86513b7834ecf31760e6b79752845ef9027edea75
+IPOR: 1755025d41f949aa17a4c14d71a5475df87f62ccd3ac3784f75fd010423dc235
+
+tx 96fefbabc54fdfc85acbc3d3250b2906ab993d52da865151106a40a59248f09f
+RT!{"ver":1,"auth":"0","title":
+
+tx 61e1050f4aeb8249e17b282d0a2e6a5f57f78e60d2e8e36fad7eaf2de8d019d7
+RT!{"ver":1,"auth":"0","title":
+
+tx 5742c2735c41942890dc94b686606e01ad4689c432add8c77baf28979dc7aff8
+2ufA4JzNCXgvYnTrXsP1Bc6Mnn7Fsu7ErwQvnYyI
+
+tx 63b1ac3a2c03ae4639048f4829ad309989b982d54ae21f50c61ca452963203e2
+RT {"ver":1,"auth":"0","title":
+
+tx 9b06a09f05e14f73e9379667e8675c73dbcaf50697c26c5336e8fa7e52e21cb5
+RT {"ver":1,"auth":"0","title":
+
+tx 14024ada0aefb79ebc6e52d353138427217f9cf952a3090b63438bc76826d54f
+RT {"ver":1,"auth":"0","title":
+
+tx 95a25c223217311c8d7057623f665f511724ad6f1df436919bbb72a327156871
+RT#{"ver":1,"auth":"0","title":
+
+tx bd01b5d443419ef4617beccef1a6e73f7e4577cc8c367e0900525d1e7c416125
+RT#{"ver":1,"auth":"0","title":
+
+tx 6afec6acd740d454c713ed7debb88a379b737fc5b11e28314997df0aaa522254
+U565428.800                    T-{"ver":1,"cmd":"CU","tx_list":["584259.926"]}
+
+tx 52956ce006f219a02279e774fcc4bbe24f50b9804d0eddb0cdf63bb6a9814f57
+jBERNSTEIN 2.0 REG 5a5a0595-22d2-4f67-91ac-55feec967054
+
+tx 1320ab3242f0494579a3efc90bb297b1683315e0ea2b1f064075293b62aeb057
+5840158acb32a3a29bcc7f90d830b74c,1562507549,28.754454,103.169801,20,f/p
+
+tx c952175ff0692989bb5ef19d074385929c493b650e63ac4baa33a37a4c0596b8
+RT {"ver":1,"auth":"0","title":
+
+tx 293cdabbd4b17ed8f35c26ba12e312446669010d8ef350480d8ecaaf21df43e9
+RT {"ver":1,"auth":"0","title":
+
+tx 926a688621e364a4082904cf39e6276b8d2f1a60693665621c51428db3d32a32
+RT {"ver":1,"auth":"0","title":
+
+tx 6bcf9976fd83ee9835f13e5389e49121206fe42ff70dcb4f0df94e3be005867e
+RT {"ver":1,"auth":"0","title":
+
+tx 9cd04f30f19b8d9d688ad5608f2b9461a68aa9c4e62e0216a82a6feb4310b092
+RT {"ver":1,"auth":"0","title":
+
+tx 5c2cc5bdea3a1f4d6044eae947623884c2ad62b55ff4d9a3850f660bd8452605
+RT {"ver":1,"auth":"0","title":
+
+tx 6bd064e6438395ed3ef88c2f1bd08bf32c707aa67a0a8fb9c6ff8ed2c5467519
+RT {"ver":1,"auth":"0","title":
+
+tx d3d7cb158fe95817b9dbd43ec6f4da0b18814c352375a9864b2562acda5a6d18
+RT {"ver":1,"auth":"0","title":
+
+tx fee23b13d72ad729cb3de2ff2eae4165fcf3244cc6c4c2d6bc52fc3a9b41f5d8
+RT {"ver":1,"auth":"0","title":
+
+tx d2cc64929bbe58a32fd7eac8c2b7af848bbdfd7bf6891f71f2c00fecc337bf1e
+RT {"ver":1,"auth":"0","title":
+
+tx 4dd49255f403a01f631182929eb67e953686a20e455aee077a922c95d5be748f
+RT {"ver":1,"auth":"0","title":
+
+tx 64f0fcdce1ac2bc1e82586899ca69672c9016bea42360f55192deaacf5491c03
+RT {"ver":1,"auth":"0","title":
+
+tx 58caba4bc9f73521d2ac8db9bcf3cbb3556aa9c6d1dbe5e2fa29e2ae766b327b
+RT {"ver":1,"auth":"0","title":
+
+tx b81c7aabf1f866c4b373671010d7e4c85e83b3ab58ba1075296b681031a262aa
+RT {"ver":1,"auth":"0","title":
+
+tx 5acdc4ab96b4b952c56e7094426b536b976e614759abd315b0ec856ababf7c08
+RT {"ver":1,"auth":"0","title":
+
+tx 1b897c591f75bc5a0aa5ebea5ed5c41c8f98eb7c4efb228799feec391cb4cc60
+RT {"ver":1,"auth":"0","title":
+
+tx 46f3ad51d7ae82211ee911c085ae4afd1eba20eaf64a0b64b6dc4732cca57876
+RT {"ver":1,"auth":"0","title":
+
+tx de23341b788395acd9ea57fa48a26763cccac19680a3571b977a66400d287ad0
+RT {"ver":1,"auth":"0","title":
+
+tx 24b04de933cce71b5e55757f64b9be94d44fb97ab587fcb247dd0ac59e1126b8
+RT {"ver":1,"auth":"0","title":
+
+tx 33c8f3af46aab656396e125cdc53fc5166be1c78cc0debb95fe8e9153fa4837a
+RT {"ver":1,"auth":"0","title":
+
+tx 56fc1dcf21f4e79e8b2ae37068389589eb5a8d147013907c09cef6ef3ed88626
+RT {"ver":1,"auth":"0","title":
+
+tx 80621a816e7dc0b0d1c88e39bf4580ff87ba22e46818f603e6789ac3725f0409
+RT {"ver":1,"auth":"0","title":
+
+tx 152a9802e8575aa889c6c36caf6d5ca11f119494e9a7caea1300ad781d89807a
+RT {"ver":1,"auth":"0","title":
+
+tx 1b58f5977dd694035113e4b100f0a398030fc2c117fb0f4c12e9bfe88e08bff0
+RT {"ver":1,"auth":"0","title":
+
+tx fa6391818de6b692d926f1744e75feaa6c4c80b25fda163ebfc1e11d7adaaf35
+{"ver":1,"auth":"0"}        
+
+tx 86af195a2fbdb06def64a072c8387fde197a5cc3fe547604065e648c4e644c9f
+{"ver":1,"auth":"0"}        
+
+tx 94051c72830b6e4b2f766062f6ddd18178da7fc112b4160a75640882938cf954
+{"ver":1,"auth":"0"}        
+
+tx 1b85dda761201f5b6a15bbc8674ad4087f02c368b2c27e304c0f6461eadccd47
+{"ver":1,"auth":"0"}        
+
+tx 61ca9571c3acc69e902d048da624f616946bea95c440e97c509dda152557c55c
+{"ver":1,"auth":"0"}        
+
+tx d991ce0fc031bf4f235adb22cb0d3b8b18e9bb3a41e49c21786e8194993705eb
+{"ver":1,"auth":"0"}        
+
+tx 74181da15b5b0f551d9971c3edeab8b6def55f7d035b445a4027a237fa3bb0a5
+{"ver":1,"auth":"0"}        
+
+tx c11cf780ebfa0ccbbc3dba6932bbd97c77635cf2d64a474914dd7932539c975c
+U551660.1606                   Tw{"ver":1,"vd_set":{"cert_uri":"ipfs:QmNVU4nrZ81Dv4nYEBxCbZfqS9mxeQ2rZ3VYn4rkwkjFLj","algo":"SHA256withRSA"},"cmd":"VD"}
+
+tx 27d03ecd6c02d175d5ca3414f87e3578adeb7ea68e6ce5573a1adcb2411e90d5
+EW Brenton Tarrant is the hero we deserved.
+
+tx 0bb2ea156b1e2c576ad8ae84224096aec32e4795b2188fb9b1f468be0e054221
+RT"{"ver":1,"auth":"0","title":
+
+tx 3d2cc8c40ceff5bcaeb963549b3fa50d87efbe95cbaf0198299e24bfc236fd20
+RT"{"ver":1,"auth":"0","title":
+
+tx 0a74f36a1814b4453cf98e2548ce7fa540232bd0fb9ec51c976f76bdccde358c
+RT#{"ver":1,"auth":"0","title":
+
+tx 37d62a8513e854750a0c081828bbe6f5d13fc05c0edfa152003326317cae11d6
+U563246.1690                   Tw{"ver":1,"vd_set":{"cert_uri":"ipfs:QmVApk1sjMNfrHv8QVS4ExxMejJExDF7yPQxGsLV3KPvZP","algo":"SHA256withRSA"},"cmd":"VD"}
+
+tx a7ef7604149cca7ce6dda565ddf53da6063d9caf3e01d65c9127caf3284e9bc7
+RT+{"ver":1,"title":"708","emai
+
+tx aeea0ab6d50a618f5558d6456e47c4f193c9bb00f76dee73b7f334bde0e7f076
+IPOTX: 69d92ff107b43d95694c31570ef60f8d74a071d4d2e205eb27f771d08bbdab41
+
+tx f964e3e4bd51786c4b25a4ca8a68936cb064f0159f6b0945fb1827bcf5ee6aab
+{"ver":1,"auth":"0"}        
+
+tx 40d546c318728440d02aa39857b2bfce3654af80b3dda2f422f8cadc7edab996
+{"ver":1,"auth":"0"}        
+
+tx a8ec3c79f348ce9186d023294fe7df8a6c95c6f9ffae18e2a3321ef79790418c
+{"ver":1,"auth":"0"}        
+
+tx eb16d2b15634655177dd80ea986301cad2acad131019c149deb7fc91a8002fb4
+{"ver":1,"auth":"0"}        
+
+tx e9f31f95a5a90ab53286ed826afc494ae6d18f6cb6d48866f5023a42250c79f3
+{"ver":1,"auth":"0"}        
+
+tx 421e7a3bfe827c43cd28e4339f1b9a85ce35b5461a9ccd195ad9408e33043d38
+{"ver":1,"auth":"0"}        
+
+tx c504f2bff5a36f954b074fd6cba4be53140046de538807a8216cf9e527e5c23b
+{"ver":1,"auth":"0"}        
+
+tx 396c5546ae521493b3f8daeb982a79dc9cd5f18b25f9aee16f1094c11b8600f2
+{"ver":1,"auth":"0"}        
+
+tx de128bb91f809ec222cca0a1fbd7d11174e6fa59509ca0aa5742dd18b70d0139
+RT"{"ver":1,"auth":"0","title":
+
+tx 33022aad1499450a4024352d83411c8947786cc11ed82efeaa09aaaa6f04ff6a
+RT"{"ver":1,"auth":"0","title":
+
+tx 6f8b5d6e82ccdb7eb19cfa293c5e464b76da6ae31ac850e269209c777e127760
+RT"{"ver":1,"auth":"0","title":
+
+tx 4d1b10167353938978212ff52b55e62361e3174ba56e3c112fb3728115bc0a23
+IPOR: 1ee7ec02bfd15c6dcfb8ada645b6baadcd1d084e317d8e608405dcf9aa03c6e7
+
+tx 49455a1054db6df7d802d383278bc862b6b0cc7ec86ace2ed3ce318eaaedd84d
+RT {"ver":1,"auth":"0","title":
+
+tx 59ffcc9be2fa60a952a27a1eec1d786027e69516489931d274fc12f397bfe371
+RT!{"ver":1,"auth":"0","title":
+
+tx 11787836f38408f016033c8b8f21367ff2ea2001232aa0cc2088d2cb96b383e1
+RT!{"ver":1,"auth":"0","title":
+
+tx 06212fa0365672c5b28368d59482ea4216ea882b6e7f07cc42c78655a5f33b47
+RT({"ver":1,"title":"","email":
+
+tx 936bb7631637aa8e90b592a4e002c980367c7b82121ce24aa07a8553c101af6f
+RT({"ver":1,"title":"","email":
+
+tx b1bc94f1f4b03cb1cda70bb303ee64b89c88c10460f46815565dc810e3cbee63
+RT({"ver":1,"title":"","email":
+
+tx 564871f012db2009c3baf0c66bf9b4a0b61c27e30a150730d2a0610e6a933da9
+RT({"ver":1,"title":"","email":
+
+tx 8a38ff81a3a9a5025f94f1d08122331ef5eadfa3ee2f130f6adabf192151e5ea
+RT({"ver":1,"title":"","email":
+
+tx 47f6d702a7271502f6c5669e6c6cceb3b0be0501e53dfdf355f6fa3c076411b6
+BERNSTEIN 2.0 REG 96d25fc1-ccb6-4b4f-b98f-ba2e7dbce9c1_z
+
+tx 82ff0301f01cf8010a63b1f2a4109514c3b55b376d80cabb8ace7a451c5896d7
+;20190708034311UTC;ORIGMY
+
+tx d4e6f4ee1b626e0c9f6d886d35df65b9fd62b6e16e8a90ef2e37afdb7829f31e
+d3e04a432467c5c286caae625c7cc707,1562560207,45.763003,126.706133,20,
+
+tx 2354ed8806dae55cb7ccb2d30ab92af4465b4e10b3702347a8a57a5d7801c658
+RT {"ver":1,"auth":"0","title":
+
+tx fb79f2bb8abb1be299b300c2d33e76f9f48312c9e65aa2d71aa9903c37ec2a7d
+RT {"ver":1,"auth":"0","title":
+
+tx d1645190af03bb1d29cd63100b85943c959ab034ccdc4a390c6b11fcb4e46bcc
+RT {"ver":1,"auth":"0","title":
+
+tx 6cad24f1071d1e7cf28c1aec348121f733dff8c3deeef898550d9416ea21a1a3
+RT {"ver":1,"auth":"0","title":
+
+tx 3df7933aa1036d64127a087880becf843fa3c211db816a0cdfdeb70eef46ff37
+RT {"ver":1,"auth":"0","title":
+
+tx 143b7b2d645d798a058a313cb10a6b10f90265e95f26074ec9c3f42f2ae7acc3
+RT {"ver":1,"auth":"0","title":
+
+tx 5cf8cb0f55df754b57e433c6581f82ffa121ff5942c8fc49b630b38cf68ce17a
+28dcc71798fe4dc2913b91fdadef3920,1562564875,45.763331,126.705439,20,`=7
+
+tx d20b9e5ed2ed821da55e7fa28bcbbabaa03cd36c5567b628ccf2d728a5a822b0
+<|5Pn4FpyfjqM2ynttk2JM5NBESSBGFJYPXtrm7x3Hhop5iLfi
+
+tx 8d08b76ad74249ffeeb8b5a99ac4e2dbc5c13ac3f4742ece3f2a231f4cce0021
+RT!{"ver":1,"auth":"0","title":
+
+tx 497a479547174fb5c5c4324af8c9debb64b98eca6364d4d72b30a6b6ce88368f
+RT!{"ver":1,"auth":"0","title":
+
+tx 92331d2c521b01281794bd435100af9f9895422dd89bd47ef1efbeef1196c728
+RT!{"ver":1,"auth":"0","title":
+
+tx 296f250250fbe74f7b0c62bbc9322b5cab558faa71a30f72b8d22c43d1f344ac
+5Pn4FpyfjqM2ynttk2JM5NBESSBGFJYPXtrm7x3Hhop5iLfi
+
+tx dc0de90a9725df877c091a24f70c320999d856ce3632434f7c7af1b449293041
+BERNSTEIN 2.0 REG 58777c68-9652-48a0-98cc-ab7412436617
+
+tx a3e8971a467ef02d3671ad6bc51749894411f68ff6123aa4c7a9f003e9111933
+%BERNSTEIN 2.0 REG fa2ad921-ccb5-4e5a-b61b-dc120a77842e5J
+
+tx ff85d92615c844415c17a3e39fcef97e2673e07e647c091aae8d5bc30072e499
+{"ver":1,"auth":"0"}        
+
+tx 6e70c5f02acb3899e6e99ea9c6f2fdb4b44b0f714d2f9913b63b83d14d1b1f2b
+{"ver":1,"auth":"0"}        
+
+tx 84e9f1afabbc875e8fb070b967a34790037b4000514f6046b37a6ce8aaa7b87b
+{"ver":1,"auth":"0"}        
+
+tx e72250e9833855209f223b96ae6fa14abbd2ed6fb0bf94035b29a7b6ede8b60b
+{"ver":1,"auth":"0"}        
+
+tx e9a05840931a0846e78fcb8577f122bec7bb56e08ec082aa59e50d673efe0a4a
+{"ver":1,"auth":"0"}        
+
+tx 41fa404a0d2bd7ab108dfbba37f6d67915cad08affddd23c15d94649f935fb78
+{"ver":1,"auth":"0"}        
+
+tx 3b94d3236ec0424edc62d6b14e14dc5a224e249942ec97b5a9319df53ce64435
+{"ver":1,"auth":"0"}        
+
+tx 9dcab78858cf503b3fa75e1c355fbed21a6d9da980f8036ba4a0ae04e8b434c2
+{"ver":1,"auth":"0"}        
+
+tx 2df1a313ff51aea24ce77e77778b70d0556ec956644dc3a2d8c705a85c6fe0ef
+{"ver":1,"auth":"0"}        
+
+tx c38fff80dd28e7c36b711f0d05ccf69514fcc6a17d83bc4ce10763e54e6c6695
+{"ver":1,"auth":"0"}        
+
+tx a5a6f712929fb2f1188f647eb6b7e16c6b5a0ef38c5dcb64e2c491a07f44fbdc
+{"ver":1,"auth":"0"}        
+
+tx 37479feefec2d1964154075d7a25bee3cbe3c881a4512bf3a9ccd51ba8402730
+{"ver":1,"auth":"0"}        
+
+tx 934626e598d3526a176e2418001f4dd24e440299e81766322ec10002fac5e0a9
+{"ver":1,"auth":"0"}        
+
+tx a9772f210f244ec5b4d0c7977c5e2a07696b675c65897e19f1eed36d4fef5f06
+{"ver":1,"auth":"0"}        
+
+tx 36241aa1cfeba725999414ea6ecc47868cbc35d0e6f3071c23a4ac5e6c54b9f7
+{"ver":1,"auth":"0"}        
+
+tx d2ec8e7522afa53b03607b16bceee704dbd258d6803ecc9537a8add283c7dce2
+RT!{"ver":1,"auth":"0","title":
+
+tx d365b84cd27f44e0f8c5a155916dee867f30e514b215d2328c84bbf9e85ffae7
+RT"{"ver":1,"auth":"0","title":
+
+tx 7666093aae583016d8ea614a6a5289c506fc55d72ee32aafad55edab793b6e58
+RT!{"ver":1,"auth":"0","title":
+
+tx 46e88b178bdcc60823a36838f7875777b5bec040108da8e85a997af1c38bd4a6
+&wwkseuklid-orders-USD-2019-06-24.pdf pass: 3a145fc88d24f4835c159db9ba0c8ef8
+
+tx fbe51e8b3b22aeb4a8d01a912964e81c8d3e5aaa1aa03f3746a0032b38832be2
+;20190708120806UTC;ORIGMY
+
+tx e280157ebf006615bbf9ea3143082c49977fc46e754c013636c904f2374fb530
+RT({"ver":1,"title":"","email":
+
+tx 485e7b289896f998bdfd2790706b8c900b6721f8470adaebd3f5db493aab6d7d
+RT"{"ver":1,"auth":"0","title":
+
+tx f552a0d1d09d2759fd62d4062607393a59111e4cb27062f6ec428661f15228e6
+RT!{"ver":1,"auth":"0","title":
+
+tx b5b3b01d6e868e92bb7f8c5745b10a65d48473ea3ccc87e33f97e43a913d5a84
+RT#{"ver":1,"auth":"0","title":
+
+tx f38d0ae4e95cbfcc088440761ffc3e1728545bdecd389a9a9fb79e571cff0b3d
+RT({"ver":1,"title":"","email":
+
+tx c7cf62d1ba6233f995890efa7d8f4d5a39adbeb65ae012c40f4a7b6fc70d2048
+RT({"ver":1,"title":"","email":
+
+tx 1bc83524c714dc0b17c211c3f20a45e85e7f4c6b0a1c33965370a6b9d9d8264f
+RT({"ver":1,"title":"","email":
+
+tx d6327650217c0915ba9c37ff6094fbf24d745b2bbf5476e5b802a336f32b8890
+RT({"ver":1,"title":"","email":
+
+tx a911610f99fcec06f6e9baf88d63ebc361af6a9aa8975dafb087ad29e0887c34
+RT({"ver":1,"title":"","email":
+
+tx bdcbd2e207675d7f7f8f18c70b23f17fd48e5a30246e79c4ba7fe271ea8ba759
+RT({"ver":1,"title":"","email":
+
+tx 8e041b3c54bb51d442d80432aca3246d30a4f9c835291fcc64d56cc31521e700
+RT {"ver":1,"auth":"2","title":
+
+tx 507ff2a5d255e5b0718f764286fc0d78f6224e0188b2ab871ae549336da73033
+"f1644d7a61d3cc147e9182254867c38baa77d1c144606f6ea4f66c53c80e9068"
+
+tx c209716accbb9dfbdc48f580ee4f7d42d6caebb1b09fba66729fdde85c562af1
+RT({"ver":1,"title":"","email":
+
+tx eb4a924e78ee42c539598884d85105c72c819f88c5e9978f89c9e0b147195651
+RT({"ver":1,"title":"","email":
+
+tx 46f578999f22eb3316689e2e075b9b8e927c3828156528034c5916b95bd2f221
+RT({"ver":1,"title":"","email":
+
+tx ba16205f7c906a5cc8fb597d84de8585c2b78a210ccb722266743667cdf04628
+RT({"ver":1,"title":"","email":
+
+tx 7043c6cdef8e64f55e294d0aaba2a2c4814d0a1bcb01768893bb63fdf13c012e
+RT({"ver":1,"title":"","email":
+
+tx 17d6f27e5a4bce9fffb18ce019e1efefa17aba89191f0ff68554f662bf88a342
+RT({"ver":1,"title":"","email":
+
+tx f53343a39a48a95d0eb8ca02b1668a663d581bee9f67a29653f6daabf1eca0e7
+RT({"ver":1,"title":"","email":
+
+tx 1856daf1158ade441383de7166c964df6548eaefa2ccf136daee0dce3e1b54b8
+RT({"ver":1,"title":"","email":
+
+tx 30ae77c69655eb6006cf769a97cc478dc81541c9241b721ac5833434b85069c6
+RT({"ver":1,"title":"","email":
+
+tx 820b00f3deec9b7e4df4f43f0eb92a41f21c872218f0cfffea22f69761e4a25b
+RT({"ver":1,"title":"","email":
+
+tx 7fb39c3141a5a9c11782f4880daeb3e211c5919bab20c3449d6c90cb3145fb1e
+RT({"ver":1,"title":"","email":
+
+tx 5f74dd634739ff158c1c51e315e31fea92ab3de91d5f3ff70f0be3a9fda077be
+RT({"ver":1,"title":"","email":
+
+tx 8c69f22fb1f6939c8be1c3cf76c877deda6c664e2071553f823b33c8d7969ac2
+RT {"ver":1,"auth":"0","title":
+
+tx 22e6014f23d8b96fce550b718122342d3e267bbfb662b2dfa98d8b466e48399b
+RT#{"ver":1,"auth":"0","title":
+
+tx 3748c8f05b57756e8445ba0a9f17f16cf0aa0a986a311b56b63f297d3f59aabc
+RT#{"ver":1,"auth":"0","title":
+
+tx 677cbd6e25c77bd7d722a914930bc9c41a63d8e6e515fc52035032ed2228baa2
+RT#{"ver":1,"auth":"0","title":
+
+tx 8d67c01d9fb6b917dec58622ac044cb0734a31dfedea6692ca9b9bcb16e259f8
+RT#{"ver":1,"auth":"0","title":
+
+tx 720cd4cec3308547f5add83ba40e8457027ec65fdc2a877c500f73189ab9b409
+RT#{"ver":1,"auth":"0","title":
+
+tx 15e0293850fcf74cd8d8679e984f1e3e44f80703ba5d4d9332ab98caa4182347
+RT({"ver":1,"title":"","email":
+
+tx bd8972198e28de98ea3c49fa86aeac7b6a88b772d3fdf0490c0db95af6a018be
+83db61307cea7de24756ff9ddcfd2328c825bcb962467e095156750db5ec913c
+
+tx 64b164b6745165bfb7e3d546057f96075700eae2fe961d33c273aa4387a06ef9
+&wwksb3d315dfbe244f45276f25189e78df5c558d272dce9028031c865f6823982b49
+
+tx ff9a6db0bd856174537fcc23649dc4b8badc3434981458475d7fd0810eaad815
+4ec08b4a6b838d597396d25cb63eac4f57398bd458a5376d6f05ab0a4a3ca5a6
+
+tx 7c4bc261cd312a6f826a53d762b69f807a38a9e3f457b077458880f49c7da70b
+abb548053992fc9dc68d1a38f9336c9070280f8d15742304e2b77889ffc5932f
+
+tx 8d7d86073549000ecfcad85fe88d998ec3ff3ad90a48e60ed78ea0e87923ae8d
+1BQrQKL4i97jLMYSqKmo4ZNYxZQnqEz2Jd2BKCWI
+
+tx 4e7c2d5c56f45e61f53df11d9fe693ac29c4e3558720d307b7ea9784cfb2f64b
+BERNSTEIN 2.0 REG 54cefcf1-42bf-46fe-86c9-bc0bf8bf5dc8O\
+
+
+tx a458a7706417c4dcc3512dfa081a1f57c2e10e946ee3021b20b42c4986b87c02
+4ec08b4a6b838d597396d25cb63eac4f57398bd458a5376d6f05ab0a4a3ca5a6
+
+tx c845769f0194ea70e65912397e3a15990987a3c960f5d36291a0291c86492303
+26341ec4fdb13b579e2f2461686d75ffcfba8472fc56ddcb2aac424314de739c
+
+tx c3c7a139e568a291c89d9ac5c22334a2bb73533cbb412be76b0bde8fd0ff3dec
+9cc6dc9147ed5aef0dec86594d35b273123a0edd2beeec86d7ddf5f21b305b56
+
+tx 29b3ad5bf7b9104d0960408893db705bea2345690f756259eca4081de340e490
+f524bf5f67bf669b58ef25540cd35f66417f348a7578a07e4025ebae54cc3e9a
+
+tx 33ba21f11009019f295b2b7db3479ab78de173da4b0fa8b9e72a72161751c120
+d210115f3f627f2618feebd51b02495528dc4207805350e5d089186961621c8d
+
+tx 3e2fb458f79e26d6132c5ccbba730c7586f6f6a9b20af3bb50ef83b2db28b8d5
+11a96592bcd9d27c3de4df4835dcbb299e6f3344d37df35329dfc7a5366459fa
+
+tx c655645e5723f869ba7eca85d59bfc8e3908b3f3bcb47bd9db01d307ad09b419
+2c586cea2a8663fc5e52cb41cabac3a3199f142b528bcd37f11fc934a8f9a9ff
+
+tx d3eee64901f38407106fa50612faf4e70185fa1c19d85b3bf9bfdda6803f097e
+RT {"ver":1,"auth":"0","title":
+
+tx f26d58ddfa30c37ec9eb64cf8529b7fd6a5feb0e51100c35ba4220b49270f8c2
+RT {"ver":1,"auth":"0","title":
+
+tx 29b88c358593c58688f19bc24cee440607aa11d807a0f179e2e984f6f29f69d9
+RT {"ver":1,"auth":"0","title":
+
+tx aba23b00146c63909d03dc513021764f7d9e24103ed13495bd1384034d6f2458
+RT {"ver":1,"auth":"0","title":
+
+tx 807bbe034d56cce9332e79fe738da3e2cb1ee042fcc1a094648385204b736a25
+RT {"ver":1,"auth":"0","title":
+
+tx 39a0cb8a132609e901c729e1911a3400be09645281aa1a57c68955f042f1623a
+RT {"ver":1,"auth":"0","title":
+
+tx a0bc5ed055eff1a57139b622172c145c94292424639f48fda18cc9e7972d3586
+RT {"ver":1,"auth":"0","title":
+
+tx 351c34bb0c17c90ae1c8dcd63f7d7358b87ae0acfb52b0ebaa58ec23c131c8b2
+RT {"ver":1,"auth":"0","title":
+
+tx 65743b3b00d4e99e332321a4c95cc9c0232c775d6f76c2ce4067baec30f790cb
+RT {"ver":1,"auth":"0","title":
+
+tx 3aced5d75742f26cceeace473e5513228374af206191ab002be48d8eb282ba6a
+RT {"ver":1,"auth":"0","title":
+
+tx d1f0257448aa2355f4a7df91c4ecc529278ac0af22145b4f133cc1e5efc27fea
+RT {"ver":1,"auth":"0","title":
+
+tx 74c8838d7a9dc8a589e05f4716c6944be4833e5df8f38503a2f4d5710198f12a
+bb99c0656f3afc8242dbcfd21ad4795bb536de1179f7bacb57a1a223bc36171e
+
+tx fb3cb42db361768796c354baa17367631377077d89b479feb89b689b32ee38e3
+{"ver":1,"auth":"0"}        
+
+tx 0710ddf0f0048ddb9073d1699b47d1e58bb0754567782e6790c9305cf87b8659
+{"ver":1,"auth":"0"}        
+
+tx 5c6cb0a9683d230847ca082f3ddb9875f600d7768993005e0763508c76df5387
+{"ver":1,"auth":"0"}        
+
+tx 0cc2159a0f6fe8b93cdf0242df6e7c71dd7fe949db2e13fd02a4860a8de43c8d
+{"ver":1,"auth":"0"}        
+
+tx 1de200deb41aaab0bd5ab948396e2e76da83d6c3ccb653aae1cebcaa651d815d
+{"ver":1,"auth":"0"}        
+
+tx ed1a7cf382c2d8f455ac6f58be2fa7360ddf85acfb610039276f4c5b4cd2daef
+{"ver":1,"auth":"0"}        
+
+tx 65d198d5d8007bd39c631920acf9dd47497fa61d64a3123daf9f62d3aea5d8cb
+{"ver":1,"auth":"0"}        
+
+tx 4f80652ecde11d85bdbab39a30d3c7d01dbc1296f52f1e5f37e59ae14eb68578
+{"ver":1,"auth":"0"}        
+
+tx b6a76aefe38f44c4f62f04827c06c777b0ef82c35815af83fb025f29e12a0ea8
+{"ver":1,"auth":"0"}        
+
+tx 3c7c242174a8d8ee8697da46179f1c35d93c6fc610277d723cfb610f683dc9ce
+{"ver":1,"auth":"0"}        
+
+tx 248a6d057738e68e765028dc5f25c62a550440d2481a9c0b810c32835c52015d
+{"ver":1,"auth":"0"}        
+
+tx 063482c38272cb4a9f202045eb514aebdf57be69cbd654b99a05e111fda7f684
+RT"{"ver":1,"auth":"0","title":
+
+tx 9c44643a25517a5a5b7b99ee0edaa1e520a87b37dcd4ad4882d1706c14b8d506
+RT#{"ver":1,"auth":"0","title":
+
+tx 507b949cccba82d3843b496c9a76200e0fbfef683121634c3b24d492831fd53b
+8384560b143d553b7a1b2bea7869d79ac7f0ccdce513cca9876cf534b90b7281
+
+tx 0c2aabd31de345cc4db270d46501c0b569438ffa7eab511d93c8da0dbdd37178
+b23af5f5a2a2f1d99a9d7b91549d5ea16ac83fa21dba02bbb3398e59884866a7
+
+tx 62ee5c3d58962208e5d121d7bd6406d5c76a6631157701f7baaada25e9ecd4fd
+ed73486b5861a421b5d4131522a2158162af9035dc4350852ff18ac6ccbe2a3f
+
+tx abdfa959580ea4d160ffd583e866d56214cdae16c5d9b58be0b843e50fab570a
+7886be15a57988c6f9b8d5d5aa03d037163f97ccbf2071d064154bba199ebf15
+
+tx dc806223c4cc55a5a95ce50b2ce9be50bcb02128c6d997db1220982cd00c8f6d
+69892848f45dbde5118400ff9355984a263da9020e91dbda0e5d70e09c6371c3
+
+tx 9c4ff2d7c9295cb13fd213fd4a6d8ad7f66ab9ca6a0acaefd825f9740dac46f7
+69892848f45dbde5118400ff9355984a263da9020e91dbda0e5d70e09c6371c3
+
+tx 2f3350ac3cc49a23862e364524018993e696f9b99b89ccf5680e68178a5e1f4d
+1562621431 41 64 10 31 68 25 1NWMq2ksSU9
+
+tx 8fee925d77953277e8983c1e4991f2cd8df145d19cc822fbcb513df4c30574c1
+3926a6f816cc56092738060849570a361a5fb1f45c6f6f48795d5f693b4b09b8
+
+tx a9fcfe0db2495061cb15052ce2a83e38aa606006f06bb32c62f6f009c659f251
+11a96592bcd9d27c3de4df4835dcbb299e6f3344d37df35329dfc7a5366459fa
+
+tx 426e31ac657b31acf3692d6f1eaff6e59309aee2575026344ed1b41732b53a5f
+RT({"ver":1,"title":"","email":
+
+tx 0e04282406cc02097ff7cf7092398bdc1d192993abde78d4f3f822cd39a57730
+RT({"ver":1,"title":"","email":
+
+tx 71f3c79f6d094045b873e61a11695e204d7335af082cae5ececdf45ddb541f34
+RT({"ver":1,"title":"","email":
+
+tx 4565dd0c9e8594146750a807f80544b5ed5d2bb02f09c706bc1143ee0e1ae052
+RT({"ver":1,"title":"","email":
+
+tx 95832cbb6bf1cf66b8cb9c65431fda529160fea8f4e601048bdac85c2318020b
+RT({"ver":1,"title":"","email":
+
+tx 9e6e86006255a8c3cc70bdb3e82c4eb14318b9fde48eba3ae6b82231e5490f6b
+RT({"ver":1,"title":"","email":
+
+tx c17cc77c8bf93122b35b5818d22bb2a45787b805944434603caa30fe3a4e199c
+RT({"ver":1,"title":"","email":
+
+tx 1997214f8ad2ef71533be5ec805f0daa19722ed19db86782a57025c915dee249
+RT({"ver":1,"title":"","email":
+
+tx 32ac53098b3a2b25b0d560102dffa4e68c7bd0b2465b96f0d50d2d9653ffee36
+RT({"ver":1,"title":"","email":
+
+tx e78f7ea02ac324458c8e7d83c6f9d86a1e9205b1e3bb9b7e0ec24f3ebd3f8014
+RT({"ver":1,"title":"","email":
+
+tx 91e75a955746ff1c6b3ee8b9c8a52dce136859f33cbcc072482a185b90b89cb3
+RT({"ver":1,"title":"","email":
+
+tx 631ca85e32e9aab1772f4576d5315e4ed6ecbd955a3431294b40ee92ab6a30ce
+RT({"ver":1,"title":"","email":
+
+tx 9b7aceeb6108133c23e4558c61e4596ef3f0bd718ff73cd3243a3691f1a6fae4
+RT({"ver":1,"title":"","email":
+
+tx 32a4729095885430dc49ef69af1bc79ecfd08a94142ef82f8f390a0c5a3b10ea
+RT({"ver":1,"title":"","email":
+
+tx b466497383d56abed4b35addfdcf2b9ff9eefdd2ce1895c29e0e2c7795919b90
+RT({"ver":1,"title":"","email":
+
+tx 01b65598a52ac17d79c5f8ed7715112487f5496dc46c569252bcd17417ded596
+RT({"ver":1,"title":"","email":
+
+tx 638f57edd48ca2fe278f0c369b7bf79841ef58c6d605946b69f068fdc697c29a
+RT({"ver":1,"title":"","email":
+
+tx e94401fe047802abaa3ab8a8817a343ef6fa293c408e7e161559ced3f2003bbb
+RT({"ver":1,"title":"","email":
+
+tx 917f5e958e13832ef3a45fa927877a1753dc263d0858bf01e7548b2f1229dd7b
+RT({"ver":1,"title":"","email":
+
+tx 69ca90587671aabe9f5e761a0e21832e0cf0e5762861853370f1a4da56bdd51c
+RT({"ver":1,"title":"","email":
+
+tx 2474e958f3b5e02fb837e9d7e9a5917a56a08b0e131a7bbbe8ceb7d44313329a
+RT({"ver":1,"title":"","email":
+
+tx f197552d2afcfc692b82cb6e326bd0146653aa2fb65e6457fca4304c0fc1d53d
+RT({"ver":1,"title":"","email":
+
+tx cf88a4e2a4f88793f037d24cd5fec3238281e36e55d465b359062f9592e44321
+RT({"ver":1,"title":"","email":
+
+tx 01dfd48a541cd9a1c32accfa9ce7876403c77ee40c4213981553210668b60f69
+RT({"ver":1,"title":"","email":
+
+tx d9cd61b9baf9bdca2453ff25e70823b255d9164667431f1ad4dde6930ffd890d
+RT({"ver":1,"title":"","email":
+
+tx 048a8677225d42f7949c6d41a47efa6c775b207d3ab7a16cecf9ffa93ebb271e
+RT({"ver":1,"title":"","email":
+
+tx 27d1523b0d8facb081c734129eae4370b8d8d50e0316afc83f6bec833979fae9
+RT({"ver":1,"title":"","email":
+
+tx 7906179d2d02f40e0c1f7b385f640d97ef4c116fe2e919733d3fdac193c774ef
+RT({"ver":1,"title":"","email":
+
+tx c257e77b77d383a2bf480035a978626e1da9baae623d6e72721031c94ef598a3
+RT({"ver":1,"title":"","email":
+
+tx c843c9bfa90196487985b6b102316d997ef4301f13d39a313a6a2b511e79e4c5
+RT({"ver":1,"title":"","email":
+
+tx 9ad7da78cd4ba7c3cb982ac67b83076d66433f7046601692eeadaa71b70208d5
+RT({"ver":1,"title":"","email":
+
+tx 631156595fb2c36d16ee9318efc6085f9f9ccd4387fa16abebe558c38e038af9
+RT({"ver":1,"title":"","email":
+
+tx 5667ab29d56c5b13225e4163cb8926689c87e75931fc6d4f3b738845919bde40
+RT({"ver":1,"title":"","email":
+
+tx 0395435782554a974455b8f5c49a68953dc277e79496975c789cd7b1f3c6dce9
+RT({"ver":1,"title":"","email":
+
+tx c46421f8f45788267c4dae8be1b878902ff794abd62eaf9c1a794c34176a735d
+RT({"ver":1,"title":"","email":
+
+tx 087a48080feea591f7d92699ca006d27b08fe84f7f95cd2f037c6468157f59ab
+RT({"ver":1,"title":"","email":
+
+tx 752ae0a199253ba96372bc1d51afa9e41fa6497e5191f8df9efb1226c0d19a0e
+RT({"ver":1,"title":"","email":
+
+tx 06e9e559a9ffb75b35be802f1c3c60eaf1fd0442d7c4940baa85475724b4ec24
+RT({"ver":1,"title":"","email":
+
+tx 581c11da80a26e046a512de74f460d9aa00a7449159f151b86ad790e0199c02d
+RT({"ver":1,"title":"","email":
+
+tx 627fbe145ed8874bae992e1df711c739d27e5cf3a555b2cb9388623338636bb5
+3XLbmxuJKo9diGDhodbPxQE9DAXctgLrPzgtsQwI
+
+tx 0a8a4727ba94b4833c9cf6509c9ab406639642fcf70b5ca36eca853d4d879b65
+IPOTX: 447b049c8a1f34fcfd3ee1cddedde3134b7729771cba186de7f559284921a19d
+
+tx 17f1b04df3118c9d2415deba8903d258b295d03c53ea163159b2bfd0009a136a
+;20190709005209UTC;ORIGMY
+
+tx 2ef8a626bc14c8f60d2c80ebd961fbcb10ced9d804bf25298ffc62a304915e9e
+3619823ec177c545d58bd56e8ee59474,1562637548,30.283000,120.140489,30,
+
+tx 0562b33196ed14c60a8379e5499da632fa70dfe2909aa9e55cd9a35fdfe5b1fd
+IPOR: 923786aaf9bd5aa4f20c1f6998897fb9111721a729ab43414e6cb97424deb356
+
+tx 61b5403ec074d5a9457434985a38f6acc3947a89e6126ea2bc2b5e7dde08043f
+a75a2a5e202ec6ec28b99aa73436ac61,1562637708,30.282965,120.140535,30,^
+
+tx 7af39b89c3e4c784041dbe7f5b10756dc53e092211529857e157aba94bd2794d
+RT({"ver":1,"title":"","email":
+
+tx ad4a653f9e27e64b9d4a0c0bee1d4d7a6391102eaca32bd1d1f4844902b3d78f
+RT({"ver":1,"title":"","email":
+
+tx 9e0af9ff3c00f26d13fb3d4674c4fef2593826928e6c056c37accbde16c6b699
+RT({"ver":1,"title":"","email":
+
+tx 68bca21439152430cf9267a27ea1f904d67616ffd391eb64370bd9243096a9e4
+RT({"ver":1,"title":"","email":
+
+tx 85f76bfe95f3c39609db456d79888ac516af8f5b9bb38be503d8b400dd239707
+RT({"ver":1,"title":"","email":
+
+tx 9bd76d5413984a6a26bd29edf9588d6d87518e923af7f4721c7193bcc93b9e98
+RT({"ver":1,"title":"","email":
+
+tx fee5cd0eed6ad1a4aee074bca074763b2f64b95af47d5b5dd3d9db28cccf0f82
+RT({"ver":1,"title":"","email":
+
+tx df3d42ac31dbcab56fd25229ee4a97bf388b9d83d91adefec30919a6c1d9ff54
+RT({"ver":1,"title":"","email":
+
+tx c06a7d26d980589d9ed36fd826c731478773ead0eb88dd8a4f7fcbded52f832f
+RT({"ver":1,"title":"","email":
+
+tx c9e6292c8dcd0b2fff6ece66f303e354405c2cb424f6737c5dc6c19d0ec8bd58
+RT({"ver":1,"title":"","email":
+
+tx 775b6851cbdd95c19a9fe9cb9eeb5917a1ed8cfc2268b0d637866777eaabbcb6
+RT({"ver":1,"title":"","email":
+
+tx bae5eb3bf5dfdfe20817f9d28b65b4cad18d2cba25ebcfc5142393b4c3bf1575
+RT({"ver":1,"title":"","email":
+
+tx 1ccf6d98a3bcdb2982fe18c0e5f41e429bc12ee904eeddea764f2e16ee743660
+RT({"ver":1,"title":"","email":
+
+tx a866842425637deb8be9852b4ce2a3b748f45a7622eb660e6b1620d880f9eb90
+RT({"ver":1,"title":"","email":
+
+tx 70ea80d6b929490c847c47a63fa498b7f3763b4b0f9e90c25f101f1c0fdba6db
+RT({"ver":1,"title":"","email":
+
+tx 7bac4f33904804660b828b40c2820109064282ca8d8bd3a8fb5ccbdd62986043
+RT({"ver":1,"title":"","email":
+
+tx b9088e263ed00cc7e22a4dd54d9cd0d1539f5bd8ea3be690da031e425c7773e1
+kd66acfb571e7282a80f0d4b55e6498f3,1562646720,28.69051,115.856056,20,
+
+tx ef5130fda949348503deaf6513aad318e9314c4a9e4ff15674845e5e26ae252a
+5df7818ce3483e865eb32c6856861a72,1562646738,28.690508,115.856054,20,^
+
+tx 066d1c7202a4a1461fc655a116852def452d53475c60a1fe66c32bde4db49302
+{"ver":1,"auth":"0"}        
+
+tx 5eaf40dc63ef73722d1db439831d781b82c952b144f84161bdeb76c4df464715
+{"ver":1,"auth":"0"}        
+
+tx 4edc6a629e478c3219745d3ffe521fe3679c0d3be93c1d242beb0c33a3ca8888
+{"ver":1,"auth":"0"}        
+
+tx bcd40b1213a74e344537a7d4bf28e27f816d642151a1dad6ae5914715f74be6f
+{"ver":1,"auth":"0"}        
+
+tx e4f5a6ce24ed051a728353e385c235fa360f2ccabb2afbf430cc879c6245f9f0
+{"ver":1,"auth":"0"}        
+
+tx 07c2b85f224339208278863796e8f0bc6a043e14049ab5f3ae9c438a2ea7dcdd
+{"ver":1,"auth":"0"}        
+
+tx 9e5ad65b06ce0777232b79ab6344766fe10e963276c3d12ecf3d1c3971fb379a
+{"ver":1,"auth":"0"}        
+
+tx 36dc8a79d3c08aa0316d2574896c861a9cea267d001a4ea7e7c35e3c7a06b3b6
+{"ver":1,"auth":"0"}        
+
+tx 9b3423db5308822c78d78d5c549ea7960951ada109fd84d59047e0d25580d5f7
+{"ver":1,"auth":"0"}        
+
+tx a3a2d8a55e0b5e42ec508abd1632aca014c7b85821ec25bc0ffce26675a312fd
+{"ver":1,"auth":"0"}        
+
+tx b341510af30270b5eb844f58486f70a9d692ded22a909a3b8d12dc00381645cf
+{"ver":1,"auth":"0"}        
+
+tx 414a3e15eb0af1c5c97ed25fef441f2c65e2f8e2e34dfa9180826021eb53af4e
+{"ver":1,"auth":"0"}        
+
+tx 8ef612e2edecf276b8480d1f1d39a59f713f7b459fac71e3a3e33f498c670b1d
+{"ver":1,"auth":"0"}        
+
+tx 2fbb63f39aff4ed733342da23514495a2f312a179af937a2a65d87bd548841bb
+{"ver":1,"auth":"0"}        
+
+tx e42098e3b766a0181cb3a4b741b6ed4db20a66ce0ad7d514c444309351ad6e60
+{"ver":1,"auth":"0"}        
+
+tx f4821293342fe47db180095d48d8a557c71ddcecb29cc741ab8939e3478d7d0c
+{"ver":1,"auth":"0"}        
+
+tx fbf1af80be966df13796899871f86ecfc5bb934710f71bf0fa8cdf503d99dc32
+{"ver":1,"auth":"0"}        
+
+tx 5a5447cc74cdfc447b94694eb585df878c52778292dc386e895ddc1aaee7796d
+{"ver":1,"auth":"0"}        
+
+tx 588b427d1353d0ca3551adace0e8350f762e45fcc8287dacc2ad3a651432178a
+{"ver":1,"auth":"0"}        
+
+tx aaf111ef16d6716eb78a9b87ef9dfbfec6a71f2a9105f31032b255ff1840ef08
+{"ver":1,"auth":"0"}        
+
+tx 142e44ccebe9040fdb48957a91a655ec1afb040fc4668326b3ad86ca66f32220
+{"ver":1,"auth":"0"}        
+
+tx c8222036ae731415e5d33d13e6fb798903aec462aced01c98702ddcfbe00b681
+{"ver":1,"auth":"0"}        
+
+tx d3a1dae70845d720e4f8eefb07d4e5fb30c9f0300090f1fa011da51a363866b0
+{"ver":1,"auth":"0"}        
+
+tx 2a2459763d9f404f5cf4f00ccb287e148de0d4e83f0ee3a02c25871ece668f22
+{"ver":1,"auth":"0"}        
+
+tx 47d4d3938db70ef7b2b1a0a007db1bcc89fd3e936e2d8d03ad0499ef409b9b24
+{"ver":1,"auth":"0"}        
+
+tx a71913c7a3b5237ad1e7731aad5e5d548bbaedd35873c8897f571dd2272d3051
+{"ver":1,"auth":"0"}        
+
+tx b0103307a48e2ea36cefba501753bf4dfa7975c4b263c0daec5983e4ebf8072f
+{"ver":1,"auth":"0"}        
+
+tx c969ad5522432b59145af8399c2dd549e8cbf076d3a8a22814b0bb94e711cfea
+{"ver":1,"auth":"0"}        
+
+tx 30dd44fc7cc8eedb12074319b96fe6bea9df62c8f4bdfe6f652fd52ba6894559
+{"ver":1,"auth":"0"}        
+
+tx b333e1c8c4d415599e8cdcaeb4e2eef53f81378d3b44f5450c1aaeef5b1780c7
+{"ver":1,"auth":"0"}        
+
+tx f6e5e77a19f079a5933a037b9077465ab8664336fa342e4899a127c4f5483d3e
+{"ver":1,"auth":"0"}        
+
+tx a8bced35a72b5f9b43189142b3edb868446688f5e01a47d014675e0e409ae76a
+{"ver":1,"auth":"0"}        
+
+tx 26daaf2577a1b492293b751d4d3bc76af5aaa85319dc06f39f4fde420b3a451c
+{"ver":1,"auth":"0"}        
+
+tx 638e20ac15a52d575b4de668714dfda6438a3d3497fcc5303c3f4fbcc605f2a9
+{"ver":1,"auth":"0"}        
+
+tx 7ce167759ce5313c18c3ac9b26abf76269d25992de513a4bd8631be0499a830f
+{"ver":1,"auth":"0"}        
+
+tx 0cfe66d7e3fb480e44c5637e65034583a3e2ab9a2d52a79c4f374eb6fab57dfd
+{"ver":1,"auth":"0"}        
+
+tx 37b143b932f33531bd1f0a8958d0b7f85133cc992ea96e8eef331b3c09a2e1e1
+{"ver":1,"auth":"0"}        
+
+tx 63f50443cd04d872a26f51d2243f50027f62193a134655d51283e355dc07f092
+{"ver":1,"auth":"0"}        
+
+tx 71b0c5f0977db2a38daa642cf01b65ed743a3952c7e445faab26848b9f08d82c
+{"ver":1,"auth":"0"}        
+
+tx 69fec4c49ecaa5c02b2174ee1e41459207650f880398f69ea2b921d4fdf3dcb2
+U577640.994                    {"ver":1,"cmd":"TR"}
+
+tx c88bc3fc76ec181b83d85873e132a19e0a2cdf8945f68c7a756af55df87e2bf8
+&wwkseuklid-orders-EUR-2019-06-25.pdf pass: b1f61b69e4f47005b49d9b1d46ab29ed
+
+tx eeb14507cbb6587e761005cd730f0773322c9cf94e7d9a0aa4b91cb5ab58c333
+{"ver":1,"auth":"0"}        
+
+tx 201b20cae85856dd5b19616af1c41d3eddcd0404e77271e58c5c1f5a66b2a700
+{"ver":1,"auth":"0"}        
+
+tx 99214668e0dd7daa1b1e12b1aae4e4b0f1e3acb70620414e1d90c90e62f30fb2
+{"ver":1,"auth":"0"}        
+
+tx 24414d570d54bb51617d36549da679e367e7e9f9493bed87982cc1c458adc429
+{"ver":1,"auth":"0"}        
+
+tx 0aa976ff50f5b3903d4e51c793400ce97827db2f059f424103906e3958100d40
+{"ver":1,"auth":"0"}        
+
+tx 1842550d88032336649e78999707b570f0ccadd611c373991e48296b902991e6
+{"ver":1,"auth":"0"}        
+
+tx 75c7abc0e8a24891a944ea07ee50937e28bd840a1c41a63c42574f2632d98eee
+{"ver":1,"auth":"0"}        
+
+tx 58480ce1a9510b00ed5f4d2fa894ca2b8344f2287e1d0057fb3a0a9d5ec80a9e
+{"ver":1,"auth":"0"}        
+
+tx 3112612a85a4793e5106a34cec458c30c065be3e7f89fc86e9f9eb7f83cb2960
+{"ver":1,"auth":"0"}        
+
+tx 4b2dbae9da2504a1f66e493e68cb17cfdee1dc951fc0cab33668c2387e8e8498
+{"ver":1,"auth":"0"}        
+
+tx e67e207a154e9e48e94bc37ebfbea85d378ffe2298936af484a9415dbe313844
+{"ver":1,"auth":"0"}        
+
+tx a9593b109f972cacd5b3650b9a9970d47e9d4dd9938c38cf8ce96de2f0e13cac
+{"ver":1,"auth":"0"}        
+
+tx da1930c75d62eb06afaec80b21e474f5cd6ce26d687f2bdadc83886b20d73ed4
+{"ver":1,"auth":"0"}        
+
+tx 7847c66e51738b4d3b637adf5768e93726b9c4dbc8fdabcfe4b6098c584fa6bb
+{"ver":1,"auth":"0"}        
+
+tx 2914ceae9853b5ad6d39d10d22a39febc01cb9d4b6d3570d8082bb7b5984df7e
+{"ver":1,"auth":"0"}        
+
+tx 4fd31db9ed477d7e0cacca07591fed0d843e72936d158f226ac0c682fc0ce80e
+{"ver":1,"auth":"0"}        
+
+tx 13c5f0010bb4f498824d88dc2bb90f2052fc119e199b64db75b15beefec8ebab
+{"ver":1,"auth":"0"}        
+
+tx d33b054ddfee641f4251ff47bbf2651d7c2a5cd5dc51c84e65aa3191ffa5b690
+{"ver":1,"auth":"0"}        
+
+tx b8b3a953be96d791cb7da763dd1aa20faceff128cb8066b799357f7c1b8c3897
+{"ver":1,"auth":"0"}        
+
+tx 725e682ad7108e57a498400061b857d6272264e9add3a436522f63bf58d6474b
+{"ver":1,"auth":"0"}        
+
+tx db3d2c58ba1967d5f26fcc35c0164e0df4e5f871f063b752aa80d1e420a57b5d
+{"ver":1,"auth":"0"}        
+
+tx 6fa1758e529c25758fd572cb42ee81d234bc0731149f0788f07d225731ec19fc
+{"ver":1,"auth":"0"}        
+
+tx 07bc84abef44173da0e9f90ff036bc26c999a6454bc1cbc12dddc8557bb2e94a
+{"ver":1,"auth":"0"}        
+
+tx 22863f555db62fb412c6fba9f90020518b3db5dbf6407aba873714d543ee28a2
+{"ver":1,"auth":"0"}        
+
+tx d3481c2d667aa2109d92f58fca316792e15208c593a910bf586ac7c1f96ab542
+{"ver":1,"auth":"0"}        
+
+tx 34b31874fdd533c5c667fd5deaee62dc567e7cfafdc7c1e7eabc87e56ceed3c8
+{"ver":1,"auth":"0"}        
+
+tx ee3eee8dceee5a447b8bce709d83b4ec9310fedc696175013766c08caed9570c
+{"ver":1,"auth":"0"}        
+
+tx 73eb41ce2f88a7885873f652ca704b9cdcc9eb4282ee785cd1b7f46c88fb8be2
+{"ver":1,"auth":"0"}        
+
+tx 9aecce068299150d4aa826ce4d33380b9ff118d060762c0ff807167ea9d025e1
+{"ver":1,"auth":"0"}        
+
+tx 3884954f88b3a49371f22eba13f072b882c5143fc2e91bcd3ce56da64f180b05
+{"ver":1,"auth":"0"}        
+
+tx 36d2bd8ddf28ef30bf9f12bf26d5e04ce8631c8fd4f916fec1a7d3cd61456243
+{"ver":1,"auth":"0"}        
+
+tx 6d1198004fa8e018d6e6cedf9bb945ec33adf119340dd9d9cb135ce4e41f345d
+{"ver":1,"auth":"0"}        
+
+tx a2d438674326b162f5a0a9cc2b267fb16320449b3c087d9e5c830428715db178
+{"ver":1,"auth":"0"}        
+
+tx e6069a2c4946f97c31b5b2afcdd1a0415ee10370adf8a24d1b04b8bc7942ccd6
+{"ver":1,"auth":"0"}        
+
+tx cd168e481f49d9b65271c25d89e9b61291cd34c0d415a940476abcb76477399c
+{"ver":1,"auth":"0"}        
+
+tx bcb3ca56192286d65964262f00663431c7e94ceb250ee918c78d2aa60be2a054
+{"ver":1,"auth":"0"}        
+
+tx b78bcc887154676db35ff48e4201e45d67670d96c3a0bd5ffd521e9236a30dc2
+{"ver":1,"auth":"0"}        
+
+tx d36be5460d674805d7bce9d412a49f103c2e65686092fdde2d8cc36bfd1b37c7
+{"ver":1,"auth":"0"}        
+
+tx da93a4d20787834f6e83cf18763c76557c3d449d14dfa6774ac0b9695529f681
+&wwksa8fde3b94daa03cddc6e2be974a8d0adfb38ea97fe21630e7317f64d10b25b3f
+
+tx 2721b624518c285fbe6ae037846fd56ea22f1467ed86ca2f53b6829130f4ed73
+RT"{"ver":1,"auth":"0","title":
+
+tx da3ef9ae519c8da9b92ae5322821f28ab6311a1cce6daef6775bb30cffec9e3b
+RT"{"ver":1,"auth":"0","title":
+
+tx ecfe7fcbdd9d9b403919bb676bad1710dac5fb14e76202557805c7f6c8ee73d4
+{"ver":1,"auth":"0"}        
+
+tx 1c9e8aa8c3f3d076225a734ce634958f370bfa1a417d3a78d81848c659467686
+{"ver":1,"auth":"0"}        
+
+tx eedc5cc6232f4126f2c1496726576e422e40944dacb973a0b2ef1d2f0b20d57c
+{"ver":1,"auth":"0"}        
+
+tx 51a6d3279348420c187b049f5c82365039b49d6f98ae7e2006e5e5f9d617c447
+{"ver":1,"auth":"0"}        
+
+tx 6fb751a66ce409fbc6d079bc32dc190c378787ab42215aa17d846394330e9eac
+{"ver":1,"auth":"0"}        
+
+tx a8f1c66bc6529eb9cddbce94457cf6aec90315769de5ddc8c32070184aa69f63
+{"ver":1,"auth":"0"}        
+
+tx 5ab26998bc8f98e7d8645c0f74099614d27291f84ed845489ae39c02c821fbae
+RT"{"ver":1,"auth":"0","title":
+
+tx cce17863e5359ffbaffc7e1d48747c8f9c5a54ee093026737fd9f526405ec2df
+RT"{"ver":1,"auth":"0","title":
+
+tx b3997769c8d20f3601f331234407ddf696a278af495923c47d918abdfb5aaac4
+RT"{"ver":1,"auth":"0","title":
+
+tx 7a518b53e5e618c8efadd58ecc595e73e8bc8140fd0742ab30ca1ba3a4362c60
+u=https://valu.is/va/rufy
+
+tx bdd08ba58f8dd95e5dcd44ae9b189cebe8f5e55f7f136f8e02107edcb7d1e583
+!u=https://valu.is/va/cherrycherry
+
+tx b19020f11635a250613a4079efec7861efa798281a36838535451fc1ee2e7f07
+&wwkseuklid-orders-USD-2019-06-25.pdf pass: 1ca2c2f68ab9ba3081edf934a2187e44
+
+tx 204087c0977ad82ac03f1bca2cb1df25f3f6ecda88aaa4b224ad55da0ff50be3
+BERNSTEIN 2.0 REG b976e251-e967-43b3-9240-1370ccc06d3aj
+
+tx e7f1699a9865b74778dd53a1ed8887c7590ee4b3b1554f01d8120b8f7929e0d8
+u=https://valu.is/va/sigma
+
+tx 3132e3f1b3cf4f77687e71ca8ed6c676a0674ada6018d3ea8dc6d4a0a6b52ae6
+u=https://valu.is/va/enthusiast
+
+tx 8418819cc7100de238a8998b6b0a0cb7191bc62e3fff4a8995286c21065c9d59
+1kR7bqXbfCwkAhwM37jU6FmZnxND7wGWFBFGdguI
+
+tx 9ed41a4600b78e3994a292890a199bdd28f6ff3d84f46987d969ee730cba1b90
+ed53b4d415a1657f9aea11e1825ba5f6,1562663273,37.485722,114.703584,20,
+
+tx 364072116de5c9f00ea0b84e6f12cb5552cb846c38cc27f96e6a5102ea3b1d30
+AuroM 7154f712229e464182e40e450bcbe4051e50a6a43f2ff9fbca5dd067f19303a7 190709l
+
+tx d11085463fd68558da5d05b623ea398d274b814b76475bdc568cf749b6fb65ee
+IPOTX: 45f4a7dea6812754c277f764f8d57973d91ce3d88ff618d5dc9363f0d7d3b9aa
+
+tx 9c02491cbba27f5ee9e48f67d5f8ffab22446570e2b49f2eee1bd20285400fd8
+17TwM8zW4ubmD338DZnuPJJLm3p5brh7wPJmea3I
+
+tx beaec3c261e623cbe94a656875921fc35ffaf56de18d5e8ae2ab98efa169791c
+RT {"ver":1,"auth":"0","title":
+
+tx a44f555e7ea7665cc848d89e214af46ae319ebd53912e9da100e285e67ef68a2
+RT {"ver":1,"auth":"0","title":
+
+tx 6ebac187e7824a01abf4f6fd455614479b9118439c6afd22d095335620641424
+RT {"ver":1,"auth":"0","title":
+
+tx 2f2e2aa68462941d3103598b1552f7632ebf22c9406faf41b8ea4b96b480b53f
+RT {"ver":1,"auth":"0","title":
+
+tx 506fbd26f846f9380a191f17d6f5006502731047a2df37de484c29a0813554c9
+RT {"ver":1,"auth":"0","title":
+
+tx 936ce672300557f39aeb41badeb36ec401941dad3394b5782f524dec1901b810
+RT {"ver":1,"auth":"0","title":
+
+tx da19f2b45e50cba866f640feca39b71f500310b133fa6b9594959f319198c326
+RT {"ver":1,"auth":"0","title":
+
+tx c49cf239ca30da18533f198da7e0d059bf80f4098e6400f2f8d19f69f7c140c0
+RT {"ver":1,"auth":"0","title":
+
+tx e073559ec50039f284533b538d67df9dad648f5c9ac33a30fba8db0b8e90b789
+RT {"ver":1,"auth":"0","title":
+
+tx 0a1044affefb557dba91222a43ed419059b31ac4f4a137a0bb0f5e9c97049cc7
+RT {"ver":1,"auth":"0","title":
+
+tx 8a3e27119fd41c6d94deca673093616c883f7f2f3b1ba869d7c4f9e30d7fd625
+RT {"ver":1,"auth":"0","title":
+
+tx e55fbeb731703096b6525f5ea043dea92754899d2c95a0e55cb0dce6b9d2e3ed
+RT {"ver":1,"auth":"0","title":
+
+tx 1d0ab7abcd0bb7b9a8eb61a1e2337b7503c92bd0c42045df25f50df94c228ef4
+RT#{"ver":1,"auth":"0","title":
+
+tx a313631850ce5e79569bf46f0ca4b5259ef5abb13c14b3c468036c124261e0c3
+"629f64b1d469b9db23b6065067e3e374202e788c97718e38f27dc48d7018a4d1"
+
+tx 6e5317c8461242be6a70eff49538669b32cb46e14ddd95a0a69be9d9b4317606
+U577640.994                    T-{"ver":1,"cmd":"CU","tx_list":["584614.351"]}
+
+tx 3466b56a99d5fb5c88d60fd89bf8c7f9c117c0231b2569f6664b1733c145331d
+RT#{"ver":1,"auth":"0","title":
+
+tx 66a4822e99f029686be7d8595c728f08d164da3a738f461e0ea381d9b6e7946d
+{"ver":1,"auth":"0"}        
+
+tx 76d70370932c7e3400599d8e6bb27013a55b0009d9d7c783d92cc0758c1983d5
+{"ver":1,"auth":"0"}        
+
+tx be6b2186458183e104ff095e8b57aaa327ef7bb826a9baadcd0e669459ad16a4
+{"ver":1,"auth":"0"}        
+
+tx e90d632a5f797731d0504d77d0f8949b254eec33a1ff74cb8095f6b93d0ed72d
+{"ver":1,"auth":"0"}        
+
+tx 0d5a7e6b43bebd60d6dcd05446cc400537c019a255fd1a019c6f064935fb5371
+{"ver":1,"auth":"0"}        
+
+tx dd768c78b19e283f4377617a8c15aa6d3dd7811e937e8a6322deefcf9afde05c
+{"ver":1,"auth":"0"}        
+
+tx 4eeadd02cc2822bbd7451821cec8d404da560b76ac5ee0c16758c6d879d47505
+{"ver":1,"auth":"0"}        
+
+tx 5c5672e9c6e168da4e10995bbe6fdc03e4b38644dce7268e5d5870d228b905b2
+{"ver":1,"auth":"0"}        
+
+tx c0df3ca5f9c02d2e86e0559db80da8cca677c76253324cecee0571e08a14441a
+{"ver":1,"auth":"0"}        
+
+tx 967e3a0433c7b89da6e572731d4239f501a1df832c35ab08c86dfc65b77e935e
+{"ver":1,"auth":"0"}        
+
+tx eb1bc849dcb1f84d1ac0f00f4a5fe2695519792a0762148ae3839771d6e6aed5
+{"ver":1,"auth":"0"}        
+
+tx 5d883fd5d6509e8a4cbf6d13212cc215b908b7caeab729eb49fe986f7dad67fa
+{"ver":1,"auth":"0"}        
+
+tx 65963fbdc366703f67000937ca0b47be21094b8125b6d3c1adeb2ed7e3902e8a
+{"ver":1,"auth":"0"}        
+
+tx 08462839c76a28837e7937bd83388b7368d73ebd8d93114fdd1ffdb761cb97f6
+{"ver":1,"auth":"0"}        
+
+tx 29694a6e70ee4eba09cdf2ebb0dc1988a7c94fd33afa17293a98e0e80ee3e050
+{"ver":1,"auth":"0"}        
+
+tx 6ad33bbbb41ccef7479128a53eea46126275a5aa549ec0d1979f579bb04d4731
+{"ver":1,"auth":"0"}        
+
+tx c538271538eda9e638cb0b0577494ee56783bbd3ab6ea6f308c0e212f0e739eb
+{"ver":1,"auth":"0"}        
+
+tx 2b544a5045194879c8db494862d4b52b9db2187c03e81349e339390e5e23ac13
+{"ver":1,"auth":"0"}        
+
+tx d331c2bc83c1c8b9fd218b13be1cb1d20856b1029c6c148c6025a0e178902acd
+{"ver":1,"auth":"0"}        
+
+tx f8212f74595a97d678670ca3c8b5fc2db1bf9ea73f27c8b69c07f0dc1e98542e
+{"ver":1,"auth":"0"}        
+
+tx 1e27c3446e32f5f5578552a722ffa3f850f802c9ac34ef64076c5cdeb90a30be
+{"ver":1,"auth":"0"}        
+
+tx 36e4d584f1e6cd28a2a656ad105f8f6150eb2cf57f1bb12b3f7a0f42bcaf1514
+{"ver":1,"auth":"0"}        
+
+tx f71944a8162d1ae639f49328b37288b5d7ab6f4b21cf80df714db04b854323ee
+{"ver":1,"auth":"0"}        
+
+tx 3b0030b441cafc4740c6f42629a03d237a251173864124be423f549686fb7809
+{"ver":1,"auth":"0"}        
+
+tx 8b70bf2dbdd22904cbc2d31ce8fe0c2ca8a801d0616e2631bc4928da5df054fb
+{"ver":1,"auth":"0"}        
+
+tx c8c2a952f9f0770f915b1cf72c42148227e31e038171f8f58448e726b6b3017b
+{"ver":1,"auth":"0"}        
+
+tx dec7439b7029aa79544c23db9428560d7e7187da396372069e9e6dd36e62e251
+{"ver":1,"auth":"0"}        
+
+tx 2be552df47c13184276ec4fe0b8714cc222caa3391aa044ed8a88147760c10f1
+{"ver":1,"auth":"0"}        
+
+tx c437bd056a53095126fba889a7ed6be40ea6150833512caf120a1a514d570d03
+{"ver":1,"auth":"0"}        
+
+tx 58741e53bd9d6800b8cc5ebcb0dfe5e1103789436a9c950e739103538d49954d
+{"ver":1,"auth":"0"}        
+
+tx d0f8a727d224b4064d7d2a31069787e9d9900f90d2da8d73d15f28ffcafd26c7
+{"ver":1,"auth":"0"}        
+
+tx 062ec70a71976ff61c7315478b5e05ad5eb27e6d7935bea813839e188a13ea9c
+{"ver":1,"auth":"0"}        
+
+tx 3e4d792064f338931e2873598a9b95e7f217fbf5c8b4037afa32e4ef12406488
+{"ver":1,"auth":"0"}        
+
+tx 8dab1897753530afd4c2077b22c88c30be06da14021a31f67f95f37317650d25
+{"ver":1,"auth":"0"}        
+
+tx a0ad41c4f4bb89526abdc6fb5715ca16574a6003d02daae06fffbed770293ee1
+{"ver":1,"auth":"0"}        
+
+tx f495e0835376fe02ba2efa939a87431dd8340498f1e1dec2175b3e87234dcdde
+{"ver":1,"auth":"0"}        
+
+tx 0657268a6f1322bf7587e26b741764d8b5a5d488bcc3cac3a44ffab545a0c905
+{"ver":1,"auth":"0"}        
+
+tx b82aa81bf32cbe645696f2f41239ad2cd569879949f2505a3155c27dc95b5951
+{"ver":1,"auth":"0"}        
+
+tx 6ed2db2521cd319133406462e002d35ab73e3f5ca2de7e3490aa7f00da797299
+{"ver":1,"auth":"0"}        
+
+tx 5592f57419cfcfcbbe6241416203131cb9a9b584d5ee012de7c99df174501d09
+{"ver":1,"auth":"0"}        
+
+tx e85a0794cf67bbdc288b114513f435ce7f7d842e8d20b60250b4a568c93aa78c
+{"ver":1,"auth":"0"}        
+
+tx 853cef70b98b9819ce90e92daafee916bd956f1df3dd4dc85547a7a79861b5b8
+{"ver":1,"auth":"0"}        
+
+tx abeb83ea6496526c319325cad0ca8763bf12f041f0f58df3b48309d78c30782b
+{"ver":1,"auth":"0"}        
+
+tx 5e420705038f69fc8f5034dd73b7a550c01c2c6499d7bbfbc3eed18742a016a7
+{"ver":1,"auth":"0"}        
+
+tx dec7c04d5ab15d08732ada13a02e71ee47689105328d01c366adb165a013f718
+{"ver":1,"auth":"0"}        
+
+tx 0f4b615e527d7b90100e96f7c128111391d9e0b40088ea435db7f09242c1c152
+{"ver":1,"auth":"0"}        
+
+tx 41fa54a7bbd2ac6d718688643da0668ffcdf68270d880e67d6bd712a0f93e5b6
+{"ver":1,"auth":"0"}        
+
+tx 6dd7aa423a0dcb8ce5fcc813a839dce14f9a39b7996749d1211def7105f066e8
+{"ver":1,"auth":"0"}        
+
+tx 8c0faf28a0748ecfe7318a9008c67e3e7bf5ccc6b4bfd975845165e66f63dd04
+{"ver":1,"auth":"0"}        
+
+tx 6afe722d1248d94f936526f173740591f2b0c69982e5ada97465dab9db7db5ac
+{"ver":1,"auth":"0"}        
+
+tx 8f0733c076ba7d0dda6c4f1d71886637bc702d3e91b3e21b88edbb40549167e0
+{"ver":1,"auth":"0"}        
+
+tx ac0068fb9fa78275fa528fb33f3128059b9741d1227b5590798137c6b2c3956b
+{"ver":1,"auth":"0"}        
+
+tx 58b816b32cc9f54c552fd53b7af8e5e9c8bc8cdc2f852cec37bd44972f9640ef
+{"ver":1,"auth":"0"}        
+
+tx e68abd3cf67c18bd4206d39ae2b2d25a12793db8d94803f3c3fcd31e6120949d
+{"ver":1,"auth":"0"}        
+
+tx d55e2c6ce9ac3428060c3c9b54ed241357bec82b6bfaf23812cad5d000dee399
+{"ver":1,"auth":"0"}        
+
+tx e3805e8b364020e520afa79d51dc4462a3cb36934eaf175cd888e61e130e5d03
+{"ver":1,"auth":"0"}        
+
+tx 2e16b448bf23b5df6aea463dba528dede436aeaeb7d6b6767df4da35cd6fa12d
+{"ver":1,"auth":"0"}        
+
+tx 3e59af7eafdafecd2361d76ead003433aa5335b9d2ba79f66266781866acca0c
+{"ver":1,"auth":"0"}        
+
+tx fb97e2609e9b49a2c56d748d3789110fb66d648a60f8dcd20b3cb85f6d5442e8
+{"ver":1,"auth":"0"}        
+
+tx a7da40c561880603e799d2c31061b47c02e7d1de9cb1796a301165909bed2cce
+{"ver":1,"auth":"0"}        
+
+tx 4904f92bc1b79643b76459363055529b2a9c35240b465e5e5ca0cc7f40938b67
+{"ver":1,"auth":"0"}        
+
+tx e06c20ad1de75f5c894e2fea46a0bc7936a9960c77b5d8e49749d91372cbbabe
+{"ver":1,"auth":"0"}        
+
+tx 88953972a6cce52aefb6b1236d0c1801a38828d25ad3f78c503f3f2618aeb4ae
+{"ver":1,"auth":"0"}        
+
+tx 5b3b15e792358a3d004504e4a6f03dd91bd5a0cd7cd39b72c95f2ee373a09316
+{"ver":1,"auth":"0"}        
+
+tx fa98b849996d07610010b9f3d5f29471abfd8d862a9580c2604e5919e8a6fa30
+{"ver":1,"auth":"0"}        
+
+tx b17b2232f00287cbef569b3ff391eea937e32bf2bdde357ddbb8e137dddb85bf
+{"ver":1,"auth":"0"}        
+
+tx 34c8793d4dc45892a6d9dad27442c5e482feffbc06d93c7a11ed36b7524631e2
+{"ver":1,"auth":"0"}        
+
+tx ac7919e86565ef603a7ab6198264efb346e459aad9d5ff28864ec46240658e0a
+{"ver":1,"auth":"0"}        
+
+tx e62524a0c46f060ac5033f226882e3416b5899e2b60dcf128cb99734024b832d
+RT!{"ver":1,"auth":"0","title":
+
+tx d4e6221e10d2c4eb1014acb7577b157196a1d32be9101777b8ba9600b818f52d
+RT!{"ver":1,"auth":"0","title":
+
+tx 0fbb753f0505e67144ca8e6f8e04aedd61180ae46a744d9906337d1cd1e124fb
+RT#{"ver":1,"auth":"0","title":
+
+tx ed10698d0308007e08a2904fafa2f8915070f6ed0cb0af1bfe7e5ec7b4fc96b9
+RT#{"ver":1,"auth":"0","title":
+
+tx 9c7828b05892c9a620bf6685b7ebb5c5d813655ab38cf8d4099679862305fdcc
+Transferred from Zel
+
+tx 4ffbb5db885e03360daeb7a3a1ee748dfb2dfcea9296e7d1391c548acb452344
+IPOR: 638f3b3a99d7a1549781e8984b9f4cc1bb69bc13f710d022f0bf5406afc101b0
+
+tx c0bcefc9687afb1ed20ec86ae7168ec53abf02ef9b1efb8d7ba07f80235ec3d8
+https://shafish.com Certificate(2)
+
+tx 90cc78624f801ef64bbc5de656968d328d51f5185ab115bf851a06e134ee1042
+&wwkseuklid-orders-EUR-2019-06-26.pdf pass: cec9462e60803d3774e663f9c713c756
+
+tx fae8e1ae7b4d6df60339c3b71f38a291551e1512ca0093d62a97c342982ce3be
+&wwks1f8702c37e93916ad604115e82e838dc3f22d5c4334e1d3cecd58b80656ac15e
+
+tx 67c82f059c175351d59a223e305ca5c65d650682fe8f74d70574df15e72e1b7b
+u=https://valu.is/va/masahiro-m
+
+tx 59c59ae490c3f3e9f3ff80461f954c5f7cb1e543a3e74e3a0d48169f6e8717be
+u=https://valu.is/va/07lock
+
+tx 30c5963d8bac9fb8b965cc708b07a98e4ffd9cedb63725a842a4cf83763ed5c1
+&wwkseuklid-orders-USD-2019-06-26.pdf pass: aa440d59807c58758329841fce9a41d5
+
+tx e20a2775888f1085355c1fd29f6a04e399938cc758f4243250cec08466fe0348
+u=https://valu.is/va/bashiriko
+
+tx 5de4b42c517d0ca6b0aa8bacabb0501d5ab03771f27afb73fbf31a44f227a49f
+In Liebe Martina B. (1982) & Robert K. (1979) der Beweis der Liebe ist Vertrauen
+
+tx 4268f4b9e28d59c06d5dbd849f9f2cbbb6b67dbee10289335598d7dbb8ffd49d
+&wwksb9831ca5132fa5a0594bc1ea835e29f52fdb6b24a16ae7e172f17a98e55fb4b1
+
+tx bcbe9861d498017fc498a0a6bc6e6dd192b43a119c8dc81ab04522f7896d0d9a
+In love Vanessa (12/24/1984) & Edward (07/04/1973) can't stop thinking about you+
+
+tx a775ea3c6f8c47203718aa13a4cac565befdab9e53b6e3575e95d34f29f3b887
+1EP6o7RRZbSFmybXyM4rPgYEGNyyXnoRtaaAt7NI
+
+tx 7b9ae96d548c602eb8b3e61aa8f408e4898093928011ed2b9a1217baf970e92a
+u"c6b9d45c692c66127a38b1dc57e1679fed39730607800ed4b4ebab9a6e22d302"
+
+tx 1e4aec3880f2e2f19c5229e5637ee24b09a683d1d6b2d8b96f1b11482df6dcd0
+7e3dc45d900d54bb226c2a8ff0bd671ebc83846d30091fab443e2bd1d31405c8
+
+tx 30bf5ef9da61a25e3943f0940fa66c2f4e1f0dfcca75ab0b619089524ffed7a2
+7e3dc45d900d54bb226c2a8ff0bd671ebc83846d30091fab443e2bd1d31405c8
+
+tx 958237307ffb90e6a12bc3f39752454fd5258e185755ddb67e6f9ad9337eb435
+1cf5fee8b0078c397cde06be2a3fc311cc0e4964726998eddcb410e53fdf6d22
+
+tx dad37ef10eb33586586fb1f59d6db818162eeecc2593fe22dd57143d880f61c4
+8e94b2ee02714c19d1b7b39182d65dc17721045575c7c6383e9c267aa8e667ec
+
+tx 5258e31bd22096101e89263f975519ac5515a54105b595c711bb5b288f8b4856
+483d0b16dc7dfd35cbd249ec6da0c47085c592994882f03a43df9a70893bd9ec
+
+tx 3890d4657cbf34fe95ab58754ec4e0d61f2a2d3d1e4d9edde66f0614a1a4300c
+789e69d5fd7f4e0711cdb999a143d3e2847ef3fb4161ab97a64868d44cdf31a5
+
+tx f93043a031eea9e538ae515a5b807de944e34ba6a6f653cfa4cee4da615b26fb
+75eb98d3c2f77de71d0975fffd4ef83e8e62b010e4806edca960a202c7e87267
+
+tx 7372aaa082092b6063f6dfd1eb3073af8a40795f774ea088e27501e0a089ae0b
+8e94b2ee02714c19d1b7b39182d65dc17721045575c7c6383e9c267aa8e667ec
+
+tx 583a3933b3fda054aebd0d2a68630843a7c89f10a61c8c5f08f617d0039d9b1c
+789e69d5fd7f4e0711cdb999a143d3e2847ef3fb4161ab97a64868d44cdf31a5
+
+tx c69e413db12d87e11b942b293f80be0a2ccb9aa24f7337b8a478c9e03f9aa2b7
+@PROOFSTACK@31332355d11152eaf0fca11dc17d62498c60ad2c836b286f1b138699a4ae709d
+
+tx 2771b99ee6ace6844aec87a2efe6361907a0b86b2a74427616bfcf3b2056e7ae
+1cf5fee8b0078c397cde06be2a3fc311cc0e4964726998eddcb410e53fdf6d22
+
+tx d2a2a7904f91c26c52b49b9b38bac09c30352cee050ce838ab6a3517c1c911cf
+5fb94277dcf1e3ad2a4acb33ff5e22d4813528a443a98e235a43f7f1137ab077
+
+tx 36dcc5ac12d3790218f425eb3a455326527212467f795b5619beaa69f4771fe8
+483d0b16dc7dfd35cbd249ec6da0c47085c592994882f03a43df9a70893bd9ec
+
+tx 1d37ec15b5ab2115b2f42fe5fa9ca908c5a06a081987afdadd26900724799306
+6ee852288edcb5019acda4697c45836baf633f1af2bf40df58cf7056e697ca4a
+
+tx faa44012451011b428543f5cd071f01af31e7fae264595140413f71b85eca456
+5c9dd73cf015af737ba86815bd284b1d21f1e538bacecae917ef2d28235fb4eb
+
+tx d1e9cc2c1ac4fa7b7a6fc1edfdba6439d6de05d0a741e5740067608c8641fd9d
+ea62781ca5f974d26ede8556e508e37d6672471aa21bc718c231def4a79c1cae
+
+tx 81c2d706dd5edfc0fec7d85295f6c79df0a57d822b93aae64cf5b395a8d16778
+1ac9ad60f2f9f5a6e5b40c569f579c015a6b8ef03d26c545034d294752d6233e
+
+tx c3a4fb0170c2f62d5079c70087b0d9ea13fa20c006db04fbd2c2bad3eefaa6f1
+1b756772d5e80ab8c88ada396fb95dcc92b26e74ba21c2627b8c33bee15edaf7
+
+tx 872450230d05c918396eaf20f49d3431ab0da0471e70307447ffc0b9ea18c929
+0b2b08b6ae9f14b8519967a456cc020c00ad4991ac0c7e4339970debbbbfa39d
+
+tx fbefa80cf50b973f9bbb75189a90c2bcf68871af2c8344a9d5d4460b96078306
+c1cee2c2fbe3e8e93a899ba9e48d58df78b9a60e032e2e75fa4e7044fff3f9d6
+
+tx 238ceac370afc33bba1ce356c493bc81e6bc9321510fdae8b973b44972addf72
+IPOTX: cd5b829928b621456c5475b5e57165e459e5ba9be8a3c0813aa6dce0974f349f
+
+tx 4e1c5d6c9c82e48af90c786dc0201f35a4a9afbf3af451d376df151af2c1a754
+1jR12fYjYGchh9QFiRgLRAD9otVMcnrszonyTguI
+
+tx 22135809386739f5d4a2f7f562187409d2cb1c8f7c98df0429b582919621e878
+bf547dfa3b2e69e206922b7d01de260f5a18206ce9cc749ac3befe85a6f96f04
+
+tx c909ab80f12a214b83bd065f8ca136ed32b9b7f59d54ebd59253f1e88dac9243
+c2123c4f34eeb3cd038b14cbe6a0e60f539fb5b03790ff21998900fd9eb0c9c9
+
+tx 81e2a7b514a77e0cf1f681ac51763108c202cffa9f8e8612cb41e6edf183a8e1
+04257c4d21339fe9a571ae49162173d3d47a001b67cb31d9a824c7aeb0ae8e48
+
+tx 626436cef6d3c11e4ead8ebf95830d416248dff79a537e937f885b7535bca989
+21f416929e2d8d91a16e4ad14abf91a5e29a94e2904b87e18832b1a5098102f2
+
+tx e70441b70a709597db0c33118fbbc1e7e66607f17b08dbd9b7c5521ff7916618
+fe21fc34ab73236f5acf638a93089e62af8a09ae404d55ce85372db65464ea84
+
+tx a30928dec38f72c0cdaa7b23cbc1528d53ed4fa10506471a8742478add083838
+4796c6058744194232b6d00f7be4db07f325ca9b70ede665f3915ee8a4763ecb
+
+tx f141625a7804e333596bf0f95d544e36ea1e6afe45f14666f1fa69f2553557bf
+22ce55dc2c8e0b03e87316f0b62570a06b9da2ba2e13858fd390177cf05b3736
+
+tx 081571e8cdb06c2c90c3e1f27dc82ca41d5c9f40ffac8bdbe536c50eae551c4b
+a7154c4bbe05089b3ce829a196685e95f74287e3fc95514548e8a8b0d6f1a1dc
+
+tx 88233e6068d6d2a9917b65960363602ef741e1ea3b4e6fcd06168d6668da7e4a
+f0f1a5eaf724f6de7bee9494d9e8c23b660c6517b0adfdba01e91ac912cb5a62
+
+tx c69fc393e1faed75f0d750cf75df3049f007efe17f0ed549fba7ba3875bce2d0
+IPOR: 4505d7e9d4df5eaddae481f30c6ff5b554132430fb2e72664b27f133b841b875
+
+tx 8428ddacfa340e620083537908e107b84b91d195479e668c81002a4f4fc06f00
+5584c2f2d37e50f753815570a7fbcf96003153efbac3d4b1ceded212f5120315
+
+tx 2b9c0844385f127a80d6252da1badff851fe04d2c70ca644b7d24b571f635598
+6cc95da805a259ba12ba29d743f002bcfae37b9249c2d30b6f60d1ffb3456984
+
+tx b03e8c6f520db5a541d4700297b0a763775bf5be97c48e04449f7acdd0976f96
+1d0da94f2708919050091529777131828e778a83157c9e46edd80c224fc2ee1e
+
+tx 556aa1ed681c4917a9c88121429b52f1daa0f10bae511dfc33c7be2b147fecfc
+aeeb45e38a26a75ad91424df84e1be0a2b6581a85c2a37b5292e873f88b96c3c
+
+tx 0f6636f93bb96b943db9a93cd641f1d2bf9ae23720b5b8e67f11f612b1033e24
+5b1d930646da44d1c18b3b519f214ce45f8d63f47d78ae2ab0e5a06af6cf89ac
+
+tx 02ef6a394554ab0b296e236fcb2636f3ab7c16b3acb01c9ae632a85a8128992b
+48e9b713dcace67c1eb984ea9d80b7c35c5affb631123690dda23ee4cc1671c3
+
+tx d5e7699b31abd59ad5fbb053cfbbe694174fb3810e78c98e28784999055a43b1
+1921cf5fba5581df9e25bb71ecb9a66c90c39d75f7c93a380e01deb112e36612
+
+tx 6e4306d5786c3f4e9b6c1da3445126a0d1448d91e5bad5e3f74e33c88ef622b5
+e4e473fb14b3a94a1d576827e1392fc0e938d8690ee9db6c9f8970d4c4cd294a
+
+tx 2fa8b0f6b52e4aafa2b222c0481d4200a0f9a409b7c11c52924d86e6dcb1d549
+&wwkseuklid-orders-EUR-2019-06-27.pdf pass: 05fceb3a84af650edb2c92c9df1b49ca
+
+tx dd24391b03b4c76443fda85e6dda74d1123d5c9095efc381597104f305a68740
+*
+eef542c4d8003b511d9fec2b33816811de8612c548a6237759c5461266bca1f20
+
+tx ecff0bc02ad786a25e4b3aab21fa6741c5c4697f45230cc1d2fee3fb665f31b0
+DQ571993dac4bfcc8d76340c3db02328f08735dcf2a8fdcff2160cc1d3309b9aa5
+
+tx 94e59f4de295bdcd3e9d6c923a58df50040df335c835f70981bb193cce259224
+6e6be61de1439fc45cfc181a905f2e81d6d7899abb8777f8cadde081f1168b11
+
+tx bfbc2789665cbdbbbfa94788bf2c1440c814dafbe800188bd64c281873deb0d6
+3c817383be270e29e890bf11b981a3705f374555d66044d2bc0e31ff0ccf3ada
+
+tx 06ffdffb1584f8ed576ac7502b22dac602f654e16eb9bba164accd24ce539afb
+u=https://valu.is/va/hide1976
+
+tx 3f24582d1393310091ca9f69e9174bc37c84bcad88640ed35a73cc08ca978a2c
+&wwks2565decbfd041a1012cf40d0b383126c3632603a7c987c6ada8bf53f850cafbd
+
+tx 44c89fa7d1bb665f83fb2d42d3bab7901ac890ff97c9b211a98482bcfb9b7117
+3c817383be270e29e890bf11b981a3705f374555d66044d2bc0e31ff0ccf3ada
+
+tx a088d2c8eb706155b8db6f0fecbcb6d89b545ca5f0c93b4b654d116ad5eec809
+bb641692482a1623cbcb153ab66ac952698e0d999f38389cfa8c5410c08c6589
+
+tx 3b9353413dfe9a7825e8ec95b55c8799e1ba4e32bd3fbebec105409ef281704d
+c553fba492c1aa40e404fb8ec9b29e1950807f83919d465701cfc0870a37412c
+
+tx 6e9c3d448074f7cfd011e00488f2a361483e067ee258b5061d04fcf92b8babae
+2a72f204b514f059728c8cc7f6731bb9c9f702a2b0d41fe13573d793573e31c6
+
+tx 798fade6e2c6a8170f6cc4b10578bc115821003b63c42340b93080a1dc55808e
+aeaf08597ff4316fe4b0020d89621ea530d11e8edd678534e5adfce23df3733b
+
+tx bdd5c96f2366513d231991ff64b08ab216e4c2346def32c2c47660506737f64e
+2bdb829f8027ff75b0862600bf033f84e4b160170e7f9175e5ef640a51f471b3
+
+tx 032d0b1b8cbe71d212bbde4b8f4bcc762778ee5995cd9a2e20f0381883d2d354
+dafd56fd6c86e95b4acc3db05e0bbd1e8ebee4793f9c2c3fac00c40bd1257bd9
+
+tx 3699a44d1cef71260aab42df9d7f30ec376269a92c343ce5d4ecf9f6b199993d
+cdb617b57b2c58a66379b33d52e1a96dbd697d386f5433cee810932fc87fedd3
+
+tx ac861f7be1be7bc774e33791068499e4eaf65bfc16368707de3c9c948ff2e62c
+16b098356118d890b6b42dc2fdeb31a63618cf777f0147e58996df353d88d5a0
+
+tx 4283caf07f12b5a0cc758865c3eafe77b5f3865cbe40d6de5aa9152d60a8c822
+AuroM 571459040561d7a1ce3811664540985f3c255f82e67e0dad09ec3b6dc0c446b2 190710l
+
+tx cec18ac96ac41e2ecfea97b85da9bd001e99587c67a78857fa78784b087ca74c
+172fb3d2eac1f6a0b86c211b03e3da0b,1562762029,45.765165,126.705131,20,Wx2
+
+tx 51cf3899732a1173436e365ff1f71f1e501418d90e52587a4a3061265134796a
+f5114bcb578dd3d13bd4e3d8f3adc726,1562773580,30.916916,121.466641,20,
+
+tx 70f89a568ce813665a0828a5cd7f933bd53ed4e4320bc03866d09c8179fc48a0
+3491311e9239813eca4734f8c090da93,1562734574,34.952684,104.714505,20,Z
+
+tx 51141a38a8ab87e538cae34be1ad6ebae48e85904fb7ebe9908627ab415256da
+f0c17bb969dd51aaace189526d93bf7c,1562741632,34.200657,109.269346,20,
+
+tx 3f78249889bcb65329fe4cf5535ecf7920dd28101e53f8d32d3cbfd24c28d6fd
+a9fec215146e19e7e5b66517a33099d7,1562773485,30.916981,121.466577,20,
+
+tx 127ce5456d78cc774ced2ea4c1b0514ec8acab3d1998d561ee17fab29ece4b04
+c1905d97d6f952f41d7a6854eba9dbf9c861a2d8eed2bbba73ba0125816b39ef
+
+tx 7001a0817ebaee32d6c9f6459329ddfe7d94e51dd80185344e4b8040b54aa53b
+822d0f8b29c7128be7964ca7385ae71815a666282fdbcf85141d370f2b52ff0b
+
+tx 9fafb41f67248aa4b488d09b927476bf8a8dfe7ccbd87032c2f16d388ce8de1c
+c12031314aaedaee8d8b125beac7acb5e75b0667b3f3a3843a3c259e488adbbf
+
+tx b4d46597ffa30dae8052aa0073a7017ede503d4c901e63d74bc7accc0549b845
+e1cd352155abb2f081ff601720283a8d45041c5c6f2f060c7fe38904745d5026
+
+tx 605c1f9fec021716a7df093377758004654eac32609617b6876ae576e6af6205
+3053958b53c9f560840f42392349f1a76fed66168c2848ae75020e6f5d48fb33
+
+tx 6bd69b677b3c454e6a623e3416fcbd72318a8f61d87e06a9fef090da7ad5ea8f
+45cd9813e73ac703cdaf8d20645a1297ffb9f5621c43b5f1823b5812edd75c33
+
+tx 3d6225d8d1a83a6e8c506900d6f400a0271ee7c5b0426cfef9dfc189c3a9d22b
+417b42a734106e2d5cf0a74fad1a742abe797349f024bb4ad4b2815957db7839
+
+tx bd4c04a0bb3431b406ad5f9d34eb4c93910865ffc46206eb911f5aee1070070e
+2d4abbbbc70d210e2298ab42d939df2df7f2257882f0b1edb98392731058bb45
+
+tx 47df2d7e741468a7db3ed0950591f8a64f8eaf8e5216b11f9df655f45d240a1e
+b10207bf37d53c74126bd46d98ed1b95148fdb3f6e30980e3dad17a99d761fa1
+
+tx d6d917c446b52a4524c39eb072596cb24dbb9279fc56c6352cc1703a91f18593
+413146d1f6f7c881e2f95dddf81effa15feaeb355eb153ac60f92bb0d6197447
+
+tx 1f02194c84cf8ade0dceed4d07c9b5b26d85154bae2db7950155de14e0ed946f
+927cdee6ade69ff56c7462f975e19f60db71beebd259e8c3fba6501e37d31348
+
+tx ce35457f771ec22429582ed9328a79e55c897c30f0eccb707f94aa298a80c4d8
+b7fdad748543c9a9b9e709563a165a6ed98c165e40a670df7165032ea4549a88
+
+tx c115f28ed478ccaf71810acecd081437d54293942931de0fc00e19e73a0c39c1
+3bdeTp3FinvLeWtf2X5Kp1xb9EzdTxQQzGjigBDI
+
+tx d0ba4d8a84b35170f7679fa7528e4a65b9b2914043bc43f1abdf8ce63097b9c5
+&wwkseuklid-orders-USD-2019-06-27.pdf pass: 2765feea77da21038344c545f6b35df3
+
+tx f061a251fdf8633ecb8a6230efa8c6946c7ccc42d90cccc740b6e6394b780dd9
+&wwks6104601497f4a441237b85f361c62bacc32b03bece7b9dc7a093fb34809ec51b
+
+tx d2a110e6ffdee1d0b1cdab1f91cac604fb6efa5cbb68a9eb407c47e4b12138ff
+id:unthinkingbarbarian.id
+
+tx 4080c35950f4b26554fd9e2e503a7c15e20368e0e3bb0f1d1ea3cf3a673eadee
+id:outlawentrepreneur.id
+
+tx 5d7adb48e25e9ecf423bfdc0f28fbe91fbb01100967cd4de1fad922e80c8ab76
+61432c7127aa81a9efd94fb62e17fe58fbdf2a1e8bc492095fcbf31c55c25c82
+
+tx d5034f066abf2086a3b22a5cb88c520859de32194a23b8237b29473f8e47a012
+bb3a5d30895db8ff834495fe642f50dc5d32cb0abafab7347023525a8c56ff03
+
+tx 9d8552d108520562353df2e415239797c9a9ad6116c7753ea201da7ad7abca8c
+3f376e7dddab68410db83950ec13743dfadf89c0b19e869b3794f83b3d5b05ee
+
+tx 56bde8307c584b2c3e01e97234b579246135019a8652f0a2db753b4c5e624c31
+b3e37aa70dd24b7efd246e7a8a74935c24e1e3383c6b65cc473700ab7b06317b
+
+tx b0752cac03e250cf8a4c1ebe590ba75dffe1f1eb5ada2cd2148724dbf5cd6fcd
+6db67563fb62fd306d8b22f7ec1625fd27c5e40f3dbea5e56ed07fa70c435feb
+
+tx 3fc472c2cf3738c42340f821dce4f14188ecd5a4830926f32039f4e0e517538d
+6e6be61de1439fc45cfc181a905f2e81d6d7899abb8777f8cadde081f1168b11
+
+tx 5050ea6e84d54eb689c96364e391c06952834bd7b8f4d26c6b927b8dc8dfbfe4
+ccaa2e5158e3e9051acebeb3fd5c03c3d5615d689d3dfd9241dbd0ff319f4771
+
+tx f7d93792bbc1daec394378623fa33b9d6618d27000b2e8800fbe7eba5aad86a0
+b46896f0a2dfd6627ceeb6d99f2406adf6765ea3f40dfc49ff8be3d92298ec0d
+
+tx fc29a46af937c5c2eddca11308303f94c67746dbc961ea8ef79230b93624c46e
+d5185a5d7697c707fb321ea60acd087af80a657c90be0a7a275f6ef3dc2f7dfa
+
+tx dae76d3a1f0459b6f160d3f359810cb5f689f66002de20d63d307cd590781d14
+5d2a22d0fab442eda00a223d0278f88eb95d464a2e9d28874542095eb863da45
+
+tx 1de3d06c3cb56cd0f28c45527813e1a878c5123d2cade891b9971b7c964c848a
+J'aime poser ma main sur ton coeur, parce qu'il y a un nichon au-dessus
+- DB.
+
+tx a9743704358492cf5571bd74b5c7221abbdab1844cf048f29f35517b58090779
+5aea67aa8783440b4ea8f2b0cd262c38a641db43d582517905ef4b65e16ecdcc
+
+tx c84390ab9bc0dbf65a2fc0fd9dc9b83ba0af86f8669d6c4681af9c71da68613f
+a57b47d6fed88a5879713cabec87acd30da3f9e0eacc172878bbdb4d7249d95e
+
+tx 705df74c2db5ebcc35553519869a5930b2bc212fb7e3eb31a00d846bfe9745f4
+aad6bbcaaba33c07e55b9c23d3099e0dce78d6933eea7f90615579bdca439719
+
+tx 0aec65809a175bdce067693091779fa26d48ea550ad03b5393ec724b08862a49
+4f2caeff158f300ae19deca78b66ac2a47a2f2c751932abdb08572237dc6ea79
+
+tx 84a1eb01b317a2ad2194ea100b9a140149be395005c4a047a818f21674dfa4b2
+f822c45ea448c05ccd4c0bc9ac020e3c3b0002435c2f49bf80fd0f6710879ea5
+
+tx 91e3e73b8c0b70874ea65ceeef801085936dd8ab1901a7952aa9e50462168276
+715108da67a4b24e504b0c2e263c7f3649bf0eca365bad6c3610825e7bbfdf96
+
+tx 95d7e28adb6f688d1907df0b23cf74db3584be770cb2850267c060e34df7a95a
+346363ffa4666d0aa86bf3c6b69f043bae772a3ef3412ca2b434aedb8d7c0a3f
+
+tx fd19cab9dd3383706221929736405133b210c5c2e9ba1f36f9e28e8fcbb4c1c5
+4bdfbe46ffbb728496199621e79b898334788d14c5338196084e918e6031bbf1
+
+tx 2343e7a3e91f72e5abef675b7a9214bae329b755ad90f062f2e19ebe6a8f7a69
+7a0e8f9228e454eb94294cbd7b4af76bb9bbf44874bf56c81ac997a614f168ad
+
+tx 349ee84d58311e502d42644d2dc290ebbd52a64fab3ebd3f54854bcabc6ec9c1
+e2c2f044041f0ee2e691bad34503f12e0d71fa7532cf733cee7da6cdbda536b1
+
+tx 9df93f3e91527d1cc67699071456bb1f9f03dcbe883d3b23501f2d923e5b143c
+62c380d229f007010c56805248310b9210e2ea659b6ace452f50baec637199eb
+
+tx 93ac0acc27f94729ac28687d0481902fc2709ec899619345737776dba441dee6
+ef8d0b159cddcf799f6e4022486802ee31333689942401bcb4a74d73a3a34038
+
+tx a24c1a9e19426c05dbcb013ca464b31dd5e00da6ee427fd55ef5fc237f52f4b9
+ef8d0b159cddcf799f6e4022486802ee31333689942401bcb4a74d73a3a34038
+
+tx 62d6ac17794a677b4c20046de23fc94dbad97610390df0c6caa3453b419b79d1
+32a1a2acf1bc1ce4f7e0b295cda34e40eceab38e0bfa12ae5956c32600115af1
+
+tx dda673a5f95821f52bae633b42b4639ba3fb33dd7d45bd916148c0ecfb6a95bf
+94ae856f8f82a92766dfcbbd4d2b5ff14b99e9bb3f3b2beffd542d8d9b0984c6
+
+tx 28fb445a35b429236a9afd3cb5da1394e832c5a1ddee40944053ee9eafbbd257
+c696bcb2e761cdb52b47e6b6fb6a4d3512d00686381a4290651ce02e3a38988e
+
+tx 446b938e66333bae49518f52325f8485c633c384be64887880c8fb841e9d3e0f
+d05b5ba57f551002fc49b4181b9fb81ad4f53800cd0a0e14bc792d16b13c8d3b
+
+tx d0f857c7e499c4ba7a3466682c0b41468fceec0081832a0d402960d82541f5b6
+bb9c7eec6a716ed4c8a951a5be9b9d193e5e3dfcdc0d84645b8974b3184b5c8d
+
+tx 2bba86922036ad4815ee1d4982a8d6bf8015b758e65787eeea597771fbda2c57
+bb9c7eec6a716ed4c8a951a5be9b9d193e5e3dfcdc0d84645b8974b3184b5c8d
+
+tx 51d733ae67e4349a920218bfe82ada464b37e3cd74a1bdbdaf8ed7506ad979da
+41c28847b4e7ef22ac994009e243ed51524e5de659b1e6a928981b74ec0b8022
+
+tx bf7e2372d00728f9b2a86db3a881f193dd6f6b42c02f325e75a3e64199a43d4a
+1c7e8778bf9f35e5df04adda8a73cc9a0f8e1d966347e84909a6511f0f09298f
+
+tx d0ccaa96b9d52656f56f19340e9fb91fa96f37cff8bbdd7b25614ebdf82d67b4
+7486a95945cefe2f2f8987ea2cc38004d2049cec448d593298e447602c63045b
+
+tx 292483a0364c1e53bb1fa3bb70409a85d19db3721254e33519c51583e7be4f9b
+IPOTX: 8795241eb07ace971fb0829545da59bf224247f5d65bb4b7fef43780e30002a2
+
+tx e2cd9cede5d3a079d9f7c8e7739c48caa7fb30ed559cc6d501a183e160ebb6e1
+2aN6NWuNSjjqs5rmRRikNmvWUfk7VadGUYyB45ZI
+
+tx de19831e5fe2377c809cc1ab724dc630b090c6107660a45f7ba5fb4f1d05e555
+7486a95945cefe2f2f8987ea2cc38004d2049cec448d593298e447602c63045b
+
+tx 57601b52bc3cc90ff66e6c7cc4898aeb3aa5395a322c072fa66fa45e6f35a691
+7486a95945cefe2f2f8987ea2cc38004d2049cec448d593298e447602c63045b
+
+tx 709e99b613bf704671718d8acc9374f3b55f57150fc11bd4231518c9f5ce5dac
+7486a95945cefe2f2f8987ea2cc38004d2049cec448d593298e447602c63045b
+
+tx dc4bf9adf74f0458eb99708f17b1815d32d4b4adcebeb26903a2506240687a4e
+7486a95945cefe2f2f8987ea2cc38004d2049cec448d593298e447602c63045b
+
+tx 509889662d10668a63ae22495c1baf2ac7cd4af82035193ee62129cfc218f5b7
+u=https://valu.is/va/iampeach
+
+tx 745b192f4ffee1655d41c86ce78e3e8401602167b19750fa3fea0a19dc4b05c3
+AuroM e931818f88946a779f89cac9445bc18354c304f9c2fccfb2045abfe9a9017b50 190711l

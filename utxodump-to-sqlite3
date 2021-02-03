@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set eux
+rm -f utxodump.sqlite3
+echo | sqlite3 utxodump.sqlite3 \
+-cmd 'CREATE TABLE utxo(
+  count INT,
+  txid CHAR(64),
+  vout INT,
+  amount INT,
+  type CHAR(12),
+  address CHAR(34)
+)' \
+-cmd 'CREATE UNIQUE INDEX utxo_txid_vout
+  ON utxo(txid, vout);' \
+-cmd '.mode csv' \
+-cmd '.import utxodump.csv utxo'

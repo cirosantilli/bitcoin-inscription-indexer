@@ -1,0 +1,244 @@
+tx 4b72a223007eab8a951d43edc171befeabc7b5dca4213770c88e09ba5b936e17
+#!/usr/bin/python3
+#
+# File insertion tool for Bitcoin
+# Requires git://github.com/jgarzik/python-bitcoinrpc.git
+#
+# (c) 2013 Satoshi Nakamoto All Rights Reserved
+#
+# UNAUTHORIZED DUPLICATION AND/OR USAGE OF THIS PROGRAM IS PROHIBITED BY US AND INTERNATIONAL COPYRIGHT LAW
+
+import io
+import jsonrpc
+import os
+import random
+import struct
+import sys
+from binascii import crc32,hexlify,unhexlify
+from decimal import Decimal
+
+if len(sys.argv) < 5:
+    print(\
+"""\
+Usage: %s <file> <dest addr> <dest amount> {<fee-per-kb>}
+
+Set BTCRPCURL=http://user:pass@localhost:portnum""" % sys.argv[0], file=sys.stderr)
+    sys.exit()
+
+COIN = 100000000
+
+def unhexstr(str):
+    return unhexlify(str.encode('utf8'))
+
+proxy = jsonrpc.ServiceProxy(os.environ['BTCRPCURL'])
+
+def select_txins(value):
+    unspent = list(proxy.listunspent())
+    random.shuffle(unspent)
+
+    r = []
+    total = 0
+    for tx in unspent:
+        total += tx['amount']
+        r.append(tx)
+
+        if total >= value:
+            break
+
+    if total < value:
+        return None
+    else:
+        return (r, total)
+
+def varint(n):
+    if n < 0xfd:
+        return bytes([n])
+    elif n < 0xffff:
+        return b'\xfd' + struct.pack('<H',n)
+    else:
+        assert False
+
+def packtxin(prevout, scriptSig, seq=0xffffffff):
+    return prevout[0][::-1] + struct.pack('<L',prevout[1]) + varint(len(scriptSig)) + scriptSig + struct.pack('<L', seq)
+
+def packtxout(value, scriptPubKey):
+    return struct.pack('<Q',int(value*COIN)) + varint(len(scriptPubKey)) + scriptPubKey
+
+def packtx(txins, txouts, locktime=0):
+    r = b'\x01\x00\x00\x00' # version
+    r += varint(len(txins))
+
+    for txin in txins:
+        r += packtxin((unhexstr(txin['txid']),txin['vout']), b'')
+
+    r += varint(len(txouts))
+
+    for (value, scriptPubKey) in txouts:
+        r += packtxout(value, scriptPubKey)
+
+    r += struct.pack('<L', locktime)
+    return r
+
+OP_CHECKSIG = b'\xac'
+OP_CHECKMULTISIG = b'\xae'
+OP_PUSHDATA1 = b'\x4c'
+OP_DUP = b'\x76'
+OP_HASH160 = b'\xa9'
+OP_EQUALVERIFY = b'\x88'
+def pushdata(data):
+    assert len(data) < OP_PUSHDATA1[0]
+    return bytes([len(data)]) + data
+
+def pushint(n):
+    assert 0 < n <= 16
+    return bytes([0x51 + n-1])
+
+
+def addr2bytes(s):
+    digits58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+    n = 0
+    for c in s:
+        n *= 58
+        if c not in digits58:
+            raise ValueError
+        n += digits58.index(c)
+
+    h = '%x' % n
+    if len(h) % 2:
+        h = '0' + h
+
+    for c in s:
+        if c == digits58[0]:
+            h = '00' + h
+        else:
+            break
+    return unhexstr(h)[1:-4] # skip version and checksum
+
+def checkmultisig_scriptPubKey_dump(fd):
+    data = fd.read(65*3)
+    if not data:
+        return None
+
+    r = pushint(1)
+
+    n = 0
+    while data:
+        chunk = data[0:65]
+        data = data[65:]
+
+        if len(chunk) < 33:
+            chunk += b'\x00'*(33-len(chunk))
+        elif len(chunk) < 65:
+            chunk += b'\x00'*(65-len(chunk))
+
+        r += pushdata(chunk)
+        n += 1
+
+    r += pushint(n) + OP_CHECKMULTISIG
+    return r
+
+
+(txins, change) = select_txins(0)
+
+txouts = []
+
+data = open(sys.argv[1],'rb').read()
+data = struct.pack('<L', len(data)) + struct.pack('<L', crc32(data)) + data
+fd = io.BytesIO(data)
+
+while True:
+    scriptPubKey = checkmultisig_scriptPubKey_dump(fd)
+
+    if scriptPubKey is None:
+        break
+
+    value = Decimal(1/COIN)
+    txouts.append((value, scriptPubKey))
+
+    change -= value
+
+# dest output
+out_value = Decimal(sys.argv[3])
+change -= out_value
+txouts.append((out_value, OP_DUP + OP_HASH160 + pushdata(addr2bytes(sys.argv[2])) + OP_EQUALVERIFY + OP_CHECKSIG))
+
+# change output
+change_addr = proxy.getnewaddress()
+txouts.append([change, OP_DUP + OP_HASH160 + pushdata(addr2bytes(change_addr)) + OP_EQUALVERIFY + OP_CHECKSIG])
+
+tx = packtx(txins, txouts)
+signed_tx = proxy.signrawtransaction(hexlify(tx).decode('utf8'))
+
+FEEPERKB = Decimal(0.001)
+try:
+    FEEPERKB = Decimal(sys.argv[4])
+except IndexError:
+    pass
+fee = Decimal(len(signed_tx['hex'])/1000) * FEEPERKB
+change -= fee
+txouts[-1][0] = change
+
+tx = packtx(txins, txouts)
+signed_tx = proxy.signrawtransaction(hexlify(tx).decode('utf8'))
+assert signed_tx['complete']
+
+print('Size: %d  Fee: %2.8f' % (len(signed_tx['hex'])/2,fee),file=sys.stderr)
+
+if False:
+    print(proxy.sendrawtransaction(signed_tx['hex']))
+else:
+    print(signed_tx)
+
+
+tx 6c53cd987119ef797d5adccd76241247988a0a5ef783572a9972e7371c5fb0cc
+y8#!/usr/bin/python3
+#
+# File downloader
+# Requires git://github.com/jgarzik/python-bitcoinrpc.git
+#
+# (c) 2013 Satoshi Nakamoto All Rights Reserved
+#
+# UNAUTHORIZED DUPLICATION AND/OR USAGE OF THIS PROGRAM IS PROHIBITED BY US AND INTERNATIONAL COPYRIGHT LAW
+
+import sys
+import os
+import jsonrpc
+import struct
+from binascii import crc32,hexlify,unhexlify
+
+
+if len(sys.argv) != 2:
+    print("""\
+Usage: %s <txhash>
+
+Set BTCRPCURL=http://user:pass@localhost:portnum""" % sys.argv[0], file=sys.stderr)
+    sys.exit()
+
+proxy = jsonrpc.ServiceProxy(os.environ['BTCRPCURL'])
+
+txid = sys.argv[1]
+
+tx = proxy.getrawtransaction(txid,1)
+
+data = b''
+for txout in tx['vout'][0:-2]:
+    for op in txout['scriptPubKey']['asm'].split(' '):
+        if not op.startswith('OP_') and len(op) >= 40:
+            data += unhexlify(op.encode('utf8'))
+
+length = struct.unpack('<L', data[0:4])[0]
+checksum = struct.unpack('<L', data[4:8])[0]
+data = data[8:8+length]
+
+if checksum != crc32(data):
+    print('Checksum mismatch; expected %d but calculated %d' % (checksum, crc32(data)),
+          file=sys.stderr)
+    sys.exit()
+
+sys.stdout.buffer.write(data)
+
+
+tx 08654f9dc9d673b3527b48ad06ab1b199ad47b61fd54033af30c2ee975c588bd
+thttp://threatpost.com/en_us/blogs/ami-firmware-source-code-private-key-leaked-040513
+30 82 04 A3 02 01 00 02 82 01 01 00 ED 71 D6 3F 21 FF 0B 45 63 A4 3D 87 1D 22 44 8F C9 B5 84 08 29 5B 59 DC 0F 30 D2 A9 4F 52 E1 F2 97 51 0B B5 95 D9 DB A9 78 D9 5B 76 1E 96 8A C3 E2 AB 18 71 BC B0 1D 58 EC F2 C9 36 44 03 BA 05 A7 74 77 95 37 75 80 97 38 16 CC EC 38 96 47 1E 77 EE FD 1E 28 E1 60 27 8F 86 C0 01 8F B9 DA 66 BA E3 99 B1 1D 4B AC 2B 32 C8 7A CD F4 5C FA 89 49 05 68 A0 89 D1 2A 57 1C 9B 7B E0 A1 9C 9B 9E 04 86 49 E9 59 75 67 EB 0F 72 CB 56 81 56 26 67 28 E0 9C 94 D4 31 E4 80 65 20 4E 9A AA FA 9D 42 5E 06 E5 B9 A5 A1 1F 10 38 32 75 2B 42 B1 49 2F 0E 34 30 0F F9 32 D9 E3 9B 17 E8 94 34 37 B3 9F E6 C6 B3 14 6B F6 2D C8 68 51 A3 90 F9 BF F7 91 30 65 ED AF A1 D5 2B CE D6 74 25 DB 36 0A 33 F7 37 C0 CF BE CB 06 C7 F9 95 79 65 23 B4 0D AE C8 52 F6 A4 25 DC 60 D5 74 A7 65 DE BB 1E E1 EF 3B 02 03 01 00 01 02 82 01 00 02 02 25 7D 71 37 2C 0C 3B DF 31 6F 5E CD 61 BB BE F4 07 18 33 E9 59 90 3A 9C AA 1B 7E 82 9A A0 A7 AB AA D2 B0 0A CB 5D DA 9A 29 63 8D 62 03 ED CB 91 5B 95 3D 5D AB FC 8A E7 34 26 7E 5A C8 61 B0 87 3E AA 5C C6 B9 FE 0D 73 BB EB 54 EB 33 27 77 27 91 57 DB A1 54 63 E1 45 E8 2D 30 89 B2 3C 38 E1 20 A0 01 39 C3 A2 0B 3D 96 34 54 6D CE 3C B2 5E 6B AD 22 9D 49 F8 B9 FD 8D 5B 05 62 ED 64 B0 EF 55 A0 28 00 CD 57 CD 49 E7 FD A4 1A C1 04 C9 BE E8 32 21 C8 A8 08 8F 89 24 69 4B C9 F0 85 D6 2C F2 C9 B0 3F 0D 4B 38 8C E5 84 FD 79 2B C0 68 90 D7 C5 5D F9 B9 13 D3 EE CD 43 21 C8 59 3D D0 39 4D BB 46 5E 0E F7 03 BE 02 88 D7 C4 58 90 A0 3A E4 87 B0 D7 04 3B 46 D3 E8 1E 8F 44 31 D6 79 55 EC 53 92 CD 21 3B 99 85 42 60 0D 83 96 9D 56 08 64 A5 48 D1 CA 7E 35 CD C5 BB CE FB 7F A1 02 81 81 00 F8 AF 7E 27 1D CA 29 BA DF 42 99 A8 1D 4B 5C E6 88 DB 97 4F BD 1D E5 65 0F 63 18 96 8E D3 C3 86 DD 43 C1 D2 44 A3 BD 45 2D B6 3B D1 FC 3A 5D EC 9F 9C 22 F7 9D CE 67 A0 DA CE DF 0D C7 1A 14 91 CE 67 62 EC 58 AB 98 22 69 1F 66 86 9B 7A BB 62 40 E2 DD 73 29 E4 3B E2 DC 2F 5C 34 3D D3 A3 7A 5E F9 86 64 BA 1B 79 93 BA D1 FE 2C 44 9C 51 56 F3 34 D0 8F 34 82 90 B2 1A 97 FA E2 39 37 C8 CB 02 81 81 00 F4 6D B4 70 F8 92 25 20 0A 74 42 84 03 7E 7D F9 E2 33 3A AB 29 2F CA 34 A0 3A 8A A2 44 38 90 40 CC 99 70 94 3C 78 E6 35 54 A1 23 14 77 CD F1 C3 E6 DB A0 EE E9 20 D7 C2 83 F5 5B C2 49 A4 4E 78 67 E7 91 C6 6E BB 1D 3C 11 80 ED 5E 47 8D E5 11 2A 89 F2 90 80 8A FF 2E 24 D3 34 94 02 CB 5F FE FF B2 0B 8C 09 83 61 C3 DE E0 19 8B 93 52 84 94 04 E7 89 3B 27 C1 A5 47 6A 7B E6 80 F9 B0 55 51 02 81 81 00 E0 58 D9 93 0A 51 DE 11 A2 E6 1F 5E C5 86 BE 79 8F 4F A3 12 A1 86 BD F2 CC CD D6 59 C4 E2 0F CB B4 03 33 70 B0 D1 92 A7 3D 14 E0 A4 90 4A 4B 7F 73 82 55 1D 53 B4 E8 51 F9 F3 94 D0 86 24 E6 17 9F C0 2F 43 0E BF 46 D1 0C 4A F2 A0 4E D5 8B 04 99 8A D0 C2 DB 30 F6 41 B3 E7 D9 E3 9B 3F 39 84 E4 F7 70 A1 A0 2F B7 1F 69 F3 95 BC 73 ED 1D 88 36 82 18 00 89 1B 9C D3 C0 20 09 8A 5A 9A 13 BF 02 81 80 52 DC 71 E4 2E 50 14 E7 D4 C3 6E DD 23 F6 18 AC C2 83 0D 6B 82 CD E1 A5 8F 7F E9 09 73 49 1D 95 EA 06 46 44 EA 6F 2D D3 7C 7A 17 D3 53 7D EC 6C B5 F1 54 90 49 55 C9 EE F6 1F 12 59 3D EF C6 6E 49 03 16 C7 07 38 C5 83 5C 87 B1 70 59 9F 7F BD 1F 07 9E C4 5F DF 3E FC 9C 9D 40 E0 C0 45 C3 A8 45 74 4D 37 CE ED CC 11 C3 97 82 F1 6F 22 F5 30 DC AC C5 37 D9 95 6A FB 57 DC E2 DA 6C 4A DB D1 02 81 80 25 C0 FA 2D 19 3D 45 94 B6 25 CC 95 AB A9 EA BD 3E 23 97 9F B1 F7 F4 CF FD 4E BA 06 F3 AB C3 C8 B7 6D 6D 8D 1D 08 C9 2D 93 9D 9D 41 01 FE 9D 24 46 F9 1E 18 CC 0E 8C 02 64 F1 78 BD B3 E2 A3 D6 03 38 90 02 E9 D0 91 76 B0 C6 B6 25 4D 4C F7 E8 85 CA 29 CD 77 92 3D EC 76 00 8C E1 8D E7 8D 9E 82 40 4E EE DA BB A5 81 E0 73 BB 13 CE D2 D8 14 80 2A C5 65 96 68 E2 73 C5 CA 63 30 F2 67 7C 25
+

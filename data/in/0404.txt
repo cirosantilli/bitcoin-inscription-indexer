@@ -1,0 +1,1423 @@
+tx 6f6527bb82c9619ca14daa7cd04560766b51c0155c6ee20024897c8c97bac3c3
+/BitClub Network/SEGWIT/
+
+tx a4b448aa914ba7de99b61310fd8233c005d965131c40045c87a9d981f692fbcb
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 03c2ffdde036565409b6536fae6ac5f7676ab6ec7f908814a0055e6f712da8a0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 28970e429d00c29101d6863214bcb256bf3bfd05e182b25c58b91d846d38433d
+Mined by AntPool bj82R+
+
+tx 527a75d924406425c049a60bb209fa427d2fdadaf436937ab0c22bba90c60fda
+Mined by AntPool usa44%
+
+tx be639bd34fc0dab33ae8f3b3120b5042700ab4fcb83c5afd241ab35b2def965d
+Mined by AntPool usa1
+
+tx cbb8e4f96e43b5b1c26dec216eae5cc3a97a2bcc4b126da66306b99de9c2178d
+Mined by AntPool usa44%
+
+tx dfbfbc892dda657893c596e92dc7c49384e763ee942632e1a0c075d1286f8fce
+Mined by AntPool bj6
+
+tx deb8d81ff3ee8c7530c17aaa75e330f125579e6f9478a852d38bc912003073da
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b5f357c527676365d76dddc3706042bd30eeb8e64d75898a1bddc418402fe009
+Mined by AntPool usa44%
+
+tx 77b70ba4c4f4e5233984a3d75ba157f5485b1c9f9244ee77a1c7d3ea9ffc0472
+
+ckpool/Kano /BEBOP/
+
+tx 53e2b0b8a34540b3d354f5262c3e3723ffc48dae703367c8da0b1e555df0b379
+Mined by AntPool bj5
+
+tx af11c0c579ff844c17da52c5a0cf47048c1dbee3d4827e1d79bb5408f9b49461
+Mined by AntPool bj1002&
+
+tx c40d3b131f18a9a4f3c0b395cc522c323e9f2a5451ead00be98e08a15dc9782f
+Mined by AntPool bj5
+
+tx dff417e37c7a36c15867508fbde8bcb2757008ae4bce8dfdf001b15f4c660ea1
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 55ba0b0ac4804a5ed036ec31db918f2eb69cb05232a77513e8779765214a4ee9
+Mined by AntPool usa2
+
+tx edc423847612b4fcf82c2579197747f1b674e58abb596abec92fee2b51d3ea30
+Mined by choutiepeng
+
+tx 88ae9325cc7476f3ca4bb37618d4d2e1f0879a0a5256ffb9fa5175d8478669d3
+Mined by haobtcmlss7
+
+tx 7f3fe536ebfd52eb90e53eecd2f63761107ae137dfe8e2a2411dfdd3dfdf3312
+Mined by zhangzanwen
+
+tx 1bc568a036794307a79bf260b918d45bbe4c49249ed902c167406672f614b6e5
+Mined by haobtcmlss7
+
+tx 647092811b39822a144ef1bbe467cb92ef3933e352dcc11c50357ce9cb83e7a5
+ Mined by AntPool bj12#y
+
+tx 31fc1efd8c33112970d7201ea4b030f137ab5dc88ef426e8dad0e6845d2416b1
+Mined by AntPool usa44%
+
+tx 20445f203cbedde01f952495ed71fa1a33e1b87b0de2dd637b630bc83203beb5
+Mined by AntPool bj12#y
+
+tx 2c489431dd927e47af80014204e473e85792021ccdfaa6989a94d160613f2bac
+/BitClub Network/SEGWIT/
+
+tx 50c4e8d0bda562eabf13473633292f18801935d1872ba4d2e0d1998cd227c67c
+
+ckpool/Kano /BEBOP/
+
+tx 2be48d2fe233c4de1478b88d4703cb2a06ce27b04897b29994ea5e449a05dc8e
+Mined by AntPool sc11
+
+tx bce9b0b505721e6b14e41b2aa7a8fc78679af6869319a187b20bd9794b9e1ec1
+
+ckpool/Kano /BEBOP/
+
+tx 65e37f4dbbb91a916d00bd601aaa9c98d7abc15e978913673093466694a7d146
+Mined by AntPool bj82R+
+
+tx 3c111b68c1b3ffc843a427b4576b49f1a18d171e96bed18a1020f44d85735809
+Mined by AntPool usa2
+
+tx 0af069507964c259aeb8f93301beeab8ac703c2c3b6835b306d018a6adf049a0
+Mined by AntPool bj6
+
+tx 9e19e93cd0ac48d25e052ce6043d095a0c92054215a5ef347c59a0900bd6a4fc
+
+ckpool/Kano /BEBOP/
+
+tx 3df48a9fb5d4215dbaa0086a69eb882bf8327147e83682230a25ee8fb4902090
+Mined by AntPool bj11
+
+tx 75e447c7a18bcd6dd1538427a022d9907b097ab107a59021d963f0e9b8205aac
+Mined by zhangbaolu888
+
+tx a03aa5c50fd9422216f1fbf9324ae999f76b6c267a564751c2174ae977dcc71c
+Mined by haobtcmlss7
+
+tx 3b56aaa4c296c92c1621f5195e0c03a3fdf3a3cf5551eda02272d68f588c4944
+Mined by AntPool bj1002&
+
+tx 757ee54a594d660a79a96e5aa30009614c43ed8248bef873d64089cca0586fb2
+Mined by AntPool bj12#y
+
+tx 45482d09065c4319bb7809a66eeafbf757da2ceed2ca640ea37c24a95ad1f4ee
+Mined by AntPool sc0
+
+tx 70bc6e2e7be59945e3990b6b96961f8863941ea6822fcc43f1f1d52dcdc6c432
+Mined by AntPool sc0
+
+tx 7f51962682ef0edc56e73b035e15ce6871017c0a7b226268b2c6d360137eafb9
+Mined by AntPool bj11
+
+tx 8f20e80f7e2be4d953277aceb893fb5eaba252034a1d7b820adf0c6d36140125
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 1fc775610cbcf47d961060424e02085588c5b14ccb54b7b157254f8a3308118f
+Mined by AntPool sc0
+
+tx 4bfdc2a10123d88ea2e900f1198852d7342e4780c15f65ba6c9f1ef266206cd5
+Mined by AntPool usa1
+
+tx e03a3c568851c6b927b66bee9b7f6e0d01f5c12dd4c9ff9b7e8d0d4ba190f334
+Mined by AntPool bj12#y
+
+tx 6252adb1483030c0ed5aa2ad1fa771d04cd99a7a6228fcd9464970d49a52e4e4
+Mined by ct18105466668
+
+tx 408822120a023c2758de6226d671a560df050e148b15bc0da97adf580ec25591
+Mined by AntPool sc11
+
+tx 21705e0f15b8e1daea2efe1135e8823d445f516148a4aff0e1f12a1027cd0076
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0240da103246e488cfc76794e133723db35cbe025ca53f5d1b10f305eb313138
+/BitClub Network/SEGWIT/
+
+tx b676dbbf888ca50072a9e9f7c02c70d77133746c4e026f1c201f4d59677127eb
+Mined by AntPool bj5
+
+tx 7d78db5a9d2a8e62d4736009bf7b442b5b03730467e489abac334cb1df26d666
+ Mined by AntPool bj1002&
+
+tx bd525777078a0465a2722c6906506807f920b5d7f0c8c728705c566427bbaabf
+Mined by guo123huang
+
+tx b218d9e9bf2d9a91de239ed11405c150777407a0f21e3d714a9ef6db8601eff6
+/BitClub Network/SEGWIT/
+
+tx aa73287a78bb165041fb6333a450de24358841eb4e3fe443e92af627c8b23985
+Mined by AntPool sc11
+
+tx 0895801ce630d3bc81ff2a2979a452bddf0d56536b7a19d64085630aceb9d93f
+ Mined by AntPool usa2
+
+tx bda4872f16d8ead186e569be2b70713b62b0f1a16fe1800129b2d1c204b13b7a
+Mined by AntPool bj82R+
+
+tx 081e2d6f06f6904238a21a1ca75028210e2afeda8a1f907fef52c1b5f9a845c0
+ Mined by AntPool bj1002&
+
+tx 9e3730540b13e63e931db5718b7cc9da7db9f35520709b3dfc3cce30b03ee1a4
+Mined by AntPool bj7
+
+tx a7dac9800d535a0a431fa1d35396fbaed915a66924d94093676f5ba20c839e21
+
+ckpool/Kano /BEBOP/
+
+tx 17b78bdc36a1ea46ec8668e72803a1a30f702369a96aaab4465cac26dce14299
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 61e0a55da07011c5fd44f000e6fe1e38be15b90590277d64d78f9ab5d97fd852
+Mined by AntPool sc0
+
+tx 67ad014d66932512e8caca4f10cb55cafbfdd2c49343aabfdaafb269147ec2d8
+Mined by AntPool sc0
+
+tx 496667e9f29476866061ef96d0c2c5cdca47bb3f489c80043ae13f7278310366
+Mined by AntPool bj1002&
+
+tx 39771c42a39e7ce9393655d6a8a0d8daa101637543e6eff74a36aed64178c656
+Mined by AntPool bj12#y
+
+tx d22726575929e0b4b8942e5c7a8c2ff960a90e9b28dd2fb44c5718f8320bfa7a
+Mined by AntPool sc0
+
+tx a348edeaf257d743cf210e785b8f346d6aee8783b106800434a08e6c02e22875
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 220e7bfd3cb9cec93e7193a64f9799d9b7ec4906c31ed81b5cb53ce25dd79489
+Mined by cwd787945450
+
+tx e5665b6be28ca7dc37b336ced72bfdf38cbca63c7923dde88f3700c131de2e73
+Mined by AntPool bj12#y
+
+tx 8db2a997531a2194799abe4a1238a73a1889f509791729e096a93f79de5d203b
+/BitClub Network/SEGWIT/
+
+tx c804e095669ad2387e0a00a91398c541eee0135efab6263e6b7aa7a44904d2df
+Mined by lijing46888
+
+tx 1fbde50c0555f47e49c915e1bfa946e9e3daa4949ba4577a2fed3816ebd501a0
+
+ckpool/Kano /BEBOP/
+
+tx 88149a4ee9fde7d2399a4f6f2abebc3a4fdfd224c26c817ca054fe8282bf6d92
+Mined by AntPool sc11
+
+tx 4b193b5070e1878059b9f2568ad18565d5ff5beba5f344a4518f44b45cc7e4ee
+Mined by AntPool bj12#y
+
+tx a1ef6e9ac13fa1dc55a32468bec8ea48fffc09f2c8fdbb517136bf729adff7cc
+Mined by AntPool bj0'
+
+tx ed1b1b9a89d6cb017f1cd565f9779d30809a5c3f50a8df571ef41422c52ef7e8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 831c70f0d1977070792d3d42f12df1e36322e90ddd7c1a92bfdfec308c5e9c0e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 83b2b5a307cc8ffeb8a3e07108302ff45e08a352e13a61e88a04c2e4d22e4f8c
+Mined by AntPool bj82R+
+
+tx 3073fbce4d8b900d68490871f07a2a2ca3ec9a2c324ec87704ce0357ce8505d3
+/BitClub Network/SEGWIT/
+
+tx 86c6a9c8a0e38a373b55e06df9a8c22e6e2c40558c073e3fe60fa92cd9360421
+Mined by a15246061396
+
+tx fbe2c48acb15f68b82ec3d81233bfc5c2ef2cf16c88aa613878afbb455d1b009
+
+ckpool/Kano /BEBOP/
+
+tx e698337e3e24fde234c5717e55ee884beed8b8354fc14aa75c9e550c2f4b31c1
+Mined by ffzhangjing8888
+
+tx b9fbaf9fe54f934f606ac8f4fb6a7ee6f9db7e8fa2905fc2366ec9590c397f0d
+Mined by qq1941385438
+
+tx a764eceeb3afdd4d4204eceac80cfccf4d0ea346cdf7db0a5e494dd8c55f604e
+Mined by AntPool usa2
+
+tx 38059873015b7a00f2e464881aeca5cb43a1a8aaf0a2dba99f69f0d30ba84246
+Mined by AntPool bj5
+
+tx d86494fdec00b7a46833b8e12e4dfb622869e08e8462a23bd4e527f022fbb384
+ Mined by AntPool bj1002&
+
+tx a97124aea0bfaeeb5afac3724099bfe2e1ee6df77c697ced0dfa393e775206a9
+Mined by AntPool bj12#y
+
+tx df966eec8cae8fa65e8d8aaf54eb480d14a5cae956279b77f3ef56184854a17d
+Mined by AntPool bj1002&
+
+tx 30d6f19367e6b2734b580bba3b6b4591a9b02b7a32c2864fe62ac295bf5d9624
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b9224ce5fc5ef03ff87e087f98f997967596107ea6b02c62fa264dc1e972bf05
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a2ecd556c1a59c99ce42a9da637314698248b61e1b9127c32e01c8b5dc6723ff
+Mined by AntPool bj1002&
+
+tx 5e31fe4434e357e9bc11ef355de6f1ad3270a8f7b924ed9e3b4187fde88aa53d
+Mined by AntPool usa44%
+
+tx 382026f82b31a7dda8d3c88832ffd90612101a30ea858a26de263b6d211badee
+Mined by gainbitcoin01
+
+tx f29e3dfd290b92221d2884cdb52f429831ed430e4d53df5a9a3b3e6cb87f6654
+Mined by AntPool usa44%
+
+tx 639acd1b0be2e52523d7c22493fda459cafce44f6c175e2a5f877aa6a33d0055
+ Mined by AntPool usa44%
+
+tx 095ee413545853d9cfdbffaa9628b8438527d95666d94564d9841154381942c8
+ YNq4/'n#N+Nw)}t,DAE
+
+tx e81a7d42e4f5f9fac2b9c7843a8c264f26e4e21575088e3054db849eff05e8d5
+Mined by a2077560635
+
+tx 0b8a10ad305516dfc9e90f39bd7566a6c4fefc023b2718848db8924d77c2a08a
+Mined by AntPool bj12#y
+
+tx dc85a57c0bbadabd1af06b8b46bc6d0444fa497bb278900a4cc47f3ace949bac
+
+ckpool/Kano /BEBOP/
+
+tx 5be075d55b24519700b3afd93294ceffb9327cbab31cdeb8c9368f8f081ee853
+
+ckpool/Kano /BEBOP/
+
+tx a2de3e96d90c07ae1a38b0928c8faca886cab1aa70367c054b1769b75cd83823
+Mined by AntPool bj5
+
+tx 3a14d7aced46353b550a75da5e8ac60389886ade938a9b7fb0b9965d6f715a7a
+
+ckpool/Kano /BEBOP/
+
+tx bf89b43d3ef844977d9b35e42445afa59bf410a3e354893fb18d59ff71274d71
+Mined by AntPool usa1
+
+tx d91d6a8e1caee0814ae8b9bf845d3e0a807456a9c3271a64141de49b32a63da3
+Mined by AntPool bj7
+
+tx 9506383a26256c800feccd36f12355d6ed66e5ff6e661b061774bd5f111dc9b7
+Mined by hanhaoyv7780
+
+tx dd901bccd9ecaffc07f9d6f730e45e61ac0de83c89702176c1e57726638f138f
+Mined by AntPool bj12#y
+
+tx b0b2feb66c35fb7d4de563966d264b94ff3e2f38970655f1f80313bb90f7da9b
+Mined by AntPool bj1002&
+
+tx 319be1f8c610a63221b4cb7076aec75b0a94f1e03f0e407d693603b4a2b800f4
+Mined by AntPool bj0'
+
+tx 3ba874ae7dfb46477d172272b1cb86eb1c9f8727846012d0c5975becef161a37
+Mined by AntPool bj11
+
+tx 7c48855c5dbd93f050c6b72c9edb46c5929d5dc3c2cb80963ee6895643c53260
+ Mined by AntPool bj12#y
+
+tx 1c5c76f00456cc05900094c49cef06ff26c246cd7dbf1a6b584531627367f321
+
+ckpool/Kano /BEBOP/
+
+tx 8eb7c511b13be1319e93fd073cefdfef2dda82a49f137504aecae4bfb72243e1
+Mined by AntPool bj12#y
+
+tx 1388d0ea617503f87c64ed17d0bda0fea4e5f1bd521c907dfe90f7e9f6fabd53
+Mined by AntPool bj1002&
+
+tx 698e513a52956be41c4c25c920230819a5e70152775676aebcfaa54fbdc3429e
+Mined by AntPool usa2
+
+tx 0598b4fafbecbfc053618306ced5d27afe1ff21edfa4753812a4ad768bb33065
+Mined by AntPool sc0
+
+tx 968e331dcf6450772cef99c5d2c2f1fcc27c11e3523c2b77274880093b45243a
+Mined by AntPool bj12#y
+
+tx 96ee6b6fd6a9385eecf2b96c23b7cf5a45568d052a37c478b89c78d7ef96f16b
+Mined by AntPool sc0
+
+tx 1339f4bde06e919e36dc7e6699e76492944147e31ac871a73a64e9ad213e5051
+Mined by AntPool usa2
+
+tx 68d050db35c85082a4aa5d6aaaa7377c9f1e1c40533b420da119b31d53dfdcb1
+
+ckpool/Kano /BEBOP/
+
+tx bcef43245b4320489741a5af881f4c8a206dbfa2bec273a1a40f90a8454d2b26
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e484ac1a4077be7c1ea8c64db738632e622a7b128e468a8c0d6ddae907c7ae4c
+Mined by AntPool bj82R+
+
+tx 7811cfd306dc3586b467b14e86b50ccadf36a7f40b88cf465bb0fe0197f9aae0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c8daef8093cfbbf1848550249fc58951318f2633416a793b1a8b203092719b04
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 62e42d4892c2296c3a8edc1357f81ab9bbcf4c1af01a04b2de3e5347f1697943
+Mined by AntPool bj13`
+
+tx 04333e69351734384ac738450f34b9ad438bb93b9128cfb1eb1cfa16faf9bc00
+Mined by AntPool usa44%
+
+tx d1c937db970026de4c26a6c92e43265e70b8d49503d2114c205e74ed1976206f
+ Mined by AntPool bj12#y
+
+tx 023cb79446a2dcc663d1400450926df9ba737bcc1ab96beb71122c307f91d795
+Mined by AntPool bj11
+
+tx c203134494d02eb5a96782c1f067da7a2404c77c37e3554fc0c268fde1f370a7
+ Mined by AntPool bj11
+
+tx 881375259c9ab89e3bb8b29214ed590900b4191056cb0ac8b91ff453ce0e9333
+Mined by AntPool sc11
+
+tx f25a0fa04020807883c6112708f0d3598e5a08b52cb2edcc15ac0684e7365655
+Mined by AntPool sc0
+
+tx 28cc12bdadd6de21d4b282be740b3ad88ff1606bcd810c52d9a01c0cf57be573
+Mined by gainbitcoin01
+
+tx 8e44e983bd15c43f10b57f73512fbb519ec094530feb92cc513c763304a2bca7
+Mined by pengfei88521
+
+tx b9ec4185d79a589b65aaf5a50dad0975037736ea503d6cfc1d681bacf343ec2e
+Mined by haobtcmlsa6
+
+tx 78920d965a4a65546e3bb30d3192512716f60a8dc4b8a79d5a7f76e801a08c64
+ Mined by AntPool bj12#y
+
+tx fd42d1feef499a718b3e73b258ac3a6bc387f90f330e44a93cf6e1249c72d982
+
+ckpool/Kano /BEBOP/
+
+tx c8c5c93898802b1a192800ee9be0849fcfc6d34a781495863efd1a55e136fe53
+
+ckpool/Kano /BEBOP/
+
+tx f1e09424ca4036fa5beb92ccbb51b54e81d9c8fa4d9821decfe809d1c16290d6
+ Mined by AntPool bj12#y
+
+tx 29b30e1df67ccdd1073a0d0923029d26a27ea851d7bdc3cd5598d48c326c1a14
+Mined by AntPool bj6
+
+tx 2f6d9cab114e4e24e745ff621fee7eff588a32f946e3cb86c8091d807cea8b95
+
+ckpool/Kano /BEBOP/
+
+tx 12e2521557a02d9d8e5c841a12b608a99b09365c3c91af36b579984be62f9a8f
+Mined by AntPool sc0
+
+tx 5795b46cc643e6bc6fc61cd687f8b47beac441e02cb470e6387784f833aa97d2
+Mined by AntPool bj12#y
+
+tx e161e6f0f21271915cc1ffaa9cc9ab68823d9655a366e579954cd2f1af7d06b4
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx dd381285744e5fa045b18589f73a88cc35e2c00c07893681da921062237a6359
+Mined by AntPool bj12#y
+
+tx 717fdaed2a0d12e15cfdc4fe7c0552ebefa8a073b7379d0b72781759e3e4963c
+Mined by AntPool usa44%
+
+tx d7f166f8e558e00cfc6911b2e6c20cfe6f1daa66215d88b77c26787c29c2af27
+Mined by AntPool bj11
+
+tx 2a6990227579d5b8920e8ac7b9b5ad18031d943748ae6e0348c066bd85d301c7
+Mined by AntPool sc0
+
+tx e4d9f0ff879a2c293401d6145a708ae40104053d3631c1626f88f1d4c2a76c5f
+Mined by AntPool sc0
+
+tx 98a78766eb38275df0d9fad9f61227584f704d8c8621bc0043cac949f1df5bd7
+
+ckpool/Kano /BEBOP/
+
+tx 559dc381430bd3e400fa72592932e3c8b48760c8a45acc2507753f039de12069
+Mined by AntPool bj7
+
+tx 0c14858135321e24a573365abada98717d60c3726e07389efccb6f2fe53087ef
+Mined by AntPool usa44%
+
+tx a16d79c170334458cf28873b9763e939d19f865d666c1cb6f0d39143f4700dcd
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 13e8d579c2b8037ef67839147cc64ec93419faa34f007d3348a93712f73e071c
+ Mined by AntPool usa2
+
+tx c9df9c7149b772911b3acc3eef8887b8484fa56cb6c619d7441b857d76a757ae
+Mined by AntPool bj1002&
+
+tx b3571ca7c1d2f782b7888a645fa0f71b045216de8c53235a57482bf947e0de3f
+Mined by AntPool usa44%
+
+tx 78601a033ba8d978865696aa72be806054dde625748d6cb7502cc51dc71868fc
+ Mined by AntPool bj1002&
+
+tx af22ee9d1e695a350237e4b32e9903a31cc922b07dc322585941f845b37ba2b4
+Mined by AntPool bj12#y
+
+tx 0ec9b1b56ac7de21dc6b42092d2f3335a10cbb2f2937696d15a1823736cb76ae
+/BitClub Network/SEGWIT/
+
+tx 668b3ead47b07e78585c16f939af2de008dacacd334c71708350ef6b7e98b990
+Mined by AntPool usa2
+
+tx 91363632b13b4159de5a67753312186b1d91e0ddcc705af5ee113b3b87c084ca
+Mined by AntPool bj11
+
+tx bdd613b02c158179ae0729dc845945615342ffc71145d50f33fe5d6c9f88e167
+Mined by AntPool usa44%
+
+tx 8af74c3c5aa67546b00a37ba64f3155c56e71fa03196eb034a3355b9b37088c4
+Mined by myera4mining
+
+tx f5a89957f14e040b7d536795295a5e531da6642fcbc79838e5a57ef16ad3503e
+Mined by AntPool bj82R+
+
+tx 311292a2b2ad91f176f8ffe0bcf9b9510207157935994958cf3516f06bddd337
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5262df0e33d33606e0cbfd955ce701c9fd3e583fc6b58fb5337d847948174a00
+Mined by AntPool usa44%
+
+tx 24514c909e6d925c41a46217c63bf6fc1f833ebca562cab343dfc3e89ecb3ecf
+ Mined by AntPool bj1002&
+
+tx 14759cf2ce08d4240a49eec481c26d8805c7a356d81bd87167cf275253276250
+Mined by AntPool bj82R+
+
+tx b1264cff78ca91d433f85d203baaee566b730b3e3a92ab2a7d92993a9906c063
+Mined by AntPool bj1002&
+
+tx c5c2e47664a2dbba05576594aaf12c2874826810a1738372edff348adea1e095
+
+ckpool/Kano /BEBOP/
+
+tx f11a95c6a095bc4adbd538b0e37d8cfe68e11e1df4b97f4f1a3ac60edd9324d1
+Mined by AntPool bj82R+
+
+tx 43e2996e45d4c9e99e9fe14b6435df94062722666003451b63b5a0e6a0cf4c77
+Mined by AntPool sc0
+
+tx d322814814ce8afcd9e313015dea11a24ca003d526a54917a06b81116717e2c4
+Mined by zhangwei888
+
+tx c42d12886514f33731290e4022dd3bef22ed0397447f53e30ff220bf3766a1cb
+Mined by AntPool bj12#y
+
+tx e01255ce0fa317afd461d76b720a1bbaf76defe84f9df01d40caf65066b4a631
+Mined by AntPool sc0
+
+tx 4a0a4b587eb6230d6353b3444925f1c9432b6429a642de7c103ecca08ff068f7
+Mined by AntPool bj1002&
+
+tx 9a3e2f79ee717ff62373b481ed35bf75e95f535da13b687caaa90f1307f03fe0
+Mined by ss774736243
+
+tx b016958f4c1f0d8d98f4c5d88b134be0324eb769143e5fe8ab5baf6cf5fbff71
+/BitClub Network/SEGWIT/
+
+tx 6c068e8e39e3eb0c873888178f5b0ab00fc6fa08ff6fccd83c9f00711a5ecf96
+ Mined by AntPool bj11
+
+tx 96cc74813a26bb5c6359def90b9b1c31ac875bc16864531c7ebe0884726b0909
+Mined by AntPool bj13`
+
+tx 7f9db67cda4b99aa4060a3c87a224fa4c24ef31e5e2ec7645b49ad415ff027dd
+Mined by AntPool bj11
+
+tx 179853b6b3ec6d02fa684ef98d0644030fea0a0ce75727780fb0a0a7d3e1b3bf
+/BitClub Network/SEGWIT/
+
+tx 1b45cc364eab87dc25ce349feeb7e640fc36b6e50b40d9af16a256e26be50a93
+
+ckpool/Kano /BEBOP/
+
+tx 3af36557661fde66fc237d249d62d8256882bf023b60c97c092ed116dc0be1b7
+Mined by AntPool bj6
+
+tx ce10d21ba5b920cdbb859a75477855410142ec85fd8313c1daab052336105781
+Mined by AntPool bj82R+
+
+tx 549294bc317e19d97a459bdf254a7d05deca4595fe3affeb824d0ab285811b3a
+Mined by AntPool bj82R+
+
+tx b72ad503d9b654609be64bffea492e9f431e1ede5cb4a49948909a3591685d4e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9d95c7155509967ee5043dc2ceb0eb1a6f2d547d6e2c32c56713708913fbacd4
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 766d3149d2e0610030d93abfedce71c79e85b9418ee0a98a44a50d915eb6ba62
+Mined by chenfangfang
+
+tx f5e46f19453f11a2e5cb8b13929f5a9b430f920e762a92b630e6a09d2bb765e5
+Mined by AntPool bj1002&
+
+tx a9acec50ea7e9bdc7b62e2bcd78117457228a3ae11b715f77f69eaf75500b1f5
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 89ad735bd5e34a6ff56d2e2c6699cb5c68d52540b2dbe15a269b349246313db1
+Mined by AntPool usa2
+
+tx 8b9e80ee82917a957c6d75453aa440953dfa67d617c8c0bffa687bb6528e8ff2
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f0abef315158f06430ed23f0cf9dae98216aee803064de930d3ede79c084c283
+Mined by AntPool sc0
+
+tx 0b6e2e4f8d2cee7c60f9d1a7ca2e4fc48ebbf568a1e0e0f30c976fdd845c4d69
+/BitClub Network/SEGWIT/
+
+tx 9681314d3a796dfe537eaeba0687bbc7dee030d60107f7650e07778e3de63d48
+/BitClub Network/SEGWIT/
+
+tx d294475625fceb52e68f3bca1bdf0a4f0abbacffbd99c9b6484e19a211250ce4
+Mined by AntPool usa1
+
+tx 35346b782035127795e06e247308e3d036538ea3ea810a343772d2db308b1750
+Mined by chenfangfang
+
+tx d06317111656d3053efc3847d112dff9a5f71308a8a0a3503652809a2d568633
+Mined by AntPool sc0
+
+tx 0d515b97f2d53e3456d5f0e7a9dec70301cc8c194f36d30aedcebc54a92dee7c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5d6090633ad7ce3980ca9fc030fb4e5bf8bafceb1bf3456be5e392dce48b3eb0
+Mined by AntPool usa1
+
+tx e603d8ec7bbf4c041e69b756942354e09dbe0997703a102de1bbdab0e04834e4
+Mined by AntPool bj13`
+
+tx 3491f2cd0321a032be78bc36c54740ef0c6d9ecf8fc1bea15314ff4b91eb55aa
+/BitClub Network/SEGWIT/
+
+tx d31ac9e8ff7fb318e2b2d59166ea6520b3aef80c207dea0454a626eeaeff96dd
+/BitClub Network/SEGWIT/
+
+tx 1797a49229c33ea957b9e743549b4364a233faaade7ed56059e3cb5bab345fc6
+Mined by AntPool bj12#y
+
+tx 47a536297da1c1399c4aca8fbbe8f0e9ee728eb7242474fb85a8f325f998d1df
+Mined by haobtcmlsa6
+
+tx 60682f30950307ea1d903b0a9b4438c799e2c96f9ac81f5794670f530f34fd82
+Mined by AntPool bj82R+
+
+tx ed0d024db3035ebcc7a4d617dd6d4d9f6f7d8ef562e149353bc179a7700310b6
+Mined by AntPool usa44%
+
+tx 865786513a7fe5c3954f0d65c4fab38b4fc1b4938eb40e3a16894e402b7dbbd7
+Mined by zhqtuwei566
+
+tx b189f1ef7602460b27bcd612e95b7ad9892da0393a2def9934e8cf8519b89429
+Mined by AntPool bj11
+
+tx 21dbcd1058c17c55eac4ca226563c1caf486cd17d83ad81abcbc00182280648b
+Mined by AntPool bj11
+
+tx 24235a99bd2fbc162c6d30a5bda1e1931072cd9103a8f9ffa12900ecabd5fbe3
+Mined by AntPool sc0
+
+tx cfa6b70d48c094defe2f87a09470ab6bfaadb1a3ad9b843ea5eb525934fcf892
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b4c0713a3253a1303d2d1e57bdbf091c1d9a5d968309cda1e6a5aed73fa591f7
+Mined by AntPool bj1002&
+
+tx f54e2bd044a8d354b3d34db40ef9a8a37f3dca1292714dafad8dce009357cb24
+Mined by AntPool bj1002&
+
+tx 129ffddb2afc06efa5da50a910922ea61f6b8325534d93be0a6f4d28f7e01291
+Mined by AntPool bj12#y
+
+tx d331056693ec35ee9e3972489d369d9b6dea505f889a7075b6019a516501cace
+Mined by AntPool bj11
+
+tx 685043674ad3d3cd9f4e80a7fa376867291baad7b9e7d3e574d5400d4c567b67
+Mined by AntPool bj12#y
+
+tx 5c8c9db19323a902c02ab27d0e9624a6865e35eaf24aaf01d14a9ac89fa80370
+Mined by AntPool bj1002&
+
+tx 5f6c9200f53c867861aecfeceab2dd396dcfc5eef848c861db307ff79eb27cec
+Mined by AntPool bj7
+
+tx d8d60fed0c9232429dbfb897cff4700d27595d72ad0d51b444d43c0d56a5d858
+Mined by AntPool sc0
+
+tx eeb181ef7c41881b1b951b3b7742c9eb0deb75794c95b5eeb90d1c14d4c0195f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 1ac8ad80cf8a4c07702f8b496e18d7f40e88ed9340748587697879c67ce17929
+Mined by haobtcmlsa6
+
+tx f5ec44dd78e974198774a5a38ca97b3c1d100984a21fb52c5c790bcf1914a5da
+Mined by AntPool bj11
+
+tx 8ef3d73f5ee3a8f0e0d303d0dd1723f9eb1d0a453352c0d87419f5d184327ff6
+Mined by AntPool bj1002&
+
+tx 80198b9b2409504ea6217efad9f732dc12f866105e59521d1d5e8efccf917123
+Mined by AntPool bj1002&
+
+tx 0adff0f7aa928a12e55cc996c67f64ad30e25311346923c359feff74ae2c6bd7
+ Mined by AntPool bj1002&
+
+tx aad7f06c1d1a885f63c87ced4589eb0b27639f23a59e4c0e6dcdf2613a6167c0
+Mined by f2poolhaobtc
+
+tx 37368e101b92348d1c70267e04d9a702bf7428936e662579df2c66e2faab910a
+Mined by AntPool bj12#y
+
+tx a4281eaf1736432a3c77bdf258da7853cec61c3d5c12209c988d42959f24241c
+Mined by haobtcmlsa6
+
+tx d71c064a44e1301dbd4e1bb4fb1edf7aa211fdb48c0860344982d2d91f12e658
+Mined by ywgq1417900
+
+tx d65da3ab9d3a202c26e4e06d53049faec5739da2c1dc06476aaf9bfd40653f7c
+Mined by haobtcmlss7
+
+tx 4f5d340bdaa56cb5336d2fb305c83b4ad7939b3f999088403c2b4a7d8ef26e30
+ Mined by AntPool usa2
+
+tx db05260693cf1294f97bfd361621d8d2aaa09700c4e9071ef5ef9967aec96598
+Mined by AntPool usa1
+
+tx d3b466439e57749c13c740da237c21b1b013925e29f481d146fe3f628747b51e
+
+ckpool/Kano /BEBOP/
+
+tx 11c10f76d6d6986e78c6f5291badb7d27e6e6b8d81ca2ddee80a60b9a1ace30c
+Mined by AntPool bj13`
+
+tx 459f214cab783389b3299048978873d0ffee4d610a54d8fcdcd72f0a102c34e0
+Mined by AntPool sc0
+
+tx 3a85936108e68eebd4f80198f66e8ef2c778e71717f2cba5714d5714bf766e2a
+Mined by AntPool sc11
+
+tx 0c55ead632bd2fcf3ddcfaad9e0ebd5d9b0b6782d14e846322855e62da8891a6
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 16ad4ec1cded8cd9ec0c11907bd5c8c637f4fb6cdf4987aa2e79c49ff39a179a
+Mined by AntPool bj11
+
+tx 65b54c7098cc408ce2abca21add79ad5e4e5c5b13191507024240a930f93502d
+
+ckpool/Kano /BEBOP/
+
+tx caff195f23bac5da7dc2cdb93944fb4021aa9b406fc66286a8ef175bdac38a41
+Mined by AntPool usa44%
+
+tx 14508df6372060bc1eb74ba7fb3b3571443e93514074a444a49e5477c8b4bb70
+Mined by AntPool usa2
+
+tx ccb5b4e869cef8b208901c6a0a66335a4e4e44eda8a9a2e3650a3d5b7c41f5f2
+Mined by dashengbaoer
+
+tx 36e7d6b6737fdab87b5c30a35479cf42e1063e526ea7353cb018813f1e95ed0c
+Mined by AntPool sc0
+
+tx 234d3c8e6a4b47519f4ab0f4b6b379c200a8ce774e2c11d4e44bf1494eb91649
+Mined by AntPool bj5
+
+tx a66cea5b384efcc51debe7be93bf22199552c6bbd68c666756d16694d231dd61
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8af4b9d2b9d65b30fcdc2c18f9ae2ce39e25d04374ac4d21edb991dacee09cd1
+Mined by AntPool bj12#y
+
+tx d1447224a7a840929375cafaf624e5131f96b0986f0fd6648c3cdd2f81ea3e91
+Mined by AntPool bj12#y
+
+tx ee484982d99f9f4e473bb51b7112f8d704b4154d7b736137eab95be78345211e
+Mined by AntPool usa1
+
+tx 6bafd80193df1f9fbd07cd7da1c5510cfe229db51a5064fba53f6cb07d3f86b4
+(Mined by AntPool bj82R+
+
+tx f15aa76bb390476a04ff47d3431bac3ece380f228c3af3198f87178804d8d63a
+/BitClub Network/SEGWIT/
+
+tx 205ca8f05eb1e42c5a36f6d49d0d094056098fdff4723ef902c8eda94c23e771
+*Mined by AntPool bj1002&
+
+tx eae990490cce2d4cf5f86b49b94d9570cfe51a66cfddef8f69a71b189114756c
+6Mined by AntPool usa2
+ I love you Mandy Bagel! V
+
+tx 554da83e108bae0c4eabc9e8bad9c25a341d998e0fa5150133bb8810efe047b4
+'Mined by AntPool bj1002&
+
+tx 22780a5fab0939cd3db6bd4c12d992574285aa5d27ec2da0b0806ee70bd6c2e5
+%Mined by AntPool bj12#y
+
+tx ea52866ab5104cbfb27a10061089d2d4bb9a2f1a21b53d0b342192ed04bd0b07
+
+ckpool/Kano /BEBOP/
+
+tx cf4523393da988959fa50bc045f4fb2aa0f1894f24c8ccdb00328e87319c870a
+Mined by AntPool bj13`
+
+tx c3d5bd915615823f680a08abbc276169b60b45b5c074d69100e5a75fadfae39f
+
+ckpool/Kano /BEBOP/
+
+tx c95af51ac18f02ebf5b84e623d96ff591bb256264ab5a10a243d8587f376336e
+Mined by AntPool sc0
+
+tx 1d302c2328b5e4fc4c93cac74056a863a99709809feff9c45955051349bc9300
+Mined by AntPool bj1002&
+
+tx 5304e1bae886a4939c4790c73160ad9bcf4b065a66012a70c11a486c34f1c3f7
+/BitClub Network/SEGWIT/
+
+tx fa39441ebe3e580dfd80c91365c2d77134b74f833b213ff1dc20a4f4a8da0139
+Mined by AntPool bj13`
+
+tx 67d4fe8a14ac173f45bf3a69165828788d9553de5e88fffc5e3d77a030f7a7a2
+Mined by mikle0303030
+
+tx 634b8a91952e8ce3aab1e2a7869297226673887255b666b901311ce4888d463d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx db2996f75f7d31685bd8f02d2ea173391c4e1b86daa0380dec964e8754c4a518
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8b2cced0c2c55ab3910baa4af87213b09dbf76b84b6f58c563124b50dedfe4ab
+Mined by AntPool bj5
+
+tx 86bb82e9b58cd2d1d6124138ab03e335d446267133e57ebbca1001584914dd50
+
+ckpool/Kano /BEBOP/
+
+tx e397c1e0017265c103cd0e7d1f245d4450fa4ff9a6bc741f224c8bdf28ea1944
+Mined by AntPool bj11
+
+tx 67648d5faa15619b2f169244e0d88537d5bd078f494e45ef82ca09e5a6771488
+Mined by AntPool usa44%
+
+tx 8bc0be7ed4d62309258cb97b7b48fb304d716e2801fe055f246c76d56df8c9dd
+Mined by AntPool sc0%
+
+tx 829511fb24a3ba51672af9bf486e04ef928a3c0f557d6786d98860f301581737
+Mined by AntPool bj11
+
+tx 5f2ed89ace914abe4965abdf5b7c6f3332ec2597fa6beaa3ca9d40b973e855bc
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e8b3a1229ed63149da425e85a06440cf633ab5c98ca1847d1acd3519b116a5b4
+
+ckpool/Kano /BEBOP/
+
+tx 237759833e8da4c9cdd1323a46732e2e2f1cb78053d8c28584d717ec12a8d5fa
+Mined by AntPool bj0'
+
+tx 9dedf4448f10c63317e53ee2c8b31e112755790f2f11179ee5b077aaf2f1e522
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 993108aec3ac2271a6e652a756eb66f4f44a8d572980264c70e6108e8fa2a872
+Mined by AntPool bj1002&
+
+tx f4d1a27b716e4ed922a087b92e38f48d625a9051c598571caaf7afc2f0291d03
+Mined by AntPool usa2
+
+tx 38ad51c9cada3a4d2145965b108f69b7f6e20ad0563ac8c753cbd17ae1729a39
+Mined by AntPool bj12#y
+
+tx d9bb6778bcb7dcb75aeccc1c2f46ff420318cdb9cef40e121c05870ab4c77896
+Mined by AntPool bj5
+
+tx de8d9bf4cb4db060fb2be3213e0d31be5c67b65264cf2f03c1b5247a202bd759
+ Mined by AntPool bj12#y
+
+tx a9075be94624c86ac58d669a344fb4e20f3c5805403588309ab79ed81a7e0c8d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f3ecc30b13e4999693fd9ba999e15dcd6ef351ba71d13e2fe6861384b77dc15a
+ Mined by AntPool usa2
+
+tx c9a9aed40b978750ae90045a14f36bc0631a4d24c615ce550631d74bcb1393a0
+Mined by AntPool bj1002&
+
+tx 34a2e6c19cf4c77d6b07b67c2007eba0b0665afed2e8b6892ad1bf1235c0360a
+Mined by AntPool bj11
+
+tx 4c28d269cf58bf1da9033527b23b9f9cd2eb01d304ce2d546da8a4e077a91308
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0b63f9b30e31d7f9f4b36de4804cd65f8c49498dc490dfccf8e57cd39e4e6cb1
+Mined by AntPool sc0%
+
+tx 3fa6894d77be1e149e8086ea7933981cc28d7f8839712652e8aa8a3024271503
+
+ckpool/Kano /BEBOP/
+
+tx 4563a15912f3fd568b7701643b932c355d35dd4dc4297e822656e75b9b84c3b1
+Mined by AntPool bj1002&
+
+tx 0b46f1967bf74f1f47f38c0b6d6e51ca109fb872568470c9effc3aeafe9c3e41
+Mined by AntPool usa44%
+
+tx 180901b65ad15b530d79737b9a8ee6bc8a70e08930563749a1373b760dd3892d
+Mined by AntPool bj12#y
+
+tx e41d2781d1da3c1f7af187d5bf0e1e27ae8640c3a602229514da4d9464690f2d
+ Mined by AntPool usa1
+
+tx 1d8ac60d42c9c5d58c9dc81dc1b008153bb1959c128abc028975da61f8c50b20
+Mined by AntPool usa2
+
+tx f52fc9d9d11de11aacc82466f552dfd02b7243f28425fd2c162a5a1a2f043db1
+/BitClub Network/SEGWIT/
+
+tx b1b8c1b3abead13a9b42177f338af84bdef81c925276aa8cdf1f2b679105e807
+Mined by AntPool sc0%
+
+tx bc6ff7781db3c3022c694b83be578b1a6d2e5d97fcf599e9f07a3ba1dce3bac8
+Mined by wangqiang888
+
+tx e17529c2720298d11090f8bb4d0fb312c89a3bf1316707f83ef789f8a44716d4
+Mined by AntPool bj7
+
+tx 2e9ba6ba377d974263de5416d68a6b3067f76012866c8b6aa756756f7ac20289
+Mined by AntPool usa1
+
+tx dd4a23c1e761ce6f092160d9135a849addca56216775f935bca9f72ecb91b64c
+Mined by liuhuan0506
+
+tx ba23776ce8b7ae6810dc478d4598dd28f95565822d7859cbe9c0ad58acd1148a
+
+ckpool/Kano /BEBOP/
+
+tx ed444667600030b3f2d4c1ab006815b1ba282b5db01e54db85ba17aa37903c5d
+Mined by guo123huang
+
+tx 263b42c6b9166ceaf97c03e61420271deaa620130bc1a6786b4f14a4a96c74bc
+Mined by AntPool usa1
+
+tx 46491eb3038044847c019dd42a9520c98581ab1936ce3c9da8884ea78ff8e4cb
+Mined by AntPool bj1002&
+
+tx d7bbfb6b4e010ec17a6f056427ba815fad5fb09588d91d4e45229c9103dd6b30
+Mined by AntPool usa1
+
+tx d3619872a89d2b5009bd6897722ae58b93c70e7b30ec84435a77d5cb1afbf1ca
+Mined by AntPool sc0%
+
+tx 1c61fa2f4a94e684330e0f61563b18879b01f0529d09782211cb7b0bb4d88f51
+Mined by AntPool usa0
+
+tx 6b3e82b1c2c46080a0fc0ecd656d780b6119e7746078399b2fdcb20e87b0452e
+Mined by AntPool usa1
+
+tx 64d1fad74ae411a27c8a65342159bcd970dd2ee6b6613aacc041dc9ad90c6b17
+Mined by AntPool bj12#y
+
+tx a39bd8ed7235245affa0b77ff6a37fabeec4faa7d23c1b37beac022646400022
+Mined by AntPool sc0%
+
+tx 98a442afb0789105310cc607c1339a54abd2ae255340862c2f3cdda6b77db2f0
+Mined by AntPool bj7
+
+tx 8bde19192fda8682f16a11ac12c9d24372fcf3b845d8ff5374915e378b43bded
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c06234cbf5bf2f5d05275049722c21e972ba98418a4214b3f56c96db883c2fc7
+Mined by f2poolhaobtc
+
+tx 98a49c6ff9e0c2a0669786c1c81690f761fb07aeca5814c84f7c26ceb28323af
+Mined by AntPool usa2
+
+tx 36d72729a85decc91336f0bb4fd3b96f99933da5a99c8fb1398748684de92287
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3a8feeff3d15c952487578faf0e0c544286b2dce4cc1bb65c1434f640f78a5fa
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8c3f41a9e705dc33ea3d6345ec26725d25ff77fc429b3fa7c84f73153aff80de
+Mined by AntPool bj12#y
+
+tx c432ba1013dbdc0c9122c147e9bb1ce788112f1cdce775b00cfa7e59a6d74df0
+Mined by AntPool bj11
+
+tx 48c4d5967fc4cba473d7b560e0bdb2b48e181c74290b77b927af4ae48c6b6d74
+Mined by AntPool sc1;
+
+tx a40da21d266d2cd347c58971ec15d2f16428719bed51032f5f8476ad9561dc51
+Mined by zhoujunteng
+
+tx 31dddcbab8295d7fdffe6814a8c7294945f1f963a9c037a58e43969d7eec6cce
+Mined by AntPool bj12#y
+
+tx 0cbb135f08c42b5680a94eb94a6661b6a8393ad8c1c72ef44250c50f3c71a28d
+Mined by AntPool usa1
+
+tx 4c1e923e726376b94c1685ea093a5a231bfea57dd737048e2a5829cccfbdaa8e
+Mined by AntPool bj6
+
+tx 9dce12303f9cc55d12d3030ed16b5e4693b67e2e105619f6c99a579a0b00c2ef
+ Mined by AntPool bj1002&
+
+tx 808979356c54703c87f4a2d7f748e3049c1381a30e07a9c1f06fe8a54bd20135
+3Mined by AntPool sc0%
+ Lov U Ethan H - Dad V
+
+tx e37ea2866db35e7a4d3b8c5644b7753bbf6491639dcd7b5ef8ae843a67dcf499
+Mined by AntPool bj12#y
+
+tx 6f8b1e2c724384b0d441abbafc2f938645778ff68e5a5082196a8e31d9e24bc6
+Mined by xj2586663690
+
+tx 36a04e930d9a43420b574b38636614fde7f35c83e2798421c0b70be3ef3a330c
+"Mined by AntPool bj1002&
+
+tx ae4e3c0b0a344d1c092919c8cf6bb691b08646ee1d4456b7794d287c5b33d8e5
+Mined by ndabreu2000
+
+tx 6dedd4f0adf12ebf01601961715b1c04f5aa015df869f79a261c4e42c15be71f
+Mined by AntPool bj11
+
+tx 228aa88ed38c42c2c21d9c4eced731840a0262c4d4338108438f4817f7a8caf6
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5af09c1f6a452e223580805bb3ad60a15da82ebb40535aaadcb5c4ef189baa47
+Mined by AntPool bj1&
+
+tx 2baf09e14c77c69e1a1de95ac452a93875b54b48cc231b02961d6cae030677d3
+ Mined by AntPool bj1002&
+
+tx 2de6f8807aefda98095498baef836cad21c52edf7174e24d0eb8c38b25ab008e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e41b4edd3a714987c91a9cf528243317aff93699ec4c789d38e6436f592b23d2
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 91dd76084eb06fb8007b4c83b8fc295c01d08b321512a9ac9a1d11bf2b63fb52
+Mined by AntPool usa2
+
+tx 98d5c6ced35b1b8137eeb5a2173d3a1f75c28daa90ca48b64d840906fbbe35dc
+Mined by f1115009651
+
+tx ab49f8242f05a880e7fafe16add87a8284e6ec43db8299f9a08488469ece4476
+Mined by zhangwei8518
+
+tx c6b85fa5cfd5aad0fe3db2fc87a96c91dbb2cee0f6ca0dc02e779c09e5643621
+Mined by AntPool usa0
+
+tx 5e5ce124c037ecf37a7fcd1d8e177e1e7bd634a6c7031fc070583e3cd9f4f24f
+/BitClub Network/SEGWIT/
+
+tx bc56551c0e1ce9a956e5fd2a2d5d8b2f2f9fdb6d0ffd304125b7074164ceed36
+Mined by AntPool bj12#y
+
+tx cdb0c043f35ad82e9edd14f523dd94e218472b1f097b6f401d0eb6ec597b74b7
+Mined by AntPool bj0
+
+tx 4353e1b3ee4e4326e5e72ece5fbae4a137adf33ac53cb858234aaf3caf4d1b18
+Mined by AntPool bj12#y
+
+tx 4896f0cd1e8624cdfdb002219a8ce4e7c4ffe8d290bd566816e1a37389b733ad
+Mined by AntPool bj1002&
+
+tx 35af5c3313196ab80fb0995b6d275a9b568427e32316d36ca1e511ae25acb10c
+ Mined by AntPool bj1002&
+
+tx 76d6578fed324b0e55569909e9bc81a9f5d1b0755f6b1cbcb363bd94b51616c0
+Mined by AntPool bj1002&
+
+tx fe335769b8194897a59ff2df4f896dff85792b6b4c631c6635de78d8ce46eaf8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9b81279c34b23f613de8f4496abc827b870e9fa410485e81f0708675debc3e38
+Mined by zhaoguosheng
+
+tx 7cbb87d4753fa1eb59a4e129430e872e300aba817fd7b9b357c71bbec2c4b28c
+Mined by AntPool bj11
+
+tx 6fc2bf8861521080cd219d285bad9734e9af9d22d9b852278557a1f53004d29d
+Mined by AntPool sc0%
+
+tx 0642dbe3e861068232ee84f21775d981afccf9a36e9fb113e7df21b4e1c020ea
+Mined by AntPool bj1&
+
+tx da0e73e53a3bb263da5b7e8b273e72d7ff092f2f73e981acd6f88acd065ed205
+Mined by AntPool sc0%
+
+tx 11f880b03bbb59f3500601d69dc4b493d403644d981cc7a7269076a5bac4c858
+
+ckpool/Kano /BEBOP/
+
+tx 904cd8affda62266275966b742d734ce0a8e08ca94f57e6d425e893729089648
+ Mined by AntPool usa1
+
+tx 658c4d4eb0e07a4871dc0832639a6e5efa381cbdd1ac9f4dabf1575a805e3fe0
+Mined by AntPool bj5
+
+tx 692877e545275dee8636284f646b5b8adb06416ca459259bd0921ea6912552ed
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ba19e5193ebb7ff9cbc74e7b1e5b21e52068e49e3845bca9ea5dfd07ab3e9354
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a3e2f5adb9066d2599b6a774e453375617bf465fae1f0f6fbf56575faf2b54d8
+Mined by AntPool bj12#y
+
+tx 09a5bcb6365a32fafb0476267beb1ca90bb581ed6c7d55e626f48093c352a6a7
+/BitClub Network/SEGWIT/
+
+tx f52b680969509fbd541217ea109fb6ffb106a547dd8cd19c73b0b09375b1a330
+Mined by haobtcmlss7
+
+tx 8ce39dd4976adf4819d38625252289bdb5ad842afffa38154b5dfb5ff8bcda1b
+Mined by lcq19890718
+
+tx 2147dab4c41bf0d5e8ff623e078e1ab03d4d718d097eb62246842c70fcf02685
+/BitClub Network/SEGWIT/
+
+tx 10bf1fd8265eff5eae0d4b5b025d9308f7bc3b653b1922a658c8d86b13c057ad
+Mined by zhangwei888
+
+tx 3e810c722bfbac8cbb22836094c006ff5d9be701f14b945e4436151bf11cd38d
+Mined by AntPool bj11
+
+tx 820b32a786f34d7e318aaf5a2978f04e8e57338cf6bf8373d911d130266dc0c3
+Mined by AntPool sc0%
+
+tx 6f20564d5cd45880dbaff9728c3e5b79edadb6735cf6813a5895cd169f9db8fd
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ff270ea28902bf2c8a3da9e40a612c089b34cda808d9b29c2aa9fca24103c7df
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 53c15bdfc702926b5ec8ab4b9b2b1ea1eed8bf3006ff6d186befe0848536bfc5
+Mined by AntPool bj12#y
+
+tx 92b1e49dd2d43b46798d77caae51f8d8a35d9ee128c639d09ae6a90420b05715
+Mined by AntPool bj11
+
+tx 65af4509d951e7a9af57bda6111a09de46abb328f1e2c5b79f80b0c94920de83
+aIn
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 92b8d3850050c1ce55aacdf34688d48408dcd1737d822e7aeb59c66bea6c7bdf
+Mined by AntPool bj6
+
+tx e25824f59c12f3a51cda7a5b29924fb220c03e1b838102c129067d5b0301ee29
+Mined by liulougongsi8
+
+tx 69bc73a5f387279db3c7e3c272c4878a851bef7a59a4f57b568610862716d032
+Mined by AntPool usa1
+
+tx 6a24668e17e9c94a4b682b3711df2899bf56a288d86dffecfa8eaab1f4462812
+Mined by AntPool usa2
+
+tx 8f2d5e83fb2da044ea06a33f92ddf2f1b4cffce78813009626a9cb51ac4d260f
+ Mined by AntPool bj1002&
+
+tx 087744e3fa9263003182a251cc5a819de4771e4066e1d94e6100af5ebcd41408
+Mined by AntPool usa2
+
+tx 9d7de547c1c54f8c523a2314da43a57c2a08b4e1634fecc2881006bb10fc5fbc
+/BitClub Network/SEGWIT/
+
+tx 6999f231fb82eac40b4bfd926b039f281fcf50d1f242c48f227aeb890c85f300
+/BitClub Network/SEGWIT/
+
+tx 3dd4a50dd6c050b81c0033f2d219e4cfb7c218dfe8e7ed1ac7f08cd64940e811
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 98936ac258e082d3df7c03504834e8d84b7ec66ebb24882dff13090256d35f59
+Mined by huye3505564
+
+tx 42b351c2b10909a0201f777c7bb1751db5571386b3b2605a96affedb4cc88785
+Mined by AntPool bj8#Z
+
+tx 7eb22450cd2f36e5a602dd1e7d629354187d05d34a31b7eb3410e34498c5009d
+Mined by AntPool usa44%
+
+tx b0003e3abb13abb5fb4377fcc3422ba9ab07d5a93cdc7511264d75cb07772dbd
+
+ckpool/Kano /BEBOP/
+
+tx bb4e4cc52eadc2184de98514c123aac8a24a214c037d43af79200a70cb4aafd3
+Mined by AntPool bj11
+
+tx f9bb36693e0e713da4b6d3d7b1a483bf4088a66c0a492a6ad7a6d88bfd67e144
+Mined by AntPool sc0%
+
+tx a495fc56a39d3d5cbfeddd03da8dca41a5257623762f0aceec566a3498bfad4e
+Mined by AntPool bj12#y
+
+tx 8a3d352273959adacadc9ca62fdb7a560216ad8cc499f70c3798e7fe25e6438f
+Mined by AntPool bj1&
+
+tx 7c84eec2bca2833fa9c0ea041f011b8f5dff3277a4c9a979442c6bacd3fa24a4
+Mined by yifankeji128
+
+tx c016653af759adc40be3b8bfcbc548474fa23c275e284bd706c359539a92bf96
+
+ckpool/Kano /BEBOP/
+
+tx 1e6e1d1ae278b4de7c0fb2098f15a6a1e27405616f20fca19e1340bfd81f87c5
+Mined by ss729147600
+
+tx 37a751fb3df709859ebe2fbdc7d33d0ff52dbbf51324795caf59b380064a2728
+Mined by AntPool bj12#y
+
+tx ff290968bd423c64e891f63377485d5d4ebefa4cb93b8ef8a43ee8f899ff7e58
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3066b0fa3c13e2f40d13af3e19ec2de94f57f22daea3ead9a60027c3eb4aa74f
+[U-
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 01a07a08d63fd8e6bddc2b0964eae7f5024eb08666048d03b87dfb8fc7fd6a18
+Mined by AntPool usa0
+
+tx 6a199eaf9270f07a7ce5386830ef11ddd3d85f2cfd8000384a1b807bb979b4a7
+Mined by AntPool bj11
+
+tx 951b15af840678c0dc206505f62f7bf01ac4ae7cfa20c16564fdb54aa5188053
+Mined by AntPool bj1002&
+
+tx d14a6462c90447c7492dedfe54cd3d1109bcef8db40a6a22d100cf2aa83f0b5f
+Mined by AntPool bj6
+
+tx 84cb96faeab64914243cc50dd11aec90621482120de2a65ff5eb01a3724e7f56
+ Mined by AntPool bj1002&
+
+tx 69fde49a2c299bcf16707f03050a17903a7e7945c2989a210ccd6a6c0fb5410b
+Mined by AntPool bj12#y
+
+tx 2fe3e62aa82ad2e6268262651d26fba154d0ec0e948f50092afc0541666fc8cc
+Mined by AntPool bj0
+
+tx 1969e590a7758449701b3dcba9c3d3b7f8182df27dd62c786e157de77a686cfa
+Mined by AntPool bj12#y
+
+tx 84bd6c3d11ef218b25b1c2096b89183c1db61327e80ca311ee71d9f94c9c509f
+Mined by AntPool bj12#y
+
+tx 71ea8fda1490c42a224d5d9f166987fc1b0e191d44d254cc93b6314dc1f2df62
+/BitClub Network/SEGWIT/
+
+tx 68620147028a812f72405ba3dbe3eed6e0e9d7df870308115043c0f7095da323
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f8089ecc5f3e5523f1934311e105f8b70ca20ee8f9528713f12737dea686007e
+Mined by yangzhongwen
+
+tx 68e4e0b0d2e8c32a165baac1eaee9daf35d60eb9f9e3dcda54a0cbd4e060c96a
+Mined by chengtianbao
+
+tx 11d480cab4f29230d8eb2532640aab41354b8a4a4026130268e3acf90fd671ed
+Mined by AntPool usa2
+
+tx bbd2e74ce387eccb70da6462624e8704a039704bf7ba5ed68186015717fa8021
+Mined by ltl99056885
+
+tx 210cb85e8c45b223abdc75efc95ccd360317555b68fcb1f1b200db26e20b903e
+Mined by AntPool sc0%
+
+tx e4ae9a927cf333ddd1f32f2b7f52a61d8e6b5b94aae1ee022bad7c5e5b4e15cc
+Mined by AntPool sc0%
+
+tx 084df1af8de95cd8f340be3c80e4159944d3c2533385c902096e54f5accc6c41
+Mined by wangqiang888
+
+tx 9f2fd6bf827f22bbb72614855c0a2d7b49bf9443734c39770e35405ccb267240
+Mined by f2poolhaobtc
+
+tx 3e7d51335096f5f6d0f4572547177de40b33bf09fe6061588f7bbc183a442394
+
+ckpool/Kano /BEBOP/
+
+tx 536bf036e301d64941767f8b4cc2bf70995b521b6457cb9f0b43b003b1fea025
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d3f164be12e141c23b9a72f729cbb7bd8a8e813aa1123f004b6d8aeb818bbcfb
+Mined by AntPool bj1002&
+
+tx c11ea41ef68b06bc09f4b3aeee672902af2b9ea158238fe483c92cf9f2396dec
+Mined by AntPool bj1&
+
+tx f01334924e0a2cc99fe808c0c14c7584a5e9a1bdd5044883c163dcab5a830bec
+Mined by AntPool bj12#y
+
+tx 8acd3c8ea92d084515681c9ae10cdcb1c4746a1ef060ffa6399e3d3df783410a
+Mined by AntPool usa44%
+
+tx 150fd1998be97a42ce5dab33abaedb2acdb469b711c93856876168e3ecd73be0
+Mined by AntPool bj1002&
+
+tx 4f419a92ea8670662d0bb70a596130eae244c9a7d5b64cbdeb86f525c8b48b52
+Mined by zhaobaicheng
+
+tx 1172f52f51bb8812304d529a5223241d86b58d1c9f275d0a7537f16894ec5917
+Mined by AntPool usa44%
+
+tx 88c0b76b04a2d7b8350debc58db6544fb8a481ab56e4adf4cba7d3a038a86f01
+/BitClub Network/SEGWIT/
+
+tx 00a4164f7e1c99e8e97a41141603f320361c8f24ff2e1fdfeaf5430402879774
+Mined by AntPool sc0 3A'7 V
+
+tx 1aa35661fcf5c7568d23ce910e78fd782a5c8de5d4c2b7246ee81ecea185c3ea
+Mined by AntPool usa1
+
+tx 2219644a361e245dfaf12805774e807b66c83fca138d8c31994e1e34831c11dc
+Mined by AntPool bj1002&
+
+tx 21e954df39261dcfcc6bd45f164642fdd8cb6eeef31ea0fa05349a37b88009f7
+-
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 182a6f2b87ccb2c46118cbcd44fc7e41ba3348e2b95abf792b3fc6ea5d30d20f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 390d343fe8125cc3eb61018759a40286ba9856e9b7031be2d627738a94465102
+Mined by AntPool usa1
+
+tx 6f7b09d35c00a6f2b5ec42b1b79be886c26f5416be2f8e3f42aaf696c4ed91b2
+Mined by AntPool sc0 3A'7 V
+
+tx a228d1d58800c5d8c1210783204756eace4e6e209df526f1c71c82ac88e95e1d
+/BitClub Network/SEGWIT/
+
+tx af57e11aa06b33b70d8e7bdc7d0b1c7ebfae8a561bdaebc2cffac080ad905752
+Mined by AntPool bj1002&
+
+tx c2c422aeea792bc80cae903279cf0ea430b4f5ff265bc4f08da39450a05c63fb
+Mined by AntPool bj12#y
+
+tx b4971f994ad7869d3c7eaa5622d5d729243f48cfb1fa8dcb41e4e6d5176dc8c3
+Mined by AntPool bj1002&
+
+tx 214997aed803d2cd4d20df6c9cd14d2ea382904e5d0ce915d7c663ba776af3c9
+Mined by AntPool bj5
+
+tx 3e60cbf000f58546b741c341fe4bae23a67e11e19b8e13a3165d314320c8f451
+
+ckpool/Kano /BEBOP/

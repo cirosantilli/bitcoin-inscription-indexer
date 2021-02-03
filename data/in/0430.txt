@@ -1,0 +1,1685 @@
+tx 30b1e9ab518f1ad3e6799dd798ec3f020f373cde26405ee05edbce329e342de5
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 4fd827f8bbaf5737253eb7e9444adcdac80bccef961a38fc7ccf4179dfb2cdd2
+
+ckpool/NiceHashSolo
+
+tx 91d5f8e7fb772f755d712a00008b034b62ef402ec2f7748fcc460a9ee94a314a
+Mined by a18737573333
+
+tx 8e68527a976f634942b756051a248692787faaf7e4815926e6c07d9f4b2d0493
+
+ckpool/Kano /BEBOP/
+
+tx 7096b157c341b6095a9d205e86e52ba48ca8f77f176f95a0b70bb3bdf0fcc93f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 51efe1b9379d30445fce400ca73d8d63c5361337aca3c0144dcfdff049186d31
+/ViaBTC/We Love Bitcoin!/,
+
+tx 2c6996c260f3357905d0016b9179ef1610ba39bbf0a6b07c3b20c80e91ea1803
+Mined by AntPool il0 *Us
+
+tx 65df6437e9a1b6f92a5b881e1a88a47d66d07a4eda5deea08b6d56703f14cdc1
+Mined by AntPool bj6 
+
+tx 0310941753b0ee4c5af7ba6081abc3c0da296691e3fd3e3fd73176cf332fc34c
+Mined by AntPool usa1 %
+
+tx 6d94bf1f8e71a16a1a74e10a6cbb79878487bd2e64e0f5a9eaf6bc68aff670d5
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 50f42799059fee0b78854be3b425b98d698b147d54f139ddb696a26f4d64a203
+V
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3a3762496d8bb54cd2172301f11c15111abfcca5a192bc2c572fc7ba4863391d
+Mined by AntPool bj7 2njT W
+
+tx 2571cfef51bb56728ec24aae5eef306b42865fff53a2f36d63c2a4c7a2681687
+Mined by AntPool bj6 
+
+tx 4dc0c0fcb661230898c751eb631b3fec5a2d7f935806539faf56983c943da9fc
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a9b60ff29375019f8a8c62acf3912a01cc7f7feca9e2aa52ce17403a4883e305
+Mined by AntPool bj8 0P
+
+tx 7d3187f2274eb30dc7b8a393d026ddcb84e26b0df7a927a263107db7716a6a44
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6445ebcdb8513991026bf47f0e3cd2a2ea0d913148c032fcce152ae572f59c04
+/ViaBTC/We Love Bitcoin!/,
+
+tx 71ed4e0244406a50e755ba3e784f597e8d61d57b8cb261262e53a115e0f244b6
+Mined by AntPool bj1 
+b
+
+tx 88e9c8b40d20d36e10fd762511968d6d44e6291ee20c9acdf0b6f2cf8b15159d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 97eecbea2fa61b202316b014614fa5d79b2e5aa39d2ccc67d7fe1041ca0989ad
+Mined by yangbaogui888
+
+tx 3eff7247a64706f88d94908d74c11f6ad7e3671ce232c161ce53c7c033a9d500
+/ViaBTC/We Love Bitcoin!/,
+
+tx 9005632f177b86ccb2eeac011cf19200e5e881f292b68a3cdbdb0c25e4a9981f
+/ViaBTC/We Love Bitcoin!/,
+
+tx ae05ab4ce633897ebbfd52e9b993867f136349eff81d9f3ae8110c24b56384e2
+/MG1.0/EB16.0/AD4/BV8.0/slush/
+
+tx 8062f6e228cdb77fa67658c903b941d4e23ac7c363439b349c3c5e06200fb286
+
+ckpool/Kano /BEBOP/
+
+tx 2372c893d88ad14ca2a2de8d27d920a7c351235305dced1c023135a4f526bf1f
+/ViaBTC/We Love Bitcoin!/,
+
+tx 8479e56e177945982792be7a190b7ca81f8a9ac1df921145acd5006bff5b9305
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx cc4b4c73f96399feb2bad40e79b8f78e7175947c063647577e652a454d882477
+Mined by AntPool usa2 
+
+tx 5c90e0cffa7e30120cf1a10788e158702d25897edcf779b7d3f31e45c139a10f
+Mined by AntPool usa1 %
+
+tx ed43b42817b9cc6c6436a085bf52abeb4d8f0bb8f1c3a38ea9e2de70cf87de90
+Mined by AntPool usa3 
+
+tx ffd78f9dd2974d059f4750e3296c86f14f48a020391572cb145ce1dd3be58a46
+
+ckpool/Kano /BEBOP/
+
+tx cf015ccd9d5abd833de41953ad2fe41e452de4891d7f6e8e3b20ea34fb8a9329
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b737592fad229aa64de1293247881a79337faa809988e9a87747341ee10f7699
+'/MG1.0/EB16.0/AD4/BV8.0/slush/
+
+tx 112c3bb89307d6e237d966d689798a58f819929ad121e95e5c7134bb4d76da7b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f5be3a1212b040ff2d5bcd9a2c329c7fd7212f271d5e588156a9a0cb5c549183
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d260487e95b890ad6df971c75ab872a52996f9fa2a89babcf88311f68603212a
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 1977b16dc8d750bfff0e3b7f402bae731c801b18132fd3790f5b37d0c95b9a60
+/ViaBTC/We Love Bitcoin!/,
+
+tx 0d1e3998433adced64a7546041a89818c67cbc0551006aeadaee43acf60dfa9c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 31762042dcd1e52a4edaecd8d1a74147865d4dbfe1d3b813c5b296c37797312f
+/ViaBTC/We Love Bitcoin!/,
+
+tx 8ee408b17d1f91e2afeff4822947cd4e35b07eea56b54dcda4a9e09e40d45770
+/ViaBTC/We Love Bitcoin!/,
+
+tx 474e5d21c02047c6e5a51dc5db64c87d4f6d294480479533cbf9d045f2b9c47f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 84c39226bfd108d025be3c86de385b32d88782e7e4c5669377e276aad58d020a
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6b59a3d32c477d9e1969409c287a1edc2835d5f1412265f4acffd2f2030cc513
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d00119e86eab2a01820fc34b3bc4b337dbd0cdf3ba541b5988cdc66243dbb69a
+/ViaBTC/We Love Bitcoin!/,
+
+tx 5c3f464ef22dd18dbbaac8e629c3e752b63d1baf21ba1710eb54c226e4cfd03a
+/ViaBTC/We Love Bitcoin!/,
+
+tx c68d559edaf83feff127b4ac0bbd1069de85b50ee004df473726d49d70f0057d
+
+ckpool/Kano /BEBOP/
+
+tx c1d1f4be08d297e6ae2eafd2a3ad45c84a48427f40fb3217a0a9347e0660f856
+Mined by AntPool sc3 8
+
+tx e45bf2b0a753597ab1a05833ec98d021467f0f7c5707b9cdddf70fdc358efdd5
+Mined by AntPool bj11 
+
+tx d53b20443a8cb6440c2c40b117b57f640fdefed8b7b52d22546dc4f66423c5bd
+Mined by ly13013997339
+
+tx 464c57d6d7f041fb4941827a99e4653f7904cf14264f16324e726f5763bd8bb1
+Mined by AntPool usa2 
+
+tx 6de4c7a4825efe944b17b2afac7ebae522d25395e6e0a5fc30cd61114084d446
+
+ckpool/Kano /BEBOP/
+
+tx 857280b38ac3bea40e6cf3546bf1434166a8d55de1db15504f198865dc9b46c1
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c1062447403d0157b3e216430a5c8a1ad9214206b40947b73a8bc00200617115
+Mined by AntPool bj8 0P
+
+tx f675210ae6b4192b4e0bc5b4512ec8086e4ef3871ef3ac2ea52d586275e291dc
+/ViaBTC/We Love Bitcoin!/,
+
+tx 9cd569edfdd86784109fcaeab6b0fba574d02df29354683c48b0096ebc5f6a8d
+Mined by AntPool il0 *Us
+
+tx 52154b50c81b11d965f391d327393fefe1974488c7432c14a111625b99af92d9
+Mined by AntPool usa2 
+
+tx 524234076b30f1ad276c0664d7ef63ff1bdf10289cd045561520515f38d2a522
+
+ckpool/Kano /BEBOP/
+
+tx e1f4013c6731bf2ee48c60aac7b06f9fe3e370b7aa36da05ad22e5913445b7b0
+Mined by ly13013997339
+
+tx e0a0844e9d8585b1293b120bb197494670096218d8d8fd13f33468775a41b9c3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ba88390c15b33a8fc4cbaa7c68c511759d548d4d087b03fc826a84ac09900d04
+Mined by AntPool usa3 
+
+tx 42f5a083e0034b03b1cdbcafc439ad24003a01278c24ba0a1b125ead49cca029
+Mined by a18737573333
+
+tx fc8e15ea1c33672186b26759dfca7484466e7a8248e1f37a6c5fc1177071af0b
+Mined by AntPool bj6 
+
+tx 8c3918cb2a24f10b63debe2821ff51472663afc9facfac5e93c0a65a073fadf7
+/BitClub Network/SEGWIT/
+
+tx 7f5db3711ba3d19c6a58fc33660e94004ba2b7cea7dee23e25f8af41a855c1de
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 594970b27f633b4ea3c67d1d032ce6b715e91e78cb908071a9f26e8fcfb32b54
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9bad8d820fc77e32b042caa2ac653ae79dd79ef1fe88c6523f238bb7fd6df282
+
+ckpool/Kano /BEBOP/
+
+tx 0b6cec8d3a55457759491c14f3f1627d66d1cc319828b42bc657b9529eacb57d
+/BitClub Network/SEGWIT/
+
+tx 2c9abaf26d118902c823b38b5cdaca650dab106d2f39c602db20383437297f29
+Mined by AntPool il0 *Us
+
+tx 9da8209feedaf6c27817da51866414cccf59eccc40a4cd1dbbb843d19d5d3411
+Mined by AntPool usa2 
+
+tx 3d5e8b61e28fea15ca68c5567fffe5fa600d9ddc8f9683e3310d1909e70e2a2d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 241edeeff390f0ca258c04980c13270e56e283cfba258f5687c1378822e9704e
+/ViaBTC/We Love Bitcoin!/,
+
+tx c54890ac5cc6f83af9855ea4b085b8f130e81c240a1c87c8455d5c136d5c6844
+/ViaBTC/We Love Bitcoin!/,
+
+tx 45404334094cb48419ca7e0ce58b940b38c504a38ab2b43d60507651b4474069
+Mined by AntPool bj0 
+
+tx f7d332b24124034910e74a4d2395f9f31d31288ee23b9031d8cc9cb3b3176270
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 14795a4553f3d4c7595048d1a55dae5c8de14d07649494909c10cef44bbe04d4
+/ViaBTC/We Love Bitcoin!/,
+
+tx 7c602f504ea70a006a5581c63829cf9a4b7fd2eb83f1fd0738b48da5136e3061
+Mined by AntPool usa1 %
+
+tx 91bd65529e22c201071c3a251ee9b64b32f8ae39fd6775f5e33e8afa6e9f9651
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 45e53e5d003df57607262fcdd30d9e210dac7dfb4557f12b7e9cfb05ad14d431
+/BitClub Network/SEGWIT/
+
+tx f16deee7a4902232fcb311de9a0dd16ccf8d486771cd7382935b5e004304d762
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c343522886130d9dbdf8a19d7ea4fd504b68b04e90a13b8f89dd6cda7e319a6f
+/BitClub Network/SEGWIT/
+
+tx 336925a74f4d37d52b1ebe911bc3cdfddb93e9246698f1921297e2ca501519e4
+/BitClub Network/SEGWIT/
+
+tx 3bff31b104dab293c2006d06d0fac7d619ce0161a7d8044d328a716afbee1c78
+/ViaBTC/We Love Bitcoin!/,
+
+tx f6ccfcec1539421899a0ef2c880cb235924457b7c187733e807b0e8dfddac309
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d7e465932a088a4c8671be853c859e88865b129b19d1e047aebe9d855bf65c43
+Mined by AntPool bj11 
+
+tx fd09d40c3fed0c45164aba5070b5af321ac9ce79c83c687f7e0ccc1b8c2196db
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx dbf659c7afeb889ed39e933f39ed688ef08d246b0d3c3cd35f6942608d02c0b3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx dfee1d369ad67d6c3c0924e26ee3075264fd1dcf6f6ac918f2c1688a8f23410e
+/ViaBTC/We Love Bitcoin!/,
+
+tx e0b74ebeac1fb2420458f09b13218ed5492088cda74499379c922bb7195aef93
+Mined by fanlei124124
+
+tx e71ecf32223a6cf7306361e00122de69f3fa01c892fb894681156510d304f874
+ Mined by AntPool usa2 
+
+tx 8b2ea22d050242ad9ea2ab5357585e6717f693ab6116463b018946a22761073e
+Mined by AntPool usa2 
+
+tx 0c29025ac2759ac6caf49017f1170725f91cdb0b44a7405b8f905996f724d05b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 575906fb3055470b46b8d19445016b37231de35cb2ddb69528c39fe108c0f33d
+Mined by AntPool bj7 2njT W
+
+tx 95c32c41b8adb61544d81f91ff86758aac45b9830cedeb2352a97ca705dbf59f
+/ViaBTC/We Love Bitcoin!/,
+
+tx 52e092f135c4e07222798ae88bbd75becc9badf195b6a1ae6b5ac185ff99b03d
+/BitClub Network/SEGWIT/
+
+tx 6e23ab47f1ff6b0fdab707d37b57c826d356d4ab54e9412b841c44deb57e6e16
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 86902418ce6d59559354ae3e86adb6fec6ca22e5571c3cb9e3525e7e8ee2e805
+V
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 21202345bbe9930e685425d0aaf7fe2c87666c4dc54dcae76b1b6ab5c9808cba
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 11b350ce8b3c6fcf78d13a371236b039e27f346164ced297237073e4c4a4eb5e
+Mined by AntPool usa1 %
+
+tx adfe37f638ee2e794db5d51d05fe9ba11280bb8884565031b8f6d48b6b397079
+\
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 08ea0a2206419596c344a22d0437783f3dc6b26f67a7f32443f05827459c9602
+Mined by AntPool usa1 %
+
+tx f4dad9a55d073fed2e7f90bc619439a025ee86e7c69fb771e3cbec5e2f2633c7
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5fb6d46f1a9a238885d5f3dfcf4928be5148aa388a285ff1dabcfb9bba1b0307
+Mined by AntPool usa1 %
+
+tx cea6253e5870577ef474b84b3864accf119b7adb875c739882abf26f5e258a7b
+Mined by AntPool usa3 
+
+tx da7f023b01eb27fa4e7f81e5d6e905c0542832e92ba8ab25e4b2699f71e2cda1
+ Mined by AntPool bj15 *
+
+tx 1a1f836ad29b9735178dbdb137754409dee34e9a0d9f040e4714652c6067acdd
+/BitClub Network/SEGWIT/
+
+tx 0325ffa81e26a7dc5264ecd6b7fc3ff6e7b6bf66075f9ebbbfe70bdf0c39058f
+/ViaBTC/We Love Bitcoin!/,
+
+tx 587f5da5016b4608aadfb01875d78cced5439331a19b4d9b6c818568a29b6d1d
+Mined by xiaofeng123
+
+tx 822a35205b209856b818f5e5333fa7e01d5004f20d36e9c77727e7231a985819
+Mined by AntPool bj0 
+
+tx 260b9c202bd08ac50962e238d3200414747f66621d8cf90e9d794b311d84d1bb
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx aea9e9abd9fe63ab66fca6c3d91191bb6fb13ef377e5107f1d12eef398a2b539
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9bf8bfe9d630bfcd1e5855ed2251cf7c5b0d9c3f401bde6f964fdacbe7a4817c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c94b4d3cca65e9db91f2262053523c4af2d1352d20f35ec1c4bfd1f50d47e067
+/ViaBTC/We Love Bitcoin!/,
+
+tx a5a5386154a6d0496254e5ab5fda3d47177bfd9a4d09912b3123c0e7a17a2f5b
+Mined by AntPool usa2 
+
+tx 5e071fa21a10ef1a3849fa7e64a42fa0c06a6690d2912486614741a958f6242d
+Mined by AntPool usa1 %
+
+tx dbbe2af705f1a82840a4aaa07c2e6dedb5bcbe88e8c4f88d131a501b61e097be
+Mined by AntPool bj11 
+
+tx b5cbbb157ab23570ed8cd55555786edeef74b00de2dcde852e6daa2ad195f93b
+Mined by AntPool il0 *Us
+
+tx 118637eb5b0f8c3087ca61331b104f6d7f44bfa15ee795a930a83d11f25dcd04
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 943095afae5456569072ac4ca3d59724e2f08e14ba588df9bee6627fb743c14f
+Mined by AntPool bj11 
+
+tx 86ce7a5e7b48a186ce9f7f3027ef0953e61154442e917b64852a6c4ba2a681f4
+Mined by AntPool bj5 /
+
+tx df29f906eb5590f8b70343802a6906ec0486caf7296426898fa49a1759188650
+ Mined by AntPool usa3 
+
+tx 6061767533c67d716b94f3e5a69bbff00d10cbdbcba95387e7287f9c7a1c82a0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 025d997b5167ba235c527922a2805844ea264031fc3f482e4226b73dc499354e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx feebffd630dd4e82cb573c14ccdef7bd78720039484db54e994350358bae73a6
+/ViaBTC/We Love Bitcoin!/,
+
+tx c229c485a262623261d90f727a74e00fb9a16974da76559bf0c877df225c57de
+/ViaBTC/We Love Bitcoin!/,
+
+tx 25999649437f843fe58eeaf6495c7d387bbfd4be42d37e4980fba6faaa6d9de5
+Mined by AntPool bj6 
+
+tx d24cbdc7a0a2603f06d1314a4785e7e1bb2dc87f042e0ff715325761b8b96d62
+Z
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6b75a6919a067caa74fc6548c62ace5eff776470d70943553e6520b0a6823bdf
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8532163c7c1ff7cf9fdb9110ae7851be6e36778ebfdad71e51bc7bd4034107ec
+=(/MG1.0/EB16.0/AD4/BV8.0/slush/
+
+tx 60856e4b6bb4d2d180572894476712f2f496847e6d68a5d6344468d107c7d4f9
+Mined by AntPool usa2 
+
+tx e144a677c9cd5624bfcfab36734b5afacf2319dd497d2b51fc31dfcb03cf3eda
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 042578f5f5e42347df091339de7f49d8f7c41dbed02c4eda07bfda8dfad25aca
+/BitClub Network/SEGWIT/
+
+tx b14c98c1fabd9db1c8e91ab293d08bcb4c642ba5572baeb0567b845bf32e4145
+Mined by AntPool usa2 
+
+tx 4b688e9885467bb0499ba1cc4dfd58df6e07ef6a2ce652d75e56917f3e0ec287
+Mined by AntPool bj11 
+
+tx a9825d7a67b2db0db1b1efa6344ce79fa4965792b42f105397af019eed9dd30c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 83018b4c6aec9eb0c67507fb7ed13f9ca19f5f0b46875eb5a112fd86e2848936
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 05595a42baa3aacaf0830df8e75865e29a9cc5b21ece501df68821bd64554620
+Mined by c15834165888
+
+tx 84d6e069e7b82e78c43b64ef569466c2fd7e01704182acfee1ca289ce57632ad
+Mined by AntPool bj0 
+
+tx 77cb6e27163fb46b7468c8b24d41edc01f6b28f26a5abb69b1b9b9cf81c775b4
+Mined by AntPool bj6 
+
+tx 5ffd280635e6716f2ad325d3e24f349b565366581016049ff18a661d50e4d27c
+Mined by AntPool bj11 
+
+tx b2e0be9cde8a84af8e84557d9722efe9aa6efbc104dc2d5e206d711856477c11
+/BitClub Network/SEGWIT/
+
+tx 7bcc22098e3657fab80d027196e510e9241167b22924866ced87ad92f854713c
+Mined by z13856192999
+
+tx 54303312c22f87195c0eaca8e3f97e4c99ec8d5a1e6745b718227efcfd48d868
+
+ckpool/Kano /BEBOP/
+
+tx d6444681df86e27186d8fcea9c26a064095c7c52927fb68c6dfc14b8521a2e32
+Mined by AntPool usa0 
+
+tx afbc144ba033366cb30e9f101a9de10628d6f2deb8b438a93d08213674f1dc49
+
+ckpool/Kano /BEBOP/
+
+tx 6435cbe53ba176730c3e32d8f1dc0b5e240d261dce5e0c9e55a3a6283dd94845
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b75ced024cd654b762af639029660a5f4b5e1459a023ba5dcc5dd351a96c4cca
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6502133301d15ac13a7c45bdb4e67c6a9e8f1e2111b5de7236089ed1a2819866
+/ViaBTC/We Love Bitcoin!/,
+
+tx be8a14092595ecab7897e9d473a30afa15aa59d1df5b554c2edc7dcba0324af4
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 96ffcfdd71530f5115d9f956533f4f84c7814281930a0443eb80bfb3714ad253
+Mined by AntPool sc3 8
+
+tx 2583f2169249c2bea5499f6726dbac54e9ae71e5ac03d7018c055b6d5fba6820
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx bd7b1d3a3f4925bcd9c15fe8f31fdb992a5aaf095857ff3f7787952ebd2128e0
+Mined by jiangbanxian
+
+tx fb4fd34ac628405abed61095aa993796c71519284f4603bbafe066401bcfec8f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d9cdcac552046080e7da21b032eac31926ba3253910061ef29a2e977225a1c0f
+Mined by AntPool bj6 
+
+tx 072f52d07ac1b9f14c16000d61ba284aa0d1cfa836a3d042faed68270c8c2ecb
+/ViaBTC/We Love Bitcoin!/,
+
+tx 294a85b427c95f3dad75c5908059002a2b7a5398a5c159a44d1b8de23baead81
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 06b41078735f95c8b7ad9b02da838d2966ad88ce5d5f0bc0428b28fa17e24e8b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5ed519f6cc7219b2d95e4217ec72d2158f9e9142157a2e92453c2cd29256c7c2
+/ViaBTC/We Love Bitcoin!/,
+
+tx 9b7d8649f5fc625af552c790f4dcdeff8d68c4c996a3ec62c9839d559315fd74
+
+ckpool/Kano /BEBOP/
+
+tx baf0a5734eb08ee84dca5e9e4076ccf5c7fd2200c41190536cd6232f0f088f83
+/ViaBTC/We Love Bitcoin!/,
+
+tx dd8cc14eb437fb18f4b18797f9f024cd7d069006cb1df978679d84f29741e8bc
+/ViaBTC/We Love Bitcoin!/,
+
+tx 4769d8dc97fa37bedf794eb3eb0713f257feec38e48f51ae4cf67c7a6d31e711
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx dc564ec203661d24a0d7740a3525e6b17d63732805b9925f71acf92005ddfb52
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ce5786c3dff62b4355f53dc7f9acf88d3fd0305533fd58c2ec2422492adf527d
+/ViaBTC/We Love Bitcoin!/,
+
+tx af292d90a15c944586d36ece29a5bc6fddd0b11adfbf0eafb394f1c3e7e79fce
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ff9c50d3c1c55d16efab3ee6c59af0767fcb3f8399d372651a6baa404cbe9daf
+Mined by AntPool bj11 
+
+tx a833656ca0a2b73ec79b486cad4a5273924b3ab9d90166457b9c0a25819e05b2
+Mined by AntPool bj7 2njT W
+
+tx ce07acc9ada551f88c2a4743b36f779a429441999a96fcf381e59b6c84d20073
+/ViaBTC/We Love Bitcoin!/,
+
+tx e36d8509e981a38ab6430d0feb5f52cf82381c47a1dd42cac9f13aee2ee91a85
+/BitClub Network/SEGWIT/
+
+tx 359572b77fd6d3b174e588830e00d61bcfcc4f40ded449d8f9d3626fa967ff95
+Mined by AntPool usa2 
+
+tx 59c62e793365c96c7a4e7115cf2302704247842476cbb422e564b180509b3b5b
+/ViaBTC/We Love Bitcoin!/,
+
+tx 6964545826604ee62af7bbb33ae40d2f4bcc687db304e90118284862fbc05937
+Mined by AntPool usa1 %
+
+tx d70aeb9f984ecb12940310a5a4654bec4383801add227f5375a2dfe21095471c
+Mined by AntPool bj11 
+
+tx cda6af21fe711998ee1d7fff064d73850e327cea67d7a87e5d64c700e45b0486
+/ViaBTC/We Love Bitcoin!/,
+
+tx 97d648948b94b7379234d9fdc3d08db1eae30ac2c76cb2df9e3e142866bd7c9d
+/BitClub Network/SEGWIT/
+
+tx 669fa65bace23fc26df108cb4555314d8ea8b70802803eae4dcd4fcf41695b63
+/BitClub Network/SEGWIT/
+
+tx 9cb4222e7b83612c469c8b2cd412eeb9bcf4594e109cbd106a263ec0414ae901
+(Mined by AntPool bj5 /
+
+tx 78d9122259732f1b823bbe29183a286299117ff9ace0c49020674da394177c2c
+Mined by d1258792312
+
+tx 2b405a0cf8ae040f1f13defad49718dd27102455e8877889a01900ba50282c99
+Mined by AntPool usa1 %
+
+tx b99046d42d88e4e70e4d0b6803bad81c57ef0014da453a5381189a3633c76ebe
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0649bb749072d1f331afdd2137089d71673de01a22d5f4bd76e4becf6fafc229
+/ViaBTC/We Love Bitcoin!/,
+
+tx 0f597bab528a80c790995ff86fe6f05defd17f49d6557eb40450a9364d2ab7da
+/ViaBTC/We Love Bitcoin!/,
+
+tx 5f76ca9125dae89a73c44e94fca81ff5236221023e23c9b295c700103b321c8b
+/ViaBTC/We Love Bitcoin!/,
+
+tx c4ebd50a6c02739b9adae6e17c58af38c3616b3d5999723c9a39a59deaaf31b5
+/BitClub Network/SEGWIT/
+
+tx abd0678a94264e544f45ffc507e8c88c28c93a9e958e2ab257f25f5ba9718e92
+V
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 224494ba34acdb20d18388a338d80bd0fc7a76b53959aa585ebdfc0c0568e60e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5ce322e355938e062b325dffc7eee7a498327b1fa0797d0fc0b2940c5eb57c81
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 2147e1c3f0534080f18b88ca5ddbf54e6a5fe73811b06e677abf2c8ef4d85f9d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 8c4b2fe0f7a50008305aa111ca63a979db09709a010f29e4a927e18a1bd85e6c
+Mined by lantianyiyu
+
+tx 4baf1ca00931d22c2f6e6a5c95513e71eb51483ac5b6408ab6485a429e6afd2a
+/ViaBTC/We Love Bitcoin!/,
+
+tx 23454e65dc0c64f3ff7c6c2d3f41d87f16672bf23acb4d229b11ef3caafb3044
+Mined by caozhongguo
+
+tx 9eded6dac1bbbeb32643f6be067688fc174032b67e6c72bf1568a66463cdeb9c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fac4f346605eec2d6a8b4c41154a8eb1769acc292126e594580ed78cf3fb30d2
+Mined by AntPool bj6 
+
+tx cae8bbebbcb18807fbf8e0c631c5bdd173410a67161bb46d952748f68a401af8
+(/MG1.0/EB16.0/AD4/BV8.0/slush/
+
+tx 1d813e1c0ef99ab17fd37cd89a4eec45b3507acdf43843ddb21014e877aeb037
+Mined by AntPool bj6 
+
+tx f0f87d50d397cb030e5890695bd4519f90f40864002d589a8c45d52ac95a23ec
+Mined by ndrlozanof2
+
+tx fa21ec244dbf257785f6d5760195007dcccb802b17245a8a2eb96da34c065567
+Mined by AntPool usa3 
+
+tx cef39c2f7ba7c1b2fb0bff77b17bcddcb8edee8c262884d099290b198510d7a0
+Mined by AntPool usa1 %
+
+tx d898caf8678f441cbc4839586b5bc0fc8f25b33e036ddbbd74632fd906c49d58
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 99b64e5093cafe2de4d1dd9bc4283d6093c1226cfcae24e64bc79ccd7dfa8040
+/ViaBTC/We Love Bitcoin!/,
+
+tx 44914bb241d4e39e77e92f63e04a5cbe295dada12ecccab58f502ddc49853156
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6af4352a9cce47842dd556e1166368ef1732e73e1922fd22ce02b74305e9b1b8
+X
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f9a531300ab90a1b45d2163bc5ccb19b3eed5c73cc31b5c19688882915d53148
+Mined by feifei037555
+
+tx 21db23d2d771856921409a94f0d4c2a6ef7724d46b4f4eb56ec9d5803f7c4f5d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 9af35dfd22a2e38f23668b652d2c893d65a1352b64780135fac9660dc613e3f0
+Mined by AntPool usa3 
+
+tx 01b7ed96a17589a29f3a00af92ed766f09c81226f0afc523f591a1dd7e1a5db7
+Mined by pds15837593001
+
+tx 90804a4cf984c421745ab6358fbd6aa30422a1c80b53887dc1d94ee9d9b38313
+Mined by AntPool usa2 
+
+tx 785075044c7450cb222a736869d766ae0a25b04e044017e7ca27f8adfe5f5a03
+Mined by diwenbin521
+
+tx cd64169cb79ea3646b74c3745490e8fc80d8cda371f2a576a77f6a46b89c653c
+Mined by AntPool bj6 
+
+tx a5d369de88ecd724de55f3d3ad1e8beeec39bc4f665791fbaf3ed5e01e5c192b
+/ViaBTC/We Love Bitcoin!/,
+
+tx 40591f19a480de2ff2e1acfa2beeac853046ba88e62d358372fa9462d497c71a
+Mined by AntPool usa3 
+
+tx 9d7b52a6fe4eb396ad93ef0ce6e503c710c1099a30d2ebd7dfe9c76c2c7f714d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 55725ab9f279501ce14a157f6f51950f293ea8cdb4e5c361b3db967141148407
+/ViaBTC/We Love Bitcoin!/,
+
+tx 3b90b9f2ec1c77bd5624d98b4df986ffcf042de3db710b86cf49a7c982bb15ea
+/ViaBTC/We Love Bitcoin!/,
+
+tx ea54e1d5fcc0bb510b2661d72b0e03850f139947fe6f3dae32c98d7065f2864e
+ Mined by AntPool usa2 
+
+tx a693d7ad99ace1a4ca1a80a0fd39215cd367731374ba9eb9d8dd38c40de49fc4
+Mined by longlong321
+
+tx 8349ff6315e0d3c600ef4a185ebeee1f54057df5ee17b87e292adc43080f6dd8
+Mined by AntPool usa2 
+
+tx 364a06fdc27b30e7c402badd08d1888a893935f98526a065ab16df89ea0f22c9
+Mined by AntPool il0 *Us
+
+tx e7172676d3ca62465ca8d8899bad5cf89050f2e8da31bec264f793081735a354
+Mined by AntPool bj11 
+
+tx dc6c8bbf7db47cda906c77f942de7e68cad05fedeff46f8562a5c4a6bfe5665e
+
+ckpool/Kano /BEBOP/
+
+tx 6f2abb07b1e0d280f511554cf1b45838ff198c5cf1e68e20701ccf65d6cbe2ed
+/ViaBTC/We Love Bitcoin!/,
+
+tx 6d6952ecdab5869e41b95012286377d49aab0979c7a208f248fb88af08d301d1
+/BitClub Network/SEGWIT/
+
+tx 0724279e842ebfb463c5f4ce4acbd94f1c53de3bcd77afc91c6e1f6968cc7ecc
+/BitClub Network/SEGWIT/
+
+tx 541f0f24d45ccce3b7a936758923160412c91c4343963cf73132405d535ec671
+Mined by yujianjun1977
+
+tx 45a163d4797e9b7ddca367adcae537c0c11404108c704d8a57d27cbaa92792a0
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx abc8a618c54d3d62d5f106ca03351601c8056570cc95bbbd660adebf8d443b49
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 554976708359141ef24fe2016a035dfba9d83a9c0189700e6995d13d587d5fbb
+Mined by happyshanwei
+
+tx a25d43ce41e1a9820e8fa8f70c4b183696e48866fbb6b3cbc58231fb84cad805
+Mined by jiaopeng000
+
+tx a7e051dd608978ede9c51411783a75ccf55b1ba1a553801317b8eea8baee4037
+/ViaBTC/We Love Bitcoin!/,
+
+tx de337f40cb4a81de82cc7a6bbe49f76cf86c8250f6b78a6c2f8466a06d9e530b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 69300b1f229be60c4f84f23a57a876b4ec53e709899c43ca17ddfad852c6b621
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx b9f2c3e29851174a0388b9943f40f59a1cc80ca0ac266595920f1f203cd85ba1
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 586ba269812d6e9776f3348ec1cede90623978f844b30c7a5d74d193d0d6eb52
+/ViaBTC/We Love Bitcoin!/,
+
+tx bd9902ce559bd84a99513b5e83367ee317702ba8a0991ed383e11d76753df336
+
+ckpool/Kano /BEBOP/
+
+tx e57d7307524424229a06da71de62db55449f25040db27e79d33ba587299c82e1
+Mined by AntPool bj0 
+
+tx fb4f02cbbabc7d09e7c9eecec2b45dacb8d63de294e7a5192ac885bdb323ce91
+Mined by mawenbin0459
+
+tx c1db1109fba9e5561a7289e570c9fe8a4b86ba25ff3545b278b4470f3b214605
+/ViaBTC/We Love Bitcoin!/,
+
+tx 358dccb7e45ffc0d1dcfe894c4fe5a5af649862c07adff8dee7a720407aa6e84
+Mined by AntPool usa3 
+
+tx 33aa84dfa669d05334b8684e4db1251dae7ea103ea8e36e2ead76dde67a21dec
+Mined by AntPool bj15 *
+
+tx 39b19fac1b96dd0b000791ba130966870f6e3692549228b0fcfc949736212102
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 31c34e88a8e86234fcb316ec7660bda4d278ab250a0f877a66884f688f439931
+Mined by baoweigangd
+
+tx 65f1742ea0de4d0a55740a574d5c568fbd50c28b631b2653779558c7c488911f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 32dd6b9e14d7ecb7645792e98a13797726c38b4ee913fd4d9bed5e220d391bc3
+Mined by AntPool bj8 0P
+
+tx e838da7421d48fceb53cb030ed1a7c05ad4165c94e77215814c84c4d894892ae
+Mined by AntPool usa0 
+
+tx ecf7566816258ee1e79431ab131a2d299e938004238158a637878c3e699037df
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 85c63e06cdbb524c88a580e5d495abdfebbfbeabda39db21874c394f86c5a410
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7071f14f6d02bc04e221affe73b314d91a5828063c21f23b4363ae00150488a9
+\
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0a1212ebb6f6be7f1c4afb790902ee5c44a16c9d4ab72ffff2abc39e4128b376
+Mined by AntPool bj7 2njT W
+
+tx 954b8b952bc66e6656bdd1f387e00909322c9971a44ddaf7e89d19957d0b21bd
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fdaacd34f5d06d3f33fa77146fe005b010fedb65a05a7292b001a9c857fd16bb
+/BitClub Network/SEGWIT/
+
+tx a9439a47ef61d0ffb06f5ad8c623b4fe540a011d383619613407c186f21eb527
+Mined by qq281856507
+
+tx 46c8749cf14f3d889745bc73b13a64f12692d5dc66929a4b7d9d8f418c4d32b7
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6bdb703be210fcb3a9b49edf7cb92aa090246c41a5284734c1b9478cd80ce897
+/ViaBTC/We Love Bitcoin!/,
+
+tx 2342800dbf8df68a5a7167b6f11dfb75d21f19646badd0c5b346b0babe55c516
+ Mined by AntPool bj11 
+
+tx 87a67222399ef049d6a5f7e9b4a85ea6fcd6784552fdc406a4ca0196d358c109
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 166a3e4c5e1a09caad3ad50abbf5be618e727320f278c6b8ec21a2abcc0b0d3e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8909bd72ed030a71ff8b9e4d4be254bb56617cc4599157d3d18c42823befe51b
+Mined by AntPool bj8 0P
+
+tx c50981c6eb4ffab27f85d07c2a70b25364aa1d1850a2235142fe3445f0094031
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e0ecf008b9a9706bfa2db4412e0a6e044da494e6e2b44a43c505d8173ea23c47
+/ViaBTC/We Love Bitcoin!/,
+
+tx 22eaec689c9f49617682a140d6f73996d29baf29ed6ef14a888775740bedb1a4
+/ViaBTC/We Love Bitcoin!/,
+
+tx b581f8b9dc07b87a98ce61f1354a2f23a50d07eaf03367f870f2c36ffaebc584
+/ViaBTC/We Love Bitcoin!/,
+
+tx db12ee4150c12a451a4d76dd97c845172c12367852464de759e58a8e37928afe
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 67358974ca4422b964f4f0627fb0868f5172e80bed8ee891104b887f30c83377
+Mined by AntPool sc3 8
+
+tx 973a3fbd18d7cf449e3d09bbd8a0d58b47b0cf6f5129629ff11591f85c6f4b3d
+Mined by AntPool bj7 2njT W
+
+tx 26f942b17a120312f24bd1009e2ceddbfe269ac7bbeb12c98ee16f9f0b3e07a1
+Mined by AntPool usa1 %
+
+tx 980ad059f50acdab357c2b4e17c5c47be20b7aa32ce186945e71a41e7aa7fea8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a62215bafd2dfefa7d3cd8951d8015ed896f60fcb47f07683275edd01bd4fb36
+Mined by AntPool usa1 %
+
+tx 6ad307fc7947e5a4ddebea49143aa200123860d1443f24c3a4947017b24369bd
+Mined by jorneyflair
+
+tx a6f1e568c2071a2c8ebfec04fa41ad29c6e8f93c85937f83a42be2af1c5d6f98
+Mined by AntPool usa1 %
+
+tx 5d46a8b18fa47380189d995c88b7c0ff04aa19a012f1c4e4e88cc2d16827baf0
+Mined by AntPool bj11 
+
+tx 4ad71ebd0c660e0e3336b8af915429df1e4321e244b16cd660f3089a3a80ba9c
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 962c771d857e956ce2e31a9fefb51d71cc0102baa9671f1342ce7153635bb8a8
+/ViaBTC/We Love Bitcoin!/,
+
+tx 91a9db3c297f487ec96354413557e93a0023b4538f859b007a421cf12a96d643
+Mined by AntPool bj7 2njT W
+
+tx 537c6dccf44dffbfb4e8b1bf12d3f55224424f62d5df6170caa427582a0560fc
+Mined by AntPool bj6 
+
+tx 720953bf8566a3809fa468f0cc553fbc3b91036e9e8205fd0307435f143f65e1
+/ViaBTC/We Love Bitcoin!/,
+
+tx 5d7383eb04fea58928884025eb405ee270ce40137f49f551cde0a7e9cb852149
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx cea3585f64b8932128509b61b5ff69007eff7bf15e1aeecd3587ea19e949bffc
+Mined by xiangbaorui789
+
+tx f59f07428f964f8caae84764e48f8982f6fe67c784082f33908b6663529b1b87
+/ViaBTC/We Love Bitcoin!/,
+
+tx 71278748aa1a987576b41b5b682f908d9fa659c925aaffbec9d5a5edcd617061
+/BitClub Network/SEGWIT/
+
+tx e0c7f1c01eb9b42958f4f136246b52570112a60eee0b1c3ac0d5c86c5549df45
+Mined by AntPool usa1 %
+
+tx 122819c9023004677d0fe45f2403b06b002766a5cc20e46578ec53a2530f0011
+Mined by AntPool usa1 %
+
+tx 7d0e54f062f75341ffac177e31a3847976fe338869245fbcb9f8e54e57676304
+Mined by AntPool bj8 0P
+
+tx 1eb9157fe4dfaf44f0a1fc8cf0aca19b1b22c7aac813d57713bd2a05592f79cf
+/ViaBTC/We Love Bitcoin!/,
+
+tx e94e706b84820b7e9db037ce2ca05b28301fb79d9a280bb3f128a78066ffbcd9
+ Mined by AntPool usa3 
+
+tx ecad4889f83823fdc0cc7403068ea1b5c95462c8946fa917af092172cfdf8f55
+/ViaBTC/We Love Bitcoin!/,
+
+tx a65e5505ecd5f40d50eb206a12ccd037333424b55150c2ed393e4e746ad5d456
+/Mined by AntPool usa0 
+
+tx e5b67476fab3176135b84b5f5cdb863934ae2dbb3943d4224fdfebebe00bcfc7
+Mined by aliciajusta1
+
+tx b7bf34ee355d7200467ef44d59ee3b185728a1759e0fc44f22889544da167cfd
+/ViaBTC/We Love Bitcoin!/,
+
+tx 412232bc7077b41ba185150a6dc9ba30fbde228fa4c640e18247a114d4c62157
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 37a92102f7f2db7eee030dbe5ef5c619acf722261b2c28b038447fbc1e99552e
+/ViaBTC/We Love Bitcoin!/,
+
+tx 98928ce0bbb859e387497fcf46289a24650a4535abb6d344093e49066b62a519
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 4e6bc2f8a6c7870136f201a7ae0d6df43d4415fa12fd90bbac1b2d9f0a6f226b
+
+ckpool/Kano /BEBOP/
+
+tx 5c234087c70b84cbad1dfdfbcc0a0207b93281d1a519acd8b52ca6759de02b25
+,Mined by AntPool usa2 
+
+tx 7efb2c3a6e1b0adf1c05b0d346c371fdd5610ec6fc4f8d36cac45a1eab2206c9
+Mined by AntPool bj0 
+
+tx a79f969c8eab3a944c5247cd148b2a0fb32f4d98eeff24b5dceab2a3160a4fad
+/BitClub Network/SEGWIT/
+
+tx f9eb6e5325d0ddf3d783bd2f9f5b5fa6eb71da87c5e2d904db9821d8d4dae5a3
+/ViaBTC/We Love Bitcoin!/,
+
+tx fe621cd52374c1e4f1d56e42ef8418688f290ad9c81be17127b9f84a753992dd
+Mined by AntPool bj6 
+
+tx 5b63d98dd55abf358453803eac438508604509727451d8209a82cc1970159e69
+/ViaBTC/We Love Bitcoin!/,
+
+tx 503e80fc9c290bc17fc99afbb49ef5285c5b5a91254dcd16836b7d24df00f785
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 078de696ab49394741266e50a54b62fb0eb19cb52bd04ad04eecaf9032ae7386
+Mined by AntPool usa1 %
+
+tx 5f6a56b5c0fa1f1934ee533d71baabe15fb4230f0243f14ab687511a9ffff0fe
+Mined by AntPool bj0 
+
+tx eaa89f770e6cf6b0004e0c0891da606719df6c2e6b8414f50656bb7f8a33b791
+Mined by a13335527935
+
+tx a28b498df7afb83ee619accdf9290bed52cc49f002e1a77f64840c925978b098
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 2594eb4d522ffcd8c530ed1a93b09deded47f16d7922d21b53c6fe40ccc8f03d
+Mined by guo123huang
+
+tx 0b0432cbe7671b20d706b343f8cf259ff1f765a48b0fb3438fed69d6f7382ec2
+/ViaBTC/We Love Bitcoin!/,
+
+tx f50d2eb405a4a0a7e6bfc4270411fcc17c7362f1efb8a4041121fe1fe4648df9
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx eb4ce320fa166f8d7f8777b47b4f48fd2adbc0907ce063a1520581ac5baaa5aa
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fa255a98fae602aa805a70799e721dd7b74c72abab84ac8916e8eb4bfa268811
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0ef978c85a1028caf14cedb62d8859b952b4ce04835ab743830a7886d0980eb3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 89430d2d3408b6e1108d45cf6d5639a2968e7cbb8902e181197a5e33c4e233b8
+Mined by admindong1234
+
+tx 0006a78583bc88a9ff211fd4f63aac0d61b4d23e2627edfe1c5659f92c9a60e4
+/ViaBTC/We Love Bitcoin!/,
+
+tx 639a543d635e10d9e3b9bc2c10bdb815b33369debc19eb7cf19edc13505d4bcf
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx a6736c1283e87fcb168fb9313321b980d75a8986c6836616f92af1aba45c5bf3
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 94378f7c35237660fa6c01e770b27981cf55261b180b702948fa268ac32d2209
+/ViaBTC/We Love Bitcoin!/,
+
+tx c0d584ef816753b9815e194aeefb607dde7b07605a6fed96fc01af31a6fb9311
+Mined by liu25983751
+
+tx 6b43affbd9aade70116dd222d0930b014384c50d1f36afd58e6d9bfd8f2fb7ba
+Mined by AntPool bj5 /
+
+tx b9d5a583cdfc3ae239d7fe4d49372e13753804df26c40300f019a7a7e3792d34
+/ViaBTC/We Love Bitcoin!/,
+
+tx fcc62cbdf5b1372955e782fcbefcc5c3ed87235841c35874202f68a25378e92d
+/ViaBTC/We Love Bitcoin!/,
+
+tx c71c4ab384d7ccffa81d73c2554e60173b60108dc073322b1603b013c7aaddc2
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx abdff1c4e2bc2b936d0fac65bec56b9ccf803999432173b4796fede24a28e12d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 32035f6b63b61b31549406cdb2261f59eaf6868a327dd2921ffadb98cf4f7f6b
+/ViaBTC/We Love Bitcoin!/,
+
+tx f36f03e42a22a905b5cfeaa3e293c9961398ff6663a8bec57ce6f74adcf1f1ff
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f470e449a1d51d8cd7f7125c97a75d5b5ab40e212dcefa730ac9e3924f25861f
+/BitClub Network/SEGWIT/
+
+tx 73cd476aac43e9891a56cf4fc69242fc09052b0404e5ecf1cbbf3d0060fcf2c9
+/ViaBTC/We Love Bitcoin!/,
+
+tx a5b613839c31519aee48046fee5542a0397204cd11f1953ca91814592fc1c69b
+/BitClub Network/SEGWIT/
+
+tx dbee4e31515abc14ddadcd39229512e166d7e4ba5b1269ce1f4eb331a05aff98
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 63e38cd42c7e46f6bd771a8efa5ea569688c2d4ee88ca6e3db2337dadf108770
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 211b97d0e514ee1acacc4d70216c09b6c9ecc02e2c210a1cac325e071b2f3860
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx f0c2573ee6c34504684851d11eb089d3b819c01b9961b8598f8a843e2543a9c3
+/ViaBTC/We Love Bitcoin!/,
+
+tx a1560d7519da7889f42e4ad7dd6887a5fd18d8a3ee3d392c2bdef9c1fd919844
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx afedd6d5ee78fd08fb0d6efe329f7fc8cb405fd4ffe75e589f80a152e2786167
+/ViaBTC/We Love Bitcoin!/,
+
+tx 0488771e40b0ca6872e8bdd7be2c122caaf568df2d376fbadcb7dbfa11388d62
+/BitClub Network/SEGWIT/
+
+tx ea9d6bb62df32452b6c5cc63a71b2fe9f52296d093928e742c16193f36a6712c
+/ViaBTC/We Love Bitcoin!/,
+
+tx 98dce2c7b17a4b24e1836ed3cb31f204a441fae609803b7da6c2e9c93fc20e10
+Mined by AntPool usa1 %
+
+tx bfae66648440a49c3c0552c32d92f8efaab0833d48a56f1752d9b4ba960deb6d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 0726a17e5b445a9d52c24aac87df7e96980e06a66ba9aca6f1503737a6c7d9e8
+/ViaBTC/We Love Bitcoin!/,
+
+tx 9d28c0c1ba99db4879810b6c3bcdfde882ca449ee86e158414ecad025771f5c5
+/ViaBTC/We Love Bitcoin!/,
+
+tx 6dfc4eca7f47bb32ead92f96b3814e09dcc02bbb77e6123b5e4594f55047a381
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ef5e76f4abc82cfe0f29f03800b4a29121c166bed0500bf82a215cdd886a0523
+Mined by AntPool bj11 
+
+tx fe5ad91ff9cb25d0aa10f8fb3cc96845d708b7524be0037afea43c8842ab8770
+Mined by AntPool usa3 
+
+tx 6adbbc2d9020f1af1aec4f18b96f29e1ab0ab920ced5c8e97b44647e39898446
+/ViaBTC/We Love Bitcoin!/,
+
+tx 598b8e316daec19efc7b40c238d8f17b51b9c94eda897d7f1974d6fcca6d3b18
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3f18f21090383e44eb373fd4ef346845bd32e0bce3c500b93c776349e3fad223
+Mined by AntPool usa2 
+
+tx 201689a39b4ee76c2ddb08855925fc6f37bbe300c25df15d8765cdaf9578433a
+Mined by AntPool bj11 
+
+tx 43c793a21a188281500181a2087a09b3cd6e6ff9894ee9957080cefb23d91220
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx fb3119317371ec5f9b9995ded908ba608dfa60c81df71fd523ea168f47223a46
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3b7ad3f50ae50b86376158d84fc3e194df327663aa2d990fcf3c98723c120981
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 2c274ab98bafc8e16ba25b05b149ba2c4ea4e0783dc236ddd36b2a2cacd7a564
+/ViaBTC/We Love Bitcoin!/,
+
+tx 84c9e77d18f95647c57da2b212ddf00cba988c189df3a7ae5eefa6dc7caa6d05
+Mined by AntPool usa1 %
+
+tx af2ba36becf3e5dd6e975a8e21887d8f7216e16fbed4c9c22e0724df0477dea6
+Mined by AntPool usa2 
+
+tx 60a413e89b6b22ad638405dc2bd4e320f4230a931220bbeed739a2d9a843206f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 778985b34c0bfeaf2d3857cebfbbb1475a5955f9997796458e88e8920c0b52a8
+Mined by AntPool usa2 
+
+tx cf0fac776e06b0bb9e75694958bca4ede85cef8447417139a2ba14696b9fd45e
+Mined by AntPool bj1 
+b
+
+tx 4fbfd5edb5e1b569e3acf360a40a4524c36fca171e52ec8b6bba18dbe6f66020
+/ViaBTC/We Love Bitcoin!/,
+
+tx 30cb3eb0e29e014f31b31928de2d22564b953bcb433a9a4a1ab2ac78b277b136
+Mined by AntPool il0 *Us
+
+tx 1f84a36de0d15429fe5f4d8d0564ab76f7807719b63b3b0b02dad32210a90a28
+Mined by AntPool bj6 
+
+tx ba152be0b1013a6c1bdb6dc289d72c3f27f83f5bb61ada9dabd1fc6c8376f1c6
+Mined by AntPool il0 *Us
+
+tx 65a65778dd1d1df41a79fe28a242cc8d6edee0dc65f0f969d252d2379fefddfc
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 6928aa89144e6851ee46a33c024f31c9e3ac8416fc0e9649e8625f3a8f77648d
+/ViaBTC/We Love Bitcoin!/,
+
+tx c136ff3770fec9107edf35d85de01d7dfc41f784efbc9b3b98c62dfa25d293ae
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx eb2335fd375398e8ec88e137d47b0ef9d8ca630600d68e72359b17c942e6a609
+Mined by AntPool bj5 /
+
+tx adaca14335f159ce27e6a25e5b3d4d3ab20e3c3ce7950bf0a55931a438714e97
+/ViaBTC/We Love Bitcoin!/,
+
+tx 3942c702dbc43a89c796bd37553e9217f72a9ccd0b648c9f9a6777d31d5a7f37
+Mined by AntPool usa1 %
+
+tx 90eee1afa5218d0aeb9ac0a57026a2e753c7026d46b37b4c56989ff845a351c4
+/ViaBTC/We Love Bitcoin!/,
+
+tx 58dcef5a8050d4ec55e4ae45ad48101e9c96d1a47a1f468e1764c1d3024abbf8
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 39167795ec0a2d302917c0287d3cd1e0f930b21d86c003ab783dc15e7d2d115e
+
+ckpool/Kano /BEBOP/
+
+tx 4c89f4f739c91edde42c7f62d454d2a5390e2bacce3caba3433fa76a7c362072
+/ViaBTC/We Love Bitcoin!/,
+
+tx a775d5511e272e448f7b9f846bf60b25989595f601bac57f77437ad059cef96e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx aee651b06c0278e1e5bfc18f8c12e1fa96484bd9bc2482bb4e93f5e48281bd98
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 26be4aacdbc2af6f928728c3e7295ae6578ab3cf9eee1ff06db69c1af6c47ccb
+Mined by AntPool bj6 
+
+tx 783aec5f412907ff3a6180209c0fe9919ea7a7e26ae5a3f7ed6e67c9203815a6
+Mined by AntPool bj6 
+
+tx 607b0573b89e594c60d4c0e3555f04842af13a5311e651106517465a64c4762d
+/ViaBTC/We Love Bitcoin!/,
+
+tx bcaa5a402f4619d9ed76d6af01342c42db640d1ec8b15e7297a5610e6387420e
+/ViaBTC/We Love Bitcoin!/,
+
+tx 95f1c23697eaffbd635c6b4112e55321522fe82477e24d48773e9b6dff2a22c8
+/ViaBTC/We Love Bitcoin!/,
+
+tx ea312c1b7a2e9e4b8eb06bf6e41a248a93029cf39eba30c062fdd996bf5aae93
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e1f88e1545938a94794e0adba073d8217809bee1ea5d315a07cb649c7be9c669
+Mined by AntPool bj7 2njT W
+
+tx 297180f0253e1ba7005f3c408faff735520065ed3bb0685b8930e7afb5e78e51
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ad43d6024355ba29828b666fa0599ac2645253b7afaaabeea3840eef66335f4e
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 03a48e37ce71b104503420075efc4aa4d54e9bbb76dfc24bcdc971454d84ca28
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3e715255fc5da01630606219a84e722dd75579ce271e4bca2cdd3fd3dfb30350
+Mined by AntPool usa2 
+
+tx 6a7c4f128771b3d2fbc874e5eca653898b8a2d8cf4c1d724b4d8c3fcd746411b
+Mined by AntPool usa1 %
+
+tx 856eb8a23a0af5ddf6e1c96fd573d78cc9c3eb09c4a43909ab6b29ecefbbe350
+Mined by AntPool bj11 
+
+tx 9f112243519a0d813149214d92f973c9fd59b7f5abe29b51acec2f5473db4723
+Mined by yangyang1924
+
+tx eac99fafb90b78e9e314ff3fb794ebd42d1715d2474c24876867127e7b622055
+/BitClub Network/SEGWIT/
+
+tx 978037406893ba86dcd2704f6d66c5e1f99fa84bd1446a0e61498304c1e83bfd
+/BitClub Network/SEGWIT/
+
+tx 628a043a930abac723bbf154e43654eb5063291e7581177f3d2f56c005898a6d
+
+ckpool/Kano /BEBOP/
+
+tx a12b2f935ee2681ba9032a5526b11bfd41e126b0157b5bee0018f49e8417cb41
+Mined by wudalang123
+
+tx 060f10fea31db5a3f3d88c1903968f3490949b17e508a706de9365673e967b7a
+Mined by AntPool usa2 
+
+tx f181aa50d9446363aa6c11f1aeb86633186e97ea9c8650e6bd1448ffa7843ba0
+Mined by AntPool bj8 0P
+
+tx 3563746d391fab4c373953e75632755881e800fa62a1ffbbc3ae9b921e0d6950
+Mined by AntPool bj7 2njT W
+
+tx b8ae8a3216db7b00c1158786d41a87c30c4138a56c59d5839ade01ca5bb43195
+/ViaBTC/We Love Bitcoin!/,
+
+tx aa237798981daa1b631b9c3a6557b4f39a3c202dadaff0182487f2f10574dcc0
+Mined by xingfuxiaozhu
+
+tx 6b7e3b694c86bd2ac6f6eaeb4720717f5f78913c9e2a48db03a23d6a1ea37f5c
+/ViaBTC/We Love Bitcoin!/,
+
+tx bfab0496cbbd33521e3441ba2074d7e6978040e8bdaf35469bfff0f31e361e3f
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx c17bf82b3e0a9b5464bc0ea273d37b53caff3e3e7fb5c158b5166c0990e0d242
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 67f4af8ab1a9164719c4b150cbdc8ad16674d90015500ea3450b9bb716436475
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 273f3d927005b21787a633ecef7dea63a8471223dbc9f3f98120c0c80241e0a5
+/BitClub Network/SEGWIT/
+
+tx c24fa6de64a58edc7d60a5458c17802623a668ec0b0bb09eddd3d4203f7e34db
+/ViaBTC/We Love Bitcoin!/,
+
+tx d99f91f0da813d5200c4ac37c247c928bf7767e56a6e43fa900055ffa95facac
+Mined by AntPool bj11 
+
+tx 221f088dfe86121fc721dbc0c6b19aff2f39120b33075460b2d426daace1f026
+Mined by AntPool usa3 
+
+tx 38a8bf4b2be167ed0503bd9541e73b7eb75dc15c5ed3b613cefbb9b077a51682
+/BitClub Network/SEGWIT/
+
+tx 941336da81f57c7f70eed8560470e3469540bd17e5eeec891227edb37f3db576
+/ViaBTC/We Love Bitcoin!/,
+
+tx ba893681905f51133e0a4fa6f8ae727b5b0fa7aee0899ba7500f944b3dc10bf4
+Mined by AntPool bj11 
+
+tx ea96304f5271973a2a860d7060e2809f86a797d85ecb787542146e0258afb533
+Mined by liuning86744
+
+tx 914811696a2993bdd3266d1e9926730d8e989ded563062ee1a26b1be0a293556
+U]
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx ad3785f0a2266dad79bc2e6b5f01feb6cab55627169d3ddb6d359c22ad1c0421
+
+ckpool/Kano /BEBOP/
+
+tx 812e1b7c782dc11ff7e557dc134d91f5518e6c8cad24268f948e0adb8044aa73
+
+ckpool/Kano /BEBOP/
+
+tx d0ea3f9fc77dbc357367397d16021ab5229b7a1193b84b4143b714d531063095
+/ViaBTC/We Love Bitcoin!/,
+
+tx 35bd9b877067b6cc97d49ec2b8aecbf85d50d288b0ed9a06dc800099162fb41b
+Mined by AntPool bj7 2njT W
+
+tx 5182400895905e2d23d57cce118c4479f556fa9124a56eb27763d060b1d74ab7
+Mined by AntPool bj1 
+b
+
+tx 1e925f6fe794635057ab8ffae355a5cc2c040ec4596db9e3525646939f45109f
+j)/MG1.0/EB16.0/AD4/BV8.0/slush/
+
+tx 55e0be73d976033e9a0b4869ce6ad268da3b61daf844a292fe88cc9d6e3341a6
+Mined by AntPool il0 *Us
+
+tx 9b512b25984ff84e62bba8c67d57357ef72cca1905f81314ac28613152d47bbe
+Mined by AntPool usa1 %
+
+tx f80564e388fdda04a544385a2e3fc63fab6c5d1039aba98b6f2aeef4a39ebb19
+/ViaBTC/We Love Bitcoin!/,
+
+tx ee88f73bcc51b1034b95bdfde8680955a411caed244eb42054435d41a5a59347
+Mined by AntPool usa0 
+
+tx 5929b5d6699bd8a04511b9695b12753cf018cd7bd97084a1bc4bd2636336cba6
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e2a5ae68f2ec38b50c32dc90f51b2b8a4311ad3fce2583a6ca766ac9f6d07d29
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 873a83361103157e010ef48b24f4aa272e8e4ac9dc3c566c3f7e485c03a99936
+/ViaBTC/We Love Bitcoin!/,
+
+tx b8e8993d3587d890ee88989ef81ccd96ef1f981ae80f1c9b0fdeb4c11913707c
+Mined by AntPool usa3 
+
+tx d779cb7fbd928aede564d453b27ee77896b15d1f7f4537c89c36402a90ebb886
+/ViaBTC/We Love Bitcoin!/,
+
+tx 91175c53f8b47caa288f0980278fa51e78daa442003e50800753cab7c51cb03d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e73db7c3010216c2d55d491ff3147a8fbc89acedeea099bc94dace219ee2e6e4
+/ViaBTC/We Love Bitcoin!/,
+
+tx 50dd1566c8e9c91fc852b82c5993d9af8a3cf0f40a2ffe970851a317c7e6f7a0
+Mined by AntPool bj1 
+b
+
+tx 149e3d8d571c1e26dad61c1aab5144bfc99603d5315f6d8c52fa73ac1adb7777
+ Mined by AntPool usa2 
+
+tx 3d0fe1452aa9ed2d1baa3faaa30963bb62c1ef931cf97f9f0a7a2c5db88580c0
+/ViaBTC/We Love Bitcoin!/,
+
+tx 93db8dbdcfd382ef33e0b214711dfb0a2dbaf9dc658ef3ada035cc31b9de86b7
+Mined by AntPool usa2 
+
+tx 57463ff21181974e179404530572ff40cccf294984b0a6d7c456b7ca8bd6de34
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 8d85eafce9666409d98ccc0be757f5cb6126a434c16430d52cad7af2636b422c
+/BitClub Network/SEGWIT/
+
+tx cd6c2c6e851747a7b178f97861161bb4ca7fa95ee1b4f2badd43867d906bf8b4
+/BitClub Network/SEGWIT/
+
+tx 7a52215b93b131e4e422f5b116aace260aefdb9a74ff907e44af30db61de143e
+Mined by AntPool usa3 
+
+tx fea40c7ba134e01888c5483f0f24be1588cabaa3088388093105242100496dca
+Mined by AntPool usa3 
+
+tx 876a44bdf7424427b5da30e0c9c5d82e03d5bc97484f4ce9b1e3f4c0bd4d30a3
+X
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx d3e551edcda28f70e5ad668cfc0ac163f853dedd3c37326b3993984ee3dec203
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 3632bbd0d447742328b90f723e1189c329b00da9523c44200384f66b7b7bb1d8
+Z
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 516587f3f989482ba4575257ed01721d50c7f494a04a6caec9297662e735edc9
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 71e144142edc07c9f0b65239284f8424d95aef8e48ee0c545c8509fdd13bc9df
+ Mined by AntPool bj15 *
+
+tx e1a6488f7ffd73058901d3811013b3db5c71772739c26423c8b5e26ca5225274
+/ViaBTC/We Love Bitcoin!/,
+
+tx d285e79bc10fd4575117d4fc6cd38167e0479d6cf34408ccaa2c9b84419f9e0b
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 59f94d11f676727ffd9b67634522fbd6dfd1e9f421b9d22ad0e2ebb11c380a0f
+ Mined by AntPool bj11 
+
+tx 673a544181a02bbc3cc998d3e76a44ee61b0a217fa1d90e697f0efe55b36b14d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 5b026c39da86a21df06f8295b2a714b3ada33cad2a8fd9482babcd7c53492ded
+U]
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e12903eb44fecbcdc33e49d05bfd2289ed98303cf880f5e46bb521cab12ce01e
+Mined by AntPool usa2 
+
+tx 96421d6694b70e68b95f9ac34a438980d09ee4f31e04d88d25449e3a0faa017a
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 5d077ed0a6bf250189ae5337edbf070feec12708d363479c572e0270a3f5037f
+/ViaBTC/We Love Bitcoin!/,
+
+tx 3a6ddf4f3d1db18039fadb11f539758e702e381c3d088314c436020e5fa1befd
+Mined by AntPool bj8 0P
+
+tx d2c00b6a06565dd4ab464ae6952242a4dbc30ee9fa0d6d43319ff264bdeca087
+/BitClub Network/SEGWIT/
+
+tx d43ce6d63f2de8c40ad327015bfc46e8732902493e01b175615ad86ba4897713
+Mined by AntPool usa2 
+
+tx 76e6fc1a52c02a78ffd17543d4a451e0201476ea9bac19e43f644f39fcb5158f
+Mined by AntPool bj7 2njT W
+
+tx d083ce273ae0a4e37b204ac9b5e6e9a127bf5a11b08f136f70dd1ebdc16fef63
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 90cbbbd89afa8b29d8911e061e0658141877cab1861ef841e7338b6012da0f2f
+Mined by zhqtuwei566
+
+tx efda8c8b8421ba3b22631ef2428708c0fa132f8a32de33d11f58dd46cd75e005
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7bd7adeb56a05cc841839805f36593747a737a3b8f579b05b41eb93681a775bb
+Mined by AntPool usa2 
+
+tx 72d9dd97f25bab07a1192c4a2f11daa498bcfbde2a70ed29a0eef79fcadc8555
+/ViaBTC/We Love Bitcoin!/,
+
+tx ed0d04359cb19443f8a2e5f86925811a86191caf6f6a91507701e1abf9aea5d1
+/BitClub Network/SEGWIT/
+
+tx 65d37d7fe179bbec027129b51c2343a3e2f99e3bf28938c1faf8c01f730cc96d
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 7a1fb55880c4a76d0c59ef28d98e5160038f91af75b4bd4330088536f453b574
+Mined by AntPool il0 *Us
+
+tx 8e87b2e9a98885493ce3d71a18ddb919f00a56de30668d77114dd84a3e9f33bc
+/BitClub Network/SEGWIT/
+
+tx 73e83a85a6cc4fb43061181050230543e4eb5f02c07980bd0d27b1df1bf98101
+/BitClub Network/SEGWIT/
+
+tx f4db49e0703bc8850f4a1ab306310d5097d3950b3fb1e8679b786a85c9fc8f2d
+ Mined by AntPool bj11 
+
+tx d3c20ca85db428e36ce228df2c4e32db9c887cbd1784058f24d99690eaed9bc6
+/ViaBTC/We Love Bitcoin!/,
+
+tx 6be5799d45513118017018885829b8fc8e201ca5c685f173b3fd1ac8c9a94f96
+Mined by AntPool bj1 
+b
+
+tx 438fa3efa7c9bcb9a0ecd7d792b837f03e1927f108c95bb08920596f286ef9c4
+/ViaBTC/We Love Bitcoin!/,
+
+tx 1a4f26c866c2b35de6b11594c27902ca1f633350db0eb760e612d11170d969ae
+
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx e426658c8739b23cffe0a5754b79966a4ce5dba67fe7112a8bf51f6d8b5e242d
+/ViaBTC/We Love Bitcoin!/,
+
+tx 9b960c46102dca89eac99537571579581e3ae9629e7d0562adf3fe1fc4a4d217
+Z
+BW Support 8M 
+fisher jinxin	/BW Pool/
+
+tx 90a2f80831875c38c09c7573fd460fe464fdaf22544e3ee3122af37aecef8196
+Mined by AntPool usa3 
+
+tx c694a684f350e2e3bae97c522002791bca4ce529811ae53959aec3ec910b8b39
+\
+BW Support 8M 
+fisher jinxin	/BW Pool/

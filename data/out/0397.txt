@@ -1,0 +1,5954 @@
+tx aff7cfdeac8e4d62cb1714fa82922dca7ae31f4865942a270cccf09928dca2b6
+#pv4'ASCRIBESPOOL01PIECE
+
+tx 452fd7459f0e12e06e6b3b6747ce1dd87e254f892af46c75b26bdc603a22aec1
+#pv4'ASCRIBESPOOL01EDITIONS23
+
+tx 46544fbfefe5da28cc9e18e72cfe8245a2e942dd58e6fabd1d874b39ef543e2a
+Vision.pdf sha1sum 44f3ab1fb8d793334ab935634e223a3c10e016d2
+
+tx 6644b6597d3409844016d369d2374a49a601df7488093faaabe483b34ae66b73
+cu=http://bjn.me/a/6Xen
+
+tx ec113fbc10428f26b67e350e5f082847ef506a25a4f802adaac73fcff12764d7
+ASCRIBESPOOL01EDITIONS36
+
+tx 92c20d2c1c08bf5d5c535b5e7cee7fe06187530c18491af7fb8372a4c10a1a6a
+u=http://bjn.me/a/6Xen|
+
+tx 90c0d09f70a00507e4e0b52c8219643dedac03ea6d7e5751553c073b2a8e1baa
+u=http://bjn.me/a/6Xen
+
+tx 2d382a97461ffe0096b8f9e15272ac90188cea280582ad146ac1b6bc37f379bf
+u=https://stage.qwids.co/a/FyfY
+
+tx c061b234c85d42c29ca95729be9809a21acff9fb11073e57c3dcb5980f398341
+ASCRIBESPOOL01EDITIONS0
+
+tx 6a026e0377ff5cba47282a33bcc4b24b3071405c24ef703c4f94672a6b51adbd
+ASCRIBESPOOL01EDITIONS2
+
+tx 75e5bbde4d91e245f59838724e64fde2f298a515e9a54749da00d5bd852e09b5
+ASCRIBESPOOL01EDITIONS2
+
+tx 5c951fde3350254978f9bd744d0483b5e7d1b3bb1787b97c268093153f12cdea
+u=https://stage.qwids.co/a/FyfY
+
+tx cfae2e19cc8a67021ac3bcc7ba472edb601627a53ad9e46c387fc8c309106a3a
+5U6200b6d3ecf91df258fb0c69315086e2249ab625c91f8cc2a3993112c10c62b4
+
+tx 91f22fb385a471a0aebb05327092cbf88362dbf5d6cad9270b650f27208b0fd4
+.ASCRIBESPOOL01PIECE
+
+tx 22a579bedb48476cd4c162642326034434782ae2e68159a4c5c6d2901e73b8a1
+lASCRIBESPOOL01PIECE
+
+tx e028b98acfb776a500914464ba34c53b69b539bc791fe1273a96607884b9a27c
+UCASCRIBESPOOL01PIECE
+
+tx 384e96d76ef46df9a848b27422253f9e44e657ad3ca06e8c9b888b103435be15
+j5EW Don't you dare to ever change the timeline of eternitywall. Fuck twitter
+
+tx ddc70de184e33c0eea6c8fad5fe8c406ffae6d44fc4e1b919bf424f52dc64bdf
+lASCRIBESPOOL01PIECE
+
+tx ab13e5c8a698e65ffa1a0262e2d0dc37e8ce5753e66107d2ba5e7c50544d368a
+lASCRIBESPOOL01EDITIONS36
+
+tx 85bbf18402e2452ec7ddaf2dd5bf9d8b21185fbd31e4a980aa1adbcf9c46bc7b
+id:eleusis_haradwaith.id`
+
+tx 18142f00095759d4069adb3eb3fb2aef57d8acf4f330b738174e923be3efc602
+^ASCRIBESPOOL01PIECE
+
+tx fdb853fd400de4902ce02d0aecbc7cb093d02b9a184308f8dc189e0b7068a178
+Our stories begin...
+
+tx 20ca63f52869a963ec49cbbdd2fd9aaac213abc8728025c9e2e131e8de4e63d0
+id:herve_simonin.idt
+
+tx a4929e5fa641583ef86c8a5ec45b7eb18d86c287c5f17e8c0a03eb789f318bbb
+id:daniel_liabeuf.id
+
+tx 090189caaefc19574bb1fb1557f2b4d6653ee86d4211d4f17b4bda399e891d1a
+id:laurentcensier.id|
+
+tx 3a0dd4e98eb860d7eccc5bfd5f81c4f50dfc247019eb5765cbcf23ef29736914
+id:nicolas_leonard.id
+
+tx bb1eaff013e430ec6a65729d21950abac8867ef8cec2eb85ce53732496afc91c
+RASCRIBESPOOL01PIECE
+
+tx 15c03dc354fff080823299340ba66b4aa527902eee5a3dc672c29feab5736ec0
+^ASCRIBESPOOL01PIECE
+
+tx bf1861c26b35a521da9e00c93448f6873d25c15939a926c40079830b379c6a65
+id:stephanehaddad.id
+
+tx c26fa4d1a36d1ce183a7738283ff78ec9ea51c5db001f40a79f1bfbfdc0dacab
+id:sylvain_contie.id
+
+tx 58a340af2cac36dc400b3002bb777fa12b4459eb2f9aacf62bc35889557af53b
+otn at omai tacired ed
+
+tx 46f4b7ddb372ed1910b30407a10df6fd54cf551da51b940af427fc5131e3de60
+ sei l'unica persona che apprezza i miei disastri.
+
+tx b9831f0e32b3af843f31521267366ee6bbd0e97a08ad8b8436cd374acb2a7dea
+1FoZHWYtB968t7jBSMQkkKedYbM63xdZjyw
+
+tx e12650d5123a0874d5f6999b8bdf26ec840bb689c3d3abdd9b6420c5f925c13e
+Saturday, February/06/2016 - Signal for today is 0 % BTC / 100 % USD
+
+tx 7c9e593488e1593f4df69d1e8baff25053a6ad8b1374ef45a17753cd6e12568c
+Would you marry me Am
+
+tx 8a333bc7c4724ef7a8a310d25c6fa8f1367ccaa4029b1f83610212f2cba64727
+Iniziamo questo 2016 pieno d'amore!!! Amanda e Marco
+
+tx e8009d05e136639d4d5c9fdbcae9dcfa806195787bcd1a870f06fa42d1f4c07f
+Io e te tre metri sopra il cielo oltre l'infinito... by Simona
+
+tx a30b95c9958b4b70c60f9bbc97a04547a8347f7b792adb800790f6cc56546f55
+id:martinkugler.idHW
+
+tx a6809caa6b01f76300444ce88dbcdf9a6c4e7bbd61c812b43cc88ba7f5fcc22d
+id:laurentwallet.id(
+
+tx e1127778b07642b2f9d99d36c8e43561a6a5c77b5ee0a33f972ac7e53c06ada2
+id:pierreschaller.id
+
+tx acd383331a1582b9086b14557f99f78194fcbcd1900b503743839d6337264f3d
+id:laurent_berteau.id
+
+tx ef6fad9215484cffd32bdcec5982fbef4b9c31261266e075e5191ff5166b9c7e
+id:parissingularity.id^
+
+tx 12f7f82c91a0cc5ce56265d421a69168247661a897a6bdda264ea66b9cbb3509
+id:olivierbubendorff.id@
+
+tx 43020be067ee6b58a6b29bb6f15a1d0bdc46130fafb64977993f03b80b8e6f9d
+id:mangeurdecailloux.id
+
+tx 5af70786d55e3453cd475dc9a78e420ee723a8c1a33df89423bb79c6fb0309ae
+EW #RIPTwitter long live http://EternityWall.it - @MrChrisEllis
+
+tx a97982a07e2357255546f55a43c205828bd1c45f78d3955f9b6dd995c939f2ea
+#EW open source at: https://github.com/makevoid/blockchain-pen check it out
+
+tx 1cad0e9e8dbc90ff291f442322e995b3d2abe386418b06e14688fcfa1820d387
+#EW Easily write on EternityWall w/ blockchainpen.com - just add some mBTC
+
+tx b4d3d1b429023e067095d91fccc44f23a85e1ff39efc0ca34207ae6b96a32c22
+#EW http://blockchainpen.com - add EW - 1 mBTC = 10 msgs - just miner fees!
+
+tx dacf64f2836c8e980162bbad7360275b76b6515f41cf232066096bec2348bccf
+EW wonky tonky greets the world
+
+tx c7a9ebfcd7ee315446227765ddadfb4987582e796fa7df172b4a75cb01f22dba
+Idea to write an app
+
+tx d843f9e79e0b1e2c66db9b430589a0eb20f873bbff99fd13d4eaf6484639680f
+EW Giovanni Nonzioli will be the Pope one day, my friend James Pinedo said.&
+
+tx a2815cb3d2a27e69f9c78bb18cd4c36e61692bf94d52166c16558c83c0c8f4b7
+EW www.eternitylove.us stories lasting forever.
+
+tx 525c8c62e9813c61ced0882d68c4c103b5eedd91b56f8287139408b4943bd352
+id:francoisrichard.id
+
+tx b5c13ff60c024ef7ed794b5f02caab238e278a003597a689d0d79b88cdc6afed
+id:chrisblaess.id@(g
+
+tx 9d928992839ec0c23384438be493d73f5ca3be63ee80bef91585832f78bf993b
+id:cedricbonnet.idrF20
+
+tx 63627faa9cb4f8d363f40fce01582eb7fb4818007616024f216df9e4246fbe37
+id:thibaudflajolet.idE
+
+tx a072a27839ba6e5cdc5d4d64740167dab8b1af3db008802362fdb87d0334e03e
+id:oliviermazeron.id
+
+tx 113b9e7aef3b54e66e0feedc29ebdbe521310e5fd2b97183da26e50047010c97
+id:favreauvincent.id
+
+tx 0e906fb27db84aec1ba7b27d32b4e9531b94482f448deb254182b2edd1d035c6
+id:fabieneychenne.idw/
+
+tx eb455572f937ebf02db48775941d6c23b8c6cad145e6f9bfb058cfdd84a70760
+id:julienchampagne.id^
+
+tx 7db66447029b8222954c0ce348e899b4227ba8aee561cb60df042ef0d3571775
+id:stephanedelporte.idH
+
+tx 369a7a976c9c3ec87e47d04144a283ae6a48c1886c5ed8cba71d3e620e5150e6
+id:beatricedelamotte.id(
+
+tx f13ba2d3ae9cd00c05b11d5f8d63e0a32be60892b2c929662538d2adf7e27adc
+id:mauriciodiazorlich.idlH*
+
+tx 76855e66319c81121d084b3c3aee9f5eafb0550980c419d02056e47f9ecc8678
+mVASCRIBESPOOL01PIECE
+
+tx b782a7e5fd572fd6087c536b8750d80f668c1bcd0a3b2115aa9389fd5f0c6c63
+id:francoisraynal.id
+
+tx 413612fa03cae5a892cbe35b51ea3a23ab65d2366c6e72fa9e377e477fd0525c
+EW *U.S. Children r unlawfully stripped of Parents in Fmly Ct VoteFamily.US
+
+tx 8149ef78548263af43a9b4bb1b7e9a21a34d63e26f3158e04d2630cb95ef80c5
+Ille mi par esse deo videtur
+
+tx 40121107dfdf552df002b274e7b9ee66dc43cfa3bb61c56881f8ee8a6af8d8f2
+id:nicolaskourganoff.idE
+
+tx b53694e6664d98655cd61bc2109d65d327fcf1b05897a38dfe3fa57d4a0473b9
+id:arnaudchapal.idRJ
+
+tx 3bf1fff226743102d3310e5349050b6d1a72659a17cd746e4324b7550f584f30
+id:kamel_bouslama.id
+
+tx 8f2320fdfc6258c1a74b26c79b43cb321a62619a1e0c2a42fc3576321f4e3e69
+id:xavierparisot.idH
+
+tx 36412cb360b4962cf9141fedd04502106bde7cdc1da758b5f523f45481ebbb63
+id:alanweinkrantz.id
+
+tx 8cbcda92d3617cac588fd9e26685805f99911e712bd3b90e5a83b47152d81574
+id:monsieurromain.id
+
+tx bbb5829722d24999ffddfe6b512a64d2aee9413ca60234b16d2d31a3e9107862
+id:marieannepioger.id
+
+tx 07670c2a07451687a83f5defb3347de3f0f9a4c16debb199b1ed9a0de8a3fc51
+M^ASCRIBESPOOL01PIECE
+
+tx 1814a1fa1a24547fbf68d2f51ddf25a73fff95fb6c36113753455fa674642d38
+ASCRIBESPOOL01REGISTER1
+
+tx e9bb801e98c0751f8d9c9f87d0d403dadf4e1cc708e88cdb9325d99708d2bbc4
+M^ASCRIBESPOOL01EDITIONS1
+
+tx 893280ea42c8b260dd19da5c7aa89d40ebd786cef1f29e79c438733af802c3f4
+C5FBADAA3ECA5268AB71BA65B47483F6A9181CC1
+
+tx e0cf4e5998938f237d6a88412004106e61aeca9f08b3493d2412fb67b1e083a2
+id:nkorboulewsky.id6;I
+
+tx 30f56e2693d33e20bd5fcf0116a5f8587d3a7cab32011cad5814b7f89b75ee1e
+id:nicolaskourganoff.idE
+
+tx 1fe3f3e3c1f7c2e2e3b86cd5176387352095b01c82248dc86eb43a44fd51d5f0
+ASCRIBESPOOL01LOAN1/160206160208
+
+tx 7eac23c6ae7eee9b23edd375fd5e611b3949c5464e53bbdacf433b1e24d5391c
+id:globesinger.id=Dd?
+
+tx 810b49883b5b6fbfcf72fd11003fa317e47b77a50fef98a61699b366896cab05
+id:odedjuniorlavie.id(
+
+tx 3b6c71d18ffcc0e5587ef96d4ff5d5ec5e33be256efe15bf1e732096b64c1337
+id:baptistesimon.idHW
+
+tx 78cb9dc3ea81916ba6ab730f4305bb1cd6a720db52fb3ef7aba4c7d0a9efd23b
+EW just use eternitywall? I LOVE EternityWall! I CU!
+
+tx 209f29b578693b3b58052786c67ff565a6af4801cf18eb90524b1082d5514746
+JAASCRIBESPOOL01PIECE
+
+tx 1f4c6a63a137f20e4e076b82aad4b0baabf8d468b3946a49963f143bf8515977
+JAASCRIBESPOOL01EDITIONS1
+
+tx a18b4b65881ad8d446eb04b0988bf2958ce740c4ab93d4a38057d109e6bfaee9
+JAASCRIBESPOOL01EDITIONS1
+
+tx 822f383d697815cf4fe67792eb0a2917bd48c1b24d8a1e4be3fae7930ed8a91d
+ASCRIBESPOOL01EDITIONS1
+
+tx a9fd73b7b753c3c5ea4af1fabdf2dc030ca12167cf14825b68636320cfb95b95
+9AE91CCAAB4063102987F211EEF0F5CFA68AD7A1
+
+tx eae1d957733cdb2a24f907ef038c75d9545a3c28240ac0a7d6ca517108ffadc9
+ASCRIBESPOOL01EDITIONS0
+
+tx 28ded8fcec582dc32590ce3b25e0200e9d7f7aaf596726d79ad6559e4a62a9ad
+ASCRIBESPOOL01EDITIONS2
+
+tx 12a361f91aecc18ebd060ebd121f170a92195e3bbbfecbe3887057be988961e4
+620F68539E39E818E74BCC310CECD04D7A7CDECBy
+
+tx 6e28ab761d1f063a5257581674446845782e9c1f997a316d07d9e2e1d351e95d
+32BF0248FBD5F36782D49C909F57C8A809C82B7F
+
+tx c56c852408e9123225500eaecfbe9a881b72252a34f71f4e212d010b907d5730
+id:aminaboumazza.id+
+
+tx 586bd379f64e3c297744749df6a872d4e70b180745fc32851b603cd9eb640523
+id:romainpechard.idRJ
+
+tx f30b65b247a78729fd8c2e0240646d1ace4a475037c40c7055077271734ecfb0
+id:lstepniewski.id31C
+
+tx fc983aee048c60d708d9fa5682af6dfd69d547cdfd89f961034bfc047424a5fa
+id:olivierfelten.idoR=~G
+
+tx 2406fcff436ef32a471dd09a38fac4a9fdfa91373596383bb431196812b74443
+id:jeanmichelcros.id
+
+tx c2377a9bee8ddab03fcfdaf111ee717ceb1c9ea2c776cfc81290fd26bfb08f0b
+id:artyomavanesov.id
+
+tx 2ac8178a0590faa2d45371ee1a32ee4812048e91af013b07965e2d9a7e8f3af4
+id:nicolas_verdier.id
+
+tx bb30ea2d6b6acf391ce2de87ae4c5614dbc557d95814b0f3f508a3c605405743
+id:eric_vangrevelinghe.id
+
+tx 5e06131feea404ce17c48ee38ded202db77fb7446401cc3bfa9a15d344a9584b
+
+ASCRIBESPOOL01PIECE
+
+tx e450f48b2c903ac69b2b42d34ae28915fc6bd39934b7a5412060abe3bd9e2898
+id:meriemhafid.id=Dd?
+
+tx e92ced4343b6c8f8f2583a5e28a234f5437a3533b92638f378bc899379d30e8a
+id:kevinthenard.id&O#
+
+tx a791499c36d0e1a70039966b31caf98a17452664af1085f726465beb1db9a1a6
+id:gunthertessier.id
+
+tx 5a8717614c7fd27b116a818d799235d820f005df02045368707648a36eb62243
+id:sebastienlascaux.idlH*
+
+tx 9a8c205363eee7e5a2005219e7283e32118c9501890778f27725799479bed811
+id:christopherousseau.id
+
+tx ba4610e6d3e89e33ef3e20794f439d958e1cd13d59087518b59a305e2f347fdb
+id:maximenicolle.idB
+
+tx d930d212db8f4b8402d854c0f5e880051ee6d34fd33760c5324331b481926c66
+id:thesoulkitchen.id
+
+tx 7a1fe978fd5e517a48ccd5d29cabf10a4a524b6c88930eff554355042cb2c730
+id:lesarchivistes.id
+
+tx c10f7072c1a2e99ef2d317140ff69f65ca27267374f25171ef08baf6caa47624
+id:gregoiremartinez.id
+
+tx 8abfbb66da1befd17e1cf83634eb90fbe60696b0cd9febea2b3057d7b9a4f87a
+id:alexandrealard.id
+
+tx 4de114a0657010fadff18215443b31e4977eea2980e2a99e047d40fd571c6d1f
+id:patrice_serrano.idHW
+
+tx 613353a4f735ea5eeb64631891116c228600615d7fa926064b53880789ca540d
+id:franckpommereau.idt
+
+tx 9b56853f4706aa6123ebb1497fe050f2ab616bc6cb67a85b441a349db140996c
+id:julienhannedouche.id
+
+tx 9cdda06097556a96f44ba0db8cdc6a9130edfb05719df3f4e87b3e07ea232d50
+id:julienschumacher.id(
+
+tx c41b9b0dd626e503af59c4adbdb82baf2f666ce206f9dc4019c486d62389dc2b
+id:stephanedelaune.id
+
+tx b6429667dfd8738d349092f289ab63de987109def4f6fd44bf2c81d7d249dbf4
+id:gastonpowered.idW
+
+tx 898fe7b4408da1d22c12221177e8f70f90ac0cf63091be6b56e35d0d26741aad
+id:anachoretique.id<'
+
+tx f90832b62df693f8ff4485f165492ec65798a0f171b50ac82b1131a23192e2c0
+id:benoitgeorgelin.id
+
+tx ca9f70a5908eb178759862e7f115eb5e5fe99217e1189edcf1573e49d295ed63
+id:patricialabelle.id31C
+
+tx 18ff4b8340db2aa51bb674215a6bd72ac8613cb8b17484982066fde604f0e077
+id:bzaslavskytiriel.idrF20
+
+tx d66503ffc5c913db2afcdb773b5dbac372f3e1c7c3be01d29db5e12dbad99332
+id:olivierjautzy.id|
+
+tx 0e1b56fe0f60272c061442fa8c4c90ca6ee0f2a9cb6e55b78019e62ce1646f7f
+id:tsukasagenesis.idh
+
+tx a250c26f03800d56cddc9925aa7e724a6f0179d7c994b140db2c90218b96c020
+id:pierreabruzzini.id
+
+tx ebb3ce1333b5ca8fa789dc186334230a25d347985f7e4a9fcd9520cb2b1cb6e3
+id:ghislain_putois.id(
+
+tx a350a1cf74654a8f4062fff77575893948f56e2b65ba511e63ab86cddc38e97f
+id:capucinecousin.idoR=~G
+
+tx ab724b4a0d308216d59d4a798d7e35eedcf6f2c194721287bf4a809c09faecc2
+id:gaeldesmoucelles.id
+
+tx 655761b1bf9d8833ef98ea7167b870232f65f77d52aa46ab46b2e211916f6580
+id:matthieupatout.id^
+
+tx 91d9ef9c54726eebffe9a1643acb6d57265a6b2427d7aaeabdb7ea2cc0f698cc
+id:maiwennbourdic.idlH*
+
+tx 70891217b43229d4f2ff20c60d580cc917fb3ebe306ea5a530b2ca74f6ee2627
+id:guyofyourdreams.id
+
+tx dfdfcd845de0f33a3bc73667504d86a7bc480a67b08c150bfc0409d7cb9234d7
+id:emmanuellebdc.idoR=~G
+
+tx 9adddd6326094b7fe2046dccd0411ee15abd9f5dc339ab574a2cf4dc526f0551
+id:regis_leguennec.id
+
+tx 61620364d21270dc717ec0f51fb869a7044aa687a3715ec3ebca94c9329dbe06
+id:nicolaslambert.id
+
+tx 60723f8628c97f1b2f46c52225136963519fe9c58311ce73987b16c266a58680
+id:raphaelpiedallu.id+
+
+tx 07d6d3d9f082d00579751f53fa9dc09499e380b10948f7a6823b78c20554c773
+id:benoit_lafontaine.id
+
+tx 9b2eb1094de1f703b7832e211dbfcfb0c464d5a81e05844bf2accf1e4e120eee
+ASCRIBESPOOL01EDITIONS1
+
+tx e591306b402d79f06bed8198fe7afe783ab813fa43bf600113915b910374ca0b
+ASCRIBESPOOL01EDITIONS56
+
+tx 623f49c37e30af575b82ad9b88005b52adda94763de11461da0b9930c00cf9eb
+id:makeyourquiz.idRJ
+
+tx b4f770dae59bcb9a60c1d867b9dd7fe20509347db12845606113364295dc55e5
+id:gregorycoste.id+
+
+tx ce6cde84c681981fbd915eea1e38a4fc04dcec51fe78f05552eff869665f541a
+id:manutudescends.id(
+
+tx c52d79f5e90582f330774287c50d095ed9847b7a3f52024e1081bb97910e1265
+id:josselinauguste.id
+
+tx 1ac56cc94d5d129e7dc6b8e4dd1fd42ee6c2046d24302b926faf5c2c744542e0
+id:guillaumechevalier.id31C
+
+tx 5f6c5c64fdfd42a077e068912cfaf31d2c3a6d0a41b4b8b2e26881e037449be4
+id:eric_mariacher.id
+
+tx 880a99848c9810d5341c06007f926bc978486b1e9c9bc0da92c3c13316b24736
+id:mathieuroseau.id^
+
+tx 6a022fef58dbf8f63106f0ee6775cb7791a9b958ca1eccaf63e192c4c673c1a2
+id:pocketpcandgeek.idF5
+
+tx 1c4a0a399c0705e24ee93b0471def653e6c661a8678bc870a135d0d16d1189d9
+id:angiesweethome.id
+
+tx d24271efb52faf84d9fd71e2606fe7587aec783b7629c4ffff29405a5c27fab1
+id:guillaumesoulet.id
+
+tx 2f924b8d28b88e86b6c01b19323b1ba959eefec1f2b0dacf1a320ad70bad528e
+id:severine_thery_perez.id
+
+tx b8a9e8424a267a683ab06bf7ba99530d281c23d40739f545f56da7f38ce085ed
+id:baptistepeugnez.id
+
+tx 454706a388e8c8a7b3055e1089d98a77074ced0d6eeded235476db71d7c5179a
+id:jeanbaptistebernard.id
+
+tx 1742158bc5d8aec919ac76a0a6b30f8e558f8951e0b374d7d48b117c50cbc643
+id:etiennesalmon.id31C
+
+tx 4768b41f5be6cf0a49f298a26272039bae69c220bc000b382be29923a91f4b62
+id:nicolas_rollet.id+
+
+tx e728c9786ab3b27dff920d88ad404a977cb346b76918714b75efdc0f418cce4d
+id:fredericbruyere.idt
+
+tx 1f883512638fb52fd2d945c5faa3a1332cab3251dd24f7c9c051a8605a0e7f9c
+id:mickael_launay.id
+
+tx 7e8b39eb08f90b348c2f9618f53126b32f544baf5a2a7562323db9d450a5330f
+id:benjamingrolet.id6;I
+
+tx 695c2e86f9fcc7cf2d9809f89aaba7d2d8c32e2f3fb9bfe6fe419f9949033897
+id:pasdepotpierre.idRJ
+
+tx 6b0daf90baac5d354757e1d6385ef4935a47d2f18b6f9f27f21bd04143a529b5
+id:essig_guillaume.idE
+
+tx 459b01fba5ea17ef68cfa021220df24a6e3f5f7dfe187c7837d68ec0b4abd755
+id:alexconquer.idlH*
+
+tx 4add67e96fa6e0e1468bdf6deefb863fa4cfabfcd4f749f56adf0805c250edcf
+id:pierrebedouelle.idF5
+
+tx 74c5a678b85635b9a4151f8f03d9dfdd11a362e6ff49c5da36b85219c1043aef
+id:aurelienroussel.id
+
+tx 858bd7b6fc33ba42d269551e9f1c4b9715b6e6145cd8b2da24d81ae466f9d5f9
+id:thomas_bernard.id
+
+tx 22824eddc2698bc562735d805c25a742605a4b34b5c66d8887fd521e5d72584d
+id:stevevuillaume.id
+
+tx 8add66d65ffad0304f68cb82510f0e84cd09c98d872f173dab59d2c726a4f118
+id:adrien_fillon.idW
+
+tx 9beca7e4af37b4e06ca8f8999dfba2c59869f26c4a7dc990de7e68f20bbe0a49
+id:guillaumebabin.id
+
+tx 589d6353eef061cad7ec82579fe87e4536fab0968affc216bbf3eb8f2b8db9ea
+id:sebdancermichel.id
+
+tx afece2434a46c69a58aa95aaa0ea7fa6c632b931c42025cef0af7d96b92c231f
+id:yannletourneux.id
+
+tx 1e3407615eaa55fa7bd6caf6fc0212e758145942002151d11e59b73390a6aa59
+id:creativejuiz.id6;I
+
+tx 1c41708f7cc1a5d14bd6939a862e892eb73ca5e0f6c1089266075715c4d4d420
+id:sebastientripier.idF5
+
+tx 0b83c4c59ab207dc36c82df5a30060987ae9e3f454eef6af5803b8ec7f2945c2
+id:enguerranouvray.idu
+
+tx 68283f4927b58df58abfeebaa7687e6c9c97d12a77d71f3b47c4bf14f75fa359
+id:emmanuel_bouillon.id
+
+tx 87ef00846be7b62cac100495740b18afa41c7fdc367128a59384b4aaf7618197
+id:bastien_girard.idh
+
+tx 757a235596029e1cd2b8ccc9393e17e538dde3c14096701a400edb38d608bf55
+id:benjaminpetit.idE
+
+tx e588bed5d603f1fef7b42d57f9fa0f0120e200b020cde59e55784d1098761d9c
+id:emmanuelle_duquenne.id
+
+tx 5af0962873450808f2837597f2455bc083ef592e44692467327913b1d630407c
+ASCRIBESPOOL01EDITIONS25
+
+tx 2a09976369efbd7835600cd0ac5c9ed4fa5b3ea8ad10107d27d79a9f4d74e0f8
+id:irsloguillaume.id
+
+tx 7e0a5c55f1633a219adc6929bcd897dccc0cff0f302695894384bc67418036f7
+id:patrickchareyre.id
+
+tx 2f5ad938d1d1e88fa9207b3426a6f623b9d8159419560954f8892e4a20b3aeaa
+\ASCRIBESPOOL01PIECE
+
+tx c7e3a12eb02faa5cb82dfe28c79a6b274240ec99471de6f95386a40dfd75c8fa
+\ASCRIBESPOOL01EDITIONS45
+
+tx 50b1c719bc5f53a240d4239c5b2ad2c75a5eedf069299c5311ceeab56d426735
+id:sridhariyengar.id
+
+tx 1c74832fa01d21ccdc67ab9b03963e77ffd3a52dc71e0b805dd835adcabeacf8
+id:santiagocervera.id
+
+tx e4bdda02b6c21dfcfe8456fa59567b00e661dcf8cd6155082bea9ac773c3dfd1
+id:guillaumebaratte.id(
+
+tx d0e912367805c8818689a33d3604ec998a5bdc5a9589519c23dffff1703444a3
+id:danwissinger.idw/
+
+tx 1c7d09cafb73b33d72fa4b5ac2502e0b0695dcb0e54c455e925cdbf9c66e82fa
+XASCRIBESPOOL01PIECE
+
+tx 2b258904eb34b3e21f79a05c82d29d20e1dbf5720af44e1bd8aa89fc2e2197bc
+XASCRIBESPOOL01EDITIONS32
+
+tx d6a341078df40fe7dbbd91cbd4dd9cbb431399090aee1dfadbd6f5d1578f891f
+id:plantanista.idoR=~G
+
+tx 4673fc1e7c101648a18726808088b9d24a63340150ab95aed5e9d70d715852c9
+ASCRIBESPOOL01EDITIONS1
+
+tx 70ef727ab361dd9c2d6f25a07330c958d6a656c8dfef9868d5ba7fd47c9da7b1
+id:garyalangarcia.id
+
+tx b8f2c672be1bebc37cb9536b9a139c0a4a2e92151b8302a7421818cd2065d0ca
+id:julienwrichard.id
+
+tx f53f0e47eff979f1178909646ae868125e101bc1fb06dc2d669385eb8061cdba
+id:vivekkrishna.idHW
+
+tx b79b374b22d0cf64337fdbc2ecb8566f7169f0fd95f7e5799fe31c49cfd56120
+id:theguywithideas.id=
+
+tx f5d89b3636461024ef4e2dbe8268911474c057d7fcd47c6a456689c6f78f9666
+id:vincentbouvier.id&
+
+tx fb1e0d029daef7711bcf9bf4461109ed440c8088394c73a07a237402e1108b18
+1619-13164-13190364-53-aw
+
+tx 5a89b45a3b1f2cb99e271b3f91880e776e6bcb2895d03ff5e3c1117ab54a2295
+id:hannahdraper.id6;I
+
+tx 4274265092b653081b27087a5f6047ea24dc73da92e602be1eb441266a711d2e
+id:abhinavmouli.id+
+
+tx d96c6562ffa067d8331af9238b1b29f63bd30e7b0a04063c225e91854d9748d5
+id:fabulousfabz.idoR=~G
+
+tx ce90b7ddf91540010ddd62e32c993cb2bd66b63f32b818bdaf073f18d3b0b3da
+id:julienpericat.id<'
+
+tx 91b1db164dd1826a05a7ea4944e5cd8436cddac6868f11b9e53782d8c602ad2a
+id:georges_plancke.id
+
+tx f215d25494d9d1aa76cf23f270100725ee2648fc673205a7ec50d9347a18c8c9
+3HASCRIBESPOOL01PIECE
+
+tx 4e2b72d00c7ba68aa7d0cf0257e409325ea98261f65bfd64706527ac014a031d
+id:brendanbignell.idRJ
+
+tx bfa9f66ce4b12b1d39a58b4ffdab6efd904e2f93f6fe93529727ad39a5506146
+id:adam_phillips.id`
+
+tx 4093272754b08241922255cc01514d656fd12f2220807c9c27f9a3efad622ca3
+id:thelostemperor.id
+
+tx df60a81251a919aa1eec1961b471e3bf89c3282b8d5514459a692e72a5c237cc
+id:cryptomonnaies.id(
+
+tx 8cf9cbd509abdf148ce44b46ce1e1e23e6ddde2b616fa061f5e36483894d42bb
+id:binaryfootprint.idHW
+
+tx 40896b291005d8bea561a9329fa298b3b4b9fc12ec2e5f6b693f902bae6dc77e
+id:robertrajkumar.id1^
+
+tx 30918a9e2a6a2f3c0ced608236ad775fb034de5fe469d745d6a6c56822712142
+id:bharathbevinahally.id^
+
+tx ea15e721124cea205072b4700dba961475dcd4e571757ab6457772bac1a2143d
+_ASCRIBESPOOL01PIECE
+
+tx 219b2447c25fabc49b7b58626189de9b78866f9f8dac9d65d8b8facf98590dee
+mASCRIBESPOOL01PIECE
+
+tx 183c04b07c68182085bd05c956aa8b2ffc79243b87b600208561b66fbec23b97
+!ASCRIBESPOOL01PIECE
+
+tx 6d6451e84b5f3c2cf5cfb5f854dde4c3d328d485bbe22c08068cc3eba6aafaa9
+_ASCRIBESPOOL01EDITIONS2
+
+tx 3b77d10390901225a949744e5ac910f6fd8f2864ca6d24c416259d862fe83063
+!ASCRIBESPOOL01EDITIONS2
+
+tx 508d8773675b04ee5c8aff91b5598dfc6acac7f2968e90723d1dc2907448ff21
+_ASCRIBESPOOL01EDITIONS0
+
+tx 3f0fd83c18f4d9978b06b1a4fc608733a80ecaa4ec723f582c18c6e1c83eaab2
+mASCRIBESPOOL01EDITIONS32
+
+tx a542cf7ecf80f3a5d2ab0fdff3cbf537676b8d202018fd3f022a31f3ff3def27
+id:beniflow1.idoR=~G
+
+tx 2de6a0cec0e4fae1ac2467246d0b93b9878ab15d0db70fcc42b6febef7415c47
+id:sankalpbatra.id31C
+
+tx 1ff7ab3bebf88d07d11d8fe8bba4aeb8f9311f5eda32d9673d888602a3c2df3a
+id:robbiehanson.id+
+
+tx 3ea96aef07a88779d0f43b4d3757ef1e1e6378412f72e9c713532fa59926e62b
+id:sanderboschma.id=
+
+tx 6ee9c476ef4fc23e8a365b0cf5d657fab8b118786d1c0047d1efcc4d54ae18e9
+id:farryaprianto.id^
+
+tx 126b744b14d0593acce6b39c006601d0a4345cfb1b8e9736c26136c496f351b9
+id:josvanotterloo.id
+
+tx 921af5bcd1943d2e386e6332466ad62724f5b8422e0d1176a5930987b85d5561
+id:epiphanyseeker.id
+
+tx 43669d297d1483bfdc475279864851d6fb91cc526174f47e957eaf94248bb303
+id:yohanes_damian.id
+
+tx 58cf8bdd262407aac836df75a5e405648324370df6af50377e3534e541571532
+id:guillaumelecetre.idF5
+
+tx 3b1cb58de641b00ec910918138d6ced91c3b4cc2c5cd2c762f04cea92959be54
+}olASCRIBESPOOL01PIECE
+
+tx 29975ab173748172d33fa5855b7e0a8b56e4f8a3c8b2df345c258957c392be29
+}ASCRIBESPOOL01PIECE
+
+tx a4c2c2ac30e90b835f59bdcce1eb7cd520441be80b74077f73f13286fad73a98
+}ASCRIBESPOOL01EDITIONS3
+
+tx 5fb144f2340cd41defb38d6c5f2d4406d1eea7d17c07bbf84a4006483ddd8a47
+}olASCRIBESPOOL01EDITIONS3
+
+tx c367460ffb7ad9b59ed981039131af1ffc5ca29098bfb13578feb76e84119cb2
+id:robert_balejik.id
+
+tx 68de209998970983224ff08906a076e46264fbb5d841d7d0175b30c2318c39f3
+id:abhishekkataria.id&
+
+tx 6234319d5edd483ce39016d4215c8c4710072ca7cb39ab7afcff5178126bac80
+b?ASCRIBESPOOL01PIECE
+
+tx 21eb9954ec027d93e63f4365ce594c911ee8b05b577b95ad4c01f2b01eec7751
+;oEW 7 february 2016 signed by M.A.H in Marbella Spain -BTC price $378
+
+tx c42dd8070c50b9ce1bdbffeb6b1db0b584cb342081b06112d2795dd601cc8510
+id:hopeandhistory.id
+
+tx 90defa39c8987961c3f6eee470ea35f6dde33c3da86589726933260a76b6b658
+id:darrenhamilton.id
+
+tx 78b86ab83415ab0df04b778700d64b4293048f36d15ae1a476b46018bf6af331
+id:jochemdavids.idw/
+
+tx acf6fffe7f913f2c4f8facb7a4bfc84c415973ac5716bd51601833833b766bee
+id:praveenscience.id
+
+tx 0685960ad3e0d3a497174be9ca8526bd42ee1c215261f6cfaa4fc24ff41a0739
+id:balazsscheidler.id=Dd?
+
+tx b999e5befafe35a1db090cdded4184de67bedbe4952ffeef806e028f9a331abe
+id:davidcpires.idoR=~G
+
+tx 55c438e508f71678decbe0cd113ef359792208dba3475fbef30007e96c53cf22
+id:gopalkrishnan.idF5
+
+tx 650ebc8fce7b118696d236dcddf3be2d1973ac92fb48659b1932ef40947596eb
+id:hazardousblock.id
+
+tx 10125ef8e6d1cede5c2898c1ae5f2b9db1ecbdfa7e7c2773ca49c55d928251b7
+id:sebastian_thielke.idu
+
+tx d3f6e46065641f832dfee9b6f9bb6b79628642235e7d18d36e4a46a087e48307
+id:1nonlysushanth.id^
+
+tx 48217b5fa46579d77e032b159c1a6036ddaa305d4d42b0f9255211a5049161c7
+id:andrewdavidwong.idrF20
+
+tx 9147e9318c95e4ddbfe89b0b0b68cc05e0d38bfaba6c3d54f00a03c9050351ee
+id:dennisvandenbroek.id<'
+
+tx 18ac9eb42ca0d44d08c5acceb031193c21ac91ab75b4e7222d4f170dffd0aab6
+id:midoelmelegy.idF5
+
+tx a5eb2d390fcd3b5de94c923d64dae23baf403ba4cdefa3fea63bffc2ac5bc2fe
+id:vinodhariharan.idt
+
+tx 18dd48fb9e536a3c5cbb3419b27d4704264321b7eabadc7a30631578aeba423b
+id:avinashmohanraj.id
+
+tx 7acb01685d61d67eadfcdc7e5945bd0647a160a87cc4b7d4d7621f0704badd5d
+id:jmaerckaert.id=Dd?
+
+tx cbca22d2aa2ebbbc9a3b938bc5c06bb9cda7315993d6bf62cf2a0a945b3c4d5a
+id:gabrielfgularte.id
+
+tx 925534d74cf7c1eda0ac52f2dc865f3a57d2055a0a841a1a181a3d0ce6053463
+-u=https://cpr.sm/_7HpisIds-
+
+tx 1060c53d9b58a621be2a70ece141525bf61f819b9d85cfbd27dc73edc2557b4c
+id:maartenoosting.id
+
+tx e21d301a599e4276f3772a3e9ff60f35046142266b4b0901113f00628a27b697
+id:phani_chirala.id
+
+tx e4eb8b128d13820ebb128600298f3a2162aa4cd5b0dee601952a31718be025fa
+id:janine_crademakers.id|
+
+tx 1bbc8e3353adadb7eb62bd0b6cda47b03951200d85aff30a5096e810ce7ccf2e
+id:michelvergeest.id
+
+tx 0be7d15601115b10fb3fb6b7bce6765d68562b9dcebd774f011cc700ac052245
+id:andrewwong.idoR=~G
+
+tx ddd9560e9eb00d5e71e972d6df5982ad5aac6e3392633beda9473b34b3a0e7cf
+id:alexandrecrenn.id<'
+
+tx 9b53028d3029588d9a5add06b88e32fbac35c43028fe6630564500fb76767dea
+`ASCRIBESPOOL01PIECE
+
+tx 745f4581d0945f567b62128ba7817716d4efba5d44f7e642d2ff070fe39d9581
+`ASCRIBESPOOL01EDITIONS6
+
+tx 94dfa12269cbaa098bde4ae5f7dba7a9f5325cce919e94190dc0f3ae3a9de6b7
+id:eelcoanneveldt.id
+
+tx e8eb817542b642230bef0cd2a705912909a9b18a6fceca53f7c886746606a4e7
+NEW Hello world... I mean universe!
+
+tx baa11f40d5163889d74d7db6bde557fa68ac8f576e26a128166d327936ca286d
+id:machielverkuyl.id
+
+tx ad31a2783b7f6570cad8055c455a8508fde889a4193f56485541e0db58c57fbc
+id:koreuslevrai.idrF20
+
+tx 9b9f2a418e1c6eb164be6e22bce06ca7d7c2a95e8c3ba0063d271f38cf92061e
+id:claudiojorge.id<'
+
+tx 2610041c49fc6ff3d21c38e029060341eb0dc87564665305f0fa0869d61a1786
+id:flyingmonkey.id+
+
+tx f2fc26aee4174d6360720b69217bb38f9d4ed18aed852d07785c46379bea4730
+ASCRIBESPOOL01EDITIONS6
+
+tx 6f385962ee46cae59af03d6b41ad51c3303b4395c7edf6b2bec700814bd35607
+5ASCRIBESPOOL01PIECE
+
+tx 29bea2050ad3740f1f5179221937cc6befe9873750dec9634a1235e02ee6af27
+TASCRIBESPOOL01PIECE
+
+tx e9e97b0f6ef2dd3862414bbfcabba1de43d8045ed9f0fc45e32ece0f2db67468
+R27578757732 - by Sailey
+
+tx 83f5ba5d9213be862b601ac62a004b0d1178134bc1694e3101165d05a4a9b33e
+R22497129459 - by Sailey
+
+tx 592ba90d011dfce85746697a133e929d551d9efd648fd7644cde2d454c039f12
+cASCRIBESPOOL01PIECE
+
+tx d5e04389bf3aa2cf990aaa200b6d5b017d03f90b22f763bf8424c142907b68d3
+ASCRIBESPOOL01EDITIONS2
+
+tx f9937460458e65be70772bebfe0e94471dba25973d8b9bebff14b6b18783dc1c
+ASCRIBESPOOL01EDITIONS23
+
+tx b56eaece559b755f32acb34e297b2e1d4e9d5335883e851bb01ed02653f97b58
+/@+ASCRIBESPOOL01PIECE
+
+tx 1617a0f5dd25087e3e8348993ea970d8ef178ad4d4a70450dbaf716bfb85dc8f
+hzASCRIBESPOOL01PIECE
+
+tx 39114f760ad9da80bb90529040037b033d10fdd9f01a6b4c312c5b61ffd5d5da
+BASCRIBESPOOL01PIECE
+
+tx 9f9f522b1cbad0c39b82066ecafe0a72b633e43c835b51b883488baa3d8f3f3d
+YASCRIBESPOOL01PIECE
+
+tx 0b534efb66fd1b5c8ced934df891b2a1b193bc588141abaa4687ba58e36684d1
+BASCRIBESPOOL01EDITIONS2
+
+tx d76bb77c7de93d4e199dbd30095088b034d6d89df3a75bbc4208729934741f9c
+YASCRIBESPOOL01EDITIONS1
+
+tx 932ae3165de37a23eaa384d7c8eebe486efe6416b2db4bfd68aa834c16248dc7
+hzASCRIBESPOOL01EDITIONS2
+
+tx ee2d7d4443c18479a7def9e4cf7ad6e29726407795dda7ef92232dd58889da29
+ASCRIBESPOOL01EDITIONS4
+
+tx c6fe0547f3720ab440e42cab2d4a7873575fd5c54aa6beb126da97aaa6398f75
+EW 0200000000000000000000003b78ce563f89a0ed9414f5aa28ad0d96d6795f9c63
+
+tx 398f393ff6c4172dd4abd5a65d77fd682386a1057164e85e564c56af4050185c
+ASCRIBESPOOL01EDITIONS4
+
+tx 2fe4c077603b8228e3254efe3f26758dbb5f166c17abde817ad215a25f22d361
+id:adarshradia.idoR=~G
+
+tx 81598336c48f54c2fc8fe3ec3adb49c54b6db2d4dfb3cebbce21b45a38b84a15
+id:georgesammut.idw/
+
+tx a7047a77bc188dbfe9572b96780d8324c0d44a0e880cda48ff0f6b1c44b7455e
+id:globalcitizen.idW
+
+tx 9f4f5cd5643d709f2b1a231eea3f63d9e9154191d51f345c6adfb2e3f275c9a3
+id:edwarddenouden.id
+
+tx 1a3b7be9406ef95bf63da24914c7d7e8c052542742e377fdc93eeeeaa8b0a0bd
+id:sat0shinakam0t0.id
+
+tx 0ac1613d832b8ab2527a24c76126563efa1beb9eaade412933dccb8fa328e380
+id:alistairhannah.id
+
+tx 3034cef35e944d79b133c082cf51a7a4eb5e4ab05d473213f88e8e00aed2cdc3
+id:jordandanielewski.id
+
+tx 3c2bb5eede47e3c94736d3303f72b26912427353d5e117b3af4e79b0df3e0f9e
+ASCRIBESPOOL01PIECE
+
+tx 6732f750bddab3984a21092cbfbae4b300ca21f8bc2d5bccbb3e84fcd2a1a9f0
+ASCRIBESPOOL01EDITIONS5
+
+tx 6fd1180b8b444ee7363d4328518b1ea450347405d0a0e8c31c98ec8de1639f5a
+id:guillaumelasmayous.id
+
+tx 50414e67a136cca1f4fa367cd319c157e7c188e3c0057a7b276a7a1fe7cd7107
+52ASCRIBESPOOL01PIECE
+
+tx 53ff8abc0a21f626fc2e8bcabd3e5903bd61559037b49f6615b865ce322fa857
+id:andresmoreira.id&
+
+tx cc24fec76a3ec5c756566263469cbc87080f293ac75ec941e6445682d5860c92
+id:raphael_veyrin_forrer.id
+
+tx b6a421d8693aee91611900bb318a7cb76de84c428ae1b2117d9eeb2598bcc6c1
+05ASCRIBESPOOL01PIECE
+
+tx cbfa349b85521715e3c0160056de2c281b5c2a25e49a582ba7afd06f32b86ef3
+lASCRIBESPOOL01PIECE
+
+tx 69819b14bdd1be98c0fe3eae73fe9111b3e067ee157c510b5988c98ce653e98d
+ASCRIBESPOOL01EDITIONS8
+
+tx 4af469c00628ff0fc5bcb4f51b8b073d473d2b9832e9d0cf53b84ce07282a0fc
+id:snehavaidyanathan.id
+
+tx 088817a04bc0cf3859e04b4c9181cc210b7bf1429f068e71a390216bed307b46
+vASCRIBESPOOL01PIECE
+
+tx b22aca6ad95ce8d8ff2f33b55de543f318bbee8d85e5297b3ae74e3552b1e9b2
+vASCRIBESPOOL01EDITIONS12
+
+tx 8283d19f7864064cfef0a61ff7b8cc49c8b3beea0ba63a517aa78d1bec1dc796
+DE4F12C3AF942F9F812C3107E8C751509FBA2F45
+
+tx cd4bc0fd5a2991c7d3ce1a75edfa7e4d50616ec4b98a1b9e7630f0a1fa856e4c
+id:philippedorier.idh
+
+tx fa6a11f0e8e3641557413f98eed527c46845dac363a89191fade7b9749f274e1
+id:rogiervandenberg.id
+
+tx 7d1f79a3ce2f57ca4fc69c36725740925ea17627407af68a0a61a3ecf0b99fbb
+id:ronavanderheijden.id^
+
+tx 07f4f43e9b90bdff141da6775790a26e89385bb3162adf0b618102aa1fc07c8f
+;kASCRIBESPOOL01PIECE
+
+tx 141d319dc261f926d93fadeca7495fd3c7ad7ba41e0a71e3cf55951b94fe6cd4
+3SASCRIBESPOOL01PIECE
+
+tx 56e9377036c92e1df237b0dcfd144018738f0035957f1e4e3cb8fa75b4b87e1e
+WASCRIBESPOOL01PIECE
+
+tx 1e339e4ee10491850e01dd7ba36a3e1ca1f602045d2d019dfa0b2ca14ba8500d
+;kASCRIBESPOOL01EDITIONS2
+
+tx e5a1d99a91ff0d769bea094d71099925fe18c3df76850c6d0b31a68a00c423bd
+u=https://qwids.co/a/eakNB\i
+
+tx c500c491f716183f2e9146918e273e038f1a27d91b5796c79924b6a6baa2e489
+id:thevapersway.idcX
+
+tx f1342f1af6a31240c4febd789166406c534ca6c5a2ba20bfce6853d4d86be9af
+id:discount_store.idoR=~G
+
+tx 86b08699d9518cbbd67437588529703d352535f1baa501c93d2180248ce8a3e6
+id:johnblackmountain.id
+
+tx 428a55d34de27c60c1bec5334f4552e4519bfeb37dc1aecd4e8aab90e9fa1448
+https://redd.it/44n1saw
+
+tx 70e0bf962ea09889f305ea997265a60b56fa7b0e5cead91dae1ac8c400eee8c4
+i1|01|909481203981209|1454860638.46|vU
+
+tx 2a517a076128d6bb82685ff071701b7448a8ee84abfeb98d0d59c01902c33aed
+i1|01|909481203981209|1454860638.46vU
+
+tx 71f9f390456441ae9add2111a4927011aacdb6dc39bb0b58ba68b4a211f925a0
+Sunday, February/07/2016 - Signal for today is 0 % BTC / 100 % USD
+
+tx 3e942b4a2045abed06b8d0bdcaa3c2636891542746badd957f82d068ad486be4
+id:michaelneville.idE
+
+tx ce630d0098f7e5e06a503429cb773efc5feba1dd60d2409ceb2d2f30a07fd716
+i1|01|909481203981209|1454860638.46vU
+
+tx 86e66003560e0b471976f3f4ea36ad9b9041b4883e930467f07ba54618d0942d
+i1|01|909481203981209|1454860638.46vU
+
+tx 8338bbeb2bd7b6fcef645757f270a307b3a47f83e2c2060c1331c108bbeec2d8
+i1|01|909481203981209|1454860638.46vU
+
+tx 17a4285d77c1c1b3dc52f086699e52a317a2b78a2e3f91a3728c07b1b2339bfe
+i1|01|909481203981209|1454860638.46vU
+
+tx ee7629e3a4c52f578c0f039cd9f385067015538e4dcf522c9bb3e752af989ec8
+i2|01|127.0.0.1|1454860638.47vU
+
+tx 7ecea77a7f47d78a2f8d77e0ef44e98695817a7350d176dd22bca61a74aa1272
+i3|01|51912.74|1454860820.50vU
+
+tx 3e24bd61d0626579254d6310c11107e492b26a7eb5c1cb76426c19b2d596e53b
+i3|02|81242.74|1454860820.50vU
+
+tx ece017c6d377afd8471ded1750155993c2dce2cd75ebe65f5e0ed7eef5c88fb6
+i3|03|1024.00|1454860824.50vU
+
+tx 65736fe8fbff4ce53575ec152de53dbed34ce732c0b745c39f57a3cf4b0cdb1d
+i3|04|359192.74|1454860820.50vU
+
+tx 5bd978a37a3a6cd980b15ed4f267148af3e832ccaa3ed405e7a03c31ce3d07cc
+i1|05|479481203981209|1454860820.46vU
+
+tx 4832168db89d158ab11dbf15ddb924c333435e726da3205f3378267afec6836a
+i3|05|900.74|1454860820.50vU
+
+tx 92daf0d5e5f72bf119300694b55ee1f4bdccd800df5da49c2fadeee17a2a4eb4
+id:danielmerriott.idB
+
+tx 75fa93a4c1018ae967e0db9c1ce5332305a16fd2d43a2d24d81f90a885b31493
+id:afonsotsukamoto.id
+
+tx a083c9d30d73b32faa431390fc5ed71eff7c1a7df0d306118cb4cefca19adaa0
+i1|01|909481203981209|1454860638.46vU
+
+tx 91ebc97c6930e128bb187d1b687d59258d29fcb4d2b9977d3be713c48d1eec71
+i1|01|909481203981209|1454860638.46vU
+
+tx 70cdf8d2ef9d848ad44f0874265acbb8f8354de9f0784283a742ca74ffa132db
+i2|02|127.0.0.2|1454860822.47vU
+
+tx b8fa0db7a62b7905a1e0fc574314659faf4fb591a08a3fc1991a776d4f360f25
+i3|02|81242.74|1454860820.50vU
+
+tx 2db6687b33b9c498b39f3b819b8dff0b6abad9aa17856e3f58cc541a06479cef
+i3|04|359192.74|1454860820.50vU
+
+tx 0ccaa626bd80958ca9cf3106489aaef4d0555d6451f0668d2ac034f8424a4e69
+i1|01|909481203981209|1454860638.46
+
+tx b0e4e55dfaa82c7e6b5fe93d09a843b898ccf9dc38c2e5fd22dba6c633c08515
+i1|02|125121233581209|1454860822.46
+
+tx d6c9622ee564fe1eb8dbbd8811490b040907347a9e038ee8ed68dac1da878c77
+https://redd.it/44n6ehw
+
+tx d487207afc638593691ae2b9ed2b64fc7bf3542416474905d14b8cc4b62c5f96
+1FrEzk3Aaatn1gs4m4nTMP1JLHC5Zcdfscw
+
+tx 66b2f9e17d9aeafeff9fcabd9802c2139cdde9cc40652d9610c35e7aa37ba2c7
+id:nathanieladam.id+
+
+tx 41231acc31160201e04b5dc01356bdc64d95780bab4a8d9145f83ddd94bb38f5
+id:vincentroussel.id
+
+tx e50aff860954997e91c5cea0d1acbbe05fc366ae792c98add4c4306810ad3e67
+id:westcoastplaya.idcX
+
+tx 70bc0a06d1595b38844ac8d6d3848d3b73bd75bb6e9f58c4fcc0a9c89ce76762
+id:tobiasreinhard.idE
+
+tx 4e548a4d131857d470dc89b717579dc3fdbca8080618baf2faa42071846accfb
+id:cheapcigarettes.id
+
+tx 658e4a4fc00c7ffe2456eedc1a1ecef92f88914139d58ed64cfea74e8b5c2303
+i2|01|127.0.0.1|1454860638.47
+
+tx 478743e0718f983a93d9e88ee68c3a8b4501869be3e7db18a5273c63dd031c10
+i2|04|127.0.0.4|1454860638.47
+
+tx 7819907f2a8d82e180e2028c340c030811bf32eaa858e01fc8c45eb5c50d9c20
+i2|05|127.0.0.5|1454860820.47
+
+tx f65f6ab705009f093935edc87d38481d4fbfcd1c29dd657de640c3b332f8937a
+u|05|01|eng04.avi|200.42|1454864165.40
+
+tx 96c6d3f9152eb2ddfe04bd7174ffcebfec103095e16586f176601a17487f6190
+d|05|03|ps2.mp4|1454864820.90
+
+tx 775e5ccdaeafee99798227d7970a5727bd1d64b7b6109ef4a0f539c71670c09c
+"ASCRIBESPOOL01PIECE
+
+tx 4eb4197b3b0f9139455970582e4c047242731a3fb4246e52192f9e9f3bc7d648
+id:jasonpchapman.id
+
+tx 178f15209f3fa2f39d2dba2ac3efc91563ceddc866726484ce73504234cf1b90
+id:guillaumegrallet.id
+
+tx 04b60332169f231fdc34ebf9f69b8b2c1a3e3c7c7935b9794dcd9e0bb6f455a0
+id:dawnllewellyn.idt
+
+tx eeb54adaa471cb90cf8c454b49677d8b39f02d152ea49fe9e946ef3650b10f7f
+id:francoisrigal.idF5
+
+tx dfb7121c1a83cbebedeba351823d3253a39d1706b43176a5c01bfd8043d3597d
+id:alanamvincent.id@
+
+tx cdb28e82479e8275b7b8af862c0df45107a2f15b8e51ff78c14f10ec6cfb2e63
+id:leblanc_simon.idH
+
+tx 1d03bb1413e5a695d200ee0c44a9f776d57368d417e91394fbda084da501a96e
+)ASCRIBESPOOL01EDITIONS8
+
+tx 4d5cceb99170047f3df4a451da84db0f71789b316c8ab795bc3cad4bcaa7e868
+)ASCRIBESPOOL01EDITIONS8
+
+tx 03a35c2556103a213d59dd3eb0a8c25f8c766e7b7eb811df8765d3ea3ee1a898
+id:fannysparty.idoR=~G
+
+tx e910a2cda8a705e030d9e4f4c1d7139c1980f61a483c5ddb18e7cb4527b910ea
+id:philippethevoz.ida
+
+tx 49fee489ae1d482ab0f46ca035d25ae76f7ddd072d3714a4faec5012d38454f3
+id:arashderambarsh.idF5
+
+tx e2cf9940d65becedf4a9afe8964a97be5a6e07b3ed1bb85e642681c3aa2f8ec7
+id:thomas_selzam.id^
+
+tx 88ea05c15d4f4a95e4faf0446a8b2fc5cbcab93695e03fcdf6a1327a045a17ec
+id:olivierdumons.id&
+
+tx afb4d611e5592b5380240ba440a29c88ebb1a379b1cee18b5c2d50ce6258ea07
+id:jeromegoldberg.idHW
+
+tx fc46382610292825eb2db930fab6d14bc5c3edc0b64ab1c381ae4c6e67f90be4
+id:sylvainrenault.idRJ
+
+tx f1b0a1b25b9141f2f1bf239cbc158cf7227c51f86a03ceb6635b9aa0954f318a
+id:italianminer72.id
+
+tx deb006dc96ea160a424e37d614fa1d3244d34310f6cc905ec7677261bdfa3016
+id:asdadsasddsadsa.id
+
+tx 82faddc3c57bb977b9488a85b23dd27d969388677c0e93605fa73970bb3cc289
+id:gahangurumurthy.idcX
+
+tx 8c123c73c28f34ab7c6abd3bcd6a83d86301ee34eb7c3d7bc2a2a967a67ec4d5
+id:gerritpechmann.id
+
+tx f3deee1bcad7ec80ded1f5698d0c06a8417475b69a398940ee8625e3b7b5b8c1
+id:cyrillegrandval.id
+
+tx 0faee5cc60c66c460985368eb2d31ab07a0b28da014bc9fcc57b706854b63a24
+id:guillaumeserton.id
+
+tx 901f7bcea236c072a0d3219875ec4fc62fcf0cdff2bf9c9d4a3ca9f9c71f0b9c
+ru=https://qwids.co/a/AMe4
+
+tx 19ac698ff4d2a97daeee53adfdb835a286c2d5b231c4eeb8ef23b6fe129c5f21
+^#u=https://qwids.co/a/lLylj
+
+tx f7413ab310622e08c9e4c7dcfa1b1f0a5f32b0461396e20f50a0843ac3cea11c
+Wu=https://qwids.co/a/-UAp
+
+tx d639d637dd9cb224051ca7d577c05ba8bc3f33b43b263c1d7fa66dcd908ec73a
+u=https://qwids.co/a/vQ5j
+
+tx 426db8b64b78bf03d721e2ff4be6c3d0b6a36d6c8e25a4f2e1c457125ff4141d
+)ASCRIBESPOOL01PIECE
+
+tx 3f2f5053bdad7510cb985ace4d20a5916dc1b3eaaa1f0710e53729b67109413e
+id:optiondisabled.id
+
+tx 783138421a8f038ea18622ba86c145fdb64b32df8381fffbb96364c8e4cb27b4
+id:mathiasherberts.id
+
+tx 72e5a3bd9b3ee0280b92d84df61d1357704610fe4de160adecf77b0c6874a8cb
+id:micheledecomeinc.id@(g
+
+tx 7e74d62ba3f789e45214de42b8d6c4746ddb1b187954f698163d58609c244de8
+id:jeromeroussin.id@
+
+tx a47aa40bd7b41581d1a1cf3a2dfa094da3e7c688aec05d1092de88629016d0e5
+id:blockchaintechnology.id
+
+tx 6de2d69575daf88884925c4830d8b222048d21aebba621996926442b07991432
+id:touficghorayeb.id
+
+tx a00302a7c0f4a3fa3ef2cda19e965d3ff363b6f293cf7516ea76686baf73babf
+3B37EEA6BB2EA44F0D0C2F97CD2FD22E66C1C346K
+
+tx 18814c49936a59366ff3b161c2829e07c93ce6291b348d482ced710210124d2e
+id:quentingallet.id&O#
+
+tx 23e28e07bd459babcb1768aa437b704ec63870d89fccf569fc6900106254ec90
+id:sabrinabruning.id
+
+tx 3a8a95c0f7deaa98f6f7838b897a36e5250d542a0a6b8cc2180dabbabef26db4
+id:postpostmodern.id
+
+tx 0bf7615454d2870c15a7e04086a0b8886fb6a878c78380a52ebfcd66e4a6cd29
+id:sylvainbriant.idF5
+
+tx 01ba1111cbbaaf2de57860e0381883cdeb3856b35c50ea423fd936893e11d0a7
+id:jennifer_lamb.idh
+
+tx 082e1e51d3f7c8a260f8edf26fc55407c3e93fc411a1745e3a3005da91e65886
+id:fredericmartin.id
+
+tx d7436241621da025c58d5cfd6c0ff1019c2e5b56e9f8e9adcdc3627e8a22c437
+id:florent_fremont.id
+
+tx 68befb0babb16f44a32d8e54f91618efce1c9d44ec4360d1f00c7d46f6ea43d7
+id:vincentdelbeau.id
+
+tx d5460f8d4a0c5553a4e62aa0f75eff9cac74d3d4ca7156c636bc654a30094929
+id:thomasarrachart.ids
+
+tx 20afeb4704f21fd71a78cd96f954136842cee29d38fb4bb0fc6070ac442de2b4
+id:olivierthomasson.id
+
+tx 17edba2b8271fe12a890e46593468e2a3356b1865d860e9b7d7f65fe202a356e
+id:guillaumelemoine.id
+
+tx 89ef14c51aa7fd5c88d54dbddfbbfb0ba8cfbf147052b6c7ce14f4325dad6f8c
+id:nicolas_zielinski.idh
+
+tx 3ff7d0c5bdf327d267fba320ace241d5405dec6dd0db4ada0497d098ecce987d
+id:jonathan_potier.id=
+
+tx 5bcbcdeba17ecc7d96f48cb91b814a266ef0673ab2fb6f719f7aaf59e7250a3e
+id:julienbaptist.ids
+
+tx 180b6cea2dda86a1dd00270844f38fd4f5a41917a399c4f3418de1c95014a39f
+id:gillesmalencon.id
+
+tx 328c8a3547bd6300f5dbd41eec64f4ab2511b5243028d0e9fc343c0ae56e5074
+id:thierrybezier.idE
+
+tx dd641dfbe7a8dd857add6170a030aa66e286286e191e6a9bdcc5c7be35601b5d
+40BB8391B98328C264785FD5CEB4359769E112ECK
+
+tx bcac18be6bde51eaa0a28aaa73f8852d98ca122021a6041c902248abc1ac0eec
+6759C762A907D114A8EE81FEBC1A9D8D9DD4A017K
+
+tx c87a1ff7a14a1eed2f835c4bcf3b83bc3eaf7a196009244a0a6193f1bcb6d425
+id:charles_nouyrit.id
+
+tx 36a9397a1024b696288c4be5695ae595c6a9282964345bbe57c5cd9f43fa8c8a
+id:aurelien_charron.idH
+
+tx 0c00c7403c0ff9364a21ce6464177c9c3f28a052b99bd48d3929590880dcd348
+i3|01|51912.74|1454860820.50?
+
+tx 05849e1e83c2abcde019642a0d61b72e87b1a38ca89c06f6e9829b382aa5971a
+id:erickhaehnsen.id@(g
+
+tx 65ceb0e683d572b9ed9923ffa1696e627d2410dd6ca9a3d1af7118535418c2fd
+id:guyofyourdream.id
+
+tx 5975681fe0fa2c49d977f1b17b24c70809dc2d74d491bda0fb1904a9f62022ee
+i1|02|125121233581209|1454860822.46?
+
+tx acda5bb5c5e1cea07cd7adea10548fc74efe2a8f706a041804c0ce97ce4f16c9
+i2|02|127.0.0.2|1454860822.47?
+
+tx edb0f47505d7db036e5a2929faa9beefaab78dcec0968c69dce307f8be47caf1
+i3|02|81242.74|1454860820.50?
+
+tx 25dc09734840827946bae25a06795b9b40ed7f4103cbfd1393083462844c10ae
+i1|03|259481203981209|1454860824.46?
+
+tx cc979ddfa2c3adc71efdd1a7ca559d285378520b25f0c23bcb60b548b3e49b9b
+i1|04|729481203981209|1454860638.46?
+
+tx a0636ec0c041e3f624bc2b02252fb1c1eeccb6e217dd228975b0a255a95996c4
+id:nicolascrestel.id
+
+tx f38f481264e9b6c56b6a7067154b695bcc8adaa6c34cd6fa090e801b41d969e9
+id:benoitmarechal.id
+
+tx cc837f1d486c244227bebc0f8fd817407669fb33a5001e87ab288a28bca00260
+id:catherine_brss.id
+
+tx f9403a2008ebac21a25303866570f5103fbc9d182e5449562aa68d608ab4740e
+id:bertrandlenotre.id
+
+tx dbd8340ef973373fe4e2d995c41348e4cc63468ff0834535e78181896f9cb100
+id:antoine_leveque.id
+
+tx 3c4a8d9cfaf35e5d2a8fe55f356b16d4f9eab47016d1ff69e825456f9b325764
+id:benjamin_ratier.id
+
+tx 9ff3f0dae786e2c9644fb24d42fe8a96730373f8902343bcaf7783431f5a4eb8
+id:gabrielleportnoi.id
+
+tx fc08c519665d94dfb6ae0173fefbf7b5a23438fb73ea7d6e9c5ab72d16174065
+u|02|01|eng04.avi|200.42|1454864165.34vU
+
+tx 6ad235d95ab6147c6e00127c5dfdb008ec76bcbb48b6d12ad4cb6cb698e49e18
+u|05|01|eng04.avi|200.42|1454864165.40vU
+
+tx 98ed8c0544195af72f3455df9d77b36684d5db68f391b74e09915e984919483a
+u|03|02|ps2.mp4|150.30|1454864170.40vU
+
+tx 92f1d3d29077666347a9479c209f4c502c0d0a96b482a28a3668a840a8f170a3
+id:olivier_gerard.ids
+
+tx baea0875e4bdb8996fae53f15f43ffe2967437f0f307cf1fdadc00fcd88ceac3
+u|02|01|eng04.avi|200.42|1454864165.34vU
+
+tx cb301abc21aa52d2beacfeb457d37aaf3e411260f00a1cf7851344e836ec6c2a
+u|01|02|ps2.mp4|150.30|1454864170.34vU
+
+tx a0d45c013b76c650f07aea1ebe5751e6985b16a07a8dd948acf31fc37dd2a347
+u|05|02|ps2.mp4|150.30|1454864170.34vU
+
+tx f663283cb0089f26c403e1b340950ea5d2c5f54c829bf34f6894d611a0cf7f3a
+id:yannickhenrion.id
+
+tx a20cb9e66901d0f1a894dc9bdaf3cf66538d7cedbad20a03ed692c864ba00ae4
+id:lionelfaucher.id=
+
+tx 81440bd49b1f0bf4d6198576016566bb9cd5887307cb30bbff83da6fdd75fc06
+id:alexandreraoul.id+
+
+tx 99a3dd766dcc261da1cf5d428937a74f9989058469622956aeaf6a0724f8b56f
+id:virgile_delatre.idcX
+
+tx fc2596f8215d6b6e09e96d909536aff2b1a360c31df6bc53b182779828e2212f
+id:francoisjacques.id
+
+tx a1ce49bbea5cb88634d2885ba7b931c602fa1beeb5f6993dc58c32e17d8cc848
+id:vincentfontaine.id
+
+tx 9f5e4ab6031d5309ef48d0475e9a675b5dade527414f5ea7ce458ec225e977b4
+id:bertrandsoulier.id
+
+tx 111135dcefebe0d6b941c11c51ccb8024e2f1e3471bb115ef6a7c8aae542d079
+id:maximefontaine.id
+
+tx c342d7d659ce2b6c37911e6da02abf244d29ea9d90ac8516f9871f13e4c14fdb
+id:gabrielcollignon.id
+
+tx 89193222dea5cba4aad913ac3c7151711bbad9e53d1fbcc2bd245e3fd0d02ade
+id:emmanuelclaude.idE
+
+tx 1e036c17d3c16221b8ab4b03361cec18b363a84a2e4a8eb1a726099d46fc81a9
+id:jonathanmoreau.id
+
+tx 04b901478b9e5a660361d218d0a0c12c821c48bc2a95234804643b8a91b5a7f2
+id:morgan_hotonnier.id
+
+tx a0fd8f9d5634c3a7b3a526892f6665128eff37cbbb8826e42e6fe277920cf8ec
+id:oliviermercier.id
+
+tx 0f396b85d0e99ab161fa3b9767eb1a1319f9dd45f1e4433e1359b454377a544b
+id:neuromancien.idcX
+
+tx fc43ca45ef52d7569922d4d38b80973d189615ea42ce15a502e9fbf041f51012
+id:benoitdelbergue.id
+
+tx fd1f5b15c6909a2a093b59f2b044e2f9b656039d57fc56cef76a8d47b5547437
+id:bernard_galasso.id
+
+tx 10571069fe660ffbe4f98f60092d583506444d13ea632a137a66fb94e337a9bb
+id:aurelien_malo.ids
+
+tx 12785dc0df3291adb1d6af7511a4575002611fbe2c2d9d8b043aaf48d2cddf5d
+id:nicolasgarnier.idH
+
+tx 99b91f5adb647c0e65ed0f82692e624b2ae0c7dc151210c7a71b00855804f3c4
+id:etiennemoreau.idF5
+
+tx ce62354955dce9dd6e29e43c957236e7fa6dfb2e68246a65fce9ee3e32df90b0
+id:alexandrehumeau.id
+
+tx f90cc45821a597b807ff76c6250b1b37748185bd6e6b1d2ff6ae1a815407a52f
+id:baptiste_merieux.id=
+
+tx 13b76b9296d7494b1d7cf948a0d1d58dcaa9d77f129b21358d136f860d9b2514
+id:matthieugicquel.id
+
+tx ef5bd574c294d70478f8eedabb2fdd11a9d694af7f9dd30f0bee05ca2628c5bd
+id:alastrionaburns.id
+
+tx 1d7317e5f7501bfbc67e5eba241d810409a7e112672d4772c8d3c3acfca5bfd3
+id:aymericbeaumet.id
+
+tx 1875e7fca106a7911f0e324fba77b1d6d3c461970f5296144ea7d596b09ada9c
+id:geoffreyfrogeye.id
+
+tx 74600a7f287200154b7298701489232827aca483a472242bc67cda6d43d8bf80
+id:philippekerignard.id
+
+tx cbc7f32721fe3505aa71b51369fc0b7c90fd83a65376059d4751499ecd224f40
+id:christophe_cholot.id
+
+tx 78ea1c727a9fed5d5eb214a427e21225ecaa410da12ec383c6cb64e71307d3ab
+id:thomaslockemailcom.id
+
+tx 48ecbd22b6eae17db51397b852148b9376d74d91626a0a015e1b044348d6d7a2
+id:huguesmarxuach.idE
+
+tx 753251594445bf6855b906e4a654d905c39604fa0fb50c5e82052418552a2cc5
+id:mathildedochez.id
+
+tx b38110b9418b0ee1d255b0111c7bacb51396769ef132f584ed0b267677717794
+id:damienmariage.id=
+
+tx 81f0b96548768216bf91f464aa7d798eac53d7744a2791bcc09571a0334e8149
+id:murieldevillers.id
+
+tx d29ff0523f3ba1e4d97884cfcc3f7f55ed37a7745fd5f2cd0b6cf6f2f3e1245f
+id:samuelkapitaniuk.id
+
+tx 55c1b77c0ac8a4f43e0138d28f728319ec497d598f3662eaada8a2798b0b1884
+id:testtesttesttest.id
+
+tx 31d41d6c1680ce5fee330e8e01a8c81f71deeee8eec5e66eb1086a4c1c0a07ee
+id:frederic_debailleul.id@(g
+
+tx 6fc632a68e1502554285ca41d5353231ff11238915410a46799ecb26b2a129e4
+u=https://arbx.co/arbXcoin15w,d
+
+tx 64a61865a5c6d01d49c3ca73896284e24ad5640b963cc0bbe5a512b0cb064b59
+u=https://arbx.co/arbXcoin15w,d
+
+tx 3fdff74eb5a13097bb23119b62f91802201eb4c27099b2cd623345fa913edcf7
+id:pierrearlais.idcX
+
+tx 9c4dddecde23a9f87a2458b8b95d65faf10b166f6dcf31830fa38cd7d3716254
+id:mathieurenouard.id
+
+tx f66103bddf13ae26e498da17c61565e0741a53078c52ca21b816cc0d99415cd8
+id:arnaudfontaine.ida
+
+tx 95fa19a6b44047e562b46dd15418b6954543c4b9bd137baeb50ba6df2f250cdc
+id:florentchauveau.id@(g
+
+tx 11b526716f1593fe152947fadd61da92533c3ff5a8603072ed7424391cbea374
+id:nicolasrouault.id@
+
+tx a4039552c9b9866426f5d1d8b17bc87ee5cd2bd6e26ef544ef7160cfa301c268
+id:emmanuelbenmussa.id
+
+tx 8d3fe68359661e074b22457863bcd3fc55a0b409922cc84a7a0411e9e92c594d
+id:hadrien_millet.id
+
+tx 82c7cd5dcf349853a21a3e16dff3767829ed87970a58212095542bd61fdca075
+id:stephanebellis.id
+
+tx 1228bd2de02f13c767568e13ab8de6c66bfa71dde3648857aa838574ac05c60a
+id:sebastienhermann.id
+
+tx 2249d15a72b8c7e271fba75cf1c022b0e4ff3aa47d46bc9e9fab3b4c31dc357f
+id:alexandredelaunay.id
+
+tx 4161b904c71f6929b04c01dd80e908a37093ca2914a1ae8048840d16b6514a1d
+id:aureliengrosdidier.id
+
+tx 0dfd84e706f2b26561398ee470323abbd885cf0f0ca52d46a92cc4e5eb2a595f
+lASCRIBESPOOL01PIECE
+
+tx 02d3204cd085b1392317bf0959c4e9bd78ff609840e06053ef2bcb3287d7962f
+&UASCRIBESPOOL01FUEL
+
+tx 0fecaf15e4385270b95d2dabd5f341dbffebf86e58ab6325123b1a3fabf64e85
+ASCRIBESPOOL01LOAN/160204180204
+
+tx a468c3dc713781bfe928e5ba9c6929689749d880dc24f4d889588fd3d5fb8427
+ASCRIBESPOOL01LOAN/160208180208
+
+tx f8be271632f4035b10b96b8be578d6a52f5a353938d34ff9ba0afbaa5027b495
+!ASCRIBESPOOL01LOAN/160208180208
+
+tx a7b7352beca81ac384c1b65defe1d6b3e399f9a639af07384f741ccf5c8ed64a
+id:francoisdittenit.id
+
+tx 37b79617cc97cb1287df8a5ffe02b51b6d5dc2af530d59011005cf92cb8974c8
+id:livingdeadpixel.ida
+
+tx 8901a3cdce7219fdb45135877809b4a750d667c13eaed4bcb678d810c0f22c00
+ASCRIBESPOOL01LOAN/160208180208
+
+tx 2dcd98ff813a7e076e047c8248d891b6daa4126002b305d7387ddca6f720715d
+id:corentinbechade.id
+
+tx ab2528fa84c76bab8cbf16ed697932c4423c3634bc7d1e4ff41382fb7b6cbd89
+id:julienfournier.id
+
+tx 5a0de329cc8f84b9c5ea9b9cc4a972022f620b74b59968f9d263145c09235f9a
+id:stephane_klein.ida
+
+tx 8547243a995da6f4f1263c04883b7fdd61453c8bd8f0e05124eb1956badc1ea9
+`u=https://arbx.co/arbXcoin15w,d
+
+tx 686c17093602693aec8daebd9d0a8ec2e8201e8879ee4f4ab85bf5a49febb51c
+2+
+u=https://arbx.co/arbXcoin15w,d
+
+tx 89466bc4bda3493182e58650d78e710f1a29c174f7be9fdc05a1a81b9a8700ad
+u=https://arbx.co/arbXcoin15w,d
+
+tx 4d0eca8751ca8e3085e90c8757bef60069e09b9e70cc013bbcc6223e670e423a
+u=https://arbx.co/arbXcoin15w,d
+
+tx b9d61fd532129957e47c0d49683a11a8116aebdee86514852fae0f02ff7548a8
+' u=https://arbx.co/arbXcoin15w,d
+
+tx fa09f0db78cff4e282dadfca594015a4dab35e73527430b66c5ac5b86e2b7591
+Lu=https://arbx.co/arbXcoin15w,d
+
+tx 4eb72af365f0c550b74cf7291301a662415498588cd9197276cbd34cd2d80f13
+u=https://arbx.co/arbXcoin15w,d
+
+tx 2ed8392e6b29454d997886a7bb5d23419315e9df8d48caa827c1490cceadeeca
+,u=https://arbx.co/arbXcoin15w,d
+
+tx 8319540825b893a1556d2fc6dfb59a20cd5cf5fde89154d2e61346a7ced85297
+u=https://arbx.co/arbXcoin15w,d
+
+tx 8c4e9e30ac20007b957d78bcb6c39558df5a43622c0f0d0aff1216dc513ca7fd
+6_u=https://arbx.co/arbXcoin15w,d
+
+tx 7deb6ec533c1199292fb7076f474affa209afd5e5326d3028e9699243c7843d7
+u=https://arbx.co/arbXcoin15w,d
+
+tx 1e0ef26f15e9015c2e3510881f59a9753f2ff5e36554418ccc4b00c511c107f9
+DXu=https://arbx.co/arbXcoin15w,d
+
+tx 3c4b876c76f6b13c438082bc01fe34753d72f1cbfed2f3c479f47d902d698162
+]u=https://arbx.co/arbXcoin15w,d
+
+tx c1d0fc60631f6e9dd0c36e4bee495c87767c4754d454a8f3366b3f70d7d5e0cf
+u=https://arbx.co/arbXcoin15w,d
+
+tx f8a32a59d2cade69044ee09cdb5a558aa00ff154900ca5ac769ab0711f75e0f7
+u=https://arbx.co/arbXcoin15w,d
+
+tx 7353110c9405c386d7aa30e5c3f4f7cea4aed89fee27e2f1448e568d5fcb0820
+ru=https://arbx.co/arbXcoin15w,d
+
+tx 10b2f504778e3d635390347b3cf39f874b6400f71169df7d087469d6b849d2a6
+'u=https://arbx.co/arbXcoin15w,d
+
+tx b2cdcc89dc500433cd148c9a515f802877f1c59a2a9da9760bd0a6fea812cc18
+u=https://arbx.co/arbXcoin15w,d
+
+tx 2154dde19802f03881257c07ad8f34adc806188bff6316373a6b06570bfcf52a
++u=https://arbx.co/arbXcoin15w,d
+
+tx 56563d1ed448b753a25823a40aba9ccd4169a16033d0376dd611b16b1eda4722
+id:augustinedubois.id
+
+tx c7116d16fa14229dc38a666ff7216d86cf2434667b371cc12b1453d83521e27a
+1BCes3D9AcoNnvaJ2Uo3TGfwTZkkCM6yoLw
+
+tx 5b60877d49ff241b318683839bdc21fb6a2a8da191499646a18caab6ad7161cc
+id:virgiledeville.id
+
+tx 873279977cd95d079e2853c430977eeff7e8469a3899ff2624969c2bdcbd1a48
+id:hadrienvuillon.id
+
+tx 16856615474774102118380c7dfbe7ae4dd8e499d6aa3ee7dc12d96f9f966400
+id:vincentjamin.idF5
+
+tx 61dd0f5ad0c56bf446c69a358c14fc4515f5e659a133cac13c350f0dd19768e8
+id:michaelkodochian.idH
+
+tx 533b98689d544d78dcd6219ae1f32d7468844a8543603cd35490e60a158cb262
++ASCRIBESPOOL01PIECE
+
+tx 19b8b5e2ca376d49f594a0ba43419d3baffba1fc7a33966c1b23c1454d751e1e
+ASCRIBESPOOL01EDITIONS23
+
+tx e0b2024c58b8d00c52284dc7735e7dc38cbd98d445323a5110065931e67451fa
+Some tested materialw
+
+tx c14d3f2ebdc910f861b1f3534eba656c30512bab21bdfcc98f61773c64eea113
+id:emmanuelbouillon.id
+
+tx 02aa9bf05297796281bbee56f13c81392abc64ce5495a85dbd74763f00f0a74f
+SASCRIBESPOOL01PIECE
+
+tx 82b6bfef13cd9327d08cd53146ead7e2e68a8cd229cde74c68e2dc01beb4e721
+ASCRIBESPOOL01EDITIONS2
+
+tx cc31713c2fb7e3c0046180f1c1895f5c2588b70228f2294785a91f5d82c1c25d
+ASCRIBESPOOL01EDITIONS2
+
+tx 6daf4310c10c033fdf19f549720f5edecb84b90665368bec1be58f345246a7ed
+ASCRIBESPOOL01EDITIONS0
+
+tx 24d3f385381bef8b636c8e2a60ca173365221d616fdd106491b828c0acf8c52c
+SASCRIBESPOOL01EDITIONS23
+
+tx f599ba974932332d6286f087c1c49228393b259c345fb3dd66a6f395b585d470
+id:devil_weapon.idcX
+
+tx 8b26ccb822bfc017e0936db636885436105a63a3588943bf99bda36ed9794dd2
+id:antoinederoche.id1^
+
+tx ad4cdfa7b266cb111a5b94ad7a8c0c31c58413a05d12cb088b3a898297e6efce
+ASCRIBESPOOL01EDITIONS5
+
+tx ae674749699b99be9c9483cb33186cffd481c88f75eea6a43ca33f986088f680
+fASCRIBESPOOL01PIECE
+
+tx 5410e63b0a02c84453eebeaf4bcfd9dc26812b82f96a5986ffc45bd99e6efd31
+ASCRIBESPOOL01EDITIONS1
+
+tx 27274f71b767b4b6e88fc070301c53738e1e874cb1092011a3721f31a6cc1b31
+id:vincentparenti.id
+
+tx c90c5d13aaa033539099117021e94a893e412f07d8ca6950c11fbfdfdd853ea9
+id:damienmariage.id=
+
+tx 93685ab5932fa4bd4b61d883a3be4609a9b53e20a4424bc7fdd7e4b26e011f9d
+id:etiennemoreau.idF5
+
+tx ffbbff937d61f3f39aa0af5827f677447dc5749085a139e0c899120a314c300a
+id:baptiste_merieux.id=
+
+tx 752b8336c0401891a5ecd30df9314a1e14b6478195009b82dc53bb474a24494d
+id:xavierdavgarcia.idE
+
+tx 11fa7657350f8ad53e08fc79e28f0646a22162cd0fd87caa532e5e2766523257
+id:huguesgoussard.id
+
+tx f6ce1e9cbf4367e4fa647dbba73f02c0bda22a5cd5c84c7826e5460500fd186d
+id:jessmitchell.id+
+
+tx 7c01fffb3a188d155ce00a3a9d7acbc179e2b81cd514e56c8e38a2f85ee24caa
+:ASCRIBESPOOL01PIECE
+
+tx 2966f406545123c2fbc7d093d9258552bb76fb7d737b708f91487e354b5d2f83
+ASCRIBESPOOL01EDITIONS2
+
+tx e3af3ed12bff00246543039ec3a02b469b76bfde39d86c1b86409b1cb9220a96
+ASCRIBESPOOL01EDITIONS1
+
+tx 7ff47dc15d84252c6fa83ccec8b974b75ff508e72db281b06da1cc9c539cb507
+ASCRIBESPOOL01EDITIONS0
+
+tx b2ecd7bba7570b2dd25f0342ba8dfcb7b048d54008ffcd04666a7e0d87bf7735
+n-Love me like you do...
+
+tx 2565f3ad61e551df81bf9f1d93578e7177280b521ffe6789cfec24a3a6a6cdab
+D1D284E8D718A7A0FEEA9D529033CAC0F70B390EK
+
+tx 9c8a2f900b94cab97620100519450fd21c33918edc58a49762ead7d5803bb122
+Love me like you do...
+
+tx 9d5c5406f2c0a3c2c76bdd527d1c2804d5a2f2363e35a5db7892a89ce020f7af
+F6565A11F12D5ACBF1DD24DEB0C7ADA76FB140A0I
+
+tx 0e8e0a2f1382737e153af4ab7e88245f2d102b271b06384d79faec04c665c368
+AB94B68BE2318B9A36031AB4A3EBB8EED1B182A2K
+
+tx bd0ceaa4001017894a4c634a9193ab627809fe0dbfedeebc0356774f41dadc0f
+8505DBE3A4C4F374FBC99E062CA03E8B862EF34B;"
+
+tx 3a3ab0ed3c42e5f46571ed4b4bf31c556f30d712cecbe28be89c7dc49afffbda
+3E247D26742A9B3BF8C4D63B20E3FD2BC0C123491
+
+tx 981228c52f7543eea68dc3c87ca509db2f187c8e17a2db65fb3f78468dafccb8
+tk`EW Quiet, logical, and sane always loses to loud, ignorant, and crazy.
+
+tx ef31d1a187e91cd0ca083f73cd364c75a13d4c96423049c332b8692d15a39168
+7D6099699579D030778066DA2A63F427535E42C6K
+
+tx 453b9144da50ab6e951db861650f83871d708118a537a6d26bc6b58287a787e7
+865306C10B8E07C53532D359E915A6F2DF49247DK
+
+tx 9da51b7400ffe36a7fce6d47e5ccb4e5e3b05f139d77dfbfe9635ee48da1286f
+444FC8F6E2AD56CB25B6578ED29ED21946F7CDDB;"
+
+tx fbde2a63374b344938eb287573388c68086fe6128a8e38a68b8b05ae85416795
+#<bitcoin-address address>, HTML web component, #html5 custom tag, #polymer
+
+tx 4cd8eeb64344f4710f2e1b11f0ff0a13f781da3ec9793114d60258253e9a42e0
+#EW <bitcoin-address address>, HTML web component custom tag #html5, #polymr
+
+tx 795cf455f02afd398a031ed57883adf2ca13e6a8de67c70e5fd19ff755cbaa5c
+AASCRIBESPOOL01PIECE
+
+tx 7c87d40d8f7cf59528cf005a50b21879056a434b7b3b035dcf7974080f0cc2b6
+9602AD20A110B5DE8F4352B6CEB9128F6DC76593K
+
+tx 9cf205d5836a26ec469f94d1e7b58e4bb570bd75691468d54b40db92e35f72fd
+BA4CD8F5332470C1D461D45F8071DA9123C25204K
+
+tx f4425617466ef300e85e7e0c9aa9e49e473a266601b5b2afb164c3414a1358aa
+C7EB4F3947E08F4260E891EB1ED8A90E9BA2CA38K
+
+tx 56a3c920d339b92f7ddea19b5fd2c09ba1099d646df1228e643c11f8e661d73e
+D5A68AA5DAD45C97E733EE492943D2D4F7F1BC8A
+
+tx e67f055dd6965b859412f84a1f39f1303ee3ff2cc1166ac5a8b88dc639584378
+sMonday, February/08/2016 - Signal for today is 100 % BTC / 0 % USD
+
+tx e5e25560264261cc876314e7351e618685254198d8c3f7c051725e6dc2e617aa
+5877984E7F968554FA5987777E12ADC4FDD158E3K
+
+tx c84ab904552266e9e0fac97c350b3e4b7e1a11a2f445e353a14eeed4f8f6934e
+9CF10CEE5A57CE3187333D77F19B37DF4444A79EK
+
+tx 4c7b4f637366613c9277b64c18108e8ff28eb7ee70f9e4576c6f52bcc58a07cf
+ASCRIBESPOOL01EDITIONS1
+
+tx 9f881dca0e72937e610a92a7478a6aeef50a1529bf461e49a8b978ee12d7cb60
+ASCRIBESPOOL01EDITIONS0
+
+tx a3d0a6cdaed0229b7e1fc397805cdf24329e6aebd5b027554fa64e4ec5f534ba
+4B538D65E8BE57BC8D82BCDC52334917779DB369K
+
+tx 75c880869cbff2d92e577625132ef0fc8477f7aa7e3380f886656d8366514ee9
+6F837EB44EB266ADDCBE2401F69ECD101FFA9F24
+
+tx aa82165c85e75cd5706ba27ca3e35698877851a01ff72b20b3402a9dc635400d
+0A4013ADDAB494C92039204D31C9255056924BA1K
+
+tx 98e865921970a64130a9b795a30d1076bf0a6ae5d8a073fc4c267ca5e8c81050
+F28252A5A8730D3703FB89886044DCC258BFBDACK
+
+tx 5c7a0c94adba8f42e5b0300125dea815df11a774f75746ff84e729a7072ff416
+40A0DEC12C607CEAB1FE9889841E886E09E592DBK
+
+tx c33f08c282e8b614b43dd9642e13023e6338b2edd8f6c31f5c9040a5635e9bdc
+3D89F09FB8206E6903087ABF6A23EC45DB4523BE
+
+tx 588555754bcf7de7a436062e107df2846e1cbbd59cd0fb9f3b3f048d0bfd231a
+8824A7FD545019BE8DF65E74C3AED1E3EAD3D697K
+
+tx b5678559772f026c555e8fe5cadbe78d4c86ea7e5d568b9fc319f2aade377676
+7FB489F94E0F9CF7E770A479D739D65C931943E4K
+
+tx d440dbc99d5560437423801a5a871f13e5beba854d060bb8710a4ffd354f1b37
+3AC9ADBC32468283E413CFDE14E1C76DAD231DECK
+
+tx de844ae67773fe750ae9abae9b376ee2a58db783ba2a8326f491d84008377496
+19qPacMzuiGdXrNLQSHoBWyaJC9h72WjVA
+
+tx d061af9346355f9bac15d56d2a9381a6399c3c1f7c6e3b6d8b365a5c977b8bfc
+QmeFkgryaGxuMA1ghnxYDxbNTyNUhot9aggTKKVVZuremP
+
+tx ae4ba1038f0f7330ca0d125c0486f989a061e76b84e7236630480806c97e9511
+C595286C7BA2B57071443E29A9006E6D31B8439D{
+
+tx a88de86df7a8578e9eae1ca8891ec11a81fd3555fbb2628a51932cb23df36371
+NeSoisPasDupe-------
+
+tx 3c98beb76527921bded57a0d3b049d74a06735ead0f2969fd170fd037f27f35f
+wASCRIBESPOOL01PIECE
+
+tx 72e7457f9a5b2c9fa0d7344b92e76331a4b19c572c3eaad71d01ba48edbc4fae
+C827AF58C40BC01761BDBFBDD013A68563A9E707
+
+tx 7de0e7afee933a5c5393aea6d2abba56d1a3f125a66e8fff8388c5e384c4e3e4
+8812F5BDC5324E3957A8529CBBD1FDD1A9225797
+
+tx 87b9a02499162b963689f5971ad8564adf19a78874c0969d4cc3d8e693fdc301
+6D97CB628F112C0D58865336E963F12E1EB74A58c
+
+tx 1f3c2795330bd394cd87b9bb6130f6fbdada20c3c57698f536e15c3e86349412
+108E6D0216BEBF2D30405081E59474814CEDE701 
+
+tx 3b6537fcabb8047afbb06dec92befe377b74ce975decf740360f7d13c202aafb
+4A17D54065BD50BF93C41BA121397879C971F707
+
+tx 109d7747fb527153bf071d32b00c0a445e2d41b55b3a96855d86495ddb87dd4d
+D89A44063F8595BC4F8734292377C76CE31BC103
+
+tx 2e644a1c041599ef9fa31517921f1fe18f19be658cbc0e0b8626f5d317509f83
+B22E7991047C039F2D91B496890995042929D7BA
+
+tx deb61544961015e679cdd826b96d122612ac48372eceb60c6eaa06e4a44aff25
+F8B8D977E572362636F2242ACD0750FE57F42E9C^
+
+
+tx 13b6c88f95185ab379972a334036aa8e2049edd4deda65f2ad3a0009b1104e25
+E4E8E5F4B41F83207478E506E288E538B2225646
+
+tx 38361cc43f74338c4ce950b117febba2ad17765165fad64d4adad0d4f7f7098b
+5142AE88F6A16DC534D80CED90786DA955E2340DK.
+
+tx e51e36ed95699e972cdf60d7efd5199f28a479edf87023a07b0ae03094debcc2
+E108093D52FFB9661345736FFE55614B12F263E5
+
+tx 10c36b10076502a6fe7b9ed4a4deb2d2d4faac96d6680b43793bb3dffa5150b5
+5D8CE2DF0DE97C2AF0382A499A2088502ED4F257
+
+tx 6d461f593638ae654e29c42623b12e36ecfd22a2f00ef49a48054893b123a85b
+wSASCRIBESPOOL01PIECE
+
+tx 383aefc3c0750c73b5f514d13a83822261274a70ef5e890af64060f8ae4e8334
+x?ASCRIBESPOOL01PIECE
+
+tx d04474569de792798090410a08ce509b818102e09b62071e8bdd7d98cec174f1
+x?ASCRIBESPOOL01EDITIONS0
+
+tx 5925f3fe38af16f4276bbdfa7cb3aa9c408fc83944b33f4c6b3c7283a7e7c2d7
+cASCRIBESPOOL01REGISTER1
+
+tx 965ec62ab3a1b89938a11b835954767d9159b5ca8fe694b6325a9609c39d42c4
+ASCRIBESPOOL01TRANSFER1
+
+tx 8146adc800a0861575e3f90aa97e87902280c7f6eb37620d36a65cac3cb794b3
+x?ASCRIBESPOOL01EDITIONS1
+
+tx acf7ddd1434d18baa6e7fd92bf7d4328d971d925f75afc5d5649aa419c8ea22a
+71EC76F0A45E420EA9AB239ADE6D883E8B821AED
+
+tx 62241c29a992eb5eb700d22a0db572c26f185ff93ec600c4f09c1c9b23c57a29
+58B2DCC67772F8F7B72A91DB60DFFE4BE94F14BBW
+
+tx 6ff172b3300773fbe6a34ab6864a35f9b3143e355adf0ee4f0f6d949f7ea9ff4
+{u=https://cpr.sm/DOUUnAHH0a
+
+tx 4249e8264bdbdeb4384b82129aac9f54a2ede086d37548b60c0ca88c3dc872d0
+{u=https://walltime.info/asset
+
+tx e31f5685ce3d719a133de0625a7c158d9c3783e7a1dd527eee259c71254967f1
+Rose rosse, rose blu nel mio cuore ci sei solo tu.
+
+tx aba5a402548f53ecd8a8d8063fd1df21d07d53931c51798d6598282dd9d9242b
+ASCRIBESPOOL01REGISTER1
+
+tx befecf5f6353cd6940ac7767895c2d7039f9c2321b23eb2b7ccf05bf9652ac5d
+ASCRIBESPOOL01EDITIONS10
+
+tx ebdc37972418135f87384aaac027370e758a7cd7adcb97a46bf4ade0081bf756
+Hello KNC :) f38d627ff4636ef609ddd8f96385ca90'#
+
+tx c7003fcc331080c85a76059003b0a30e9264a66220f333a96f04a5231908ba82
+ASCRIBESPOOL01TRANSFER1
+
+tx a1386f79ecf293bd8188cb1fcc0839c7210ae335f5db79125cc9b591d2f0a4a9
+RASCRIBESPOOL01PIECE
+
+tx 7d64c2b142836208893243e5a15ffacdad44918a8545f78700209a6414c168e2
+ASCRIBESPOOL01REGISTER2
+
+tx c0cf5bd444b60bea8013f972bd86e7f295839db5356d04136851871b8f648187
+ASCRIBESPOOL01REGISTER3
+
+tx 97f38c4d8ac26c17a291aeb2f0f0888a22c5fd6f3334ea105b594b4e5e009a7a
+5*ASCRIBESPOOL01PIECE
+
+tx 955c8bf77df5b8dbcbf1ef1c91bc0fc85b8229d38b398f704f6e70f39578d369
+GmASCRIBESPOOL01PIECE
+
+tx ff39d3e4a04c308e55967a6dcbb926d7c70b65c7ea110341a5f0fb28719fdc05
+ASCRIBESPOOL01LOAN3/160210160211
+
+tx cf959bdda37a52e9582a97b747807b7b6b607f3bd61a35240cd8bcd88e0ab1dc
+#ASCRIBESPOOL01PIECE
+
+tx 894b87dd5fcfe50856c76ee9942f8e22153e2c3b2459096f0ada281acbdbebdd
+#ASCRIBESPOOL01EDITIONS1
+
+tx f3e397c661c5679882f74ee667787c00616f63150ccda5509065231fd05e430c
+ASCRIBESPOOL01REGISTER1
+
+tx 0a9dff767036da368af272be54d32f1b4b18e840ff527969a68eb264108be9cc
+EW Glorious Assenting Venom Infiltrated Neurally
+
+tx 2a61a4086ce0350a9c0328dcbd91e7ab9fad20da1aa835925fe8cede31643295
+ ASCRIBESPOOL01PIECE
+
+tx 1acd69270442e6e3375ccf0e67abfc423791d8b0189b65d5d514bb02dbea89cf
+ ASCRIBESPOOL01EDITIONS2
+
+tx f2860d9c323fb861c5b61b0de982cb12a56d65a0953507919a538165f910235f
+ASCRIBESPOOL01EDITIONS0
+
+tx f4459502ffd900628d6e1937fc8ae5d6eced8749ebcde2436ebcce65d9c3139a
+ASCRIBESPOOL01EDITIONS2
+
+tx 0f34845f48f366253fd6b4624714cdf24ba54d4fa19cfcf093ec340dedc397fc
+)/NASCRIBESPOOL01CONSIGN1
+
+tx 76ffb0089b8713299983fe7d0ad8ceef80a7cf38168709d464cd31aa19da9e3d
+ASCRIBESPOOL01TRANSFER2
+
+tx 5c6a28e79b99fc228ed324f143cd20f4059692f41a78de55c700834be192f86e
+
+3ASCRIBESPOOL01PIECE
+
+tx 93999de800574cc58f34b9cb0db9945e03367403a74f374070884d9c983ff322
+ASCRIBESPOOL01EDITIONS2
+
+tx 3d7e7c6170dc0dbbdca7a6b3079c1d07a2f849fa7c97c81ef7e095180a59bf40
+ASCRIBESPOOL01EDITIONS2
+
+tx 0aef86796cad8d3a7f633ef58db975e31396128edd07c3b574af0ef23e2feb7c
+JASCRIBESPOOL01PIECE
+
+tx 6162085758e3016e0933b4a5e4c9010839bfdd5f7aac05293a365c81c93e8b35
+\ASCRIBESPOOL01PIECE
+
+tx ee2401f58e11a8f1bbab502f88a0a44820e402c1b10bdcc5afb07af09083c987
+fASCRIBESPOOL01PIECE
+
+tx 49a053f51fc33f1452adf00249aa0af0827ef2f1ad8cbf3f294232d3fcf2c724
+ASCRIBESPOOL01EDITIONS1
+
+tx a30071ce1bbb4632a50f7458bafd8319e23c19a21ea6cfa6abd915b35e5e0282
+ASCRIBESPOOL01EDITIONS1
+
+tx 3609cb753387e7de6492eb6d1ba21cc20557004b900a8ef75a4826cd52958d05
+Message for week 20/
+
+tx 1ddd73e50f871fb6002c7c8b2a48c2b5386db9edea088bdca9370d981dbcec89
+ManchesterisinEnglanB
+
+tx 1f96bf545cf01edc59522ad6a9b8bb8c1481a3fed88fd2ae465a2ae789e6fedd
+week four message   
+
+tx e4a7f7b12eb302b6670818a5e868718b5803aa2d56db467e43f0fb5109f11d6a
+hi there my names HGp
+
+tx e4ebb208de3301c57a8bf65bbf7adbfcee8554b12c87d26e806a60e73f4b87b4
+The quick brown fox 
+
+tx 69b897ca7fcd857981d8d280dd17d6015785325625e3c42f2d4d7bd3db63ea6a
+idk wtf im doing ffs
+
+tx 66b58bc35f08b91584154bd691926b924a31f990b858cb2f142f6b6986c92fcd
+Bitcoin lesson forme
+
+tx 0bcf0b033307c25b63c74f46eb3850d20585ca0d2d642e091882aebdd0d09fa5
+blockchain test ahmt1q
+
+tx 082377da0f094d2ebd4b17cd3d5ac3fe8ac346cb6e9447b37f4502719ef67891
+Quitters never win!!o
+
+tx 7a7011b01b26c40b9408a12021f340942025c4356e30fe0e74bf2581406ba39b
+Andre was here111111
+
+tx 11724074846e6a8e51aef8ad9752a64f6822aaea2f1ec2e4366bcb73552aa5db
+AB49CC31913CD4DFDFFA6B01624D2EDC3C1F3370n"
+
+tx cd1e93a56e1617698d091e9099e91a6f7dd427d47330d9fc3d535cb651f4e4ad
+9ASCRIBESPOOL01PIECE
+
+tx 323a50fb5851290d5b9b022b36f294f6118b15e0884bc12dfeda099b0695f8ea
+BASCRIBESPOOL01PIECE
+
+tx addf5a630e6131eb05e5a307b7d0fbacc719243b2fb52c25f2eebba9b90a76dd
+7ASCRIBESPOOL01PIECE
+
+tx 0d7d128be35ed6bc008cf000a7bafab694e4bd5ab99113f3b06be908bc571f04
+=ASCRIBESPOOL01PIECE
+
+tx 26154287d9b7b94a859f6984cdc85e330e72f5df60b273496d0f5c44c6e59697
+WASCRIBESPOOL01PIECE
+
+tx fdb702022d8647d302deaa62b5d5b0c5f407bb7c0b5c0a76fedd9d520b358e39
+WASCRIBESPOOL01EDITIONS1
+
+tx 92c82c954d5d914f314648b7af9b9aa210868693799f84c1399c13989351ebe2
+ASCRIBESPOOL01EDITIONS1
+
+tx e88d66edda3cb588bd61904037c13d58dac0df89c2a7424e5b29f9ed1b72bf68
+7ASCRIBESPOOL01EDITIONS1
+
+tx 6702e36f28e0c5bcb5373140a411c9f60cebef1444b0d62e2a055dfe98c71d68
+ASCRIBESPOOL01EDITIONS1
+
+tx 14498fce46e29bca7dabfbc2d7541e6d75b59a9261575881fce7f341b6b1b13f
+=ASCRIBESPOOL01EDITIONS1
+
+tx fdfa01c9a2f97582df43a81d55cc67e82fcffb3161f07013a06d5e9f8a49597d
+9ASCRIBESPOOL01EDITIONS1
+
+tx 41a94dc61a4e2d83faad2719c13dd726567cf1a70ab4b288019d47aa03166c76
+BASCRIBESPOOL01EDITIONS3
+
+tx c2539c8f891b2d033292ff7cb521dd44b3a795df4845e9d0a5beaf39a542975f
+IASCRIBESPOOL01PIECE
+
+tx 604b0ef5c4c8a1059ba556cc74c0d9e8129e9e7ee0ee93ba9ebc23616ef81f67
+ASCRIBESPOOL01EDITIONS1
+
+tx ae21c356594838c973def334af1f8153e2d07e69a0a5ff4d98bc7a7921d155b1
+IASCRIBESPOOL01EDITIONS1
+
+tx 688b193fd65ba5b8c0f84361078e3cc3b74fad2a4c457622e507d0a775ac6bcb
+ASCRIBESPOOL01EDITIONS0
+
+tx 500dd4a7bd0568ab912cbd1454cd4b98a212d4611fb599b2f1f5973ae1a3726b
+ASCRIBESPOOL01EDITIONS1
+
+tx c5855f1c7f2e0409e00b13c6531bdab9d34c7c579b620be70df1c9e012914c2a
+ZTuesday, February/09/2016 - Signal for today is 0 % BTC / 100 % USD
+
+tx ed6e68ca4089d497145692a3a907d511d677b57d06136debc256ccbe829c66c4
+@wLASCRIBESPOOL01PIECE
+
+tx adbabb632644df88cc2ffd9a1e88933a68366d8f5446913ae05baefc16a9781a
+F850A26671895C05B6B8B8B1B93C6B616E85E21A
+
+tx 04b2d8503974171e134d49ee7fb23156fc21a10fcf38b4414854b244bf2b68bd
+id:kylemcinnes.idrF20
+
+tx 1b2825eb06069edbe6cdb3c481a8e6b00c5793fa715d24b152d4ed166e8cc44c
+id:investments.id@(g
+
+tx 2ca8d6b4d2f709e9abd508410edc0f2237c51fad05f0ca533c6b08c633b2dd8f
+id:manubhardwaj.idu
+
+tx 13a39e7cf759b243c469a9ff7cb5ce07c7a866450feb1dc2a4797893cf750960
+id:yogeshmokashi.id(
+
+tx 4181dbb923d64c2d397ef18d37ec92089ca66bd2d4db3d3ec4fc5df2ee3f1817
+id:weldinparsley.id31C
+
+tx 84d72a1f664b8a059e8df922b988e95a874032cdaff18d71f4e86277ad6d0428
+id:kevinlepretre.idcX
+
+tx 7231f1236b3ccfc4ad719eacd9ab990552879a19f55a6694bc6e6466d4b0c590
+id:bazaarbanking.ids
+
+tx 9150de485be7f14be6c18a2e61f02ecb1004352bc8f1cc5cb18418a0d05b3b1c
+id:forsalebyowner.id
+
+tx 9409da4e34fb8220febdb6c6c5092b17befbe7e538d12e4ab981e28db4e737f1
+id:marijuanaseeds.id
+
+tx 2a0f98418ac7b04aa90a7228036673a1c584a3e1ab79d4e535d79d1f05e2874d
+id:sportinggoods.idH
+
+tx 275b7e455de76bb17c812fe67200473ab86abac94460a0d2de63b777b93335bb
+id:paulkrabbendam.idF5
+
+tx dec8b728b409b9ead9694c605c1d586c661e18ac6539311029add9c3439a9846
+id:damienosullivan.id<'
+
+tx f2ad2a456cfabad6916ad64904d308a32c7671719fe7bc129ef3afd8e0cb7f52
+id:daggerhashimoto.id=Dd?
+
+tx a55b71b50ca7700bac7395883e8b16bfb83c03fd341278061b89b3bede5dfaaf
+id:datalogfinance.id=
+
+tx a4d01112f30116ff396d494c73950e57399579e7e851670be6508bfee4de693d
+id:rogiervandenberg.id
+
+tx 2e4686d752e2492b55883234d8d02ee20ee7ca743b39b0529fdc937187cf5b8b
+id:medicalequipment.id
+
+tx f5372f64bca38863e288db28bc21b827d90ce5b78b435cf66fbf3e80ae658f00
+N
++SASCRIBESPOOL01PIECE
+
+tx 729959fdcd680fb5451efd4aae1a110a665f537b97681116144f2b4c51a3ac05
+zASCRIBESPOOL01PIECE
+
+tx 6d2c493779a60ab0d52a77650bc755f1249a7098fb2b35ded655ae552634d69c
+mASCRIBESPOOL01PIECE
+
+tx 1e52e80cd7879abbbcd17feaf135784c983c786e6365c55f53daa6777f8ccc1e
+mASCRIBESPOOL01EDITIONS1
+
+tx 9ecc8d89e84450b7225b1c8dd4b487e2afc346ba729e1d3ea882da559b5a8fea
+XcASCRIBESPOOL01PIECE
+
+tx 348a816a4523c25b33b08fa2198b6a1fc4f5e98b9b238e47c2eb4e4eb8915f55
+XcASCRIBESPOOL01EDITIONS1
+
+tx 7814c6c304f791acbacb771fe2ba16ef96fe8dfbf5eeab3d6075fdb9cce7172f
+ASCRIBESPOOL01EDITIONS1
+
+tx 094fb233af82acb5d6730fe3904d720bb881caa1d6283e5e7b2db29c1e6e8441
+id:alexception.id6;I
+
+tx 59d67a3e32e9c2aa63c3e35c147a6972fd8473afb63ae17ae8f0e79f48eb6da4
+id:jennifer_lamb.id|
+
+tx 4e46ca2421d37d67a0be6d282c59fdf5d3ad42eb0bc51d99ef7a5bc417929579
+id:nathanieladam.idH
+
+tx 30451e9fe12017e4b1765bf785e07aff7f6058bc84f0d735b363d48c8988493f
+id:franckrouanet.id~
+
+tx 5ef651e4874abdf6e2f7abc9b92fc9d026c7f59abb3c01012cd5f21f4898ea18
+id:michaelkhayyat.id
+
+tx 4d31ab1ae3ef9cacf48ce2657dabd5bf0ced734dd354e3de3bcf3a31804571dc
+id:arashderambarsh.id
+
+tx 720c9653be465b014ef66820922a3a92b3c4572b1bbed40748575e48c6c04a81
+id:pourquoitucours.id31C
+
+tx ea642c521947276c0ac1237f8341d6d00f955d1defd5d79b2647fd8e2c110637
+id:paullouisageneau.id
+
+tx 8bb483f4a0c76790ddc8bd2039a824fc5bb3074f969328679559eab5a6c23e43
+id:captobiwankenobi.id=
+
+tx f94b5e3d41d80d73e8adbee29b5b8eacbf938b4af6ac0962650cfe4c046d24a3
+id:jonathan_potier.id
+
+tx 254cecd9ce9f3d4a1dac6085b44eeb110aeb2210e27a202e1a39ef3de3e57399
+id:vincenttalbourdet.id /
+
+tx d0dd492f1fba2b100978d88bf2e265223282a676705b83f5b424fde65980a4f4
+id:vincentdelbeau.id=
+
+tx 00eddb9af521606274314af59bb5774bcc1b948dfbb7f2f72ef9376d23b18ef9
+id:postpostmodern.id
+
+tx 4d0555457cbcd3f10706aab90274a96004fdd89311f8d928cd30aab6c2044fce
+id:gregoirejohanet.id=Dd?
+
+tx a68af802a60c277dabcccf8a13b0247994915330596a378d42b8ec77ff5fafdc
+id:florent_fremont.id
+
+tx aab338981cab4dd081d4810e0bfeae4b19891c65b26c8b2efe2249236f30b4c4
+id:nicolas_zielinski.id
+
+tx 30b074e4f793b552679f48ea91a61da6c3026f0f593cee5d3c865979ab69a192
+5D20FB729DC0F6292A258F6686AE283C26C1744Dn"
+
+tx 0f61d6f66dc0324858df80ae77b637b77a70c4ab9a1cf1394da4129c6cda218c
+GASCRIBESPOOL01PIECE
+
+tx bbc850bdcbddb9261f5e38b2b9c9f1943f0b65716a9928c79466e9f078cb277a
+	;ASCRIBESPOOL01PIECE
+
+tx 7a1636297044b09b734919573d992144f90c8aed476c167c1923140603faa48d
+	;ASCRIBESPOOL01EDITIONS1
+
+tx 2b963731e34fdfe52eb357ec86c4e2837a5f9abc87769d427c759cd234cc0c0f
+ASCRIBESPOOL01EDITIONS1
+
+tx 803503ff76d36225200f3fc301c7edc7961957eede98967f98170fac0f090e82
+ASCRIBESPOOL01EDITIONS1
+
+tx 48d7f378ec02377e639b8262fa97df52d75e717f476d765c07901c8684b1bd1e
+id:francescomaio.id=
+
+tx 5a5ad700a21f448a28315d38c631a7c7ccde2d10c52027602f83b2e08ce43b54
+id:cedricsalguero.id
+
+tx 99d2be62842ef7e336824d7b2c6fb783a494a682567c63537322c2e5d8405905
+5D20FB729DC0F6292A258F6686AE283C26C1744Dn"
+
+tx 858df574041e4ce1522e1990e204d5f5b3b1186ca3b8a6b367e061545304d8ac
+5D20FB729DC0F6292A258F6686AE283C26C1744Dn"
+
+tx 3c9d2b472d1bebd343acfd271944e354925e8991ec7766b2221ece80106eec4b
+BF6CA5CD019649CBE3E1D5B830084C0A19019B5BK
+
+tx c0f516d2769c8702a1cde86af99fd0c85021fc4d401e9a5602897ee9f2c399bc
+A72C6BEC201D1B7BE169BB054745E8528EA2F100n"
+
+tx 2836fee68b0c872c2a8e6b49a69560fd259639cb8aa3f05a1596e51db46e1c07
+id:huguesmarxuach.id
+
+tx e17a492457891651b28242533b424d17fc3d80f9019255008c8ef12bcffd43c6
+id:maximefontaine.idH
+
+tx daac836913105b80985a2cca8564791f3a462e3ea9dc6265b65ad9d26d261ff2
+id:alexandreraoul.id
+
+tx 493492a6fd93927b116a5660672a0f266c3dcfadffce701bcdaa28ec41763485
+id:emmanuelclaude.id
+
+tx 87d8f1fa68b9425fc51dbc0a2d169447b9b7afab644242c6c92b28ffb9e02b7b
+id:thibault_chazal.id
+
+tx c1dd5487035821847b7f2c28cfbcbd838227afe753793d60e858e0ce58ac063a
+id:morgan_hotonnier.id
+
+tx fbed8339e7caa1b33e400733786068bc4c6fa67b0e44921c5e43e223ce7fe475
+id:braintrash.id=Dd?
+
+tx d11214b24efe5a0e0bed25013002c5e2e1fbb88366f9db5ac34f3eee664d601a
+id:etiennemoreau.id@(g
+
+tx b74f468eb3fefacd67845eb51cdc5951cb49b92d287a5913227ab05006233e74
+id:sebastienhermann.idw/
+
+tx 71433406ba1ead7ada60b6d381996cd5dd2312b67d2b5ce68f2e5d5b30020037
+id:geoffreyfrogeye.id
+
+tx e82ef94981a78b2b30469c95ef68ff6e980bf077b0333fac25dd117a8afe101b
+id:pierreweewauters.id
+
+tx 22eb2bf8429b0af74fb5eaed417f956d6747d6da00d6629ad153fd55fd029ddc
+id:julienfournier.idu
+
+tx d90f215119c484cd461125d5ee5d93d01fb853083e426dfb0b2641a09f4ab115
+id:xavierdavgarcia.id
+
+tx dd52ed7178a3bb4fee4e0cdaf7569fd0e9e66a1aade26c35b8d0b39352e25206
+id:baptiste_merieux.id
+
+tx 69c72cbea69e575d0aacdedefa33e668f4270bcdbe23f92388d5a2f807d95075
+id:eldymuziotti.id=Dd?
+
+tx 45662f66c896c88d7e17173874f2ab5fa9148958d183bf27ae76453274a73ee6
+id:vincentxavier.id@(g
+
+tx 6ebcd03f5fecf139225f7dee5248e62132e058bcd29f9f65f8bd912ae788e7bc
+id:romaincasteres.id
+
+tx 89c00d126eaf7f3b14c76eacb0e768ccc56901491531cff8c8bf057617dbad50
+id:davidamsellem.idw/
+
+tx 92502fc93e5829e6f21cdafe1fb710bdf6e4afdfad97c4c9a05624b1f8771696
+id:augustinedubois.id
+
+tx 2f194b7b22adcf39be938694e8a42dc243f27bcc3b18038a33bad09581bcc5a4
+id:olivierguillaud.id
+
+tx cbe5f5502da9ce7bf61296500dbd4e73033957c11e741599d7bdbd134078c93d
+id:thomas_sauzedde.id
+
+tx fb36956166c00a68cc833b1d43a6e02e24c751ec8fc137f824501224634db792
+ASCRIBESPOOL01EDITIONS1
+
+tx af7c491e2e5e15c59199fc4f00789f7aeabc6aac70c680a895df3d67fc9f0369
+6122642D5B1F63779003EC82BEBCBC81D4125134
+
+tx b4493408ae572eb913b60a88b436e6efc51df8388900a7b03728a1b8463f1ec2
+DC2D7E927A83A8377AB72F246D7A53B24A161AF9K
+
+tx 5cd80d439a21e25eec02fbba9d9b5b093cae59a490824949be31b8ad3132b17b
+34B2E17B139DC65B2239ACE2BBB2B1B045BB814B
+
+tx 4e7de203578c86582ee8295673c24abb20584e417a2abc041e985c16387fed7d
+ ASCRIBESPOOL01PIECE
+
+tx 16c8c66de0307661d9d47494bf86b15315da49ad144ca5682babe87919c8f8e9
+ASCRIBESPOOL01EDITIONS0
+
+tx 555884f45cd1b0afb30bf6c9d3182367ab66ad937eeb34c42e94c9ac041978a1
+ASCRIBESPOOL01EDITIONS10
+
+tx dae9d72fb5a30744b48ead4528be5420a642a291bf59c804d163cbfded831443
+ ASCRIBESPOOL01EDITIONS10
+
+tx 3bcc73b9877593cc0ef65ad0fc9c7beae888bb17c623ba2f2c106fa5b84a9aee
+id:antoinegougeon.id@
+
+tx f51e05ef1afe87229f0bd3c298afb38019b5da5fcbf48d8eb35b1e4d490ed9a6
+id:philippe_cadran.id
+
+tx 27e29574fb8b442d1a06c673e8d2c9959f078e5d6d16a5d6aaad0ad3ee697c6b
+id:photojournalist.id
+
+tx b61769ea84a5ee2e19e1f016a7de3d5e604a7e9d0a4de318a1025bb9d24ffa22
+id:michaelmagnier.idq
+
+tx 242ee98bac69ddda5244eca012ed196b4d9aba20f0c6d3bbad5ac822b7d8f187
+id:antoinebaldacci.idt
+
+tx 118c6ad526897590690c971f945024abc9c7cac99b513e3598c057fd43cae63e
+id:antoine_bourgoin.id
+
+tx b3292d42f05c3f647ecfafbe36df9209187f38c5fa41550ee9a968eae477c6f9
+id:sebastienalvarez.id
+
+tx 688ba65bda4bdbc2b66356166babcd31696899a14c4a5c71bfc2282716c0175e
+id:nicolasboudierducloy.id
+
+tx ee423bc87da45227e1f08d5e4641dd75bf975d925c32478643d4b2404d62f708
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw
+
+tx 3a92c3f94d655037a78858c60f22b74b82fdef118d1a7766ad33716a1d850240
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw
+
+tx ce1ea725f2a5085b3ed9e80ae162007539d2ccbdf4a3f469a511feaa617c6f16
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw
+
+tx 3127a2c2492d5491585f8bf0dd59d7860391286f252afb421039294aef49fa23
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw
+
+tx 48571f6758ab2df7818cd9620c07133c90b6d2a2cb7e7d65461f8a6ddbd4f6ac
+|ASCRIBESPOOL01PIECE
+
+tx c7269797b430f344fa275650a333e8c0581a58e2d5cf89325fceb6bf06fa78f0
+id:raphael_lucas.id&
+
+tx 1779631fb70f0db7f4cc979ba6d5307ce1b07bf6839ef6d92184aff91b09346b
+id:nicolas_chatrenet.id
+
+tx 34e86fe9ea28d065923ca5de1a8c004165f0637ffb34b1521902e498f211a5c8
+id:christopheamalric.id
+
+tx 6ea2c4695f504ffacb577fb0a82f8d587627f67fb294ca63255779578eb65de5
+id:louismariecharpentier.id
+
+tx 911d2094c94d8a917f7a678ebed4f774ff3318405ff91196b82dd313238cfa99
+KASCRIBESPOOL01PIECE
+
+tx 95c0393e2dee89b87fc0d454d5b42a043a9d845515b17acff5b93a51263d05f8
+	ASCRIBESPOOL01PIECE
+
+tx d0113214b06936229a0ede5979816125eb4e6e9f7fbc8c6ebceae529a72fe3ab
+^ASCRIBESPOOL01PIECE
+
+tx d2ba544fe56f54e7f4adfd4cd0cea41b025c1dcc420c335b7795422e6b92b00f
+zW2P1: RP:10 DT:13 CC:0 JB:11 BC:3 TC:13 MR:14 CF:7 MH:5 JK:1 RS:0
+
+tx 4331b5c08240feebc8579a8e611956381beeb894a4a48bea9e19bc4f806f629e
+zHOWARD: RP:3 DT:40 CC:1 JB:3 BC:14 TC:56 MR:23 CF:5 MH:3 JK:0 RS:3
+
+tx 32934a05deac0b87f3c8023fb493fda7cd37e9632d3d35d584f0c35ae7c7a955
+zBUCHANAN: RP:7 DT:13 CC:0 JB:2 BC:2 TC:12 MR:4 CF:2 MH:3 JK:2 RS:1
+
+tx a5fba2095d54e11c5d3b95e3ca9d73c855e2edc6481c19873b333a09c86bf6bd
+id:florencesantrot.id
+
+tx ce622fc9943d53d082a4bce3cbb69eee3d36edcffd78ebdf8cdb70d844424fa2
+id:onekiloparsec.id=Dd?
+
+tx 43ccd0c3a4b2492d7cfd3f57eb9f509924b8865862df3126ec80ebe14d5eee4a
+id:mathieu_bardey.id
+
+tx 492f7e491541b22c3f0ec8248701fcc016c6bd853539e4f43322c54701d8680e
+id:yann_le_pogamp.id
+
+tx f034d8a641058ae2f97367b9ab5849b4d6e91dc1cd45c74fb32931c22ea1340a
+id:nicolasmartin.id=
+
+tx 63722c34f160d4a853f4fa7ede52f2179b64fe180b98471cb70556b8c97360b5
+id:fabrice_allion.id
+
+tx 9b0694ae10a7f25dca3c701c894091cbc25d740721f21972705467851dd26591
+id:fabricedeparis.id
+
+tx 3627884f2f54c1530c0d9cc0012c52eaf17202d6a6e3f2aaf12d7e7939a10334
+id:auberginepoivron.id
+
+tx 0861db68f77d6bdfa1ae585c74632f38dfa32e778df524a14d60e7937ab08a16
+id:alexis_gattepaille.id
+
+tx 034693e2f6191de03ef54635f7c74667e7012979e7ccde09c93a4109c6ebf464
+id:alexandra_sauvage.id
+
+tx 90f0b1d623db4b7b344eb0c3fb8f830975a5252194691576873595c24399249f
+id:ghislain_sillaume.id@(g
+
+tx fb2e25eb787c6ce0c50912a68ce5622cbc59b6adb51ef03847b88c715f1ce7c6
+*ASCRIBESPOOL01PIECE
+
+tx bfa4ba6c3b5171622ab31df09ccaf3d50729416298127a0e9d922b9e990d07dd
+ASCRIBESPOOL01EDITIONS1
+
+tx 1c871b98cef98066b6c4a6bd33ca73683dfb9cfee7d698c35562dc580cf2f635
+ASCRIBESPOOL01REGISTER1
+
+tx 6579c55708e7bfc4fd359bb18b4c3fae74f13abbf0924feb747f99ed6e1a88d1
+*ASCRIBESPOOL01EDITIONS1
+
+tx 473eb83c1c2014e19e103e01692fc76d94802d731c24d2a9bc74faca79277188
+ASCRIBESPOOL01EDITIONS1
+
+tx 4774d8257378abab729c12524a73fdeb2f1fa85d9b901bbc3bc51687f13445ae
+xVASCRIBESPOOL01TRANSFER1
+
+tx 5c8edd5ec7c3c22f2ac82a56fbb1c24ef370057ba7e905bf29d7889508dfd760
+id:francklassagne.id
+
+tx f6e22f3070dfab45d71a3bbe3aaf96f21e11ecf33cad8eb8f1c8a1cf61b24406
+ASCRIBESPOOL01EDITIONS1
+
+tx 792009a31309af1af82714936c8314b89bbefaa4f7ce2ce791e17c96902489a1
+id:markcharles.idrF20
+
+tx bbcc80b70da826e12950cef090f1f00e55864b74e0d49ece31058ac212b18bf0
+id:francois_lorillard.id1^
+
+tx 3f341f9df2ab9433d16b4a8f82b312c75100931f4694a85ed96b637d2cc590a9
+jASCRIBESPOOL01PIECE
+
+tx 538ffce2fe166a1afca70e2e99ed76f89e706e1403ef9d1f8bcbb40c99b9dcb1
+_ASCRIBESPOOL01PIECE
+
+tx 98c9413fc555f3432f0df2ada39e501d50948dd7824eaff6d7859266f29850c6
+jASCRIBESPOOL01EDITIONS1
+
+tx 791394ae5d53877eba3eaf016d570211cd17fe178ec4d34a977ab5bcd23beab2
+_ASCRIBESPOOL01EDITIONS1
+
+tx b3138b101631fbf4968939d312f355e232220879d2ad5d035ecdbdb4406dbb5a
+u=https://goo.gl/OoNQ0r
+
+tx a190803dd3dccbb6c1221c1438b121f712ec25b2b126f793db2b5a6cbb3f40bd
+id:jeanmarie_bardot.id
+
+tx e946de43e3a018be651f0b5fc2dc6373946f9bb5dd24cd47ebab37f03cfe6662
+id:stephaneauclair.id
+
+tx 20cc762441bbc89788f4bf675a9d4dcf119e3e8f1ee58f109d51e6c7aa90630a
+id:nataliepeterson.id
+
+tx 90bd30c6b7b1147e508d025cd3f256970af0a35393e7ceaa7f256054babd482f
+id:keimlockheim.id&O#
+
+tx 9620900c514885a8256df938b2a380a5c42ee41c2870001b465349d9d7e01f7d
+id:celinebouquet.ida
+
+tx ee4e953d228289f098004a53781e601e805558501c8c9c1ac1ca2eb662e517d7
+id:chauveaunicolas.idB
+
+tx 833f62e752558ef346b0b3dc84ea0a28eb06a61836acd24183c717c361102be5
+id:nicolaslamirault.id
+
+tx 8baacc3ad8814f9edd0593e02eca9bef12768151d57b988870dcb134f94c71df
+4HASCRIBESPOOL01PIECE
+
+tx 654562fa1c2b67309c7f7fa8690385d647a54424eff74f94ca0e7ea381cefeb1
+ASCRIBESPOOL01EDITIONS1
+
+tx 15f3e4f9b4dd843d953eaea17d244ab9a8bbe16adbbe6e4987e5cc1603203e1b
+ASCRIBESPOOL01EDITIONS1
+
+tx 15cb98be688fb30ec504b13eb698831756f6e6405196d61e64d847eeaf734408
+bLASCRIBESPOOL01PIECE
+
+tx 1307e32fd167f5531f861251c7dedcd938e8c05f062f5fbe4c5354b9fa1ec30f
+,BASCRIBESPOOL01PIECE
+
+tx 93fdc084c58ef556c2ded4a66766af630b877f65623c5ed3b56d101c6a6fde76
+cASCRIBESPOOL01PIECE
+
+tx c4ea22936a0c157cb7133818e639f7a8e2c43ac04f29350844533dd90b0e4901
+cASCRIBESPOOL01PIECE
+
+tx a8beb6b9c5bd725a42b7d2a7253658abcaad3bd7fb200db7a7e80fe719a15224
+ASCRIBESPOOL01REGISTER1
+
+tx 6e919d201685a84e8dd4e742bfab325046684f5aafeed53828e0cca51f46d799
+ASCRIBESPOOL01EDITIONS1
+
+tx 8e2a8c3bceaeb34dcf930fb58d2a6ee8982bbcaf94def0855843d1bf07d27542
+ASCRIBESPOOL01REGISTER1
+
+tx 00d97d5a809f238c2ec27d4bb26a900f62863236e523ffc6a140ccfff7e3d2f0
+cASCRIBESPOOL01EDITIONS1
+
+tx 915cfcd69f3549893cb28b279dda826b0f9da3b3ffb761af84c322eca28737e4
+ASCRIBESPOOL01EDITIONS1
+
+tx 0bee932232f0b9a09cba8d5b6a4231304b27b66005fe312e5ff9f3102bb15039
+ASCRIBESPOOL01EDITIONS1
+
+tx 86c39d7fe28cca0ee2775566a79d81c8c65100afe2f8f5ed840493ea6b017853
+,BASCRIBESPOOL01EDITIONS1
+
+tx d1201d91c682a57bd516e2259fe05296f1780d1c7eba3a6567b7fb165dc1fdd5
+ASCRIBESPOOL01EDITIONS1
+
+tx 68fe116b6fa75181087eb2cd95bb3df71f0d313ffb6c61b52393b2badf907a25
+cASCRIBESPOOL01EDITIONS1
+
+tx 1e43df2c67e7603aab20c4da222492b4c3adf41f3a44283ac34fd7ce62930856
+ASCRIBESPOOL01EDITIONS1
+
+tx daf005565ef33e7a6086df52b04f6c380394dc53516e3baf79536e2f81398636
+8jzg7ASCRIBESPOOL01TRANSFER1
+
+tx 2b0f56e2a0a5548f3cde23d180ed48e684fa43512e80a37febd8c7872e769ab6
+yASCRIBESPOOL01TRANSFER1
+
+tx 7e57a0691a870a31a2cdf30ffc512eb80429bb69361df0d2344a5435b0182a6a
+mASCRIBESPOOL01PIECE
+
+tx d17d019fc6fdeb1781583d7d925eab6b6182da92ad75b6310b179f8fcf00dd73
+id:basileviault.id<'
+
+tx 8f75ceacb080ebb5aab6ddc03325d275d75568946048329167ce87b798509abd
+id:michelleblanc.idO
+
+tx 97928530ec76075442bbd0332ac1ab8005ec28c8f9651f561b091bf9f949f496
+id:alexandrejacob.id+
+
+tx 91552f3fdbf81fa9615781527498eded075e3b2f29a599133b177fd108635f96
+id:pierretrehorel.id
+
+tx 58696a2d3bb916393555a45ac508f09d8eb59191be1b105934a18a4fed8e0277
+id:cyrillegrobost.idw/
+
+tx c1df34d78b911da31c66067bcc21ecc6d3139bf16fa7c39eabddc17daae7f759
+id:jeromekeinborg.idlH*
+
+tx b9358139724ee0633aa8db697c6403d0e8739113ce17093781ad24f662ef2a05
+id:guillaumpellan.id
+
+tx 3ab6c5030289f041a80c63155f2ea1a013a6a123d0639284955bea8af5364cc9
+id:marcelmonnairon.idF5
+
+tx 9bf2559049b5fa6ea8116d8f653091d808e91185929eb5ede627887542fc91c1
+id:patrickheneghan.id6;I
+
+tx beaa8dba151bb72adca30157adf0876f6b26c405df8fffca3f793ba6f495f973
+id:micheldescombes.id
+
+tx e050af8ae7e8b80ea543c640ce50d1b3d0ea16292aa0975e370d4b565dd8c537
+id:mathieubouillon.id
+
+tx 212452118049dc482ec1b1ef6010eff8db0fff54cc9afeae22b13f9b6c6ca74f
+id:sebastienguillon.id
+
+tx fce69d7694057111080e9ef3a635ca422bfb28e346d800017f255cc45a5b2235
+id:francoiseric_king.id
+
+tx b9057d5763fb05712401d5f83002491aa36fdfa26ec7b0439300d90c44fca324
+id:nicolasthomas.id~
+
+tx 815a895a76c2cf2f0cc2009b2f10fa520da55ebcfc8d142cba1293bbacbe89d0
+id:francoisadoue.id|
+
+tx 9351a2f49703e863bdeee5aaa2486712b7d3c5e74d59123c6bcf1b0e79317b81
+id:julientellouck.id
+
+tx 8a992b3d0838adf3670b197a69eba3398a08b4557e3b45d1f129827654b1fe77
+id:soraya_khireddine.id
+
+tx 318b004b005f81c280b5da302a5078e66f6746c4d717ae6dc8096438ee85362d
+id:guillaumerouyer.idt
+
+tx 74d0fd170f9848ad6702cba8737ff5d1b45360d97081a9416348742263fcb130
+id:flyingoverclouds.id
+
+tx e04a690db07d9af2c699bd0f0900b49f231e0019b132051d6e378621590531d5
+id:arthurbadalian.id
+
+tx 02a8fda5092719905e39776bb8025f10b511e3e510c3287de0279c98051104c5
+id:pixelconscient.id6;I
+
+tx 10748a9db8e7b0b59c55d580b68a8437bba60b7170cf10f40d106b86fd5903db
+id:laurenthoudard.id
+
+tx 29fc68d1aff4401bf6d5a232adb6b8bef14f147ab468428a143211c9976998ae
+1ASCRIBESPOOL01PIECE
+
+tx 11a1ffbd68881388a0dfa66d113b69ad47bb67c46e37b4a48d5f6420de0579ce
+0aASCRIBESPOOL01PIECE
+
+tx dc3ad18fc5a9bf70b17b6b472134ced62f6991dc2b1990c62b49022cfc636781
+ASCRIBESPOOL01REGISTER5
+
+tx 24bb345680ceeda69b616a96a8fcc0e63ef8b97e1bba31b9a00b0d11e4e7c6e9
+ASCRIBESPOOL01EDITIONS1
+
+tx ad30dff738727f27ab97002672ee4ff689ff0374d360ed57ee92d2e071449dde
+0aASCRIBESPOOL01EDITIONS1
+
+tx 0b88aac3d0bd78e95bd7567bec47a7e57aea9d21a49aab241a1450dd363e7fe1
+ASCRIBESPOOL01REGISTER4
+
+tx fdaa1bdd8271d3552f40997db5cc1b2fcbe2530822917812f561c90ec2305bdc
+ASCRIBESPOOL01REGISTER3
+
+tx 2ded959930f8dbcf8a5b68a60ff47c685678444e94798a415f90158b37b7dfc8
+1ASCRIBESPOOL01EDITIONS0
+
+tx 8cd7e8f3e0e1b6628ecfa0b25a199d33f44aa4f583e13b9712b6365695031478
+ASCRIBESPOOL01REGISTER1
+
+tx ecb947b981cb384d258b781205aff188330899cfcb795c2919743a58fbab3669
+{ASCRIBESPOOL01REGISTER1
+
+tx edf1e4d46581a439161044bdabbfa709534f2d2197049558867007a1db322ff1
+B7ASCRIBESPOOL01REGISTER2
+
+tx 31b156f76688a90166f74e3d613a5e2f70641874cb810e5d37e8d34600e65579
+1ASCRIBESPOOL01EDITIONS20
+
+tx 266bf6aab95968debef1a1b175aeed7189bba1a5c18955888207e58e3402f9cf
+id:misterchestnut.idRJ
+
+tx d135a48702143437e4134a8c350c165bc023773ec5c72ebb954b6c98c190b62a
+ASCRIBESPOOL01CONSIGN5
+
+tx 1fc7a682d69e3ed2b7d9db2fed76c21593201e4834e587e9b78611c666b7b700
+2aASCRIBESPOOL01FUEL
+
+tx edef4de5c00ca8083749ee1cbd91b940e9fb1f1773762b0e2655c3460c24c501
+-ASCRIBESPOOL01PIECE
+
+tx c3890bb423c6712e105d552ef2d5f27eb3c7a604ed5775b6add686fdd8f9bd70
+o>ASCRIBESPOOL01PIECE
+
+tx b82c4c3d55915bfc7e5b0765eeb840e5a40d375c1e9767df15c3df4883b773d6
+(ASCRIBESPOOL01PIECE
+
+tx ffed8218aecfdb3d52c38397c8216f61943213a3c57548e301ba292e7d57f8ad
+FASCRIBESPOOL01PIECE
+
+tx 1b01dc1a5a472351f9a30e0fe2c61259a62cd0ca53ad0cca6b8bd1dae3ff7c97
+oASCRIBESPOOL01REGISTER9
+
+tx e1ea1fdae24b5514584d158c381f1619f7b25ef1aea8402059f260ec8deec98c
+ASCRIBESPOOL01REGISTER6
+
+tx b378c25fd094e5b28cefe050259f295954c2013726ddd9c4f5fac6293733528a
+ASCRIBESPOOL01REGISTER8
+
+tx dbd353400a62023682e1d4653715972c958efafd320951be8e017697c8e96be5
+FASCRIBESPOOL01EDITIONS1
+
+tx d2e71d017e4e3e50efe0564fdb6fa2634189cb0a789d57f340953ec7a38da2d7
+ASCRIBESPOOL01REGISTER7
+
+tx 72594257180832ddd8c272490b05c8f13126c3b84166d85a4dbc0eeb026219e7
+2aASCRIBESPOOL01REGISTER12
+
+tx 732987ed614688b6f8c707058dc3875d99d31be4da231511a78eca286c1bff24
+ASCRIBESPOOL01REGISTER10
+
+tx bf1c7abaa50a6d409031720cd5bf6a8320da32014edd2826388c9423c85ed990
+5ASCRIBESPOOL01REGISTER11
+
+tx ed4589e6ada1826b36f413bfb882e5ffab9d2a2dd3f3e2936a87e9a43ec22d94
+id:anthonyfradet.idrF20
+
+tx 40a482f84eb8bf991f878cd870c4d9ae52bb93f091f8446810445a369096c244
+id:valerybonneau.id|
+
+tx d5cc7bde81f3cf1652adb3305f9b84c0b69bc4ccbc9df4a8d44f8c2ffaa4e113
+id:thomas_lemoine.id /
+
+tx 5fe72e0973a29101579e4e6dabf5db095cf90db9722f654ce32e67b936ebcf7a
+id:simonoflaherty.id
+
+tx 4ce8c5d52a61d4f4ac3c82273b3a2b1f1172c0fc2d8ace0893365dab42385f7c
+id:tristan_legros.id
+
+tx 90ffea2c832047a2d922f8a6cf7ed871912f1322a5f5f5c540ea4076218ff402
+id:pierre_etienne_deutsch.id
+
+tx e2fe342dd636e85711c4753ccb27eb5c6ad25da1cf5daf1ccab64fdee193978d
+eASCRIBESPOOL01PIECE
+
+tx 331b5243e7f18649fd7d09ad25a2af37d7d10b4dc8b01a55a12e1f4bf640ec4c
+id:xaviermartinet.idB
+
+tx 9bad7b937c89b8e304f55f6f2b43bdecc2e74b7459b9dcce22b060c6a16b0ef2
+id:fredericmontagnon.idD
+
+tx 60f12cda363e6bd4c03c857c55ddec45c5ee5a1810627cad3e3427af2d4d216f
+id:thierrydelbart.id6;I
+
+tx 7d161c35eeb522f1455a6999fb92b4c61e22e5d6bf42185cc867c833cb3ce651
+id:allenleyaouanc.idlH*
+
+tx 53ff46ecf597bc56f6fd6128ec283c9fd9c54cc2b7db216505925bf90758cef9
+id:electronradius.id
+
+tx d7bf796287f63393c3dd3d0fac45db578a03703495e6a7a4c92c4f0e7cddf2bd
+vp3ASCRIBESPOOL01PIECE
+
+tx 2581e268545acd3ad6f9ba8b70c93f0d45016966b7295723744c66ed69beaf5f
+rKTASCRIBESPOOL01PIECE
+
+tx 3d43db1cd0641a65fa8a132d6cc6c79ebd0e06112e4d2fd80f807f07d578584f
+1SFASCRIBESPOOL01PIECE
+
+tx e7631c410ca4f7d155644b55019b36578e645e91fce7e8e2f8ca7c920c5ca92d
+2ASCRIBESPOOL01CONSIGN1
+
+tx 69008862563d45a1dcd8c7d1c624fe8759d5eba1eec64e08e63d6c8dc2ab9440
+ZPASCRIBESPOOL01CONSIGN6
+
+tx 4d9e6783e8aeeabed17ac513e49ed95121ad153723171414f2713e2667e3f0c3
+Ix8ASCRIBESPOOL01CONSIGN9
+
+tx 66b3d69a8cd081b088f2e220392085c0af68323a196c8e1d66e5bd2fa2a046b7
+ASCRIBESPOOL01CONSIGN8
+
+tx 08f819c22a807a2ca4a7999890cc67764a66317d7dcf67c45d3e7531c3d4cd87
+ASCRIBESPOOL01CONSIGN7
+
+tx 2a252206e81050de797e0494f62642717e67b680e5c7fc191b9541439ced58fb
+ASCRIBESPOOL01CONSIGN11
+
+tx 2d845ff850a19508cc080a855b0e9a6ea7644f51bc01d0730415edcc35804c0a
+<ASCRIBESPOOL01CONSIGN12
+
+tx dace24b354df160542caf00a0205a6efc1d97f89c7eef7d420b384c131a11fbe
+ASCRIBESPOOL01CONSIGN10
+
+tx 24455f5251833f7a497342906094eddaef602fc71c3e6ff4a25a5409fdb5fcf2
+***BlockCypher Data Endpoint Test***w
+
+tx ac805356a39c72b8f5ed077b2bc6f346a9a2fcd1a98522db7cc5e63972027819
+***BlockCypher Data Endpoint Test***w
+
+tx 3758be0a9fbae579a0c9a7b679999e261e003c878e4e2d78acaf925fcbd25118
+***BlockCypher Data Endpoint Test***w
+
+tx f680cc256c19d313424b3e0285cd337fbac86c63d8f680a3d371f6cbc386f333
+***BlockCypher Data Endpoint Test***w
+
+tx 6570569c42ef81bec4fb67b4668a6c6ca2e9199c4164d39d3a9ab7df756b613e
+***BlockCypher Data Endpoint Test***w
+
+tx 0e1cce757fd9bb0b0fc3a18468bb4e693a294ae7cee82f6d0e2a1ec78a1938ac
+2EtnVWyqEDwgIsAdpXyanw==w
+
+tx ec86b7fc85b75745ec699a0c738cda3450b10a546f504910c0f33d3c20979602
+iO7eXy2/F50/z2NXdSZUFQ==w
+
+tx 7303c862b714ce3187c1db679a43f4354339ddb9d3ad345401255b68011d5372
+Gpd5ddfcujLCKpzHOJHkTg==w
+
+tx 0dcf1f4c3df9bd4823013a842a4ac8a86bdd5612f24fcc68ba4a58fc60c8fd95
+qlr89KF7GrStrI5sUlbd3Q==w
+
+tx 2832b75dbc9262bc908b3252991c6b3b57aa19d964da0fb0b0d27cf671e2ff0a
+tIepRmEHNMeNchgv4BleQw==w
+
+tx 246e66f273a0523d8b823ca29fe38b1f6a76f9c898b294e535ed70348a46439c
+wdsc2FJJe4z/tuo8BGB0Pg==w
+
+tx e29274526619b1a81523b914f1f5e2590630638e84450be2e95c8bfbb52cb508
+SDwGDv8uH/+wfoTZLYzSjQ==w
+
+tx 282fd3b8c65eac6bc40a030a2801ff96984bf40e3dd27b59b586770729c1c361
+r4VjODqk87ID3qMJQssh3g==w
+
+tx a81eb5fda6b9241294f32a5da71a8894661fc5d8ddcba4e3166f291d6616fadd
+Cbap3JcRO5esDsgSlSuTRQ==w
+
+tx 20d8edea1e788cc9cfdd62b24b132fa5efc5144b27fc921c5841e0cdefb5de50
+|'ASCRIBESPOOL01FUEL
+
+tx 6e6a13d3ebdce58129bbb9333203bfe405ae0485a6cd46792483fbe9702d306c
+ASCRIBESPOOL01REGISTER4
+
+tx 96fe7cc9ae3f4014ae60ad324c5097c8bfe5db5a6f28f797aa277c7e679819bd
+ASCRIBESPOOL01REGISTER2
+
+tx 91d673a261c8b74aa6ef8ab92e437174a5ba64488115e69a832b8f57c42e2bcb
+ASCRIBESPOOL01REGISTER5
+
+tx 13836b8dc2a1db750e01b09d6247483af55c45c17ed377e851c356adf9ff44a6
+ASCRIBESPOOL01REGISTER1
+
+tx e5765f8833e55ccdfce09eae8499fb2ee18bde5bba1765296e3c90880dd63563
+ASCRIBESPOOL01REGISTER13
+
+tx 0b59b3d5201adf2bc80adb2d23c8cee328204b7cf8f755f2ef0015b6b96a7ebc
+ASCRIBESPOOL01REGISTER3
+
+tx e0b66524f5c5112fc0c72116404cf05663a8473b782c7f9a2fe9a367c7291420
+[ASCRIBESPOOL01EDITIONS10
+
+tx 50b782cf99e4922b217ac0d5483420a190f68f8d3bf45e03757b28101312b465
+E]ASCRIBESPOOL01FUEL
+
+tx 98e967afac56ecf2bcaa3f24dc80b715dd76b8b7de678c07d24909165a1534eb
+ASCRIBESPOOL01REGISTER6
+
+tx da2258b535a9676099b369750ae3ca7bf46f42e1e8b934eebf2bf2e790648733
+"ASCRIBESPOOL01REGISTER8
+
+tx 7067a5f9b726a215d25f38b034a4c88edfa89f80ceb458f21b3eb4e512fe27da
+ASCRIBESPOOL01REGISTER7
+
+tx f50d3c461b48e5b0eed8f06c06dccaf6ca8f108ba7dd9cc22d3ad02f2f478246
+E]ASCRIBESPOOL01REGISTER9
+
+tx b1f76d4b7f36f09b0ec49a0bb919183197792fed8b10029b57f61fb330ef85a9
+ASCRIBESPOOL01REGISTER10
+
+tx 3df39235bccc7905ead0ad36f3db6c62c336709c16d525cf121afbc2496e6c1e
+id:mtovmassian.idoR=~G
+
+tx e347ef3935577a96cc1c17224f269165c0e3c9271c497bfd582277a43d8aefdb
+id:copinmalin.idrF20
+
+tx 1ea41e057be467583e0e6bcbbb1e023658d50901696c2ee50a46e9e4a8d282a3
+id:cedricsoares.id@(g
+
+tx bf999c7768155c5b85cb0bef6e1879b8b5f2ae1f1afab924f9cdf7f71cb98e3d
+id:jeromerichard.id /
+
+tx 6183afc70a297ef011e83a8dd951bbc3ec90d9f12d9bccc1241fb74003463a81
+id:claudia_barbara.id
+
+tx 17b50cab33b018b0bb151d8acbadbc95df53c501fbf818690689286688b868af
+id:olivier_husser.id
+
+tx 648d8f4855e6dfc5792d7418719da98f3a8f0236654984b23c8b0d7510d13c56
+id:arnaudcatherine.id
+
+tx 0444843729e3f39070c347cf07f9f40178e8df21c49a9eaa2dda0ac5ec981af0
+n0"ASCRIBESPOOL01FUEL
+
+tx 4e71eff2f5f7a69b3b43db893b057a95f35a87394caded322047b17eb1114de8
+n0"ASCRIBESPOOL01REGISTER1
+
+tx af08a921bd22069f57e0b7ac142acf034f8b1f6d2880d17a9072600bbcfbdebf
+}ASCRIBESPOOL01REGISTER4
+
+tx fd648cb71577c40231d752b66a416daf00187d725efd4536375431a72d0b08b9
+ASCRIBESPOOL01REGISTER3
+
+tx 77ac7019410ae1f575769674d613b3850665b85e4c289a8fcc3d737bd501a338
+ASCRIBESPOOL01REGISTER2
+
+tx 7cc7018f85f8ad88ac3c0ff019aa26bf8fb8f2713a75d70d4ecff6ef554b12f0
+ASCRIBESPOOL01EDITIONS10
+
+tx 51d2d37af9dece2e595cdaf7657eb7f8e7ad6f406f2e35e29d7b2fd915976aea
+Q6EyHhkOET7KNxQoHSlwbA==w
+
+tx 2206ec00d1c848f6db693ca7ed196c837172bf78cbae218843ae3bd6379b8717
+8hGq5v+lNannJl+/o+9fyw==w
+
+tx dec83f838b5638c212d83170908d1d1e3b279501b8039c6e30f8a696fa615482
+vASCRIBESPOOL01PIECE
+
+tx 3ec7d85bbe05e94a60fde573e9968480845b90672a3e421a5bb0ae07ccf87a3b
+vASCRIBESPOOL01EDITIONS2
+
+tx fe84434e75fe7056b6b6588a419c2dccd91970314399d3529d28e17b4c8be4b4
+?ASCRIBESPOOL01REGISTER5
+
+tx 067668b6ea9b4b9c7d443061276f9af4779e1c828f717f8c1855d898f12e9c5b
+ASCRIBESPOOL01EDITIONS2
+
+tx bf2bff4b1d84dafe5f90c883b6a18b409002617630133e30fab4cd29a3e69c62
+u|01|01|eng04.avi|200.42|1454864165.34fB
+
+tx cf0e440971a231688b9e51187bf7c72ea429c0ec53985c9d61859099d56f3f29
+u|02|01|eng04.avi|200.42|1454864165.34fB
+
+tx 71f7fae8a9d36f3ffb4a41d6dd9af10888bceccc037e195516a7e01ba2bce429
+u|05|01|eng04.avi|200.42|1454864165.40fB
+
+tx 2210c94dd960df4d2f589343e82b1ff2b3515a6a8239713e7628b4572bd509aa
+u|01|02|ps2.mp4|150.30|1454864170.34fB
+
+tx 85de2e2903d90a0f7570b08b1a24ccb321a03b41f92ee56b33c7a197308cb4ce
+u|03|02|ps2.mp4|150.30|1454864170.40fB
+
+tx 2af7624a5b5b0bb3340e82fd719b7374603405235d58e39d6424e43a94d92130
+u|05|02|ps2.mp4|150.30|1454864170.34fB
+
+tx e18f457d164d888bcbcae83f612b58a617cf165b17081f7b2a469d2407ea2086
+u|02|01|eng04.avi|200.42|1454864165.34fB
+
+tx 28bfa8fa0cd69c38b1008f022568f4a25862934dd02850bb204cc1074801a220
+u|05|01|eng04.avi|200.42|1454864165.40fB
+
+tx 551c714f8e6203cc124caae6d3287ff5080c4fcdf25bac0d152f5255906b1b6b
+u|01|02|ps2.mp4|150.30|1454864170.34fB
+
+tx 01fb136926a71020eecb7e8c977123c6f6ba5a2164baec020bd5a95cdb144599
+u|03|02|ps2.mp4|150.30|1454864170.40fB
+
+tx 5971658d6546fe6cbe0bced71d343a19525ab15bf76dae74022d9e7e4fbcc41e
+d|01|02|eng04.avi|1454864820.53fB
+
+tx 21c468606e76394298c50088322c36e78c3976b5e084544a7b7eafb5932260db
+d|05|03|eng04.avi|1454864820.53fB
+
+tx d2542020f9abcfc9364c69ac57df7e91423a4763b8abcf0ce94f41e1165f0147
+d|05|03|ps2.mp4|1454864820.90fB
+
+tx a382d201000a78de15027d9aadf58f58d598744ad80b7c0319765f97aec16fb4
+ASCRIBESPOOL01REGISTER7
+
+tx d9fd8c18ef84ccbb0accde9e2ea9dd4b58b33084a0f62770900e59a2cc9ef55b
+ASCRIBESPOOL01REGISTER9
+
+tx 07a4f54d82c0decae6ac808c21fa7d7947ac1cbc9657e430a0abcfef2cc5c2fa
+9ASCRIBESPOOL01REGISTER6
+
+tx dafd69e7d9df45f9950b6e939c978460e5a9f05054b190ccf4f0f188145b4245
+i1|01|909481203981209|1454860638.46fB
+
+tx 44e3e8b4fc5ccc517104fd76a9bdd97a0c45d69a564b56f85fc3f7d1e936e1bf
+i2|01|127.0.0.1|1454860638.47fB
+
+tx 1f6de640de486932e988299bb340423b8b012ccd5847321ca2e296d49cd5e5cd
+i3|01|51912.74|1454860820.50fB
+
+tx 50836b488e183bc3ede220c9f78da8894a6e2514baddb5d755c999442a8cd862
+i2|02|127.0.0.2|1454860822.47fB
+
+tx 071b712984a83860ee5e1809ececa1d9f1c44e8240bd3dcc126e326224a2e6e3
+i3|02|81242.74|1454860820.50fB
+
+tx 5baedb0f7ce57682c488a450a753817887dbf15781ff7c7f83af17e11d8ea641
+i1|03|259481203981209|1454860824.46fB
+
+tx c29c771ae1b50c68e2ff98ab507c18533c119eba31d5b3b93392b833cb1d6ded
+i2|03|127.0.0.3|1454860824.47fB
+
+tx ec0461f70bbac961ab56f31d2680e1943e858d82d8873e91709128e2ef2d09a0
+i3|03|1024.00|1454860824.50fB
+
+tx c870cf064efc37f26bfd8e94e571e31a1c4db60bd9b5bb817761b50a7f151209
+i1|04|729481203981209|1454860638.46fB
+
+tx 74a35a1ce0470181802c889eaeaf8fd516c0a61dfb9c91e0f5be16d569cd6d11
+i2|04|127.0.0.4|1454860638.47fB
+
+tx 1268359deaa942efb44ccf2cbe30a044a9d38dc0c76a2d105e1e250982e76a74
+i1|05|479481203981209|1454860820.46fB
+
+tx ab7b99e065b3e9f168e7f6d63ff4a3d04741ba3b1b471115fe1139585fbc92c9
+i3|05|900.74|1454860820.50fB
+
+tx 98fe65c07f5fe6d6f25d03510634c3d680fc413a53e9ade180db6cd1f3afb549
+i1|01|909481203981209|1454860638.46fB
+
+tx 343e26b1f10a1824fc6546f6ef12aec6601debd9be52c9f2ea2be4bacd651620
+i2|01|127.0.0.1|1454860638.47fB
+
+tx 854f485c3fc863d783a2ef0045854afffd656e7004198fd2185932cf10a0e317
+i3|01|51912.74|1454860820.50fB
+
+tx f137b05cad70bb010c80ac3730dcb142762928c4d4a531db894a7884337ba282
+i1|02|125121233581209|1454860822.46fB
+
+tx 54ac981ed6214cf453e86166389b59adde7ad86c22526f756eba98712667d347
+i2|02|127.0.0.2|1454860822.47fB
+
+tx b0f8bef5d1a39f71fe8837c93c05b7f0c2ff2a65886deb88538358a46fba9a9e
+i3|02|81242.74|1454860820.50fB
+
+tx 8fb608ca5541d70bd6860ba0e5ae350eab272a8f91529472ed898d75e581e4c6
+i1|03|259481203981209|1454860824.46fB
+
+tx 1c58dca9aad171aa40c3b84ac2e889d3cb181c716a62ec60e929c964530b92e8
+i2|03|127.0.0.3|1454860824.47fB
+
+tx 100fd49d48814646fdd1d265590ccba57ec8c35458189142d75de2d41744de07
+i1|04|729481203981209|1454860638.46fB
+
+tx 10d81625662fce63b51c13bd841c39242d7e7a31dfdc40ee635862403c2e8f51
+i2|04|127.0.0.4|1454860638.47fB
+
+tx d5fd570fdbf11972e8bf4c7121a8f255a37990ef18ab082fe7eaefc433173f6a
+i3|04|359192.74|1454860820.50fB
+
+tx d4fea617a337989414f9c1e4a47d05f4f3ec9d602c3db9d9820329367b5c196c
+i1|05|479481203981209|1454860820.46fB
+
+tx 56e8dd6ee345775a3212ee16272cf73461c9374a29f5bd6cec09c3252ecd0032
+i2|05|127.0.0.5|1454860820.47fB
+
+tx 7646c846931e94629239d17b7f75825653887a2f011ff4e8194247b11ee7d059
+ASCRIBESPOOL01CONSIGN4
+
+tx fb6bbb4887a9599969d43d06c5453b730c3645c4b9a7cebbf426e96bbb028d93
+ASCRIBESPOOL01CONSIGN6
+
+tx bb1be10c59ee7a8bc8f1e0489865ea10cfb4705cb08bdc565da0a49f1cbcf02d
+ASCRIBESPOOL01CONSIGN3
+
+tx a56b179cf60b09547514f65626bd5c1280110e651fdb2c254b2743f7a7fa41fd
+ASCRIBESPOOL01CONSIGN2
+
+tx ab57e206fda3213c3716840fab840a9ce2b0d79019b9dc72a33f375e2f72c21f
+0DBASCRIBESPOOL01CONSIGN7
+
+tx e95bfb206c84f59b38b19c1834a4175dc5eb1240cb423d7bd4559679996a0adf
+cTASCRIBESPOOL01CONSIGN9
+
+tx 8c41b0162542e43ccfa03092da5a4379785ff6fff922843b80b2c05c1b937454
+cASCRIBESPOOL01CONSIGN2
+
+tx 9dd0255603451645f9ab1de7b648d0e61c8e79eb88543870a8688d5a22cb46ab
+ASCRIBESPOOL01CONSIGN1
+
+tx 48ca96fd639bc7928947169a71585afc263b3a142491cade75f56e49f1c1da2c
+"ASCRIBESPOOL01CONSIGN9
+
+tx 600fc199498dea1bfd91760eebf14de07d6f7d3d792b13ff656de634d623b9b5
+ASCRIBESPOOL01CONSIGN7
+
+tx 6152a001053ca3ed4e09b59d7a9b47a67b51cf5ea1a3ba06e8a151888ec3f385
+\CASCRIBESPOOL01CONSIGN13
+
+tx 44536bfbb9909deb6b30f2ee3b8605f33d3f09016fefa9b1d6c2a2dcbf38d15d
+ASCRIBESPOOL01CONSIGN8
+
+tx 5f5f620f36b45c968719edde863d26fd237bf6ffbac52906f57321630a08fdf7
+ASCRIBESPOOL01CONSIGN10
+
+tx 42f356a67688ac68a525427d038d74d61570a80e32208d0b6a3341dceb31b757
+ASCRIBESPOOL01CONSIGN4
+
+tx d92c2068df227697d1d136841fd28f12cabda7a780af87ab3cc00bc8d4937ba7
+ASCRIBESPOOL01CONSIGN5
+
+tx 320b72fbfaa71ca1e4c89f783fcf82c35fd8eb33ebee33ad2544f9265fd9363e
+ASCRIBESPOOL01CONSIGN6
+
+tx 442703f298a86e4ff19aa74afcd7eea95ff470e96d25ad06c01297ed5b0b07d1
+LASCRIBESPOOL01LOAN/160208160208
+
+tx 6fa78dbecd239d096f55da86e74e55881340e6d50e92d20e022fee4854655e18
+ASCRIBESPOOL01LOAN/160203160203
+
+tx c054f61254e23f5d9032a9fe49c48a6f1fd60d3b162b3f1f4d78c5044332b13c
+ASCRIBESPOOL01LOAN1/160205160901
+
+tx d06232de11a77705d9336fbab794660389430b0e83474efbc41ef62ae9386b38
+i3|05|900.74|1454860820.50fB
+
+tx efa07a1a7b8e44fe8e18c3bee2d22c30f0fb5b82574732a69b516e3dd30bc3a0
+i2|05|127.0.0.5|1454860820.47fB
+
+tx fa151be2718ae3a03c7a17b38a7d8b7ac175b6c9a1470fd85b005650138cbbed
+i3|05|900.74|1454860820.50fB
+
+tx 780fefbad678570308b7eef5fefc7ae2518abe9ce6b31eff3ef336dbabbbed01
+c|03|hseom|computer|1454860680.46fB
+
+tx 36f145f256cd320cc4bc4cd3c6ab35bfced88b7767d809f8c0d37827300fd8a8
+u|01|01|eng04.avi|200.42|1454864165.34fB
+
+tx 2f54a3163164be48aaa3f17cf8650d6badcfaf99c1713a4d2f00c41a785ebdfe
+u|01|02|ps2.mp4|150.30|1454864170.34fB
+
+tx 537361eb4bd33e2b94e91926001d069e2b6b3f82019e0903985ddf0c67d22813
+u|03|02|ps2.mp4|150.30|1454864170.40fB
+
+tx 179e866e4ad06e56e48e823cef1bfdb806498c8ae14b0ef217e4c6a8b4b21d67
+d|05|03|eng04.avi|1454864820.53fB
+
+tx 44f0b68491550fbc53f41dd7bb9213c623e332f4e1665394cec29a569c304405
+d|05|03|ps2.mp4|1454864820.90fB
+
+tx d69bd0570575d35e3d77612d3296b44617896ba8625c5d8d8166da414a3bd719
+h}ASCRIBESPOOL01FUEL
+
+tx 01b04c35768372c6be40caa5ec69fb5b76b3c68ea2d3768aed56ee2d29e749e2
+.EASCRIBESPOOL01PIECE
+
+tx ded411aad153fbdd3bc7ce7227978a3568b5318b9e03ffeff753001de3aa0eef
+QzASCRIBESPOOL01FUEL
+
+tx c9e283937eaf97fcb3916c47a3cf9675c184cd282a24b0e45a511529dde3a5df
+[ASCRIBESPOOL01PIECE
+
+tx 1fe92241cf29db4272a4ceca5b96cd92cdefab71bd62ea803e9fc361e5f554e3
+wASCRIBESPOOL01PIECE
+
+tx 554eaf88ec8f318ed61f0fa43e62aa9891053be542eb41d92c45b3d2981e39df
+1ASCRIBESPOOL01PIECE
+
+tx 1129a284ea4a8ca16afaae1b9565bd146ed5e39168b162702e047b07a967809f
+UtASCRIBESPOOL01PIECE
+
+tx 6dae144500ec62607d85dc0f906b6a9017a2df214dde0ffcbcf58e7bd61a75b8
+$QASCRIBESPOOL01FUEL
+
+tx 05e6311ab37e7f69f64b1c1e7da3fec6dbf4639891b856d4fbc4f7c1b0a43f93
+o,12ASCRIBESPOOL01PIECE
+
+tx d68d92b8c6670f67b4f131ca736ff8c7499478cf9adb1b00cb8b1e35dc25dc7c
+jiASCRIBESPOOL01PIECE
+
+tx e369964182470edd7b2f85544d85838f021c8165fbd41777801ef4d83695b26b
+@ASCRIBESPOOL01PIECE
+
+tx e0eb3e4485b261ad8ed467e76a5fcf4d700c1833a4a8b9326e625d0482a578db
+B:ASCRIBESPOOL01PIECE
+
+tx 8ccc21633137a4ea683235a6d2db4b79ad7aa377d9b96e6dc6921ceb36ae17ef
+ASCRIBESPOOL01PIECE
+
+tx 5c6e0e063c25c143f03a23207689e2a3cb0ae8d77fffdcab05f300bd8bc5e98d
+/TBASCRIBESPOOL01PIECE
+
+tx dcdf786b20589a319e96e85e8ca8ee2cbb6449faa89abbcca26313eb148e423b
+	ASCRIBESPOOL01PIECE
+
+tx 16a102f46551bc688c9ef538c7ca9bde576c01da4b7e38bbc07e9c82c4a64eea
+Z(ASCRIBESPOOL01PIECE
+
+tx 286a438730d236bd38c0299e7d0889e2ed6f07bae481efb046d6299378da6aeb
+)>ASCRIBESPOOL01PIECE
+
+tx 2e1c810cff95bb3f7f4208dff6d440cf064a2eafbdab6f705231d53652f83d31
+(ASCRIBESPOOL01REGISTER2
+
+tx 72ff7782b15ee8f5b29954ee7fb2613111c0940bec7bd7149ce1461aadc2a243
+HASCRIBESPOOL01PIECE
+
+tx 5c97173248d65a297ca4706cef3433c8575f0b742475396ead5a18f1e205a38e
+ASCRIBESPOOL01EDITIONS1
+
+tx ad352a9faf34ad6f5abcbe669ab2601c17194e3f3f11f1fafeedeb40e07f36f5
+ASCRIBESPOOL01REGISTER1
+
+tx 3ce4810604d000fb33fec2c3d608322eb5aeb88a8b90edcf651cda34246d8890
+UtASCRIBESPOOL01EDITIONS10
+
+tx 63b0f74cbfe66319b70d48865b7f5e1c95da9950938a486c2684ad2d2165e315
+h}ASCRIBESPOOL01REGISTER6
+
+tx 909cf994865a67044750e602b075a3868f5776a288f32c2793e2e7a4ce955622
+ASCRIBESPOOL01REGISTER8
+
+tx 8de5340164538130c485df5cbe1ff2b083ac982ca9a35a981be10bbc946651ef
+2ASCRIBESPOOL01REGISTER1
+
+tx 35dcd3a6f0a16bc62c2da3f83fff5029452b3d1502e4508952382ead10a798e2
+ASCRIBESPOOL01REGISTER4
+
+tx f9c3ded1988c1cdbe405b8420e686206f3b8c0ef8dc7d5f7370ed62c13547169
+/TBASCRIBESPOOL01EDITIONS0
+
+tx 03fc0be346395a6038d0f4841ee2c452dd3a03b7c5a935e036546f389f1d4b66
+4ASCRIBESPOOL01REGISTER1
+
+tx 3ebc5eca7ec4004cb81a9f8c4640550e630fe93b3441a881e4f3279d362547f2
+ASCRIBESPOOL01REGISTER1
+
+tx c3fbadf815467d0a28ee2eca638a751c7165316e4935aa6d4ca8cc91d9b3cff3
+EASCRIBESPOOL01REGISTER1
+
+tx 5a139349a37c323d6092bcaa50833d2fd4b294f7032921ab8f4bef6ee8e80ebb
+ASCRIBESPOOL01REGISTER3
+
+tx eb650c4bce9163e95561d10d4bb8d006daac63487ff61b8074ed6b4cc7fa447f
+vASCRIBESPOOL01EDITIONS2
+
+tx 368dfbf593df29f929194faf12fe975a13996b9ecb23ce4a67c42f0218c19f7d
+$QASCRIBESPOOL01REGISTER8
+
+tx a5ad6a0e23bcb40acb85648fd3f6e849cc3c5b8b42a99ad4f526ffe0f86c77ea
+ASCRIBESPOOL01REGISTER5
+
+tx 2411e46010e9a54dedc5eb5ca885eb5dbcccaceaa98686cd2a56951de01f2997
+QzASCRIBESPOOL01REGISTER1
+
+tx c16da8263cbf207a21087f7cec89264e69684bc7a5fb27b1930fe638c7ac9b25
+ASCRIBESPOOL01REGISTER1
+
+tx 0d228df2919221102b85cd65dd87583fb3dc3674d85ac5d8425482c09dfe9458
+ASCRIBESPOOL01EDITIONS1
+
+tx 1e61778077d9e6eb4c084480e74c16eb6771f89aae36a26e88bb32df3a93f9c7
+ASCRIBESPOOL01EDITIONS10
+
+tx 0ed415a5a69deec366f0222ef4696ac40d2a709ae8511c192d468646e49281bd
+ASCRIBESPOOL01REGISTER14
+
+tx 8f79b73f13266782a97dc796189c349532e83fa4077caefd4d9ce4f1678a869e
+ASCRIBESPOOL01REGISTER10
+
+tx cbddaf11ccc9c78654ca3d3614a73dfff8bd40db5f9426ec9cc679fddd13b986
+ASCRIBESPOOL01EDITIONS10
+
+tx 1ad36896129a19e55d5290eec435fdaddf16fcff8b48a9e2c1036b9bdfbaab79
+ASCRIBESPOOL01REGISTER7
+
+tx fc96f72e0c1040439c205ce42a9e793afc22d78a09d941c6bcfcf627af8a993a
+ASCRIBESPOOL01EDITIONS10
+
+tx 5f4f4b6a48450389ef375a03e9635f8b2b85a4c6069f8f324a63a9bdd04c1914
+/TBASCRIBESPOOL01EDITIONS10
+
+tx 4b8f5bdd43ba26b1d20ad47ba84d3afb5fd69c98a7da3647c07160cdcc02dafd
+ASCRIBESPOOL01TRANSFER1
+
+tx bce4de0faef45807bc7d48fcc281bff8c33192fe597beca46cd86675c828e515
+}l ASCRIBESPOOL01PIECE
+
+tx 00a759110613d3b2d87148fbea806c525f34a5d42114ac763317d75b87b706ce
+ASCRIBESPOOL01REGISTER2
+
+tx 7d25abb15b9b388d75ba346b0a7a0c9e1b3792ccb1015059a529b7db4d2a1dcd
+ASCRIBESPOOL01EDITIONS2
+
+tx c2198c62a4927f3f64154f94001ee87a7ea8d67632be5d66f797f78c838b4d5f
+ASCRIBESPOOL01REGISTER1
+
+tx 01dc1f8f72ed06daebbd43b1441bf57c5d4c70c47786759bbbf29562b8b34983
+ASCRIBESPOOL01REGISTER1
+
+tx 216f374922a73aa30d39ff222f236c185648fabed23f21c8b7fef144cfdb00d5
+}l ASCRIBESPOOL01EDITIONS2
+
+tx 145a57d24a99a33f75e8c650083a23d5fa8f08472d7226f8e49e6dda63f56dba
+i1|01|909481203981209|1454860638.46fB
+
+tx 12fb543d6592a21cd02e1b8897efe5d001356ba960e8fe5be14e85b6f4683f01
+i2|01|127.0.0.1|1454860638.47fB
+
+tx 1a0fcaaee6c16f0e6a8f06b34925aca1ddeda94908dd43f6a50f1394e5d0d60c
+i3|01|51912.74|1454860820.50fB
+
+tx 66b217fe35bbb7c62e9335ac043186fa7f8fbd8821c6a8d00f7d8625257ce6d5
+i1|02|125121233581209|1454860822.46fB
+
+tx 6145dff7aa2d840804c8946da768fd01295bc8360775141035550c156d3a10fc
+i2|02|127.0.0.2|1454860822.47fB
+
+tx 8666bbbbda75c5471571a460a86af4540e0037dc75ab00ade6a6beba3114b2a1
+i3|02|81242.74|1454860820.50fB
+
+tx a0cf94bf9a91d6e740b7801c164f19656c7203d5d679320111d8a44bdcd21790
+i1|03|259481203981209|1454860824.46fB
+
+tx e607c21698153dddecf29ae18ffdb8682234b9c5c5e6ce118e016b8cc06537fc
+i2|03|127.0.0.3|1454860824.47fB
+
+tx 2c73dbf35e1d20310e0d941c232a6c7db91e2b8f11d438a4d6c2a9250e3e895f
+i3|03|1024.00|1454860824.50fB
+
+tx 9fcec02d00048892463362b04ac3ee72a3c8e985ece697970f94e483422d0069
+i1|04|729481203981209|1454860638.46fB
+
+tx 8add0e43f4cffece4a3271c7fd0edf11536147d9869ea4376589d114d94cccd1
+i2|04|127.0.0.4|1454860638.47fB
+
+tx 436df8bf8b8d422e369ba98c1bf5499d8735da23f461401ce786aaee048c7caa
+i3|04|359192.74|1454860820.50fB
+
+tx 6ea66e5b12d71d3ebce876d2e44f2acc829d2dcf1fe96b3cd0de8548cacc1dd7
+i1|05|479481203981209|1454860820.46fB
+
+tx c08aa3006c5e8139e390a0cc809679911645d72e70aa88c7020d022090ecedf0
+c|01|ydseo|computer|1454860638.46fB
+
+tx f1b682ad460578da3c0388b37a56245ebd35793500ac193716e21f7f11087c0a
+c|02|sjha|computer|1454860640.46fB
+
+tx 90ab785886a399f8b14c70635687ba0f79fa8d2a5fb79b2cc1acd4e96689f189
+u|02|01|eng04.avi|200.42|1454864165.34fB
+
+tx 9e892f0ac88e616252756b5e947039f2f2eeb8602507ef927bbc925117b73700
+u|05|01|eng04.avi|200.42|1454864165.40fB
+
+tx edae06684c9a65bb8541e13082ffce29cecdb6f3688ea39638d4b66f0932a182
+u|05|02|ps2.mp4|150.30|1454864170.34fB
+
+tx 2dcbcc056fc4fe52e6c4f9f43a3ac36e61bd26acf6fa07233ef093f4278c7a4c
+d|01|02|eng04.avi|1454864820.53fB
+
+tx 4c907137784d53d8c6788aa505ddcbb72a5c58aa3ecc7bef0e36148b9c220d94
+r|01|03|ps2.mp4|1454865234.10fB
+
+tx 1c39198cb07ae8b6e0332f0ef2dd2563d3e46f030779b08427105e05d485ba22
+i1|01|909481203981209|1454860638.46RG
+
+tx 2ca7fa5cee0d77c5ed16a54689f27266f0348a6913bb7e59a82f83e8986677d4
+i2|01|127.0.0.1|1454860638.47RG
+
+tx 926c0d23f48d5d758442c0dc917eae0db6f6ad892af1f1cd7f825fca16185238
+i3|01|51912.74|1454860820.50RG
+
+tx fc2d237085a673650b4780dd464bf9854969cf73f17aefc15f23ed1d9e0b95bd
+i1|02|125121233581209|1454860822.46RG
+
+tx 8c665dcfaae07d58e8fa7b14c5012d4d5a34e8cff9a19459123d16204b8642d6
+i2|02|127.0.0.2|1454860822.47RG
+
+tx f2e92a1a3b8f30cfd35df8107896242d73714ee364fbb1499370e4f3e88af092
+i3|02|81242.74|1454860820.50RG
+
+tx d518c4d85fabd63df31be251b72bff0bd6632868c898699fa6aa926aab5d5102
+i1|03|259481203981209|1454860824.46RG
+
+tx 5c716785b941cf198f1049e2f17373765a59126a505dc700b787a9a0cd843609
+i2|03|127.0.0.3|1454860824.47RG
+
+tx 87b59e404e7df42203eefd9ad70f66327777c1c3c7129229fc7e82d541361040
+i3|03|1024.00|1454860824.50RG
+
+tx 44087af62c930d54272163e0401e921fb663341f01b1eccf5e97d72a11d2cf5d
+i1|04|729481203981209|1454860638.46RG
+
+tx a747c23e75ae8ff2fe5d30379373448fe12560818d7eecd46358b0cfea56902f
+i2|04|127.0.0.4|1454860638.47RG
+
+tx 100398b93408fba17544009bfbd50bdf5737221673f959e892c1f48c3871ca32
+i3|04|359192.74|1454860820.50RG
+
+tx b7ab129487e897e7231e83811ae195fec72c49474de307216536b9f20e1e51cb
+i1|05|479481203981209|1454860820.46RG
+
+tx 7623daddee3260bc62520ca35fc8d2d51284d5c6273cc927735b860879c3cba2
+i2|05|127.0.0.5|1454860820.47RG
+
+tx fafd2cecdbb8e0427f1e92650f89b3b29ca801f90b2ac7e45019c19c49b1134d
+i3|05|900.74|1454860820.50RG
+
+tx 6741dd5e5a22138c2bd68c1ea5fe07fa5e5c3feca789673c084ceebd271d6013
+c|01|ydseo|computer|1454860638.46RG
+
+tx c8a2896b14f521d1615436ac123c60642bea8d65f9feee1d709528e12e0b1454
+c|02|sjha|computer|1454860640.46RG
+
+tx 8938c522cbfdfee90a222e1746d54799a28325f0a3c07c09910bf9c19ff1c697
+c|03|hseom|computer|1454860680.46RG
+
+tx 343e62933bc7437a094153a12677deb4f652ac8cab692013ee8014b65a7c568f
+u|01|01|eng04.avi|200.42|1454864165.34RG
+
+tx f5e4de118d0ba4e4bccc5ece404d475b848fd3583bdf225cb8617a26c2e8efd8
+u|02|01|eng04.avi|200.42|1454864165.34RG
+
+tx 6e5ff947d2617dc7b24813288e9ab1df16aafc41658bc1ead95034b3c20a0710
+u|05|01|eng04.avi|200.42|1454864165.40RG
+
+tx 91fcbcf051c7e44c128a9b8ffaecea46ec8575b6c6ce80a8df8495e8fc1d1554
+u|01|02|ps2.mp4|150.30|1454864170.34RG
+
+tx 83bf8e8ab6eb9e744a88fc4a2c1661720a74edffc9636b2c6e8cf4ff8ad1c2f6
+u|03|02|ps2.mp4|150.30|1454864170.40RG
+
+tx 26a8cc05302d1514035006300c98df90de938b22fbdd669766b44a6816d0e204
+u|05|02|ps2.mp4|150.30|1454864170.34RG
+
+tx e6a2fc44e9bb832950001691cc433f0865b5f3f42b77767498e11b88b9a692d6
+d|01|02|eng04.avi|1454864820.53RG
+
+tx bf0ba1eb93198c3fc58fb65b4c8701f00c863e1944b1c79dc8bb7cbf15bfed66
+d|05|03|eng04.avi|1454864820.53RG
+
+tx ce5509627ae02c3dc3933294363428814d23319f58f295ac5baeb3029cfc0d5a
+d|05|03|ps2.mp4|1454864820.90RG
+
+tx 3b602ee35ffe440df37bffa0c6373a62262bf9eedbedc52af16e3db49f39466a
+r|01|03|ps2.mp4|1454865234.10RG
+
+tx 4dd862c808c7d89d7baa1d90a6bd9c95e2f31f31e88d8d06f18cecc06322b6a0
+r|03|03|ps2.mp4|1454865234.10RG
+
+tx 968c35722a6eef6b3343633eb1f57eb59754cea110b212548caa5a5b60d09ae5
+ASCRIBESPOOL01CONSIGN1
+
+tx 7e489c3eb2295406962b594740bd84710926777574e20ba66bb8ec1a9dd4b6bf
+_FASCRIBESPOOL01PIECE
+
+tx 46b9dffdef3b0a75a2440c1e39dce7fc97fdf742b2545e478fa1ff6fbf321f31
+_ASCRIBESPOOL01PIECE
+
+tx f71a46af5b828e372bcfbcf95833c473666c0919a62f7457045dba1b2a75c1ce
+;-ASCRIBESPOOL01PIECE
+
+tx fe218123dd3ed40aa9524187cc84711c58fe78f7799f783934ce70031ce6c52a
+jASCRIBESPOOL01PIECE
+
+tx bcb77e7b467071306ac19f9b1bc74cb1369f850400bb59c8b0e42ef62a99a18c
+ASCRIBESPOOL01REGISTER2
+
+tx 2c262debb9f2e0cfd2e96d0144d732c7555737653608cad3ebde7f1a104b28d8
+ASCRIBESPOOL01REGISTER2
+
+tx 8816e15acb434b73cfbc433a59ce9722675fd237d3bb3635aed9ce085498d14d
+ASCRIBESPOOL01EDITIONS5
+
+tx e0868452bbb469bba2666d3ed18b2aecb7441d8553d84ba4711b467f6bf2d155
+vASCRIBESPOOL01PIECE
+
+tx 766a2e72916c3be78bed3ba1877fdda5fae4f3f925455dce13f0b974b4754515
+3Uw\z6ASCRIBESPOOL01PIECE
+
+tx d761ce715f08f261ed3d459a758abeb0b0a19b9290d900a22cf6ba5c5197d087
+ASCRIBESPOOL01PIECE
+
+tx 21f44d40f1375e74bcf8b731b938cec4f082dc4d5121f1db562d5da73fdf17eb
+6ASCRIBESPOOL01PIECE
+
+tx bc7a3311c540c7b8f84cd5ab5ba2e290f024cb87c826ce69557101909165f6dc
+HASCRIBESPOOL01REGISTER5
+
+tx 3624e3ae01628d183fb7d554e1054a6a88a89c8e199554d1a672b66242e904f5
+ASCRIBESPOOL01REGISTER2
+
+tx dd2301666245e3c63f9402270e454e0cffdabf782c5a9f75af457854ee5b1fc2
+ASCRIBESPOOL01REGISTER4
+
+tx 6583b947beb973fc29cd0b073a4131d1f31d88853a883649b54eb4eeac787723
+^ASCRIBESPOOL01REGISTER3
+
+tx 0f99029734b19998ffc42e473a093b1b3565534452f4fe65c063d2a4769d8d43
+ASCRIBESPOOL01REGISTER1
+
+tx b38e619fd7a9084ecdaa4f5329516e6b9602fca6df7c79e87792fdb929387b95
+uEW Juve-Napoli 1-2 @13/02/16
+
+tx 756751ae14ac1ad1e40a45409838fa779b27cc1e50b70983c275cf2b98a54e4d
+BASCRIBESPOOL01PIECE
+
+tx 87949eb49adbeec2492a352bdc49db8a2b84f36551f49d6cce4032df2b478268
+rASCRIBESPOOL01CONSIGN2
+
+tx b2c9136f23f345cbc1cc82a1bbc7eb3855190f1fc500c81d13977c97b68643d8
+ASCRIBESPOOL01CONSIGN1
+
+tx b48368ecba1a81663642994570358b4f22ac74cf4c1c4d16c238ad9e87a392f1
+ASCRIBESPOOL01CONSIGN4
+
+tx 1d6b5fb49221089186d72a7300d4d974342950b4aca528aa800bd6c4ea295a84
+ASCRIBESPOOL01CONSIGN5
+
+tx 7ff13c7da5144e6acc85332656edec14a8ecd7322bbe946f268d9ec92b064ac3
+62TASCRIBESPOOL01CONSIGN3
+
+tx e83b05868135106f267e0f4c202c82ce23d797c2e9cc8c11a4fabb2f6e67e65f
+ASCRIBESPOOL01CONSIGN2
+
+tx 5b9f2f40114939a075961daa7b5ae316c11a0b7945458e46ce5a30ad8349040e
+ASCRIBESPOOL01CONSIGN2
+
+tx c85ecaeb0f27ee95c506bf2d94a554aeed30472a5df7c847674642aaf5380ac6
+!g>ASCRIBESPOOL01FUEL
+
+tx 1504df5116cf8cf3ff91504ab0ad202bcc248468442c38e75461ae7be8a4aefb
+EASCRIBESPOOL01PIECE
+
+tx be16f1929dc0611da400b58745cef0dc341727c8512c9d7f1ad77460886f60b4
+/ASCRIBESPOOL01PIECE
+
+tx 3b3a71b3f81efb5f03042c6a5dba055816322579389b050e68a84bf8f630e966
+shASCRIBESPOOL01PIECE
+
+tx 6a34119e89de7b7aac1a32ab601e725bcc91f46d0eb0139d15df0ce42ec3b89c
+LASCRIBESPOOL01REGISTER1
+
+tx 8b971a8c710b56de0365aee07a2664516af4c38a14ace295213452caf9953fc6
+EASCRIBESPOOL01EDITIONS10
+
+tx 8fd4cae036f140dbbb8c9c7662a4dbd6d23abf09c70a9f097a7f058389d54dad
+!g>ASCRIBESPOOL01REGISTER2
+
+tx 2c3bc0ea3fe2455e8fe58104026396f9aa9a61005d8349234b52a806c223a6bf
+ASCRIBESPOOL01REGISTER3
+
+tx c3c1357f5c5f8aaf37be2fdb1d30594c26d97be09ad2c659836aad094f620397
+ASCRIBESPOOL01REGISTER4
+
+tx 9f4cb8549c0dd91e356008b53829b5b9b0cb3600ce27366c9b6a37f831e36928
+=+ASCRIBESPOOL01FUEL
+
+tx 82af60a0c7ebac5cec5ffb0ab84a75807eae6d14a9a50c997b49b54041381a83
+M:ASCRIBESPOOL01FUEL
+
+tx de552756fdb9ccbf124b164e28677943504f9000deedc6aef8e3bb4090316399
+ASCRIBESPOOL01REGISTER7
+
+tx c594c2b0ee9893032ebc08e3a60648fc7000b320b099d7f8884ea3ddeacb8ec0
+ASCRIBESPOOL01REGISTER9
+
+tx 8ae558d69fa7c7457316406ef947be81f160a3fd52771c51ad25f67cd9eddcbd
+ASCRIBESPOOL01REGISTER5
+
+tx 4e56b3cc454c9988b0cdbc68edb8d6cde1bd0909f44a2084ffaa2e86897f32b1
+M:ASCRIBESPOOL01REGISTER8
+
+tx 6681d1a29ab0f2a811d3c9472909f0ec1f4f21200c4c0fada606710727fa0ebc
+ASCRIBESPOOL01REGISTER10
+
+tx 1ef8fd968d816a647503c0b857396bea694a6f7ad6eee13b4d9f0c15f8163426
+=+ASCRIBESPOOL01REGISTER6
+
+tx 3f0796e0122e476893d938366973aa25f1bad0f3223854b2711b795d0ad84590
+ zuranimid. Shugi golgai gelnakhanishim
+
+tx 804817e5e5e6bb39f6105b3ee69e08350f5b1b71060ad1677cdb751e470fa36f
+|EW <3 eternity wall 
+
+tx 814c497f7d9efb891f49cb23495b9dc712db33c9e94955cc9976ea80fb25afc4
+%kASCRIBESPOOL01FUEL
+
+tx 226256ece9fe3ac4adfb6ee13533cce462b8ee07012a61f114cbafa6d28beae2
+ASCRIBESPOOL01REGISTER7
+
+tx ce84315af8c9ae974fc89be47b0041ea4c0dfeb0f7fbf78ab593dc0454e075de
+%kASCRIBESPOOL01REGISTER5
+
+tx 7ed24e7b585c71d2c0e964d351be14a1a259f09956bbb327a0a96f14a1bf3aa3
+BASCRIBESPOOL01REGISTER2
+
+tx 55bd4cdb9ef0ab30b91304ea5ced3e32b725b556e0e0c93971e0e256a71d0d86
+ASCRIBESPOOL01REGISTER3
+
+tx 21431d2e691c9d8ec92dadfd2f0b1bb8048fcb007d9d05188e613675db1cc481
+ASCRIBESPOOL01REGISTER1
+
+tx acd59f95f780c62bfcece9308dc61c9d363c8db29fc228fd5864589f928c131e
+aASCRIBESPOOL01REGISTER6
+
+tx eb3c8b4c02b72dfd16653cc4728c1fc9b8abf6dda084a7558090bdfeccd1cdc2
+ASCRIBESPOOL01REGISTER4
+
+tx 949d8aee41f05ce4d7bac385c2f42448b17f08a619f90128434f33c91a6eee86
+ASCRIBESPOOL01EDITIONS10
+
+tx 2d2710e4be3aeca3507c5ee3592857488ad2a49b98d36355378b418b0fff7a3b
+ASCRIBESPOOL01REGISTER9
+
+tx 5df7c88065d857de993d129af220c1edff2bb718da3c025230bd8e6123321a9c
+ASCRIBESPOOL01REGISTER8
+
+tx 5ad8c63382cd9929482690a0dea268cc5b5222795b329fdc92101ca550ca2f74
+ASCRIBESPOOL01REGISTER10
+
+tx 9ee6ffffb5d2f1b371526d97ffac544f214b9bf6915cdef1305ed6d30389d202
+qKM6XZK+zkThigatfZU9qQ==w
+
+tx c5d65fa49822bd52874c9e91c10cf34d91d084c0d027653ddde3eaf4e6036a03
+qto4xEHoDQPs59AgxKQw1A==w
+
+tx b271d6ec49bfc0e01148a7000246e5d8fa1af3acf09954e58fa155d90dc668cc
+RO90eduy9Gk+LQ7qk2gOmw==w
+
+tx 1ad584827e5e97bc3d22772c672bc25ab3902a314e789a408334dab2b2100502
+JhZyQW9DsvxyUZ1hbXbxdw==w
+
+tx fa6ed326ffbbb6dcfc8c829454e8ae12ea24ab9408f8142ee416cd1a96f1b470
+oOHTP+11iUVhUNG60bp8WQ==w
+
+tx 0c26ce7928dad19acad69b9d73c9e4ecf4acedb181bb20c6499e6ccdff96d6cf
+fIhXqVhZnPspHlOJAIvaAg==w
+
+tx 6f23fd428c06b832dffb34a810bd4de2202db2c72c4923ee5714c763b7fc3a11
+9tDjOxvSuxTJe0k7X3wANg==w
+
+tx e94837284229333960b950067788f01aa4d33bcce4e92ac4e867049938698cfa
+A16Arta8TJIp1p0wxJaGbw==w
+
+tx b0b794ce7a1abca454eb62f21b6af2fa76d13e7613088010fbb524a6f31ee640
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 2a8131a389efe9178d88c35184912895e20c2163c382c1e20891f5d0967e8c51
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 7c7e8cfe39692cb244de787d13646f6cc01b358593cd4df21aa842e59d8b8d89
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx b864ba87bfb3a1b035f1ab472412a4bdf18d856a018fd60f196c640db88820a2
+AZqtASCRIBESPOOL01FUEL
+
+tx 4199f28f95e29ad11a705196f3a73cbbd473cafa7074bed86319ecda1c7df418
+ASCRIBESPOOL01REGISTER3
+
+tx 8e409ac1c980cd137f0aa43dada1232edd944364af8cc80e2067dd93467ab446
+AZqtASCRIBESPOOL01REGISTER1
+
+tx 80f35c64d20cb8cf35779cc07bdec70511f46e86cbd05f5197b5505edc0aee3e
+ASCRIBESPOOL01EDITIONS10
+
+tx d98b29694634a5a20c152418be2fc41449e6d759a2b85d1ad650264921bdbfb2
+ASCRIBESPOOL01REGISTER2
+
+tx 14fa0d68e498e984b2d50ca853aac4fe8c6a44253f81954f368a978f1d59daf8
+ASCRIBESPOOL01REGISTER5
+
+tx 09e1e30cbdd4e4997fbefd8e9878cba0cacf7c83d15d50ad8ee0f8bbf09d667c
+uASCRIBESPOOL01REGISTER6
+
+tx f2e235a9f8aa5593469134937aac8208ddda7f69236f368ff022e3f45dad7a4c
+ASCRIBESPOOL01REGISTER4
+
+tx 23a82e0682d2c5392dae4b4d8f31acbabd21a8ebf62ff675f654cbfac935ac3c
+wW/0CASCRIBESPOOL01CONSIGN5
+
+tx 51c28ffcb93e58c7c9101d62aa0996d75b2f5ad8e08c604d84206eb7bbaaa04c
+ASCRIBESPOOL01CONSIGN7
+
+tx 3d07021c3f8e780b09646b80cedcf452801c220d02df163229b1f6b301ccb32b
+SASCRIBESPOOL01CONSIGN3
+
+tx 783bcb9822e7359f2c1e81b7d632e3405b10cb06ed5be8ae891878e0f8a1eca0
+ASCRIBESPOOL01CONSIGN4
+
+tx c07c6f55b9df20de15312b4784b346fb8f2156609c787af5d9d34faf29e159d1
+lRASCRIBESPOOL01CONSIGN8
+
+tx cfd7f5265ebb7d680e9dd62a633e73284f50be4ac09bfb7042de147bd93902a0
+ASCRIBESPOOL01CONSIGN7
+
+tx 2774b575d421351836cafa1f53c02c03f0e0924489e605239cad9b1abd992c4a
+OASCRIBESPOOL01CONSIGN9
+
+tx 4706c5d2e8428c36e665424ecea0cb7792685548f030ddc83cbf77be3dbc083f
+ASCRIBESPOOL01CONSIGN6
+
+tx 3a7767183cbfceaf2fbd48e7ca376524438e6382562662e507980637e77abe0a
+ASCRIBESPOOL01CONSIGN10
+
+tx 09efb30b2fff05c7fbe8eeecc50fbabf285580f0df72d49933b358a1891ed8be
+ASCRIBESPOOL01CONSIGN1
+
+tx 9d7de6c4cd3387a9966034325026819ef7924648fd7e67cde91bf9e2c6ce0dd1
+ASCRIBESPOOL01CONSIGN10
+
+tx 0a7c81ee0ceb53145d3d39afd77a10835eba0ee687378c37d3787dcad475a051
+ASCRIBESPOOL01CONSIGN1
+
+tx 249f7af66a727a4f197b01acdaddbed3a1311302b0a9c0a7a3ad2a72c529389b
+;`ASCRIBESPOOL01CONSIGN2
+
+tx daedc64ddd3070d0866ce09f162a5115abc1badc67e3070039d6bcc543cfdd15
+ASCRIBESPOOL01CONSIGN2
+
+tx 6a59bd9afdd55e96ff8c00c24a21e16f8773df9dce4edc6462bab5359965d196
+}ASCRIBESPOOL01CONSIGN1
+
+tx 9693f3cb857a5df1bd499ca2ec8315bbb5638b9e8380a881f08f875957721408
+ASCRIBESPOOL01CONSIGN9
+
+tx 3c5a6f5a26230a2c38e10ff2ccd0d265aa94674445512b0bc1d6e7e7e699e4d6
+ASCRIBESPOOL01CONSIGN3
+
+tx 75bd1b8f5d0a688c2866d4904a156a2c8964c8def71d662194948ab9bb848fdb
+t(8'{ASCRIBESPOOL01PIECE
+
+tx 1ba67303de4fbeadfb4db0d77b69deb8b32c184781ee08c3b95fbcffab421afc
+*ASCRIBESPOOL01PIECE
+
+tx ffae477afc23cb09e1ca49106c4f5b0f377b247de054ae245f297357a4a83935
+t(8'{ASCRIBESPOOL01EDITIONS0
+
+tx b9c4b66fe407646761eb28d33f10a9c8a39eb81703540105b7505c017cb0f1ff
+t(8'{ASCRIBESPOOL01EDITIONS1
+
+tx 6579572187061be3675bf5ab216d6313212d049478a476f83e55ca7a7d061b2e
+ASCRIBESPOOL01REGISTER7
+
+tx e0356c5b2a8d85cafa64a3c8bc962b36b9545198929821c45046517f31898d12
+ASCRIBESPOOL01MIGRATE1
+
+tx f068f13294ee4213ed364734efebcc016d40ecc3e20d0b8be0f0e56e2c83129d
+ASCRIBESPOOL01REGISTER1
+
+tx 8130ffe02e61e1c1bb80e7b646f13dd6044fe21b7f5b83e4c319c8fe81496a49
+NASCRIBESPOOL01REGISTER8
+
+tx decfdde920d714c088cd9c9a447d54ee5bf24849031ae63e94c4f874ffe00699
+BoEW Sha nargiz ob-hakhtil. Nargiz khobdi
+
+tx 11c665136f8bda3d731d095a42227837b067be5ebbb2bf21df93cdfba0f31a76
+>ASCRIBESPOOL01CONSIGN7
+
+tx 278565041083fe674fa6e16f4a1d7f78f85ae4bbf7aa1d95161be5ae0c697563
+3ASCRIBESPOOL01PIECE
+
+tx 4cf209b9d2b318093ec0ad457db2977a5036a658e4f1631a68f2cd432fa2301d
+"ASCRIBESPOOL01PIECE
+
+tx 7a90c5a574142bd302b5de6b587813ad41318f96d3c8e6538d415c75c8277050
+"ASCRIBESPOOL01EDITIONS32
+
+tx 1f2c9e022f02392bffdfd4eb6e818c5385e01bba5799b3ae6766b18dea4722d7
+ASCRIBESPOOL01CONSIGN8
+
+tx 95440b83088b6a5253f9ddf927f1fe298f79bb06c5dfa22f41b888fc0dda6c68
+LASCRIBESPOOL01CONSIGN1
+
+tx eb3c17c072bb7c6bea75aff1626dac6daae198e2df184637a683fd2fa8e8f6d9
+?gASCRIBESPOOL01PIECE
+
+tx 6445ad9c65155a6e2f313334f07b23ffdefe490432f37ac28057d5c3eb969b5b
+[ASCRIBESPOOL01PIECE
+
+tx eafa68d135c0a7b39dd30f2ff8b00c853d142bc49ec9cbff3fc4bea4e43bfdb6
+id:davidbrunner.id /
+
+tx 13ed774f1416b7c0af274c1c9b3e50d3cbd9c2213d90ef1db329533d3323d204
+id:sandrinejoseph.id`
+
+tx 2e27861cfe2853d4244244211441d97ecb6d859aa4eb689dc4bf13dac6f6abe8
+id:ericvaschetti.idB
+
+tx cba8ec3ad68ef8ae67c45b0e678c82cb9892b286217f6c29ba69dec42ddde951
+id:thomasbittner.idD
+
+tx 36c34cb73abf8750b6b363fb901b6560b7a339f2e7e9b600b573c9ab97256dc8
+id:david_rousseau.idw/
+
+tx 9195dd52d3d3c61f4d9fd3739e8bb0b37b591a276c6abdd6d3265407f1946c3e
+id:emmanuelguillot.idu
+
+tx 9d3d342f05fdc157e5f613807aa632d6009889b1ada95e8b6e48344a9d8f2385
+id:bertranddunogier.id`
+
+tx aa84c3017033bd1539c81ed4b0a2773caaefde05cec1142aea529d64d3a35824
+i1|01|909481203981209|1454860638.46
+
+tx e914cfb32694de0f6e5d5bee6ec9ea0744283badbd5168f7c12050d43b29e9a6
+i2|01|127.0.0.1|1454860638.47
+
+tx 7a0d8b4e88c39da5584eba75c39f8a074c9a33a20d89fabe781b1c932560ee4a
+i1|02|125121233581209|1454860822.46
+
+tx 11eaec1fcf5b44d3ebfe97e28b72ded656a08923f23f1120b1fa57288bc09bcf
+i3|02|81242.74|1454860820.50
+
+tx bb6723674275c476fcce62b8a3cab88a6e2fc9dcfcb06213f0490cec9834f467
+i2|03|127.0.0.3|1454860824.47
+
+tx e8436964c499a267d510870d0c80c284868d5e42a1edd32da7d8f8193c362648
+i3|03|1024.00|1454860824.50
+
+tx db250fe8e5d1ef0556a8c34fb869aaa5b9672ca174c8683405075d520a972924
+i1|04|729481203981209|1454860638.46
+
+tx f9c282c2b4182fd78266cc621661ba27d9891704fd8c327f8a485e1708d70fdb
+i2|04|127.0.0.4|1454860638.47
+
+tx 2bcf789e7a2c7936ba92e87924a22cc7aa13543462eeb1122f802231c2ae0eb0
+i3|04|359192.74|1454860820.50
+
+tx 13089e368c113ceed36c2596e6c3af6bf1f47a2aeea9c6523b517aca3bb02f2a
+i1|05|479481203981209|1454860820.46
+
+tx 678bf41572c76a0c1ad7b797e63bea0e8ba309731cfb4468acb8b4b17c2c391f
+i2|05|127.0.0.5|1454860820.47
+
+tx 05bbc66fd778bd0fbebaec81b06addc9f37c9e2c667682bcf65a7472fef294d6
+i3|05|900.74|1454860820.50
+
+tx 79e32b7db3475ad7862e0ba3c65037c1315a5c4c281632c2bcca80b2f8704403
+c|02|sjha|computer|1454860640.46
+
+tx 5170be559561e7d8485cc0aaa93bea459afef22fd167972d689cb2dbb05a772e
+c|03|hseom|computer|1454860680.46
+
+tx d82f089bd372411f3b578387f041a16f2ece6c341b4abdbc872a4506593bc741
+u|01|01|eng04.avi|200.42|1454864165.34
+
+tx 14140af1cf5ccbe54e67e9048027206f9f3a19280681cbd411f1fc2b75ff66dc
+u|02|01|eng04.avi|200.42|1454864165.34
+
+tx f2e27b38dbb3b70347712bfb2bf68367626fba6426415f5c78161dfdbec62d60
+u|05|01|eng04.avi|200.42|1454864165.40
+
+tx 8eb56c1a73b3050c38ff1efcb9d6c42677dbf416b4445d5045069a2466581be6
+u|03|02|ps2.mp4|150.30|1454864170.40
+
+tx efe31923c2f46ff6ecc748955ce112879db8b89ba833a99a386a0f0b9147687f
+u|05|02|ps2.mp4|150.30|1454864170.34
+
+tx 248d0337f94aefd308158ef332c60b16eeca53c1233093ccb7e563a0bd5bbc92
+d|01|02|eng04.avi|1454864820.53
+
+tx cdea711276fbf01a4fbd357615b3019578199835376e57ce04096436693dfa49
+d|05|03|eng04.avi|1454864820.53
+
+tx 14426cb2997b3e58e94ee128feb2f5a6ee24a88501bb071ef121fdd412a3fb2d
+d|05|03|ps2.mp4|1454864820.90
+
+tx 26363dc623d28c5cd3448fec36d1bcfce79786201707b663536869e5d9a3f44c
+r|03|03|ps2.mp4|1454865234.10
+
+tx af807087724ec92f04ed72f061cd27be2dd3faeb7fc63f26da40aeb9a9e26c94
+i3|01|51912.74|1454860820.50
+
+tx b3191d431316357dbaeff1de0ccc5e4546afcb29168879f9673c7881e8c332a9
+i2|02|127.0.0.2|1454860822.47
+
+tx 0c72447d185b633b6dbc45d961bfea415c767f7143c56bd553ffb51f56df0508
+i1|03|259481203981209|1454860824.46
+
+tx 72960480969c40ff71835d2b9b5290762cfb46b85d4540f678b88f0139e5865c
+c|01|ydseo|computer|1454860638.46
+
+tx 1fe91e82904578c44d5453e1759850d97106adda91cf9c3b34225e1cff92b061
+u|01|02|ps2.mp4|150.30|1454864170.34
+
+tx e4ccd26f527b317f46f24bd81176a9d6daa2b5d40d48932abfe0207f4c7fc104
+r|01|03|ps2.mp4|1454865234.10
+
+tx 434c36b285d6165378f319784c189fb4b039bbbba2a3fa4e3bc0991a6bdfe1c2
+r|05|03|ps2.mp4|1454865234.10
+
+tx e39f75c93decd3a41ce7ec9413e08e2af0c94efff8b50ba687bff2172f029d13
+id:kyrah_abattoir.id
+
+tx be5b175eb91ac9c209627adfaf2e89ac1e19d863e813e296b7ec693481ab9c6d
+id:joelcostigliola.id
+
+tx 1f90f6a2761a58932a2077da6cc58dba6e794c8b36839a29119a418aff60490a
+id:sebastienmauduit.id
+
+tx 975544d9bf723ea0d1703706682d6e9a57504c949e37159c706b011b42b96303
+id:pierremawas.id=Dd?
+
+tx df6c965470fa1fbf771fba586c2912ef833a02e932f38c67544011c8420c80ca
+id:sergealfandari.id
+
+tx 3ed9d6a973f6b98a2f2c3281212c6d15f575d10a945209741d59826fcc883526
+id:francoischaulet.idw/
+
+tx 94eef144f8f7d88fac39edcf5c1bf71708cbd96ca1169a1e3c1821c9843ca68f
+id:laurent_chemla.id
+
+tx d311a8dcd0d90a51d88dbb5afbf5085f6ea183a610003b76ee4f94b13db2eb10
+id:martinmagnusson.id
+
+tx 4c8af24d941807c7819954d9883348e7719dfd710e9208cc2467989b14a4a6c1
+id:mickaelbendavid.id
+
+tx b8185be0317992b425158b14f57ae8c8be309ecaf7be7a2efcf5e1c5eb06bc8b
+>Fm]ASCRIBESPOOL01PIECE
+
+tx 4e8146c14309f7bdb267951449c393f2fe83855b8227c52c960dc77b7eee5da5
+866A759995DE6BA88F0478E8FC6F836C09BA6B6EA)
+
+tx 139d583cd983a55b98bb20dacc343af8f6de24a6356854ec366d7278e207740a
+3943525D2CD79FD6B6A42C1F9ADE5B8F20246DCC
+
+tx 3fb3d2c3c59dc63a3f2d8b50835b4e40aad3211af38be3eca71b200e9b02e828
+3F3F93B032CF187E471A9842E786C3DEBB43A8CA
+
+tx dc8f7d896cd021dda747e05ff2e03c5346346e0b02958a63be8406492d7f95b3
+DE070C523D5A35CE91FD5C457750C953301ED93C
+
+tx 12b47df56a5b951864d5c5c675c4b1a5ab6826f996f9bbde585552a7f3dedb54
+EAD635FC77478E6C1E69D9680FD24230359BFF65
+
+tx b31a07f5c4a20634792347669fc1a69ca690b4c37b8d869e15cd7e710400f8d1
+F31A8DF22385A75FD13D6D0889B8B5B8213C3079
+
+tx 1642a6550891e5ae46b607ff35656fe4b9f2f4151cff6747982110954f7ee54f
+id:berr_antoine.id+
+
+tx 63e5508f10b4ccf64b81b2b3c70e2b4d98995706bc23859989166392f285239a
+id:sebastienfournel.id
+
+tx 4c28f020ed7df1dd47b809e32b9afe2da3898e514697ec9ff0c04c2e2bb56cb1
+Wednesday, February/10/2016 - Signal for today is 0 % BTC / 100 % USD
+
+tx 341895ea607b015a05338e74b6df9918880e901f505534dd649c704381d5418f
+21F6B3CF65E915F24CC7B991712A5E91C5CF2649
+
+tx c131b13167029f24d699319e61034ceb9488131dccc14deb929349f587633474
+C63C323182E97C8F431CA54A44D1AE303CC2198F
+
+tx f547f9c261cb2a3f5c49c1e5cf490a0625c0028600a3333b32ec0d6031f6a7ad
+:0.EW Adoro l'odore di zolfo.
+
+tx ac8c8f7b6c1ff4214a6dd1a3f738b589836fcac473d586129017d6d5e29a9122
+id:reouvensellam.id(
+
+tx 0cb0209ec57156576ce6054da3fd22b6c531661a2b9d1a9aa70f525a79d53ff4
+id:vincentbostoen.id /
+
+tx d020ea6fde2904c3f514517447b7e68b5fec8afc5e7a81057e85d82177e36b74
+id:benoitfaverial.id
+
+tx 457ee90d98214460d46c5e494328d8f355101d217a7d3047f1d7e0b732d9ed16
+id:pierredefrance.id
+
+tx f5849e31588e20f350e119a793faaadfa472fdc6cff711cf6fa5ab92ea698169
+id:julienpecqueur.id
+
+tx ddbb5be236d019dee52b7ebd8232384ab6e24803610af3f9ddde22a837ead8b8
+id:michaelmeirsman.idu
+
+tx fb840a820c84961b26d71964c8aa99eaae43ccb119dd09983684c8d6828c8ca9
+id:sebastienroussel.id
+
+tx 908321d4c1c5796e34b2900ccd318f2aea45a2cc9a14d2cfe24a31cdaab60a2e
+eYEW I like decentralization
+
+tx 2d94e96fe0d2c56816ff84666f8aaf1b4c6b4bdae331caf039a5d3b9ed95b748
+id:powermugen.id=Dd?
+
+tx 6d45aae6a1f454cacb762e83521d9c16371189df803f0d5eb4478ecdd891313b
+id:oliviermurat.id1^
+
+tx 95a6e781864293eace77c720a4678b1f8c21421abc71a4fde2a64d16b1f6289e
+id:valerierespaut.id=
+
+tx 6b50a505b7292b26908b5fc5db05b6ef08588a90987f3f0ac7233af3bd512d18
+id:mathieulanglois.idq
+
+tx abe4c5b323312c4716d2fd4162e2702cc1a43590b407f11457656de887ecab3a
+id:rupert_schiessl.id@(g
+
+tx 6dcfad37ac0af37d9896a8d80b272d3d8514504c9aec45f4c1b0f7fcc9fef3a1
+id:vincentchaigneau.id
+
+tx 0478b4287247325ee9433d58f12c9ea094e529ce9f058e8be7a15f1f611efbb6
+id:guillaumeclement.id
+
+tx 52a538f3ab680f9c7f167a7531cddf2f8fecc8baf4c019f6c4e7d0355a8ada7a
+id:pierrickpuimeanchieze.idw/
+
+tx 766b7743ecc3cc1759d2f739b77cf00bf01867b5b669467632393efc27a8b1c0
+QASCRIBESPOOL01PIECE
+
+tx 243bcf97957411f0824fb57c9b8196f5b6a2f9f28c2b202a22f1b813df7db94c
+id:coucoucestmoi.id^
+
+tx 834b467a118225b63af09428e93eaaeecb2ce9fa786518ba84f4ceef000e72c2
+id:antoinelassagne.id
+
+tx 422e682769b75cdd7251fcf536bd78048a4303e9e7541daf33a9722dc96d99b5
+id:xavierguillemane.id
+
+tx 56eee8988361079878c73d31af49fa02dfe80715ef0c4435f50763b1dff3bd76
+id:francoisdefossez.id
+
+tx a3eafcbef243a14b534b2df42dffb78cb842fcc77eb8ff9739473ab0668e3871
+id:mariondoumeingts.id
+
+tx 2324925be555dbb88862ef32544ce9ff692b6309a32dfede52ac009d8ae30274
+id:christophe_bonnat.id
+
+tx 51b9e7290566b5d0613cc9221df6b518a744a76c934fb734405101ead3af52a7
+1283EFEF6094F84F4BD292517886789FBA4FB877
+
+tx 611c04683cba7944112bdc8b244a7fba58c43c644fcfd6b3d04dc7fd22d1ed62
+D659D4CA9DF41D111F83D0FD1439D74DC5B84C9B
+
+tx d9f49c358378800ecf649457fe8079eab337878df429db631d5245cb8b9c9902
+B29782C59BACECC050C4C21E6B3A338A9A29D6A4
+
+tx 1b3a352161f1099f28c590edcc1450e86413b59dfa0b183082f55a020f73e143
+1EFFE7AFA8A9035901944F226B4E1C8804858383
+
+tx 9127f9a8d10920cb610637a6618e73a81618bdc13773c6eb322938ed32cdc39f
+6C1C94BD10B4004601BB4030706D64B7BBAB2536
+
+tx 5e9cdec15f9175600e70be25c9163fe31e78a34ee1cbb4fd1b611f2ac841432c
+1F25324CD79BC329B89CD8C0662CB4C1C3833D91
+
+tx 28ed8967f88ce4af06c2115babd925daf28703b98797014577d334ae6c879cfe
+E83E268FED04B0B8DE4C8466A06BEF3162EE0465K
+
+tx ba157813240f5a91a9b2a10e2a36262aca46d12e0c316413a9b66a42b891fdb2
+6C67D796749EAE700EA303CE1A57AC5889CE7C88|5
+
+tx 4099f402c3fd236aea024bc5dc5e6a42110d275ad6101f0db92231bf9392a9bd
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 5a827f95f80691c8edbf753bd5232035946f82e3a90f827f0f1c2a351e03b2cf
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx d3d8e7c6a7185d8de05c74b53a5b5ea2a4f5063f0de8c7f996e7b0fd28d25412
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx cfa4e97e567bcaa6c8bd0dfe2ef12625a31cc2ca3257062dc4bed94ebc6b162c
+id:cedricjanssens.id@(g
+
+tx 5bf328c021bcf638d5d8dd8a4ecb3f6cc65fc9800cfaf1af42e2f6a450f61eb0
+id:sebastiengregoire.id
+
+tx 580144c4d7706a7b52c406455da5ff9ae63701d1a79ce9b56ace4e7b23d20bb5
+id:mohamed_el_mansouri.id&
+
+tx a9016d9c2a580f847c33e49271349b517bec18e8f59d674a2503867a4fe12e94
+id:paul_leblanc.idF5
+
+tx da9e375336d1ac27736507adb07158827d76b4b4a42a8f1afa39b3de3ce7ae2e
+id:aurelien_vialon.id
+
+tx 8af78954d1f371d463576f469cbffb299a420d8794c1b933c76e11e7a22e8fc3
+CC396E19D6A5F56016FCE1EB12C746440A55BF565M	|93n
+
+tx 4f9de72b35ff147108490f63673d5b25bcc31fffefc542becb77058d73ff1099
+6990F387FC421605298387FB8E7565A17469F16A
+
+tx ce584bca7376fbf51cbe9b333aa05583c72b797d10821c8576febd2585c4b008
+913D16B12651CA5BF0944E58ABCFB2A1411760CC.7
+
+tx 0be0fd4c31ec64a8b45f85c4306f0c11247de1fd1e3a79c8bc6519fd11e34b66
+429038C08C8276202F3491A74A2180E02F399C47|
+
+tx db22cc46b49a48c9142e9ff76b7a5d641608e7519a50b2395ea24ad6ccac79d5
+B47D0142BFDBCEDDABAE8FE15152E4D0169F3774
+
+tx cdf742bb187741426f2be4a9390a09e288d73af4ef262aeb87d2f67e221fc914
+F79C2A13A97078117D1FB9317E87F44D8838B56F
+
+tx e8d9ef56c9dc1ff509c78a9b95c6747973c9159fdc33d45b81a4b5fbb22255c4
+id:pascalweill.id=Dd?
+
+tx a772db97a39e528ea0a333d3d56b968c19f076b53582b0550376a49a273acccd
+id:matthieu_becu.id=
+
+tx 80f7dad3a4769eb4866c5b93ed12a4dd5ae16558861fead28cedc04e3429da01
+id:quentintousart.idw/
+
+tx 46f6a5eda53ce26dca295c4af7b058dd3adf6b63f90a3a6cfc1529fe9117f0fe
+id:cedrictrevisan.id
+
+tx f7a17de097966d32836700ae4b5cf6f4f20cc949ffdff0c7645412ad81e181dc
+id:zbigniew_klasik.id
+
+tx 64fb610768c709e1674ec6bd7b18fab26c2c5a6ef9748e23c6d8f1e798aaf1d6
+id:suziecheesecake.id@(g
+
+tx d67e3ee8bb75c30c996b34b6271c2a256fb35e287bf4beaa038725f560f6ba86
+id:benjaminturquier.id
+
+tx bde0f2ec41e661ab10c38b962664ee1c0ddb6b68b24889fd582445d2cef8f95c
+id:julienmonthioux.id
+
+tx 20d45820adefca8e042647d82fc574055905887443786aa7c00620f19138d54b
+id:arnaud_de_villele.id /
+
+tx 9478e68f9caea9740f36ada211879ee9d20aa58030c9685111425e4fb0f77a5c
+id:delphineduboscqbourgoin.id&
+
+tx b4a4bc2d65b6bfba00aaf5e4698b8e568a2b0dfa446d4315c7f92f9b97d89dc0
+id:alexisconia.id@(g
+
+tx 7364e3cf345b2a00eb33f88dad12cff5ae1122aec44f32eb23e973ba7f5728b1
+id:loic_bonnier.id=Dd?
+
+tx d7bc47e277fa79711165e3d07227bdf4628bfb7da9f2972fab3513f50930258b
+id:arnaudlemerour.id
+
+tx 6b8d5cb82f104be27d3132427d77882da953475da36a36e52284820306803558
+id:jeromecollomb.idE
+
+tx 11c42da87751bf70cb1eef39011d52d31a485024a85b4b524008807c9b438f6a
+id:vitorgoncalves.id
+
+tx 1b1e09614a34732ec53f5da12f0625f9ac501dba1d83ca7399179eee31eb63ac
+id:armel_alexandre.idW
+
+tx f22279d3ccfb3116d61e6b5ee4505ebb04a6565b619b6f9f26cfa2347b02265e
+id:jeromebouteiller.id
+
+tx 108afeb2aea253b16c3da68bdfe30b8e0f972b8c4a6c81fec55d9a655f1ab16f
+id:romainnouzareth.id
+
+tx 16ba49fa5014a5fdd1efbb2a08d75940d14d7bb71566153a0196562438177a8b
+id:verbalinsurection.id
+
+tx f31e097fb4e14c6efd922181c4248194e83c4d830844f3c9b26fadbda552043e
+id:dimitri_charitsis.id^
+
+tx fb7fe2ee6bf2ad86ee7bfb26ca40367b0fdbd755198687af4b6df3ef6ade4eca
+id:christophe_aulnette.id&
+
+tx c94e5455b740d46712758d273ce2ca2eb3ad6917774464a5c95dce9c3825cdc6
+id:markcunningham.id
+
+tx ea4e1f4ce32605be2bd6595cc715f7bda030f379c72926884cee793edbc7756d
+id:morganbeauboucher.id
+
+tx 086b7d217b75761cab7890c37d4ad307b48799ef3a9c92e802aa01322d736ac5
+id:claude134117chopin.id
+
+tx 3047cb1d8eaba7c5789c068612f46041d58b972a8db50f2ab7749264534140cd
+R4ASCRIBESPOOL01PIECE
+
+tx 58b91a27daff3bd46b0e6daa5e6ab82f7e8cab5fe633f75eb844d927cfe33887
+id:nicolasguerin.idq
+
+tx 11762bc98d2119a5f922be026f0ab5cae319c106d4c90d541c207c7153dfd796
+id:benjaminjonard.id
+
+tx 43775d4c07490053d2884dc3305756a1f0288b9cb5abde665b4cd5a762c8fd50
+id:clairehernandez.id
+
+tx a0a1dd621cd46cf133c76f11661df5f3509a80c309c89e84351ca49aa640bee3
+4B89832671DCD121659AE2DEBEF069A8D88F42A7
+
+tx beab23aa8a6c079ec95c73cce6061ae8962f267592c835809d1f97fd1290a645
+/ASCRIBESPOOL01PIECE
+
+tx 9353db0265b26d8311a11d4a05fe049c267ea691671ce19cccc2ba8002d04c04
+78FCD12507B207CF9ED56A20981EF314F9F6815CK
+
+tx 13662782f2d8ebf878e9491432dfa12197b304ca8963c3f80cda8c65209f1273
+95359FB9C21EE75C77BF873888C365814D651259K
+
+tx b18b3669049564eadd79db334c613e49dd543f38c04212dd75065608edadba52
+894D6EBAA33A5C739F99076B97EB610A48CC86D5K
+
+tx 3b3742150548abce51f4988f34c093ae0610dc40a787999cabc7187a21a50e48
+id:guillaume_lesage.idD
+
+tx cb069b9d2b6d784baccf776ee0e6e2b46c54903438e5641c98642fcc6c5c7065
+ Park Geun-hye=fraud
+
+tx 2c38647de020e008ab527d7e8fb55f0d423a10117abf89ff2ce9b9aef4ae0db9
+83FC3752FF9E16EE6AB28CD7E2721F9934C7446EM
+
+tx 1008decb62f9893950b0654a50d37ded55116274cfafb36bda36c3aca55784de
+5B420E61AF03073441CCE101067568E00F3BAE2E
+
+tx cbfc963154181dadf96f983931bb5a3cc662da285980b16c749a97b1e7641569
+262AC36766E6C2288088AA2359C2E3574358D3F9Q
+
+tx 92352906a18d8140ebe7eca404b09695074b3c240426fdeefedaebf56d88cef7
+060630BCAEEB5BFAC1DC486C6294119DF37885D6
+
+tx 2042ea4ec0493dba38b8cee18d447f0f100203b01c1c4921a4752416b293f648
+6D99F3FD5C1BFB2DABD35F3035B7A1F0E7232037
+
+tx 63ab559e51ab4e3e484fafc65b365380143475e07519082cce259a2ac040e719
+CAFA2DBD07128EB6B6012FCA88476AD0F06BCED5
+
+tx d822d6f411f30a12cb1c634a59b570cce0723ce47a6d8bc5b74cf9cf36069fc8
+AAC41AE67CCDDA21E116D4D333052AB7863DE048
+
+tx 83c47ffd5289506702b77feeb5768b77459d8cc7c67cca9e744fa718924703c4
+B9BAC21282B6EABD8B26979AF4B61E4515DED65EC
+
+tx 6bb66ed8fd9f6eb11f0d4860bd502749752403117b180d466159584650f22fa4
+85F06EE6ADE1CEF5ACFF74F1787770878CBEBE88
+
+tx 91c0b6d5dc988476948806cd85a15bb5a3c2c554695c8ab749104691f3be5932
+6C8802641ECF4BC2BE6679B9E4F6122B5E834B44<
+
+tx b741db2f3e9bd730bddf0b051d17b888eb6688f43d6ad304b84464a4b5f6ae84
+19010F2130317B02CDDAC6CA9BD07099419F68DE 
+
+tx 25935ffdac018975981b43aa8df9fa134a348e6529a4b7156c69395c3a7535d1
+238CEE6F68B1B70BF2366EC4A719AEFE5724F167
+
+tx 0ded749db17fd6a6420a5113a7bb71d874e639ca583590f53d16e384af2cbc1e
+C35E002FA8A4BB29B843B9CFB597B3F88B279600
+
+tx 7c9530ae8830da4a52e0c4530fcbb6e5a7b70acbce37160bf5d30bc75df1f7ec
+F4E517F3AB6A4369AF988981F1CB8DF64D1809B2 5
+
+tx 37f08f2b36e9971e592bac48f1a702bd45c48b0fe8ba3e98aa39b3400d4d5f57
+61DBF318383F0728662697BB3662E335D2A62C77CrD.e
+
+tx 3d5cd0630eb789e9abbe62446423b207b014ab0be24d9f2134a170fb754e3e73
+id:loicmartinez.idRJ
+
+tx ac4d0e93cf5f1eedadfebb7b2aac388cfe77cbe49262a9ea9f9eed6fdedc8f5b
+id:sebastienblanc.id
+
+tx 62d42e8844919fc47020a0e4a855330eee7b7c2869c4e8758e4f207b1153265f
+id:olivierbrimont.id@
+
+tx 0a272b83891ce27d3d59ad1584f25d4a37de1746be8315796ac697dba5cc7927
+id:youghourta.idoR=~G
+
+tx df52fb3d1a21ea50b5d4a7add80a6794b00c1bac909c75f0b14603d058e86810
+id:romainrobin.idlH*
+
+tx c12ff1caa12bbab383a3392c4126e2f88d6109f9ab6d9a9f2f8ec9c24cb79f85
+id:micheltournie.id6;I
+
+tx 4a4ba821e6e90da2de96b8b26ad10f9b9698c5e26c264a41d01e1fb02f849ba7
+id:remisabouraud.idq
+
+tx bb8afccbb3f73c0cfad972a791185b52381162835766a9e7d1aa1989827edc79
+id:williamlegrand.id
+
+tx b3bbdff498370d30e79605bee468b6363d2a6a7d24c50018a9b201bd7812c05d
+id:michel_moreau.ids
+
+tx 552c27acfe1d209f35b1840ea875ad2a81bcc0133fdf3476361dd6a74c84c38c
+id:apocalypsemeow.idcX
+
+tx 6e0c83bcd5bb078bbe28654ca8e4536f163661bf2e3ba871c9b8fdc34f3c01b8
+id:antoineprivileggio.idO
+
+tx b8b217fdc2f2d800be2e23c600cdc71725a9ad99b8a5f8bf51b8e9e147a9bbc7
+zEMMETSBURG2: RP:0 DT:9 CC:0 JB:0 BC:3 TC:5 MR:11 CF:4 MH:5 JK:1 RS:0
+
+tx 5275f1840f7ff7414c08d4a0bb96b3f52ff8e8671dd9f30badd224474719f2f7
+zEMMETSBURG3: RP:3 DT:22 CC:0 JB:1 BC:9 TC:12 MR:16 CF:2 MH:4 JK:1 RS:0
+
+tx f8ede6d26a23a9f7ab1b858e393c4148807533bf0037878b5cae26a25af3a72f
+zEMMETSBURG4: RP:3 DT:22 CC:2 JB:3 BC:8 TC:27 MR:15 CF:2 MH:1 JK:1 RS:1
+
+tx c20c832853b5359d89eabd90a4cecad86b4b3551f85f68b3fd225653f1f22a54
+dASCRIBESPOOL01PIECE
+
+tx d3e73efbca49d813b35f5b3717949956c94028d5aebd9d5118305acf380ad107
+dASCRIBESPOOL01EDITIONS1
+
+tx ac00128f602c059aa0355b657e65863c95d5bf425d3c340b06dac920bdfd9797
+ASCRIBESPOOL01EDITIONS1
+
+tx f6c0cd308c03ec59a828c5eb91e3e0029c9c57fbb48f3a621903fabe1bfb7476
+zPALOALTO5: RP:4 DT:39 CC:2 JB:5 BC:9 TC:38 MR:33 CF:0 MH:5 JK:2 RS:4
+
+tx 2486d3c01165170810193ba741d8dc76799c78f3dfb5971427240e9bf3ef381a
+zWDM115: RP:15 DT:54 CC:11 JB:21 BC:14 TC:39 MR:65 CF:3 MH:1 JK:5 RS:4
+
+tx aae0acbfbe6c321d3b2351340cf3cd89761a7afc07433d6171008b8e6996a053
+zWELLMAN: RP:13 DT:57 CC:1 JB:7 BC:20 TC:100 MR:20 CF:7 MH:0 JK:2 RS:3
+
+tx 92c21f6dcaab8b1dd838825860e266136227f5c06fa6d53eeb872e3744c0eb23
+id:stefanobianchi.id@
+
+tx d41d0486fd145cfccb433f1016d7f6293fc6ad2e6488f307ebcfba5208746c76
+id:andretaliercio.id=
+
+tx 87b6f7289f4c9508e57366d72a9488c231da318d428424d0957c67ccc27f3291
+id:marc_lanoiselee.id
+
+tx 7fb93aa9ba21d3f95e0c6d74720a2068e5c257ce32378388b4c2528f0dd862e4
+id:arnaud_barbier.id /
+
+tx 2ec9ed49278c247e2884390dd90934c97c1cd390aeff80be43a26beeaa8864ef
+id:ludovicpouvreau.id
+
+tx c0fe1c4aadfb0e404dcb45dee2b31f22f0950436c39505d99245c814886fd1af
+id:nadinetaillandier.id31C
+
+tx 9fbc71ea4ff27bb0c83e957c56eba34d290fe04e31e86ba91fba5739c6be9f20
+id:stanislas_chollet.id
+
+tx ee17479f65831c5d76177c89d1c01e3d4225641048c3295d1c9b395bd54ab34d
+id:xavierbourgois.id
+
+tx 06743527319ef488a4ddf5cf86aeb51f7c9962c460216af0f882842c0da76fb8
+id:melissakatherine.id
+
+tx 55eb5569176da48b4b12f9ac9f4d7451360086fe9682e13f1e43ac9b044c406e
+910D931CE0B32CFD77EFE724C65A54FC4E5E4ED6
+
+tx dc8f30612a477fad61cd018e31c106a06887225d121feebb360602abb62d6499
+48F8E6D5574ADF7A6DE59E65B272526314F54190
+
+tx 31aaba837f4765e6731ccbba423b6386a05b3d78947587e5b3f638af18b60865
+id:jeremywyler.id31C
+
+tx ea0030fcf7889c50888c5c3817aeec20e5c51ea88ef3ffe6651acf5d602e88d0
+id:stanislaskhider.id
+
+tx e5225e061bd7b57d032114cc297e355896836daf3864d234f62da1c15a3e7fbd
+id:sebastien_hacout.id
+
+tx ce9d0de491770ce1f7bbcd7de57e62c800e28d1004c5a31aeea0ca50b744abda
+id:homecinema94.id6;I
+
+tx 872ca730be4c49a95cd3b6b92cc945d900120cbd7083ff0c43c9ab3f7fec4983
+id:matthieu_robin.id
+
+tx c808c60a8700a4ebf3067d0702756fbdcc56eb1aaf87820de0a0b5e49f10e1cb
+id:stephanechauvin.id|
+
+tx 80d9b2797673247989cf05a5dadbbb6db88c1faef92b776f9fff92f05163216b
+id:alexislegros.idHW
+
+tx 6103883bb9398e99972d369ff3b06412352ded3c98f62bccf034c5f9ef99a1ad
+id:oliviercoredo.idF5
+
+tx 3899bb463b9ed5d831a4e3061b5ada435dceeacc2232cb5e10df1f516e0b0483
+id:matthieufaure.id^
+
+tx 7557ad9facbb03fbfb6da265d994fa4d633456ad384ccdbc93a46dbeda5744d3
+id:honeyformoney.idoR=~G
+
+tx 11b6b904ac77cd12388188098936f781884191f9d767382029d9d81be6cbbcc7
+id:corentinqueijo.id
+
+tx 4b182849545466294a383831592daa475a3315a1d9d25fae7df016871d962a2c
+id:maxime_richez.idlH*
+
+tx 0d9ac21712ec285482de5932f4d801d27bb1b16e27817847ea93e54c95607a69
+id:thibaut_octave.id
+
+tx eed8af3cf8a53987971dec21d587cdff1df8b8084c4689490bcb808df9577b37
+id:michaelcesneau.id
+
+tx 181009971539d2129d14f91e05e9dddc63862c011ab48cff356797b2ae5a46fc
+id:gabriel_duchesne.id+
+
+tx 46e4ef897f9e9f2ada148b556affd2d1342ed5e4517b18f1a1620edd1ec87de6
+id:espritphotographe.id<'
+
+tx 5f721bf8fe9f2e4c07780f99a34dc3f4facf411573420b753e25392f5bf34609
+id:alexandrebouillot.id
+
+tx 108ecbc59f9d4d67ff4cdf3d692476f6dd1e390f00185c8cae240f5242d20e4c
+id:cyrilmarchal.id31C
+
+tx d0c8d946b96e5bd23699727d857faa361a490735241dbc409556ac03a1e602b7
+id:anaisisambert.id1^
+
+tx 767f080820708969739451f1165a80b21da930a053de8eeb009130206afd9496
+id:angeloborges.idcX
+
+tx 269dfee7ab892b040bd2208d374067cde362f74013eacfeface29bdca1a5efba
+id:retoursuractu.idB
+
+tx 2c9447fb7ca737f110303cb35f368946c6b1290c9677376d83413fc10b54ed7e
+id:zanarckandabes.id
+
+tx 314ebe2941f1bfe767dd0db92e6f813e8a5a53350ab64d05c537a774e041acb6
+id:alexandretagger.idlH*
+
+tx 98550fe3a8b7f091106aeb8468ddadaf612d41d05364888b3a8c9af5f2444253
+id:robichonfranck.idrF20
+
+tx e4ce7792ecdac50ce7cba1127ba7a532347ce47250582adbc28363158b2be4cb
+id:alexandrecadene.id
+
+tx 35bf92d9315c35b75ae0ca5dcb94cb59f914eaa3ab799f993bb6ad3493a6d99b
+id:laurentbaillet.id
+
+tx 8a127724c81d5fd2b5c508946a836a34f565c0c2768e126834f5912c20905b55
+id:baptistegr.idrF20
+
+tx 039a1d7155d731dbd4d7257bde41b631784da240931bad797cf45aed0bd4f39b
+id:lesliehaggege.id^
+
+tx b0004ffc7a9f1bd18bb7bce2f9247a0c014431ce59d4af2e564bd2f6948c94ae
+id:antoinelaurent.id
+
+tx aeaaed6dd6080514ee48be25b420ad89618d89a838bb6df222a1d2c469127b9e
+id:frinnockbochar.id
+
+tx 8579859b952932c45530cece42a83f2aef9d02eeefc725b723414d9c342ea2e7
+id:olivier_barlet.idlH*
+
+tx 002cdf212a393a1e92bf0a7d6873efcd70d99ff397b6ff78e9282bcec8f6ed5d
+id:benjaminpiscart.id31C
+
+tx 16e5852e75179143e6dd65e34eb32fe546f701c87c0659534e41a18268184d52
+id:emmanuelnavarro.id1^
+
+tx 3ed318dd4c71a735d54647ac31e4ab96ead30e1647aea1f839bf9727bbf7b613
+id:fernandavicente.id
+
+tx ee71ec693af49f1c13c8b928c1e8e67c9b91ed9311cbd88345474b3733f4a584
+id:jensuiscertain.id
+
+tx 3e9c60f92515d63d7f80374bef655b806808e35c4cc58db672beb26193c26cef
+id:boblefrag.idoR=~G
+
+tx aafc02c48c4d73b590cc3509ec43189e40ce380c06df1493b47db9affe4e2299
+id:cristianogomes.id
+
+tx cc7c0771adc3ae6e4271f7941a47c501c69ce4e64d5faad45439fa9e4cfdb65d
+id:girlscoutcookies.id31C
+
+tx 5a652df65754ce01f9834995ad354b4912f96518b022ba76ad32e3e20678200d
+id:nicolasmasztaler.idh
+
+tx 511d69833e09534e84fa94a62d303c944083df2d851d22ef49c501781f7ca415
+<ASCRIBESPOOL01PIECE
+
+tx 08a0cdadc7b4cff4429a19b83fe7335d969cf12af9d265a16e8e74042789433e
+<ASCRIBESPOOL01EDITIONS100
+
+tx bf96530abfed6aaad375d34a404928e711ab0648c6644aff884607858f62784b
+ASCRIBESPOOL01EDITIONS15
+
+tx c39cf4ba4374944a7d66cc8bb3cbf43064bb9c8040a089c5cb2563d35f72b1c5
+ASCRIBESPOOL01EDITIONS15
+
+tx fb4def918a00bcaf9d0c12555aaf25d73696b76d1e1df5631b6f7621cbec54c5
+c83767f7473a8c36cb0b30879f35cee66eb9cdb1w
+
+tx 9ba461f1113c4fa2dd26d1e2beb69f47e89293caed0ab992f7af369bd8b75d3e
+C/2vcXkqtB/https://s3-us-west-1.amazonaws.com/bitiverse/content3.json
+
+tx 913a7f85fbc3955227b4d6cf5b849d39b7cdb8af8ca63c138b3047822d7a1a16
+id:philchecinski.id&O#
+
+tx 3073e3388c1fb5448221c19e5bbd6ffba12ead81ecc0e7ca58376e9e87a7dc47
+20c95544be1b3daa500210ccf04eb7cff8ed5a06w
+
+tx 973e4de4c94da5b3b501352460c27ebf9a76df4e529f0842ff929b4b28c7779c
+id:paulgabriel.id&O#
+
+tx b41b37c8490c699249bf1d4ad27b00a3306d399a4d6487961170f3fab75cc48d
+id:kareneguillot.id(
+
+tx 4b1709b3a9ca388e57a567d6876633058cc82d5262aa74a10ef326707b801282
+id:abelinemajorel.id
+
+tx 3dc94f9421bf34f2b857fafa5e4730e15f87afcdc3c81dfe4386c948c8cc38c8
+id:pierreolivier.id^
+
+tx 1b5fde1456bd57a2b5b715c9ccbece1f802cd4eba8e596887ad9aad87650add1
+id:laurent_lacote.idu
+
+tx b7b9fddaf4e38c54151ea5d0dd70e192bd9143176d320053c09f96cdd1bf14f2
+id:pierreraso.idrF20
+
+tx 3d2104a99037a802172b934a0b72fe7e56291bcd2861f60ea15ab3fdf2208192
+id:eversonmenezes.id
+
+tx f35f50b7b4325d2472c347641c17cf47b120a08005afc5f03dc6c5bc8e2372a1
+id:kevindescoubes.id
+
+tx 3f15595bae8fed8bf6de7c54e53f376d53e3b54d9b915f087a2ba5f7c4c3b64b
+id:pierretoussaint.id
+
+tx fb95ff23bdf92c156fc1434ed2cfd17d07567d01e5e59b698836b22d0d06db73
+id:antoineguilbert.id
+
+tx 30cea787c606a004c7243341f302a23574746cd0cd99b611e630bb33429e00f1
+id:christine_lepretre.idB
+
+tx 8dca65deb782f31dd1ad54a770043542e081fb36d2a32ea110ea5bf7db79a933
+id:michaelchemla.id6;I
+
+tx 58918b063780836e14680d194f869830619ac11706fd9908f84611e4e11cba8a
+id:andrea_pandulis.id
+
+tx 1601315f1ac33f3f66e16ddadbe59cc28228bbb3b3dbdb574cb305cb73a000ae
+id:christinekoehler.id
+
+tx 7432e251949e2ea6f3ee52c71ff1448eb012aa0366018425d562b791095a321e
+nEW #brochain #blockchain :mkv
+
+tx 321495b5737ae7dc3ad4db84252bd92afb20e611f1b11e595168ab9157428727
+id:pierrelilien.id /
+
+tx 53f64d96101794e3ddda6a0251e69009d1acef9f73eb67459a816db23634bb86
+id:mariechevalier.id
+
+tx 5ff8b79d7dad8cd19842940452cefaec7a1b57cbee75dd1213e3416a9018d196
+id:sebastiendavid.id
+
+tx d56aa7bd89df730d772e5e5c18bd1311ad8d5f5daa8050898e8bd2bf8505714e
+id:vitotreccarichi.id
+
+tx 9420b9c6036a3e4f128014f38152053b142747f3677fc04e34ddaf7037f00a04
+id:julienposzywala.id31C
+
+tx a8e1f23db06bf109a6b27b155132c5ad131f723b0a9a4df9be958908e9bca8a5
+id:benjaminheyndrickx.ida
+
+tx 35aba2600c2daf9340a20f41ad0707f58c72a7409584479c1eefaf077532ce6e
+id:patrickcadour.id@
+
+tx 6a4d8fe1bf59574386892d8a563c5cdfec5efbc82e65820849d324fc6c81f6c2
+id:benoitblancher.id
+
+tx 6afd19371a44eb86e97effe463c14e7df740e71b39e7f5d0bdce624a01bd4779
+id:benjaminevrard.id
+
+tx cd8564c7167b40f9ecaadefb8945a9493210d683b2ba343d8a91fd1603c887e4
+id:quentinlefranc.id
+
+tx 145280601bf8996d37116b6efb82dc278fd462ee7ac4cc6d41cae322b8790e52
+id:marcandrebeauchamp.id
+
+tx 4bf1bf4e7874e2af3bbacb512d55cbb71675e865c267ca11082be2361ac9927a
+id:julianrodriguezcano.id
+
+tx 1e24dcb20bc1895b12017520f1dc66cf724e003c0d4812897b36a05ae52c0314
+id:valeredejardin.id@
+
+tx f033e3927cc47823d2d0c8130d9095c0cc3a5dd666b8708204cf27580590b199
+Vision.pdf sha1sum f5a42fe2e3628e1158b079cedcefed8e841a7203
+
+tx 8817712fac25934da19621816092551f67919a7d07284285415dd05198beaab7
+id:clement_bohic.id
+
+tx b9ebff7f7e6713952075e4b97714daf21f86a8808c78e07d74e2fbf1cd1af9c4
+id:yoannguignard.id /
+
+tx 0dd2511478a9777637730e6d337f58193724a2a035bbdde90de7bc5bffe8093f
+id:carolinebaudin.id
+
+tx db9f94880bfea2ea2dbf72392a61ca716539fa0f70a5d5ffb24f5c82a9bd5f94
+id:christophejean.id
+
+tx 283135de010190a86fcc40c79afdd14d1fdb092038219d228b8e240f57f81433
+._8?ASCRIBESPOOL01PIECE
+
+tx cfd1b99d2d71b436d4a8f7d81c40184ed250447b56c49ba041188b98658cf5e3
+u=https://qwids.co/a/TI6Z
+
+tx a7d7a78a01ef637127f7351e7f59bd4e2e9eb43f994a3527e85adcf5dd78217f
+.}EW Supporting Bitcoin Core
+
+tx dde32f36c41028d26d59cb364e3185245c9450f4ecb7b4c8d82506b3a6e1235f
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw
+
+tx 1dad35b775e4b0e5208c89a2a8b348fa63f1856bb88536c460656628d4c97157
+rASCRIBESPOOL01PIECE
+
+tx 54ecda1d2cc41a90bd855657c9fa360b82c35243022b325a9f4ed2f6e5d6930f
+Z>ASCRIBESPOOL01PIECE
+
+tx 47a8c9f0e1de68a1ec9503308d5d85771dbda8d55f8a6228e2b2993d62a79c6b
+Z>ASCRIBESPOOL01EDITIONS1
+
+tx 5bfa9ca991af9840ec377f5ccc48d38835398d6b27e0e3fc012beac627a78599
+8EW Bram Cohen is an useful idiot.
+
+tx 0e849bdcfc7fbdb9d867b17a79a94cdb855e8f6361c4a2e859ea4d9ea462475e
+id:richardflavii.idW
+
+tx 0d914b278d72e5da27e466e0e5471de150cf8541007d8c2aa1a3326b8eba5e69
+id:davidawassmann.id(
+
+tx 601f40b52de176921339d2247612e3d10f5f3aae61ddf8f1e59eb07b26fcebc5
+id:pinkconsulting.id
+
+tx 4a145facd4003d13e667f2a6ed278f61b9e33e51e9fbb5a9e969deb091caf967
+id:cristiano_reame.id
+
+tx 8342674fb750e85f080cc35cc82482823b335a7e7cbe01a14a04c52b6d4841e7
+id:stephanlandre.idRJ
+
+tx 2ee88566c18af72bd667153ddb291b8e388461843c1cf3c6fe34d711ae0332dc
+id:benoit_beaulieu.id
+
+tx adb944cabd217478fa9e93459085ef5fca19960afafb424ec2dd91f275a8dfd3
+id:antoine_wintrebert.id=
+
+tx 0d304d7a4b9181c7eb42b9bbfca0542d7e297b19f2d5c1abeb7131d1dcf26cd9
+id:sebastienarbogast.idt
+
+tx 1965699599cf12fb6a12402312d743dc931189a26d1861355f8cb78f0136e291
+id:sylvain_saintbellie.id
+
+tx 14276de49c67384410dff0c4e9aa8407f2a7e28d973e155f81c6294abbcbe528
+id:sophiegindensperger.id&O#
+
+tx a9f1eda4bb020e6e250c43209ea56b84f22d4e56e7a7fca616a9e180b6c64029
+ASCRIBESPOOL01EDITIONS3
+
+tx 1a6f6207f6f4c1a197fd6fe7b2737b4d5d7b1b6cf3e28dc159a2c9ff337aac94
+id:adrienlatreuille.id
+
+tx 4ea1ec23035575ef2c596152e63b496cafa2c48d2228958437dbc861a306015c
+id:romainoliviervignes.id
+
+tx 2fdac5993d2ebb82ac84e756b02a8edf48c26b5d47e9ecde376f5d0c980d01c0
+ASCRIBESPOOL01CONSIGN1
+
+tx b40a96bd59edf883e0ddb1b5d6122202f3913dbb888f5c8cf7a3c128195d656d
+>qASCRIBESPOOL01CONSIGN14
+
+tx 6f23920ddd2d0168499efb92ee038dbe1caf5be7d86eb6113073451f2e8ec3c5
+ASCRIBESPOOL01CONSIGN5
+
+tx e7bdea34aa24f96b9c2e54630ab53556c087656e4b2b3517d6e9422e1e177797
+NASCRIBESPOOL01CONSIGN10
+
+tx 1864840084473c87755d7c1495465122b5824cb926f772280a48a60079f88f78
+f/dASCRIBESPOOL01CONSIGN3
+
+tx 4ac987af38f21fd0750180f563f90a32b80ce1147e3e5e1321b2fa48dc681807
+ASCRIBESPOOL01CONSIGN4
+
+tx 81975f87a260974b440ede9a6ee2bfb1dae4c97449973c3b70c58d6e5fff9347
+>*OO^4"ASCRIBESPOOL01CONSIGN1
+
+tx 55b885ede9878280576bde4978c7274792eb47aed37c04873e9e1b29784a34da
+ASCRIBESPOOL01LOAN/160208160208
+
+tx 0b90ad1db178ce4f62aa160295dcf3a3b29a4734b8c16400428c451c49367704
+id:romainliberge1gg.id
+
+tx fdbaa58f6a270165a728869026ccf6be6d23d7e9f4c223c8452677dd9af82c3e
+id:virginie_raisson.idlH*
+
+tx 5381abd7bccdcfaa123ee88dacc4b5b143ed0ec610655f47e728ef76804f2696
+id:frederic_maysonnave.id&O#
+
+tx f48248d33db64478bf084f385ae0b3ec95435e875d1cb70ca0fa0f3678d2b4a5
+id:pascaljouary.idrF20
+
+tx 43023b262936b4215fdb3cd242f7fe29c37efaa254f82243991ee6067fd3bd24
+id:yvespierrecabon.idB
+
+tx b3d88c26235054071dff2c5a8ad91783d6a7541267c5ae0e5a77d6b67144a68a
+id:philippealbrand.id
+
+tx 1a5aa82beaa9985c19ff90101a507347ebe822f85515b2d7f8914291c7f6d1ba
+id:olivier_personnic.idO
+
+tx 3a064fbbb6cb8b7628d38d164eb3f852e9acf851153382fe6cd0b432f7360ff7
+ASCRIBESPOOL01CONSIGN1
+
+tx 727b3aeff5d52a7209145c4e56516ea6e41499cbbeef30afe9ed9625bbc0e5ec
+ASCRIBESPOOL01CONSIGN5
+
+tx 96cc67240c20eddfeebd37f99471d70915b15f077fb111de3a50d31336b8d4c2
+JASCRIBESPOOL01CONSIGN6
+
+tx 966c22fc1f23696f63d172bcd9096d6c2204841807eab4b7a497c1a3e2b863a6
+ASCRIBESPOOL01CONSIGN4
+
+tx 8fc7180a044160f771fe8e6d8a58215019bd750128070f314fc2a01a8131431c
+ASCRIBESPOOL01CONSIGN7
+
+tx bab8c8c159639a3f41b214c07e1ff83fdc4557d9f9f9982802e529f86c17d9c3
+ASCRIBESPOOL01CONSIGN5
+
+tx f2bf4e9d6b8c187ac91b05125d3f3790c835c96fb7822e6743e2a83e12e4c83e
+ASCRIBESPOOL01CONSIGN6
+
+tx 18e06e2ba332237e15ab37426ba10bb75a9f5af038aff8e4d6b9be6464e28895
+ASCRIBESPOOL01CONSIGN5
+
+tx 23a005fd90f481ee39cde09100951eba79893838e54e3724590f5d459078dbb0
+K+`EW Allah is fake. Mohammed wrote Quran, drunk, after anal with a goat.
+
+tx a7321bd82c774f51503c3c86cd4c8056868c80e9903696b2d430c4321de6d4f6
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 23af41f7b3376555fe6d9f59ea77efbada5ca574469f8dbd1a56884366e595be
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 6a3473ca32ed8a6958851b812f46d68c22833d751360c0dd6102881033abe637
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx ddc7a7a0c621d70e4c40528d6b730409c7e535b1592cc1ab073bb2167816dc56
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 5de543936c49a3b3d2389b98171e7f41da236ae8c0f990926966587b9e5b9ecd
+%ASCRIBESPOOL01PIECE
+
+tx c72823e13db9365eb64b6edede643784689cb861da987b0fe4e44614b2cf9900
+ASCRIBESPOOL01PIECE
+
+tx 7782c8417ea0ae8e3c50fc52e5ab6312c5f5dddb3c4888a5968f7d2a1f04a25e
+%ASCRIBESPOOL01EDITIONS23
+
+tx 09b93fb69dd3232eb661dd3dabe538f7adc6c3ef9d366cfa28e1f121dcc51b8c
+uGU+3b7w9gsMHznMPiMovg==w
+
+tx 1fb872588851c6689963be2f7cbf4c9b020da19e0d2e245de44a2e42652a6f05
+4rASCRIBESPOOL01PIECE
+
+tx 16caafa33ba2afe7a21101fab4860b3360f19f9c961b637cd82eddd226fa1741
+4rASCRIBESPOOL01EDITIONS2
+
+tx 2de8e9bc6ec7b8d3847fb2333bf7731044f9d50caa1074104f5305e0132fead0
+ASCRIBESPOOL01EDITIONS2
+
+tx 0b8fc825bd0484931465846f66c2e96c4b179201e6a7b10315744714c75731c6
+ASCRIBESPOOL01EDITIONS2
+
+tx e76cc26709ad2f2d7176e7335676b955fe9a979fcd8faadde822fe01cc3dfc9c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 524b2863132ee1c7df53fe00abd8b3dc60ba7561215274996a2b34bf99e418bc
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 884482123bbba9fb616ddfeb90cfcd74f50f1e2d48db20050ad644b65867eb98
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 999d1ad0b1dc27ccf5f4c354bc13754a12e0651008f9a621d6f01e9cc11d782c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx f1fbbecd6deb7a9ba6f93e07a192da23e36d976c090acc09744f24b0529ea44b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d41fbb8ed5cf40971760bb3a700f471563ce46a23c83a4f35e7d8a7200966d77
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2031709c71a15c7dcff28e21becfcf587bbbec383ca80b8b0f4e6a55f586c0ac
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx eb2b77cd595fe58f3af3e15edc9c955b5f272b8909844447faabfd50b225209a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx dfc55b6df3fb434cf538498abe15a1a038fa94380f048533c94ca074899a17bd
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx a7fcef5724fe4788f1dcf45c6c4bb2eb8cd98a426e303daa50ff6334d64d10f0
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ce4a613bd8b7b4867ac2dcac8cdc546b69f1100021ae7d2565a3d88c681ec883
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b266da73f15802880c7762ae5bffa4a1f9b5d731f7b490dc90c9a3c28c57f812
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ba6435e1476fee696064218d403c6d434c3f15626419ecbd1c1bd22ab88062c7
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 0f03022b985473b1f8264694a20715858eacb9525fb2d1760abb6ece7348b949
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6bb7991a0e2b6084f7525e9019ad5e2b71b5b854f0096941afc4abcfa74db9ef
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1a2bfc616301dcbf99fb8e9d11bdaf9279b876b9f01e2a9c2afce763d770fe93
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d5486bd3d1b65f8115d08760c2caaadd0cf222976ce181a6b03a76dd6fbe2637
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx bca35da57f1c534ac800c481812387b220efd22c05ca13c8dbedc5d1bb5a5f4b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3f8ee258f59ddffec790c10fcbf6f3a547d9dd057d3cc184ca2381edde969ead
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ea5a77cef99dcfc8210b32a620fb88791664a36a43c6a8575739cf60a8840b77
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 904e840728dd838dc2d9ca336c024467e05e57f7ffb71dfb89ac3a05e9eba990
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5a285b8b80e0ee0daefb6bfbeddc68a5a4639f404814f4ef3779363b3995cf11
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d28d0afd308528b777032c8a5f7b53303ebe641fc69646e1431c3adb4a394ab7
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx a95d526c517b06e41f313b741bc5df99998edf06bf89f5b5743391681b0c9958
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4f69b7b2691dddbc20a842cf919ae36aa6f8b6eef0929ba01822f6909bbc86c5
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx bf42fc38e6b3fa37eca197e02302a4c1e409d3c10c9093267adc6e3755329e56
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 52ba78834dc7f8307364c0dc82a11ef3508c80faa0bc7e650cde7e13c94f4e89
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 607e0928d57b793ad60adfce8dd7586a25d89d2eaf86088e5fa7fa475468089d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx bff28ce260aa545d22eeecbed748bfca9aea8bea7c05d87374199d4894ffaa5a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5dcffb441ea5d8fd642e4a6be504fd41c04f167ca365bf8cc296c2affdff098c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 72c70d1f6d9e7fa28ce902406c572cd3dcc10867225ee715e3ca7735a1b43bd1
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d6898e3e2ea60d25a848281c8af766d2d190759dc161ee20f9db4342d46b1e37
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx bf57e74aa0aa86e226e140485f3e2520272ab10d88636028051b5b47e25315d5
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 35c2c2c05c8e801bf449736119e72b0b7c3b283d622d503118ca8ff463f07507
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3dbc37d4868f6a29ffcd0dcda5207150ee1c8f64793b6baa7c534e08f011be78
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b661f06106efa0cf2ea29cd78a3403106b517a9c75131571573439d2441b8375
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1b3ae8fa7e8ef3042afeb3b680075cf02a32d5190ae8ffeb0154f1b2707d3ced
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 51480d511442492a86428f523a05726243f20ac0441817b39423b0a3777d0e45
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 00e710a441d36e10b8b5b2494b7a3bdbe06ef7859c5283543e36241bb2ca6c22
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 13df9014e00b2244a2c0b84781ecd132e228ab462834829c3990d5a4543450de
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ca4cf24b57b83ee2226c0cb26ef9f5bea0c179af0a462a3bf82894edeb7b5b0c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7dac63bc66be09df1b51ba8e3961bd3d48493d3e56bfca8b5f684850d23996a8
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4c3b2a77bfa7708fa801e1ef938067bf6468a0a6531e12306789835d7fd475a0
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx f6e5527c4647ad8b3e0f8198cb77c144672d28ffdbb68a8239ed9a2d8bd48fd5
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 0eea565cba00aa9028aa5f65f13d9b3c2e02f9e351d108120fe2e6412c7a8f4e
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 545cac0dd1e4efed39e038b0578201147f970d71412e7e2ba8b854113c7cec34
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b66707472a53d6a659ce6430804c481cbcebb8cc8be93e61e11b90ae421b56de
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 62c4c14413ec74374730c28cf68c4978e3058713f6e7c5c4f8440ba238062b6d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx cad3a109bb886d6c8bdf636bb193d22c45582a883a537774ba765b232dcf5981
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 557c6d2e47b2bb21b4a4bb174e35c4a557538cc92a7cdd1503d612d5172bed04
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8080747bcebf3b1c21170aba4fac00c5ee94e16a68f521f6003e81da1c68c5ee
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c990ef5b67bef0d8eaf47817ae8b59a45af45326c6c602121cdbe0f69c5b3356
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fa4c9dc2f0d81642bdd032ecf113ebeec32d2dfa3b484f2c2c7cfbe931c55242
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3967626e01491e92b72acaf17f5f3c2c691cbf6bebc748684126db2f296ebb84
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 65607515483ced715e8fdb75efce9e652581ccc53bd0c42f85fcbbfa6f6923b6
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1645415ba54c7c5e66ea6dcd642bcb6543e01b2a0f0a651247cf594deb2ea531
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6bc2b1fac290718899264dd10412c935df2d0487c0fdc5cb49f4a3056ed4c1df
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c14613abf56620f9aed91816ea4ae39f324ff55eec5fd12baebf03dc3ed49c24
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6e107bebaa4a3b3be9858d69ac569f664c2dcfb34d6851bc818dbf2f04ef0439
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fb14927ead0e06b1bd739a2831f178d6c21e1ca0babc8d94cf330c39fedeae75
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b72b95f7d3593810a85c808b67a8c4a0c1b37eb024a1452c2e3a08bb849ca389
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 604baaf1f1ff39632debfcaba77adbd5b91e6880ab60638074b9a2e4606955fb
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1db0fc4240d0c1f28e0584516d6581c6d2326ab0bdd440ae112edca4df9be31c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 51afb1aa5ba099765e508ca747a641fdc4065bce79e24ce25bfffbcd44a5bd00
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5d26d337f8f038ddc127a6a97acaa1579a4f20458aa506285011f54b3a9e863d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 17fae364c3a8e6660a6e150a6bd370230a577e004f2a5ffffd5c155906fa5e18
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 627a8b9bb56865a15a84df7381de1d24497f9dab2a9c8745944ab630d1489016
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8f8cbcaa8a1d8a91b5a2e0cc83076cfccf88ccbc7325b86213861d477e1d39c8
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e22b058ff0e2df086c791050487c54fba2035a8e2cb07992c0a56e1fd4af9840
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 84b440e263b8cf40dead28df331aeb82d7ab7d5c51cf02bfb78bd6f2bc90373b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 852d026133c3600a656e3eec72b7a23d4e4c63bd3c5e24a62a88effacbb8ae64
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fdaa81f8640a954df5a3010923066ce37e126b4e23efe0ad39402843b67a8099
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2d64ee3df38c5a8066713c0f6879b666ced92e6f148fceed5209bf2aa29e8b42
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 48011ce47af0f6f679b5c7e3aba08365736bc6ff3e431c132f3eb9ce3cf8b266
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6428102b49916d89a19743a13d0b4d848455898707c9a1dc276b9cf40d9fc72a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 388e490d7bc8b55c2d616c3b32ec0122a14477794c43c5c9dee28c7b874670fc
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7f5be585fa567f9654be55a02951f2cd7e9d09cae14f441659f38acaaa8145cf
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c3aac330ff11607d8d338eefa33b232df44a20ae6ed0ae0b43bb4627ce180142
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fdb61161ea8fdd2ff613f1afd4e4c27211ae7b9fcf7166a1709505fffc8829a0
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4234cc2968eb8f9ffc61e3a5abbe72b1abfb50c611ed718f3ca94a8648643d96
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5d925d084321f8e55a361d287848e53ed440664acdef7cac27d20591816f5c1f
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 84449b097c5d18a9ac6022f07aab8aaf82f500b46c72db1f4888ce0082b1c55d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2e9ead28860b0add2ab4844c0a63ceb4b13adb5b6b4ab9600516d7066b21a43b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx be27b58e04414cd04f76ab06127e9c1a0df8c558506ecd0394dabf39d68dd428
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8bcd334939db0a1503525355cbe4bca5a05c45d936a8ae71e31f909dd5b6b58d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 66209467cf61ce5c06300800f8b2ab45c49bc91a406a6af65762b8295c740ab3
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5d858f472dfb388861b0dbe6ca55dc68afe3a6799503465d1654de4286ff7745
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx eb4cbc14a451d7e108af9f97fb66fd56f5824f1a140a50ca9b7a210288322407
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ddb2d10c8a3afcef7478563cf5f58db7280f59989ec10f8f69450666d0222780
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 67ee7c5be27f86543784f1fdcc2c1e842e8b0b1e05de84e8ac98343c393d107c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b9dd7895d53101cd655280e1b0dc95f87b8acc729ecb97d0ac20b8bca90d2859
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx bdb0910f8962863c287ff3dfe66e4a41e23fcfade001014557fb8b2e778b926a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7e7112935cd2971155cc975a516faaa55f44172e18d375f28fb2157465888112
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8347c915dc0e5a48a2b709fddd9873c7d6e1302de6b5b3198b25f24ef1511da4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2d0b0637d9903c2a22dd470f4d76ce9ffcb0edd0d079bf0456fe7cded2d2b9c4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5ef15fb75c95b1f855ffe6adfc1c2ce5f031de3b235ad1714811285a6fbede7d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d7c3705afc2d5e772baa89a0adf45ca453c6e5390acf59f9d444223b9e7357d6
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5a92ad19171231063ca42ded014ac0cef79a3174ee127a2d5392ca052685a1c5
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7a21ef800085d94ca34bf3fcebaaa5bdfd22507e5cc4fd959b2585131653c2b0
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ea84f25638649cf1316cd082383bc123c9942f55d6262be07426848c225e015c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3729206f16a55508dce9a16be25beec533270c11d80894eb9770bbca3c16593f
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b8931ab809575e5895dd2bbb8b0fe2be222cf194783fd1de223eb118633638e1
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e743923a66f0ffcb6b5402433bcfee92b6976ba19d922a93018c92a0124a7e18
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 522abf7730d8e31fcf951564481c9be1caab7f9e0bd536d00859b74690ebc7a1
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c9f34af0a1a528ea71a68d161906745280884e77364664b2fa26604f01c69361
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ad4de182f8282847654eb3f0e5a3372a0b299e5c3d6e7562e7f0622ab104e8a2
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b41754923458d0bc28ed8f8dd06284de98a5c0a37fe250cfdf316a51e82faddd
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8922178270a9039c36b9381c72ed95963154833ed080f7d18845d57c54994381
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2b8faf0ff53b3873b243febc897d1acfa66bbace18f2196bf5a691b5d9cde1dd
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8ae99ed2bad8f68185336c79da49d7c948571146ed4f408fe7a06e87dbaf611c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4446904af0282c93ff0f9669229d13401a66cd2f5e1a9e9f52f7c1072798ce67
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx f8f9ab3cb0c040da0be4ba0f62061925468f5a0713c6e1be5b0040ae397c5e11
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 91a18ab3766eb644a85d83d2ef0ae99c891c44be812c1e653d25f2d5fc2da22e
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5597c5cc81af1f4bc02722e8f45e4acf1c01059d95d984f3f020307df1ba99f1
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6688780684529f5252999d9b1e563f0246654473954277147eb5c991d13cbd40
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e2277bc545174ddcaf63d3fb88fcf344c51afdbd3568f23fdfeb97d4ee1d0abe
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8dc3185adeda1c2b29a8174d1b2084b42bf55418bad1fe77661e278661153e47
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5b4679f347b918311a5681fc2617d450d163cc8489680dc7c8d5749bd4a42422
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3b091e49e2619c1571ff6ff5380440955ad2c5209f876cd225b7a27ac95a39c7
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b66f4f15b2d9835574f4a9d1ade106275319ec722880987c2e3297fad397a408
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 47055dd8049793f540e01563868f7b5655bc7ccaa24680c493429ed98fb3a5a4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fe6998efa78636fe32baae371de1e0d314499920084bcc4bd2788915ea1962bd
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx aa5b41bd8e9d6777837fe5fd0e0d0d4e00310e2d802908fbf1f306f6044c23a8
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c87df696f421a90e38b148668cfdbcb15053615c3187b26c2839028db0eaeafa
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 56784b75e9743bfc1f7ee22243e293d4583dddbc692d6654c2cfdf9e2d46b92d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4417e6d1a379b83d45582b29f9bc7532286856c902136ee6aac1afbbee6939e5
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 0cb63a42bafdf7d2488657695aa1243226ce5cfdaf54292da928ba7072df67ec
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d2f9c00a9609400b7d0afb1cd15b10bae7f865080ac4b2e0e6d48984302be303
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d62fb2ff3fbbbf973cdc0d633c5502bd47b778ececc0113082b814f9f3aa595a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 76a5859abc63647ec78a67ebfa45e442bd47f90bed767dbb2fcd9989d0b1ac84
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 528f53057018031f64f9824a0c9400d7b29d02d6211e4b7f4aac4f3950c04168
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2ab9df039de1cd988152487356c873bcbb5cefe6c78b23af6f54629612e9d199
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2c489e229f691b306cb37ae0bdf2ded1fe59022d2fa05c4cb00e97c36734bd62
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx cc4f7327ae718796e7241074780721369a38dcf2bf895ec5e49bebbb7d54b171
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 9e9a4b33b72d568f2cf3ef274e978543ea45753e4e70d8db9d29ff195b4f0dfe
+EijCDhEGYogpV1/SbiqPBQ==w
+
+tx 29968e76153514bfb789eac4314d33d733e85175a6ed28c35045af191bb58fec
+RCpdX/SwusETPkYK6wY4CQ==w
+
+tx f529bb20b78b6a2c103d24855eb43c486f05170752e111905fe13c05149a8785
+rR9jFNyi99zCVs2xgutvlg==w
+
+tx 227a679d6bf803e54d2219fc4f405f04ac11cb251a0935d52a1bbd20e9c9e7da
+dNH5wAWBmhrgVTOWxDmzBA==w
+
+tx a05876abd15968edbb5462b488e8419c831e0f62b9f00bc12da0b6829b5bcd8e
+eb23VlQrK6SjKXl4gYmlyA==w
+
+tx 948f55bbd9dc3b4fd71cabaf60db4d98809af993b37bcbd68737bd01fa73b9cf
+yr/1gh0HvbxKpuLRx92m4A==w
+
+tx 26caa30f9e00718f917595cd8b5ffc39b7d8cbdde87c0ff7e1ab2fd1eda14285
+QocKhTeCnjMuhZqpTykxEQ==w
+
+tx 70b754b530c8c0af2aa501ee654a8a98bc789978232cda28cb5a6a9db2de6a35
+jI0tWsiHaDeo4RMJXyMs2A==w
+
+tx 32d90a6ca03ac1c191b6ec7cf84358a0945020782a71b309a51055a02c6bb233
+rg70uNPV1iuOa8n6DY1TkQ==w
+
+tx fc2e07d6498a529e754ad98bde19c64a858d746d42decc7ea512f1d99617ad5f
+wVc1KwLfePk0ejYuRH/tQQ==w
+
+tx 409e64d7575f306588934e685a618bd1e033d68e2bb956f6b2e9625c1dead7f5
+cyBH0DxvGOnmDmHnUq1sVw==w
+
+tx 0f8c3404475f003a415920ba0e21655d53372bdc1148c9d7dfa116a7fe643ef5
+UJNk2d2ZuI+xnG3Bw/ZUFQ==w
+
+tx 88101ceb8993b4efa9095794aab7df935ddf2421e20400b57ba841e3241ab082
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1dc193958553ff2a209f617182b6750de8220323a069870eecc6f27da031cdf3
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx cdee4d32ed383c93d87c24b1480523f16ce80ec6de4821c8714953a3f298f4a6
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 2e33166b2b73f26cc7d926f0bd441c5a7df955714347d1102f4ad2f41ad67f56
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5cd9888db67735060c2de1e7e573dbb7fc3815be3907f82990c26a469e7198e4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 89aabd55f070beae501dfe34cbf4c0608711dee41dbfde27a9de628c314e4448
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 04e5c537c5ef4df02036dc8fe56797eb68fd99b3a9cd45dfa62d425d53461db3
+Z+WAat/V8CK5vFWJbZAT0w==w
+
+tx 86a41cad86fd8334db5144d08ec3921bf8a539e01b63df9fe64291b47ec30501
+nhlZRHMBYfNy3GJLX2+xnQ==w
+
+tx 4ba81c15055ab7a0177a15c8ceb1dc2e26acd1cddb2354f7c9815339c2a03200
+p/BsbXkf606r/O00IILPCQ==w
+
+tx 359f4c26b16116a0d3c87ce7641724c982406685f679b006f0cacf980da18c22
+fRQUg4anXFj1P3bD1yQPng==w
+
+tx 5417a7961fa010a55ca67b1a79f8e65b3a2951c4d3f48fc8db9b303daf48efb9
+z3L2WvtW9B0s7ZRym1T0CQ==w
+
+tx 2f4e006a394c84855c70c93cab6bfc5d78c3743ffe90a0572e6f513db465384c
+mfzrhrhi2e6K/bNCOr6LCQ==w
+
+tx c896e11a586cbb9929b02faafd10628ffa6f9d8bf8327437330761cef8ef413b
+id:laurentrighetti.id
+
+tx 62c982974582a240c8f5502a97bdf45f325de3c11fce907b1d2510105f41ca58
+qASCRIBESPOOL01PIECE
+
+tx 88c451b8797c0ec01e65d01b06893e6a3a4566ef62498c4f620e3c8ecd117624
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ac978bd9d217e6dc3ff028fa9ea3f65e44485cbf13502ea4d5aa26afdf2ebea9
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 60af896fb7936f51fea368f42b15d17fa4d9c235520b23e5d98dee1b98955336
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 0d95548eb2e3eb2f33ee90d996115466972cb6a26bc27562aa00fa2f6055d3ae
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx dbd208f3885f99c55aea6a03c3b036e6f67ac9edaa164053ef4b21dc57340b85
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 603894aa7af699caada6485c75cd99d2609a63bdceb52b7863b1a1a494798afe
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 32b10dfd1994a241e3225a6a6bd74e613d0edfde6ab0b8b8c1f8471bc276ff86
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1aa815f6ef60930e09eac8b9d3573a24e61826cb09044cee38ed3b48b0aecff6
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8eacab252b0fbacd842c0000021e3ece337856bb8c41172e6a368f8a57bb8f25
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 0c9bf0f586d8c73f35d39df1b267ee2e0b4ac02b18c9ecd03858c2a48f162812
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 97b2ad42456a50fdbd6084b7396d2f1cec3c9f46075419f301a03598d3807663
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6bd9f71aa03697817028a05ee94c26b3b65734b3e138fb7b259dd12bc80fd867
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 08d285f7f28fdf68da0b508d080ed3829e4a50b1cebdb787e2ac2ae28f8e78fa
+ZXFt9ThIY7Y1Pe0phPHoWg==w
+
+tx 53d027e7aefa6e603af73e30c2f00c898cc0217381771a780634a639cd23a458
+mfzrhrhi2e6K/bNCOr6LCQ==w
+
+tx 2e2bee0f6e06ff3bf376774373540f082ed00c06ea7156b94e3244aa87a6db37
+CSpJr+E6XK32sohc0t4S3A==w
+
+tx 1aed3685f02aac83004f15a54e03ea73ea6638d793ccb705e69bc79d579d49a3
+G30aSCUtFm0jJodS5rxGVg==w
+
+tx 29e90c2a2cabfb5512aaca53966411b45ebc85ace3816509534fdcf8cafdd6d5
+JSwJamFv73YrDaUcUhXpsQ==w
+
+tx e2a43f5802e52203096b27648059b3be1fb8598bbe32528820cc4e6740375131
+LSekQKILwBwDjFTIu8nE5g==w
+
+tx a44d3ef7f4f66a50d59536013b18ebb789c9c54de5e648ecb76a352d4dff68ca
+ASCRIBESPOOL01CONSIGN1
+
+tx 03d822db09de6db8b5a0a7c0e9c5d02ca6d11e5ea0588ef43a9e37e4fa98b15f
+ASCRIBESPOOL01CONSIGN1
+
+tx bf9a14f00d23369bc94031278325f8801debbe1492725c89e8cbb6b428bcfaaa
+ASCRIBESPOOL01CONSIGN1
+
+tx f56968bc305fafd49bcad29c925bea755cb740d05d1876777ea3fcc5fed54ff4
+ASCRIBESPOOL01CONSIGN1
+
+tx c337700a452c31683f2bd5671a0b0c17c004b3fd95990d447ee1c8b707db21df
+ASCRIBESPOOL01CONSIGN1
+
+tx 3557419157065d6a6e9fb48318d5e90a203e552f108d582fe7a5ffc840743b0a
+5ASCRIBESPOOL01CONSIGN8
+
+tx 7c69a2d927016f1ee4f1a5b680cdbeb7104f360903b0f5208cbd4e3da1232c08
+ASCRIBESPOOL01CONSIGN2
+
+tx 7f98afc5cedfdc94a36d76fe43db57415869b31b9886a35a7825becd07f77738
+http://righto.com/bc
+
+tx dda2d7a70d16c028a547b400bd75ebb9ffa2d25f0f384069487b1e98fc58a09b
+qASCRIBESPOOL01EDITIONS3
+
+tx ca1bc1d93ae2d75c959e70df299529ee9d146044d8f3848287cb189159a8ab1d
+qASCRIBESPOOL01EDITIONS3
+
+tx 9fac82f8cabf00b5d347a62574f63036e5032ca6799b46e1df8c3b65442bed2e
+ASCRIBESPOOL01EDITIONS100
+
+tx d45608972b7e52e1ca66870087d829c3da192d7880d72cb36f7e8eeb3253333b
+EW help me make it through the night
+
+tx 5873e9ed5969916734d30889f31187e671b5e378f872e5271b08515377fa0d7a
+I5x7Zw6OlmVAE4W3zMqJFg==w
+
+tx 3aaaa77827296d63f4eba257cd3d2cae2cbb17b3ac9fd5b2fdd02663ce7c7e02
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 691f84775b55baa74b8ea09c13be041ce3c54084daab0357b575a004c92442ad
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fa2b8213a8f059a5398bc3948fb2a1a045cd7c24a82fd904119b329fa395cf19
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 00329a71dbced8473333af52cacc0095cef2ef3cb70a98172e55733ab1f6defd
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3a4c28497e7da0e548d163fce7aa5d1cfb882ea89870139be7bd1e8b637a71e4
+LKNKsFuTT3A3Pj9quVkjkw==w
+
+tx 8d8b2a82760c6e4167e331c4209b423097fa9877b60a1e4196374b58a69d7aaf
+RDqEIUfs+QDypWoz6aKTXQ==w
+
+tx 42ed2959e347adbb95d2b114a4097f44729c41588f4f1938a036d7ffa04ac7df
+r52sdLP7tqPP/LdsrbBSEw==w
+
+tx 6796690fafabc31b5d347acd503815c8de079f4b1ab54b3b7cd08d104b925325
+sUHHBUSJZirzJwkqj6xvqA==w
+
+tx b9c6ceeb402ad30770580496e702eb03e6b460928060a67ffb1694c0e0d3a769
+f95g+Vs0nQslWiScYEPrCA==w
+
+tx e89f6fa8ad0e582b6f10c4071d8dbea4f2c690361fdbf5d4d510b098b57add48
+wTDh+rKrEwML4wxMuS0Ztg==w
+
+tx d66c72a38c3b98fccbdef15d5c236c06ca15a460dc161fe3b96bf3e0b0275bc1
+.ASCRIBESPOOL01REGISTER1
+
+tx b1800c0122ec26b3417c64a1ff2828a30947e3e41ee19edc6780e9ca8eda2909
+id:louis_guillaume_morand.id
+
+tx ffb4169dae854e28299a17e6ecad6244a4b509c64311db7e8417670e19209ced
+http://righto.com/bc
+
+tx 586ea6f1bbdaeab2177e9814921cc7799b242b32f65bc607087876e7e7a62627
+http://righto.com/bc
+
+tx e4d55131e6467b87933cd164cc97a6d5f80fc752dfdab8761eae7d2201445cf6
+id:testtest1234.id=Dd?
+
+tx 3b587e977788a1311e66c9734c14b2188888d261bb16cf7f56df01c447ca0376
+id:altharion_net.id=
+
+tx d0b4598ce66429b9120d602d3833a5f222db845cbba8fb12b97f7693b87a79f1
+id:businessclown.idw/
+
+tx fea398ad6211493fdcff536f837b7bfbd60d2694fcee75ee16d6f9302421f471
+id:marceloabrileri.id
+
+tx 467d06aceadfac72268a44513781f0f17b4d21f9da3f6403235ce45f754fb463
+id:thomaskaufmann.id
+
+tx 839eef450c17a5a91ce153f73146b192715f44dafc7a1215272bcc9c3fe8ac82
+id:laurentbourrelly.id<'
+
+tx bfc504ef75aa55a34558829460e7fbd4ba6f2d201d9d6863bde0f455855182b1
+id:pauldavypauldavy.id
+
+tx ee934e48c9067ad117e6b5b70f7cd8b35224fe216585ce10b410d8f10e041014
+id:michelvandenbosch.id+
+
+tx d027df06822f4a04eb0444c57a14be0ff98b3313a4b72f92e65e9ea5bbd9d180
+id:christelle_lagneaux.id
+
+tx d2936fd1fe188e1547e45e963e71f64526e4a841a1a5c292b66ee4e416e3319f
+id:photographe_mariage.id
+
+tx 895a4e854a8a52e059c941d4665a86067f09f2a0c73cca27d09d05948f247863
+id:davidstosik.id=Dd?
+
+tx 94ac50dced790a268b772325e34b043767f9bf580e5fd7a04f2fdfaa271b49b8
+id:edouarddewitte.idw/
+
+tx cebedb27a8e326ec8d20f093531edaf59b2402aa68ace8406e5e457ff27c0076
+id:vincentklingbeil.idrF20
+
+tx 7e334b2fe94b6f4bcdf811e32473513dd2c2f0002d37568139e324a9f98ff6dc
+ASCRIBESPOOL01CONSIGN8
+
+tx 6593e620e1237f2c204bdcafbda514adaf923be3d48c4555e4140464bcd88665
+]ASCRIBESPOOL01PIECE
+
+tx 19b796f0f2f8e5eb52973836dfd105c3122d90be9168f11064ca2a70c2b9139e
+(?ASCRIBESPOOL01PIECE
+
+tx 639af8032d49810b871450c7c2a85ff0bfe1401e826c6842d446b4b9c20cc1aa
+ASCRIBESPOOL01EDITIONS0
+
+tx 97207301c82c0ccb87d93aa5e85284fe6a2c521127f35146653f9ffed8cecac0
+(?ASCRIBESPOOL01EDITIONS3
+
+tx d2daaea1301e6d5b1d065b105552a48362826cda596190a4642fca65a46ec70c
+]ASCRIBESPOOL01EDITIONS89
+
+tx 43140a49d1fa5f13e8fd82633b6629487b5fef574672732efd759109155faa98
+ASCRIBESPOOL01EDITIONS100
+
+tx f18bc74d3f74dcea38923f5c2ee9ba4498c923c17295d927ad2db2740062b41f
+"ASCRIBESPOOL01PIECE
+
+tx f7e8c92a28dd6659c34da1615c0c9c968c3a78225b14a065967acede8374f7b7
+"ASCRIBESPOOL01EDITIONS100
+
+tx 8548bf2131bae661685b48283d511d9cdb314f7b789425aec19642ac400630bc
+EW 8cbde0fa0f1638eb877941cc5ce5b442
+
+tx cbcc49732ddb321c56b2d735e7bbb39d63e4a9eff478d3de25f28d0b6f334e40
+ASCRIBESPOOL01EDITIONS1
+
+tx 04ae98174c8e388c377fb3a1af352e07894e930fa864b59f3b20aa03b33168dd
+ASCRIBESPOOL01EDITIONS12
+
+tx 7d20eff1e4111a76883a313ad362d6b53302442aed3b574a6a851fc71f837944
+QocKhTeCnjMuhZqpTykxEQ==w
+
+tx fc672ac94c0072eb2a7e1f416b63384263c6c9fd2c2811fd8e03b04db6ae7918
+jI0tWsiHaDeo4RMJXyMs2A==w
+
+tx 3dd44f1c5c7df54b3a8cf1bb5befadc22d538926ffc9dae280c85f581267cf68
+rg70uNPV1iuOa8n6DY1TkQ==w
+
+tx 8e3192fe885b98b7e655fe6bf404d86c6155ec1b818be28e339d523179a433a6
+wVc1KwLfePk0ejYuRH/tQQ==w
+
+tx 4b521c256d665a3e59a40db28c9578a9a4d0f5c5fc1169fe3539f06ea9c01daa
+cyBH0DxvGOnmDmHnUq1sVw==w
+
+tx 8d938761f8f6b95bd01fd3ff0006b2a4ce0206f6cf4e162f93a99a98a1a4601f
+UJNk2d2ZuI+xnG3Bw/ZUFQ==w
+
+tx 455d6e45a8b49da6a2cafd62e18787f745ce873c010503a3f87a3d7b2b36dfd1
+X+29nHhTqpwwq+5XRiw/9Q==w
+
+tx 8264c34ab5a3f4aa892c23659b0eff45573096091a171c5aa5b3a29f81f0840d
+Bjwb1yCN1tnCLsHuDDfGHg==w
+
+tx eb416cd6c6e69c674274ea31eab4e1ef083750d8443b52366690e96557e6b9b3
+Bjwb1yCN1tnCLsHuDDfGHg==w
+
+tx 45c0f7bfcbc5d24731c78f156ca742dac6b0a86b1fc092f6d27f37934ca678bd
+gwOC8vk/YM1HpVfS6pNc2w==w
+
+tx 3b64d1f2a3444f1363bafc8f9a588908c53528fd3c1e7bcf4e7e693e3c18ba9f
+vSdAXEccfbaV6lkOfnmDhQ==w
+
+tx 127721057a727d3e39b8ba796d8f9aed5167cdf0008e1cdc42ff9c20acf13ab3
+ryNImyaZMvxPU2cQ9iKaYw==w
+
+tx d264ddbfa37b9a0dc1cf6c9a7cad2b312052acba316a7c027a04195ad950026c
+EW Aaron van Wirdum is a fucking idiot and an useless shill liar.
+
+tx 976cec6c646b326e9089be52d5e9c65d16cdb0a931dca1454844f3333c6af3ba
+4D2BEC31A16E63EA8EDB7607B5E50DD05D44C355
+
+tx 837371c824677b276c1c91b0adbc3c66453608006a2ff118f3147c1d49db4e81
+m/V5rix3Rn2W5KfKLg7ZXA==w
+
+tx 207d6a9bde31940a09b9c476de640a41a09d547a5d0ff2b8d2d58b375486a723
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7aba6abc1fb041686a6f1dbee75af8e5e451a68d246cdc56b11605b85c30dc76
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx ccd94b51e5a7345cedf66f488dc42b56eddb10424d8da425fda9a0a6e2af8d35
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 642b09597630121fe6c61ec2b9f6690d17986d0c6e3aa892ed4b4b1d59ff0501
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 80e94290b1971c01f336bb4e02bcf5d6eda968f50647a2b10fbb401c990eb7c7
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 1af38831269d269f532fef15a7c9d21b52c53e0d812c5d6b2cf315b5bbc6a49a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c3a697d960dcbe9429829c4e686b3dbd3e85d7185ec2fb693ed3427e5469fdc3
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx a9bccc7d3b728b6312231b9aa89354c2bfe227c69afb81e37edfda4485bdada4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c6c88623103335d444c76e0c163c9b38d55b2beb6047f70d77470f8d6d720499
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6fa8835629c6ada10f97e85d9e7278d616d4008f217094778c1c27524d59d939
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx db53e2dc43716689bc1a031c845852570689030acb614d0d7eb69f541c9713fa
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 4e6eabdc54a02ac95d1964d5a8ab4bd828f809f2e8791eee741bf61e22f16d4d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx a797b6e32e621e7ff799691e748bb99e4c23c8c7240403a34960b99e9f282e29
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5d65259fd1ea8a6513d7dfd006e500ed835af3a34ae9055bd6f20771d09deded
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3d54084846571fab96d933e3d1007792410197a16fa3d1ff9378d0556b0a47be
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 3de5072df789e757ab92667cff08546d35b0bc8d8073f49485cd274eff5021c4
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx f6ab6c2b2811b029a7f32dcbc23774aa90582e2eb812f8ff4e7859d4e816dcea
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx a663884f68cd3084e7eb5923e940c1bb1fe355ee361dcfc521bf696eb5c6702d
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e7a7510b7fa2313093fb692444827d64d423c92af62e210dddaed7efb0993ef0
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 090ff29bc8464783707da86c8babad642f159d822687b779eb3d0347e5033639
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 5675bded660b53cc7a6649cffaebfbd07d189da14af31466832a4980b779459c
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e3e5798c8efa919c12fe6c36924e067edfe8ae41e4974c5ffc44b6edf13e26d6
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx e146329d8906be37b33c751d48fc817b3ccbfa03e56fb837eb1938245ebae37b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 91437a058f574c9c5c6fc2d9a39f21a9a3af796b3b08d9f6103ac5c0a2ed5fcb
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 7e9ed899e1a364bdb991e84c4a9822bbb69819a308889024405e2630ea555408
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 8b4ffa77ce18367ced469c29e646fbbb7a8392730aec34b293782fe9a3d87cf1
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx d99b4877bd3e83abbb733b24b7c2e7e8ba0b1ee68837094a3082550d2b56fe0d
+QXRr3I1SQ/QulPeDdSAb9w==w
+
+tx f932d7f4cb3ba90b6bb8d188f82c342b7fd08cefeb7dcdfda542f52a05fc329c
+QXRr3I1SQ/QulPeDdSAb9w==w
+
+tx 9366f862bec80d0ecde37b33f16af4bb6f975f8b2ce33582153c9aa705b0d434
+jfrteEnmUsroCrfqch/jow==w
+
+tx 337bf81be82e405dc7780d143e2812f8753415e7fa08f6d44977d2ae0da6fc8b
+s8UAPZ0VLoo1NGpCcdnKhw==w
+
+tx 14f19214ab8891d19c1e7336d2ebe8be0057afb954c75979b70ccd5dac9bbfc0
+vq/dLNIRTEnJCiJ9lnaBSg==w
+
+tx de3bcce7028888bd5231779bce79ac0bb80752b621d927237b8bc92538d85686
+LVf71j8m4REoHFZ3K4JDAQ==w
+
+tx 455f6db3b7a28937a57b322d0bc4a124b6e56da5558ebf88ccb266f5d6a2ea09
+/LM9u0Vr1hOuPoaWvgdbmw==w
+
+tx bd7afca113cc921038aa2ef2ec791badd72e4005656c098580309d7527664772
+Hta2HBSnqi8tVOfW1yeGaQ==w
+
+tx ab9446e93d53175725f5f0312e1a3b437c2d809a2db7f48d24239c1b10c03dd3
+YOpZ5HfFb7VbDRiq222V3w==w
+
+tx ba82f687bbdb61032ca323dd671ea01f65099722ce8ca8f5e2f195cb19afe21a
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx fed2d74a98fd038a19d38546a96dea113b478eadc19d2315878fdbd38db56d95
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 039690758d7331a0747701e66fff4c19c4806c8a24ff6255331d9c7796a7309b
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx c4d96acf540765c7d4a6bafbd88fd7f9a022d9c82e02cd6929315e61ffee7e96
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx b9107f2620e8154b971dd3c6ff162ba2624614d4505df80dd3da809920d6d7df
+AUPbY+5msM3/n2mRdoAVHg==w
+
+tx 6371da94935cd5c31aeb5a5749c98e8fc45566d81f929e6c668fd9c8bd0edf95
+~K{z+ASCRIBESPOOL01PIECE
+
+tx d824132019fbb88ca1c7a0bc5f0085232728bc0f6d6f8d7b088307f025b5ab3f
+ASCRIBESPOOL01MIGRATE2
+
+tx 1065930cb3f534a1805977b0cfbd1ea91a96a75ba1a322e4ab052d4249e643ac
+ASCRIBESPOOL01REGISTER2
+
+tx 1809fe8560d8fc07864a7fe2d9d1dd7b87fff1b679baa41d8a258d6a9005680a
+ASCRIBESPOOL01TRANSFER2
+
+tx bfc5bab33d03f3734f245408a96244dc04c6e35d1073d23afb54b0e377cc8b22
+NZdASCRIBESPOOL01FUEL
+
+tx d58e3a48c17f8e8e40348251b8f7c7ef21b198a2ec7378d4e1be99d9759f67a9
+b8$ASCRIBESPOOL01FUEL
+
+tx f7698815470dcb83e462815b7492f77c41cabd011a473710d01842794efcb66a
+dKvASCRIBESPOOL01PIECE
+
+tx 4f7ce00d9a2a9c909f352a3f4fa2fcb21bf66848876eae275f0e1622ae9a5db5
+NZdASCRIBESPOOL01REGISTER2
+
+tx 891e603a0507dd9f7cc5ce25efd7aa293e89acd3e3231975ed2266b3724dcf8a
+dKvASCRIBESPOOL01EDITIONS85
+
+tx d35d8220c076ac6170974ba94d3c5a57356fd0d9079c62313d67b09e737be974
+b8$ASCRIBESPOOL01REGISTER1
+
+tx d2f904324e20eeb29a5cb85bff62ec0b4d3052d4a81c6eff5ec8366c82160686
+ASCRIBESPOOL01TRANSFER1
+
+tx 801a4771fdaedc2cc44c10c91d4adb932c65adcb8b6708ee322a26f31004d87a
+ASCRIBESPOOL01TRANSFER2
+
+tx 4b187dbdc9723938df4ba942f215fe70bff0a014e8d0f0a636d7b0d66029902f
+:b"Ko'aF$rED~ASCRIBESPOOL01PIECE
+
+tx cd8bfca9835a7f8aa3f3b8ce0ca992b9ef992cd275de7bf24e61e2da209e0b79
+:b"Ko'aF$rED~ASCRIBESPOOL01EDITIONS1
+
+tx e36412d17ca0486757349d1d87a838a2e8f5f608b843220261fecb90e75d95fe
+id:mehdi_bezzouine.idq
+
+tx 7e5224a7624b1c9eacbd4065620fbec32cf3427b8ecfabfcc68c331369b15458
+1DAF88A9F3EE49B1048E8C9215CDA1FAA53EBF984
+
+tx aad0d113097ba16d485579c4deb0a86615c43f226a36167a95ad4b3242e09fff
+EW Fuck Allah, Fuck Mohammed, Mohammed kuffar! Muhammad kuffar! Satan Akbar
+
+tx 69963b57d534cb60b59e23987b17bd331c96066658ce5953c780f42aab9f16df
+Thursday, February/11/2016 - Signal for today is 100 % BTC / 0 % USD
+
+tx 22c07d63d88cadc4d573e69659818dc5fa53069371c1b4fd67c7c07520aaef3a
+=(ASCRIBESPOOL01PIECE
+
+tx b731e6b927badb84f42557c254bb951fa5b861f7387f3209bc88415e65ff2f54
+3ASCRIBESPOOL01PIECE
+
+tx cacd13d23c3b113bcfe8d085095735f8038253372ea81bcb7e68e3cac44a7cfc
+`ASCRIBESPOOL01PIECE
+
+tx 2cf94aef48ae1f7e15834d73bb8da2433d1799b224f60fdb250384564523d44f
+
+ASCRIBESPOOL01PIECE
+
+tx 8102bc2e9174d26805d0163900397718c7a406e69bd9a591d1386964ace908c7
+OASCRIBESPOOL01REGISTER1
+
+tx 7665b2c48d2d3c5b532f653a24fd798bace9a09843149b246da9f1e750ec96ac
+=(ASCRIBESPOOL01EDITIONS1
+
+tx 8069aa5f2d604eb6ae56256b4e73cc25f151badc9c77f80d77197f2703984e3d
+AnASCRIBESPOOL01PIECE
+
+tx 9b57e622ea06fb38739ce2cb8212745b127fcb76dfb3aff30b36db20c07ee3db
+EASCRIBESPOOL01PIECE
+
+tx 0102a107449def064a3e702fb879b5f3671c8279dc94f95589ed986a7263cd1c
+<EEW Blockstream is the plague.
+
+tx 4d73eda7890ef69619de2c6611da726e4fc94974b2851ebcc4ab48f33a6819f9
+zWELLMAN: RP:13 DT:57 CC:1 JB:7 BC:20 TC:100 MR:20 CF:7 MH:0 JK:2 RS:3
+
+tx 44464a49d9a21053280b51092a6b2885445e41c53779ec6cefceee6a527edd05
+B65AF5C72113310ACBB7BC06D0F20D722161EB88
+
+tx c7016fde3d19a23f4a2eda101af44ebc2394299d15bb2c30aca843cda323f232
+zPLYMOUTH4: RP:0 DT:53 CC:0 JB:2 BC:15 TC:50 MR:27 CF:0 MH:0 JK:2 RS:0
+
+tx 2b9acdbdb2e9ff9b5c37a528d4fd9e1955a388855e302457c500cdd367c7e01c
+http://mma.wha.la/s?
+
+tx 6f641f007c58f506875ed03c13f77170ea8854f100e2908b019a7178337fb4ad
+id:luke_wayland.idu
+
+tx 7ff47e8891150cef1ac86839aef671f50039a71c88e09ecff05b811e798df2ab
+id:borisrorsvort.id=Dd?
+
+tx 012e79afcbcc599d6089ac0ce8be1aa48d86c46e634c58cf0d4647a23a74b63a
+id:isaballigand.idw/
+
+tx f09d85a1e710a140ce3b35d8f8475cfc55e9a07763ace45f0bce348b713bb751
+id:benoit_compere.id
+
+tx 53226be35e74082a05fcf2e998ccdbe5fb7527a9020626c468026a6682d2d9f2
+id:marylenevicari.id
+
+tx e5ce7a89cc555ad67b4b1b973af54fe59946b285253994091a4d4b6afa6e4b43
+id:postidentical.id /
+
+tx 5f29233dae8e3524ab5be6bab50c01176557e9a3945d31b0e366bf7dca0205f9
+id:jeromefourmont.id
+
+tx 908ff07d194d4ba633ac9e9e947493488d4c306338be3f19a8354ac7fc8b42c0
+id:leprincedelamour.idq
+
+tx eca32cfcc2082bf52cf732ea148e2cc427dab0eeff35f96a0546ca158e8d06ee
+id:fabiennedilliers.id
+
+tx a7d922cb0268136d19b51b0a5b855c8889950de20abd43fbbc925b3f8890e49c
+id:la_petite_camera.id
+
+tx 0fd72a6eabd7886eb83b8c28cfc631e5092fc3ab4f9732cbe4d9c5bee957a643
+eThursday, February/11/2016 - Signal for today is 0 % BTC / 100 % USD
+
+tx 52b3a26701f7ea81dcf171b50ad9abbee375c0373afd9545b6fc6eb3ad1bdaee
+zPALOALTO6: RP:1 DT:14 CC:1 JB:4 BC:6 TC:10 MR:5 CF:0 MH:1 JK:0 RS:0
+
+tx 852e807565c8df868e124d5a02970fc23e4e01d9147b5905bf12cb81463bc5a2
+id:olivierbelhomme.id
+
+tx a558d1eb3590d83edaecd21dc3d4ddaba646770f822294eba08d7007a8beda3c
+id:philippelabare.id
+
+tx adc9e854874dbd514b72d1df8b25f8cb03282dce4646d03648eeac642456aa16
+zAMES1-5: RP:12 DT:43 CC:2 JB:5 BC:15 TC:66 MR:66 CF:5 MH:5 JK:16 RS:2
+
+tx 2ba032e868a1177dce253d3226d62691cbbabe72d9dc2c64ae33318f728692c3
+id:mikaelmorvan.id@(g
+
+tx 672f8b157601af8e9b06948dae2b9116a20dac2bc865da8446121b78f4504129
+zPLYMOUTH3: RP:1 DT:36 CC:2 JB:1 BC:17 TC:17 MR:8 CF:0 MH:0 JK:1 RS:0
+
+tx 566a0017158c4cb7b64f059f4a29fabe1a0fd0e4d253a738a6fe6e54294beadc
+id:alserweiss.id=Dd?
+
+tx 3a8fce4cbbaf6fc89b98bb827c24f9384a7e5f869feffefadf0b01b6562d5a6a
+id:lesablechaud.idRJ
+
+tx 98bca800bd240a38152b4ce337fbad4a1eb6f1c52621d63beb0c8873dfed14c9
+id:sylvainlefur.idu
+
+tx 8d68bab028e939cafe08c6f0a016fbd3b0bb242dda25d5b5db9aaf01c3c7de1a
+id:sebastienwarin.id
+
+tx b44dbbb65869a74283e0b919e2bd71f8be8e16a0daedaeffdf4a573ea1a48009
+id:guillaumeroques.id
+
+tx 0b00909579dcd4cf5ed54b0163f1c8fa705905521af25a134c32d316da672799
+id:alexandre_billot.id
+
+tx a85688418d609aecf464e1316774d1989b23e6109798a689e557e52e8d33a27b
+id:emmanuel_cacheux_1.id
+
+tx 0db271e5aa839d4a2bd21e6ddc731b7a8355c260f4ec5b7ac177195208181770
+id:anneclairepaqueraud.id
+
+tx 56c76b65e9d5a6051e43516b24d4b027dcfbef785d665e0b95a6812e685b7aaf
+id:genevievepetit.id
+
+tx e53e83dc085c3c76895da5e9212efb0b8ace667b81fb0fae23f296f77afebb57
+id:valentinguerlin.id
+
+tx 61f6a2d0d6d42c3f24f287334acb71069a699fd0392f9377b58b6ce14ccebe34
+id:pierredehoorne.id=
+
+tx ce2efa7b5da3918532219411c189888fc0cf935eb53057441ead5008af337ab8
+id:brunodaniperez.id=
+
+tx 641da07c195c3a26b86b25ca4356b01998c1f7691463b6d459c8894ad24732bf
+7BFBDC0EF1DAB67951A69D96CB5AFA88B9AEF2F2%
+
+tx 92879955e6ec94c070a62742ee010884fe4525ef38ecfeae3bb88430f9596b65
+id:jules_clement.idH
+
+tx abd5c48165744b60f60701f74d1e653e9a5d9a254b438da23e72e83ee5c40329
+id:lafilledelacom.idq
+
+tx 88e5c761756e576ed12ab96b62c2c58a0a427f08b50211bd08555db2f9d16312
+id:olivier_bellon.id
+
+tx 8ef0d9d1d90b09bf359669e4b95af1bf8245f49190a1a855d369df7681e11bca
+id:alangarcia.id=Dd?
+
+tx 6506cb53d2bb752f439453fbfc858377f78ef7043ffcc8900ba3809ce52b1f14
+id:florentingonon.id /
+
+tx 197b0939a5960784d1e62f7a2ebd248ee7a92c59aa953e44769d3e0ebfff9114
+id:thibaudsanchez.idu
+
+tx 925434c1e2b7adc1b75ac22e0748c10570e8eed0a193acf4135d404dec4dfc37
+id:stephanemallard.id
+
+tx b94d401da82c98051ff2b18fc629a1aee4d2647a31f1d8a824645338fbbf514d
+id:damienofficiel.id
+
+tx 323f133ef78c44effbc8d55cab14f04660dd4fb4c465b39a1326d21c7ce93744
+id:xaviergrosjean.id
+
+tx b8c76b9560491562a4b2703bf1c4092d191bab863336dacff99a9053dcde7a94
+id:benjamin_bernard.id
+
+tx 650b4bdd48715221cbd641c7b11786803ba55e4a1cdf62d20e9428b57ba797b0
+id:alexis_barlatier.id
+
+tx 799b18ea03961d54b747601eb0aedc62207120563a8bd42273d71cd9ccee8530
+id:antoineboillot.id
+
+tx 95a93ab831ef6534615489a6562334fa8d52c5b89d2cce485406593a26460766
+zJEFFERSONEST: RP:22 DT:79 CC:1 JB:1 BC:16 TC:44 MR:60 CF:6 MH:0 JK:4 RS:0
+
+tx 0ecc44ca63a6cbbcee30a1af1ba5308cca531fdf7c75bccb84af849bd75b30c4
+id:camel_leviosa.idH
+
+tx a7f7c6cf93578d5d0fabb974533f697a7fe6eb936a9d358b2d0c3b8fb5e3cab6
+u=https://cpr.sm/zgSfNyUZuU
+
+tx a2c5584b5b5e5f884e545c463374143b33f37fa1d6133b48664acc6d92d10be0
+eu=https://cpr.sm/zgSfNyUZuU
+
+tx b6db01dbd2d673cb0231521d2bbbdb3806a24ddc4528a9f31f1d27ba93874e01
+yu=https://cpr.sm/zgSfNyUZuU
+
+tx 3ae572658b1ea70ac5c9653b27ac94d8f4627cf96d23091b8763796739bc2577
+u=https://cpr.sm/zgSfNyUZuU
+
+tx 097bfeb98baca58e85f35221d679fce96849102d19a961177e9882bc53bb7d66
+id:thomassloboda.id1^
+
+tx 689c2a92261a2983787ede7c4bde91923719c957e341d41c42148914d601edc3
+id:remymartineau.idH
+
+tx 877824b205ceb525ed07f00898f01c919d6238f08de499a41bd11dea2ba95ec1
+id:fabien_giraud.id^
+
+tx d2cf7f45b95b77d1483fc6f5003f5f226da86f85de08948485d21a3d57b2da41
+id:amilcarbatista.id
+
+tx 0331ca7a7cdd5314d8ede890f0bacb87a00b8079790c3467cc20c4d78582cfdc
+id:patricksaladino.id
+
+tx f4baf377ae7ded2b2e3a77be4d9bd27fbe447a2b4b0bbad2af7edf9c99dff6ea
+id:geoffraysylvain.id
+
+tx 52284fa33397ddea2924db6754631e9279b37aa40a5e481093aca07d8026466f
+id:pascalminguetdes.id^
+
+tx c6c0471dd73e79cabee711904da52f95f17bd7e5e41cf3ad6cee76ead4c69119
+id:sebastienlanglois.idcX
+
+tx 4ee208eb6c40f3945e7fa7dd51ec72c14c7b9a310db4998d77f37f9c52e9c76d
+id:veronica_alessandra.id
+
+tx 097f858ad8d30098ad4394124f25c131cebfef1c33b2efe54bbf9ba199a21e96
+id:thomasvandervennet.id
+
+tx a3061c98109878f2e83b3fcba387d0e6fb7fe71ebc12edd5488432b8b536e343
+id:claire_gir.idoR=~G
+
+tx 8114d950e1f5c3d5a71e96d5a74d2f9eda6b688d750c226cf75ab22f52ad11a6
+id:brunovincent.idlH*
+
+tx 8049624a6d897090a0ffa438cd49f9f999ce7742ee90865177cf6bf79223b322
+id:nicolasleroux.id6;I
+
+tx 3cade8dff45c6872e992ba738ee19a735462b1daa26bd5f732018895a4c5cd79
+id:frederic_collin.id
+
+tx 0ab51336c81e2a7cfc9fb33bef538d310fff7c21135ca207ade99fa990884907
+id:carolinehennebert.id
+
+tx 07f7046848f9de88533a4e2fd03251f4f17329dc7f1bcddb1fbaf2bb8debd0e4
+id:christianverschaeren.id
+
+tx 1ada87c61e57ef692d0e1abe1181559a62a07cfddeaccf8f9b85f85fdbb51957
+id:marckthierry.id+
+
+tx 9a55c2fd331299341bf46c255a23a3f85d21fc340f0dd900bb6be18c68089e01
+id:evachapalain.id+
+
+tx 81fe7441b8e014a6882a2123e42c26cc01b53ff795bf5aea12d2ee4eea60e031
+id:thomaslandrain.id&
+
+tx f0e3a33d20a6db6c76d9112a90ca34165e2f6fc06047fda52fdaf0982faf5df3
+id:julienlefevre.id&
+
+tx 4de7b8a30674ae4b0855329366cf41a0ad6581d0e7e93a14c428310727e3baeb
+id:sandrineszabo_ch.id@
+
+tx ec7547f76dc3362353fb717a1372e6f61187fb259cd2992a719f775f3126f50a
+id:fredericcollin.idlH*
+
+tx a8816cfbec31168eb68b04e9d827be2fa8e7919984b6a7bc847c327279430073
+id:olivierdumoulin.id`
+
+tx 10b0994b40d3cfae18f988acb85bc9319ef3f8cb178eba8d64d76e30873c9de0
+id:sebastienfauconnet.id~
+
+tx d59e9ee30680912fa1cce57afad631dd180b3d7c31fcc25f81890c99f41c5461
+id:sebastian_pitkanen.id
+
+tx e568f53c4ad18de765b48e13b0863c1f62b9b321580ce56951392a0f5f2a3d15
+id:hans_henderickx.id
+
+tx 88153fd34bbe493154f3a227b51d042241f0acdc2fd06262d0afe1bfad419123
+id:floriancourgenouil.id /
+
+tx eaccb4810a3a9e52007d72dd14c1cb58e2570b3edf16e75afed7c3cf8271a87b
+zURB8: RP:18 DT:58 CC:16 JB:6 BC:12 TC:73 MR:49 CF:2 MH:8 JK:6 RS:2
+
+tx 73c760fdf03fa3d58f5c2af9666a35c033449abda99486e7b07d87a3e5c1d23c
+id:maberthiaume2.id6;I
+
+tx 4417b843c3ddfc3b53d74a34d62ae6060c9e4404d933b7f84a2d3b060378f94e
+id:matthieulepine.id@
+
+tx 7a773294d2bd83dbb805ca56bf6c9985882de4bc0764cf460306c4f8c95e400c
+id:florian_bouteilloux.idRJ
+
+tx 6ba5c71df7b7272d3aab78684e49f045c2b63645e97bfde3849bdcfd14e79e26
+id:aurelie_davidbourdmone.idlH*
+
+tx 5d5de6eb5424b0cb18709733b3c19df770b68d64481eabbd61f4c6b8dee9c7c2
+id:arielmartinperez.id
+
+tx 3f34bd7450f032e13d2cec63f66641ed1dd12f8cab820eb6144d51acb58045d1
+id:galfaille.idoR=~G
+
+tx cc307090c539e2eea3f53f5b2606d5bf1074bea0a863093f058026a2bdd63168
+id:marielaloy.idrF20
+
+tx 3c49b0c65563ee0a44962380e3e7a80f3d239fe101a6956d1bc7d1808713480c
+id:emilie_porcher.id|
+
+tx d6d62c2fa4b17318fcdfeaa1ae972c205173624885d5a742aa4ab7aa6f480354
+id:christophe_marty.id^
+
+tx 80281612718716e6d475dfba442e313bfce7347fdcbbaa963faf5473548d2446
+id:henrigautron.idrF20
+
+tx 390cf395c471a0a79130f4416690169ed7a903b57ade7d714713e8c3d15e0e9e
+id:julienkerfers.idrF20
+
+tx 4b023c3abccc614747b927037c89464e81266aa4ddcd88a4d03204e67ee1bd1d
+id:stephendemange.id6;I
+
+tx 04bf094d656a5bef5a02397044136d26069a8b7af89df0d9792074b8bddc6364
+id:sander_cisinski.id
+
+tx 075cbc100b4a3706e54af67aa8b9991a25c17b761812a4997ebd841e7f3bd8e3
+id:olivier_damelon.id
+
+tx cefb0acc84a3e8f555cf84f3f0f5e854eca9eee00302a765833bdc4180e602c9
+id:anthonyjanssens.idcX
+
+tx 6e6c9558a315a3aa46d628973f269ac3e6df25df34832410caad2191756e4e4b
+id:thomasvanvooren.id|
+
+tx 33513ce789ca64337e1cee063793d164277fdd8859517717f19329279e267ed3
+id:matthewcrumrine.id
+
+tx d8a0c93690150cb085445b3ddea415b78f79b2b8367cae57c336e2cf61e038dd
+id:stephanbenny78.id
+
+tx 6bca43d7c2c95d17c20838204e3e36b6b77e876ed1b754b2abbb6ff5e245d2e5
+id:jerome_blachas.id
+
+tx 67816c879533f297229cf2bbde0de45671d4e0e0a20f76e10413d326060ee242
+id:empereur_dieu_87.idu
+
+tx 11b3767bdd76390db9187be2d65fcad503d452dace69eed25d1484643f649f2e
+id:guillaume_chevalier.id@(g
+
+tx e1f6b5f8928fc5614b6f9fd0135a666a9689cf105b5ce77cbdebe1a8ed2dadea
+id:petermikhaelrichard.id
+
+tx 91d8afc963803871736a4ad198ccf03357a0354bdde3ec05632ab4fe5a5bad96
+id:charlottemar.id1^
+
+tx 8f5f0182f170e8fdf487b98a6931ee69d2624d1b3152e34d5f6951a3456dc210
+id:florencebernet.id
+
+tx b190ce95531fc6dde4f7a24dc92284cf31b6f9cb3489ba51765eb857594a6c54
+id:thomas_figueroa.id31C
+
+tx 133b2b48e807f67bb55d43dc612900e0aa903a18828b5f752cb736cf15a84756
+id:colindujardin.id+
+
+tx e5832d70e7847c01fce2f626c3bba30b218d9dc2093696ec992b4cd970df7dfc
+id:julie_petrucci.id&O#
+
+tx d518a9723f316c3288eeefca33a3f534242ef8fb234cf83a3efd7157524e84dd
+id:angepozzodiborgo.id
+
+tx c8295fbf560e4c5e93e3c2c43e30ad6a89cd81d42c3de7845461b67659e0197b
+id:cecilepoignant.id+
+
+tx 78aff77502a22a894166628ef1f4bcffbaf672082ce86549173b271d32d7eec5
+id:dominiquepiotet.id
+
+tx 7be145e943ecceb63a730c962c0e5d1ac70bc8c0563c09f71dd22ef82635bca7
+id:nicolasperraut.id6;I
+
+tx 3a1877aee2e464a80a24ed0d666e849d8110d89d06a382d457efca6f0b40697c
+id:sebastian_wloch.id
+
+tx 97105c0ada62cb5ba9a42fe78793b69a30d6dfe21d7c79a91b74ef1acc1610a6
+id:dominiquelahaix.id<'
+
+tx f9aec83556163df7848941c5b91c7939e5e730e8fa9c5b57dc616c6b8f9b3b07
+id:maximegarrigues.id
+
+tx f30f04f41f4422b592a1e55d9b7eed91eda516c6a664adabee42e5a34e1280fb
+id:jeromebourgeais.idF5
+
+tx aef550f644418199d62b1ab7212fc9d4abe23d88992624a37963a350ace7da05
+id:mathonchristophe.idh
+
+tx 672996c664477cd35f9c59185b5b67a69b728efd5d71e4bd0723bb0ea18a6c10
+id:dphhyland.idoR=~G
+
+tx 2e3155deb5ed6d8cd8fa671be3338713c2bb72a34c2e5a3156015d1bac315f65
+id:jasperjobse.idrF20
+
+tx fa9e1419743faee81fb187c183127c2d36e5f12fe4486ed520cc41b40bf1bd36
+id:arnaudvalliere.id
+
+tx 4bc4607e394882a409d509d2a777419a904202c7f398e093ef60fcca2149a92c
+id:thomas_audibert.id<'
+
+tx 7710b6cdf0a006f38770c9294d805096c7c1498e56dc8b0f9caf1cb8387b5f8f
+id:alexandreleroy.id
+
+tx 2cabc8d2adb56870f343e2f92af4e4e77f0063ead61f596bb33cec01e73cb127
+id:shawnrosenthal.id
+
+tx 533e4314f319443532c89d8da6e4812fc13e3df54bed53b372f2086667415ef6
+id:geoffreybergdoll.id
+
+tx c7b52ac9b944618b62a7472b429e137938da57725a50d021df7258fa501205cb
+id:gaetanmathey.idlH*
+
+tx 441117da7805f1c8f6b6636a3380b12f223f0c8b729c6a1f2ac7eed5a515ce08
+id:totoalaplage.id1^
+
+tx a25aa5affc99db95b9a4b630f52f15eeb98db05fa83a82ac897697c4f0b91bbe
+id:christopherfulham.id
+
+tx cb1b1730660b88fbca52489d172f38ba585a610ad74f66a0177a9d52230a2bb1
+id:alexismenard.idrF20
+
+tx e6e0f0ba3a870b03054ccc4194fa9f1fe19e14ecd17b1a66d1485e9500842e7e
+id:francoisjulienne.id|
+
+tx a7e77bb726f66a3495e029995d0783635e0d7110e1e78804d103d17a4a14ea58
+ASCRIBESPOOL01EDITIONS0
+
+tx 93673bc36d2d7dc9de9563473802bd012fd785c5e7949ca38b897760cccf71c5
+ASCRIBESPOOL01EDITIONS12
+
+tx 59348a6ef4b63e189ebe1b3c4822e987ef95e541801d3c606a9fbef11fd2d386
+=ASCRIBESPOOL01PIECE
+
+tx 73f5e001bcbe74f3607218d2d9a902876c407b98752d811b2fb1f200da32e7d3
+=ASCRIBESPOOL01EDITIONS5
+
+tx 5f5432ff93791d5db1e531e4f7a448d966b14b3829eb7c7073f499bfeb6562d0
+-EW I love you forever |Gina|Aloha|Sofia from Methosalem Haincadto 02122016
+
+tx 92989ca09fd3f7cc85a4bf2551be6f48b7a135e4b57bf2796784e0e086161a69
+id:peteroosterwijk.id`
+
+tx 0804b2b9afb65213ae8e4960d62248ecb6d723bffb756d9a4df1de661e070212
+id:jacques_olivier.id6;I
+
+tx e61f957b1aaa4856d3e324c6a1f53e6a93221bd2a2d3526656d12f504f657a6e
+id:valentinmarchand.idcX
+
+tx e56945184264c50dd250c33a429e9cb3d0b99beefb8f8ef7fa7529b74b07f9b2
+id:charles_hannotte.id
+
+tx 496118f19ed4725190723db3ca70b0108f7b5649c261e059399731c22a02f054
+ASCRIBESPOOL01EDITIONS6
+
+tx 172126e91181aca751b40435d065359b9d758a3ccba5a8f44c4116ce363f7f36
+ASCRIBESPOOL01EDITIONS5
+
+tx 7c06553d83620e9dfed442d9e24eef3ec4d4c89e87d37e1d7f8b28005ab49474
+EW Trace Mayer is another clueless idiot that loves the appeal to authority
+
+tx d46297bdae2baf6cfa3808e74fb2d6bc1b092df8af8d11a7f579c5394d9c41d0
+ASCRIBESPOOL01REGISTER1
+
+tx 51eeb10062a78d48774e1f78c7217e3e39b7b7500e1a7c88db3ae9ae1476257d
+1H1EZnyNFiwEU5wJq9fRwN6qWXYmAM4BoBw

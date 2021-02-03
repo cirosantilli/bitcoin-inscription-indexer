@@ -1,0 +1,518 @@
+tx 3c4ad1dc196a2a8831c31c42a94cd96f1fcb0f94a170139124d6c95b9f1ec6d6
+CA1- 25/Apr/18, BTC 75% / USD 25% refTXID=298cd7b4e298edae dkey=3YxdXfde5G#FL#Fi
+
+tx feb4ec79794058aa3d4866ffcbd2b0a12bdc1e46b19f12bd1a6d557e1027dc21
+6593b94d04e9c8b95b1f4b687fec057875f125aabdd757a350bbe82d18bf3e2d
+
+tx d3a0d36799ae46c5bc4b1c1114dc0266ebfdfc8d0056206043be0d43c1d13e64
+CP7zMMt0UPxDKytrOC0KCv/1QGZBY+HlTpnm/fDbBqAU=
+
+tx f79a469926b5549ee3f2b613a447b4d604e5227e0c5f0930b1da3b8e78117258
+2U5waPxtwENdzBvUNzenhB5kNiKbdTnRmU9KrcUI
+
+tx 5bf5bc20fce79b1cb88709f91fb6306b08ab892ddd6e8ce0b5afb7417a0efe3a
+e9dba8fa88d6472767b7e001f2de51e44c336c65cbc23945f86fb16f446ab93c#
+
+tx 0fd8d50068b315d6d1e2af8930a8873af18cabdd95aa217c8f53750c447ff62e
+RT${"ver":1,"auth":"0","title":
+
+tx a0a25795dfa8ad1c2c23c7d1ba61f915e8fe632576a92b182e5913a74da9d1af
+47ca97b7454ffc78d6574d9fb8269557ae0661e93732ef572d2394a3565bd942
+
+tx 77be8fd929d3781a5af6e15c9a06424fd89139bf24280c158b1da1e0b59fa3cc
+TTB-T,lopp,989540472464007171,1524759808,jottoThere is no web site, forum, social media account, foundation, code repository, conference, enterprise alliance, or organization of any kind that defines Bitcoin. Much to the consternation of those seeking control, this is why Bitcoin cannot be captured.
+
+tx bff5281d1d4ac436f9b614ff2047e7c30b48e85e4fbb8423fb4246698884f0fb
+304504e6671a055962e4a8af3b4a17a16d4df761f4aaa5d45a36337b2428a72b
+
+tx 114283b739f204c5ee09cb5f1fd4cb2f2ceec7be35cc3455454c0f3e650935d0
+TTB-T,paulvigna,562460930001625088,1422936110,jottoYou might say we put our mouth where our money is: 'Age of Cryptocurrency' on Bitcoin Blockchain http://t.co/8FfEUUjQyx via @coindesk
+
+tx 1e1a2a9c3053b973dc56fb9b2bc0eee6dbeb46e27630b2fa318545f3625bfc42
+TTB-T,jason_koebler,987181624637952000,1524197414,MotherboardBIs the new season of Jersey Shore good
+
+tx 57cf461ff8f917084b212bbc5c955a00f99e7312902444a89a6de9cba2d4a323
+77056205d68c9a68ebf7858a3b6e2a89
+
+tx 86d221d623065436b8583117d8a4eaeb1c2e7de24ee12aa2c10d523aa658bd27
+nevergonnagiveyouupmws-nevergonnagiveyouupmws-nevergonnagiveyouupmws
+
+tx 218e7dd6b4cd5d339b3f90452ed9297494d1e1d8c86a06fcd449336c7f06386c
+585c62893c65d6e49646bedecbce34a6e559e890ca27e3bd90154b8d718d01fd*O
+
+tx 9e2fc67ad5b3335c8988ce2f243efe11457c03c8051e8c09b3775994e70be0ee
+Payment made using https://www.bit2bill.com.au/
+
+tx b6337fdb864f2d98a9c5b0e7baadd9ea28fa4b3166727a5a46185bc49ceec70d
+Payment made using https://www.bit2bill.com.au/
+
+tx 6645778f50697ed831e3b1961d31e4e5158b73ec2645d4af76878e474ca8ec3a
+RT2{"ver":1,"auth":"0","title":"California Dreaming"}	)U 
+
+tx b1f381da4fb98d91ab480de3bd086ae46c6dc130b57b643779cad530879f5739
+2PXySkANRaHZ3Qtnmx3fL7uJf7237LyfGyaN6R7I
+
+tx 5b8df8d167e7beef9ea0db646b7e2e38b03f421ae4c7c4d808071b3f9c0e0940
+Payment made using https://www.bit2bill.com.au/
+
+tx 980e9cc31f45eec218939bbdbd89a8b54ad12c3fc6f7c4d3c788801ab48eea6d
+RT.{"ver":1,"auth":"0","title":
+
+tx dc0d3bbb5507078117f70d235715f3b213c46d910f03c054034723506b04b7ed
+RT({"ver":1,"auth":"0","title":
+
+tx ca63d4f22145bd312e8ce4c8573835e3bc2661f67e4b35af7d00ae0b9bead263
+RT%{"ver":1,"auth":"0","title":
+
+tx 62c422d17e6376b593b9fe965ec299fc657c357ad4402785f9a77f7b42590a73
+RT+{"ver":1,"auth":"0","title":
+
+tx 0fe17005afe67ae221c5edf235fa224cce4a5754292535c30816a2707168c1bb
+w7;20180427040302UTC;ORIGMY
+
+tx b65d1567ff23e67c66ef6cefb652209c25e605dc0118e3066ab9af46d4a8d005
+=Congratulations Alyssa and Zach!  Wishing you a lifetime of love and happiness=J
+
+tx 6efc0c6302c4d1ee1fdcfdf326a921fc0f174fe0892dadd062028a03f1cbc01f
+Payment made using https://www.bit2bill.com.au/
+
+tx 77f55ea1e6bf982cffbb60f9ba6db85bab4b6eb09bc163dd7fb693ce8afdbdde
+CA1- 26/Apr/18, BTC 75% / USD 25% refTXID=d3a0d36799ae46c5 dkey=h9uiVweV#Nu#xx#K
+
+tx 98b3d47d731f78e6f161b31fa8df08216ac94b1a14f90002e128e0f64e4f7659
+8b282cddb8ad43ecff983842d14f2e259e0e109955540d772f8ae0e32a0c74fb
+
+tx 37dc055d642c2a9e435af4a4b173f868d2963b71886db24a69b8fa2891da8660
+CCbwkihA+fJc5XQimBYeq/DdNu3mHPuIDBpQdI0gmsi8=
+
+tx 6e18ffe641e22a2e84e98364db4f67b130a49abdef44aca5e3282d34194f4e36
+2p8KdRnMRgNjgk1XDwQ6EQHwCddLdanMVf7zZB5I
+
+tx 515edbeb55d2de433440157f9ce32480b20a8a3ac7ceebb3d1630117fa7ed937
+} c9a62934d6ca88c0337b980a9fbfb02122afbfbb0f189c95b79bac7f60c967b5
+
+tx fd3847aa80c0aff9988c1cfcf9e7c2992a4d51c9edc427aeae2558601e31e7b6
+f6ca5101b2f8e1ba41cf355d49208deb4ad457f4cd6a77dad61a01ecc40dc711
+
+tx 3d4469103ddebe42df43d207c5bc8e56b7e74f4388724a713e641e37631d0d16
+37811ad6f86a157a7e512e7d6ef5923489ba912d06cee21c19fd7ee56fe4a3cd
+
+tx 4c068b64a1f15fd60edf2d04a892ac663f0031327af799e3f03ae15c65eb43f6
+;20180427151013UTC;ORIGMY
+
+tx 1b1fd8cf7d19a648ce42239b1ee844b8612644cda3f53d08ee1c231a85875b00
+pH;20180427164513UTC;ORIGMY
+
+tx 05cc30deff3c41e8af581d0c8f0b3a37de54349d5581f8d6da959816611fb002
+;20180427164508UTC;ORIGMY
+
+tx 941c9394731d19b66e62fe4adff36d488006f3dd4d99b77d139d333c3d86f5e8
+;20180427164505UTC;ORIGMY
+
+tx 25a44aef48387014d966d55e13539ee5f9cddfc7bf55520d03eed9a1d2c76bc3
+f361c43ac21b49c5f1018ee9435dde8eeb9b7a781bd9ea68eae096eb01a8fffaJW
+
+tx 8b5b854e146b28f91683bb4903aae33bce233988717268ad0c8a6a8da1eab178
+;20180427192507UTC;ORIGMY
+
+tx 85e8797f960e8a89bd0c562dd57167a213cd30fae1dcea75ac37af64bb71b5c3
+P;20180427192504UTC;ORIGMY
+
+tx 599748d2c59247eb39aca179209408254d3a84d63d91e147e3503b11e2802c02
+P;20180427192602UTC;ORIGMY
+
+tx c5193c9bb6d8c91c739ec3cfd017a97284cf18d93cca9fbeb43af8a7b1b7af61
+d;20180427192702UTC;ORIGMY
+
+tx 0078bec56d50205af3d0396d4c2f29c57806aae0ea0091e0d4b90c1237c9def0
+d;20180427192605UTC;ORIGMY
+
+tx b75ff032c62c400a09dd4da362f57c4119d07baa27c2a674c856175297ef7347
+April-27-2014 Gerson-Cohen-John-Ivan
+
+tx f4c3d9ce51c44b50c0dd47c3cb1413c81c7560e38e8560f270e43e3b64769ca8
+7fcd755c488f1e898db5db4b68fef75b74dcba9b59f59be985422da38439d1b8
+
+tx f352a6e09bc9bf01134685c177ff45ae9db3c6afb8747127a2035e2a6b06a8a9
+%Dear Jes, wishing you the happiest birthday, love from Jerpoos and MacGyver xxx
+
+tx 3e7f1ff0ca340f17ea1a8c49ea69c49984e390ae80dcffcc990d5a1c3e2df5c9
+id:davidgilliland.id
+
+tx 7777a3cdd0a928b2528a2a918578da80c1cd2c841c898a03c3688b16507860f0
+2mjL7FfTxXVFCqeYTqNXrTkemRmhmdhULXTBipoI
+
+tx 3aa5465adbb58c658f1c9cbb95d55f511a7588a52d804784fc15086fd2eec154
+Payment made using https://www.bit2bill.com.au/
+
+tx e0a5b81a8f83955d0cc027b54efc557d78f4b96cc13eb5c8cdf7fe8a4e2ef5a3
+Payment made using https://www.bit2bill.com.au/
+
+tx e14b54944dedff411b7029522d85269ff1aba70c962bcea754020b7b8f8749c2
+Payment made using https://www.bit2bill.com.au/
+
+tx b770c7abeed8d2fad72dd9646ff4d642e27941ef5c7f0f7398a89cddca048ae8
+RT%{"ver":1,"auth":"0","title":
+
+tx faa504d26ddc65cd3a3aad901452aa2203a353d96fb0caa2f8c49039d11cd8d3
+RT%{"ver":1,"auth":"0","title":
+
+tx 951c1aeea7ef58705b0296e4239d135ee0269160ee05d4e2eb26dea8a8b54360
+Payment made using https://www.bit2bill.com.au/
+
+tx fc6a18894f5111e15afd56fbf089f23db7ff0d8b13faea4ed478c5cd5ce361ad
+EW Ti Amo Tesorina Mia! Ti Amo Azu!
+
+tx 4c878bf8287c95f29978b208f280fb1e3b8148a18bc05e9d9099c64b590d0cf9
+511ca93ffb516e2da062e86234ba0b51888d77e9e7d0e060022344cbaca0c6c7
+
+tx b1bd16691becee48fe2434643e7baecab523a3c73ecb75e6f8bfe0e51637bb3f
+CA1- 27/Apr/18, BTC 100% / USD 0% refTXID=37dc055d642c2a9e dkey=JVRyhBHYs8ie9OIV
+
+tx 5a0a81c14c184dab6ccaa427d5d55b1ee6e9dbd3846919f92c37207fda5704d9
+CeODW9iT2dLrZ7KI1oq/d79Yw8PSe1CStVQgWLxIRvFA=
+
+tx ade4106ecdb6e99ea013170305b1c29fe6431c57930cb2f0b6e16df9e36db9a5
+14YBowPT3DEx6jqKRdGu86GLvLakBjXzZxj5EahI
+
+tx f357d8d406bb58f78d9c43a927da4ccbe87ee366496ac198e7b32ea85caeb52d
+ABERNSTEIN 1.0 REG 0b45c9f0-c4f4-427e-9221-92f3eaae64cb
+
+tx f1178f9ae6bc8c82cd959da614f83f01e5d2ad6c5663961bf5c727b8d00160de
+id:yannael_leborgne.id
+
+tx c4edf1246cb54189526f3696387d8a1ca960bbe9d604fe5ad1f622bc3a6afac5
+b5f027cca00632d13e417a1d789e5173786e2a93152d950fbfae09c7502166b4
+
+tx 1c6f2fc1cf6e1df413cd7bbeae2cfd03332f85bf18e1c4706eddc74a88355ab4
+bRB2bca2c62e3b13317940348b5e4a90b66403ab88b89131c2a28b52245c093992a
+
+tx 0b99a52d4f9f3307e3bd422470412113f2ebaaa9915a29e990f24718bd0de9d2
+74dcdae9b372e3d4e107318c421973324b8884364e4cdc24a2cfe24249e8374b
+
+tx 53b3791ffae7709c03bafef943c01cd825c1a1e6c7968c35bf77e6cbb157f273
+TTB-T,undefined,990096696376872960,1524892422,jottoWhat I wouldn't give...
+
+tx e59b8944fe567581af8d0edad73254886e15667a1d1171e1cabd9fadd65090c3
+TTB-T,undefined,990344359236198400,1524951469,BrasherTonnesmy first tweet
+
+tx d74c03011a52c1d522801c0c483b08a4dd086c2e07eb182abb219f74a31cc2dc
+TTB-T,stlouisfed,989695641172545536,1524796803,jottoWhat has no intrinsic value? Both bitcoin and the cash in your wallet. Learn other qualities they share https://t.co/uxwWMHieVS
+
+tx d28d100378574fd6b2477883e5b9b0c57ae79718e96c4d27c23b22fc532b825a
+TTB-T,TuurDemeester,990313959604588544,1524944221,jottoArguments against Bitcoin: 
+It's a 
+ volatile
+Community 
+ complicated
+Won't scale 
+ idealistic
+Consumes too much 
+ replicated
+Too much
+ theft
+Created by the NSA 
+
+tx f73a30b04f3a81f56af015e9c6d0399523c39f5f5c30e36c80f58b1a56c5ad77
+3YxYo9ygwgMhHuyDB6wJjsgpRdGNJh91o9M2sNYI
+
+tx 63c1ac124e6d8bb89d7e00b838b8b80b0383e51c94e788d8c780b43bbe9397b5
+d44e91638965f2662291e0ca3bfa8785f6bee2f13f9a5af84ac64569ccf1121a
+
+tx 2db9b7a715d934edf8ede9524d6f22d08e50881516b9e812d7a2189f2cecd14d
+CA1- 28/Apr/18, BTC 100% / USD 0% refTXID=5a0a81c14c184dab dkey=KdDMLG1ZSaupWM8E
+
+tx a182e3cb8ab449d957efb31429b017312c227477e07a000e0504e78371446b61
+CwiXVxhKp6bl8anxbq60rirOYVnQq4xaqbnfTU0xPgaU=
+
+tx 1c536daa0431ef53b330362d4169f7f2e900852465567b8f2aff64f797b8f2df
+3b4EpEdWWxyhwYxPv4Cc59nCXbLVrf1qxmZp9wHI
+
+tx dd3f8b0f89331d80d1bdac0291c6bd09504648412ab0e852c81ac9151b46c743
+90855f62e284109e5655d064df2c828d029913f0d6041abc4824ba6a6d616ed4P
+
+tx 50fba22761ec0272e16df61b419df23bd210db907eebb7a126430b3dd173ea92
+feb6c9527199f031e9851e60e75d7e60154844d30de56dc9ece262d6cd956e91
+
+tx 6f484ca61f5bec1b2f1d50c62bae269dc8d48aa1a13c7bc2907798e0e4d205dd
+7fc0b771ec5e78e5aeeba29e20ab1b7774bf7f192830a762e588e78af7b9694d]
+
+tx ee4e79c56624443d72164a6e86b363396d522e6369925e269da2d02bf490a742
+EW Rest In Peace Munchy & Runtus -love pugs / mops
+
+tx c1bbd995ea7c62ad1c5c971d94843c4e98ef69f45a2f77188e0e30b32f59ef31
+TTB-T,RepThomasMassie,989165398917632001,1524670383,BrasherTonnesFrench President is a socialist militarist globalist science-alarmist... the dark future of the American Democratic Party.
+
+tx 40a7763030587d0e0324c6c7c92487e3d78fce3034eda714f956f8082422236c
+TTB-T,rogerkver,983379544387153920,1523290928,BrasherTonnesI've never owned the @Bitcoin account. It is owned by someone involved in Bitcoin since 2009. He supports #BCH, is well known in the Bitcoin ecosystem, but doesn't want to deal with incessant trolling so he has chosen not to make his identity public.
+
+tx ad2f3a53563e9ccffa6fb469022be565b4618c8676a26d6c2e311d7a0e9c906b
+60be60e81fc4b51dd771284e15c1c4fa5c5dec53fcc82c856e3626b799fb8a23
+
+tx bb5156f36c55208234091d0bb69c73b4c87a981ddd9930ad3e62c1c1963e6dd4
+2faf3f230701a6ab644cd962a2b9006d98539f784c30e3eea5b2d21845cc8a71
+
+tx f308e978c74d416071be680607639e1a612d6eeb61e8a0bc20d3c6ab66d01f83
+SB-P.698cacaeff552331d00fdf5f69ec999dd89ec4215d3b345997fd28267222b29d
+
+tx 245e31ad0fd0d0bcd2f072d15e499afc286029aa29ac8a27bc4660d906d475f0
+TTB-T,pt,990610611808583681,1525014949,jotto@sarthakgh @APompliano @twobitidiot This is a massive problem in crypto. There
+s only e-gold, vaporware, and waterfall development that may never ship.
+
+I think many have never seen how badly Big Bang software launches after years of dev go.
+
+Investors should be more fearful every day code isn
+
+tx 140b4d5027d695431257038c45630a1da692770f1afe99775d36606fa3cd2d5c
+7920a1d85fa661b2cb6278e03b1d15d66ebb3cb7e2d10bf1415bfe0b66e6aeff
+
+tx f8c00a3bcabb58ab2f410bfdfdd59d24ff7696e03cff0fdb4044ad30f9d3e69e
+>D{dpq7i<R~- 3;{x=fQ
+
+tx 7f94578ad2efb1828bc6f653ddd59b51589236f79f205bf6d6373909023d0bae
+TTB-T,AsiffHirji,990289626806943744,1524938420,jottoReal use cases with real value and solid execution are what we need to focus on.  Unfortunately too many crypto projects I am exposed to seem to exist at the nexus of self-delusional ambition, indifferent execution, and over-hyped investor expectations.
+
+tx 9ea0ed7cdce054b9e8e457e2c70222f8aaab0507f0a7dc625a359b315a42a65a
+994141ebc11f7f74c8962a8dcf522c618402be434399c820cd44bcb2d10fb7cc
+
+tx 5ff4d720fbb993c90bf9ea7c56d2d88cc62367778890339191223475100ea571
+Payment made using https://www.bit2bill.com.au/
+
+tx c612fbadc964e871c7deba15f64a15c0fe7c04e46a2bd03f29caa12aa1214bdb
+Payment made using https://www.bit2bill.com.au/
+
+tx cc27e50f63037ebfe7a96cf98ea66362cc95a88c9b1fef306f3bfd4927601580
+1mrjY53jLDvEzoiAccrn32yAnAYqWMVAv7QUWvhI
+
+tx 29668129b8607759a6a3ffe5dd0f7279459064b6982adee50b2778dd830d95c8
+Payment made using https://www.bit2bill.com.au/
+
+tx 7f3b365282199f7bae241b759e48ff82bb034b2eac5edef764b55331a76df349
+	EW La boccuccia manger
+ il nashino, felice di aver catturato la sua preda
+
+tx 488b8bfd09083a08053963bc5dd4275ddf2ef1e943a4debcda9e815f90172f44
+TTB-T,Noahpinion,990820050968788993,1525064883,jottoBroke: What tech companies are hyping as "artificial intelligence" is really just a giant fancy regression
+
+Woke: What you think of as your immortal soul and/or your ineffable irreducible consciousness is really just a giant fancy regression
+
+tx 019d547dd0689ef17355ad5d76a4d29c6d80f68e17d433c16f49b05a15cb3bd3
+BERNSTEIN 1.0 COMMIT 9e5df489-cbe9-4b9c-a60e-f0b4cb4d9c49
+
+tx b8e975c8cbe51a52165c3221c0210761bb7eea0741bd3dadd53bfb7e609d40b1
+
+BERNSTEIN 1.0 REG c1b9ff5c-e920-4994-8a6d-9235d5023375
+
+tx 917d5d789a324ced520620516fa895f3d314ed1111d0209636b25800a9d1ef02
+2cd56be50f3391f673aee3a7363de080e99eadaf0a4281d41e11a905cca44dd3
+
+tx ac9e6c4317d3a6dfbe9dc3308f272000440f6935da7fbfbd86ec92844b11dc97
+CA1- 29/Apr/18, BTC 100% / USD 0% refTXID=a182e3cb8ab449d9 dkey=ICxP684tY9fK33sw
+
+tx 4556c384c814ab0da08ed83dcdc0fd5353f921b100b42348f336bdc9c332f0bf
+CaREoeZKDI8fRdwjPQZ6b0VFYa0msQoACo1A3xgcALPw=
+
+tx 45f66a17ed4323d29d5ec19cc903424e34132dee90d619efe74c8b5ed69c5f3b
+1UbLdNVnLeY4etN59JD2apRpzWcKRMeikcRttasI
+
+tx ee3ad1126969783339553c3f5872886588872277485f1ef8e02bf6f90735e533
+RT#{"ver":1,"auth":"0","title":
+
+tx 5f5e8d70081ece1b7a51c2966d4d914bd8bf2c3c97c51215bda62777d7fd7d3d
+c8c54893f032559bbfafe5d18954425dbb5a9b42303fa993410d579ec215514b
+
+tx 336a58dcc93926caa495f534dba82270e8d7ae987768577eed5de7d067e87e3c
+3375ec882ef76f6eca010bede9be08d4e10f477f99e7b22e85cb9af2ef9b3de3
+
+tx e954ec059374ba2d1d34c10305a5a3b9550eaec1eeffbd4e3fadfe97804132ee
+TTB-T,realDonaldTrump,990787671281819648,1525057163,BrasherTonnesHeadline: 
+Kim Prepared to Cede Nuclear Weapons if U.S. Pledges Not to Invade
+ - from the Failing New York Times. Also, will shut down Nuclear Test Site in May.
+
+tx 620e95b80233e032b36843f26b635a3d08e80089ba28ed160e01663bb32a926a
+236126e1eb9c5617b1718e2ac30575d1ac25131a30ba41e333d0a270a50cc756
+
+tx 5a4c2210681d338d95ea8dec06caab4c04acf9b3265a19449a680395cf097abb
+TTB-T,LukeDashjr,990323187572527105,1524946421,jotto@BobMcElrath After years of Bitcoin development, in hindsight, practically speaking, I think I'd have been better off financially if I *didn't* work on Bitcoin, and just bought and held bitcoins.
+
+tx 574386738ac71581874e80f8c3d5064dc3d2c4551ee4d4be6ad0801380b4da0f
+TTB-T,brianchoffman,990767877321093120,1525052444,jottoSometimes I spend hours programming and then just wonder who the fuck needs thisbut then I realize I don
+t fucking care. I program because I enjoy it. I don
+t really give a fuck if anyone will ever use this.
+
+tx 82c5132229028927e0626ad076101d87fb892dc92beababb5104a039f9ee70ae
+EW Ryan McAndrew Taylor
+
+tx dda252d73d858239249ce07b20781825eaf96b63ad97c83e968fc18aa171ab4f
+Comprobando la funci
+n OP_RETURN desde trezor para HISPATOKEN
+
+tx a4d7fc43d8add5f8e0c935e22c9f1b9c25c5c303586c8a9f98dedfaca80809fa
+a58115712960664ba8d8a28cc452b278585bef1f96d55b9d497edc3ba5ff115bt
+
+tx 3455dfc2565a126f96b4c08390120374ab516e69a686d41b3b0243f940de546d
+Comprobando la funci
+n OP_RETURN desde trezor para HISPATOKEN
+
+tx 3f0a211a3cfbc3baecf2fd3fc20b88cd64b93960ce304634b915b09a37329d6b
+1kKtxKQo2TSQCzPWPtMZjwSYYBwzfCjTzVs4k7sI
+
+tx e4e36a240cd77ea2fd291dbe65a548c6b2dd5831caf399b05d10da3df1d17a01
+bMES/SPX 12523b455d9c30637d3f370c8ef0e9e438d00d9504d81a78c78cea3b44d1fbce
+
+tx c58813f90f23ff9f1c0a3f733d953ded351f1c1fabfc378f5e6f898ed897c571
+TTB-T,realDonaldTrump,991028027785138177,1525114468,BrasherTonnesI recently had a terrific meeting with a bipartisan group of freshman lawmakers who feel very strongly in favor of Congressional term limits. I gave them my full support and endorsement for their efforts. #DrainTheSwamp
+
+tx 76818121cab542c63cf103d19848d91544f097d35033e522565f584d2ece4257
+TTB-T,paulg,323875236225363968,1366052848,jottoWill ownership turn out to be largely a hack people resorted to before they had the infrastructure to manage sharing properly?
+
+tx 83a5e69a418a1086e50349ad36c4829b020c19992c3e252ff01efd3db4a36f6d
+RT({"ver":1,"auth":"0","title":
+
+tx 47ce61aea28068454adbf2430cc78e80e8eb655930b17d7be5c45e831ef53508
+TTB-T,gruber,991122089557004288,1525136894,jottoSHA1 hashed prediction, filed away for future bragging rights regarding: https://t.co/iP0nXlloMY
+
+75a61618a61e1b8a00d4276a88c5fa7f352837b7
+
+tx 62e754b86fab37cadeaa4b59d7955e95f6a697389bd81b853fa339cd74af0373
+02772c12054f1211f5faf4d225de7b2674007d66a7ec12ee8b9e318cba5a7212j[6x
+
+tx 9c5e2b1ea05183b458af7a7875bdfe5f6524c10a1b625cacfd96587b56b8a897
+1ee1b88498f5e02c07612543e3697d3f9774cd7feb188068d57a89990098fd82
+
+tx 77c918ca2b917cc43dc9f3ad81347477527257ce474b0be8de538f970a433e3c
+CA1- 30/Apr/18, BTC 100% / USD 0% refTXID=4556c384c814ab0d dkey=6JUMwFW78fi4V4hE
+
+tx 877631a22163a764c87170fb9b9ef6d5e1823566f849a8e53d860fa77cf13a29
+C58r7LQPPZpUGkxo1wBJZ5W00wpsyEwyIsFeu4pZGET8=
+
+tx cbc114730638f36f95759cdbaeba23b1ee4ccadd7dc81ab72d0708396a35b9a6
+3QEWbTG9rmNMEC1Q17tajuL6CZUcoxhgqTWTzKVI
+
+tx dc36e263dcb9790069f6d86a46fc03f2bf292425addcff727c94a2874e46c02a
+Payment made using https://www.bit2bill.com.au/
+
+tx aa2e5713e561fe32e757e4d0703347112cdb6014ed78bcb95d10374542dc2e49
+302d4cb3f7383972ea981059ca9563f754208f6367516045652478d15b4ab02d.=bB
+
+tx 1b7ad802f04385e38c8580eff1b2a17f0e300ba2a6d142520d21b7b230eae87f
+oc098f36f89c0bd8ce34416d1cea7e801212c299a65fee566d7563f3d271d0b2b
+
+tx c385ef2f9a94ac6565e0277a22db29566ca291339f80b2b8c65622fb12ea03aa
+21bc0704056ce78c01aa709bfa6f8a1732a3e8d57895478c28f15658917a4035Eo
+
+tx 22e8cf0d1b27950d9b0a4fd173620febc82ea75062d03bc3ccad3bc1f0671e8c
+id:cascadealliance.id
+
+tx 02623f8c9e2baf146fe0df2d0bf92c1c1a64a3e6d108a02422585c28aa0bd74f
+<This is my 0th shard. To be contd..>r)
+
+tx b0f4b067e2820fcfe158ab635dc73c641cd4786308c150457f01a6eb37fd8c1e
+Payment made using https://www.bit2bill.com.au/
+
+tx d9d8844f06586a735f596ea5e19dc376bf0b4bd4df145321bc571337254f9887
+1qFCNwCKLUGi7qfkU6ppMacEVnMX1bp7j9LcGQAI
+
+tx 73d14052bcd7d631d865e3f3a003a3f1f10b27cadb6a770f9d41a245c0aea9a9
+TTB-T,nxthompson,972964651783933952,1520807824,jottoYou can believe both that cryptocurrencies are a bubble and that blockchain will transform supply chains https://t.co/FfJLFpW2ck.
+
+tx dac20cc62527fca9e578f350591a3e5d1a575ddd727cb34ecdd3f538b0012615
+TTB-T,ianybarra,10982674805,1269442421,jottocraving a cinnamon roll
+
+tx 4e9012f7e4db7a3039f69badf8cf8349851e94162b8e108f0a7a3b56b57bf3c9
+TTB-T,QYbarra,325778621853745153,1366506650,jottoLife is like a snapchat. You only yolo once.
+
+tx 463d50416e9afc09e5716678d615bc13b8391f744646b2cd528574b8b11084ca
+EW Roger Ver can suck it
+
+tx 03325dd758079a8eaaab49c8aa9541699287cc7130d8997b074504571ace9d25
+c>iI/YqTAG`71Q]iNSD{(!
+
+tx ed8930f2e90cc7c7293fc64531da2865b62d551fc679c6d9df2a6b8599f80cc3
+RT {"ver":1,"auth":"0","title":
+
+tx 3a76eb09b317e83eb252972b9523f4eda1e864b036b27e7d0becb785230b4a4a
+Payment made using https://www.bit2bill.com.au/
+
+tx fe63612ff5112e43766ade31745e01693f1c5d2eae1b2ed6f14426b72e0be8b6
+RT"{"ver":1,"auth":"0","title":
+
+tx 75384ef9b64c59288e0c0e2b975bc93f8743b23b739eb53f2ed4e0ba4f09bdba
+c7554e7db39f14007e92666cba44a471a9caee413316ed017f931d4efc116558J
+
+tx 91cb4e1416371ee29622315cb0f96630991aaf06a05fbb790cb777c2de628453
+Payment made using https://www.bit2bill.com.au/
+
+tx 256d11b26c4d5f81f1851c716c8518e77dfb6e72da3c5afd8614aa26b4140b4e
+Payment made using https://www.bit2bill.com.au/
+
+tx 625c83eb8b8c9135f5b55543369f747fcca2f2810b832c69a9f63646ec2abe38
+b56c75bae797e95a76c7f53a82bbf5bc412c78d6406491d84036ffed8bd56776
+
+tx ed2dd3a567dc15b387979f85e39e82839c26f2c2a78aa92620e9461d714b2f10
+CA1- 01/May/18, BTC 75% / USD 25% refTXID=877631a22163a764 dkey=PGt3I0###0TCf4A7
+
+tx 11174954531777e5ad80737069903552dcb5c654547dab7c8037efb583e75529
+C7GTslRt41XNTisO9QrTu0oI/Fy7NvBWJLabPeO73ENU=
+
+tx 7ede74902011d608aeacaad0dc8e3c843ff7642196fc7484ebca17ed5cf8b876
+3FXonSKWJBBah8rnfZZ8BNaF1FuMGLFdP1d4BvvI
+
+tx 05f25c9a82240a99a1f557d248303a21d49150be653db01498e5b56202bfd79b
+https://pastebin.com/af6tvS5B
+
+tx 6241a9448eb24adf48451d2dd8f4e8b6d984aab49e0d2953a94cf1443a1f0456
+8c806ee59b44b70e38b14a332f3f2763cf92ee5e28a08b10e29bda8dd386af0eMx
+
+tx f0b062c72fe160427285624109ecd6e44d8b551d8999850464a71036e8696847
+ccfc224ae91679e8fcf0587652b6e1cbfdc625cbb1c30d86e34882264aa9f0a2sj\
+
+tx 2bbda39756982459dc98c4353e3a7bd812732c7a272e940b17ceb952ac876fc5
+3240a7d596bfd1809fcd3f535487c8a5d3222c69b128d15f3892f63896ddf98a,q|#
+
+tx 873489a43a3daf05ca0fdb8bc8bc909f9dae6d0d6636b3355b41854f43b86e5a
+470d3114a0ab133f9312ca61ab3209f275340f3c8d33ec81374653347ea4c580
+
+tx 4807c1bf098665c505a3ecd758d9dc3ec37b429903f96be792971b017eef7c0c
+db43398f0b28316535c5fbb7da964fc12dd9d0ce1a702bd02c687ef0c6110e59
+
+tx ca002d18ec79f4cb784af8100d3d2cc032605f84484c33335735e03f18eafc90
+TTB-T,realDonaldTrump,991690248399794176,1525272354,BrasherTonnesA Rigged System - They don
+t want to turn over Documents to Congress. What are they afraid of? Why so much redacting? Why such unequal 
+ At some point I will have no choice but to use the powers granted to the Presidency and get involved!
+
+tx 5e9cc1603869e357fbaa963e6fd90928cb66ce556880111edde0c5adb4094119
+https://codepen.io/anon/pen/yjMKXv?editors=1011
+
+tx 2925fae62e271879cebfa3a582bc95c6ea97e19c8e55568dfd651ee9b697882f
+Nuevo proyecto en la Blockchain: FORK de Hispa Token
+
+tx 7d32f6c8fede539ae00a79845e146f7df4f7def11b0806d3586605f33002c78e
+o;20180502193301UTC;ORIGMY
+
+tx 8c7ed9586998c508805afde229a53d7e19cb550b276d9c1cbbc5cf5043234423
+ab2be3bac64bba108e66011a92028d4281025a36bdcee48498f2f4410de31a78
+
+tx 24bf54cc9bb832448eea77b1ea4dc699bd8c53150f108ca733903592d7526931
+https://codepen.io/anon/pen/yjMKXv?editors=1011
+
+tx 88f3bd4cc7fe3a0fab89a2084097684a9f9debf3f97dd1a556b067670cbc996f
+1EVqL3HAxuqDr3QszqvPxwcwHMRADSSryso89aFI
+
+tx 28d6a03dbfb07edaf1a62b1c453494ec8d5c4f7e265027f302606db9eecba6f9
+https://codepen.io/anon/pen/yjMKXv?editors=1011
+
+tx 11b5e7ac465d3d3d1d7e0708992ecde1bbe44538b4238c2905e26c2e3a14f575
+NPayment made using https://www.bit2bill.com.au/
+
+tx 542814be29fa53aed104bf9ff57262c76867910597f66d7d00655f9c08af19b1
+EW Tesorina Mia, Ti ho sempre Amato fin dal primo istante! Ti Amo Azu
+
+tx d3bc7fb817849770f30b30dc777130a5ca35210bf366d213b2cfa4efe45d42d2
+NPayment made using https://www.bit2bill.com.au/
+
+tx 03ff660c6cd85300040c02164f144d56b9d78fb40796eeafd21f227393240c95
+https://codepen.io/anon/pen/yjMKXv?editors=1011
+
+tx 1e39c8b78e7cdfac91b59eb121ea67dc7ea59f8d261c8608130a006061ed15f3
+RT#{"ver":1,"auth":"0","title":

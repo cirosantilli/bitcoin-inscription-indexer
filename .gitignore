@@ -1,0 +1,9 @@
+/bitcoin-strings-with-txids-blacklist
+/cache.pkl
+/data/bin
+/data/largest
+/utxodump.csv
+/utxodump.sqlite3
+__pycache__
+log.log
+tmp

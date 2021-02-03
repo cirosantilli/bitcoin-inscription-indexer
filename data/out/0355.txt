@@ -1,0 +1,770 @@
+tx 876b5d33fffa3afa187e6433cc30b947223fa8657afbf8b79957bc008ae85970
+zASCRIBESPOOLREGISTER
+
+tx 2711fa0ac8b35383c8b54f349f94a11567aabdf4f377fa47b79520646985c76c
+zASCRIBESPOOLREPLENISH
+
+tx 0c82aed2d101a23319c6394bf053882e7e021da157db2520e8e71a16766796b3
+zASCRIBESPOOLREPLENISH
+
+tx 8973cf545bd6d0f837bd94baa6bc73c54c4f6d1ef45c0f9961073c2b2a675b35
+zASCRIBESPOOLMIGRATE
+
+tx 8e37910c130a5c01814a0f0043669732f000b06b30028b5125c3e0ac384fa443
+zASCRIBESPOOLREGISTER
+
+tx 9dea94e20ebac26df40510ed62ac74c8e2749008a27e0673cdb94fa582afcfd3
+zASCRIBESPOOLREPLENISH
+
+tx deddc077cb33c297ba61f43d94052998726be4131c82d7de5a572d88cf09e192
+ASCRIBESPOOLTRANSFER
+
+tx 331701bfcb9a9b33d42598b560786a065162ae7dc608dfbddb573afe5eea37d7
+zASCRIBESPOOLREGISTER
+
+tx b1358423b8a22728954cfdb3a976fd435afe04915a26f57348e70f3941199c6a
+u=https://cpr.sm/aNFVwtoMDo
+
+tx 81d78e21089f143e489f8cf7ff61b93293ec419c140ef02bd4dc48b61a4a3b44
+zASCRIBESPOOLREPLENISH
+
+tx 896b8a7041fef343c6e8c02488eb540a25f73f8a1eac98f1d9a61e6dd6b25848
+zASCRIBESPOOLREPLENISH
+
+tx c0e15323370efd3ce3fc7aa44c8a1c244f691710b55dcbe94ae05fdd17648294
+ASCRIBESPOOLTRANSFER
+
+tx 9aac446a7eaffa3beb7a5d737e58969274173c1b46c49e0fc21458349349e506
+ASCRIBESPOOLTRANSFER
+
+tx dfbb26cbbfa0a39456205b9d8f9f9ee2f00b3c49911b8cae8e599bb677d7fdb0
+,hASCRIBESPOOLTRANSFER
+
+tx afa6cb6e5b9a7f92efb2ad824057f0a457b8ba25e2f3a39909292dbedb475fbe
+zASCRIBESPOOLREPLENISH
+
+tx c47edc8b542f5554ea4635c65b64fad1e42a92cfd111b55c539b476eb31a706b
+zASCRIBESPOOLREPLENISH
+
+tx 9f53ed76338399512b7116312c3f6d54b75413a9c4a68c42502aa72b9318955e
+XN5ASCRIBESPOOLTRANSFER
+
+tx e3b278d8135d8b599a9c984272fec94fbfe01d982b93e7883faa4c08a5f0dca3
+1ASCRIBESPOOLTRANSFER
+
+tx 862d1ecd0561c150521ff181874b9fd7cf105893fd41f1fc6899cfaad773eb85
+zASCRIBESPOOLREPLENISH
+
+tx 21f8fdaaf82584131e84076395c3d7c6578e6f87659669441b3dcf0c1be382b0
+u=https://sertant.com/coin1
+
+tx f746b0b95a2e7d6124d4d6a8699b1e8393d74e9c90cc95548243ce106cb64f7f
+?Cu=https://cpr.sm/DItHoMY8WuP
+
+tx 1dcd553214c9529ca6b6536ddcc2d7fb76ba23ea9e3eecc5c7a4bae384a618d3
+DM={"label":"","message":""}
+
+tx fa6c04ea5524671f2fc851803fb97ef89384613d34a18c58450b700fce7e3b3a
+zASCRIBESPOOLMIGRATE
+
+tx 7fff3fb9adabb102334c87465c0928411f63a8a5facd35cf4b2d853b37f0fc79
+zASCRIBESPOOLREPLENISH
+
+tx cc55cccdfbe03fedb889fc6abc499d1378faaaa81d80f87c0d17c9019a5ed814
+ASCRIBESPOOLUNCONSIGN
+
+tx 70fb8465a95f3ae7f631c0df81ac81356460f5802f70750fd4d4dce86a466cbe
+ASCRIBESPOOLTRANSFER
+
+tx 7df9d54638c5cb29f20fad35cf191ccd4481a78bd4a0524f789fccd37af4cf14
+zASCRIBESPOOLMIGRATE
+
+tx f37a0c28d39045abfff5c6aab9e37c10917f78450a1c447c3d2608bafeacc44f
+zASCRIBESPOOLREPLENISH
+
+tx 50676eab946a9e200de67f0db786a5e56ac6f18e33fe817536a579ce71e2dd89
+NASCRIBESPOOLTRANSFER
+
+tx d934ac9025190fabff6fafe30971bab1eb9ab47de5b08b1b3bc69e2181182386
+OhLu=https://cpr.sm/R5U1b9H9_D
+
+tx c8cae9d21cf0f2a244269d3598dd6cbb2eabcef12088331f8d1d578e6371078f
+Hellokkkkkkkkkkkkkkkkkkkkkkkkk1234567
+
+tx 67a2a4eadf5be66d7625a9516a7a50684274f949fe1ae9d1e8037102bec0f106
+u=http://dev.chroma.io/AJ7asuo1h
+
+tx d009c0ea4fec8147460da842530a1a7221fe6be3d388d8028c5e2e3408649f23
+u=http://dev.chroma.io/AVj53JoD
+
+tx 16a9fd3b92d774076e1f73931e08c5d04882940b7d2fa32153120320aef4e5f5
+u=http://dev.chroma.io/ALgH8uQC
+
+tx a045c56a37db63bb161703a3e10244ccbddf3f45049952601579e2ff997a7e72
+'u=http://dev.chroma.io/Aa7sXzbD|
+
+tx fb7eea9d75a86576b9018fad6a7caf69ec5312ac01b85b039fef69639d829a29
+ru=http://dev.chroma.io/AMjae1gZ
+
+tx b995f134e10be647b5d006a1e651d278944f5ac16b41460d672ed9e160a1368f
+Wu=http://dev.chroma.io/AYXo3GZp
+
+tx 14c6a724675c914fef93f11a0e41b2702a645889f9f8993cc987af258acbd5e6
+u=http://dev.chroma.io/ASgLrCPV
+
+tx cd615796e6ad981e6c1c6559491a4e025157de734f53f3f8bd3f63c7db47dfae
+u=http://dev.chroma.io/AaGmKpaX
+
+tx ccba432c63454293cd6fb54b4b5309b004d14ff86bf93e75163ad9310116860e
+u=http://dev.chroma.io/ASACZ7nG
+
+
+tx c5d2ac311d9e73e08255c0047620115355634ea6822cbae810761ee48be8710d
+ou=http://dev.chroma.io/AdETJRiiCc
+
+tx 9c7265e6b0d307670752432659cb1ffb827ee7567d0a62099b1e50ef4826bd49
+/u=http://dev.chroma.io/AbmXhVah!
+
+tx bd42b5f5f55871ff6044f2208f702d8cea99b93e783db3d16b1844753accf31b
+u=https://cpr.sm/glu-zqG5oz
+
+tx 2d4540b3e71722069f4f7c1892be297d0481e9390066c166f0f619160110453f
+u=https://cpr.sm/QLg3eR95RN#
+
+tx 3c33fc1c2f2bf45186cadad75bd57e0604178c412bc794210fed2d89150225b4
+zASCRIBESPOOLREGISTER
+
+tx 47453f9defd9bf923f39af565380c54738b878fdc9ee432e8d5d5e4d6e752446
+zASCRIBESPOOLREGISTER
+
+tx 08f7b1b6f33e606cbadcb53045d9d65b11dfe315d67f0b5a5a0050ce45217f02
+zASCRIBESPOOLREPLENISH
+
+tx b27e3e9f3d01d72307590cefa6c2f7224a4ea297492f637bdb04d65f63b0e1e2
+QASCRIBESPOOLTRANSFER
+
+tx 4bb55de5d4364e9d85c3fbc1c8fb4bde29523690ea5d4411e377d93357a6902e
+ASCRIBESPOOLREPLENISH
+
+tx 412291e638bdda3a40fb0d23e1d6837ccd0bae5315429947ec4d23bb5612e41d
+ASCRIBESPOOLREGISTER
+
+tx 83497ec935e6ab25a253b9ec4830fa49e03f2687acc7231b66468593312bb94e
+u=https://cpr.sm/8fWeec3aTo
+
+tx 1d7a6ceea3bce0e01590db055bf4ac74d0e42b65f4f1ba9923ae53e14b15db27
+?u=https://cpr.sm/8fWeec3aTo
+
+tx ce43d2a069f9e27310d0848d9526dd81a3444b5555470133174154732a829e43
+u=https://cpr.sm/8fWeec3aTo
+
+tx 43c13f1b0f63d251d21130dc9334e818d1959cd19585b9a16d4bef0acb2df0c0
+d869db7fe62fb07c25a0
+
+tx 72fc54bbeab1f6d49dfa92375b1ccffcbeb6878d328d301c6f243f16fa06b6a8
+u=https://cpr.sm/_K_7g31bPZ
+
+tx ea07c138578fb7d113404acc61e9a8cab4d3ebbec979eaea6380b220089a9eba
+u=https://cpr.sm/h-gGwVBvDU
+
+tx 24019ac742032b2adb0c8a8f32fd82e3abc1ef17b84f72079ca882d8f7f142a4
+u=https://cpr.sm/KOLOP9Obyo
+
+tx 99c69f2389a4f6542952114700a9f0ebc5ff5b2d568bfc312ab63339b0f097ea
+u=https://cpr.sm/vNKLZht1p59W
+
+tx eac70d22af20471fb57cc0a9e7ebdc433eb0741c5aea67f6e9a08f971569c446
+7Pd869db7fe62fb07c25a0403ecaea55031744b5fb
+
+tx aa6fe5b1540da5970175d1b0e1f62ad49e9f6f32e156b71fac7e0635f2062016
+ASCRIBESPOOLREGISTER
+
+tx 9b6a3c4e73c908c2240ce39aa4a15188e674aa76afc2b7852a1cc98254269622
+zASCRIBESPOOLREGISTER
+
+tx 9ecc0cebf9feb16aa25b92d2887e59defd61c27185db38fc239fb9cec13130d6
+7P3e32b4dc6b8052393b160b348e7e154fe54a54e1
+
+tx f95a408cecd50b58f9e761178b499a4b9bf3285500a3d75f091acd889af0f6e1
+u=https://coloredcoin.io/pm1
+
+tx e1467618a29663c088b0996955c9fe310c9f526bbf9d0871782e48f9bc23359c
+u=https://coloredcoin.io/ref
+
+tx b9e17644fe90a06fe0c22a32239294cfecbb1f2daddefb3246b08e5fda511cdf
+7P27b0557ee5bb0c93460b12c26a9dace443f87d87
+
+tx f06f64c6fd8b4bda121e1f5e1db30707f67d71c14bc185b4660596adafa95dc9
+cu=https://coloredcoin.io/acmt
+
+tx 66a30870c166fca000d5a61c92884c5668ecf437f9dde4a00be2fe6e01f3b5e9
+7Pe22aad8be7bbfad0159aef8879b8df664e4c5c9b
+
+tx 1df94b733b9e873d36b555d8523e86d0e39ebf4904996d746f5f9bcd27aca3c4
+bitcoin op_return testing
+
+tx d4bbd09351f5de3bd49d92a489ecd71ecf9473699eaca52ad8a99d6d75273b79
+--== Hello CONFidence ==--
+
+tx 6cc2604d90c1700a4809aadf9b4d6c51263641bdfa07206ed122f121990bb19c
+u=https://coloredcoin.io/csc
+
+tx ba6e78e1803a13002166e863beeb9259df92763edfb4d012a3bbdb3b6469be31
+Su=https://coloredcoin.io/arb
+
+tx 275a326e86ebea18a04462b29ef390550e768e4e5fb06687d20cc06399fdb090
+zASCRIBESPOOLREGISTER
+
+tx cfb4be0cf768e0fa9bee58f8966d8a4717d0567ea605852043244ff0e5988b13
+pu=https://cpr.sm/zskRLCZEAw
+
+tx 76b54351db895e6b774c79f55c5bb02504990f9188ff7952d0d836a43cbab8e2
+lSdbsh +SGD500 bcc to john
+
+tx c92efb19dbf78bf8eb801df89e85b4a01d52d89f269b3c24d6b6343720b5e10a
+dcu=https://cpr.sm/ul0HOoE4Nn'3`,
+
+tx 9259617622ca8df5cde1619f61b8257b8aa6857f17ae58efeba123dc8323eee8
+zASCRIBESPOOLREGISTER
+
+tx b67e00e2c5165c5a012fe1e9140ac81fc83dda33da3e4f63c5740550396462c1
+ASCRIBESPOOLREGISTER
+
+tx 722d66cc2ac7b21f6381e6dd63fdc3699ffb59075da1dc1b5b1bb010d144b951
+STRL_2013.torrent:
+magnet:?xt=urn:btih:bd73a02061d84fccf159de2a43ef38130aa816c8&dn=STRL_2013
+
+Lit - FOIA, ToEs, Ref material, and Graphic Novels.torrent:
+magnet:?xt=urn:btih:39d6313f69176c8d46fb4a466788bbd9ab781bfd&dn=Literature
+
+Lit - Books.torrent:
+magnet:?xt=urn:btih:255d908ce0150b0b7282b615f27d3515b83dcfbd&dn=Literature
+
+Lit - Books - Science.torrent:
+magnet:?xt=urn:btih:d17d2e790caa5bf60228d07bf40dc45ba3155d99&dn=Literature
+
+Lit - Books - History.torrent:
+magnet:?xt=urn:btih:e73fc5d9bfe0d6227c3646b1e1d42174d2f896d6&dn=Literature
+
+Lit - Essays.torrent:
+magnet:?xt=urn:btih:fbe55c952aef1314eefc7810e39f7280383ced65&dn=Literature
+
+Lit - Essays - Anomalist.torrent:
+magnet:?xt=urn:btih:f75b7bb843f0828e6668491cd2f22cdbbc35b042&dn=Literature
+
+
+tx 3ddef8d8a9737c3b96933f9f58ed8f434c01fc5565e116e35e61568f8b62db66
+u=https://www.capelazarev.com/d
+
+tx 3481aefeca914e06661b457e44ea624c7463af50aa5db9e1801299920d18deab
+zASCRIBESPOOLMIGRATE
+
+tx d4fb9aa5553553704d9f8b4dc29b7b21958e91d26cace19d8a28dc81cdac629e
+zASCRIBESPOOLREGISTER
+
+tx 36771b1b7873ccdac0e71157ca88a64456084c0942c6fadb024f416ad26e16ec
+zASCRIBESPOOLREPLENISH
+
+tx ef608d3117c08ed9f3dca29b75a7c4705ca269537cf87f3a303a601ce0a7f41f
+zASCRIBESPOOLREGISTER
+
+tx 6b93608fa98a561763edad10d8bd622394dd2be8d577caa90bf749fe1bee3980
+zASCRIBESPOOLREGISTER
+
+tx fbf6298086b4a9952569aefa0843109176e33dafd55cb20854f2ddf6337d28f2
+zASCRIBESPOOLREGISTER
+
+tx 6deaccf0c5e58ee2bbb07adcba0abe8565d0d8c6c58de2729661936b5e8b1abf
+zASCRIBESPOOLREGISTER
+
+tx c889cd6b9444312e43acbc22e2d1dbd998d3b73ff37f3c2f0bce0f5146289483
+zASCRIBESPOOLREPLENISH
+
+tx 905a6702d9a38262f8ca125fb258359d0455bd023fb47ba92ca677bd60d64990
+zASCRIBESPOOLREPLENISH
+
+tx 92b262227e87b7371d40e4f2e85ad32bbbeaba73cd3919c2a3921e197a9b3bbb
+NDASCRIBESPOOLTRANSFER
+
+tx c055bdfaab4083061480cfcda50d439573128caff88dc9a5701dc6f3ff8d5f9b
+ASCRIBESPOOLTRANSFER
+
+tx 576ef54c1467a4a418c643f0b2fa3d74ec0bc6eecfbaadb3e99e1a5813bcf410
+zASCRIBESPOOLREGISTER
+
+tx 70e0544037eb8629ade13f1898ae61d053fe15e1674a9cbc103c44c054b4b979
+u=http://dev.chroma.io/ATZYen9H-
+
+tx 89909aa6891292a678ebe0c8b2ad3a77d2470eb888f54785e0ccbd124a4b70a7
+&u=http://dev.chroma.io/AGpAyLEV
+
+tx a928743721ac10a1969c239a6f0158046ce10ec15d15339fd5f51cbec15367c8
+dbsh -100 to baba baba187
+
+tx 75c7b4ca7f7e07037dfaab7ac8d0c44e10797efdc3187aa01482ccceec2f1be4
+Fund  aworldapart.us
+
+tx 1886e6e18ccfb235f167e792a71cca33d99a9e096fc1909b90b39c759d1916cc
+u=https://coloredcoin.io/arb
+
+tx e67174ebcc1571a11fbc687d9d212806670ae94ffef2620e72f516ff40ab2fb1
+u=https://cpr.sm/Pds4GiV4d1
+
+tx 50ab25e9a377767306b31923c166b0b7cba6de58c34613ec41907d55d09d5210
+dbsh -100 to baba baba188
+
+tx e47da4a8e2f0d3a3f13d61e0345bf3f8f9830adcfcf9e67a8f27643c23d125f7
+dbsh -010 to baba baba188
+
+tx 6bde9ba7fa34116e9dde4b7341a331c4e31406367a67ac0e5e9825e38112136e
+dbsh -020 to baba baba187
+
+tx 4f57e1333f75969363e937d146d325fe514aebec7118dd6effbdf99bab151733
+dbsh -020 to baba baba187
+
+tx 80bd02ba0b187fd6dfa0f8aa1b39ec927aec5418b40b13a404ff14f2efe9335e
+dbsh -020 to baba baba187
+
+tx 36b1e02fc5dadd1d981cbb5c83b9a634de096d9d7224d42a5f0cf7d765bda7c9
+8 to 9 May 2015 hackathon
+
+tx 2bbf0b585237a8fe93f4bb31b32023a2a309837c21cb8f072ef0298971246a67
+Dear Armanno,       
+Happy first birthday
+You can blame (or thank) Uncle Mark for this
+From S
+
+
+
+tx 0b69473262dde096dd97e426cc8e55e32454dee78ef8a46d2b2c0617438de874
+dbsh -020 to baba baba187
+
+tx f45afe3d3d66263c23a6a64d39c52a347971fdc8fe7da51b6dcebb47c4c00490
+{"h":"321263dcdf398cbc64074d1085ab9768"}
+
+tx 950c869dd55792b116b50d5fc26df1a2eee5f61ebe2c99124d118e76cab95bf6
+dbsh -010 to baba baba188
+
+tx a4ae3c373ec5cf13e890d141bd1c8e3571ce2a124a0736151ea046774cfa29a8
+dbsh -020 to baba baba187
+
+tx fb8a997226a5472b9a2f66b14b51b967b1d7ef75787c27126d76dc2cf9d5977d
+dbsh -020 to baba baba187
+
+tx 12558cd8a31a0ea78aa6da8741d28ffc48951583711bcedc14e3ae2f8239fd47
+zASCRIBESPOOLREGISTER
+
+tx 7e410a31b64ec67ff36c90cfb379b5316168415a0e2fd6cb8af8abdc6a913d04
+zASCRIBESPOOLREGISTER
+
+tx cadbe4b211e95b067156ad08ba82bb9af4a71858aa0f78698a3ceff66e03f02e
+zASCRIBESPOOLREGISTER
+
+tx 50120c17f612cd90a7ea229fcac41e55722950e9297af25a21d0ed17d4322cd7
+zASCRIBESPOOLREGISTER
+
+tx 940ca55d75ce61187d7dd3f4b865f6f8600b8ae2a6b9c39c9b8585ae174ae75e
+zASCRIBESPOOLREGISTER
+
+tx 51ea73fd1c6d9d7166ab01df5ec3c46a04e2dbd19f3315e14d4b7162fe36f4b4
+ http://chat.4my.eu/ the best surf a
+
+tx 9ebe18079a52ea510c66fffcf60b75371090e3defff5f9e5caac190847364f38
+zASCRIBESPOOLREGISTER
+
+tx 25658f625c8f3964593b9e3c632040cb69aea9cf24403af33ab173d7cba7c42f
+----
+3065
+----
+aW1wb3J0IGJpbmFzY2lpCmltcG9ydCBoYXNobGliCgpCNThEID0gJzEyMzQ1Njc4OUFCQ0RFRkdI
+SktMTU5QUVJTVFVWV1hZWmFiY2RlZmdoaWprbW5vcHFyc3R1dnd4eXonCgpkZWYgYjU4ZGVjKHMp
+OgoJaWYgbm90IHM6CgkJcmV0dXJuIGInJwoKCW4gPSAwCglmb3IgYyBpbiBzOgoJCW4gPSBuICog
+NTggKyBCNThELmluZGV4KGMpCgoJaCA9ICcleCcgJSBuCglpZiBsZW4oaCkgJSAyOgoJCWggPSAn
+MCcgKyBoCgoJcmVzID0gYmluYXNjaWkudW5oZXhsaWZ5KGguZW5jb2RlKCd1dGY4JykpCgoJcCA9
+IDAKCWZvciBjIGluIHNbOi0xXToKCQlpZiBjID09IEI1OERbMF06CgkJCXAgKz0gMQoJCWVsc2U6
+CgkJCWJyZWFrCgoJcmV0dXJuIGInXHgwMCcgKiBwICsgcmVzCgpkZWYgc2hhKG1zZyk6CglyZXR1
+cm4gaGFzaGxpYi5zaGEyNTYoaGFzaGxpYi5zaGEyNTYobXNnKS5kaWdlc3QoKSkuZGlnZXN0KCkK
+CmRlZiBkZWNhMmIoYWRkcmVzcyk6CglrID0gYjU4ZGVjKGFkZHJlc3MpCgl2LCBkLCBjMCA9IGtb
+MDoxXSwga1sxOi00XSwga1stNDpdCgljMSA9IHNoYSh2ICsgZClbOjRdCglhc3NlcnQgKGMxID09
+IGMwKQoKCXJldHVybiBkCgpkZWYgZ2FmYmlqc29uKGosIGQ9NTQ2KToKCXIgPSBqWyJvdXQiXQoK
+CWFkID0gbGlzdCgpCglpZiBsZW4ocikgPT0gMDoKCQlwcmludCgiZW1wdHkiKQoJZWxzZToKCQlz
+ID0gMAoKCQlmb3IgYSBpbiByOgoJCQlsYSA9IGFbImFkZHIiXQoJCQlsdiA9IGludChhWyJ2YWx1
+ZSJdKQoKCQkJaWYgbHYgPT0gZDoKCQkJCWFkLmFwcGVuZChsYSkKCQkJZWxzZToKCQkJCXByaW50
+KCJza2lwICVzLCAlZCIgJSAobGEsIGx2KSkKCQkJCXMgKz0gMQoKCQlpZiBzID4gMToKCQkJcHJp
+bnQoIldBUk5JTkc6ID4xIGFkZHIgc2tpcHBlZCIpCgoJcmV0dXJuIGFkCgojIGJsb2NrY2hhaW4u
+aW5mbyBwYXJ0OgppbXBvcnQgc3lzCmltcG9ydCBzb2NrcwppbXBvcnQgc29ja2V0CmltcG9ydCB1
+cmxsaWIyCmltcG9ydCBqc29uCgppZiBub3QgbGVuKHN5cy5hcmd2KSA+IDE6CglwcmludCAiYXJn
+cyEiCglzeXMuZXhpdCgxKQoKdHggPSBzeXMuYXJndlsxXQoKdGxkID0gImh0dHBzOi8vYmxvY2tj
+aGFpbi5pbmZvIgojdGxkID0gImh0dHBzOi8vYmxvY2tjaGFpbmJkZ3B6ay5vbmlvbiIKCnVybCA9
+IHRsZCArICIvdHgvIiArIHR4ICsgIj9mb3JtYXQ9anNvbiIKI3VybCA9ICJodHRwOi8vYWxtaWVu
+LmNvLnVrL20vdG9vbHMvbmV0L2lwLyIKCnNvY2tzLnNldGRlZmF1bHRwcm94eShzb2Nrcy5QUk9Y
+WV9UWVBFX1NPQ0tTNSwgIjEyNy4wLjAuMSIsIDkxNTApCnNvY2tldC5zb2NrZXQgPSBzb2Nrcy5z
+b2Nrc29ja2V0CgojaHR0cDovL3doYXRzbXl1c2VyYWdlbnQuY29tCnVhID0gIk1vemlsbGEvNS4w
+IChXaW5kb3dzIE5UIDYuMTsgcnY6MzEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8zMS4wIgpy
+ZXEgPSB1cmxsaWIyLlJlcXVlc3QodXJsLCBoZWFkZXJzPXsiVXNlci1BZ2VudCI6IHVhfSkKcmUg
+PSB1cmxsaWIyLnVybG9wZW4ocmVxKQojcHJpbnQocmUucmVhZCgpKQoKaiA9IGpzb24ubG9hZChy
+ZSkKCmEgPSBnYWZiaWpzb24oaikKcHJpbnQoIiVkIGFkZHJlc3NlcywgJWQgYnl0ZXMiICUgKGxl
+bihhKSwgbGVuKGEpKjIwKSkKCnIgPSBiIiIKZm9yIGxhIGluIGE6CglyICs9IGRlY2EyYihsYSkK
+CnByaW50KHIpCiNvcGVuKCJmLnR4dCIsICJ3Iikud3JpdGUocik=
+                   
+
+tx a9eedd7743d7604b62c8cd3ce781a101bc3fb0ff7cac1070d95f11e02c95e981
+?e
+Ellie Goulding ConcertQ
+
+tx 51b2ea8c0bb42023be37e204f3854309297d9ef21909c2e2236582f0b69a6935
+"Ru=https://cpr.sm/MfZ8WjvsAx
+
+tx 27a30c38cf0094d6bb077bad1d67d6725a2b7e1679cb6ec7533c954eeb5a1847
+magch:RBMUVKWL3ZAO6PRFCDCHG5HMBKRZNQEO
+
+tx 5256d3059520c9ecda22bcf17776adcc962a5ae90333efbb00cf45818e9bf0bb
+You're poo you're papa, says WeeWaWeeWa
+
+tx d9450fbd228d7a19d08f700d43200184b0d46561ffd7eb9ddbb378435ec66789
+Let's agree on 5MB blocks and move on?
+
+tx a689707f77882eb5a3b1954747f159b1c22b688a57ec17b4d636b7f94e451e3d
+a single piece of data
+
+tx f23c1a5a0c67a91b146e85483d728da51b76a56b5b14907b3272ebfbc0498e07
+dude, you can have multiple OP_R outputs
+
+tx 88cd1ec62dbf2c33905b828e090dfa593ca4d3265d2ab76591d3bc2c499a74a5
+Bitcoin uses peer-to-peer technology to e
+
+tx 130856298f65e28abeec4841211fd120568b5a26d0a53b350dd718642301c402
+operate with no central authority or bane
+
+tx 380c0a20d0879694e063b1ccca9b041a41951c40ae0225d838fcefe1acc3a2b8
+a longer piece of data that is stretchedPT
+
+tx d39efe404ba473a1c119f7806486839115bc64d23f8dd3b376367c4a67129161
+ over multiple transactions
+
+tx 3f66385a27723ad6f9cfc1564b78f810ac77bcfd328038024d29a75b92a7224d
+dude, it's nonstd; search but #manyopr
+
+tx c9b8736b9435a10f70d1eefdb070c17cae9dc38b4f6c96b6fc75964f3240eb7f
+ks; managing transactions and the issuine
+
+tx 0a1540e0a4efbcc73a88083f46c69574d6b9e0701bd12bae4be45c207d632507
+g of bitcoins is carried out collectivele
+
+tx a458c0548c134b1dce4130336183968bb217f188f9b2f2771707280ead99dbcb
+dude, i believe you can't. but show me?
+
+tx 3fd93dcaaea1aa3550051ef0c9523bc8a8ad738e07bff05662d5cd318c44ed95
+dude, made one but nowhere to bcast :$
+
+tx 8a213235a582bfeede6abb6ccc5803b4c9bda283eb42be93246f852d2f42da29
+gdude, well that's the problem then :)
+
+tx c2a988beb3a0f31e6447bdf6b9edabd02b4ccfdc62556f760951655ae4111972
+zASCRIBESPOOLREGISTER
+
+tx 7b9891751e6d2594af7ba359d29bf1bb3f4e66a8d0d0cd04e476d5af66627ef9
+}u=https://cpr.sm/hVrS39_PeQ
+
+tx c058286d078f059eab4231475ad6fc23c4cd1520d603128b900c13582728a961
+dude, relayed with 68.168.105.168 ;)#manyopr
+
+tx 3a29680e9b21168867aecdb71d2623c48982e0ccc6707296ac08896863be28ef
+zASCRIBESPOOLREGISTER
+
+tx aca70ec53a3a3b371a844afb5d4f58921c5b953f72e7201a975d1f8cce35b075
+zASCRIBESPOOLREGISTER
+
+tx 2114dc8653e6f766dbdadefccb9681d539e22f74c2b1de7c56439750b9c46f92
+dude, tnx but i need something general!
+
+tx 57a7dead075c0141512a7d87f2f94ddab5e54ff0c00317ce47709f303f19d0ab
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmn
+
+tx 88c99e75c84b70cc1506788594fe47a75be6381f888e9ad56e561e7be3dd9eb1
+Bitcoin is the first implementation of a
+
+tx 7c1473c160757c6210b86bce176669d332dd4a23ea62929f263e8780e812a494
+ concept called "cryptocurrency", which 
+
+tx a81b68a93b17c4df4b9f75c33b21b77608831d93721eaf87c781b747e2e6128c
+was first described in 1998 by Wei Dai o
+
+tx 009a15471b2903881abf89d7032dd9c1bd22c3cd5617d93b6bdb017c3b181fad
+n the cypherpunks mailing list, suggesti
+
+tx b1c32396fb1b39cb53b50bdb845907ca93f5501b4cbb9858c377be5682527398
+ng the idea of a new form of money that 
+
+tx 2aa9fd0f16698b040a6be8c0ca8868957565c2dcaae548a3a13c8f9650c23a1f
+uses cryptography to control its creatio
+
+tx ecadb882e566ad27c930bcb7084a179969066064934713b3c5e58b11ede349e4
+n and transactions, rather than a centra
+
+tx b6a7f4aa0d0e2f72d7009320eb13551eabfee588a47463bcf2ec73ba7866be03
+l authority. The first Bitcoin specifica
+
+tx c591cfbe5e5dc25d34f7d08d7e9237de2047e43de47060f5cd1130d81bad3da9
+tion and proof of concept was published 
+
+tx 7c19c7535c12e3b53879f87b4a4b4f4e95228518d62361102281ec9cc7929258
+in 2009 in a cryptography mailing list b
+
+tx 684cfec56fa4a5af80bf94aa42cf9db1489f732a2789445f46becdbb11957b6f
+y Satoshi Nakamoto. Satoshi left the pro
+
+tx f6116dc6af5992271ef4b45d8511e6d219414640a8a324448b3db15f5b214abd
+ject in late 2010 without revealing much
+
+tx 54ff2e85d0395a1c07f0f96d79577b8fa1fc524ff259a55b52565f549e855c34
+ about himself. The community has since 
+
+tx 21294935aaa0a8347712568d836333514e3352b94a1ee22f0e041e8417c1daaa
+grown exponentially with many developers
+
+tx a532959d5e950eabdecc1088c0a4fe548a5a444de88a8f57e8033833f69c3a8e
+ working on Bitcoin.
+
+tx d6b006f3cd9b545d5015263e954dae7c52c71bb5f4a0573918ff0e1ce8785de4
+Much of the trust in Bitcoin comes from 
+
+tx 5ea6d0b6616ca75fb6a9359ff7d1f4bd484e56c620454b24e69e61d72c140915
+the fact that it requires no trust at al
+
+tx 8f45a702f23df5706d651e5e658a588ce7ac0fcfcee6d5da16ccaaeb1a8cdd17
+l. Bitcoin is fully open-source and dece
+
+tx d0329ce27bb63851fcce50fcde69ace967d259fde48d24e116b819baa70f55bf
+ntralized. This means that anyone has ac
+
+tx fc7f124a0ac37d8e1df4f0b413cd758f420727b8bf4d1203721ef577c0a76765
+cess to the entire source code at any ti
+
+tx 7cd549d83eb8dd3d220d1efba336dc9f3a0d6c53eafd2e1f59e4fb149c6fdc2a
+me. Any developer in the world can there
+
+tx fd6521054c8901264155a3077eb5bff5a4fe6a4ebb415537ad79d196514b9361
+fore verify exactly how Bitcoin works. A
+
+tx 1a938ab88a4f9ee8f6d8897bbf217610844f8de0b2e3e608d251b9583502c185
+ll transactions and bitcoins issued into
+
+tx af18df619f8b7298334bce9b941b49064af88ceb6068a0d82003c487186b0593
+ existence can be transparently consulte
+
+tx 452fa1d6735813ea164635bf9085192ef73ef5ec88c537bfac0edaee6f659b21
+d in real-time by anyone. All payments c
+
+tx 9756d55c869ddfa3bba4178d8bd5027b70ae55bb537aee490901f1a30d820259
+an be made without reliance on a third p
+
+tx fb1a702f3ae165ae9a82d706ba8b9c3826afd2cfc6adaa4e28c868fcc07f4a59
+arty and the whole system is protected b
+
+tx 2bef3f437cb40b82384b4429d0a2840f3ef796e902ba510a685c5b94d58197de
+y heavily peer-reviewed cryptographic al
+
+tx 476f7840419698cc0452ebf5f45e1d06de911b5e4adfd280b5ef81fafdceab8a
+gorithms like those used for online bank
+
+tx ee454128aa03281d385866590dc79a24dad2eb28791bbcdedb3e28e3279438d2
+ing. No organization or individual can c
+
+tx 0f45b88f5d1aad8cc159d4e8fefeba9e2e3df7c24bd4405e4fcab35dc98d3dcb
+ontrol Bitcoin, and the network remains 
+
+tx ee9e2ccbd8ef6821a6a2767b5e156299f6b60e6837406101e0198eedf3612ba1
+secure even if not all of its users can 
+
+tx 940e1ca45484de822b3c00c7809a3d9efc802b81a8d1578465b71ad868d4825e
+It's my cake day. I pressed the button. Y
+
+tx 2d06f7c4dc8339c81a20dac0a7accc475418ed6a0a92f1750d9b6fc9ccba050e
+zASCRIBESPOOLREPLENISH
+
+tx 0166d9fc32fd37dd68d205c4ef5a4bd78e3d1bd50e3091e31e64348c6d1dc914
+zASCRIBESPOOLREGISTER
+
+tx e9ef01462a6547a5101c1ca3e5c5949dca9174f4da1d314a02dde67a8f55f4a9
+I"ASCRIBESPOOLTRANSFER
+
+tx 5dda89ce86ff4c06e57ee0f5891a8eadf076276cb3a33038ccf6e4cd2c5ec15b
+zASCRIBESPOOLREGISTER
+
+tx 1784f77caf146b8ab20fa846c42930c63bb6ca75a5efc2495023845ee427d28d
+zASCRIBESPOOLREGISTER
+
+tx ccb5a2ffa0d9fa0cf6d92f097a6f1aeabc20b439260ebd3c2400023b0abacebc
+dude, yeah, 2+ OPRs are unreliable :(
+
+tx b7f3827fb2a02d1b56d813fb2d87ffab25ac6fc321f9e4bf91ac275eb5026f40
+zASCRIBESPOOLREPLENISH
+
+tx 472edd9abc31e3bde135cca5514ef0554e5e37624a8e2f22e369b1d1e0211f95
+ASCRIBESPOOLTRANSFER
+
+tx a4ff0f587a66d1ce2948f7fa68a7d8c458cb3a44d0127a17f5bb88612b7bc66b
+Pu=https://coink.it/asset
+
+tx fb87e4ffd2fc209a10231b977a3ba929388ad3a69c11c5befa817dab415a10c1
+9u=https://cpr.sm/9l5qsa0UYQ
+
+tx c8310ac9ae22b8738260e6a58815d28412fa87bfba8b788654489ff51493519a
+Eu=https://cpr.sm/Mif8vS_AjE
+
+tx e65d657f39442d4bceaef2b317e1ac9cb538053fa581b6b1744cea1eb95d5d9c
+$?uu=https://cpr.sm/Mif8vS_AjE
+
+tx 724febb7cc27529e5ba2f26ceaecb6bd0e11cb81a8a92edd462566f79accbe38
+*u=https://coloredcoin.io/csc
+
+tx 78f63e27da917baedfb54eab0935b8e82db443fe77eaada3c241fb70210146f5
+u=https://coloredcoin.io/csc
+
+tx 7d212d71c775078c0e71b0ae80bdd9ea11a6ec85af8cc312a955fee04f47e62d
+zASCRIBESPOOLREGISTER
+
+tx 3068ff595589e0657ae90a0f3b6e566f027b08c112ffabc55a16301f922dec57
+In the meantime we have to contend with 
+
+tx 54ba1a6819b5782759a7b2699230e43456d07532f7ed878e98c8748ba4c8bc38
+teeny OP_RETURNs which make this ineffic
+
+tx 5a265daa662c441e9dabed9105d0932c198f98bf04dd38501f7c697f3c0f70a9
+One day this will be for general storage
+
+tx 31e6249807f016dfd6fb7b16baffd66697a1249f409b23a7337b44315a312a85
+eJust stick it on the blockchain
+
+tx b4da0712c84b9c2134ceb1cbc3725145be1c06c1019f13f8cca7f64ced27d821
+Z$And now, via JSON-RPC!
+
+tx 01841e030390b84abca8f32a8aa7392bf53b73566c17274cc6e7da4a87c376f5
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmp
+
+tx 1a47a61a6ac0b0893e62139ae1ab2b4fdb3032e03ebe2138cf478c0d58a5ed68
+meta xmlns:x="adobe:ns:meta/" x:xmptk="A
+
+tx c3bcdaea72fc93f53e19c8e8e262b795da2999e6d33a1b892e39f6739c712c8f
+dobe XMP Core 5.0-c061 64.140949, 2010/1
+
+tx 1d0a0b995cae07d3de5abadfc60a228644ed54037f8fd74a0cbe0af1d65e4841
+2/07-10:57:01        "> <rdf:RDF xmlns:r
+
+tx 605ec49c5f07429fc79d4384f61d44dfad2cc087049fab20eb307ef521b34096
+df="http://www.w3.org/1999/02/22-rdf-syn
+
+tx d257b0a020ec80207a9d39581f2e478708a620352f460e559946728b1b3ccb9d
+tax-ns#"> <rdf:Description rdf:about="" 
+
+tx 0633bd0b213a6e370de241a9088b1ac3145a332e30cda1bc503c4cb1becdecdf
+xmlns:xmpRights="http://ns.adobe.com/xap
+
+tx f680a128159d031bb357c5c06d39ea91c5e647198ab582ceb7c1015950db4205
+/1.0/rights/" xmlns:xmp="http://ns.adobe
+
+tx 7b53943e6c424110d705fee4829624b7f4f844657fa12a2d24251df37e57684b
+.com/xap/1.0/" xmlns:xmpMM="http://ns.ad
+
+tx 18063b030fc45cd2288e4c5e9759f9e47c738462826d38ff53c2eede7345ede4
+obe.com/xap/1.0/mm/" xmlns:stRef="http:/
+
+tx 7aefac8b696247c1570478ad6b6f53ee69cd64b15ad83db23937d3de36e192a2
+/ns.adobe.com/xap/1.0/sType/ResourceRef#
+
+tx 6e8818dd95723a14a7552b3e1f8bb98755246315777f1765b5768bcef28b5b2d
+" xmpRights:Marked="False" xmp:CreatorTo
+
+tx 88d25edd0160afe7cceca634e8538e4898ec8af82e6998db46bebfe568786e73
+ol="Adobe Photoshop CS5 Macintosh" xmpMM
+
+tx 0abac4f6f64d7dbb94b39813bad17ccd1f39a5a23f5c5126b85a3ecc263840af
+:InstanceID="xmp.iid:61ADB67A980011E4863
+
+tx a57732437e0b825ce5f1f2d8bbe3b8e685829d6c45bc6b41de0e1c7e4f884845
+2CA95FDC8EA3B" xmpMM:DocumentID="xmp.did
+
+tx 367d8db4cfe9bc823da5dd97e0687bf04f40964e34b2197a9643f5e259126bc1
+:29359E38980111E48632CA95FDC8EA3B"> <xmp
+
+tx 81203ba2a510a7c5d417bec265bb1245be8e1749febe9ff7643d20355cc0d9e8
+MM:DerivedFrom stRef:instanceID="xmp.iid
+
+tx 9fb3ef83fbb9c4d9f10de2631000637a23e94085e15b2425274291370fed97f4
+:61ADB678980011E48632CA95FDC8EA3B" stRef
+
+tx 31c48885ea5f52223d6db10da77c8f40edc6a3a48437d4bf40b329441823d530
+:documentID="xmp.did:61ADB679980011E4863
+
+tx 8dafe30a58e97976adadff0405fcfc8294843d070ee7b77e85b883fa29a01b12
+2CA95FDC8EA3B"/> </rdf:Description> </rd
+
+tx b04e00aab1e725381ffa61ba9190c95c64e9ff07c754e8f89a0ba996769a3d53
+f:RDF> </x:xmpmeta> <?xpacket end="r"?>
+
+tx 5aa06a16a0cc49eb0f549e25b8c02b94627e66b88d7a11171769889d5cea8fb0
+" &&##&&00.008888888888
+
+tx 0e31c9d1de2ad7a6ee25026f5a40fd0fa7185fb01ad5369699cfe0a605e9c8e4
+Bu=https://cpr.sm/Mif8vS_AjE
+
+tx ed4fa81bcdb90a69fd5feac50106c20bc3f6ba58285d6ddf3c93ef38bf390154
+ASCRIBESPOOLREGISTER
+
+tx 92eaf255449e143a2fadf79bcb7957012c2955450f0da2b2ccaa5cb2e344c30a
+ASCRIBESPOOLREGISTER
+
+tx e3626f1d0463aaa92f22948908896b1e3ec83d57e908357412cbac2368216d2c
+{"label":"","message":""}
+
+tx 66769c7baac104be966879161cdd723088402437b539c83952025f1656c8e11d
+{"label":"","message":""}
+
+tx 5a0241e66be52a048d1af1f5384a0110996eaffa7ab8454c25996c1f78c4f7c9
+u=https://sertant.com/ODN1
+
+tx 247aede3c02ae71f621ee8ddeecaced9a141c231436a5e148934848d24105cb1
+zASCRIBESPOOLREGISTER
+
+tx 1ce99a2c9fec4116816fda55d6119a962a845999b1966faa3499089f85d8e668
+zASCRIBESPOOLREGISTER
+
+tx b385dcd341ae988067de4f11aadcb71111327d76d143b0082a83e9cac990069f
+ASCRIBESPOOLCONSIGNEDREGISTER
+
+tx bb53760648231714c907b67ab4b99613db1e13a78b6921e062738026d9baed6a
+Iu=http://dev.chroma.io/Acki8C7qI	
+
+tx 174b7aee113ae11c9d627b953a63f1d1c2690254574b5350ce7b3ddc581cc128
+u=http://dev.chroma.io/ASfmKRDu
+
+tx 7e3da43fbcbbb710b437257a526be992c955d65da75f2f3acc33b0cd5304f15a
+u=http://dev.chroma.io/AMD9PHLL
+
+tx 0028cd6616af2ee423145ffbf9192285f8abf9a14284204a06fa4db48887322a
+1375 Thomas St. San Rafael, CA 92067
+
+tx b4d743a365bb5c068bb1dae4ff11928fe6d7e4b1dcecab42370227f28513edd2
+zASCRIBESPOOLREGISTER
+
+tx cedfc2f4ae6d89613ea17c8eaab5d7345565d81c169723efcca9992b247c4797
+Lcu=https://cpr.sm/RN55S8stpE
+
+tx fb0605beffb48d076d813c93cb92e16b7ee31427378e2377ba148865bb0dd20b
+zASCRIBESPOOLREGISTER
+
+tx 6504ca35ba7bc9243244a11ffaab8dd2b8c1bab8411577df759a2a8932a42870
+u=https://cpr.sm/o8wjZDXXLK
+
+tx c9feb23d54925e71a21828da69f80bd050b88e3347414fa27c629138832e71a1
+u=https://cpr.sm/5QCWCT2VgN
+
+tx ff062f69fb68b1e90998143f0423e5031521145da1a5fbaed01ab2ea82616147
+u=https://cpr.sm/XPWebDFWe1
+
+tx 68d6536d4b573df7bc6674eaa76ba46f15c15c5a51b2ac2a8010decae71b904e
+u=https://cpr.sm/5QCWCT2VgN
+
+tx 352533a0cf0e07bf23ba08547d81cdef05f3a6eaaedcfa81d0c01f6db50340f0
+u=https://cpr.sm/lzpDfBzzSAQ

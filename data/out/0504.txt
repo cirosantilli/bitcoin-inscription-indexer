@@ -1,0 +1,929 @@
+tx a19261b54e447e71bcfcd1f3c4080987ab410f5abf97449df5d3bb3f20c3d8c3
+1EUK 01/Jan/18 SC2 0 BTC/100 USD PWD:4bKQKUdZwE#Z7qu0 REF_TX_ID:49397e283932c919
+
+tx 7610d13e8136cc713899868711574e2bb286959f5d4e32b38d51a083ea6b2cce
+1EUK /6r4ldql2wre4aZfeA9sREpFZNWmJmFeFn2KYKuW9eU=
+
+tx 54d36f96905ea874d56651719cf9bc70450d3fe92ef9634401ade0f6de437782
+1OL AIR  @85.67 EUR PWD: bdRIrVGSW#3F3ZSy REF_TXID:ec86b1263925c55a
+
+tx 1df2a6a8470e43cb5135be8500d5ee7a129c7044a055af3343254892e45cb240
+1CL AZN +3.5% @4887.5 GBP PWD: ##eAg6iTAYt0XjTK REF_TXID:2ae6de794ad736dc
+
+tx 44f6beccc28e282513bd53444d64d5c890c4e785ace9946d951e16a4ee748725
+1CS DAN +0.87% @70.92 EUR PWD: q8NFqEfOkR7#b4R2 REF_TXID:841464d1ae508e29
+
+tx 022a284e2bab0ceedc38ca1a4e7460cedb76d821971905698d3ae4ba7b814baa
+1EUK 02/Jan/18 SC2 25 BTC/75 USD PWD:87e4d#dW8UDa774W REF_TX_ID:7610d13e8136cc71
+
+tx 8aa985cf16cdaccc30b47c5bd1c69b9e357514611b1ef9ed55cd73a4785e4e8b
+1EUK gJmW24Xy4ap6SuaWrjqgXAwKHiS13QEMSsNcSAga06E=
+
+tx cc7a210a05cf528b8160d002eb008c38a54c956815d10452ee07a018619db741
+1CL PG +2.04% @91.68 USD PWD: SVPRQ7FU1kkgJdEF REF_TXID:c2c8bd7344dc927a
+
+tx dd875f0b36ffb67a1a5618ec8f627a3f947d86b1013940dbedcb32e3bbe00bb4
+1CL KO +0.76% @46.13 USD PWD: YXxpqO7gAab1Mxvc REF_TXID:8a7cbfe9146a52b5
+
+tx 137decfa4deebe48e6f515b43befcdb499aed96c456a29d5e6eaa4dc07a6bd1c
+1OL SLB  @64.39 USD PWD: epgurgYY8TuZekxD REF_TXID:aafcc763e73955b8
+
+tx 6bde00101fd19037154922fcef8576772bfc928929b6ebf63bc010851a015b5c
+1EUK 03/Jan/18 SC2 75 BTC/25 USD PWD:I#vYDFLyvPXH68Y# REF_TX_ID:8aa985cf16cdaccc
+
+tx 0ddcd23209265a873f4984e799c6da62be18f4665785cfb88f46e9dc0939e493
+1EUK CbY2sUhttUTDM7g7mdN2QyS9ouYt+XZQNOA+/bSW9YE=
+
+tx 666f94bb02b4b26b8ffa4cb3582704080bff7fb7c8f1f7db571a934a336fa27b
+1CL TEF -0.39% @8.324 EUR PWD: BuLpJ7AG7VddFfy2 REF_TXID:1252a7928b80704e
+
+tx 508f80a0218933dd3972a9c4fff23d6965c69b877b66b7596f849adc0aa65691
+1EUK 04/Jan/18 SC2 75 BTC/25 USD PWD:CzZrR7HaaDDLs#8B REF_TX_ID:0ddcd23209265a87
+
+tx 156d8b613082c2f1c8df3120e824166e75f5f0ca1de04bcf79a7e2f206be1b2c
+1EUK bh3abhFGrFX4VTnCfXXnAwmazW90YtHe1DsE19mRciQ=
+
+tx ff0742e6cadc217376323ae4421d6ee986073435b0c8a507acf3dacc3b01df98
+1EUK 05/Jan/18 SC2 75 BTC/25 USD PWD:u5w3F89h0Xw2#4eG REF_TX_ID:156d8b613082c2f1
+
+tx 7bd43e99bd79dd0af4a7df4690fb7d7b757177ed1647337945590113765dc968
+1EUK wUSzMSi2iWCmYOv106tAl3R7T4tOcVge1yjRSkH6P+g=
+
+tx b459a70191e90fff4398d903bab520a37f2c55435d6cbefabcf1a198f8df47d9
+1EUK 06/Jan/18 SC2 0 BTC/100 USD PWD:EJV1J#7vU4x88ZAa REF_TX_ID:7bd43e99bd79dd0a
+
+tx 607095e43157e792c174fa2cac7ecd212f85dd508230d6a637c87cb54c5b511e
+1EUK 4KQafuo3qwRXFU7C0c8urpZXAh7bUB/FBqU9mwq6kZA=
+
+tx 17241729520337b81fcf3d920e6b71e9863a33a5a708f377ace1ebe1f15d8aaf
+1CS VOD +0.49% @234.3 GBP PWD: 0hEQXU1N7M77AT#q REF_TXID:33c3355b853ff9c3
+
+tx bee38cbe9a293c277301e4c0bb804959a40167100e2c4efa57eda98f955b358c
+1EUK 11/Jan/18 SC2 75 BTC/25 USD PWD:vMxuyxv08gDRGuWw REF_TX_ID:33dec13d8c39c8e6
+
+tx feaab0a1c039d16ad5b5c247ba51d906e5e400b783a5233a01333bf7cfb5d3e0
+1EUK w1yLA9s/F3PKomxC5e+N30DOEsKmngWIYSL9J9fb4E8=
+
+tx b0509a0136a171f61f258b770875e2a98570031364423c1157626a21535ba968
+azeppa@bitledgercapital.com$q
+
+tx 44aea0c902cc61ec5fad3df01c14ab0923f5ad7f5f49ed575375bb208a5dead5
+id:eduardosalgado.id
+
+tx 34f661f66c8d7216283567fd04942a484a1ed499b86ed2e9a9ce076724db159e
+3dE9fB4CyLifax7QJ5Ejh3EkGBZ6r6nRAo9Fco1
+
+tx bfd104a3ed34e4b2efde06b554bac123719e51b38272a23d9f4a972a346fffc2
+/Q3EW 5 Marzo 2018 5 Stelle al governo. Sibilia Brescia e Dell
+
+tx f65e36657595a49bfaffdfdfd67aa6371414ac321b3b8ab8aebe2cb7a16ad39f
+IPOR: f5a1da70f1436a40b71e54810e8e0d235f065a8ee99fed96a227787564749dcf
+
+tx 701a3936fd6cbf82ab626abf5f990ddc7ad5a60ebbd27dcbe38581c70d8d3b4f
+c4ffec90d1a8f5cf0a75c23f9bed0944b286963a983706da1123e1206db88f3b
+
+tx b23f9a1b8a4f541d251364a440758ca496f22086df9444cdb9cbf4a17d8daa73
+1EUK 12/Jan/18 SC2 100 BTC/0 USD PWD:fNpQDUHKcx#Exgc# REF_TX_ID:feaab0a1c039d16a
+
+tx eb76cd5f2a39b36a2c6f84be5d7536c307f5fa5f283995b5ec067f3f181ca69a
+1EUK 1RKsxUMY+DZ4+yKgu2cdTORUHubihrr/GCiA4PtFsug=
+
+tx 096e14f9a343dd6434c3c99015e89d679bbec3bdf41ac6ff496e0ed3d0185a38
+1OL DIS  @107.77 USD PWD: #vOsLWCxRgJrJ7dF REF_TXID:bcb5bc69e85f4845
+
+tx 0b655d01ab4ecc384ccb9846898d4869eacdcfb9200240fcf410c772565bd347
+1khVDv1JMT9rZZ9FGUCNFm9PDy37PUtYK2AWdNJ
+
+tx 40b6bc8071353f517c744a81640caa260db1dfd331b703c4670943e277411e87
+Sc9bad62417084be170f63506793de5a141d930eea177f94d7ae91019e67cd816
+
+tx 3c5ace39aff996c625ef1afffdcb8c8472e311166f4da4b705bf641d01dc3366
+1EUK tCjfsxdrtmXd+ZZaHkcosT+CdFWPjPR4pnYRrt7kn48=
+
+tx 9a9833fe6350dd39499a1b27e94c69841183c54992c825c5ef1d43404b8adb42
+1r8AdkUUFPWL9fz6xqz4VpkjTZ6NEJnYZ6PsSjA
+
+tx 692f007b76e4f1b0e19298d6e58a8f58aca70a26bd47b9dae69f85e6f579d8dd
+b9e3c0128baf1beca5d8973bc0ad9b8f811bb0f31551417798f47a02a6ae3cd79
+
+tx bfc8ba3a66bb9083b51e46a84d3717cf5684ad934c793305aab9079b7386dd68
+IPOR: 37dc66ca3cb5d7e6e24ea0a81d8592c12dfde4fa5ca0a1374f32f12039d7bce4
+
+tx 8487a6868719e97fc208407009a748e2056511956cac165fa595f1379cc4c84f
+edc47d4a1c6b757917766a714d9cdf4af9d366594ff6fb3e0cd9152bfed58084
+
+tx 53fb376e01b49b8cc4fc45fd93f3270dca5f6db4e82ce48519053b4a01cb7ed6
+3JAC2FmEv6pMi2xb5gLMiAVtHvTXvT5UeCuUS6M
+
+tx bad934df690ee68b7e090fac40113cd7f76b8659ef2472414959ed5050ebd3c5
+Aurum Payout 2018-01-15 20:08:21=
+
+tx 4fed91885f17ab4c6fdfe5b1084c72d1ba8fa0a50ebdbd51bb235c53becc3630
+2F7RXj2zUK5VE5S1BTNNCTHzZTPxdjpUriCQtEA
+
+tx 1485a021d6fbbbcb3d5383c6f04530575133bb863479e86acc32a24fdfc67bc4
+IPOR: ab7fd59017bc322662d949144efa4340d295c49d0e1c334c3e4011fa0df9f273
+
+tx 8fde005bf31552ce60136cf14bcdc30aecff3107e894412b6664a3b6e92d0e5b
+18e9whyYpCmHTjyzXbETt6vDqDxC3v4xMUPgFFX
+
+tx f6642eacae9f60cbc1cc4782c0f869ce9a6d7e2ca57cf579af988e83a72aada0
+IBT-06776174f4eda80210b8aeed7d765e3f
+
+tx 4e5abf55111668fbd00f252f5b6f7add15f6879457da90eaf145f7371547e72c
+1EUK 14/Jan/18 SC2 0 BTC/100 USD PWD:fUXE3dtZf#At0qCa REF_TX_ID:3c5ace39aff996c6
+
+tx db38635dbcd8ce8b5fcf27c8fde47f930b666288602bf5bb426e57f0e96aca7b
+1OL FR:CAC  @5312.56 EUR PWD: ts6I#kQWuVheY9U# REF_TXID:12b84708b2916ac2
+
+tx 1b6ed80395c8b574b3bb9fffe4ffbb49edb796ccae784c827d0128d0e75e788b
+1EUK 15/Jan/18 SC2 0 BTC/100 USD PWD:x79gv2KZ#bGTEK3i REF_TX_ID:cfa71f2a1775922c
+
+tx 7a509fd4d33c6ab2dd33ca271b0dff4a054aa66496b57e8e30fa75da2d2c8c4e
+1EUK hkVzH29FUSGOTKi2htzy5dIRPOIsioV9sxpbPLm9SmA=
+
+tx a352593b30242effdb66ea334408b81e8a1740b3230d9499935ee41171e11b31
+1EUK 13/Jan/18 SC2 50 BTC/50 USD PWD:7#8G#7XG1wX10rZ# REF_TX_ID:eb76cd5f2a39b36a
+
+tx cfa71f2a1775922c693a8f950664e89c3b820436f3b5b16441a365d0f2c95d5f
+1EUK fQ23mun6OlRc9o4aHZURDIardUasOcBCH0PWvqEOtUI=
+
+tx 64484eab90d7f6a308c7b31c273a50fd546434e3cdbefb8d825582d9a716280a
+33oqykrs8tkQys5AvUnbQnxcP8BPSeUES9k9su8
+
+tx 8fc368a14a7df69aed5dfd7b081de0b3d5e8530d5833e61ae2a793090543b7bc
+EW Your eyes are always bigger than your stomach. (Confucius)V*0
+
+tx b336bb6f8fa0a01df410af929d6f26fb47f4efcae86f2a66121f1b2d06a02a8d
+EW If you`d know the value of money, go and borrow some.(Benjamin Franklin)
+
+tx 382310d4ab622a0e3181777d79a276d647ad8b601874aa23b1f8df0f7d873e9b
+EW Wer das Geld bringt, kann die Ware nach seinem Sinne verlangen. (Goethe)
+
+tx 34bffd24d0ad73f14a32df993305e35bef68643c6ba0ccc715240ee35fcc304e
+IPOR: da2441f7497ece74bebed7c0aa158909e86c14abeb41ce490f5822a29c23aad4
+
+tx ef831010a2f09df8493320d8175d3f98aa34d56213d22923f30ffa6fcec3f039
+** PROOF.COM ** 41068B9F90218F9361D0A61F081ACD1314D25F624CF965EF8811B8809D763703
+
+tx 4886afb275fc9e7136eb252cc4e606da12d94109b34a09b3505312008b847f99
+** PROOF.COM ** 98DC4B9AA71577C396D65EA0A3E7B3B7A445375D92CAED126371409A42189D83
+
+tx 45f27540016d259b62037b0b0c9786d017ae67d08cf8ec0773b571fce1da8b5d
+** PROOF.COM ** 98DC4B9AA71577C396D65EA0A3E7B3B7A445375D92CAED126371409A42189D83
+
+tx 8704772527832fa3f90ef1d48887ec60605065aefd974919d5188ac5821c814f
+3XyXddngAxaN9u9XTThCCeDQ7L3CPYwQess3GmM
+
+tx 43f6d05a55043f548b8ff1719c44958ddd7ef45a76f52a3363d4b7a8896b4f99
+u=https://cpr.sm/7CUooJwSvv
+
+tx 83b6b0c48407c94c94b0327c91e6c5163929e12fd146c39e9865f6f2d3ab0317
+2cio9QPadG2qd6SiWdqKfVqDCJ2MRuFZkokX8A5
+
+tx a79132df02de229b980cb010859da9c01e98c5d587221aef4ffdaf5a93f6ada5
+{Aurum Payout 2018-01-17 19:45:59=
+
+tx 59a32fabd6eda7dadb1e8c6614b88890c2cddb9df8dc28a0fcede1cc5e3b5db3
+** PROOF.COM ** 760F1A04F37A25DBDFFEFA03240F0C10376E131D972620796EC0F9429376432C
+
+tx 8e8384daade32c064e695d2df2fe3d7569d40bc0046a59909e4c4bbf43891b4e
+** PROOF.COM ** 760F1A04F37A25DBDFFEFA03240F0C10376E131D972620796EC0F9429376432C
+
+tx dedbb5b71eb88e62bd9d4e804a324249b35117605a465a6ce72c909fded68c87
+IPOR: d60655daef4d72f554405d2c4a03c13c32c677ffc2c26f06a1245949454e6515
+
+tx 60e85c750b2f8b7cf37e75802c45d01430f5363417faf5ff6547d3ace376aa70
+1CS BR:BVSP -4.8% @76402.08 BRL PWD: EhOpqDI1#7JvsuJk REF_TXID:76335d042729faec
+
+tx fbba0d8f5c29a8be2ec193f969bc4b9fdec9b55cd0dd7b34b55676138b979e09
+1CS XX:IBEX +2.76% @10043.9 EUR PWD: dFXqfxU9#5CRM0gX REF_TXID:136cf04a6e366930
+
+tx 28857ae95eb9ed15a51c903c55f216ea9ab0608f2faf87a4446c6906f44f410f
+1EUK 16/Jan/18 SC2 75 BTC/25 USD PWD:u7MUL#BGdLU7AcQ7 REF_TX_ID:7a509fd4d33c6ab2
+
+tx c5a25711d03e3ea9267f664fe93a2a96125b2d128d3778b78003d7e9a86e6985
+1EUK OUKER6o6KwsikKFnh9zp8IYtVK/y1198KjUTHZMkb0A=
+
+tx 3349e534f2d262042f90ae00cc60a0cc9d44573da157657447abb2d055568233
+u=https://goo.gl/GRy4mV@
+
+tx 5808dbb9242d55fa5a8084f6b4744c7a49590e5baa21f51cf9f614b1a6b46803
+u=https://goo.gl/b3chDS@
+
+tx 2d7b3b776332f35c5e22dbdbfc7056f5cd29c3ec3f1771eba38def8c50efec04
+u=https://goo.gl/F16L8x@
+
+tx 1af80c82f9bff432cc5199b7804e1a2831308acca8b575111fc6f55bc98b1c0f
+u=https://goo.gl/Vsx2YS@
+
+tx ce7677184e5a5d8f12af901f33a34c451160430250edd0d1f8dfffac79b7600f
+u=https://goo.gl/JpTRrA@
+
+tx 03ca9d9ce7cf62f2c5e227e71f33a619ff4643c70a90cc4a8a9c0342e3740214
+u=https://goo.gl/S5EgQv@
+
+tx b5c776eacf255fe4c62da841644f39eeaeb1805f2d57ab69ef9504c5891d951c
+u=https://goo.gl/wqgQR3@
+
+tx e3f2848708b9c93c656c7f87bc353de47f54afbae5a52c3bb7567a7456a5c523
+u=https://goo.gl/xLr6tg@
+
+tx 7ad594379a36ab72ba4e256fdf3c99f08ba866974fc60f656c66e49e12d72228
+u=https://goo.gl/gtTMmJ@
+
+tx e9280b8fe5a2ee72fb58fa5aab0a4ea8ce7ccf3f9f1267a04b80db8a635cbd2e
+u=https://goo.gl/C1t1Kd@
+
+tx b5e1c39c4506b36101edb4bf23033030fe5e663a73047d9a08d9ac0601969d2f
+u=https://goo.gl/Aoz8Ro@
+
+tx 07f7b78b5f4875cf32d4d6d99bedc381d4353ddac79ea6f968b8802f8799543c
+u=https://goo.gl/rFTvDU@
+
+tx fb4b701defde06f4ab26d1674828e1bc5e2ea40c6fc8bad1a235c71ece0f1d3e
+u=https://goo.gl/RNvjFF@
+
+tx eb00afc567bdcdd88121f935585314fb918470f35764d49d737c627862134542
+u=https://goo.gl/hQRSn8@
+
+tx 606281efd26e717a52496d7ba3494036d789616cf0a77ee6c2a3ed93c5598f42
+u=https://goo.gl/MF81aD@
+
+tx 0506a2714b4395e377ce252996649bc4613954fcafd5ab7350d234adf3bd0a52
+u=https://goo.gl/2w9JPi@
+
+tx 2f4afbb5551aa9b38699423bc61e5fab419bf35b3c032b6bdd669426c9fe225b
+u=https://goo.gl/4j7eZs@
+
+tx 9bb963090c054badec3bca8fed08bce44f8ac1163c4b1a828ceb8bba9008975f
+u=https://goo.gl/nyN9ZM@
+
+tx 007fa19f8c70c8324cc0a50ddcf3b410e53fb6caa901e2e27fee06932ed7fd64
+u=https://goo.gl/Pywduz@
+
+tx fcb7d5193e64cf62317b39e266d20eaf906d856afe8d20af8086dc73085d2f6c
+u=https://goo.gl/rKDgAU@
+
+tx 20c0262a49c79915f4c764358ac1b81ac1c9c25e9e79d71f5b08d2476cf7e772
+u=https://goo.gl/sRXLiA@
+
+tx 0bc7d452b0891e55f2ebd8d831b9edca5adb962399d551a7a4a6fc6984f94a76
+u=https://goo.gl/eBdw34@
+
+tx ba66fc6101a7f6a4aea08c7d2b8ffe95473ed2fee5c72778bd6990244fcec87d
+u=https://goo.gl/GKWd7i@
+
+tx 25b669a57dc713bbe68edbc1f9f63b662c9ef4ebeee3e36a4931d1d34bc1a97e
+u=https://goo.gl/ogSaLc@
+
+tx 7ddc4bcdf58347ee810591fb31e6662fd38e1c8ad6b75633e5ff0fee453bb480
+u=https://goo.gl/4istNc@
+
+tx 3fe2aee53690a62d91c28f8d3e86d1be93c05b488fc9074e02ee6eb04d354988
+u=https://goo.gl/4ZqYx3@
+
+tx e8ffa20d6b72fdbca4a57ee13274285433d5338f1b2d6cdfd567dee0f89b858a
+u=https://goo.gl/vBWm9j@
+
+tx be9cfbe9c21b45f44bc9b8e59c7274184956a50d7f2cf89ee87fa3786c660a8d
+u=https://goo.gl/R8CR38@
+
+tx a7e556b889495c9875702e990b8fc1e8b75d4e56e3349c6e90d8750b19c60f8d
+u=https://goo.gl/yxrKef@
+
+tx 88702b134d72976e44ddb4d9b7d8ef8323f3c0d706c08cd67400f9af32934294
+u=https://goo.gl/FJZ8Ep@
+
+tx ad03e0e4c8d9e822b71d4ed67daf5cd1967678e2b0b8a35816f9d649bb58a09a
+u=https://goo.gl/81T87r@
+
+tx bae9198b9e477516fb77a2941a8c45bc5f30d91c9a89ee9d735039bef5ec489b
+u=https://goo.gl/KzVHnc@
+
+tx 0388e649c8d040adaf533971ed5648058ad798c82e9a22032345f24db08ac9a9
+u=https://goo.gl/aTs39Z@
+
+tx 3528fb06cfc5403b4ba19cc21f98a7336eafa6afd91ed58969f877906f2c40be
+u=https://goo.gl/xri99T@
+
+tx ddb9bac1914342a1999fa92c9ace47569ee70d3250bf6967ded6fd8e6e420acd
+u=https://goo.gl/A4WgBF@
+
+tx 872750f45b624354041e651102607a5e3421bf692158f6e36298cd48f2d6f4e3
+u=https://goo.gl/2kNk9c@
+
+tx bda818d5f98cf4b710cf56e658db42ef358f02e4ced6420d184e3c1f911204e8
+u=https://goo.gl/depjKF@
+
+tx bbb2c4ff08504fa866f90f129b859eae80a814d0874533ea947df7f79931bbe9
+u=https://goo.gl/Ddk2K8@
+
+tx 5a32afd07c7dffb42aebd025eab586d814f08a674c15373dc3345099e24315ea
+u=https://goo.gl/D7Lz5G@
+
+tx 5579001e7ca55c10fe9341f49cb042c891d529f4517624140fa0f92a6ceb56f8
+u=https://goo.gl/QfvXAu@
+
+tx 81d4055c84bbaa0ebca81efd1b7281baffe271ab597a9929bef4e3fc4561b9ff
+u=https://goo.gl/nptqxS@
+
+tx f3cf6f5ad04a58b5378da24b5cbf5b57d767a2aaad53cd190fb33284db833301
+u=https://goo.gl/wBDBTh@
+
+tx d8ce35fc2cc8af4746f4846f25f40552fa332189bf155c2e7803b055a44ff007
+u=https://goo.gl/5ap3cE@
+
+tx 6228c270b61edc58fbc968763d373e50eef22968a007eccec5b20286b4a4f41a
+u=https://goo.gl/ee71sy@
+
+tx c71a7255fc51ff5da0b5188a883b3f1702e76990ce30efbfc8e3ed60d129ed28
+u=https://goo.gl/2pv4Th@
+
+tx 270e6fd3767b027e82b49aa2c6b3cb2cb0dfdebe7ec0256b988c48cf44bdaa2f
+u=https://goo.gl/gC9QBw@
+
+tx d4201526b3e003fa2c777c72b00cb1b1495631cc3c58c68f3389b6351636766a
+u=https://goo.gl/6i2ry9@
+
+tx bf6951adba6b388c336666b1d9a1bd822ac3eb9eba4f252829f73e276ccd1c76
+u=https://goo.gl/4G1Sk1@
+
+tx acb34d057f11cad31166f05eec98e2e0ce835678f978bcea4342abb903765f76
+u=https://goo.gl/5WvoQH@
+
+tx 4276722287701183dffa83518083edaf998d508dbbeb7274637cfb7e146edac0
+u=https://goo.gl/ECmeUq@
+
+tx 81e402f7e30b218aa2412f7d67f9c95e90e9abac09c13f8eeca66f2dfd20e7cd
+u=https://goo.gl/PxrUdy@
+
+tx 826200981ba6a9b3da98fd3693929f24e5785abd38a671c0c17e5fc588908bde
+u=https://goo.gl/mEjNww@
+
+tx 5f158f172ed5b87d3eef22c7b25296c4712bff75a3697ee6aea76ed9a4b6570c
+u=https://goo.gl/DsB6Rv@
+
+tx 8f7afd97da9d08ee106a048ff84dbb3cc224d44114bfd605f93ae4cd32ad7010
+u=https://goo.gl/VDctmz@
+
+tx a97b926f6a8e6bddf2db88e5d05dc7dd24fce4ff75bede7d64af09b49f999b10
+u=https://goo.gl/eL26H7@
+
+tx 27a555c88925e9e69e579b411e2fc52454d3145177e7ec8345dad11eded50c13
+u=https://goo.gl/ddfWu5@
+
+tx 74017031ee13ce37c621b7ba3a8251c954e8e138f365bb248e05bb1dddc1ad1d
+u=https://goo.gl/DZx9pe@
+
+tx 6c6d2ebb6da975924059cabf320099cac68802cbe18c94bb3ae9cd3e96815f22
+u=https://goo.gl/UHEiSW@
+
+tx 0d121c18cf3acd0001812592396176f509cb30a65a8355556422187115e64d2b
+u=https://goo.gl/LZxr8V@
+
+tx 4d739f1adc628e5200ba2fe71996e9ed81e30516f0ed2060f6e3e05241814e2b
+u=https://goo.gl/twyUbF@
+
+tx ab04ead69f2e796e47a24bf75a2f4d8e5b43b19d29b2e35a862a55f4d362592e
+u=https://goo.gl/GqNVBj@
+
+tx 18b6aa5cbb6288746dfb59315d3779fbcff31b03402ecaa471fb0a3ad6cc8e2e
+u=https://goo.gl/PEbdYN@
+
+tx 09621348aef043ff8754dce4a8624601c72984e90b756bd02cb9c2dba58f9330
+u=https://goo.gl/qiN31M@
+
+tx 4ba559397647395a136c94df3379681a153c4e97e3077124e6379d529fce0336
+u=https://goo.gl/UXasF7@
+
+tx 551b66899521ccd29179372b541ebcb69e819651522c3a43fb9f111483526d36
+u=https://goo.gl/PQn29E@
+
+tx d52b238c3c71fa7a0fc06de858da9d2d4eaa4be729239f51af360a0c8ccb8647
+u=https://goo.gl/Yd8okz@
+
+tx a0a4aab80ca24e804bb0e8a16770370b7bc1d88c6c215c8ef8d2fbb0c41bd449
+u=https://goo.gl/sCpQxL@
+
+tx 4d44f55e1b24c05b374ceefe765257675a2721c20c23a16d61c60fe39f7e934f
+u=https://goo.gl/VGWS4W@
+
+tx bc21ee4e1fdd0cc055a4419d3cfb9941eb86568d8848de85e53c068b84846f53
+u=https://goo.gl/Eb6Agy@
+
+tx 78d5db3968efca127a7739cc62c25d5aadd75e1fd8bdefbe8e95e97dd0c95f54
+u=https://goo.gl/RHmPmB@
+
+tx 1a6055cfcb24a9177b2333dc5ecb2bf432f21051c657d66804039f527a0f7455
+u=https://goo.gl/yso1VS@
+
+tx 1edca6d7eea262f599b7b3b990539c03efe228380eb32d36c2d390fb7e40d560
+u=https://goo.gl/XTBu2L@
+
+tx 6bf0e93007b7790bd2f891893819b0b9cb6a29a3cdc37ec99285809ba13ed561
+u=https://goo.gl/YJcXiR@
+
+tx 129d445114463a5e1288859b836c7a4e8b3fe87c2746fcab9c2458dcc0eb9764
+u=https://goo.gl/5B1uxP@
+
+tx 00ac48aa806d247bce822ba6cd2dcbb7561a4ff2936d8b2e1fbc21a498a3ef66
+u=https://goo.gl/C56oQ3@
+
+tx 6b9fff85cd9068a83ad150f58f8320ac92345b2633d745f66aab76fe46089c6d
+u=https://goo.gl/KHqCnV@
+
+tx 503c1b8946b640d8262223467668e965834a0200dadf578cb2ae931a2542ea72
+u=https://goo.gl/ESGSCk@
+
+tx 3c50b7efe3df5d0b07baf779d825d7e5801957086c0d5f5c65040ee18084db75
+u=https://goo.gl/36JAfe@
+
+tx 4ff2ce46ccbb68edf490b144b64fefdb1534683e3b6813b14b71b6f841102276
+u=https://goo.gl/21TP7N@
+
+tx 79d646cc95ba839d2fd96c2ecd67bac0af90a60abbba52cbec694589bdf8797a
+u=https://goo.gl/62RjP2@
+
+tx 3b75cc3c4ba2ff368ce6a7596c0ab0ecebea9689fb1890675a1fdac0c2cb057d
+u=https://goo.gl/M5SCg6@
+
+tx 21147c348bf1fc87caf6de4bc4449a04e9cbdcd55a3572b47cf488487eed1c7d
+u=https://goo.gl/zg5uoG@
+
+tx d1d003c8e8d670c7cd71d6b0a7fb1d31444116f36fff2edfae5245e61ee3467f
+u=https://goo.gl/4trNXV@
+
+tx 3aa3d0c01fa5a29c31b19d9e0f6c2b596847e1a953361e0b92bb91fb9b5cb883
+u=https://goo.gl/v7QdpN@
+
+tx 23c0a9382800b34d74c31f3d2eb7faefcf17938f4b35058ded09a324d1d86487
+u=https://goo.gl/y1STZv@
+
+tx 229b8ecc01a57e0b9d7b6a10f20045375f37d517dfa18989d9efb62296fdd588
+u=https://goo.gl/bKffUW@
+
+tx 1c6f5070ac24c68667e4cf4d6323715efdce270f317b9d8b5153e6955204e694
+u=https://goo.gl/5PjQDa@
+
+tx 966e43b4040f423c3dbd44e1a54e626840f49c85d949cb567059e8a82f3e0f95
+u=https://goo.gl/yPtRPy@
+
+tx 7d2e1f74c4d9310ae9cf7006e16320531c2f56ae16e4ed2c41bad50c2eeae995
+u=https://goo.gl/EsoKef@
+
+tx c0f3fae42e4ccaf9846a1d8b1db365960d58fbcb7479aae689932b2d040cd79b
+u=https://goo.gl/5Lv5AS@
+
+tx da18b15a4b850a979b9bd11f3236e9a93732ca9ca8a3ab89399c231c2a0bcca5
+u=https://goo.gl/PtmWqU@
+
+tx 448563dd723ab7b8499c9f6f0f1fb4e63aabe2b001597535a4c77dc6141696a6
+u=https://goo.gl/EA4fCz@
+
+tx ab5c967515ea305738926dacad1c1e40e8c3040111119f177894c3c05a200dad
+u=https://goo.gl/wYnJvz@
+
+tx ac0cfca827dfc32a5726e498ba285f71943bd75f994a3f40d0c3799b212e72ae
+u=https://goo.gl/RVzGfL@
+
+tx 111654a9d27e2a7b5190b3cc3a43db5bff958f29e07c3798d9ebe6e423ad98ae
+u=https://goo.gl/XpyS98@
+
+tx 67aaa70ce65088ac59fa49c0177932ee746a693041b4c5b52f3428c8bfaa37b2
+u=https://goo.gl/UQNAij@
+
+tx 5228b0f0ddbe120f70900775f17e72f15b0898746300c70f63154ee6dcc892b2
+u=https://goo.gl/eZpz6L@
+
+tx 8e7af8c515a9f39f6f9e1d528784d60e518b1c6a5ab8389b853357b2710a35b7
+u=https://goo.gl/c74haR@
+
+tx fff36b2e76ab3e40bca7bae90a62ca26b2825ace4ef73bf75365024f85be79b9
+u=https://goo.gl/qgVZgf@
+
+tx 8d1251dfaaa869f3e304155fbb1abfeee34c8518e6c9f147160459934ec3a5bc
+u=https://goo.gl/NRUPZR@
+
+tx 3be95dabeab193874b5caffb255ff892237c04da4751fbcb2c992eb4cd4d5dc3
+u=https://goo.gl/fFRZ1L@
+
+tx 95d3f35cc93fd4b14be6f57854eed049f3099bd65fadf6bdde26ec7eb1741bc6
+u=https://goo.gl/wDAGPq@
+
+tx bd6563ba95a44075d52f8aa32ee02215b3957c780d059a96b3b739684affbec9
+u=https://goo.gl/M9vy89@
+
+tx 7996478a57ee9ef0e8d27a6023a274184ebbcdd316ed3218eef12099add7b3ca
+u=https://goo.gl/v4CS5N@
+
+tx 4b4e4319fd966b1b4c61b98c1dccbd19291977fe74b478d95be9758aa30c5ed4
+u=https://goo.gl/4qRxUY@
+
+tx 830645e79d41d3b3d4a68e136bafa91bec52dcf7e5cc94e0c2c05d8ff82042db
+u=https://goo.gl/tuUSLb@
+
+tx 4d3f4e4d429a4f6f34970cdbf3888048c5723b2da1e5af326987906bbb6a13de
+u=https://goo.gl/n1biYX@
+
+tx 3f0e584ae46774b7995b2daed180f8208e50e79425cd135295ab9c76a6287ae0
+u=https://goo.gl/QxZrZ4@
+
+tx 7d41f38aec0e115b2837abf03ce569b39bc5c018e5b96b689fda2eae285790e6
+u=https://goo.gl/ppHP3X@
+
+tx 991ff700b5de850e56af5b78bbdca8a525d342e721d990081d035ab6b0c6d1e7
+u=https://goo.gl/sQQpC2@
+
+tx 7f6278b46324b33598f65988c69e61315e51add7fafcdced61ce6b401622dee9
+u=https://goo.gl/wbvqgp@
+
+tx cb0cac42584992e5238d1d88cdb39adb69f25be4917abd1f475074373e9bddef
+u=https://goo.gl/GqAqxt@
+
+tx dbfd2f3f7ce68e54833ec7e4523f1052ebd60a8b944a7850f224fa862c8fdaf4
+u=https://goo.gl/d7AYJQ@
+
+tx faa32a0ac5326b053e5261332534a6a71c9754577faa238c5e374bcd038074fa
+u=https://goo.gl/w8cU25@
+
+tx f5ab5d7dd1097519efa98f83aefd674797f65f5cd19dc02ad25d156a41d1b6fb
+u=https://goo.gl/D5tq9y@
+
+tx 6b6db640ee86d52cf72f635248682b102343eeb8d46f86ae9bd2fe4f23d86dfe
+u=https://goo.gl/Mw9Cen@
+
+tx e7dcc071115ce9b49ea3aaffb38f22531d8e1a694174214fceeca804a986e1fe
+u=https://goo.gl/zJxXpK@
+
+tx f8c3c6700e98f109e1457f460674207fc1fe6e74fab2dde1a2b539637b472808
+u=https://goo.gl/E29QvA@
+
+tx fd52013926418ea8122c928362a24b726db474b3642733d96800e4bc79074208
+u=https://goo.gl/PwQKxv@
+
+tx 51d0a657d3cb39bc3c2d33779082ded8a0fd0a33fca49df643baf03d5632a22a
+u=https://goo.gl/VQaRv7@
+
+tx 024b418fe25c07a1c6f8779f214912340e354e103101650547cc8572e71a6f4b
+u=https://goo.gl/7D4Sf3@
+
+tx 378d11403c38215064593c9f3404c2801fd21e5ebf804f3348e1c7b3a3d5224d
+u=https://goo.gl/8d7MDC@
+
+tx 262c924f2e9c7e8499734d6e0f5e2471f7789922dd2694ab5180b01bd63d4771
+u=https://goo.gl/eiiS92@
+
+tx 19f47d25c05de4db3ef7934b6d00ac38ade9bc820fc8bc6fb36e098209f20876
+u=https://goo.gl/ZAJ8KG@
+
+tx f817c8327a60bf3f6b98fb9b89571347d4f353429ef9a558d287f69698c27184
+u=https://goo.gl/cUaLhC@
+
+tx 54c7e73f98a875efbdc4da0010e22b5213298d020d823155ca80a3d730daa6a3
+u=https://goo.gl/NYaDtn@
+
+tx 386412cd0c2f2a103ecad020bc3e2458fd0b6e46ba930dcea733a4ae50439bc1
+u=https://goo.gl/9NwJPk@
+
+tx 13c50c122315a628ae331ee98b4acb5a7bdb89428fdc68488cb4604d341346c5
+u=https://goo.gl/cjaKMu@
+
+tx 988d5deea856fcef8dd65319fc3f8f4bda371ee49f3321507986e9b561d207e6
+u=https://goo.gl/YNfCez@
+
+tx 3e9c6d046681ea0de68ab4cf952e5ec285301e44b2d882cf56cc4fa62a0890ff
+u=https://goo.gl/L4Zdsx@
+
+tx c1c73a06036814876ca70852429f72c8972f930309f16c7f647743cf9231fc12
+u=https://goo.gl/j3wWhS@
+
+tx 9500aa98cd1240831ff5af361ca81ac206b579c7ad58e13367dcd91f1590501e
+u=https://goo.gl/eVfxdC@
+
+tx 13ec81ec7b8f073dcf482e9a61b6f49fd2de9e14de56c50594ea8d7d3242fc1f
+u=https://goo.gl/jngLmH@
+
+tx bf7cc618351420fcd02563b5148cf455b4c57220c34b4bd43dd9e2835b13072c
+u=https://goo.gl/pMhyBJ@
+
+tx 73d97b543ff9990ca9fc8782bfa3def97067a80df0659a2e4927c62ed4cf7a30
+u=https://goo.gl/2mPy6B@
+
+tx fcc5165228aac8e5f086ce42d40137228021a9403aa65dac345c5db04c9fd637
+u=https://goo.gl/wuPTPN@
+
+tx ebff6e4e9feabbf2f45f348259ebf4009b36ed5343f10208d92c3ff682bbd360
+u=https://goo.gl/mG5s5a@
+
+tx 432408330aca19bfd5e09802137505075f07e2760ddf77205b851852f028a16c
+u=https://goo.gl/fiSYhG@
+
+tx e4a4d0fca2ddcfc4b13357f64df81ada3b14536bfadd85d8375ff7cebc58207a
+u=https://goo.gl/3WA853@
+
+tx 9228b604ec1efa8d09152601e537c74b16db82b2b1bea40e5d75fb8967eea17c
+u=https://goo.gl/4RHWXa@
+
+tx 10a070beeef6eb21c87bc157a98cfc322d412f2a12f8e248ffab6ba9375ecdb7
+u=https://goo.gl/P32FVJ@
+
+tx a8ad28345c3519b54c029590ea2a6f4fa8407c42fbd1ecf6e5b99dce716f1adb
+u=https://goo.gl/Rn9G1B@
+
+tx 1adecc1ea157dacfb94be8ec921fe1978f1caf2a0631f028fc52db4ff43b1cea
+u=https://goo.gl/Wb6Xrx@
+
+tx 437ba30279d943cd0ff363b3c9b4df3296bbc8dd9fbd467df5085526d519cb11
+u=https://goo.gl/cd4dBB@
+
+tx 1298310c6e50d48a20cb022954bfd5b1ea269e858edbf685ec80c28c55737f1c
+u=https://goo.gl/tr8hUX@
+
+tx e840b59a862a48ecee0c50741b09a3745dea7a2c255f4be060d3bad1182e923f
+u=https://goo.gl/FCHNcr@
+
+tx 6fa8119f8c5e02bb0c1ae87435e9cd2f30143f0a9b320d55061e521af3782799
+u=https://goo.gl/T6DD4B@
+
+tx 69ffcc56ab94588d19d6b2f21c63defc50351dfb3ce783d813872ef4e4e107a3
+u=https://goo.gl/u7iWEA@
+
+tx c8846b30cce417449b29345abb2978fb564dfdc24ec49b0516fe211e83325fbc
+u=https://goo.gl/WxaP3T@
+
+tx b3952c34295949e4f77cf5c8b01d811c84f91cf8e640e840f602bd2bda94ebc3
+u=https://goo.gl/9qCxwE@
+
+tx 99696d98b97ec3d9ece2fe48eb31715ce1c7382f0153d2e3b4647d40ffae51cf
+u=https://goo.gl/e1WkG7@
+
+tx d64a0c84b57b7ecbe7db8de89c0e9a6bdd015325c3a599da2c500dbdfb515def
+u=https://goo.gl/3pzv7o@
+
+tx a61f2c8cebab6359408f9da639a7ed722ffc97bb701a775181da4f5fa2755342
+u=https://goo.gl/dSyFgg@
+
+tx aa690c7ffbf6cb2b290ce85418192ff2268216dd074c5c5d04c48e811b2cde59
+u=https://goo.gl/zSHJt6@
+
+tx c0dfbe0c587def62a8fcc0212b483f0f7537886e23649f1e82f2a9592c78feea
+u=https://goo.gl/FAL2fa@
+
+tx 8e2b9656a0d6ac6284452136ebed050a4f73bfcb58506fbcf913a1899d552506
+u=https://goo.gl/ABV4RD@
+
+tx ec2f3d44a54d06ba2d5be4482d1fe8de5778555bafbc0db608ce138f63d0470a
+u=https://goo.gl/GNBnhw@
+
+tx 0268ac343e83f3991991424a240e3e4bf6f0b9c2c73d6d95a0c7ad697c03c30f
+u=https://goo.gl/BrFLVG@
+
+tx b99f3f25c2125a2d044a5efb336252b69bf70055d3ccef5e0700d926bd91e220
+u=https://goo.gl/i6qfSm@
+
+tx 44c8fcd8bf7c193fd2ecc7c9fab84dcb1ffd8ecbafb51bfe14f98e841ab93834
+u=https://goo.gl/eyxJGH@
+
+tx 62056666463214a0714bd38dc45bb6bad72be5d27747b708bc7757aa0f698c36
+u=https://goo.gl/anwjtq@
+
+tx caa598ee4c7ad10533e6772ad5a9b3d08fb46f07a90c40b67ccd1fedeffed538
+u=https://goo.gl/x54S4z@
+
+tx 53a4fe25337941dca5a9cb90edc0d9da947492636f5a2c5a96eab52eb98af56c
+u=https://goo.gl/XKBNJD@
+
+tx 06c12e74a35b58e52ae2875d21deae6ec97e2e360038fd1a277d6fc311a13981
+u=https://goo.gl/ESCXNh@
+
+tx 695bfd120fb773772413e8351692473282e6deedc273470e42797a31f0085f02
+u=https://goo.gl/7qSmMX@
+
+tx 98f42261dad512ed70ccee4f8adb03413b12d6f0a6d2245b0302625d03bbdb11
+u=https://goo.gl/ryVxhp@
+
+tx 0c31a9ca0144f20ce21d6a030929774be1eb1847e21b523289485da5035d9215
+u=https://goo.gl/mnu7kg@
+
+tx 106b8399ce24d3b04322461415f5c078dc2a5092d2d44e87b2c1604ba3da1c17
+u=https://goo.gl/D4XW1Q@
+
+tx 1f0d7255da54304f62a930e7a34a8964beefcbd52a4537f6e9fb9b0f30e6ba1e
+u=https://goo.gl/ZZvmk6@
+
+tx 47335d5d3a1418444a20c62ea32eecefef329f92dc1f693a96f861eb12ca6321
+u=https://goo.gl/YiDMPQ@
+
+tx 6017149df3a83cd9d777168648bccd139c99fbae5972fea71f37cf78f0550b25
+u=https://goo.gl/hieyGS@
+
+tx 02e9aebf168b948cd7b55e1309de16fc3f296cb77ed2812fb9b5d64dd1851e5b
+u=https://goo.gl/yqz3me@
+
+tx 68e7c4e071b0223772c4be9d6c4b86bf09e2271d03a5034f9a24cfeaec81e484
+u=https://goo.gl/1k857T@
+
+tx 261d09b049946e0258477f13ad0c2f5d4a9d247fedcb2d48b832e46347fdc990
+u=https://goo.gl/r8AjYM@
+
+tx 620d93e6998b9dcda12bd198eca3c3a6505d8afd242f4c6ef6ee591ec3bdbbce
+u=https://goo.gl/pxzLcq@
+
+tx 5cebe3f17ed067f26bc4ff881b376bd9ebf3ed752ad38d2087f0d270edc8d7d1
+u=https://goo.gl/juxfK7@
+
+tx edf40577cee3591f0b006f87263b20155c6a1ed66dcc74286ca83e58e62493e2
+u=https://goo.gl/bUBhb8@
+
+tx fa112fa879f44451a962a579c84a5e514d5a55cba695f6b64e835be55997df32
+u=https://goo.gl/zYdHJx@
+
+tx 0ae65d732dd10333a7eb40d8cd615ac36e575a62147c1faf4a12787fb8a4f146
+u=https://goo.gl/rtpKtk@
+
+tx 6d8215a58d7ba26acafa4935777df1127553c32eb9685385946e718d1a7ad85d
+u=https://goo.gl/a2WKCW@
+
+tx ae5cca8eb2188c03cb6cde0ef1d85fa37ac662175197c1677dbaa6ce72c8a033
+1EUK 17/Jan/18 SC2 100 BTC/0 USD PWD:Uv4CuMS6OW74IuS# REF_TX_ID:c5a25711d03e3ea9
+
+tx 4fb67e748620d5ef46ca91904847dbd4f0c304605e6341e939af5b1945e44544
+1EUK 7yKJ7W+ILW1b/ZtmMNr5tvU+A5s8uUA7ovHJLJ/O9q4=
+
+tx 8e8a3cc3515226a249a8723769eaacd4e3848c79d109a83434b429dfd9506d09
+u=https://goo.gl/RxwNkx@
+
+tx 947dd8a26221191ebdbfbf227c900ad41faf75ce1cd3e1a47659456d35eaa32f
+u=https://goo.gl/B9Zv8p@
+
+tx b0c0fcb6002fe071398336e826fbfe7f659e65638f8c3f15ed5b0e1a95f9074d
+u=https://goo.gl/rRrkc3@
+
+tx 53c0a7cb5f80d09c4d83eef36447d3243833f0fec3093abb2175adda0c4941d2
+u=https://goo.gl/C3z8jS@
+
+tx b42294d71ed417a3535d85e10748e21658caed2320a3d47f31ac9a3bf6179fe1
+u=https://goo.gl/s27kgq@
+
+tx 09ca0e0d6dbaa05a9a472c6c65ed786303173b0704307e4e3c2b3b0d6e10e9fa
+u=https://goo.gl/tM651L@
+
+tx a948532eb115f283ec38d0cd34920dd38e594836d57a5ec8061ce71d66863a08
+u=https://goo.gl/pQo5rU@
+
+tx ed3cf126fa1f0edd695fd5de5558e0c8206801fcb027101f121f24c45180aa40
+u=https://goo.gl/KTmQV7@
+
+tx 2922f272a561f69a4659e0d064d66d978fcaf962ee78bc730ea352acfeedc544
+u=https://goo.gl/NLz4Tn@
+
+tx df83db9370e579d2f4539ce757411af049972b003df9d4e19eb5ee3319d03e59
+u=https://goo.gl/228wDj@
+
+tx 333ffd40c44cbf98b24ab873c1343e76e3386a07841e42121cab71a98c1c2f5a
+u=https://goo.gl/XApXvt@
+
+tx 5ecfe11fa3ee3330648c0bf74112a3c0c9c07f7ca26bad8b32dacb37e7736f5a
+u=https://goo.gl/EL2vGs@
+
+tx d2ff0ad53c1f90c892133536f07799307e5023f8a847f92c3caeabbdc3299563
+u=https://goo.gl/PmX8hC@
+
+tx e64050d0ed536550e1ada5d4ac600c6d602f2485a3a4bc7a140ba983753d4c83
+u=https://goo.gl/q87DyJ@
+
+tx bfbee09ef41ceadb424e72f7a9898385d62f5cf92ac94ac3813df25b79510284
+u=https://goo.gl/u55nSU@
+
+tx f70d05517806587be1d524c2bd440d26f0e46cff00878f9d883350446c300d85
+u=https://goo.gl/1L4mqn@
+
+tx d5ef8a1f1a2f8d8703d5f6e2fb88ec4944d2ae17a348c5d5b3767a93da451e97
+u=https://goo.gl/x49Xv6@
+
+tx 0d20c69bc5cce5d31665c5a462b8e04738096ddba7d2fc3d16c39ea78086889a
+u=https://goo.gl/LFTbvs@
+
+tx 0f2bd87c25f8640df73be06c374540d89bd6ad94b08c4ea561dc04b508d46bc4
+u=https://goo.gl/pCHeUm@
+
+tx e8884c9408b2034b6764bb6d7046adc26e5737110c39b6bee6df123342240bc7
+u=https://goo.gl/35QFzS@
+
+tx bb9e9b682a8a28fe8dea19a1adb7d51148214da8133bbf8d338f546bb862b8c8
+u=https://goo.gl/NdxPTg@
+
+tx 9258f5ff80d3645b5fdad4e6d83ce5e6c48d148b60711db088ca6aeb860edcd9
+u=https://goo.gl/masaHt@
+
+tx 2649fa9f3ab9a9db8828ed86da76b20be0150a7109b492be91b302ee366118e9
+u=https://goo.gl/B9yGLH@
+
+tx 7b2d3eeadeb97d8fa96f9d7abd46cd4190a8c2b06137f0b4b65f1d67edea4beb
+u=https://goo.gl/rShbZA@
+
+tx 4636d2717fe4fed68d6a60c790907349fcecb0fc9fa8ff7862267614788a05fa
+u=https://goo.gl/dz34QQ@
+
+tx f6e59102a5853a02047dbf524fa807125a764e536d2a5f6a4e66a69981c20533
+odBERNSTEIN 1.0 COMMIT bda7e8e1-8ccc-488c-b646-376071ee1c0b
+
+tx 784f7fed0dbbbacf402c3bf6be5fed03a331e56c96ef0ff50f80df8eed90a3b2
+BERNSTEIN 1.0 COMMIT bda7e8e1-8ccc-488c-b646-376071ee1c0b
+
+tx 4e1e9f4719e2fca61b6329b43e1766e0b1264889d15fa734eef9b9de77305d9f
+RBERNSTEIN 1.0 COMMIT bda7e8e1-8ccc-488c-b646-376071ee1c0b
+
+tx 65f7cabbd2e465633a24b56f28483e69937a62920b5209782cfa50a80c73fd5e
+u=https://goo.gl/v2TVNE@
+
+tx 0c43e8d6161b61be84433b36e883e759045ece65e044f91adf1b82deb391fba7
+u=https://goo.gl/S5qtjm@
+
+tx 01f4f875c90283984e938f38675639bcff2c74fa4c0b826842438f8136c89fd6
+u=https://goo.gl/Wt4HH3@
+
+tx 0fef927b807ad760753ba29ea37a414cbf51da89538780552c07a3386244a2d8
+u=https://goo.gl/upQHHt@
+
+tx 161fbf6691de4582eab8e252a8a29fdfaca020a5581eaef5b97a10d0bd94ade2
+u=https://goo.gl/4GBgrr@
+
+tx 9905757e2fe5d33696f260f47faf445f54c9d4d0fdbbc0006dad92af2cbaa918
+u=https://goo.gl/MqPPgS@
+
+tx 19d2c5bd164353734ba9ad04e9f1366687b59c4ef1d447a52d6f34c301eb751a
+u=https://goo.gl/SpNzr3@
+
+tx 5eeffcf31f17cbb5684fbd9f4b3ea8d23f9c1f0bd77798400bd2be2b9016ba68
+u=https://goo.gl/e7HiwU@
+
+tx c197e1b75564a476ac95ae83a62d8197488755518726396f587301fe22bdf66e
+u=https://goo.gl/Tis6EK@
+
+tx 1dcc6e2bb745612eb96adb4181c737f9b6585b686e91344133d7a6c57db23188
+u=https://goo.gl/MDssHK@
+
+tx 1bc9af91c68a81b83e0b0c39dc4c211d08e77b73f07dde6717f39c2a20e8f6b6
+u=https://goo.gl/yV21Bt@
+
+tx 2fe52e1404cc8384d4cc9dd9a246f86748f2b1bd7e7da40d92b2834406c4a196
+** PROOF.COM ** E9B53E85C4CAF43DF442ED090C8B51DF080EFC0BDC391938F2120CEE2EDC9BE9
+
+tx 3446b955cc96540b7ae83c62a1bf8aa5c3312f01d26f60d077fc8bb27ef6cca9
+** PROOF.COM ** E9B53E85C4CAF43DF442ED090C8B51DF080EFC0BDC391938F2120CEE2EDC9BE9
+
+tx c6a707e5500cda54177fb3de1bb87f944d6d68893b4de743d11a94d45b4f9e02
+** PROOF.COM ** FAFC2C06C066FDF7B0722CFF96661E29219DE1DDF59819A5844F371CBECD7243
+
+tx fd8f628ec781c0433ce28669bf7fe89b3f0d859b153dde7c83fc2d0ee8919c8b
+1S6TAiP63oSZ2D52QMZgwNnzawCyF5HEqhhYJK1
+
+tx aaf39d9042b9743b70186c00293befbc62957e8563a6307542c37734504fbe00
+u=https://cpr.sm/lQVDuQ5SMX
+
+tx 6d1b8d1048cc6c605ae37af107c143e144601eff5db9d85b9e0c113886968c23
+u=https://goo.gl/SsY2bi@
+
+tx 6c16c7782c3394665f0721d6cbbfe719c74c1e0ad9ba1819a3b609081aa72a51
+u=https://goo.gl/VuCVrF@
+
+tx 7e20a3d47cff1d8ff4b844d626e31eed90a2ea52a0544b72aeaf9bca6682c401
+u=https://goo.gl/X2Sko7@
+
+tx a63526e6cce6af65405f28dc5dcc070181f620b53af99e37393041a51de1f8bc
+u=https://goo.gl/3Qe3Mz@
+
+tx 599bb8da6ebc39fa7cbdeb0c1e5f3c79cc63df0af27e06827397ad949472551c
+u=https://goo.gl/FHe7PU@
+
+tx f6bd85353ce1ca572e123edd4f7bcbdddffa42fadbec3d092dafd25377aec072
+IPOR: 0201b8a72ebffbf93436bb1d0f08317d909db10dcd4912e02a76a67997614611
+
+tx 7490770e96c0dd598bcd14e01a3f958fc16bd97e6d6f0a07352de5b622589730
+u=https://goo.gl/Zk1fnJ
+
+tx 2b35efa635d75853884f1ccd1b6fecbcd91ba6de1f69e41504b7e2eefdee274f
+u=https://goo.gl/vnC3Tw
+
+tx 5072bc19be3dcf1037a9b9de30b5d2a91c008271bb215485eb24c25e87418d28
+u=https://goo.gl/bVPZKU
+
+tx 3614fdcc9ee0e1a898b641cc5cf793259236b40fc694491c1eac80a1a0c25c7f
+u=https://goo.gl/CyXBEb
+
+tx 9c279e010c052bfe21bf16d0610f80ed35b59186882bbb94e69cdd09392dde6f
+u=https://goo.gl/mjBdYs
+
+tx b701aba79651ac8b6ea847d91e24b15bfabad5b38f6673e2a751ed9b49efde78
+u=https://goo.gl/V8Qomt
+
+tx 1a8538b78dcc3de053405fcdff8e0f969f574f5e368aa3c59224a08b85a9756c
+0rFrom the depth of the blockchain, wishing you a great birthday @PulpSpy -Madiba
+
+tx a0af442414143086d18718d48108464c446a839cebb01e83c6cc9b9111643fa1
+1EUK 18/Jan/18 SC2 100 BTC/0 USD PWD:#Y7DDyX8UFVTzh#5 REF_TX_ID:4fb67e748620d5ef
+
+tx 74567fd599ff59c537611aab939bd9669092c5bd905b1b2fa4a1fa4cdae22ff1
+1EUK OFWxERRT+FqvNwfV1Dm63w4es69bTvZrOigsgBiwpds=

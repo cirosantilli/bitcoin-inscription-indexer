@@ -1,0 +1,33 @@
+tx f740f33e477ec7f2b7224ea19d00390282bf38ccc97a3242ccce58be74b17f48
+:342*<html>
+<body>
+<button onclick="myFun()">Try it</button>
+
+<p id="d"></p>
+
+<script>
+function myFun()
+{
+var x;
+var r=confirm("Press a button!");
+if (r==true)
+  {
+  x="You pressed OK!";
+  }
+else
+  {
+  x="You pressed Cancel!";
+  }
+document.getElementById("d").innerHTML=x;
+}
+</script>
+INJECTION PROTECTION
+</body>
+</html>
+r28eaj06QZDQ
+
+tx 156a08f2fd5f1c0280dbe464e862948ee0d8f81c1b8cd70b622cea1f15a363a4
+ er Bowl Feed: 0=Incomplete 1=Sea
+
+tx 2b29e28204d53e7f5ab87e8efd3de56ba47edb70a7d07528ebc73a5e078dfdcb
+ er Bowl Bet Feed: 1 = Seattle Wo

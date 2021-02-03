@@ -1,0 +1,711 @@
+tx b1592fc870b23329acc0e8bb966ce59b2c5b822f9d4d2081d5b465eb7bd69fbc
+Hello World!
+       
+
+tx e9f6e7e2a48c16c5beec25228218979bcfd050d2d11cb8bdee45beb5e7be12f0
+Hello World!
+       #l
+
+tx 58620988d18cee5697e82e3cf0fe49f3e72a24975e9944c66cabe46e39a803eb
+690a91ac62eb1765754d00c508dc535d74a79520
+
+
+tx f390f98980754cd9bb834d5e890629c25170bd202583436f811d014cbb846a7e
+Represents stake in Chief
+
+tx 777db7bfbea2c525d5adb05a8fbf47736e2311492f4614e5d38ab199b4bbfac2
+;;;;;;;;;;;';;;;';;''''';;;;;';;;;;;;::;;;;;::::::::;;::::::::::
+;;;;;;;;;;'';;';';''''';;;;;'';;;;;;;::;;;;;::::::::;;::::::::::
+;;;;::;;;:;;;;;'';;;'''''''''''''''';;;;;;;;;;;;;;;;::;;:::::;::
+;;;;;;;;;;;;;;;'';';;;'''''''''';;';;';;;;;;;;;;;;;;;;;:;:::::::
+;;;;:;;;;';;';'''''''',,````````````````,,;;;';;;;;;;;;;;:;;:::;
+;;;;;;;;;;;;;;'''.. ``  `  ``````````     ,,;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;';;;;'''..``````  ``````````   ` ,.;;';;;;;;;;;:;;;;;;;
+;;;;;;;;;;'''''::``   ```` ````` ``  `` ``   ``;;;;;;;;;;;;;;;;;
+;;;;;;;;;;'''''::``    ``` `` ````````` ```  ``;:;;;;;;;;;;;;;;;
+'';'''';;''''', ``   `    ```   ````` ````` `    ,::;;;::;;;;;;;
+''''''''''''''`  `  `````````````````  `    ```  ```,,:::::::;;;
+'''''''''+''''`  `` ````  ` ````````.  `    ```   ` ,,:::;::::;;
+;;;;;;;''''' `  ```.,,,,:::,..`````` ``          ```` .,,,,,::::
+;;;;;;;'''';``  ```...,,:::...`````  ``          ```  ..,,,,::::
+;;;;;;;;;'..  ```;;'++++#####+''::;'';;,..`````   ```` `........
+''''''''''``  .;;+++++++#########++##+#';;::,...`      ```````..
+''''''''''`   `;;++++++###########+++++';;,:,..`.        `````..
+++';;;'';: `  :++++##################+++'';:,....`    `` ```````
++''';;'';:`  `:++++##################+++''::,....`    `  ```````
+''''';';;`` ``;++++##################+++'';:,....`       ```````
+'''''''''` ```'+++++##############++#++''';::,,..`        ``````
+'''''''''` `.`'++#++##############++#++''';::,,`.`        ``````
+'';;'''''```,,+++#################+++++':;:;:,,```        ``````
+'';;'''''`` ,,++++#################+#++';;:;:,...`        ``````
+''''''''' ``'''++##################+#'';;;::,,...`       ` `````
+''''''+'' ``';```.....::###########++;:,,,,,,,,,,`       ` `````
+;''''++'' `.;;```.....::###########++;;:,,,,,,,,,` `     ` `````
+''''''+;;`,,``.';''.````.'+###;;,,`` ```     ` ..```     `      
+''''''';: ,,..,:;''```` .''###'':,`    ``` `  ``````     `      
+;;''''';;:''++;.,`    ..'''###,,  ',,.,:;;,,`  ` ```     `      
+''''''''',''+++'+''+;;''+++###,:``;,:#+````......```   ``..     
+''''''''',''+++''''+;;''######::``;:,++ ````.....```   ``..     
+'''''''++.++#######+++++++++++..` :+':;;,,``.,,,:.``  ```..     
+'''''''++.++#######+#+##++++++..` :++;:;,,`..,,,,.``   ``..     
+'''''''##,++#############++#++..``'++'++++++';;.,```   ``..     
+'''''''+'+++#####@######+++#++,,` :#####++'';::.,```   ``..     
+''''''+'++++#####@#@##@#'++##+,,``;##+##++;';::.,````  ``,.     
+;;;;'';';+''++###++###''+++##+.``..++###++'':,.,.```````` `     
+;;;;''';'+''++###++##+''+++##+..``.++#@#++'':.,,.````````       
+''''''''';++++';;#++++;;;''.`     `;;++:'';;,````````````       
+'';'''''''++++''''+;''''#'''';;;,,...,,;;;;;.```````````        
+'';'''''''++++'''+';''''#'''';;;,,...,,;;;;;.```````````        
+;'''''''''''''++':::::::'####+'';;:....:;;;',,, ``              
+''''''''''''''+'',::::;:'++##++':;,....:;;;',..```              
+;;'''''++'';''+++##+:;@#@@@@@@##++`  ::'##;;.,.```              
+'''''''+++';++;++###'++'++';;::::;,.`;;+''::...```              
+'';''''+++''++;++###+++++'';;::,;;..`;;+''::...```              
+;;''''';';;;'''+++++++'++''''';;,,.::;:'``` ,```                
+''';''''''';'''++++++++++'+''+'',..,:;;'```.,.```               
+'''''''''+'',:';;''+####';;::;';:::,,.,, `,,.````               
+''''''''''''++:;;''++##++++''''''';,,,. ,,,.`````               
+''''''''';''++:;;''+##+++++''''''':,.,. ,,.. ` ``               
+''''''''''''+##,:::++#++#++++';;::...  ````  ````               
+''''''''''''+#+,:::+++++#++++';;;;,,,  ``` ` ````               
+''''''''''++#+#+':::''''';;+++::,..`   `    ``.``               
+''''''''''''#####++,..,:;;;:::..````  `  `..,,. `               
+''''''+'''''#####'':,.,,:;;::,,,``````` ``..,..              ```
++'''+''''`''#######+'';;,````` ```     `...,:..             ````
+'''+''''' ''#######+'';:..```` ``` `````...,:..         ````````
+'''';``` :++++######++##+++';;,,..````..::,,,..        `   `````
+if you like it, leave a tip: 1MDBHLgv7WX9viRG9X4LfDQfCX8oZ9wviC
+
+
+tx 5d803266dfbc3ffc2ba74d59be8cdbbedd29cefafeb8a6199881e31dc877a8c0
+ t.io/feed/1DAS68HRk93f5xJqEScras
+
+tx 61e9a034f5bf4f34afb553c0ce041be425d1e38f5026ed32a38a7b2a9516d119
+That's not, what the blockchain's for - BTC hall of fame.
+Yeah, yeah, I know. I couldn't help myself
+
+tx 3e321ae2c5c92ce143fb386cca811fec5943e6c0f7c20f626bf8845cc708260e
+6$ t.io/feed/1GRCMDq7KFxhFZWNCynNbu
+
+tx af03089bf47c5f893ba7a19d9adce6945a537e8c71e54799504d6026b22c8813
+ t.io/feed/1HeCdKAA6e1aGzqk61Ckwb
+
+tx fd5ded51bb79f3c92fae169e263ee4e36fe1b5c0c2e0a1ffa6ff6fb18122e1cd
+ t.io/feed/16EyHwXAi3R4JUd7sBLNYX
+
+tx b94b4a131bd26b02f0956365e8d611be2446a501b1ffb5f5826fa96d853db2d1
+;O>0.01% of  bitcoinwifi net
+
+tx e2013cabe52872cb90aab8e189c5b62fbe55a39d030ac44f37bd21f03a05a287
+Muse Coin www.musecoin.or
+
+tx 55e885bbf72cb1ff175313afabea59ffa35783ec997997c78917df512ed86e05
+;O> CKSCAN VERIFY-ADDRESS dmsgw6um69
+
+tx 49e1a32e742922e2d9419e5b524b8578d947dd6bf152c35cd5a9d5de4475ea8a
+ CKSCAN VERIFY-ADDRESS a435dmjdlh
+
+tx 1d9edca85d21375c34cf7f21b1471a06621a700457c9f4836dc0477f123a331a
+;O>&Lifetime access to bitcoi
+
+tx 150b59109da72511c46631e721d53463d0ad96e89bea4dc6dc5e5b55401c8e38
+;O>&Whitelisted website on bi
+
+tx a4f418939653f20fd5b1dca6a966122fce717343c98af84df799071f723da4f2
+A successful man is one who makes more money than his wife can spend.
+A successful woman is one who can find such a man. -- Lana Turner
+
+
+tx 06bf7300362451ecde2b6968ad415524adcba9121af6775533a5891103990642
+My doctor says I'm lacking Vitamin U.
+
+
+tx 69927dc7dd3145716a5c50c7cb57bd98ea8697de0fe7fe41169aa3bcaec306bf
+ Experience points for cla
+
+tx 8872928ba3fd2bdfe561b8ac8c554256fcb978d987129688e4e4337f086566d6
+u=https://www.rvl.is/amazing
+
+tx a5f0bd85ccd1cdb2a0bb99b845b208f09811f877a23d9bd0d45a000161bd8d2c
+u=https://rvl.is/amazing
+
+tx 92323c6b861fac9e68feb6d1dfbb5e503adbc96c4e4a277aa9e4116854085e2b
+u=https://rvl.is/amazing
+
+tx dcb752edbc89f67b4be74b97b67e6c55e971a58f29dc003d9f296ab2b6d957cf
+u=https://rvl.is/meta;
+
+tx 1e2d0bd3a3ec32a2b1c1155c2f25028b22e62fc6fae85a8df2044617ca9d726b
+u=https://rvl.is/meta;
+
+tx 4a4be2e0de99c28a69beac7670938aa2d3090325d011f14bcbc6941e02019076
+L	uIsrael occupy banks movem
+
+tx d74cf91fa16b8a23bf1095414aeab115c6f7a6021150443e156288511d331162
+L	uoccupy wall street coin
+
+tx 22c4612cfb6bda2921cc2f6883330c85324c4187bace4e34d1db30a0fd8d68da
+401cf46e720afba3f2d0edc19be662d57093470dfe7589954d9fc944e6d93e08
+
+
+tx 6badadde4d95d3edc48512aee1f0685585d799f00dd0736e77ccaf73d0b32d68
+u=https://cpr.sm/Ero-6Rg2DEiB
+
+tx 6a02c32d4ccb4a006e13da7fd4d093d00c9cc3c43103f354dcee52471ace5fb1
+2bd48aca855026375fa9oQ
+e106768a87e5593abcc4
+
+
+tx 46c6e603b35a1bbeacea5abeb170d86d21bcb9f3a4471b485ce883649ec95ddc
+iGu=https://cpr.sm/dsNyI_cRL45
+
+tx 91fecbef7504fcf6fcfec53af44efb370156de444fad96899af276e27d2582e0
+'Cryptographic token for t
+
+tx 3f42b214259ce802e6a1026a65d8ec0583f7bc9dcecd5e27cf94bcdb59387722
+u=https://cpr.sm/ZXWf2W4HhMZ
+
+tx d51e9a8080ff810cbb401a129ba8cf8d43bae17da3fdecb05e153d75a2151e0e
+@%l t.io/feed/18R9MCeXazig8hxDY6xSSB
+
+tx bd8272b8813cda6fa9a8c41f09ae66fdab655fd9acd55b5a65465deadb709995
+6$ t.io/feed/1GRCMDq7KFxhFZWNCynNbu
+
+tx d55fb98ee9716f418e10456de91ce68e6e32facd6623ce0c8ab9e2542cff87c5
+u=https://cpr.sm/AekUd0RQVC
+
+tx 6b476c44a795d343a8b5be79bb9790732494694fc0fd264514b54a5681716e14
+- t.io/feed/157hQGKKJuDQJDnMPSrZPf
+
+tx c710728e7b3fff6f951f7516640dab4f0ef7c546dae08b6257050816bb60befe
+f\!In defense of the US Cons
+
+tx a3a2b4662d229b37151fb30901cc1482224980e81cc64f4309ab96b3090358e1
+CryptoGraffiti.info is now also available over telnet!!!
+telnet: carlnet.ee 4000KG
+
+tx 02f08de9407d014bb0623060a783a4ab418c86b0023bf93167c03099c6570801
+u=https://cpr.sm/AekUd0RQVC
+
+tx db4fb93fc6b84a7411de632607d49fcc82c9b67dba4d3e90ac08e805b914dd33
+ CKSCAN VERIFY-ADDRESS nyxn1vgrd5
+
+tx 390b22130b255c29645d2d4484f456d2942e2dc99231590257192288fd7e727b
+Hu=https://cpr.sm/qsutEi7BZ4y
+
+tx 0119e55171b8d424cdf849b1683159eebc9625d35bf84d9f03c341a16ac62f8e
+$The world's first (?) cry
+
+tx f40f25f3bafefab0552289087804f9a7f687e700acd4cb281a47d2f3a13238c8
+u=https://cpr.sm/sZ2Mc_K16i=
+
+tx b85d2bd9b1d3f3ce6fa4d118c60f1c16b524abcca553573802ecc00b9937811b
+'GSI Shares For Green Ener
+
+tx af3f760690f9333010d0e265fbe28706a48056c5a636c23096fb9d74a1fea774
+u=https://brl.website/wp/
+
+tx 308969cbe40dd43bb1fb9a3a3ec367f5f3fe5cc76be627048b99e0b42e07b1db
+ CKSCAN VERIFY-ADDRESS cqfvjibp76
+
+tx bcc9352d88efd8c65c75d59c82c99bbc480636ec53bfe21ce012a4c7fb453fcb
+u=https://brl.website/wp/
+
+tx 6a31243d824996b704547f128046781f75f55fef63db937adb11fb177dc17f30
+u=https://cpr.sm/-XhMhTU-oK
+
+tx 278799ee2063b16e04611c82c1936706839f4f1a69f99ef6fc3011f38e802b6a
+Au=https://brl.website/BRL.txt
+
+tx c8809bf6e714df59a5dec6a6d0ee30821b3dbeeba46c9a7ecc4400c6a4b9b4c8
+6$ t.io/feed/1GRCMDq7KFxhFZWNCynNbu
+
+tx c2390cfab31b1886eb05a284f60507d85a7d92e52541e88d53c5a0d98bb2c075
+3 t.io/feed/1LVoNE3PXtcn1XCEbrLHgm
+
+tx 849c10693ab3dc9449df8501afb7ad541393338f7f891935aeca7cd911a55705
+ t.io/feed/1MbaFAoYhZQZ8U7eJLpjyX
+
+tx 24736885b36450ee8bb61549100d65e6df7a12bccd5a259baa6a39a2e9427317
+Atlas Unchained 10120
+
+tx 0c87ecd1d78b3c1c0d7b51aeb56fb152349565639a2a3c47c7303ab825343385
+Atlas Unchained 10120
+
+tx 914f8d024e5aa75a49ade6b6573c0a18881174015a499bcc0aec956c3fbb376a
+%1KFdMXu5XtfaMYEy4t3N.....
+
+tx fcc46ad9efaa07788ded58f47d452805bd547d59d213f406c80428f5f9f7069a
+BITCC Presentation for seminar_Gao
+
+tx bea78ee9609b2e2c26d016f662626e2db4210d7280b007230882ea40818cc3e6
+Au=https://cpr.sm/U0xLaxD_Hk
+
+tx e3bcac4fce6ec269d9cb2db485474c6a7926920a6d2dfab203bac332a4ebfc98
+ CKSCAN VERIFY-ADDRESS ycm5xradl3
+
+tx bc327e1134b30ddc7db178ef7646a66e9a0a5c0b331e99b9bb922553cf3e7f08
+29eb0e0bb4b622919f39744447ee1e58839543a68bdd73bb7473a2bf15c2bd78
+
+
+tx ba3d621253bcdb27293602db0f464bab0998642eedade990a7ff8b900b216b54
+Au=https://brl.website/BRL.txt
+
+tx ec8ae6c25e0b924d622d5369349e48ff1305ba670b4af372e6646ca37d002d1c
+Staff token for Coin Fire
+
+tx 0577adb93b1772ee09ab93d1f9f265a41eac300c7e483fc81fd737427c6e29aa
+Test
+               #l
+
+tx ebc94f27f86a9a92303c4124a770792cde0acdd7e197a0f2bac34c4586b49cb0
+(Original SEEDCOIN shares.
+
+tx 05f554cef4f8fbe5a340e9c5e8a2b73037fb743445524d30bd6bccbb9c04ef75
+u=https://cpr.sm/ZYIWu6Fqle
+
+tx 1eef9cd59ea538c63af820340ed7303df6888c6c0b1395ce51a1f0687dd443e3
+!1 MARYJB = 390 MARYJ Coin
+
+tx 53a8e72b3a8b626bbdb6a05cc87f72dc967afef939156fd4ab92c0b7f14a895a
+$The Jerky Standard ,   je
+
+tx a636370d016289426be9788840db8717f0293861bc23ee667f42c7dfaf9073bf
+&Hot Sauce backed coin hot
+
+tx df60a7805e53bf96d1271308edf6b71e8bd2a32be8fc1a49b96f23a52643bd8c
+"Coffee Currency www.coffe
+
+tx c5187bd65e295d87dd70c98559c9256852607b651bf8f3583d166964f0bdeb3a
+#Ukraine Crypto  www.ukrai
+
+tx ce3b7e0e1c7123ce4ad61308ba0ce1bdcc56afa7e88a30418bc086ad905ae557
+BBQ Currency bbqcoin.us
+
+tx 1c81ec4258b6a35533ca8e4a2e70336adc08cd1fa7cd18b063b1b94b4901678b
+$Scotcoin shares scotcoine
+
+tx 5f626f3a6d64fe10fb7e2177256e31281c0be9ad9bfc6f13f7578df89da7c373
+SwedeCoin   swedecoin.org
+
+tx 2e8e2416bc2d87f89de5dafb7cd7e490e24cfa7a11ad76c1069739a3b2e2d57e
+ t.io/feed/1PpuHyKXwAKFTi4sQjT7j7
+
+tx f94c9a09e69f85906e4c56029303a2f76eedcf1c14ba0d56c514c1695b1a2af7
+IRELANDCOIN irelandcoin.o
+
+tx 042d8ceb96d17fe6f3714d6201097834f348dd52ca9b3e42026faffc613fda72
+Surecoin:    surecoin.org
+
+tx 661cc03512db5748683285bdafc6a753c15093c78c8ff822bb021d78a049e0f1
+#healingcoins.org  Send so
+
+tx 1714e789bb7ca75b0b433ce5109a07711f82bfd1fc1950ec1e72d7cf80c3eaa6
+//Get some STarbuck$$$ to
+
+tx 1cdb1770f02d3b30e079939e4053e9195a23b6c96ac6271ccfbf0e30ff45aa17
+SeedcoinX shares seedcoin
+
+tx c16c2e01735b764ad6ba1a78e406495571cf4498cf2584724069cad2d5e178b0
+^&57D'Token Access for LTB(C) 1
+
+tx 08fe4cafe2e079a9dd60906a414b78ed06d6d3f9b038a2dd27eed189e0c41d62
+!1 MARYJB = 390 MARYJ Coin
+
+tx 502f12cf4b7fa50460804bd4d87c24e5e88b286dab5af69b6f09ac9ba32f1e39
+e$Token for TheBitcoinGame.
+
+tx 2a3c0c12a56916b1fc52041340e62384420b119a5cafaad16e6095dce3bb5004
+^&57D!There is Only One Brookly
+
+tx d46c53d645ed74f45b1ebc6ea0feda0664eb6ffb8c99c4eb6bc25ca4ad79b669
+c77277baa5e54c55a331oQ
+637290e4931ea6a873c9fe3ad73fbeb61bb40b524a53
+
+
+tx 043a48b4d1284ab48c31c2be8e7aaabb4efb302cb8659fc7851acf4ca4132ceb
+file=Doc/me/cc/license/4_
+
+tx 34b8b62a28f027f5e62800ca7c04d644bd2de3c27e95f3afce126b8d894551c3
+file=Doc/me/cc/license/4_
+
+tx 4487127f4b0f99bd31190fd034ed0b95754f132323fa9ef30ef96e80c63020eb
+1 MARYJB = 245 MARYJ Coin
+
+tx db9f8eb51220fb906101c1260d3887b426b4445291658d8150d7308caf7a5114
+u=https://cpr.sm/tuw5XBbqnK
+
+tx 7a94b0acd65e69cd57a4ec0586b04fa9dea197e668de70d955fe1cc04890f65f
+ghttps://chainspy.com/
+
+tx d35696498db04c0996c48d9e2d186e50ed62d54c944ac446fadcaaf898048a23
+creatureconduitsanctuary.
+
+tx f0e49847a40ff47ec9c05bf8da0281e83945c1de16c150eaf069b91ef30427f7
+$https://creatureconduitsa
+
+tx ca677dae699ea8b1c3c4190125640db952cbecacec8676f6741736ffb6d312a9
+u=https://cpr.sm/07ljBrXjOO
+
+tx ad0c367dd259d0aa8656e6737f0539d0a6d1ddab9acc214b0a11a8b2384c5655
+31  "total": 10000000}
+
+tx e63cd77cb8dc5e55695c9c686dc7a66ad37602178ce0309f7a216f08b3f822ce
+30 {"desc": "", "name": "CalMail Coins",
+
+tx 80fde4545dc77670fe9f7faebd37663012e443b7202be6a5d44cbe3dbae5cf57
+31  "total": 10000000}
+
+tx ec17af89cc51a631cee233a4337ffe7ad03d21f35e9ba65750ef8fa2716fbf18
+30 {"desc": "", "name": "CalMail Coins",
+
+tx c8a843a30e314ee1c016e909b0c4f24967f2a67aa7e38df85c81c53f23c8fc92
+echo -n "m1" | sha512sum
+               #l
+
+tx 02b828233556848d2dc66e4f83c22fb4472b016ab9a82c53708abbdc810ccad1
+U2FsdGVkX1+yZkTn9cVFEj9hUuDqGihrRuF8xmlF/XBwCEqEg8E9feu3FVOmXUMD
+lCXooHCQrpknK9Cdwjy1gQdTqrXZ8Gv7n5XDDgyo0FSJExVz/u3tSWSp/1Kq3qPP
+12pelPdyjUwc/MOaryEgTIm6VSS2e+0knWhyhsEirgB+rEGJH6EaNRDdYmm5HvmT
+m7XV7X8zHybvQRfupD19IrYncjTqkZ5gZyuth+A08oyPVdXoHHreRDbJUvPB6CNk
+UaATfXm0oFCbYj8OXF6U2AbMRw7iQJ0wuid02FCVKcJqcKQynij7kxuvq9SoZfh/
+62Is0tPKTTQD8GSLfX5QWlTtm6j1DsY6xePLTUX/5CU=
+          
+
+tx 31ec65742e728d7c7839227c090a1f3be86bd2421ec7a23d9260dd4bcf227592
+31  "total": 10000000}
+
+tx 6183026907833f5bad4f36bae4ca23917605dacd3d106e2b0e54c6d9ffa54976
+30 {"desc": "", "name": "CalMail Coins",
+
+tx a2800e748708153f66f1fe6c99456414f6e4f7d0ff80b5c3389c5343288ce81e
+U2FsdGVkX1/OgFydK3kJd/y3gKhGX0/WsZ66nnf6i9limNRM1aLRkFPQN8QVyVCS
+VNKe6EeI6r10P/K2yzqBiyPs0SEwkrU7pk0dvchu/O1ViIHJxeZEWqVpOcSSkKh0
+dxdPP2EfqoaOJfH8mB6nQykUVnraJKM9o8RVQBgmdY0mOjQPnZ8ZF6Pu6XkAw0oR
+rZxrq5JCxt01jGGxcrcg96UfrfZ0bOuYKqq9eapS1rFS8ZgJUET/MPrHumJ2fbRa
+YZ3vMrr1SbpoGsJaMVwCTA==
+               
+
+tx 2b82182bc7cadc9db97528afbe69a5f96741143490835c3290d874bd4587a8d7
+20141016
+James Bang reports from Hong KooQ
+ng
+#WorldCryptoNetwork
+http://youtu.be/cV3VfV3ZbTo
+
+SHA-256: 30c4dc7640bbedb99f31a62fdc1b42229322c61ec8c0f6afe537bf26e32d831a
+
+magnet:?xt=urn:btih:62C43C9E0D9406E3242F69D4947E8A88FC7AB77F&dn=20141016-Hong-Kong
+
+
+tx 16c4bbbfc8178fd75139d3806fefc050b08740b4dc520d9d8e0f4281804ee9e3
+Cause Awareness (CANS)
+
+tx 3f1a4ec0a19299b53d90182e1e78edb1f359a8c20e289af1ed086829c3485da5
+U2FsdGVkX18D+75fee2GC5sd4cAXLp634K7XqivydnelSGjs6Op/3Vhh86lhOwT+
+MYQpBBOtY4Wj7OI9vry59cxOmeEb2rEC4J3htGLfNgR6x1ffUSCKFQBDCtyXpHbl
+vxWrCbaMZx31MHmGo1gndfBcxe4FlSsxFbq5aH98PURM7wJ9nLNgo9w7cBwSube6
+Z000Lprzckt97knGoQGcgyMmg3mRHphMalewjsOvUxM=
+
+tx b0504c274446b1ea4ed1e8a517e571e206694fdb46724ff643dd4375a8510ac6
+U2FsdGVkX1+cf9L/ZCuENdrhFxCXPk1CtSXz2UVaotRgA4GWERqSxFpPKkpCWG8i
+1GNIVcdayb8UJyvqy7Mm23XQmwsFoOgW6h2YCXM3AStA2uhBcSJ4Bwb0zYC07Gct
+JDCplA2M0cvsWW3zz80/JK/M4h36j0u7Ez+0iM2/pHKrAIRuUu5FiQTwUaTNfocg
+kMXPTuvHBj4cfTWlIEHfdr8fqFZ/tWAUEMOTxr2HBznfLkpzxJWodpkB2UmUuNGp
+
+tx 1f667851e7f742cd6cede40e655adb2ae2ed054907f6c224dcabe15595b18c39
+U2FsdGVkX1/Z9OWKN8sA6i4i9PkFT+aTiJq5UjFzD0Fgi4eCnwm3pUkSut4dq89d
+SYaiAzYLW+rrsuzfkJ57zcO9vRSB6jlsJ6V3/m+pEkas4N1gCt8e10Bz1AkqVHkq
+ojxa6T2WJXUUhSs0x+jqu4qDeLL0T4W8Zlq+pBYGC8k=
+     n
+
+tx a9c1c1ba5fbd7c966b26a4f14630fcc08fb7d83e449d3af8760809699b72af5b
+U2FsdGVkX1/MgU7PIkVN2yR0b+M09H6gxuEd2Z/6aPQ2yw4csuuOIukm3O7Wh3xS
+HECfKqwFKfDLnBI8E/CdiEEvLPDcAaXrEar2OpkLMkA5nsXxBpUsQmHjuAS8w09z
+LlpxGisXAGBx9G/gMfPKJ1qYgM2XpqProiXdSA6bIPM=
+     kV+
+
+tx a6f08a07555804022e45c213f15ad3317b427dbc41c3f7afd25388d6d757d356
+U2FsdGVkX1/6z32enZgO2E0Wg5eHRwteVsamg9JKAHBdAu7elzdNXMUj+Lwq2IG6
++WlI9GKihj8ATKbGEVio2XW2FzRNT866sGb8E5FrpMkDTXjKN6P1vMo56ZwDGj8d
+2qHyitIXVh2Z0a9G3AWvc1HqDUjqJ47miBXlw5Jd5LM=
+     *
+
+tx 9aaf210e1f537e65e424b2e8469a38267083abb3eeb1d7e501c4a96e1dfb352b
+'Anarcho-capitalist spoof:
+
+tx 2e0f96a2e5f2001596fb5bf469f463c85d58778b7ba8b43516b54b20a9376546
+U2FsdGVkX19e9D6eJMh+El7WbFQvAOirAApM0OketRtZnmMim3IeStNwOyqsb+wK
+3a4oZ3D/SVvIB8FW3QiQZeVFLqr7mwxYDIynLwCRwBIZTXd25hUt8oNkBDOKSQVh
+9abzeAXmQvM46thW2fBRMhka1b0Vt5GLV+dePU4BRRHN7rEV6kNebVVyp2b3bYa/
+2GXDRFEDumlcctHd0+gFp2uUk2gv4tia/kvvuNQsOp0=
+W
+
+tx 554884fe5a496ecb7c65bc3febc1310e1907d61cc286184e15d4ca866c1c2197
+U2FsdGVkX18ofn+b39Acrlb7GM88PzRExGk0ZB3hsCU/q88AwI9HR6QJ2xKk2OSY
+fnXbmG+0uUR6bCydL+QqztpG5xt+kcRewF7TnGYxD4ob8Vd7PZRfwtWhQXi7Y/yj
+r/BLvn+Ntmckxxg5yUjq8q7K/wGZMpi+YbC6ecuXeXFJRBP4yRlw1r/ss4fUvnqb
+5F5vfEcQOA+Benu+mRQ/6nZhgpUVHx1o9s2RlLe3WvtwskadrkCiQQUCTvpqGqhK
+hZebLvIZkhNdtazey/8DcdUk9t4TS9yhd/9EwspHglydQ2hO9qJJCJ6odCIswNHB
+1UtwSIqOIFbshfKVLmjnpVi00lp693brxrKhM01Wc12opbQb3KZdd4AzxlxmN1Pq
+Po2JKu3glEUYkR+EE4GPW3D5mXRm5m3aBjyQlrsZdfCxEvRTAd1iWsmfwLCtobon
+60ja2HArJv7U/C2jMG4MAUk0Ii3ndjn2jgV5B+7JoLQyuYLfxWDZB+mj0pW09nB3
+xQWDVnIM0m0r1r8/doOKVWVpWzrXFRrH+aoe+3w/JZR4UvoTpBrphHALjxQp9qXR
+rLMBj3Ef5X9eMQo9KmtJNEhvzhyBGly8z4pWNr/glBS2xtcl5YcEV4/cGIJifuMt
+S/QtUMcpfbNhbbt14iEctKhykUKZzhfZ++xkAwogBLpDk7gTrva8o9GEs752MsJB
+l+ydS5sY4xBgOfwfZEGsTJ3+XqW+fVKh/ADTdj5dWjOUX+Dw+UYFg7IqArbSTOin
+2Wu2WSC33DuvGD4ou2DDiUX/XLVqvP3rr5WTxCmVpmsRbnLx7jgVWovHq12Tq8+s
+FT7kbdxfFXwGWFunx2miO2EW+RWL3Q8lIeqRj53HdDsZNdMJtUoWnItspuAMs+uy
+VyQGNmFaCGX0SMmU26m3E6TABUWxD0VPS/vocQ8KPvF2ZpVrN4RA2E9utQFlY8VY
+tG9vFsCO64gXdH2XaF8OKKHMze/Jc4wC6Py7ANsNGMCORlj2YF+UcXyGnaKSisci
+pM3E03elXoAR1NGIJAsSDMluQmexuIBiuWQ9OyfWkFcH/kY9RzFodV6p/WQSzJPZ
+8sdRK4WhsJxK20eGX0TD5ju1xklwtWJ0qKSzCwZ7wSftLxjPcz06dcltlJb2FchK
+4dyIgTRoOCsgoUfjd+mo5Ljelvq3R06sGxfP1AvfPX06X3vR7P3PFHimV5A30A/L
+lfhY6sVSNvDtGEyVMrahl1jvZOHpNV70QIFoUYcf/svCIUl3/8GtP+sB9dhtRowx
+grKUrDdjVC6XR26wkCzAeCpZMXQIDZYXKGtKYi/nDQmxDYk2e7aIhkWrpFvIA1Ck
+SXNHp4xPDZ9vPiKIadO1bwrR60KIltBSF6XJpcv9pGcpEPeURMyHrWtDdC24Vi62
+wSDGFDSRumDQwiE670PFFbSiQNWei28pv6ApgaRjG2aXIP+lmHKCJlq+bsIwZa+e
+Q/nReNe07rX3UVb7enmnCnyZYlhNrZuEHALS6JZKNvn/2eId12KGSOsDDC6j11Nb
+xepdkWs2a4ZbttTca8sRH6YDId8RGckLi0nvj5KqxCXCPf43SA3jV3ayI4uAhWRX
+IokPmKKfqInFRQDZ5VZg7uejvNkM/shNm+9gRmWTCaxrHokllenD5aIoIyYxmGKo
+QWFJbu5sI0b8fWH8aRzm0zZ7SAu8ziY8NTrDi0AiSr9f06bRrgOdWoztt+Z1VKOh
+72oaAO4BnTJ/dTkjd0W7EMwGJGrhvRIjgwpGq2FrFlaFPYdLEh8gNGXXMqzY2kdU
+xbsbH2Omh2m5OJU23FpmvdmStJpWw9JygnLaWNHBQc5g4wxa1D02Muezc9dHHEDZ
+3mwl+a+y9n/imrpvrq+h4VN3eXcF+pEYHVPhGn5rfsmJloB/AqMCX+Dhz7fbJE1m
+fozHyBG2TgI6FRzxW8OFeUpkLkg4vDMNgPRv2A0rNBJkbXaL48U5wVBlwcZy5iel
+PzUC/V0b/4P+D424/H1QlbShNndJCY1h0lFEerw16mSDQOQrwp7D4/gvhA1YnQUW
+DFDLpNCSDZlHgwvFRdzWIFF/6tVrFxNGuhgfpEr3O4SNg7I2VUPnwvuLiQ6C1W0F
+zrwZcuWxgjS8NSqz/LUQ+eErFgwyUnVcL+pvkzAdHq/Kn299xfyB4BJeoFHfj9NH
+          m9g>K;tC#{r
+
+tx bdf56175aae34cbd4868c3d727aa1e4cf5b1ead5b466ad88a3f1c3a572075a45
+U2FsdGVkX19caZFRDlxjNKERM5jEyUC7TTqA6xcfkIPbn5T8bHcCqJZAspUoHYTr
+XkNpShQc4yALqkmJwwyO9qZWKn08TyyK9S9P5v0Z6dshFMuh7uWKP6hV4+2SA+II
+3vMRh3vXPTK6WncNDMcjuAMn7VfEpVVMxTKkdnQeSKVfWlFsXUctY7ZCxM2qknz8
+nvc+/TRjoeCHgJGHwecc6k3CAIqjv5F511aMo3xdoZTJwRmKo/5oM6y4hTzbaDMs
+9tKfMbvxYWyT1r3IIFKqBWpy2E07sWoHMvc5S3XleU44i7J9GMrY787LyOyZxik5
+vITBDgAp5DSdqMcoBMOMazNNfCE6BwWDflZZ3KlBtFtkcBcXyfw6q2F1870OuWAy
+CU67SzCZBjUxAA0yHPjd0frj+w+BYjG1WdACtpK/04sKI57kHO2k77P/c/Z9mvX+
+SxU/stqZrL3v6ai52xn6JzlcfgDbF7VNA/MlqRjnrRIhW75t1+46eCWjy6EGwL1H
+
+tx 1df295a52c4a7aaad9e698ab376440225fdeb1ba812d98d72215a476358fc387
+World Citizenship
+The draft of an experioQ
+mental idea to create affordable 'Private Passport Services' using available tools
+The intention is to help anyone in the world prove their existence in space and time free from any central authorities
+Special thanks to Susanne Tarkowski Tempelhof & The World Crypto Network
+
+https://github.com/MrChrisJ/World-Citizenship
+Git Commit: d315abbc32942db95f9ed95b1fd13d24e127176e
+
+
+
+tx 1c9779330bee4bf8d0d42a7aa350df55a5014af496e657c9669a3646fb5e2b8c
+1  Coins", "desc": ""}
+
+tx 7b205807eb85d3e88931ccc679d9eaec3486c2c3d3637075988d80d228b025d4
+0 {"total": 10000000, "name": "ToTroops
+
+tx a6e76d3126c8ed643c63c91f7e467efafc546b762a2fb05911e5b372f360f721
+1  Coins", "desc": ""}
+
+tx c7e1930d8c1851fc0ef2be6eb654c8c7a3c6838e3f947d07e918078eedf4c088
+0 {"total": 10000000, "name": "ToTroops
+
+tx d72d418d423ad5e514dc110f13756d1473619e5f78ef342fb4d030273197ddf1
+1  Coins", "desc": ""}
+
+tx 984a914004a6695e383dddee5ac50a2ee53aeb12c721739c5c49dbd63c6479a6
+0 {"total": 10000000, "name": "ToTroops
+
+tx e7628868537db89abc78ef9952b222376ea109f0362921075e0e3f9180b882f5
+1  Coins", "desc": ""}
+
+tx 1254fd2ba9a96dfbe853f9d2c9c2697fba2eebb2c43ea79676ab99cd4c10cbc5
+0 {"total": 10000000, "name": "ToTroops
+
+tx 709050c6b1bf86bf4eaeb19383ec3aeb7494d763b861e2eff984d9a8792159c9
+1  Coins", "desc": ""}
+
+tx 9c50f1b599ab6580e3d4ec201b8ce8ae8cb65e9d63e6d8de685d8649a00ba21c
+0 {"total": 10000000, "name": "ToTroops
+
+tx adfee282d2c03694696d7ef45247204094ddf9b8dca88dbe7ab3b0342df80234
+1  Coins", "desc": ""}
+
+tx 18ffe9cfe2299a3439934a2fa3df0e7e581d86ac69ed407e4803c638679382ef
+0 {"total": 10000000, "name": "ToTroops
+
+tx 47a587e775e5ed547ba2da349a8c77676f6f7b6b9342a5b87b19249a12aa2c9f
+1  Coins", "desc": ""}
+
+tx 5faf8b90ef454eba56efc9e9aec0f899658b79ad2a0f537396783068e1132409
+0 {"total": 10000000, "name": "ToTroops
+
+tx d37d4dbe5b50beec8375b66403c5b9d23ed3d029631475d5b3e89826470f342d
+1  Coins", "desc": ""}
+
+tx b6003cf9b74d5ff2cef0549f59f162114da70828a622e4cb54e162347f1c57b0
+0 {"total": 10000000, "name": "ToTroops
+
+tx 442fcd3542346abb2ce813dbdb9110c3b39b9ca8f02ee624492f090dd237d812
+1  Coins", "desc": ""}
+
+tx 65ae212110dbb14fc1dd8bc43d1e1e15a9be0f0420915becf909e60504cba9f3
+0 {"total": 10000000, "name": "ToTroops
+
+tx 24dac2432c263cfef41cbe55b1c381cf45a0cdbe6b4a40e3dc28cc6e7f393b9e
+1  Coins", "desc": ""}
+
+tx 84710567c6d5828147cfa18cffc42c0a4182fc58ac989f60dfc5a646919634dc
+0 {"total": 10000000, "name": "ToTroops
+
+tx bf2a6e44b7d9b8c8810ebc1d4ed5568ba718164ef1f0578091b148ccfe53d749
+u=https://cpr.sm/4zvrrr5hFy
+
+
+
+tx aa3fe49d5d70c1afd4c6a4dd840c7e72cd5b23222482087c88e421a5aecd50a3
+u=https://cpr.sm/4zvrrr5hFy
+
+
+
+tx 310a0896e4d2280b7148315fb5b0c6ee00c0dad9e0270470615b703785e3611c
+1  Coins", "desc": ""}
+
+tx 4b1f0b542343d93e3112b013a985ebbaaa148e9c2c93bee41684c729db1f106d
+0 {"total": 10000000, "name": "ToTroops
+
+tx b3eca5ba5a8feb348b1a7a2ed2a94178ed3280291550d0a42b65fdf0e7e4d746
+1  Coins", "desc": ""}
+
+tx 72b96345cc5c04532ad6b2cf4910e104338f5a2dfe3aeeb5b2472402d728c629
+0 {"total": 10000000, "name": "ToTroops
+
+tx 33d285c7cf2d7e9e6a094b78d3663a1a443ceca409c5a1e27292eb5b14d4fcc7
+1  Coins", "desc": ""}
+
+tx b468b3865b5c8ee4ff888a9566fb0ec26268c53d5f26491f75a7d8a59ef3f196
+0 {"total": 10000000, "name": "ToTroops
+
+tx bdf9fb024ae5da8a5d48e674ee12afd91466a878b18bb2b466e3cf6de3f8a708
+1 0000000, "desc": ""}
+
+tx 03b0b8c04854df114cc237e8cec998e989167cb57037ac8bf4de17c2eb5ab833
+0 {"name": "ToTroops Coins", "total": 1
+
+tx 2043ae6c7ee4fd40682b59e40765ea029f2680f0a0851c773476540e9021d31d
+u=https://cpr.sm/4zvrrr5hFy
+
+
+
+tx b7023cb512c70f5d4a4825c335ae99f300ee1226a30318ff6be7f800775de785
+TDIVORCE REGISTRATION TOKE
+
+tx 0682c534dd223be9f229e8c04419876ecdbb1d3569a6c5b33e062d2c6cc5ee54
+TABSTRACT OF TITLE REGISTR
+
+tx 31def3db8acd5ea5f32c1d519485e9cb7632bc39ce19c3f54de9fbd6d6b9d23b
+TSAFEKEEPING AGREEMENT FOR
+
+tx 05d5564991422581c24550c1e5fa43001127d3632abe8a15a83f5612443a017d
+TBERMUDA OPTION TOKEN
+
+tx f9176c0bd0cb927bc77df0d2fbc613a0a9a4e72b9c5abdea0d0a556439bea184
+T)CAPITAL ASSET QUALTY MGMN
+
+tx 1fefe6551633147bbfb367f7568ccab6cfe2af7a0a4f1a3d51767db650c75c66
+TTYPE I SECURITY TOKEN
+
+tx 001c3a05e786af876fc026587fcad44c788562088121decd8826123e72aa6f03
+TCLASS OR TRANCHE OF LOAN
+
+tx 6e3a8dbed89c60a78600ca6e07698109951388fe8fa2bcff33306e88a51fe4ae
+TTYPE II SECURITY TOKEN
+
+tx d1a32718bb1234942d4023b1d46d3bd73fbd7bbef8123e43fa4c71b2fb377d17
+TTYPE V SECURITY TOKEN
+
+tx 3f4fa44729ed4597804d7e23f1388f8e998ed96b5988c18de1db54372252e751
+TCLASS OR TRANCHE OF LOAN
+
+tx 301da60dd61f06ed38b39ae0ebcd7b7da7429652ec2b7a6eb3a776ac929abfbb
+TTYPE III SECURITY TOKEN
+
+tx 4d177abfe4e20d2be419cfbd70ed449a29f6fc9ec2c9b9513e19e22e7058c47c
+TTYPE IV SECURITY TOKEN
+
+tx f826a78be5c1f06f0e341d4f7d01ddd9360322a197dee96ef23810624c968f45
+TMARRIAGE REGISTRATION TOK
+
+tx b5c3fb4f7a217204c5254f868453f010a46091dafd2c79c81588c67dac310a5d
+T)Intnl Institute for Unifi
+
+tx afcf9460eb96f6abc81c8ddfc7ffd682ef415c7ffe229e54edbf27811b6ac1ec
+|-(see http://Crowdsale.co f
+
+tx b706ac7fa5562708c0e5cbb854e76b0ceb501778ecead1f455d77b8ee3b13d43
+|-%See http://sethrogen.com 
+
+tx 2fdb0e055eade11a777142e8701e31595ff7bd5f99d29b9ce74edde958bf4394
+|-#see http://thesaurus.co f
+
+tx 75e1ed5d0424686c781929e291596e4daaf0f872ec3873fdb2e2e67b8bf85c54
+|-$http://bloodbanker.com fo
+
+tx cde0cb4dc7005b97dd4d220192464f4aeaf5bd0ac112a9003c91e6c48b1d8708
+|-Send a lil Reiki around
+
+tx 6b5985fb0cfb41c7376a39c63a39f68e0bc4dfe55f12de8463338c032a2c3938
+|-)Proudly own this asset ba
+
+tx d3029436d112069f2249bf32b0df2d27b81f4a4ddb32496219b7e9a59cd17057
+|-)Ask Jim Morrison, keeps y
+
+tx e26abcc26b91e5730a579bc54e8264de94679dfcaec7b12800965a84a06c879f
+|-"Load up on this for the l
+
+tx a7e41af474a32a1edecc438ff80a9fc7b2b92a8bd643946193dee60d161c18e9
+|-Load up to hit em hard as
+
+tx e5e0bff20389eade52a36865c987e12ee6de97904abea27cadc63e5975a3768a
+|-Gotta have me some Crue!
+
+tx cbe2f757213e4b76297186ef738167a70877621e16e832db7d7b7c22badd0b04
+ ript>alert('Hello world')</scrip
+
+tx 61cdabf0f27878c8ab167510295ff51fa2fcc943ff9f63fc38fd0e3cf81ebc55
+rBIRTH ANNOUNCEMENT TOKEN
+
+tx 34c19999ed3042f3c447d1ba766c6b8f976cfd09561a792ae0c9cd5f85fad126
+rWEDDING SHOWER REGISTRY
+
+tx 550162443dd62d0d8c5877fb03472efab04fd2d2ab7d1eec7891c69fe3b9e0bc
+rDISSOLVE LEGAL AGREEMENT 
+
+tx 9086c206af7dd570b0bc646dec3cdac8efc7902293510bfc72f8ce8ee8d78832
+rCERTIFIED DEATH ANNOUNCEM
+
+tx 30d32996b36d95deac83628b70a7d21783f2963cce5e134171200fa387f32548
+)Crypto-Rewards Program ht
+
+tx 632d872a655015c646ed635ab779c75af3978504349d56b0fa64c5b2a21a2b9d
+ t.io/feed/1KwEqbfspxeKaZPueVgQi2
+
+tx ec923a1236df8c1c2f51ce1ae0767ac0d67fb81a39bfdd03b9886c065c0f7b95
+f CKSCAN VERIFY-ADDRESS 5bc3pjdgqy
+
+tx bb1571c269466d4717fd2d8e13094838f8358fad211086f55eef1389dc8a7ba6
+digitaltangibletrust.com/a
+
+tx 2be49662b5780e6935df6c193a0b1fc6c7ff8389f463b7e73316fad233d15488
+rGHANA CRYPTO CURRENCY
+
+tx d560e55bf2177f19e58f54d0efbd40c2afb8307fbf118521d6e8fcfa7aa75c71
+rGHANAIAN CRYPTO CURRENCY
+
+tx f0fed535b2fc9792660e901099bffdce225f2817c446579f9c5cb05f11288378
+rGHANAIAN CRYPTO CURRENCY
+
+tx 715e54a1447d866509d6d4c4e03dd7542b6618a6e76fd60cd65cec060f82b7a3
+|71/The Times 18/Oct/2014 Bank in real double-cross on front+ of blockchain.9vir

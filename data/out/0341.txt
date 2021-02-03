@@ -1,0 +1,259 @@
+tx fb3d4ab30a1c590aae62265a31283bdb98bf8c4b07379b96cbf0b41fc636e353
+7022913ab5b3a985ea86dcb43a421f97d1155e87+oC
+
+tx 97c8b99eb2e58ef5379eb141adfd7e4bcf05b4a1446b553b90d2e7fd832dbc09
+zASCRIBESPOOLREGISTER
+
+tx a133820f300f823604983df863e7bb120fee8af1fb603d7eade0d581c51b793d
+Yu=https://cpr.sm/_BDsZ04MV7(7
+
+tx a471db34eb44fcbf4f414745329550790319c0a8d1a54e6df174a24200d6d1bf
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx 2290ed4e5f29094e0084284dd72fda60b5076cfff6e0f32f2a55b936093c82f9
+u=https://cpr.sm/jou5HZStQhN
+
+tx eb51d69c210f06fd2b9e2537764a820cc3174808a9bfcf9c042863207b27049e
+op-return.com/f.php?F=avHS1vGa6s
+
+tx 6fde6d91406e364edd21e407243c8096fac916cd55b13fd8f29c2fd53f4c0efa
+pmmsg18939a42d6477636b34796673
+
+tx dc24ef6a42bde8cecb19682eea0401b12d7c2f65daff3b92565a7a662cdc0dbf
+apmmsg2dfd37fca6c70696d75707265
+
+tx e3a418c1520d95636d9e4f79945af6a97c3d18a47bddd3edf908fca03ef6c060
+apmmsg79c054c773366326278316e70
+
+tx 78ab57c5e2d2ca0c9f8d4d67a9807b9edb3ae64a8522b94eaa8193f582e8579b
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx 7db30760e359fca7eb16e8115159228441d5b2ff1c18eaf6aeeaa25fb20e20cd
+ http://op-return.com/f.php?F=avHS1vGa6s
+
+tx 73800f00d537f37b4dbd611c21aeca5df3380c02e897e3d704f5ac328303f807
+ http://op-return.com/f.php?F=XYm2G6mapP
+
+tx c28fed1b1d98509f1939ca33e1b8a47ad32fc8c65aaeb95f9f3d233d3bd487f8
+&tu=https://cpr.sm/FhogHBm1lV
+
+tx 0bce0ddfce544cfefef294a5f138a16937801a4907f4674c5ef533b6920b7d69
+zASCRIBESPOOLREGISTER
+
+tx b035a52b194a899a6990a439523a2d0f9ae4065a61c7531f71d22fb95ccd4819
+zASCRIBESPOOLREGISTER
+
+tx ae0e9c866e08e4dc2211a7c826ffcc1310e91a08e532e4f73bece9002e284975
+eb42a7bdf8879c70612b077938cc1c66decb9a06+oC
+
+tx eb06b45abc065ee621c125d39de10e38b7e35a2fc7ae34f4c5f539288c5b2152
+u=https://bitwish.co.uk/tinfo
+
+tx b50992612f72d9a430f480a38b809f62ef531c911e2dd4b15a5989da59bb4d48
+u=https://bitwish.co.uk/tinfo
+
+tx 01f464584f2e5652dcf777046df7505966971d93f21de8644f61653eb03f9e25
+ http://op-return.com/f.php?F=XYm2G6mapP
+
+tx 529d087d5e3407e787038bfdef033237a0d6a7ab43cc781753d1f1975b702676
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx 7c78c511726d0a3e6f2f3657b4beedef8da6dfc6b1a9523569200b26bfb6e41f
+ http://op-return.com/f.php?F=iD8SY1thqt
+
+tx ea5363b600901f1082306e7f11324576eb00eb4bda0918991d06a749508bd4fb
+ http://op-return.com/f.php?F=3Wef9Wr8V8
+
+tx 397363dcc2aa1a4a449f85f3d8677426e37ca899336e480accc454230d0e2c47
+u=https://cpr.sm/mv02J3l7sy
+
+tx 35b4642a96b2a70f82720d83e45dc9344cb4895e229c4806c81ba827f6daadd2
+78ddd4a2058ae7cef3aacd206798885ea16feb02+oC
+
+tx 57d2c95e5f8b352480b21c64e4a1890ffa106bfbf3bd6ddef2126c7ca9f89eeb
+ http://op-return.com/f.php?F=iD8SY1thqt
+
+tx 13699612cfcf2408c7c844efb86e151c1422fddcf66988209073059a4340d655
+u=https://cpr.sm/RQ4WlINnTg0Q
+
+tx b3d2e72deb04d802e3526fccc65fb9052a4ff43aff1ede765abacea96015532e
+zASCRIBESPOOLREGISTER
+
+tx 59fdb7c139a592d8136b696af51116757d7dbd53fe8d83f25eab88f41ddf9c68
+FTesting this out.  ---           /_
+
+tx 9b1e8f8a800265d9711b617636b1ec650b0841d174b580ed4c446cec96fe9f23
+_d\KRUGS4ZANFZSAYIKBJ2GK43UFY======
+
+tx fb81a45582bba6af6306d70e3f884fca4cbb3ee61162c3beacf7922f9374073f
+This was a test of the OP_RETURN system.
+
+tx 34c99ccab640f43340070284b52339c0cd87dd507316bce8e9c9319e4b0ce0b1
+++KRUGS4ZANFZSAYIKBJ2GK43UFY======
+
+tx a178df9aa1cdfbf1af4f2bfa96e80f6861b4a4a5333a949c4d21e352e2670562
+Fpmpkaa5b0349c863793964366e6d33
+
+tx 6ea0b180d3ceca3741d05ccb75e52251fbdef71dc95a9f81698b2ad8eaa568c9
+pmpkacad385646687764616c6a3071
+
+tx a62bbd5de039aed39686003f5ab124918cb12b11be3f96c1cfbda9a346aa4e2a
+pmmsgfa20c0a03753034686b756133
+
+tx b3e933dc4aaed5c2905c63d141eb1061f83c9ec198fee7e78852f77adf25892b
+Fpmmsga60e9cdb277757678757a676b
+
+tx 1c376015e132a059b8946925702531d60b4646b1d02cfb2c67e19658426a758c
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx 9e4da2b87ee0a6e815b63d1ca63ba33815d20ae214121affc30504147a9d8039
+ http://op-return.com/f.php?F=iD8SY1thqt
+
+tx e3323f334c3897994519f4b5c5a302a03a65130b5fa5f459f03e322369c565ae
+ http://op-return.com/f.php?F=iD8SY1thqt
+
+tx ee7c2d45611c5be7fa9a8519d0359c83847b04ad39b0826d1848b18798a9a7b6
+apmpka95dbb6c8b6b6761647667766d
+
+tx e3ef4159ebae4ba0bf7b6148ad3fd183e916a9ff30da27f2a4b1fe662e32b344
+pmmsg4e5f35614377462716968336d
+
+tx d65fe9172cf54a7045ee9bbe15f2d2a667849eddcdeb3e5e72f1cb11b0de15ee
++u=https://cpr.sm/gRjEEOAwP-$9
+
+tx cb682b534e8204a749e0920bdfe613b84ef8e4b01585347b08ed09e9e4be1cb1
+potmo: Limo King!!!!
+
+tx 8cd6304e31db2b74efb00cf99246aaaddfb4b767a8b37c8a0c2d88c1b0504335
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx 1a10812cfa39670b2f00f2ead1618acc073e45a3e9f119c5b8d96af36ad97bd1
+apmmsg883b8d8fa78336e7062657a62
+
+tx 5c83f8ad0b4b9b01e98580987e52fb92eafd8d0b9df35bc518dfbd99f77aea24
+apmmsgde8b2955a3974663473737a66
+
+tx b4cf2cf43708b6b01259f8654832c29cfff12dbc0fb1fea4086b420c459a3fc5
+apmmsg8d625457f6366307164717975
+
+tx 0913d8125167f728cec1b95d27e6fc62a7a45af35eecfefd3b5000e367ee1468
+         _ _            _       
+        (_) |          (_)      
+ _______ _| |_ ___ ___  _ _ __  
+|_  / _ \ | __/ __/ _ \| | '_ \ 
+ / /  __/ | || (_| (_) | | | | |
+/___\___|_|\__\___\___/|_|_| |_|
+http://zeit-coin.net
+
+tx 6a6064f2f8444edf066dda12f8e05e70b864441ea8b0845d8f8b99706d902723
+apmblge71e3e8c03971767975676135
+
+tx 482d14f94d5fd5dee0aec109d52841e35868d085d6636a30022b335bd66284d5
+apmblg7c46a29837662736372667070
+
+tx 1df13e6d37293f01f3ba0351b6639100c1494206dc508a3180a6028afd6d2df9
+ http://op-return.com/f.php?F=Rz31XiHaE 
+
+tx 25789e0140240239ec5fc22d5ffef092e71fd9274252afcf9f1ca4fdbd84353c
+GP http://op-return.com/f.php?F=ZwQtMZ3Tew
+
+tx 88c0e730f3d76404f88836d12cbdb667611da89887dccb1439a88ee95c67e581
+zASCRIBESPOOLREGISTER
+
+tx 88b0e6b5ba3c8a47d427d637eaaee335546ff336bf106aa05208fdb22443031a
+zASCRIBESPOOLREPLENISH
+
+tx cbe36900ab5b4e5fcb3294c41980831e693ff5fd9c4ff7b293e6474828132c88
+ http://op-return.com/f.php?F=
+
+tx 210a323010cbe859688d4f7753001c43648628f1ef3a863779aeec2059d9d40d
+ http://op-return.com/f.php?F=
+
+tx c323f4b856bb10adf6da747e3f43a8a7d3d840a35776c9bd18ad8adf67a1446c
+zASCRIBESPOOLREGISTER
+
+tx 4d884a59eed56683c142ebe374a46213c51997f38fbb2bee6194a417ff52d419
+zASCRIBESPOOLREGISTER
+
+tx bf06b0814ed3966c6569298ffbf80821d8dab97b48fa3855ffd3b972b05d4153
+! http://op-return.com/f.php?F=mBvdzHyc2c
+
+tx bc28fa4d3fab2dccbcc2ced58b85c7df51d8e6244a7dc17be66362f8d6ca60b3
+ http://op-return.com/f.php?F=UzAGmQHzhD
+
+tx 3d11522217b2f4d86da53e503ae1f1d2be2cecc8885bdb88b15930efbe0bef08
+;9eu=https://cpr.sm/Pds4GiV4d1
+
+tx e17860246143fc9197176ff2a809aa3ac665e6b49943a2ee46c87ae55bfe4b75
+zASCRIBESPOOLREGISTER
+
+tx 0c9e15f342caa48d567451ad68f98ba392c722bf21407e892893bfd6663f8109
+pmmsgeb2f51d296a6a666e7463766d
+
+tx 5882dac7546a37ad712fa41d64649c0363fe2f1cff9ffd8aa2276196a1300a34
+blockchain-db.com   Embed anything on the blockchain - the most redundant form of data storage. Timestamp a document, express your love, leave a mark, store encrypted files, and much more. http://blockchain-db.com
+
+tx 06054ecdb5f393b45b286cb788a6b4d486bade5dec962931878537ecb1e93d7e
+u=https://cpr.sm/jvsOVq9Vm3
+
+tx 56edb4fd396a225da7c9c8d52b434f28c8272eb7dc5e988f28f8ccc73c78831e
+"Never compromise. Not even in the face of Armageddon" - Anonymous
+
+tx 5122ab03b800f186593627173459eb798dbd6a5c3912883802cabe54fcc92679
+The State is God   
+bravetheworld.com  
+The State is a collection of ideas propagated and implemented not by force, but as a result of our compliance.
+Human compliance occurs naturally, and like many natural resources, it can be cultivated and grown. So here we are, kept in a feedback loop of watchful prevention.
+The worship of what ifs, the assumption of better judgement, the age old tool of good intentions, the ageless logic of for the greater good. The humble attitude of "we do what we must because we can."
+Passive protocols, conveyrbelt screenings, systematic surveillance, background checks, foreground balances, areal scans, ground drills, the security of security! 
+
+tx 27d8a1f873be7560beaffa67cb94565c231bfc08f7a8bd80b0c6ebb83e5f5225
+zASCRIBESPOOLREGISTER
+
+tx ff617b232172989b5051c0a397b9ed80802eb56babb52af3d8d8eca4c6d50830
+zASCRIBESPOOLREGISTER
+
+tx 8ef79998d237ccc857558a03eb0018143d7d4b4302eb4a0f06875241cc3e7df0
+zASCRIBESPOOLREGISTER
+
+tx 8c1525ba2cce469e642814ad75471718ce8242281e629bceb1fc52319e832666
+u=https://cpr.sm/WRcq04_iGx
+
+tx 447968b11e8e464a4acaea39d42a5cdb3064eb0021222427f94a9434e43f7224
+zASCRIBESPOOLREGISTER
+
+tx d81e1f81c918e8a4ea9e2db9bea750fd3293edc3e5d62877503e836cc38c07b6
+zASCRIBESPOOLREGISTER
+
+tx 090089d84b5329d602c03f1c72049042b9f4619e0a48652c095066452f7026cd
+zASCRIBESPOOLREGISTER
+
+tx 31401917ef65f09ab56e8bc8d4973fc4e0c7fd5c96926a59a44b6fb9fb654b77
+ http://op-return.com/f.php?F=
+
+tx 5b3b8cf17464b17a45b398c41b71b339ba147e82a328efbc715081e9c1d83894
+zASCRIBESPOOLREGISTER
+
+tx d71d00ced955b22445e164e2fee42286a944416a235cdb9a56fc07b861548e1d
+zASCRIBESPOOLREGISTER
+
+tx daea05859cb29d9f41591a0b20a2644a5c6aa7decc41a704d3dfdcff6ba57d76
+zASCRIBESPOOLREGISTER
+
+tx 5fc46b1ca8024fe3d6045557b179c43db18e18aab4ca31453bc14ae47070b092
+zASCRIBESPOOLREGISTER
+
+tx 18c37dbb5f9fa0bf161bd06f2e8fd084a9bd6337746fa5c14f0bd38a1795883e
+zASCRIBESPOOLREGISTER
+
+tx d2609464a884ca727db036b50e6fd3fbbdf32abf4b00ff3101f37781f310c366
+bYou're a star!!! :)
+
+tx 2ae67a9ec6bc58431fb27846346f9731a595002e57038dcb77a29c87db5bc21f
+u=https://cpr.sm/8bTlvVumu0G
+
+tx c5d3da7a340760c9d22f9182003753f78168a8a5ee8a15bbc48bcc7cecfc3ea3
+u=https://cpr.sm/V_RxiJX4KC
+
+tx 0fe5c7ff2e0c78184745341e219d1d505b11c7e640b01cb87cc98e475e246ba9
+u=https://cpr.sm/pjF5X7Oeph}

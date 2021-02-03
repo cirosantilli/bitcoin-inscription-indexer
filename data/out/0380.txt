@@ -1,0 +1,2471 @@
+tx 3984663047e7f7ba8850e5d7363b22d1def86558d90bf01d0be67504e434e5d7
+id;laurentlouvrier.id
+
+tx e7f9b7f07a56e5e49259eb2a65cfea0dba77de5b3db2377e8110432a548e7a6c
+id;camerondaigle.idn
+
+tx 0e08e8646d7f70db7ee77979cb49ce1ec78a2f862cfce3fd1a3ec297e4dc8b91
+id;venkyvemparala.idH
+
+tx 05160680d0a0f165cc1d49d0f3f003b8c2fa5e694196b54d485125b69f7225ca
+id;kaushikvemparala.id
+
+tx 6eb59fb29e9476dafb8cb7659a7cf6cf125b4d1f494c6ca5c3c22c24582d9d4f
+id;karthikvemparala.id7
+
+tx 40db5a10e081baf27542cbca0e8cf50c7c9217fc88c5606ce385545a54caed6e
+id;terrywalsworth.id4}N
+
+tx 400b4753bc1135d56f940e76b6307149ceb94925e65a4abf902be85e3160a596
+id;russellperkins.id
+
+tx 804c1188ec824dd8546bea1a74832a5299e1a0c4e9287cfd894e0efb841dec1a
+id;williamsantiago.ide!
+
+tx 8fc6de97068f0808301f0ca081b934ca20fd0da3ae65f499164a850328a599bb
+u=http%3A%2F%2Fboop.boop
+
+tx e4a65467917dcc457c63475b41412b921f427c79f01058eade324956b2759e88
+u=http%3A%2F%2Fboop.boop
+
+tx 6a827b777bf3edf1dc4b3973c693bd36ec8a62c88041edb00acb16ae318aaf26
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx a8e7d72bfa19a627c677c0a618e0c7391875b41bd36d8453e7c4433a26424071
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx 39a8cba15d3108a4e9861ebf480893a1b4b3d4813d1ab6aff25cab877349d0e6
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx 56ccb3de196e4ff3131c6a98f6ddb16272c21372a17a96751516bb1610573268
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx 0fe0a33b1898ef3c14d9e0894291ae28738804273d81e5f390426de076fc6bc7
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx 44347b1d8baeb8984072ab4caa3e6de52d18766aab12601f24040da48b618bee
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx 21e31f50b37a0324b4f684b6994bf4c6ddd4c32e859d90ceb393497699e4f088
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx 9eb7445012257aae26af94e318264efd998f39a596e4639331b4d9e90b39d62f
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx cda6ee4e83d2351d16d434042d1fd0b7a4f3f7dd9df9a828ea54678dfe8f734a
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx 060199039adec0e2e405dfcf5c9f2886de23bae1786325e26334c64b93d05ed2
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx 4ab488aea206fe1bb8b6c08548ff9c9068b1673084e5da38790cf19ce03020ab
+F-
+{"o":"Refund","w":"e9Bxk","e":1}
+
+tx dbeef65a65be4975deb911cf284f4c3caaee967284ad17d8f5b8c7af6261cfb5
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx f770f5c435f74d0d7932545f73a895a0f5b47b0f7cc8d6a1847b0e58312684e8
+eVs{"o":"Refund","w":"Rc9EJ","e":1}
+
+tx 8269ab25d5a3f10b579265da0cae0327bac35813bd116e20b735638d8567476f
+f934b096efb22397c50858d495cc5766377b6810
+
+tx 6cb9bab760588c398fb6764173de765b160518651aef7db7483eb284ff2d409a
+a934b096efb22397c50858d495cc5766377b6810
+
+tx 7c9905a5bb6489ea71dcfceebf8732ae46cc6a25f08eb4804eec656d33e1438a
+b934b096efb22397c50858d495cc5766377b6810
+
+tx 2463c9c8e43cf581ebcd65da083b7329007aff5257b34987f1d4fbb02d48a010
+Pu=http%3A%2F%2Fboop.boop
+
+tx 4b0242060fc7558639185f5396571d2df3af3248002ad3ed3a37fb9ea5ebeabc
+WuQS8yy5BYF_v0sc78t2id
+
+tx 3f5f4ed6ff751008fc111fb255934ca09d5955a10dbd494713da4e295434a8a9
+MYBIQJTJ0B_disby08mc0
+
+tx 629bd93398e7aecc72dc4a726af63cd350eda16aca9e28884aa728c6cd3bb002
+Pjq0POF0baK_665b6exw7p
+
+tx 4ca04ffc71e8839388ae30c29d06d6249ecec8d446adbc0bb6e73aa61046d6fb
+|8a975FEXOs_v5rhd31n1s
+
+tx 602d17d532a7349b7b9d09b8828fd0f381dd97253dbe41364be97a831d136bd9
+a0kmIkfdRd_lslfc7w3zp
+
+tx fa8a3a6302dcaaea9f0a638743555f372bb659942c13c457c4b1843cb7f4cb2d
+b944b096efb22397c50858d495cc5766377b6810
+
+tx e847573f487450ba995dd54ddd8e2e1a68a16a08d3a9f78c616e260088397f90
+b944b096efb22397c50858d495cc5766377b6810
+
+tx 52ee19d6add937509b62c9e9f7b9f9451b1aa6ff79fd95c7fad557e6edc7b4fd
+21mkeEGISJnE_m56gs508i1
+
+tx 5a4fddc8ed9ef5896bbde2591a973c4daf993e90165289f9552a1db0574cef46
+wdawdawdawdawdawdawd
+
+tx 9684d7908354c0b5af5e3ac27005e5a3446d369c40230a6d8ac5c6f269eaee66
+1234561234561234561234561234561
+
+tx 25008679fa367063bde237c03b85277aa2fcb59de6748ab2abb601fff39739cf
+u=http%3A%2F%2Fboop.boop
+
+tx d04c767b63e9d65d4a4b509b7a82ba7830ea78321bced617c91f3916d02a84c7
+-pXk8fHa2Hur_e950qx5uqg
+
+tx 13839ba9f412b79c51c801d8afbbaecd307293db4de7e4d2e77c1384634a13d4
+Pu=http%3A%2F%2Fboop.boop
+
+tx 06cdac6e156a5186e9a03a6d1fc2c824aca474a7de281514b29838e9693870d6
+vftkarStsf8_ttj3qgb381
+
+tx c6fcbd8921980a0c484219c3fb750b87251464b1533d01a2e14af3678c04852e
+GQcEwD6Wbd_ni85ynp5qr
+
+tx e09fca8e1c40e168fe0fc65c876b6b6b4b82eba0e304ea7ee18f558b203b3f03
+KOwf6FRewx_coscceq1k3
+
+tx 1368c866a854a1b006f22932564f3834f6fc6e43c097e8e1f334ae4ce73a2d98
+EW EU Court of Justice: "bitcoin is VAT exempt"
+
+tx 0108b614751d3381e633298dd71473fc9ca591d57909026e7e35b7e09caf87e0
+uQ35z5g4iz_o6iqcxcxi8
+
+tx 1db8b4ab1bda0ae7c45868943c91db1f5970b9e1364060f33fbf70a85b7537a0
+u=http%3A%2F%2Fboop.boop
+
+tx f0f9bd2121f8f7225e3df965ec30792fdf1e44912ede912d74a9fa54861caf11
+EW Forza Fiorentina. Juve Merda
+
+tx 8ca5134ac4b21fb3783889fe770a93ca913c3d48e74053b287c12bda71b91e91
+u=http%3A%2F%2Fboop.boop
+
+tx 4e90f2526ee2f521cba49cf98417a794a0041e0e3105100402c68a8c028d543e
+a9sXfqSjPK_pym64mquaf
+
+tx f2aa82be29055041c2e2b0579de4be2c23b82fe53171c5f553410ac2e8dc33c9
+isehbwxKWB_tj7r527np4
+
+tx a83829725e435c3708f7c918a246e70a9f32596890c6b7dcfcbc03513e0897be
+vRwb9323uO_bxjm7ijgmq
+
+tx c1beeb0456dfd5dea64a0f09a9abc39daf5ceb0b7ab2f09bcfa6700e2d836f93
+QfjqNegvwt_n5ylca4u6d
+
+tx 7b12c055e965ac2ff3b1c4faf2ce831050353b7a36e838387d4bcb31dd8e0631
+RgIbu4zFaGVh_wf7oc8a8mt
+
+tx d40b0ec6e3f34790c4a3fd0e534a73a4bbdacb7f3c56f7741d05d0b4bf107415
+)dtpeWqrFjzV_vjwdepv29a
+
+tx 167b6ad489d3deecff7933e1ea77be87ebcbc54300b2ddafb68cd6e405937008
+IifhW48Gqb_lumrnsj8ki
+
+tx 8381be92677ca17673994bd5a97dee7521f43d912d033400b919850ca3adbed8
+PyEKIBJbXGc_jrnmuctf8f
+
+tx c92485af0d1364c4e65d4886140b642bc30c97067f06913124ebce0324c91e2c
+!u=http%3A%2F%2Fboop.boop
+
+tx 4833f242863bdeea38688aabe9f99a17512f9691318f16e1c358aa1a418e9e11
+EW blockchain allthethings 
+
+tx 90600f2c7bc2e41fcab19dfd3254094b7950e39e02684ee5898a6a9787c8df6a
+N9NrPap1mz_oidsh71j7r
+
+tx f425350715200b75098093c31dc7a0a7403beb60ef61c008d73a79e7c1cc9b09
+vsopdC9qLN_7l7afjraym
+
+tx 6b7697c4fac2326543ecc84316fc136828e75b320f06f3014d7909e878f69afc
+u=http%3A%2F%2Fboop.boop
+
+tx 7d5feca567b3c93c508894ff5876e78eb219f50c7bbcb96c02eb76623eeb1a11
+EW Movimento 5 Stelle !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+tx 7bc82d0418df455c4a92ab19a839bbab87f4b616302a793fdaf64c3a87215339
+eu=https://cpr.sm/rFbZCY0GG-
+
+tx 3e23d04571599233a03a9cc3f1b197686e8ccd465e96b1e9f3ae85448cd3929c
+u=http%3A%2F%2Fboop.boop
+
+tx fe149ee4dd618856a73e0edc168b6138af6f47a2104271a54bf2aa4ee6dfe250
+id;courtneybolton.ids
+
+tx 706ac19e476cddd87ecd74d49dcc80f541ba6ea7b05befe1e8a334d543e81e34
+id;stephensherwin.id
+
+tx edcfa9b770f78e7459b2e4296bdf14c4d61ed14e2dd09e49b80405d1ab5eea40
+id;jacquespernotproust.idLy
+
+tx f00779119306d80a8252554e2dafc0ccf2151dd9694c51bd5a47ee6031656a5c
+id;giovannilocastro.id
+
+tx 5ac847de94ed873c8e2ba7db0358915acc64568dd50e298752d7022ac10cc1de
+u=http%3A%2F%2Fboop.boop
+
+tx 6764b8e570df22fe65505b33d25d3ab1976fcd46692c37f3a175d5dfe34b67f7
+Yesterday was Back to The Future day.
+(I intended to post this on the actual day but forgot).
+
+tx 94a8481de5e59054e3cdb3bbb70d79dbe0f39f2e751e4a5ba40edd81a9680395
+GR---380062-070263---
+
+tx 87fa771240ea9cb8008e85039f34206a0ae56d06dbae6766229813ef508dde76
+{"title":"Memetro App","description":"Me
+
+tx 4d8d49a53214f782382b1e8f553a3d789f7a63d09c5fea319d30c7ba0e3fd91a
+metro App es una plataforma para detecta
+
+tx 53a6766c2682b096dacd9bffc48a5144229fc14e077f66970864ffc52a38fae9
+r controles de revisores en las redes de
+
+tx 0282bd804281048c31803724bdec5a8187f376e5740be319ce6dcaf761fd14b0
+blico de cualquier ciudad
+
+tx b9cf55655f937b06b72d0e42d29ab6654d34fbec4a1b03e6d8d8f0fed464cf8b
+ del planeta. A modo de red social los u
+
+tx 21216195e1e1be97b1b844446fbf0772f632a08e062d25392670d61d7c256f77
+suarios pueden compartir alertas y visua
+
+tx 58e785e833e4d4618ea88bd3be38f19dc416406914b327d95db29d7625777f85
+lizar todos los controles de su ciudad e
+
+tx 6390a2a1f9b4f6c6f6a11b267d201bfd01c4373dbf39aacc25eca4d8c67763a0
+n tiempo real. \r\n","type":"crowdfundin
+
+tx a5f16ad0cd8bb3905c55ba7a1f1ac5f98df2e0dc3a030152faf1ea023280639d
+g","money_need":"18 BTC","address":"1MCn
+
+tx f893a80566a062bd7de38997ff56a2585c9629c365feee7c214d7cd855994aef
+zn3YBjRqSE8m2q8aDSYgxaf5SPYV2X","web_pag
+
+tx bb18b1ea6df5ffb33a7eb91e9a10267de1f68c248affba248d0f2e95161393d1
+e":"http:\/\/www.memetro.net\/app-memetr
+
+tx 158887ff5c9d3961ab17c5aa78b9ed42415dcb6f0505dfd14d460c3f2cd33c46
+L{EW Bitcoin is bad but the blockchain is good
+
+tx 1355ddc016e66191f4a6153b5e44272e46d6aef2e5b26c381f72c08cdf460502
+p	u=http%3A%2F%2Fboop.boop
+
+tx ba72b38a0824f2fce7ae1f16cb0ba19373a8ef7aaaebce912583cbb2094ee9e9
+u=http%3A%2F%2Fboop.boop
+
+tx 5cc072d2fb1996ac109e56f477725d5575c0c647e564224f61840a63366f67fd
+u=http%3A%2F%2Fboop.boop
+
+tx 018d384a9f06e46dbe3e22362b697e0a6046664b1d00bb91e4396e4b0e3e2212
+Hu=http%3A%2F%2Fboop.boop
+
+tx 6bfda9e3cc326e635d6167e8c954c1468ff8379a958889476bd86b6935045c11
+{"title":"bloockgle","description":"Mano
+
+tx bd8284c2b50451b43a2e045734ac19620d62e2d467d8ab81487d56634c2b27c6
+el Nofre the boss de bloockgle.com fue e
+
+tx c01064f6f99a165dc37a80e6dc3a39f76652baa62750560fd96ed2a0feb27dcc
+l creador de la bilbioteca de alejandria
+
+tx 2742bd5fcfbfb96f9fa2db155c04c1c826459c955c294f2cfe4424cf6b7ea726
+.","type":"torrent","address":"1HMeBV8xx
+
+tx 0a2e81f89789ecbfdd998d2df14bd5b3278ac2a7605c6b0e634b278fa32dbdfe
+EPkZG7fjMtFXjveCyB7K8wsZi","torrent_link
+
+tx f8a93a55c8129ff3f3810b60a04f224a4508166588ee3dc71423e8d065fa6f5c
+":"magnet:?xt=urn:btih:285771164D4668C19
+
+tx 73adf599624833d6d90a956be33b653ffa629cf3da78948cd35dfdc753ceebfb
+1A1EAEEC29F4C82168AB25F&dn=VID_20151001_
+
+tx 38a7a3136f4390c8163e0116d75769d75e42eef1ccd0d73eaf4833bed6a071c3
+013852.mp4&tr=udp%3a%2f%2ftracker.openbi
+
+tx 4817a0e4fb11fe71db429ddab1152d14795b02a21cdc91233c0505d77eb5ebde
+ttorrent.com%3a80%2fannounce&tr=udp%3a%2
+
+tx bde1d757b5782e28dc6f9fcf336c1602ea5aad617af5cb59ac8d773ab638ee80
+f%2ftracker.publicbt.com%3a80%2fannounce
+
+tx 5e58c123d0309e9ebb99aad8ba99c4c4e546ccae65dc92847053d1b64c3a5521
+&ws=http%3a%2f%2fremote.utorrent.com%2ft
+
+tx 8743eefe1f4778ffa0f52516aff3fdcabf73ddfcbcb0f30f6a0308e1b2b1c823
+Xalon%2fseed%2f4408064023%2fcontent%2f2"}
+
+tx 01708675f349ade5835786d5dfccd9a7a76c61821fca421470f1018778acbaa5
+Thursday, October/22/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 38db8fc13bd00ed400d45ffee90643a4f6b96482eb4f3571cdc2f55a27157ade
+A(Mike and Kieran Are Rocket Scientists!
+
+tx e3edae69392c5c07def4143ea6c84722f8b397b98ea300dbee82a3a89140799d
+u=http%3A%2F%2Fboop.boop
+
+tx 0360478520684d32852131ac9ecc6aea54e0d06ff144f12b2103d1d72f6cbf6c
+NF:1426 1788|061000052|334005419361|90.00
+
+tx 9859e10decb0558ca3ce2e54e37beb591e5c90f534c2e7a3e78cf4025f4ed887
+NF:1425 1788|061000052|334005419361|90.00
+
+tx bb1ed726653d81247db4ef786a8ef866856b0ddde367e165434347b4a6c1b1ec
+NF:1427 1788|061000052|334005419361|90.00
+
+tx ca0539b595446ea31beca0b885cc1dd25e68e97335aa36d0c2f93d906bfd594c
+u=http%3A%2F%2Fboop.boop
+
+tx 61ce5ba9e6d7d4e89a46ddbaa8138bd47e15837c6dcd1c9b774827d40c942196
+16A3LQMxuoLTxKDD8zLTNAy6PFAZ1F8aqn
+
+tx 59c6791602f33affde8f8fa05e27fb33e50067ba2e25dcad03273d61994ba32a
+1F3sKPRnTd89txsFw8MSwTEgznEDAtStny
+
+tx dab459ce408cb152aca8cff74fe269edf1c7219b59453d57d247074f5e398527
+EW Miners/users's avidity will be higher than the one of a bunch of devs
+
+tx c5f7817dacb3c7c978a6093a00e8c5f9ff79ed1d4e84d7f975e8e34ea7a6bfbf
+u=http%3A%2F%2Fboop.boop
+
+tx 1ebd90dc98f3b497c7fd601d0de159692aa3d8cb7e887bb4b5666c7d91a740bc
+u=http%3A%2F%2Fboop.boop
+
+tx 67c4317bff23490f587fc2372c71468ae5facf1c8b87048d5ad885fe8329e825
+[`u=http%3A%2F%2Fboop.boop
+
+tx fa1ace636e51df55dfd6df91b600e08bf694d4fcaa77bebc59be5796ca4d3fc1
+id;stephensherwin.id
+
+tx 5f6508a66d5c192f8604978804e0188d91a706dc706c3ac7e3f548594cf06157
+id;earnston_gaunt.id
+
+tx ea93e6f3040077fbe8d7de9419855b2bcee6a470c12d06dc1b95762d8996a117
+id;johanvalentini.id
+
+tx 3a707030778364bd2b780064adc8901670255b19e0a580838f04dc135738e30d
+id;samuelmeireles.id
+
+tx b59a58c220a8166918957f2be44cc06705b12e2313906754ca26a13571e8c8b9
+id;mrbongiolo.id7&}Iy
+
+tx 7e2ab20376c77179fd8ace599009a18403c8178c6fdc49e3fbdb87fbafb36f04
+id;francisstamour.id
+
+tx e445431c40531ee6d4103c7071031be05faea733cab8865b74ced4e704bcf868
+id;shaynaschulman.idwA?
+
+tx 597c2938259be65f8790c961068876c395552786d6166e93b6806a1978f695dd
+id;heatherwilliams.id
+
+tx 0e21ca3c52440a6412e1ccc4de6ac994d7bffffcf7901316c98ce36e638f6ee3
+id;themagnificentmrb.id
+
+tx cdef5d8f5fcd637c787e6ed0681a0ebede882834c4675951fa46163eec750500
+id;richardfullmer.id
+Qo
+
+tx a6fdaa5cc1828733dfca02e9f584d414a87dd1ac7f021d31b24e1f59aa4570af
+id;emersonsoares.id%
+
+tx 7c6291c34dd4079b5ee1c75a998d5a37e71690ab2940e4de0db0ead93fe98b25
+	Bu=http%3A%2F%2Fboop.boop
+
+tx 2cf9727795d4346bbead4d41fe1aab4278b701adc534520cc06a45e70fec067f
+id;arianna_calpe.idZ
+
+tx b60e9bf2190754ab46b26940ec08975d61d58ef6393cbb8481eef32da872c8e7
+id;marvinarnold.ideZ
+
+tx 6dac09d25d0a34254512f96ff6740f06aee985128700989afcfdb11e1a6c3e4e
+id;rogerkondrat.id'T
+
+tx e584518be5fc1b0398fa35ae14654181f744351446bc0d58a4c462b4cd2dcec9
+id;jayfuerstenberg.id
+
+tx 1875856e14d02028ecdc35d5b053ffcab556053d8041ac57e25924ab4045959d
+id;cristian_cibils.id{
+
+tx a721584910992e0e8b9b49709e79a7b0a51f3f7690a39d9900bdaa9f006d31c7
+id;garrettjacobson.id
+
+tx 2b2596cc7aa84496e36887848d8d9999b0de92f1fcd351e8f1488fe53a22037d
+id;franciscrimmins.id
+
+tx a0480c4a22392ef20f8ab9f24c03a139252efe6cee0933084c0cf37f811d5261
+ZwS1Ey 5526 15009 16731 15835 15918 250
+
+tx 28fd9950618e58a41fe211ea73106ae48ba16ef09572223524da033706b62cd4
+ u=http%3A%2F%2Fboop.boop
+
+tx 90417b3367669685b427f1ea119483a7c746d9e1ed460f7bbcbc79ecac30e24d
+m?-u=http%3A%2F%2Fboop.boop
+
+tx 93db46b0a1f1976c756e091d0f0f104c225b341d65e17cc06c9c42e29be64828
+sogwnOAkzG_pz382jglbo
+
+tx ea9cf3729ef17a92064a15faba9f487c21e4410b614f9b3605f219bbf12864b4
+T3FyxIeRXBY_8k4ly90hto
+
+tx bcb254b01067219e1a9c3b1979af3d6e8badc5376651c9b360ef8e61aa803ef4
+JJIm5LugVM_2icu3uoy64
+
+tx b8d8a9116b8202955db07c2c13dc5b9db0d6be7a277bf8ea371f809006e532ce
+:njVyhmDPJ4_mb23jttlw6
+
+tx ffdc6c6def90979f7ef41eb73efb4ef2824bcca53db86d48c8985e75e92b779d
+ N4kIxCHe4S_ra8vbql854
+
+tx 328df15eebb9d62b311ea379fe81548cffbf44ef1dd1b45af40c15a487336977
+biTmEIRA76_nzskar4yk7
+
+tx 20381d04d4b2c440068bdab4386b83d7e345810a934cc1bcfcd0447d17ecbfd1
+Ni2nHPMfjO_f3iv56cpko
+
+tx 763c1b9994ce0c7371e3844b8a2ada671be61bdad7cb492586097740bba49d4f
+Lu=http%3A%2F%2Fboop.boop
+
+tx 3e7fa63adc48e580a845fc56263537a6bd9d63ae77875298b47f7f31f935c5d7
+{"o":"Refund","w":"FxNeh","e":1}
+
+tx ffceca3635fd02d98e052fe95678b37a70eb6e6673db838eb229bc81173fd3b1
+ZPbxAc 5529 13981 16731 15835 15918 250
+
+tx 8bb7b4191d41a2e3c11a574a6d20155829aab1e843619d55adc5b4676bb03e43
+ZnVg3N 5529 13981 16731 15835 15918 250
+
+tx 8153bac2a79c9d4688e9097089b65066d86597ae0a49fe6ea37936c91a5fc592
+:P-Vg3NjxqFLoV_pxmr55rlb1
+
+tx 08523cad4caa2f111c2812e504b27b252c98d631bcaf594058297ea405accd87
+u=http%3A%2F%2Fboop.boop
+
+tx 84d69d413077316cf5e1ab2bc69b370d0b8600fcf5c5a3cca2b743f1abcbae93
+hRVKeN0JCG_sfmqjrh7nv
+
+tx 10371319691045796f538b4b4b1f3cdd16e0be9d1d575b3aa1c6b6bfc4188deb
+s_+sssFqu6V1f_42u4wybx3t
+
+tx e80c70683daf69afb929e812388ed1a3bfe198ea1b85708df4e63e9d110819e2
+oxpwuAKnUMH_kmq48rd7dv
+
+tx 17cb4a5e5475fb8e035b73820dfcb5545d9f8de902c62c6d1d39df943fb12d7c
+l7iRqwOGu0_b3oyydfp5z
+
+tx 5333025019e5aab126384a150e3fcc4c2472208978d9324ad76759e92d384967
+2dIONLSMyP_tgcrbw9dey
+
+tx 1fd6f316374d8beb229a5f2d776144140dea41adbf7a3a9d1aecd39ca895276d
+jR2jlSCtRK_lwasubkubz
+
+tx 2d3e2d798935644b60b446b47a98f3c703868d2dcdc01fbe81841c64d4e983e7
+*hM5wYSPi5v_yuvp1de8fw
+
+tx 7108b3ae9ab30142985a2cf46e1b49b015c93ca411fca030a76326baac3a3881
+Wr1tenStWd_o17rvwe3hh
+
+tx a2316c01930c74897f948a5df0490dd444373be852f163bea56d79828e0566bd
+QyPjfWEX7U_d6j4214vph
+
+tx 42ff5938394792ab190013d28d207b509e75cd74ae5f7c2d40f511ffa1b6d23b
+llpgnmkS70_y6jl5cxzyv
+
+tx 4dba13e3782483e4ee0190deb3d936fadbf8ce3208e6681883725b3f8342b2e0
+fsRXhYE3j5_hx60ireefg
+
+tx a06ec308c6ed74f98239ce83b72322362cd388c16ff5481283ba37c31436676f
+oaH6iI1uLVNu_q37fgzahu4
+
+tx f3c90c84777aa037e9ed259901103f0fa60e5c14365a0c30c75663cdfd0363c0
+OcYRGVlSfA_4nps2wt52t
+
+tx 67f33e6ab591cf2dd712689236f8614eeecd3865e6a0d63e22348e7a84c6f312
+1GXmB2hm8e2H2g73qumZamP3Gy3dAY8LEN
+
+tx df53da3e9a1aa85955b62dc24c6cd8c751b88f4a94c5c4998c4d4be5ef3f02d9
+0T7y4n1u47_ukzbassytq
+
+tx ecd85929c8e468d09b2245684aae0f48c7d9bf013de7ac35da702592a3e2ef0a
+K8EpWBW6av_i7f7ei7t8b
+
+tx a884fb4853c8a99f6cf7465cbedb02ede3a17f7c22746dd8331b0494a6fcf1a6
+WBVDdcOFu2_z6tu6v2o03
+
+tx a7aa8634ca3717240913250f4d9216f3cc09651fc41492d662e7673d4d652b04
+qoPHYtcFAYU_57sscpi6x2
+
+tx 04e5dd38f2aec4b67269016c34b765a8456f7c0c3d02ae2bafc7ff104209e46c
+u=http%3A%2F%2Fboop.boop
+
+tx c1176c9c90be396d9cc58452f241051c304bc2e421f19454ed76b809036ab24b
+qu=http%3A%2F%2Fboop.boop
+
+tx d07521a9e6195b41b5438faa2f9e3b87de33d23a629b67a97e43e9985d1991eb
+wPYWhrKDuW_f0sgqy3fdh
+
+tx 540b6a32d7aa0c947d5cf5b877f5690e88de8959a0523b4d8a6c030a0be59f4c
+Qe8MrSHlQa_boehs8lp66
+
+tx 7864682ae94abc693599c62a78d86339a486fcafce38c3e4bfaa205992e57bf7
+8SpSLOy6X6_lztbfgzb56
+
+tx 7d6374b78883b48ee6e0e291e0aea6224a1cd2be1f2e45527f6760ca3fb120f4
+Wfbav4qEPd_yyftgplt63
+
+tx b38e6f7fd0dea88c0cb7be950dea3c137ef606b402ec5d1900d3d0cc95f58bf4
+XAkghzCgtl_9621dmw94o
+
+tx f042f0e1eced8c5de5a3bc01d17ee68d484dfa3a0b45730df6fadbadc0588998
+GRwXoLB8Jf_nxjczvsv76
+
+tx ca679a7882a216801446b13dc685f90ee1c82422ac0033a72fe2536e2b0b98c7
+;xpqDDdKdcY_9nqrrb1yiv
+
+tx a92a19246e5a116d9a89934ef5d51cd6539fd00e0661a4c1fa57d8e58d77d82b
+ftDzigNjF3_0ey99ydnxp
+
+tx 18567d69d8bc5cfa58887d937bb2f9515bbb5469e3162362090fbcf9cca352a7
+jofmsOLgKh_gjf684rbgv
+
+tx 1c722f0d032001954e45ccab6ef0f5d06b43e63183b4f7e82a02370152d6ccd1
+b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9
+
+tx 46a4946a88bc25b75781594b71c92313007d538c0d687e5353b3fd9ea5cada71
+b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9
+
+tx 862b231ae6d85038da7e06a8abf2505e3a7259ff0462652ecd22859cbf91f394
+b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9
+
+tx 98927ea6261ae3393707d29004af6d2669c67a289cdfa0e019ceb1795d61f931
+u=http%3A%2F%2Fboop.boop
+
+tx 9fbc46b91daea7185bcd303360bf2f6022d18b5f3a01bbaee1d3a8506eefcfef
+JWnYX1wx2R_mnug7fhzvl
+
+tx b5c57ab41a1f4ccd6e3dbde2beddac278330eb6a82f2e4ac68d71d3884f76f79
+zu=http%3A%2F%2Fboop.boop
+
+tx 448488f54a68235a626f726aff6cf8e0d766cdc645b97f9cafb904c09e300496
+3---380170-125566---
+
+tx 0005505d1e4499d6237da2cc2dcfff1f6c8ab70d6fa0d3a6342410d7892aea9d
+{"title":"FairCoop","description":"Fair.
+
+tx 7e9d74b31bf979a7b075782407405b47ddc4e899ea3d139d0aabe5b81e599ad9
+coop is an open global cooperative, self
+
+tx 48e1a23ce512174e48a7d229f2341e83ea2c856c0a190ca74a2ff2a739c188d2
+-organized via the Internet and remainin
+
+tx 257699c23fa68dac8aa47bb0a325ddd95186fdeb42ce47c929f03d9f81fe0a07
+g outside nation-state control.\r\n\r\nI
+
+tx 90eabe4bae0288b2bde3ff69917595260f32dfcc6be0b678835a81c2ac223616
+ts aim is to make the transition to a ne
+
+tx 7125b81b18c27a7992e365976004566ddc351561c4a35cf08b25d17f6c961205
+w world by reducing the economic and soc
+
+tx a59219b564a9ed853796584dc3f29dfc87aa046546909ea8aa738ed911d3bdbf
+ial inequalities among human beings as m
+
+tx 825130240fc927018b33b49226f634946322c4ad72158e59f3bfa400116b9e0e
+uch as possible, and at the same time gr
+
+tx bd16b744a6cb97d3770ae9841a56c058a8b03ab004c95b27deb789f679a41f52
+adually contribute to a new global wealt
+
+tx 1101d24fc5c530d92975ea974837dbabff80e35e1fef637cd47dc7bca5d18054
+h, accessible to all humankind as common
+
+tx 42f494a6071c5385f9847097c07c4d23e69422785512b99ffeb1d61ec5048095
+s.\r\n\r\nFair.coop understands that the
+
+tx 3af8c30a8f5a3a2e4072800f69f3e7f1d89d7ba6ef8e856f8d1256748fc7e454
+ transformation to a fairer monetary sys
+
+tx d3da63d35489e01f601e377fda7625885482f79d015f7e17a3e669c56289a759
+tem is a key element. Therefore, Faircoi
+
+tx b9b5d2844c5ebd77af815066625030560c1ec140442b7fab11aeba1cd9106185
+n was proposed as the cryptocurrency upo
+
+tx e6c4dcfb91ad7b5255e45c3b09c5bd503e4bcfa77043c74d40aba9746bc087d6
+n which to base its resource-redistribut
+
+tx 45195bdae706b2b48ddaf63bdc6c1e2fe0a21d38a3daf21a363de9c532285bca
+ion actions and building of a new global
+
+tx 90854bfc6bbacd94edbf93fb2f7393398bba59374ff5f6e0946c1d938e4e01e7
+ economic system.\r\n","type":"web","lin
+
+tx 8377f74b0c6d8d31580034af1d02ce2645d19b2a5c42f890fdf6763e349f91d0
+k":"https:\/\/www.fair.coop"}
+
+tx 46c87eea290452e1e05419f771a3bb731ce2b4095e76e8f4062366291b6e507f
+{"title":"FairCoop","description":"Fair.
+
+tx bcfa5ebd73abb508947cab809e43b6fef322ee45aa7e90492099ca3bc7b85f1d
+coop is an open global cooperative, self
+
+tx 4ad694940365bac5ddcb8bccddfef7c96232b66a179c1a7340bc816f726249ef
+-organized via the Internet and remainin
+
+tx c0828a99b2e7c5609bab738121ebaeed117aecd6f6484b1824f7336d84ea4ae7
+g outside nation-state control.\r\n\r\nI
+
+tx e9acfc294d012d5ef2d062eacdcb7ec8c9d5dc7100dc6de352e0ad3733c90422
+ts aim is to make the transition to a ne
+
+tx bf4661cc36522363d332b9ec516505ff2449788818dffef1096d6cc9bbc357ef
+w world by reducing the economic and soc
+
+tx e5e4aa3b854c56fe7a6bbdfb7a2adab310f649e33b7b99f276d7c0687670053c
+ial inequalities among human beings as m
+
+tx 2306ccb2206c46b61469d4a85e88ec9e7b1621b9a02b0be77e12b60880b0f177
+uch as possible, and at the same time gr
+
+tx 8d8463164be54629e059f54f9145fa9f99bd99f7ad793f9f8cb77e29c63ea21f
+adually contribute to a new global wealt
+
+tx 909714f04e6032c71453ca27f60dbae2ecb2aa8af6059cc2b5c9478e4d1adc72
+h, accessible to all humankind as common
+
+tx 732acce10ba5f3dcf836b91ea6d81d1646e4a41143908d90a123faa123b099b4
+s.\r\n\r\nFair.coop understands that the
+
+tx 9176b1639e4c7a42f148c32500df8a7923abe4560b1b3a79a3b4813d95cbe7dd
+ transformation to a fairer monetary sys
+
+tx b0d1b4ff25a608228fa6fe24df4f07e1e22a5e84440641c77a7a455b4e73fe00
+tem is a key element. Therefore, Faircoi
+
+tx 5519e33143b5aa81cc393a73199e530e60899f1f0c4a927b7c8753ef8152b1d9
+n was proposed as the cryptocurrency upo
+
+tx 122e9280c45bb2f6d8349883c078e72a47f689ecb754e45d82da60afd20f31b4
+n which to base its resource-redistribut
+
+tx 91e618c5b9f7310cddb3e9ad011ed743f47ce956f253ae86e85ae1764539c077
+ion actions and building of a new global
+
+tx fbd175e01751b9805a9b052bf5b184017fe5ca29b6e5dac95eb9e2be6f4ce895
+ economic system.\r\n","type":"web","lin
+
+tx 06f390cbe8db8aa5fc1306be81b5882aef8fc5d946c023e851b07187fd5f7128
+!k":"https:\/\/www.fair.coop"}
+
+tx 89d10afdbfec3a37d5b8b127f3288d5138fedd8476935132ca999e10f502b2c9
+cc1ebeadd57a54751f0d901277ed696c
+
+tx 3f095225681c30d9c8ab26598a172e1db93070bac5c7c1eceae555da38a61417
+u=http%3A%2F%2Fboop.boop
+
+tx 63dd2bb6d6b37f756c3d3172bdb825dd6f7a5765eab99a9476bef040c7529d95
+&UVQruxnm9t_0rp8xi66uy
+
+tx b7e1dcc8cc1891fa42577336d005e1be13f3c79d1f13e8dbadb7fb8e3b1ed387
+_cb1NjmHuue_pniyqp6v76
+
+tx e10c28389127a4b6788a5f24a43268d02df12d32b038d9e5773afda6b343afdf
+EW Come quando fuori piove! 
+
+tx f09d475101d2a3fc3b1d078ae65db29934b2084ab188f379755dc692595dc706
+eu=https://cpr.sm/rFbZCY0GG-
+
+tx 1f0c6c094252e32ca056c8c70a150128fcd06f5d2db7c960916a395b435c1eb1
+http://bsign.net/panel/uploads/562a17696r
+
+tx 964f71650775dea81343e5452ad195b3bdb82df8e6d04c939a54d0e85a83a85d
+cbb9/docs/bf3a5a4600ed014083a68c1c22fd7er
+
+tx cace481436ba89e8b940d518e12e142b348abc35350ed311400e239cdf92d390
+2ad1df158fe31a95a282e5e93033f9a92d83d579r
+
+tx 77fa15742e8797c03a01b84aaff8e4e0675bd843726d679aa6786b203b888f5a
+01d9d6bfab3d8334831d927f12bd5cc745991833r
+
+tx bee3860820e54baa29677d71afb604e3ba571339ec64bad34802139da2dcfa43
+4730d53c0cd14ef9cb/CPJava.pdf
+
+tx 14d23884915c569ebd25ef46e2bb0c77f840828ceb0b80f2763550ce52e5f815
+http://bsign.net/panel/uploads/562a17696
+
+tx e8b965f80fa4d3dd24ce86d90284c809de457c833afd32d5d10811c151038545
+cbb9/ideas/23f080a7a1d8a53205df180fa2310
+
+tx 87f44e5cdce0a5ddeac5c7d04cb600972f08a2407fa94c0d7a0acfcb7f6d13bb
+9e6213d9398bfc4455de3e97717807abaf31c3b0
+
+tx 73633d8f98ec6f89f585265bf9d1ae47b8831cf658da2d1fff9f2337f59607c2
+0c6293618f97fe8ec83bbdfcfe7fedc5f15f2bff
+
+tx 7b9724ee77413a20fd25a73b7cbc55cd68e21432ecbcfb53b62968ab798500d2
+e3276daff5f3a6c6907/hola.txt
+
+tx 211cd28604f23c6b4b19b3a2c028b4e9d80b35a83523a82d6826b6ab8b33300a
+Bitcoin na FGV      ;
+
+tx 596e5f982a938b446b761ded5c674c661493fe61214436001f4d9032f50400da
+u=http%3A%2F%2Fboop.boop
+
+tx 92437ec95337d20a7853491e0deae15b1a56eef15b747c78182eb377ca5f40aa
+eu=https://cpr.sm/rFbZCY0GG-
+
+tx 05e6b753461b0500461eebd78e90036b3e49643090396ee6bbe30c7e40799403
+u=https://cpr.sm/zC3q1A645cv
+
+tx 402133cdfb50b991ac3f0ac17c13176e63cbaf46d913779b007b85fe200e1303
+u=http%3A%2F%2Fboop.boop
+
+tx b56d04127897afe8dc5b3e3e4d83ca8d54f5b32a23159d71138e3a7b439700d8
+u=http%3A%2F%2Fboop.boop
+
+tx b567bcb63f71b0dd44349fb785dd1ce16f640116f138498c24532c78f57492b9
+u=http%3A%2F%2Fboop.boop
+
+tx 813ba162070ba4fc10ff1616cb707f35b2329b0edfb4f8301727e566b17032b5
+^\u=https://cpr.sm/wh6D8J93bQ
+
+tx c7888d3236827ebc89505240a2e2cc032d1dc06406c67e238c1f0971efbcf460
+id;jakobcederquist.id
+
+tx 93302211856c198316a349fea7d90153e87e4f7392de86c0a5844510baf07b95
+u=http%3A%2F%2Fboop.boop
+
+tx e03feb1f62deb53b0b58fe638470cbffd4cc4b6666053b2b5bb966f510caeee9
+id;amandarichardson.id
+
+tx de6ea3d5a96aee81bdef1ff6062388442e876efbd1ee264651fa174e07f881dd
+id;reneaeberhard.idkk
+
+tx a48deb24da3eea8e9336e3ae60ca162dabb2b75c3310f452858d72679c217d8a
+id;pharmaenterprise.id
+
+tx c131e5abe9f445500e60480ff0ba56a9ee83db3e435d2e8c444f4d2fccf0bac9
+id;luisfaustino.id%V
+
+tx 3d9025498a2da1533455e3584cdd1f861a3ed31084274b23ddd3ca700892aec9
+id;pimenton_de_la_vera_chinata.id
+
+tx f857eb656a775f58daeaa005e108670689bb3333d93b61516984d58e6d004383
+u=http%3A%2F%2Fboop.boop
+
+tx 5178e1ff17f761c0020bc4bde189f718ee476b1b725f923be84dd6068b1c8547
+#u=http%3A%2F%2Fboop.boop
+
+tx a5ce02bbc4e8f64827bcfa9864220ddbf995a7474f9ce9588d12aafd4e06f3d1
+=VtCfBRqP5O7_9jdbbeywey
+
+tx cb2c089cbdb03f72a2e1fd7263729af7bab0e62e785e97c163169567033c4308
+E0wCtVluRCC_97jhfhd9at
+
+tx e9fd95a81ea70a219718e2c1dbde965d2f1fe6a2cac1ad5791d5e1d0db067bc6
+vdroOYAwL5_no4s8o1i2y
+
+tx d312106a9bbad443d00d34054de5fd905636c14ad459534075114a7bf6ed90d6
+2cA2Bh1MwS_3e5ko17zf5
+
+tx c75e846cae7079d3903747f664ebdbc6d4ee4dbf1202c7793c97ba0762a7afdb
+432ParkPlacePaloAltoCA93645
+
+tx f1185bf52a7accab513f634d3c20cf3ba55576866748143574c75b9737b2af0f
+y432BoardwalkPaloAltoCA93645
+
+tx ef9929d042f03cbc1f96ecec1540ad4eb7268789b10a452ca875fb836d938a49
+432BoardwalkPaloAltoCA93645
+
+tx 08bcc17c02978b3692f242f3f6c3a07f3c2f19f7847cab57f54193ecb86d4862
+Friday, October/23/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 84082ce0f72a7ab56345d897a57f1901be85d94ee95b7c39f697a00dd9497996
+h#u=http%3A%2F%2Fboop.boop
+
+tx 5ff93780785da6504ddad388f5f1467e224384c9522ac6b4e34dbcccc2ef483f
+u=http%3A%2F%2Fboop.boop
+
+tx 8204d7c8fd735502fb6e6dccec36579ccaa18e99342f6be43d62b2d0bcdd7cc8
+u=http%3A%2F%2Fboop.boop
+
+tx 317718c78f47a790c8fbd9678a958006ce1d3dab362acefaaa5492cba2b7c4da
+EW Apparently opposite or contrary forces are actually complementary
+
+tx d5287aeb2affcd9b47a133ccd403f9c5ce9c50562c8a4e2a840b10e2cb4c2906
+u=http%3A%2F%2Fboop.boop
+
+tx 51a71014748abf9252d4fbddd684df3f1642921a52454fe57507d16588b4a4ac
+u=http%3A%2F%2Fboop.boop
+
+tx 2f0b9f686a232ad9fb15fe24f65c04c82dd97c0e32903a98e6a8eaa316ed45d1
+\u=http%3A%2F%2Fboop.boop
+
+tx 8c16912297c3733194098acc010034793159dd51756b94bd0f8971f3e330c4b7
+SJbuSiAy5i_e6jymcuo2f
+
+tx 970b307ca9a50fd73d11aa85cb6d43a972b234ef32c17f1dc3351fe171d16658
+YFx94P0rSA6_cad464psol
+
+tx 50aacd1af5d60eca4e1e0f006488b8e2040357aeda97e0e7adba339700e8f2d3
+VSQSKwnXgj_2w8jy83qc3
+
+tx c21d0e043cfcd5df4e49415a28b95fc150a5e689e1f611960dbdc449ab7ddcd5
+K1#5z7HcyTmxqzMg+WVeZZoXgg==
+
+tx 8ae8c541f06385122e63b07971eb06b178fcbec1d1690b38605dc30cc0b85857
+QsWwHFYvT9MB_zqvmw3ya0a
+
+tx e074bc780c2a3028f5d09dfe49b1d6df1b07c31d3177267ed2974a07ce41d09e
+IIXvQBl3JKL_yll7aj11aq
+
+tx 48037e58067f0e6b792b544a2ea26d566a82e60065a51a1aff3450105e5908b0
+OFu=http%3A%2F%2Fboop.boop
+
+tx 29873cf9627050971c23e63c025ed0566c89f364a194fcb13c0516df35572c89
+u=http%3A%2F%2Fboop.boop
+
+tx 2ed86eef06295c2cec59e394be9ef34af47c831c1fca69850823a8277e438eea
+I think I will embed data
+
+tx 7918be9f4d84ef6ca7896831c41fb8091a74c9734b706c4123bba6138cc41438
+ZtA7Lk 5526 15009 15795 5362 9361 250
+
+tx 4c6ad5af8322f274d4e9d4b62a1d7debc8aa4477c397b60cbb6b378cf8b55c03
+u=http%3A%2F%2Fboop.boop
+
+tx 0454f0794af80d65c8cb6544d0fba6963eb754e8526d9c2106a855c2b3e43118
+4u=http%3A%2F%2Fboop.boop
+
+tx 5f2590b3648ca734f5a3586980f55f1f7e3e9f90334d1d0caee819d833193e95
+gcjTijK2IQ_onxfdfpq9q
+
+tx ceb0858359c7dafca03de652c76a619d327661761bfb12e9e8d25f1f52e25019
+WPz10A7cKI_42o7jkngq4
+
+tx 2f3c530af101aefee3f6a771be8020513cded8cb3d0050c99d3a238a5118dc48
+id;michaelwhitaker.idQ
+
+tx 1e95ff2646171603825ec436060de56b4627b6b3c8f1dac6b17bb14718848693
+id;laurentpuechmaille.idr
+
+tx f0aaab275587808cb3f8640e873f7901f6fcaef28d79d41dbdeaf54c253fa19f
+id;eliothorowitz.idH~
+
+tx d2f3394fbbb74c37ce904ef8fbb6378b7c9bf879a3de539afc86f39f2b581d73
+id;jamesthornton.id9
+
+tx 65c7c62a3b6d0c7c7acf0ba9e84a06b986c1055d2631c37e0df9e2a2088b1a61
+id;futuretelematics.id}
+
+tx 08083c59876f98636b872b749b6844f1842a98574c2f85e0260eb5e9730083f7
+id;nikosfilippakis.id&
+
+tx 206045b95bfc928c879f5bae04d156667ac886bebbec3f102a89e49cbed1c680
+id;chouseknecht.id|_$\K~
+
+tx f4c66c78ee76d866bc388726baf4804768e27ac4eaf24a16ebd067381dba6f0f
+id;jonathan_ellis.id
+
+tx e50fe16c887ea88161eee7128d0ed96bbf2ca492af0e5a30315a7bc5dbd2651b
+id;catherine_white_wong.id
+
+tx 12f6815dad828cbb223dcf5a3982aa54f18b1a553b3a2d7169cb836b3d6964c9
+id;anuradhaedirisuriya.id*
+
+tx f5649ea2e1978d928f415116c647fcb0d62151d82292fb55f12effd25f007e56
+id;karthicprasadkosgi.id"a
+
+tx c46228d623e4d5ced2edbb65add0baa0f989812a3d8457b36968dec5be841137
+id;rubenverborgh.idu
+
+tx 9aab83ecd5fbe06d337d2d678e9c1c01700aa741d84d01145862e15658dfecf1
+id;gabefasolo.idgbi'
+
+tx 6ce99bd126fc90104042ce3a31e76873118644d0426e8cc3004fd549aa084dcc
+id;rolandcornelissen.id
+
+tx d7bd5bf1ea9a086d324fc9baf11d8f768b81ab9fa4a6648330faae6049bfb57f
+id;andreasfragner.idxh
+
+tx 2a85741819b5fe5873575abc180a1076472ad71199c905926b8f76706b025cea
+id;blockstackorg.idmJd
+
+tx cff309825adc994c0a844dd2309f63496640ecce9307148ac5dc5532668590aa
+id;marcdeleenheer.idI
+
+tx 71dfecf3054fef859556bbf736194b6221c2eac48cc54a67a1f81bde2b530e8b
+id;masscreation.id}(?D
+
+tx 3d81bb4c99c037d00592a1a3c0fabf21c9c6624800c8311ae90017f1bd4bf062
+id;jonathonfletcher.id
+
+tx de78701d4914ba972e7d568242984d71f5c83e7ac4b0eba5c797711cdfc64234
+id;fabiocerqueira.id
+
+tx ca98185fb443072476bc7cd9d7b890990c2e51d2faa5c1455d3a7f8e312566d8
+id;ulisses_xavier.id
+
+tx 973e0fda44b4cacc832c96173fd595be6a0a9822d9529e1601050bf23f4c4e7e
+id;ulissesalmeida.id
+
+tx 615cd06616fedd854357ba6b7ecd45d9d564d6729f61f3d2c3a203d85b021203
+eOYLavJf8y_l48n6b6q3m
+
+tx b2922800565c4f30ce9665c49bddffba57021267d5921210f9f2044d05c3861e
+MQtpzFA864_x10v7g1x4h
+
+tx 9db8ab31017006daeaf0167d716bcfe61f8b6896e61da64b26f782078903f18a
+rHrGPEKYFD_028rxa35q9
+
+tx 707bdca3e75529ebd7878d0a7f36e7f0af0efcb5456c242c30fef551b31ac1eb
+Xv4KRf6Ch6_3amuxkf8lo
+
+tx 0f2e9cf69dc00775c804b13428ee8d2e42ad63470d217cbf088089d5d59a1666
+7S1S4zoC0FP_ve7txwb45t
+
+tx 25b93ddb0c21f9367e1aa4256088385012343a3498253b8e8f9f9ae5eaeed5f9
+1wex8DLecM_v69qhjvgg4
+
+tx b4c550d0cfde946659fed1323d91f510c641a504e9ba4a403d6bd9e1f0b82e13
+0Rbzf6DFWoB_8782pxvq4p
+
+tx 1bff5626d92faa54b4ad637f67b07271aa2b217ab0ed899acbb645cd0f5b9da2
+uU5tBsoE5G_9jqtx1xnpa
+
+tx d998e3e15cde62c7765a33e6aa673c7e3df257af18e1c7091b978275934529c4
+87cWVvTbQO_d37qlgjok1
+
+tx 5221409de7874123632c40d364972b31765c4ce7beb10aa729f7129f4f665fb3
+BbQpAFCNmN_s3n6q9hezi
+
+tx 70029666fce7e43fc432f2312499c654843fcd9deacc00ca39116de0f81fe46a
+iCWNulhBxt_n29v4o9evt
+
+tx 4abc611cb42253d84502d7f65a5382b17e7c0d5ce4eab69d12529cc47055ff33
+NkM6oycEWq_3747hx7dq1
+
+tx a9b7c7affd82ad0ccafd82f15be061c772891773b67e23534a8c111f2d8abda3
+73sUNxGJDF_ff1jbho2ky
+
+tx c5286676e55d7daea9ae39102b975acb16f1113604c858e10de4b54d5c463a6d
+iu=http%3A%2F%2Fboop.boop
+
+tx 3e8de8334c2cc7a2231d439b98cb4ac09ee5df5718578303fdaf56c49d8f2627
+Uu=http%3A%2F%2Fboop.boop
+
+tx caee9a3ce181cc686500f16ce0e53d922ea7c5dc14d3d22551055d6c4ba8730a
+u=http%3A%2F%2Fboop.boop
+
+tx aa8050cf544976c9d603dcd151e8df4f12b6cf63e099bd3ca9abfb620be0e9a3
+{"o":"Refund","w":"dqLaP","e":1}
+
+tx ad688a6af2f556c0de374b9f455fa1856c1211ac62922153b58e1d87a48d1302
+Refund for SideStat #qZRhA
+
+tx 404a70e36ef63a298aa2a60d6a977e5055a9b8add63656084497679ad2012570
+Refund for SideStat #qZRhA
+
+tx e26aa0374ef0154368d24ef523773f77fa9c136e8558bd7f10378d7d4efda353
+Refund for SideStat #qZRhA
+
+tx f3ef70457855fee60493fb11a830737728f3829e4ae1cc5d80d120930f53ffab
+{"o":"Refund","w":"dqLaP","e":1}
+
+tx b273cafbbc5a5bf958edf0f61aa199d24772de2405a5d9b75a96b5728a8a66d0
+{"o":"Refund","w":"V48jj","e":1}
+
+tx 3e607d5fa03d7b091738e1b94e1b85290306b42b5f10aa4c3751ed404cf764b7
+Refund for SideStat #h51yT
+
+tx 853959fea1c51c9fc5830414daf0b873a3aec3b5ddfb1339b4c73191651c981a
+Refund for SideStat #h51yT
+
+tx dddce20da471edb29abecb48cab518e71809629e113df7cca6c36720d868db49
+Refund for SideStat #h51yT
+
+tx 378d8858cef13558f999d05da0109b53938a3b2823e9d875933be878e17af2ea
+Refund for SideStat #h51yT
+
+tx 6d40622ae8d1e6b5bb70ae032df18650748f88d9cd1fac30a35fecbf8d0bc79f
+{"winnerPaid": true }
+
+tx f7ce56dcc906c7fb346636772f244472d6d2638d1afbbaa261862f772b1a7d66
+ZGinpF 5209 15009 15795 5362 9704 250
+
+tx cc2ceee874880a3ea6922d4adc6b24dbe347833a5502abb75f411486b6cf33b0
+ZuX54U 5529 13981 16731 5362 9361 250
+
+tx ddd344e533c2a872660203dacff64a3737851f604c3f106dbcbb9771dcc25b73
+Zh51yT 13994 15009 15795 14901 9361 250
+
+tx 593656f981da99dd5a1759387b62a2c6b4ad8bc84f794df6afc4296537f8de52
+Zh51yT 13994 15009 15795 14901 9361 250
+
+tx 949c9caf39c46c3b0326e9666fdf8e4857a83ed144834f41b34205845389b679
+ZGinpF 5529 13981 16731 15835 15918 250
+
+tx 28692b2d11838bf3e836ed88f7de476a56ac298108063aea8c03dce5d4dec25e
+ZqZRhA 5529 13981 16731 15835 15918 250
+
+tx ed30954fdbf81d55b719e751a7b74da2740338b169dc9822f84228648dec2b80
+EW Khaled Kerfai is the dev of COINTELLECT.COM Passport n. 03918172
+
+tx 2fcbc3764a8800ac98a855c032dd5fcd2591401c94a281ecff856f4a4812867a
+u=http%3A%2F%2Fboop.boop
+
+tx cf7269e079539b26c41d1e4e2698ad49d03fa4ca707d7e5cae8d232a35a66f17
+u=http%3A%2F%2Fboop.boop
+
+tx 39575a09913dad2e6146da0db224bcd8191981daef070e8539bb225060c9ba5f
+b l*fqJ0U	hy{193jB2
+
+tx e9bc7bca0440999613cb427a567e43b84eccf23b340438c712ce66e16e9b1ca9
+U@u=http%3A%2F%2Fboop.boop
+
+tx 41a4feaac3198353349b6d2a0dec2b4de7ecb94bc64a846fc65fe5b75500535d
+u=http%3A%2F%2Fboop.boop
+
+tx 1525cbc83aeb170e19d2e15d4bf416fa200c4b07a5df4c90538322d326f15d96
+u=http%3A%2F%2Fboop.boop
+
+tx b8c902ead636564f548e751e3a57ea6e73408e13c13989308b71ebf3a399be85
+u=http%3A%2F%2Fboop.boop
+
+tx 9b918057ca27f07da2a04fe15420dda41a4f7160de296df94cd7c39d966d59ba
+9u=https://bitjohny.com/DigitalAssetDefinitions/BitJohnyS7D
+
+tx ba4728eeedea93c4a6973c82a9c53103b5e8eb08da0a430d3b0e2dffb3db4778
+u=http%3A%2F%2Fboop.boop
+
+tx 6347516f09b14caa434c7db7a02b678e1038e2430eb848d678e117a52cc13a8c
+EW mkv: SPH R -5.25, L -5.00 | CYL -2.75 | AXIS L 178, R 180 #vw
+
+tx 991fde1a507a0d8f8ba8b8acf6d3573b6ec05b773d705f9741b1698ab191f302
+
+u=http%3A%2F%2Fboop.boop
+
+tx acac82af0caf85ac91f158e73208e081725afe1ef90600865a5b2975a2e564be
+id;ulisses_xavier.id
+
+tx eda64efbbd7d39e202855f55223114a38c1065b61cd44ceb3ffc1ea146067336
+id;nickreed123.id(xm>Rp
+
+tx 18cf4645f295fb4275c701f9162d6c1452785065883018594988f280e9cd1330
+id;momoiroshikibu.id
+
+tx 7d14cae2b1428163d1d3333ea871812e508d3435ae743d6e2777c469740b0a99
+id;isabelleaugenstein.id
+
+tx e63db5f9e9a1b13efee4c6bc6fa0c16058c7b7db5e4336c5aba666b0770aabf0
+id;michaelstingl.id\
+
+tx f21326d384861d08b0c0f08d85d07b17eec2c133f2adbba81900107dfff2cf3d
+u=http%3A%2F%2Fboop.boop
+
+tx 7b0cb740b9505bd67d9fc136a92c63946e48d198cc29dec7e5c00c3875da441d
+'u=http%3A%2F%2Fboop.boop
+
+tx 484028808cdd6562102591e23b83fc44484213c1432bc41941888c107f6013e7
+Saturday, October/24/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx a7e180486a6a1a4a800e4fd779fe288cecac9e3bde77979899bdefccb9fef685
+c	u=http%3A%2F%2Fboop.boop
+
+tx 869f16af590e0503f97913ddb5f5b093b17d60b663bb45d0b31770070c9ab17d
+{"o":"Refund","w":"V48jj","e":1}
+
+tx a45210fafa8333c2137bec20a3fc8c4a03f165154a12acf755e24dfd3ada3bff
+{"o":"Refund","w":"BfWbq","e":1}
+
+tx d4714190380fa642b05cf7031571d7e83997a6cb20254b5ffa47459e18de7d92
+{"o":"Refund","w":"BfWbq","e":1}
+
+tx 2ad37c67e81479898eb4173b908a3d27b655874abd8ddcbbed60a2bf96f7c19c
+{"o":"8bUdY","w":"ZbyyT","e":1}
+
+tx 4545bc240851288eaa850d93863cce68da0cc0703490dbafeb43e40e5785236b
+{"o":"Refund","w":"BfWbq","e":1}
+
+tx 0f8c343b17ce86319bd4241db9ef1391f3c59f1538298ffdeee69a941a5f5ea7
+u=https://goo.gl/Dw9a6R
+
+tx 9034cf455722b9897a387cd3b2929c464d0082cbabded21d0909d11c36d7c4fe
+u=https://goo.gl/Dw9a6RD
+
+tx 9db74d27c1d3c9123d66abbc4adcb5ac04d07dc5ce19547ddf3d93a8a12da9d2
+ZiwDM6 5529 12514 16731 14204 15918 250
+
+tx f134c652071fc633daa682149dd7e877825e1e630efcc2e19caab6dbccd2df49
+ZiwDM6 2330 10452 13215 14204 15918 250
+
+tx 90cce865ece7f88d5b90b82d4710e52b1638c0945a392ee6cf5423b4905585cf
+ZiwDM6 5529 12514 16731 14204 15918 250
+
+tx a46808a58b0747b7362b6aba5febdff8a0d4203d78315e052839fb631d0b3252
+ZZUjpC 5529 13981 16731 15835 15918 250
+
+tx f45f67fd1317d61d1aa1db6d891c337fe8372e4e31aed8a8c67843f21786cf4b
+EW Latest protip.is commit d10af837b6b85d07635ba14b1b3b74780388ef39
+
+tx 8d6d080bb38455e5d41c5842cd62d36c936306eeba38ba97d13effbff3003406
+u=http%3A%2F%2Fboop.boop
+
+tx b9d08015e0c90c0269abc0f44fbd65e5081df313da8aa63086510d5af467f1d0
+eu=http%3A%2F%2Fboop.boop
+
+tx 93f4cf8500da7723b7fb3b80e678f8b202dfe4303ef822ae1f58d1b589edf49b
+12V58TzbLkpHAxPktrERW5Aj8uJqNLDpB7
+
+tx 91c94ebcdc9c7e61d1fcde03403c1d7661bad748e0d14d2a4099cc828468ca46
+12V58TzbLkpHAxPktrERW5Aj8uJqNLDpB7
+
+tx 3282dd45e205e62ca8a7a7d22a357f890357670afcb0fe939d276fca22927f60
+3Qyd7wdDjXUA7i9XdJTmbwdFTaGT4qnHJy
+
+tx a3137230df665a1a1b5616db14b49528a67845e71145e9476b3a71b1cc3cc1b6
+12V58TzbLkpHAxPktrERW5Aj8uJqNLDpB7
+
+tx 829499ad679717ba224a67df543a7533de7855b8da7d16c42f6c73f7ca81707f
+EW Democracy is the revenge of the idiots, luckily it will not last long.
+
+tx 1d74eefb6f4f417fe6eb0bbfdb8f6cd1e3896dbfa572ffa9c8c86e9d96762295
+u=http%3A%2F%2Fboop.boop
+
+tx 33b995232909c3120a5bf11892e582c5be5bf01a21a233de7ea78f8c1cff4783
+|u=http%3A%2F%2Fboop.boop
+
+tx 14b5b5773e2ba93372deb3f373d645030bcebfd22526b1d30ed720ecf42e9644
+hJEW Why are there so many idiots that just write "test"? Fuck you!
+
+tx 7374ee26e25649b4aecf4cbc1e608f224d47b748cbb789194b94b7db439d25ac
+{"o":"Refund","w":"VjCkW","e":1}
+
+tx 4c1b1de2ec0ab9afc0c38989e5693e26fefe7963bc59a1da3663700adbd8f120
+Refund for SideStat #t1CYM
+
+tx 6f62053da871a8f669d07498427e206191b78b18b409581b68ccc17fd7421a74
+Zt1CYM 5526 15009 15795 14901 9361 250
+
+tx b01ca4a9220a05566f47b00f3d527d8897f4071a6e9353e0e0fc5d56092cef33
+Z75F3u 5529 13981 16731 15835 15918 250
+
+tx 20c4ced6cf6446444b6df9fe9c9915a517b1f2eb7c058f425717bb3b1001dc0a
+ZFtmz1 5529 13981 16731 15835 15918 250
+
+tx a6f5638408e48a6b66c0f420d85d940b83fa65dc0490d31af0923f390723840f
+ZFtmz1 5529 13981 16731 15835 15918 250
+
+tx 836c1a858ec999c59d1ef8cbb2baf9a670ba3fc92156e42c13dd34af95c997f1
+ZTQpra 13994 13981 10447 15835 15918 250
+
+tx 40555ae002935bdfaa7e5551544a0e74d96be3680a518f6d09d02adecf89af06
+u=http%3A%2F%2Fboop.boop
+
+tx f6d4b9c1a984c4ac4120d9fb96ec859b71f8f7ff717e13ab9148560bb2fcd7fe
+CEW The first step is scamming the users, the next are the investors
+
+tx b6f18704fd2349b4b970c9c10385945b4e2d369db49a741e2f51b626243d6548
+u=http%3A%2F%2Fboop.boop
+
+tx b121bd730c5306ab5c124e4f4759fa31536c15d8fb1e059445e332e90061bca5
+Z2rgf8 5209 12514 13215 5362 9704 474
+
+tx d980620cf7ef599c064412e67a70db750505eb64323d2e9e709daeaf91736eb8
+Z2rgf8 5529 13981 16731 15835 15918 250
+
+tx 24a0b7dfcfbdea41abbba7a6bdbf869f58430741e4523a4526dd6dedd935d350
+vu=https://cpr.sm/DRmc8jmhB6;
+
+tx ad265878cf34e830d068ddbf1e9bae781d76e66801f8f307818b8e5e3fe5acf6
+{"o":"Refund","w":"Tie Game","e":1}
+
+tx 77e59714b68be3e11278c2f9e45531762f24df2e0e622d68f29d93b952650843
+Refund for SideStat #Ftmz1
+
+tx 6577609a98f84e6e8b64680fa1711979f4f8978ca8cf74ebf4e9b61b465769e8
+{"o":"Wdd6N","w":"ywEJX","e":1}
+
+tx 683d41faa7c19ef97b8e001239c7c82aa5ec35d348aefa4c933c31dcc2b3f848
+u=https://goo.gl/iY8go5D
+
+tx c4806722b0a4d9682f3b88863af5203efc94b6cc831d1f7a6a27ff963ce750a2
+Jackpot for SideStat #2rgf8
+
+tx 308618b1526408e6f10553d481e6f0fdd1ea8b39399939ea7cc43e9cac664c27
+Jackpot for SideStat #2rgf8
+
+tx cc91abd999960f82a200494242869646840df13bc7e29718e5a485628d37fec6
+Jackpot for SideStat #2rgf8
+
+tx c9a67a49604526bd410fbe52a561d7159ff48b273d4294edc65466207fe4db4b
+Jackpot for SideStat #5Bc7P
+
+tx 110a5663335ed175192d6d5534f75ac3b1ec15cc80e9cf683de8aaffba54dc8a
+Jackpot for SideStat #5Bc7P
+
+tx 90c0e43b3baec5d1623209a5c71cda1362e825cdcd7eb860456abb48f6a94673
+Jackpot for SideStat #5Bc7P
+
+tx aa6d6661957fff964477558f734b0398402d95ca5ba54e92f37dbac32d383b97
+Z5Bc7P 14876 13981 16731 5362 9361 72
+
+tx 20403ce5e0ed6b6948c51ce74dc559faf41c512b63e78d6d351ec7199dde400d
+Z5Bc7P 2330 12514 13982 4527 15918 250
+
+tx e9fdc644f1ba9012c92ccd79c87dd2d3c53ea11628a41009b941536aa6d3fae3
+Z5Bc7P 2330 12514 13982 4527 15918 250
+
+tx 1accd1ed29ba671196fc5dfa53175e93db12915cb172c31b502e7304a84cfcc3
+u=http%3A%2F%2Fboop.boop
+
+tx abdf532988f4f77ee02a1e5e2fe2ecaa82484bd9bd8e07c5c40d679df2d1f517
+Jackpot for SideStat #5Bc7P
+
+tx bf20179a7d6c988f6ac84e5c3caaf4f999320b2c8c9aa0ed52165905221e38f0
+Jackpot for SideStat #5Bc7P
+
+tx 75afac4844ceee8f56a3d8aefb0254176e0ce8d64814ed029df975c10551f6ab
+Jackpot for SideStat #5Bc7P
+
+tx d7134ead25fdf48166e404f9307d691192a383307fa55b24bdcab15a69a9af87
+]{"winnerPaid": true }
+
+tx bf8ec3562c423c3279cf601f4381b0ded2f6f4815bca7b80575e19fe9f7d0d60
+Jackpot for SideStat #5Bc7P
+
+tx a7d8209ff2d26b300c3fc8532076696382c9c42e91584f43bedd768d615cef58
+ZmoWL3 14876 10452 16737 4527 9361 250
+
+tx e683055c6c4fe71d66fc4de1e2871be9a50b114976a512803456ca4aad1a4eb9
+ZmoWL3 5529 13981 16731 15835 15918 250
+
+tx 08f0abe0a0a91cdad52b9305dcf5b23cb8a9f11d7651ae02b0221467cacb7f50
+Zsu9tI 5529 14005 10447 4527 1097 250
+
+tx d8edccf02e1ec79e5c10f5af16910ca1d81d7be1c8e4d8b18ff12c741cfb3e52
+ZB4Nu7 5529 13981 16731 15835 4333 250
+
+tx 777539366b0b26d420e509ea47b8d2a15660cb4653b8fa123ae61c3b332246ca
+Zsu9tI 5526 15009 15795 5362 1097 250
+
+tx 1b4098f9498ce96f6d9b9701645b23604c1c436921951f1d1c0e10db9e4ca5bd
+ZB4Nu7 13994 13981 16731 5362 11688 250
+
+tx 260bf4c4004b535291364a00c00a67c3baaf81d43722e15a004227bb96cfa04d
+u=http%3A%2F%2Fboop.boop
+
+tx 57c5bfc70909b30f76e8a39f7f4fe830b502124d7a5dce0cf30eb49369bb9815
+3u=http%3A%2F%2Fboop.boop
+
+tx 248bf80006925c8ee565a18710c2954393efaee3d241f8ed39016f9d0df2d230
+'u=http%3A%2F%2Fboop.boop
+
+tx 7edadcf358566364a418fdb459990d2ff2a9fde3b2d3f755106febb5b8c0fb7f
+n5u=http%3A%2F%2Fboop.boop
+
+tx f61d29e10455ac8b9e196dc2e24ae3b42379c6f0a15e7097d465aa061d144198
+{"o":"Ku3sj","w":"Ijc9S","e":1}
+
+tx aa6757705c1394fac45a544f1b04058b45c3a5d7755783697967924b8ba715bb
+{"o":"cAg4S","w":"6eJnh","e":1}
+
+tx d09b383fb135fb3d9472a466840068b603dd51ad2cd557d78db855553f9f76a3
+Jackpot for SideStat #B4Nu7
+
+tx d430753e26cbeda3279c9a1573d87faf65bf272b0022e4c05e0c5e74ebcd5843
+{"winnerPaid": true }
+
+tx 8ed31b5037cab18d3bd25657180820371ef01e146fbe0c8ef8788aec10ccb32e
+]{"o":"o7dZy","w":"oK7IA","e":1}
+
+tx 37e72e01ebded4783df39b40daff96458e6c8c9e368461a66767008cb3a45142
+lu=https://cpr.sm/ij_DI23hZb
+
+tx 2325960f18f0d46c7fb6c36e325b8540a5cbd45197bf67e036449a42e07ce1ca
+u=http%3A%2F%2Fboop.boop
+
+tx 23cf2758a233ff0625bd3bcf67a4bdf396afe7931cc4f6caee9bee9b274c1b62
+Du=http%3A%2F%2Fboop.boop
+
+tx 712d8c8b32b4de7739e42a6af3c0aa657bc9428936af7a71110afbe3e4108c95
+ u=http%3A%2F%2Fboop.boop
+
+tx 6936c3870350789f2f62d3e51209896e5d9cd68c563731b95162d829ecdf038f
+u=http%3A%2F%2Fboop.boop
+
+tx af52a7ff0eaa84ac48639df80ae0e0630b36975bbfbafe3d944e2240e65894b9
+u=http%3A%2F%2Fboop.boop
+
+tx 0d000bba1a78fc0eb04628c8d0e69ec96d61df58ae3ac33824dd7158bc1ca15d
+qK7BNC 2C3D88A1EE9C6E3D7A08034E36A14654B29172EA27CE835509BEDDCD1A7A83F
+
+tx faf66a32a2203c0fd8c7bb0decee488f011890dd9a27d4178fb2cfb8165d5d25
+EW WBP 25 oct 12 2015 Insp: !w
+
+tx e76dbb4ad7a43cc870fb1eb46a81423fd2fa308cfc8f651beebb5ddc87f4f29f
+api.blockcypher.com/v1/btc/main
+
+tx ad98ed2e736d0d36d616b62825233e71aa105503b05131a9b83a62e406767975
+h$u=http%3A%2F%2Fboop.boop
+
+tx 46036556170ad030552add6a12c24ee9a445aefeeadae873c96909f2d24c4b63
+EBW Chiburashka #ftw #internet #sane_ideas #makes_sense #open 
+
+tx fae99fa071e8c188e14c6f78fd63997c1652eeebc7d1c7302a0a6b17dfe0f083
+hEW Fuck off #Lego and every censorship
+
+tx 1bf987c825c4459a007df37e18843303d47c9aebe4d2a323f356ac781cf48d6b
+u=http%3A%2F%2Fboop.boop
+
+tx bc1cb9f2e215e37cde29c2c408c220232cdd87f594a12a93f53dcab81f42b7ef
+u=http%3A%2F%2Fboop.boop
+
+tx dd831dbd3cd27f31b35af8e027fc303ca68437fee9ba6882ab04f2790041da3d
+u=http%3A%2F%2Fboop.boop
+
+tx da51ea653c779264cef46f1b653083c1f244fe7008006db9dd622dd9b56a5c9b
+463JonesAveLasVegasNV89158
+
+tx 199d44803231c56e457ae5ecbe5eceaffadbc4c828266fbe2e3b08f96836dd61
+}#u=https://cpr.sm/Z0MNTHoMLKz
+
+tx 051908d21b49d9608964bc35c1848fee12672adc88c9b20dfb5893445485f5d1
+A3QEW January 3rd, 2009. The world was saved from apocalypse. minajati
+
+tx d856c339d172b8f43ae49fd7f4d48d496872ed5e8f7a2be44922cf5a9d8e21d1
+u=http%3A%2F%2Fboop.boop
+
+tx ce6bf99a850d53ba614df86bdb343b86c7f82e064e88e66b1973158d6b0847fb
+Sunday, October/25/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 731d6292cfc385747b232fc3d61432e57294f13c37f63869da668f40aca9fe71
+ADvEW supercazzola prematurata
+
+tx c9627dbf93908b49a2a7a147472c3f946fc6e24fdf7a9cd3462ccb3dded39343
+ZcWkja 5529 10452 14912 5362 10636 386
+
+tx b8d176eaa7f50306c08e910d1281b16aecff6f049691eb1901d36e4f02d6cb42
+Z4yXGA 14001 11278 11270 15707 14322 1
+
+tx 16d3caee0d4a3943755c6464570a13e4245bae9675c1d9f332b8d193e06ff28b
+Z4yXGA 12483 16803 13934 5362 10636 250
+
+tx 3a07b097affb61637f16fc77d4de0d2608cbf236133ca8dbb5a2b8c7f6f0f1f6
+ZcWkja 12483 16803 14912 15707 10636 250
+
+tx 5e428837d98227047e0973a043bcee226647d0c316d0f4d63fe1c2aa86931721
+'EW 12 dec 2015, BTC reach 386$
+
+tx 6b5bc4da01c0bb04c7d0e7744f9ca3b89093f11e455d11874928a37c231172a2
+9GWu=http%3A%2F%2Fboop.boop
+
+tx 498f88c91e327e696b906ace14777fdd4d6ecd5912f92881d57b0794cbab1f01
+H?K!u=http%3A%2F%2Fboop.boop
+
+tx 65fa3c66a2bf55724ab5a20f90ad8ff15fd27962e53abf9dc005cc31d5fcb9ea
+DEW 12 dec 2015, BTC reach 386$ scaccomatt0
+
+tx ec0e965ce9eb2a61456630168339d17e782d5ac5db723b01329420c600f4cb7e
+u=http%3A%2F%2Fboop.boop
+
+tx 85ace39b13404a90619c891e4b2c3ff4505d787dab9f71095ffc510d28773e50
+EW 0.25g GOLD FREE https://bitgold.com/r/jGFwNe 0.25 FOR REF!! SIGN UP!!
+
+tx 0404aba10d0ca45de7112b4affc5f645a7f75f19152322e6ea2e10a776eb4a4e
+u=http%3A%2F%2Fboop.boop
+
+tx 9ef345275364a4e97fd1972b2d6a433fe25b6991050988d8cd14399d2133fce7
+EW Il cambio shimano ti da una mano
+
+tx 99e1af66355b7006da3267414f6921257274ba2b83ba61cd6ca30ecb437b88ce
+EW Il cambio shimano ti da una mano
+
+tx 19782fe193f50f391561829c0bb5150afc98e978ddea1d5a65f36d2ecca6ce44
+=n/u=http%3A%2F%2Fboop.boop
+
+tx 81a26c18b1c6b5ee40f48cb44ef6ca59e67cd2a7ed58e7242b1d821dc6adb3f7
+{"o":"uuUHd","w":"MFL3X","e":1}
+
+tx d0e386cadd15347a5583f17aa5f35a96484db1cea97d16a2063b4b14069847e3
+Jackpot for SideStat #cWkja
+
+tx 822e3daf9095c97ea1b410411dfbb886fac490747dc9372bd20126ddf66c2f9b
+{"o":"uuUHd","w":"MFL3X","e":1}
+
+tx b46631786fe088b6d362f74b5c4a999ad37db4dacc90ba9c2d89e3e3d87eab69
+Jackpot for SideStat #cWkja
+
+tx d91fa59f87b463254d9dd5c3cf86a3d16df1395bc07ec489c39ca070bd8c020a
+Z{"o":"Vq4sy","w":"PgNYA","e":1}
+
+tx 4dd65ba4ac00bb3e47bcaadce4b197a200bee973bd9c4d2e70cea27255b47811
+Jackpot for SideStat #D3cMB
+
+tx fc366ca273e421e4ce984c735d8bf2ca58539381f2f2f7b01115b8b7aab2b979
+Z{"o":"Vq4sy","w":"PgNYA","e":1}
+
+tx fef3dfb0aaa942a4220e2b8fe11b4a8a3aa4ae314cd1abf32246823894905427
+Jackpot for SideStat #D3cMB
+
+tx 2957e4093b031a0452c4756a62872f8fe7121c9076d130e464bab5fd089f083b
+Z{"o":"Vq4sy","w":"PgNYA","e":1}
+
+tx dbf669c604cc56450d74ff127c142d327fc9d4785f577cb251af9a208d765d51
+Jackpot for SideStat #D3cMB
+
+tx 303d999740baeed9d0984a809e04cd789ff5bd6928e96b8ca90b56ecbe6b32af
+Z{"o":"Vq4sy","w":"PgNYA","e":1}
+
+tx 98a2be0843bd93929bc9f6b2d9bd78ecb7b0abea9af2aab0be75ee313951c0c4
+{"o":"uuUHd","w":"MFL3X","e":1}
+
+tx c869ef18e989e83420911f1b909ce035ada909bef0531bf4a264e7c539a0474f
+{"o":"uuUHd","w":"MFL3X","e":1}
+
+tx 89dd279ac2eca530d0e1f65123055e2cae69342c2928220a551acd9ed2718ca9
+{"o":"ZrVeY","w":"CcY2u","e":1}
+
+tx 0ae3ddb7bebfc6a264165876fd90f08abd7a030ec2c6f16b8da2eeeea1e73b64
+Jackpot for SideStat #4yXGA
+
+tx ea42f908d014f30acb125ddd6bb1385a09352d3a0b470d57c02a4a27a207838d
+Jackpot for SideStat #4yXGA
+
+tx c3625c07c52324923865715869cc6b583cb52624f9f0193a4296487879e64bb1
+Jackpot for SideStat #4yXGA
+
+tx b7a74e891c9be0322432c6b063ea2a7dcc17f6fd28becdc81b68a62c18e3932a
+Jackpot for SideStat #4yXGA
+
+tx fd935444af04a1efda3004534cec94ab0ef3c6ffd26e8684b8f773ced57e0cf3
+Jackpot for SideStat #4yXGA
+
+tx 9bec2f59270242eadfbf32a66f2621daccb8e92ba750b32821300ed6c458f64c
+Jackpot for SideStat #4yXGA
+
+tx 3cf57b6e730822c2ee86f3e59b2c55ee7eae456e9d05dd2f3c13138cc5f9b321
+{"winnerPaid": true }
+
+tx 33cc90b335f1b2c582a704f8f7c1f6fb5e756644aae02466ca2a85b27da237e3
+Jackpot for SideStat #4yXGA
+
+tx fe55575384cdd86929ee612b8ef69102db6815d1577aaa66458f6387e12e2ef6
+Jackpot for SideStat #4yXGA
+
+tx ee48a365c47d3fe09624444ae8f01b336b749bc172827e2a4d6179a5389e1242
+{"o":"3TjEb","w":"YSjmu","e":1}
+
+tx 395d3516b4c362b356b57f393e2d35381f614d6df250cab790eee0b77bb1b1ac
+Jackpot for SideStat #Vpy2u
+
+tx 9cb15dd2729f08a99831e31dff0d301382e1f4732e681504a1dc9d5fd466b65d
+{"o":"Refund","w":"Tie Game","e":1}
+
+tx fe9936d0bc1171723b0ac9c24ce1e98a18bd0122627e3ecbbe0a07219a9da1fd
+Refund for SideStat #U8aXB
+
+tx 523b9b946d5a97cd196d65474eb94864bf186d8c7c065d977b51a9b84973f3a5
+Refund for SideStat #U8aXB
+
+tx 8d15cc8a744ccfd18e4632503ee4dcbe4c1ad9fc2b587723f4feca3a23b21833
+{"o":"hu79x","w":"Sn8Z6","e":1}
+
+tx 77bee4d993d73d0b9f0b040a4b9b44400f377699ab013f7a7e65bf84faac699a
+Jackpot for SideStat #KfLpV
+
+tx 767e1214ad7914052d56c8bce3dc4497db4ac36190f3e031c1cb6038c69648e2
+id;gabefasolo.idgbi'
+
+tx 495fc1abda2823b3753f827773d6f533afa439df99a313eee627b83b50062eac
+id;jamesthornton.id9
+
+tx a29e57e1c0434d74da3762ce2175f226b6480489d9d6683420b14e3b054d1ae9
+ZD3cMB 12483 10452 13215 9761 9361 406
+
+tx 295855b0459489d62654f87f210ca3052d4bb04f643e136b325d3b7ab223f7db
+ZVpy2u 14001 12497 14912 15707 4333 250
+
+tx b19cda13f66797a41c5abfc8f5c677890e7159f094306c337fbb3feff1f672b8
+ZKfLpV 12483 16803 14912 5362 14322 250
+
+tx cf0d9badc01ba4a21b3f9741a9a1a96d85407de7a10a6bafe16d3042cf871d20
+ZU8aXB 14001 11278 14053 16143 9361 250
+
+tx 0f03f7878b087b3c174919fd2b17dd6952c25f572d2a19446343a8ee41e5c526
+ZD3cMB 12483 16803 14912 15707 10636 250
+
+tx 5e8b61e544b735f09b96846b030325898e99324e819c4904a32bf89132e6a8de
+ZVpy2u 14001 11278 14053 9761 10636 482
+
+tx a9802acdb5571e0b53bc4515725466272114231401670bb78777ba51800be8db
+ZVpy2u 14001 11278 14053 16143 9361 250
+
+tx ec4e5b3b9d83190e8a8d6760c38706d921eb582c81068f1204c3917234d35487
+ZU8aXB 14001 11278 11270 15707 10636 250
+
+tx 46453e44eaff4b8f419ecc95e97d5c7582cc5b5314f782b60bdd59e3fadd1aee
+ZKfLpV 14001 12497 14912 15707 10636 250
+
+tx 45c4001e7302193da500c230b51aa84900f457b9714a88436dad5a49869ba04b
+ZD3cMB 12483 16803 14912 15707 10636 250
+
+tx 130a1eed668e70e6beb678fd1ed0999c89807df00176e660d50996bdb0793623
+Z1VuMy 12483 16803 13216 5362 14322 250
+
+tx 4e0802ff66e8409b7879c441ac3c6f608ebe4407811d09b86cdaaa898604be1a
+ZTShtn 14001 11278 14053 16143 9361 250
+
+tx a47d4c46b3c96bc74aab3ea884a8e690b07d8360b0fd5d746b6ed3e3452220e0
+ZTShtn 12483 16803 13215 15847 11122 250
+
+tx 3fc141f46ff0509aaa0c1982f445d436340e197e6105454097dec3d24521cd83
+Z1VuMy 14001 11278 14053 16143 11122 394
+
+tx 80ec54d0256edf50d061002e459cc8c7454a2858de8fcc38b4dcb90fe809101a
+aB9u=http%3A%2F%2Fboop.boop
+
+tx 1855ffdbadf90d5c3d5ec4b601920ecf6e69aa49e6b9e576c0de49c1b4c8e29d
+id;tobias_rindlisbacher.id
+
+tx 0644dd14977ea9857f65abc0d80b727baac93d0861ddd1cef9acbc391c82d166
+id;benedictsteele.id
+
+tx e5fbe57709e5cd577c5859a2ee494517554fd90f0ef9bf8a3a4d990e93737217
+id;haroldburnwell.id
+
+tx 32e34374ad48b8aa778c72c2423bf2f68b8dc33877606754377bf1f848a2e910
+id;stefanofornari.id
+
+tx 37b690608e0c007aacaec8de7495aa5f66577d89870921e6c74b73043a0e2bd7
+id;felixfriedrich.id
+
+tx 7407fddd0d0ddc35c6732589380dfaac128e94911b48d11c30a2de400bd8720b
+id;yufenchen.id5^:!6
+
+tx b90d05e3d0d0c92e2fa07a70f7d2386bc6dd8ccfc942f8b32b5e4f4e78b5ed52
+id;sebastienblanchard.id
+
+tx ae6063ae9a0b3fb3330c6a061da526462972f93505c3f417f71c5f647e978a7e
+u=http%3A%2F%2Fboop.boop
+
+tx a71626e2a36e507fc49f2f01523bdf76e7845d61e1314d3fba4828a3108deafd
+1KJwhB3xuMCpMjsc1ZWPQpMGB1DZXtSwXz
+
+tx d8785b6b1717156fe99c5616a444b2e949bcdfd6e0a4fd96dbd9dff308f5b988
+\u=http%3A%2F%2Fboop.boop
+
+tx fa4f42404fe8b4615d4149461383b20a87112c619dd8074e1d84a7d36e9ed8c3
+P
+u=http%3A%2F%2Fboop.boop
+
+tx 4d43f70a162645677dee81c0882689033cd51d7ff6630261d4a29a68d0ba5d5f
+Cu=http%3A%2F%2Fboop.boop
+
+tx 925788fd729e114066d92f86bac06e1431617e7fbbe3f8d7b955f27c9eb88a32
+Z8A6At 14001 11278 11270 9761 10636 377
+
+tx 61819749d668d3d14ce615d05ffe674aaa8ae60172e05b206a7202ffe36e8036
+Z8A6At 12483 16803 14912 5362 15683 467
+
+tx 2a0e12164a66a8724b3f9a9636bfb8746e26f05a3d80cd8d9fdb5a5e9bd95d7d
+Z1hutU 14001 12497 11270 16143 11737 375
+
+tx f94d6f5b13a75e5e244e9eb518c2411a4e3136c2c0ddc5798b9faa8ce386d1a3
+=u=http%3A%2F%2Fboop.boop
+
+tx 368691f7e724554ee1c06e4dbdc7f21d879314b563776e7ede1142d5efd13be4
+FBb1KpOKwb_w8se244he1
+
+tx 4de83a39ac4684c0d1250a797c25e82c00cf43f08b287affb9397550ef494a37
+UqwV8wsTbU_pblcqw8c6p
+
+tx 81c6cb5eb20da51431097f926523045aba2c1d4a9e3a5f20954e2a2a177ac0e4
+jRXmSXoAwP_xf9qm70wfj
+
+tx 2e1b5ad2cb41c4293254de907504db635d2dfc495efee0e2b89c7ca3caa514d8
+9V!*u=http%3A%2F%2Fboop.boop
+
+tx aa3b953de472f1a0597edad0b0b736eb503e4f4a332301b678d7ba698bdab592
+u=http%3A%2F%2Fboop.boop
+
+tx 081bbe898a2797c82afd6616ad4c5ee6be7ce6c2758a0a440d8feea0915f25e2
+[u=http%3A%2F%2Fboop.boop
+
+tx 64bdb4770722589c83250f99f7e3e84727d69c96235251c9d70afcd1ce92237c
+u=http%3A%2F%2Fboop.boop
+
+tx eb8a04b03dbb7305eca9f93f43cf185a02df9a339b5adf74fdff81bd400c02a0
+u=http%3A%2F%2Fboop.boop
+
+tx 134b42a2c874c3ddc14c447cad7a1e7e4ce349877c2646200ebe367561708901
+EW I vote for progress without apocalyptic death and destruction. #bitcoin
+
+tx b60834c0f8cb7a617a0b70221a9f1e9df48e9882640eb275a252e9f2c59f3dec
+u=http%3A%2F%2Fboop.boop
+
+tx ce24464b8a87e232c7de054b53f31b62bb8ce8b0de140fe526701ed1ee7689a5
+(---380632-057775---
+
+tx afe14dd6b2f6f6400c8bb04e5c71ff9f77d2e96df5df99c6e64b052d055be9be
+{"title":"Camaron - Discografia Completa=e
+
+tx d45fa06eb56f1736328185648a0b17608fc79dab07dfb7287bf5dcf71cd0991e
+","description":"Jos
+ Monge Cruz, conoc=e
+
+tx 0f92114b84b071763e1868f4484e7b4b7a2af384337388ad7d86bee94ee1dee2
+sticamente como Camar
+
+tx 5d19cddd33b9ec3fcc664d4a18ed1bc1646b79c2756adbc155081e9dd53ea537
+Isla o simplemente Camar
+
+tx ce3f3550f11747806ed3f189aff11a81b41d9847de356f18071a28b6efced25e
+ol, considerado un renovador d=e
+
+tx 64cf0ee29b6c160c291724835062e4ff52c663008134fdfaa5b721c7f53cc036
+el cante y una de las principales figura=e
+
+tx 40a884c355b086c8732a4f24d31f3022f61d114674a5549e8293a3e5beda23c9
+s del flamenco.","type":"torrent","addre=e
+
+tx 308483ec5a97edf3fe7e769920bc530ae6ad759caa68e70806f779bf9cdb3b24
+ss":"1HRxTaAqNocGFi8EsChQ8RvyZhGf1zKKVz"=e
+
+tx aaacf17dc11dfd6cd6286e1e5c04744cc36c5dd3d1cd9573a68bf91daae8c4fe
+,"torrent_link":"magnet:?xt=urn:btih:341=e
+
+tx 9650568bb2e2f3d9257a590491f11062a5619f38772a08937ed1f15a9dd93f59
+C7906E15DA3865DEEF74E12A8345D3A4FEAC3&dn=e
+
+tx 351f0ec31fd1be6c66a18f727421857bde8d5b8296b955cd6257d2bbd1a73c22
+=Discografia%20de%20Camaron%20%5bMp3%5d%=e
+
+tx 214186781467800873d6c5b2566a392bcbf103b3fe4ced19c61e56b4fe3cf0c7
+5bwww.lokotorrents.com%5d&tr=http%3a%2f%=e
+
+tx dd7e40667f07cc8da15ac4371cb7bc2471451a34cfe4c3ef366853ad6fc85f7a
+2ftracker.thepiratebay.org%2fannounce&tr=e
+
+tx 4153861c3d907bbfe3cdb2b635fd4a0e33e95370ad6e1c51ff2afc5646c78916
+=udp%3a%2f%2ftracker.thepiratebay.org%3a=e
+
+tx 9efd086375e95455c635b9b5a35642b265b211ca4c59d711b3bdb309ef88878d
+80%2fannounce&tr=udp%3a%2f%2ftracker.ope=e
+
+tx ea4b2b11ebf37b5e209df56a70af86db409274d78b19d95efc4aa5a99a0f8409
+nbittorrent.com%3a80%2fannounce&tr=udp%3=e
+
+tx ad51ce2697c3135cde9b3c7be1d1c193bc6c6dfb71173095df8250533f6626cb
+a%2f%2ftracker.openbittorrent.com%3a80%2=e
+
+tx cdaa47392cb7072b7931a3d60b1649977f2b46285ea34370a18902428e6d3e7c
+fannounce&tr=http%3a%2f%2ftracker.ex.ua%=e
+
+tx 5c2b92b350b2755b47b0733635325acabf4ae9ec1dc41333ce5bb31a60c184a1
+2fannounce&tr=http%3a%2f%2fexodus.1337x.=e
+
+tx 4723cd287a3c838d41c463ac91cab02ad10c5f1b5a34e414ab37d1e61b478078
+org%2fannounce&tr=http%3a%2f%2fsombarato=e
+
+tx af4a748bf70664e7a868270258c9d7e60485ca50a2e5b187008dca0d15aeb13e
+.org%3a6969%2fannounce&tr=http%3a%2f%2ft=e
+
+tx 2985a64603b7f265d502de793c7109ddc6796572719208da5ddaf38e6b7c703a
+racker.torrentbay.to%3a6969%2fannounce&t=e
+
+tx 27d3f785705686b6709550e5faed0b8ed3671bdd4d5d7f7b244132bd3530ec34
+r=http%3a%2f%2fbt1.the9.com%3a6969%2fann=e
+
+tx 21f16537f0437df6eef128c4903f6269f447fb6cb7e99731889a963abcb4ddd4
+ounce&tr=http%3a%2f%2fbt.rghost.net%2fan=e
+
+tx a7e4299e3f99432d0369c71ef8848f9fafaab4fd3c1ef6bce6d6304330ec0b87
+nounce&tr=http%3a%2f%2ftracker.ilibr.org=e
+
+tx 581ec43e1569e273acc4a5396ed284c308c340991d833e1cb1778a587c300dc0
+%3a6969%2fannounce&tr=http%3a%2f%2f9.rar=e
+
+tx 6ff6bcb2b5c55d2f955876983c0b5ff64a57b0680459a7736ecdef00ebce1011
+bg.com%3a2710%2fannounce&tr=http%3a%2f%2=e
+
+tx ff406b1421640431f595c8f5d917277dda03982748266612c4359c8906d7cd0b
+ftorrent-downloads.to%3a5869%2fannounce&=e
+
+tx ab6ddb18f73413ed4a59134fa729453c56ff1c676a31d0e74f58f12733c4b44e
+tr=udp%3a%2f%2ftracker.publicbt.com%3a80=e
+
+tx 9ba8e84c70b9e53f809b2dc7d7b974ee7496dd9949e7a94d0271598c8a7017b0
+%2fannounce&tr=http%3a%2f%2ftracker.torr=e
+
+tx 71400c5447afd78350d39cede7e3ed253df098b9e19cf90ff5731c04de9bd75c
+enty.org%3a6969%2fannounce&tr=http%3a%2f=e
+
+tx e956c1bf549a9564f242872986462d4fc27ce2115832a40477e5ebf1e0fc92fa
+%2fgenesis.1337x.org%3a1337%2fannounce&t=e
+
+tx 1234cda8c9f724558fe3583d5f6f61bc8e575e66c0d4d916eab6061f959f65d8
+r=http%3a%2f%2farea51.tracker.prq.to%2fa=e
+
+tx 0aea8e328fa4062d3cde0fafa2b13e2bcd783a38fd093b6155edc6beb3a34a93
+nnounce&tr=http%3a%2f%2fbtfans.3322.org%=e
+
+tx b96e47740804918aa85e0388797246526b370da94a837ebce56177f8d1ca2e70
+3a8080%2fannounce&tr=http%3a%2f%2fretrac=e
+
+tx 4c875d1ef76e3d24c3e0c6cb0900b87297a25e174c92444eef8fa86bffa8448f
+ker.spb.ru%2fannounce.php&tr=http%3a%2f%=e
+
+tx a73ab459d7b241161cb37082fd3782ea56a04f3f7f4bcc40e92bccaa660055c8
+2fannounce.torrentsmd.com%3a8080%2fannou=e
+
+tx 117f73826a35ee0a4991c2245bb47be32c2c91c6435f4cf1f5803832baa96a3e
+nce.php&tr=http%3a%2f%2famplicate.appspo=e
+
+tx e7f2b3084fcc4bff5123d6e11c7f8c2920d6058e5eb8896c88078f84944397b8
+t.com%2fannounce&tr=http%3a%2f%2fpow7.co=e
+
+tx 426823bfc6904e340ffc87c24adc14ff309e54e68fc296dd63e1bb29bbc8449b
+m%2fannounce&tr=http%3a%2f%2fpublicbt.at=e
+
+tx f6d8a9faaade839892fa396dd023d4b48ffcaab9c51b86254224ec0a4e39ba35
+h.cx%2fannounce&tr=http%3a%2f%2fartifici=e
+
+tx 1c99aa0bc000d35e5353d2d7da8bb2e0b2d3d1282a01fbd14e15d623f7fb6360
+al.intelligence.tracker.prq.to%2fannounc=e
+
+tx 8feda33fece687248f15190eb98d4ff92e0337335c9ce8716d1b573e71ea6ace
+e&tr=http%3a%2f%2fgemini.tracker.prq.to%=e
+
+tx 59fab817f921d4bec2d2fbee9ce2db490e69aa3ce1feeb91661ad0410c7b3da7
+2fannounce&tr=http%3a%2f%2fmemtracker.ap=e
+
+tx c3084d66144da01773a312a8774efe054b2db14590fdb533cbfb39c0ff7b97cd
+pspot.com%2fannounce&tr=http%3a%2f%2ftra=e
+
+tx cd8cf4ad7d0a949440ee40fcc1cfa41b86ec60a26661a18cf4c439654bc8900b
+cker.ex.ua%2fannounce&tr=http%3a%2f%2ftr=e
+
+tx 1576a405924468a9de9311eb418d3b4cc208af91b36cd2e9bffdfc27dd79b6d4
+acker.irc.su%2fannounce&tr=udp%3a%2f%2ft=e
+
+tx b9dc331a0fb2bc8b71fe26be60815e85e34f9252cf5108ffa8614c34cb5fb7a3
+racker.openbittorrent.com%3a80%2fannounc=e
+
+tx f4caaf78ba82aebadb8c43202533ce8095004d76a747036afd6642d900820d61
+e&tr=udp%3a%2f%2ftracker.publicbt.com%3a=e
+
+tx 2f74425008ea9323875a40385aed4685c6cda233829ccb29b6186a54ab8c5cf9
+http://bsign.net/panel/uploads/5602672f0
+
+tx 0fc6b28f8fe43b5ef1a1c791fccfb05ce1172de8ab7b9ea34b8860b353e67a48
+e59a/ideas/48fb10b15f3d44a09dc82d02b0658
+
+tx 206dd9b0c848c5c70fb49a73a46e09184e92ccd14d79e85d01971d51fb741463
+1e0c0c69478c9fd2cf8f9093659019a1687baecd
+
+tx 32f553c2ac135dfc8d93c2fa6fa2c12ee423fe88b64c757fb769cc44a48e5143
+bb38c9e72b12169dc4148690f87467f9154f5931
+
+tx 8bb57b7b2a6ac0be2bfcf13747a99e9926e88562d5e011bfc48c1df9ecbff824
+KEc5df665c6496cbfd5f5/d.txt
+
+tx 91692db2ee6e4a0923779242d3c42d7d000d7281c6deaf80e1cd6334874aa6ab
+ou=http%3A%2F%2Fboop.boop
+
+tx 00f78c80c1197ac7f093ee096ad4212c01fa4f9d7c38eff6c257fb5112fd6de6
+{"title":"Giovanni Marradi - Discografia
+
+tx 6980906f480984e7ffd9a10b2fed2b687b6fc253f1e199fa796782f417a406a4
+ Completa","description":"Giovanni Marra
+
+tx 0e2f2625d17ccd530fb2af32cd53947aa676c02516587d32b997841928d725da
+di Pianist (Born 1955). Is a composer, p
+
+tx f818da82a69f266d4193204461b96d10c47fe23815bf75da3a2219fe84685c5a
+ianist and arranger. He is the son of It
+
+tx 905375cf5f6f0449ce89bba44cb862aeac600b6f5f45bb82b39a02d5e85ef63e
+alian trumpeter and conductor Alfredo Ma
+
+tx 031b33addd1613859b283450f86598ba2859f02b33df89c69004ea1f7f423834
+rradi","type":"torrent","address":"1HRxT
+
+tx 27c84237ef9cce849bde90b01ed73287b1208e9e26e8382a775aded7f662cfc3
+aAqNocGFi8EsChQ8RvyZhGf1zKKVz","torrent_
+
+tx 816c8b2d795a27399aa8d5f07fc0bbd09d06eea88876818a1ce697a0a3c02f7b
+link":"magnet:?xt=urn:btih:77D563D491D5C
+
+tx 1362061500df2635284320515ca92f96d3b6117635a0d97bd97c22af5c4c92f6
+91C60F95ADD3475F94758181359&dn=Discograf
+
+tx 801dbce366dbc34451d5f9a225e428f8535a0d66647431c8007acdf00a0c5efe
+ia%20Govanni%20Marradi&tr=udp%3a%2f%2ftr
+
+tx 828c07e14e268088d9f8c1dc3a4e94402632d7a4b91d993d92c97589a8836775
+acker.openbittorrent.com%3a80%2fannounce
+
+tx 0b9c0d87c5d692c2352a4d788ed6df8615a189d792fb34abefe751f86a17db92
+&tr=udp%3a%2f%2ftracker.publicbt.com%3a8
+
+tx 1290b4dc43307af8b816f6ca37daa37711e21f7d31fc149b3896bafa7d9e5482
+u=https://cpr.sm/eyR2WwPu5B
+
+tx 7278812e27ac22fe46ee5a85c74be5f355e7bd2f4dc65d948494c5808133cdde
+u=http%3A%2F%2Fboop.boop
+
+tx ca51cc47aa1fcb867ca6b6fca07db1928a4f5271d596bfe7eca431803a71b675
+3Qyd7wdDjXUA7i9XdJTmbwdFTaGT4qnHJy
+
+tx 41cd4908e6aad8c7cbe70ec54e64d7b5d046cda17a69170addf7e33ebdc7e0e5
+3Qyd7wdDjXUA7i9XdJTmbwdFTaGT4qnHJy
+
+tx 77a1b7f3304b921bfcf8ee2a6de501fce324e29c630cbff1e57cea405d9d4305
+3Qyd7wdDjXUA7i9XdJTmbwdFTaGT4qnHJy
+
+tx fa3971b4ffda80b93058d803b679f80ce4d84fcf4abedade53eaba36e1e457eb
+3Qyd7wdDjXUA7i9XdJTmbwdFTaGT4qnHJy
+
+tx 51aeecd0c47aa30c11c2a6d765fef881873b54c38a0afe0e51f81ac6bd636478
+mmceekXFS6R8HsaW6ex8oYNUDheYSNwHyG
+
+tx 5fbb1bb83c1bfb15a064ae57e3648e0989ebcb998ffaae50fc4f91aa765565e1
+2N7rNCJvx62JDpufe7zHJxLB7djdiciuXXi
+
+tx 8ab5626d3d74db8d32c879b0aacb6f6f48e2ae1978dd347b437102801e613cae
+ug---380658-060976---
+
+tx 30ee9f693ef25b4c257f34ba89297633afbc8cd0b380d1ab0b4adfc90b899708
+{"title":"The Smashing Pumpkins - Discog
+
+tx a45b1af5c12379f87f64cd278e548cdc0087ddd44e280fdc49c43da8dcdca949
+rafia Completa","description":"Es un gru
+
+tx d59183e4855d293c005d0801f3056baf83b0ce0bb06ddbc0df325c0f09d2a46c
+po de punk rock muy conocido","type":"to
+
+tx eb7432090b16432e5fad86bcb171351e1bdae6dbd47c286f1bb776bb29a13070
+rrent","address":"1HRxTaAqNocGFi8EsChQ8R
+
+tx 193099d31ec29efe0b1b3708c664951426d4c8cc5aa9d58d8ecc4b12a9cb5380
+vyZhGf1zKKVz","torrent_link":"magnet:?xt
+
+tx 350dc9a1992a3b71e476c9e14d437f8f0983d9ce0164ac1ac2b79aec76d40fb8
+=urn:btih:8D01E860870652F13A34B2A27EFCFE
+
+tx 25497c9ac12cf8f37251a6dafbc3874af0f0a1c8ff98281ef7fd0a5d39b96dd4
+746AD908FC&dn=The.Smashing.Pumpkins.Disc
+
+tx b1eee8d7feb5d3003a553dd50f2101e0c7f57c61bcb4fabf03c97287f4d430e3
+ografia.192kbps.por.xundey.%5bwww.TodoCV
+
+tx 4c33ec966618f15e644c9f3a3afd4544a8f68c99412cb0faa4f12d9f88da950e
+CD.com%5d&tr=http%3a%2f%2fwww.todotorren
+
+tx 9ade07dc5164f2d76172bbba5be853a2890036bb8ae8e35b273c899702d48212
+ts.com%3a2710%2fannounce&tr=http%3a%2f%2
+
+tx acc265638c4df520b33e2cce387aeccafe58f3ac1e14cd5584e37d7fc7c1e719
+fwww.sumotracker.com%2fannounce&tr=http%
+
+tx be7654742ce6bfd5e87e81eb1b33089bd1425abab88dd1d736e977f74761cf23
+3a%2f%2fopen.tracker.thepiratebay.org%2f
+
+tx 57ba46e55765216fdbfea96f0c8252f2cedda154f56ed7fc66e8749e3db38319
+announce&tr=http%3a%2f%2fdenis.stalker.h
+
+tx bd8e9ac3b25ced616e6f71e8c3c2a79926fe2278ae6822e223e0eda3d61df265
+3q.com%3a6969%2fannounce&tr=http%3a%2f%2
+
+tx b7cfb08bdd92640eeee8994918c99a2a2c399999ad8f9676ee44f289d5df0ddd
+ftv.tracker.prq.to%2fannounce&tr=http%3a
+
+tx 7e1778b7923d94d2ba958496306e346980f8218f34fe327211ba148136d44b84
+%2f%2ftracker.prq.to%2fannounce&tr=http%
+
+tx b7a31e3ce977c85decefdb016791d6bf3fd3d051b6f9c508254226a0b72dc25b
+3a%2f%2ftracker.thepiratebay.org%2fannou
+
+tx bb0fc7b9a71e4557516cf1da834eb1c9f98e23f9501c25454cd99b3c9fc0975a
+nce&tr=http%3a%2f%2fwww.bittorrent-suppo
+
+tx 64d0df47323a19de34f6aacfe21b8e0fc52e2489ceceb2021a89856dc64cbae1
+rt.com%2fannounce.php&tr=http%3a%2f%2ftp
+
+tx 8983a0ed9841ab288da34034f1d734d5cb98eb62055809f7b2c2fc45ccce8573
+b.tracker.thepiratebay.org%2fannounce"}
+
+tx cd9ed22555e09483810d0681fae8450012548ad5e4d7b5dcca31e31b4ec6c296
+u=http%3A%2F%2Fboop.boop
+
+tx 9ac686efabfe3f85a60a2e0df288badaafecdafc7f66d3622cae1b50c1815352
++u=http%3A%2F%2Fboop.boop
+
+tx 871f46aee62d94d404c48f82195221df0efb35b5faf030731318b2245354f93f
+Nu=http%3A%2F%2Fboop.boop
+
+tx 44064f4467d00fb96eb15f0a619ae7fcbe26899f68b3af21879627d26a40383f
+kMonday, October/26/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 2000793dcc3fb9a1efcd1b3299b47d3d3de4f4c73da1b15d7d565b33205ed00d
+Just testing the stu
+
+tx 8fc13e24fb707cc2ecde00f26a3c3db7519d3f1918372be272dd6fa6d59f6e23
+JusttestingthisstuffJusttestingthisstuff
+
+tx b09bb5f402d7c83639dcd2a9d86f0182fc0bf80207a8519ba3b599d86e4dc568
+Just testing the stuff
+
+tx 2cdb867ebcb5a0653c7438d35f12f32262f9c8f4dedf2106193897ab5dc8f727
+Just testing the stuff
+
+tx 47202c3facf9ccbbdafadd3f08863496302d79197ce259a884cf259694edb5bb
+Justtestingthisstuff
+
+tx 739ca22845d7d7119d895288bcf586cfabf70a7def8f7e146749cabda6e144d5
+1NBWHxaTjTJrSxSfPXnxKJrMtk7d1XpaH8
+
+tx 742774b47fc398f6fe16a5565e10abf4af73e268f760c2c40397063bb1e3fc58
+2N7rNCJvx62JDpufe7zHJxLB7djdiciuXXi
+
+tx b435cf7378bf074f0da18a2d8c374e198de5b64e1c3044977de06ceaf65729e6
+3Aw6hSjpMy9VZoGKYFknwmvXC1c6ZDVHLS
+
+tx daf30c0b384601b04d542694a5e02cba0b8b71348e14f3bc8ee24778306c075e
+3Aw6hSjpMy9VZoGKYFknwmvXC1c6ZDVHLS
+
+tx 32513c54807157e9e2c6220495e93c4192508fb844813787eb62fecb58eb28a4
+!pEW I want some buttcoins on my bank's blockchains
+
+tx 43fdfc0a764ce3bf86482ec469b09831ca471bde94fd2e41da9a6f1ef4cc3b73
+u=http%3A%2F%2Fboop.boop
+
+tx 2d1a28db8ec4b1a15190497e76e86991483ae90bfed117b888253d013adbd00e
+u=http%3A%2F%2Fboop.boop
+
+tx 0ad1ece0f3e50e0fff47116433d3e0d258461923ce3a804268d491349fdf697c
+8u=http%3A%2F%2Fboop.boop
+
+tx 422eb710926ab4e64f19d670b3a6c9c107ac92771967d39e8c4e9129a01c237a
+fATou=http%3A%2F%2Fboop.boop
+
+tx 6c19b123704846cd8cac1b06782e8b4e2cf3cbcb38a8549e015208900fbae5e9
+WT5Gu=http%3A%2F%2Fboop.boop
+
+tx a95a4be8588c35d371313fcdb890bb6fff7a83a38fc6ad26d3ae7ea4a83ff1db
+u=http%3A%2F%2Fboop.boop
+
+tx 5f0438faa150a9a0699a64765c816d4be66f460192d007e6a1e4214c301e432c
+u=https://cpr.sm/kSb22cM6ef
+
+tx 4e0875cf5937a04b597d377f8924ee2b9d866b523c06c6b5045315a7bdc7fcc8
+u=http%3A%2F%2Fboop.boop
+
+tx 897d40c39938dd59b00d53bfc9b04a9242f93664e70e57047d036fe19620a29a
+1KQdb3vVLK4PjkRwccHo7kD5Uo7gjaP5X2
+
+tx fb521ac1bff88c3728af6fe6c9be57e9d96e8add82e19a15c5d8fd5a08fa5d15
+http://bloockgle.com
+
+tx 5c1158023136dcf2e9ba338fe950c708e5d294b2652cd840f95bab4a4b68dd2e
+u=http%3A%2F%2Fboop.boop
+
+tx 1505f49dd76bc46d028be3e1a20eb94c0f77b37044b1a8d025462a0f57c8da8b
+;b{u=http%3A%2F%2Fboop.boop
+
+tx 10c73a2e521cee84f0a8d483bcaf4d11da7975b5420b0047899278b87274aac8
+[u=http%3A%2F%2Fboop.boop
+
+tx 4fbcacb8c6c09e338098b1428581e0e4fa571b0374c6638ef704ded629eacc0e
+ZwoSXY 11237 12497 14053 11295 11122 250
+
+tx 19b2802487984a0ee608cf9d96c101a7399a07124f8ac5ca26f2902e2ffc1b38
+#
+%u=http%3A%2F%2Fboop.boop
+
+tx cba361f5dbdd20b0913a8e0c81856f874bc973f7ede990b8865437b970214869
+u=http%3A%2F%2Fboop.boop
+
+tx 2345931f78c1952977810db15ad21e3a3465ed48c7c53561f7f8318d93ef9ab8
+u=http%3A%2F%2Fboop.boop
+
+tx 2a8eddd0cc6c9e17ba8fd369881ed2b1751f42acbe973c38871c29fa189a63a9
+fe4a12dacd574c9a7c8ac960a008b16191ab01d043b36526c2e95293d4c36743q
+
+tx 818b0b2c917b4235b5c67761a10fa79416f543135d4176527ab162236ad22df4
+fe4a12dacd574c9a7c8ac960a008b16191ab01d043b36526c2e95293d4c36743q
+
+tx 02be7b5c420047a2bac07db4fac626b577f902146d1dfc5fd5c417aa4ab7383a
+fe4a12dacd574c9a7c8ac960a008b16191ab01d043b36526c2e95293d4c36743
+
+tx f84a4e7da3d5837a0f3b84a8012a3519431ca21402081c7c852ba2e352002a64
+gNEW testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+
+tx d4786f56c215d97730a6ec2a4e9731e5fe67d5464764e0e69c466771ec8a03b0
+qu=http%3A%2F%2Fboop.boop
+
+tx 738876622faa2808d7d066527c2f64dbe073fb7bd0a6592d52406066be526849
+u=https://cpr.sm/SK9py3WwUQ>
+
+tx 3a0392239c11995c46fdd9e40b097a542671ae20317e262d40ceed67a3eae75c
+u=http%3A%2F%2Fboop.boop
+
+tx c9ab57e120cb02a7c723d7b67ad7adf2c85ab49d0d09056c85bb7d55d90169bf
+pm%u=http%3A%2F%2Fboop.boop
+
+tx cab306f8bb224ef2e3de4d0812c383da934aebe77269642f0818532a88a1d92b
+EW Ethereum the MEGA BOTNET WILL RULE THE WORLD!!!
+
+tx dfa08dc7ee92f18514647d5c71219c04eaaf588a7ef33a98ebf550cc5ec5ee49
+Nu=https://cpr.sm/4Oct46DJsp
+
+tx e98e1fbbf883f5dbaaa363303b3749bead6ff0aa547e9e766b4ac1d0e4a2c4fe
+ku=http%3A%2F%2Fboop.boop
+
+tx cd7a018abb73d059c531635b24745b2aebb2b7c6d2d489242dac4abfc5c467cd
+ZLTerA 12483 16803 10447 5362 11923 250
+
+tx d60243a6ebcb26c533b2112c9fc5e3e9b28b8b44e92149331eaab3fdd9800fe7
+u=http%3A%2F%2Fboop.boop
+
+tx a80884cb20b3f364ec4cbe37b150cede867cb86c7e3ab9c0d427c766d3001fda
+u=http%3A%2F%2Fboop.boop
+
+tx df5e143643ba3be1f566c158e1aac66f2dbed70957baa70cf86c0a0e82dcb5c2
+EW data embed from bc
+
+tx 5de030de222fd165773d25d64ffcf98e32102f1e690fea2c402f34098101f48e
+u=http%3A%2F%2Fboop.boop
+
+tx 04e34e85d7a24e678925e381f95a8318169697eb662c659a8840e0e853b51d24
+u=http%3A%2F%2Fboop.boop
+
+tx bea123ff98f53ae38c0f98a7b3cc9fd5b9d464a2ea98a7d8db3a3076be15f891
+u=http%3A%2F%2Fboop.boop
+
+tx 0d1d01792fb938ee5ad7379c77223c294ef2a5d5d51281ceedeb8a8bb25da5c3
+EW cd57e949570a7b575f0b52aa253ce6c77dc5f587
+
+tx 0e9a8ebf4170ef892e14e214cd150b2095c021601878845a3a6c87e4f368ad71
+u=https://robertredl.com/asset>
+
+tx f580bfab56f9c99b98dfefdb0cf20f1af60f012cd79fd494bd69e1b89e33adeb
+oLu=http%3A%2F%2Fboop.boop
+
+tx 68109d8b351e18d4163915efae8c8a5130e1d43f4cea97a242b7d7d9f90697d1
+EW Io sono di sucate di sotto
+
+tx 8d34ee6187021c483aaf6275b8e74d0b58f9750084628f1f59261262ceab1bbd
+A>u=http%3A%2F%2Fboop.boop
+
+tx b3d90e896d3e48b4cbbc56a6ddcc2c2da1142fc1241b004415214b7e4cf52368
+N1MXSV,. S VNKANVDKSV
+
+tx f2e14cb795096475214b60e6018959fc93be00bd49df2153b39aba8efeee3474
+ u=http%3A%2F%2Fboop.boop
+
+tx 275ab6ea4b4ae2e7596ce8f8ea84c60a07a928debb5f5e2cf9f60cce3a9621bc
+LASCRIBESPOOL01PIECE
+
+tx 81e331d5cc747f3141bc8047a4689d463985e1a7048343fc5fa465ba77c2b973
+YASCRIBESPOOL01PIECE
+
+tx f0ba561730e5d9d58dd1ea0eb5fb2f4f1f1003d80b6453ccc1883232291a12d7
+$ASCRIBESPOOL01PIECE
+
+tx b428c053fcfbf9fe4f84f7853deada4f33d53a87aea46bd509c37b80d39aabdf
+qASCRIBESPOOL01PIECE
+
+tx aa2d19fd13434e218b33cc4d653e6c16ea4dd7ca45fbe2bc722f80fa74cd4976
+YASCRIBESPOOL01EDITIONS10
+
+tx 62922b48ba60f7cf64272fa4d57605a230f952efded19da857721dd290a6db57
+Tuesday, October/27/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 7847471eb30d572e2111d466e3b317713a23c4fd6eabd0789dc8653a0be63db6
+u=https://cpr.sm/bR7XcZYD0rx+bf
+
+tx c0965dc2e61b28b8f708588018cbfa351141607a07a70d3831ea11abee4d26a1
+au=https://cpr.sm/bR7XcZYD0rx+bf
+
+tx b3d5991b6daa5146995bf0cb1e46b1b90fdf054fc33dea3d14556529d0a2d8e7
+au=https://cpr.sm/bR7XcZYD0rx+bf
+
+tx 9e0031fec3dbfb392dc3e76ec9085186304591fe109aa60864598366b8009bb0
+Yu=http%3A%2F%2Fboop.boop
+
+tx 83b9b6356a73a53468b287a0ccb8d290e3ee810bc448c4b80753be5f9af38f50
+u=http%3A%2F%2Fboop.boop
+
+tx 1d7abe53f67820aed241c6560fad31ed8b7f8cbce2c26e020d488bd387eef825
+1J4snut4h3dARw81ncJtfjU8fBmj9RTDMC
+
+tx 5c9f3cc24d10a378239eca20cf574111e1e8f13c65240e446cbf47ad387ace54
+OSDC2015 is amazing!
+
+tx a623ea9539b75fbe79f06c069e2d94d2e7bacc326b09c02d04e33569c66058a1
+(u=http%3A%2F%2Fboop.boop
+
+tx 3aa476536c1e5bd52bcf9debf29f627a233ca239c5555f39f5df4e7c1a3f1860
+u=http%3A%2F%2Fboop.boop
+
+tx 4c5387c0834e714604269e57ac7eccfadbaed85782cdacdbb6cf6e5972b21614
+;u=http%3A%2F%2Fboop.boop
+
+tx 0bc11663085e131b9c83b8af5b693b9c08affa651522e9b091219bc1073757f2
+u=http%3A%2F%2Fboop.boop
+
+tx b15ce2056fc83ccf3d80fa45f803cc825e1f64ce6fb5c591ce19ade627dfb240
+TjOSDC2015 is awesome
+
+tx 26e2853ab3ccf06b51e669275806f0b28b00983ded31e03b0846dc1324f3a404
+@javoGG.86fb269d190d2c85f6e0468ceca42a20
+
+tx 1db6dd46d7576e73a40a8355f1498204ceca1611219ea3c58dd482f41c4f5ac6
+u=http%3A%2F%2Fboop.boop
+
+tx 73d40c8edbd2583647aa30070d6d02203110cb0d242e53a644ddf85a4fe5eaa4
+u=http%3A%2F%2Fboop.boop
+
+tx bd167e1ff9c090436e69b9bad5eebf1d09ca90a723f27dc610e21c99f881e4e9
+u=http%3A%2F%2Fboop.boop
+
+tx b5a26c9588c30c52ecdc589b3b25e7ab8a9ab36c071478f549a28b0f63dec6cb
+u=http%3A%2F%2Fboop.boop
+
+tx 3a59dff695370b544f12cf71346c7f83840d0cb205fa9daf39710fccc644a1a8
+u=http%3A%2F%2Fboop.boop
+
+tx b6014b57e61c530a7136a387415f70c61680653f23637e869248a2101fdb029d
+(;zu=http%3A%2F%2Fboop.boop
+
+tx 455582a5ce18d408a9ef227c55effa72578b43d7e5a634d3c9005b76f60bbd6f
+ZcC4qE 5529 11278 13215 4527 9361 250
+
+tx 42a3b556e7bfda14aa3fe3b30dec5ee3322e47dc5845a030a526910ec44561e6
+ZA2aj6 12483 16803 10447 16143 9361 250
+
+tx 9bcb06eb27f156ac1e44a5ed0e0483f5eb2b8b7fcf9c2e026ee60d8697567985
+ZA2aj6 14001 11278 11270 9761 10636 388
+
+tx 2ae296956a9111ddc5352160c2aa7b63577eae1b281c4f1e6aac47a21f9ecb31
+ZjwnoA 11237 11278 14053 16143 9361 250
+
+tx 998ec0cf205efe2c5597282ae741ce1f11b309f85f32b87ffc0cb0f18b4f1d9f
+ZjwnoA 12483 16803 14912 15707 10636 250
+
+tx 31b4d1f2d231e0baa5a77414679ce0d73f3def7dfe96237703ba126130545d86
+hu=http%3A%2F%2Fboop.boop
+
+tx 136f8e8855383a9c66ac6e5d5c7eeb383926fc26cff8ee92ab6d43e79464861d
+EW Halloween is coming
+
+tx 414e66ec9461dbf2685491352f672a5a0d931c67554a4a8dd28f2a304f3e87b5
+qu=http%3A%2F%2Fboop.boop
+
+tx 697bc63d26a726fb42ff93963e470ddd45b43e1882e75eeb3a6ea5ebb571f891
+u=http%3A%2F%2Fboop.boop
+
+tx dad537f22e539a649a79ee1144acbd1ed9bbbe6206d2e67f22acad4fa570940e
+EW Test lasting for eternity
+
+tx 56ec8da18177f0df8e3f3c8da507c53e847d435bc8b10d54babace20c6ff64b1
+AEW Seneca Police Lt. Mark Tiller is a murderer.
+
+tx d4fb7538e3f5c3473b3cd09cc8d062929ae0d3f9126425afcced91a51b5106d4
+Gu=http://www.google.com/
+
+tx 48d6d16b3dd69dd9c1026685c11506ee767c29a4f751fa45f06d2f986de1f005
+u=http%3A%2F%2Fboop.boop
+
+tx 73fe7610cdb572be38b991fbd9f370c97f0bb1e5f23a2c833623e844372ba1e7
+u=http%3A%2F%2Fboop.boop
+
+tx 86ac7cd8ca2cef41b846c7f2322626228290a668a2cbf96c98706669c08fff1f
+ tardi...dobbiamo andare. Ti abbraccio forte forte... e sono sempr
+
+tx b21abb045dc8ddf6cb4ee6c643e805801c6450ac1d117763622e9f54d2b2748d
+Test for free? Am I spamming?
+
+tx cba0da2392c004de9c8f32267131500e71c2a0ad4608357defd7d2fd9a6ab13d
+r.aJG25NG7GP_v3isbqufsk
+
+tx f352d321388d15ed7c1e6f1205b2613827a81ac648b4bf06f653766cc66c043d
+jxOlpenNZx_y87pa8obmj
+
+tx c7ee11b55406106484fceea793918350bc600afb23451ab088c0c1c1584791ff
+RxOTpL7B12g_j24kyvhhzw
+
+tx 9c64148e04d0d68fc657515c5194e3dcd00bdb9b268ed2e5e55aeeab21884a17
+rL2ZIAJ7v7_y96qbzicfj
+
+tx a5365c8fbac2fe84a38d9a572470394adfbe8a9a1237bb9a5605fa7e2d30d9eb
+sKeMwrmWEq_tqumnyyl81
+
+tx 91bb8fc3ac5a8f6cb13a7d49f3734a7dfb108b0981ec1a7301381cc9a01305ea
+OHb1olDqFT_5wfy3gcpgr
+
+tx f4fad9c64034b0dfd0f5dcd93989920d981e675b948ed8ff59301f290ded4b0c
+G1x6MC0MOojL_84b78feerw
+
+tx 36ac9c313bc4791c239d584913d610e0a29f401b103f8e020de5fec52bc08248
+u=http%3A%2F%2Fboop.boop
+
+tx 15bb935fae64ee8e7df03e0cc523fe50a891304701fdb08be1d8d744b0bb0415
+u=http%3A%2F%2Fboop.boop
+
+tx aca8190f0be2f9c6e3ece5fd9867991fe43f15a333a23e04629544b16f6975a5
+kNllu0SjZT_j4bkcq7zub
+
+tx 7cfa932ce480e6a4abac776d86a1c42131aec2ea468620380cb2b6e3e1078e27
+7Ym0PKxPDlzf_5n53je2yvo
+
+tx d33b7d3494121f6a03b3447610f4cef61db8840ff5e2f118df6c664c5db663c3
+bYUUo0P7xW_5ylt7iphk9
+
+tx 86e1a6d9fbf992ffa56cd368e71eeda77c2126ee97bb62036a535bbc4f016f5a
+3H3Uu8Mj4n_3kvh5uak14
+
+tx fb2dad011f2b0969893389448be7954d2c46809c51a34d7f6f697a1385adf835
+HWwHbB1xB4_qaq8r1uewg
+
+tx e4d60c2e55c5d569bb8e2b38eee1256cfc7e873f9d7caa3252ac71a2410fca7b
+JGAi1RXpjl_kek0mu14q8
+
+tx 942480edcbde85c8edfb272e3951472ce5105e3d4a52adac732f96b4c3124f6b
+iszK5ynZak_gcvlbh2t7l
+
+tx d752317898392b3671846069f403862688e9eb5dc83d9a3eaf923a54b60a749b
+Hk5k3zDjCX_sej5vhwsow
+
+tx 06c8ecbc854d26e1f490eab292ef9fd0d13c79f1c2c4e0fc64e075d6f4118aee
+iTIwmAPT2d_368ur8ma7u
+
+tx ad99d17b7f03cb73bfdd0e3ff0b1f6916e83271a4cba6c0935e1b20d08f64d4e
+URUALHLtOO_kqlgrblpx1
+
+tx 8f6f70730f9e949680ce6137ccd1299a573bca757e65a2a1a00b096db874babe
+"yP8Z4LOlzN_tice9d83vp
+
+tx 79cb637e43503aca198510cf9a374ed23749f397582f5fb140aaaa6e58cb9ba6
+,o4wIA7bO5k_mmodb03xu6
+
+tx 7e0c099b171a1b1764f4dbcd41b7fcc3098f71cc5f2c60d5ae77a73336513fcc
+S6GmhiGnavrE_d96kfrckg2
+
+tx 01e14960f1c39d74c886e1822feaa1dfa8a36d91d3feb45ecb51ff8e26cb651a
+z0zxl9uZ2u_q2yl58jexd
+
+tx 43c6519cc1b4923339a3859729131e01d85ad930ff6871302a1cf281ee6a9065
+^DQ9C2SMHnd_hoca7mv0nl
+
+tx 6a27dffb704953d9e6e133480e8e28c6a6b9d86bb0aa72d0f92f7aed48f8eeea
+FRdnsJ2W9WQ_wh8hx5s37x
+
+tx 0a592b57eab456eb215cc53f522c8bd561b59983df8aadf2050360329397494b
+L7uXeEKFab_fsjdsnl9wz
+
+tx ab816690d1fc4b5d01dbca3921d24834ceafd79f3e8202876a5f7d3749de9101
+X3BuxI8rsx_w069sep0ry
+
+tx 5210ffc8e9ba83b039b23e590c58813bf79f907b251e3809adcdbdee8fb6ea0a
+T88XUissIL_ur2148l3ql
+
+tx 39574545205cfe75d66814a909c2ca83970ca44b48c70ee3d0ca01be07e198d7
+ID0FVZMaIwB_d30e5gp4x7
+
+tx 2fe70ed1ec9ba242a5a9511fa5aec517a8e3be2bab7fcd1ca5dbe0729b173140
+EW Matteo Renzi, Marco Carrai, Giovanni Palumbo, hanno rubato a Firenze
+
+tx 9bd5f0fe02153761c266d5323e1fe8a64d3a2566d2e65b07a471d84e6b9a046d
+M28K7emaQK_4hac5jnb7k
+
+tx 6114f200496f38edfe89ce005c7829296ccd08faeb0f7bb0f9cde6ee5e1647fb
+dpXVQmK0QXu_p5m4jgtkmw
+
+tx 959f65779fc09387366c2bc63d8191b94d3c47ab908cd81aac14cfa6c004ad78
+eGRXK0PpSCr_orntv18nxj
+
+tx ebfccf16aeddc5d8c5bbe77dd35ecedf96ccec8f5ec66ec5bc56bed4c171645d
+B3IDfQV7AM_hgtu8r04lq
+
+tx 301d68bb15a96a8c33d982ee2d7f8bca6cae428b0d4d189afd293800b9dcc862
+z5PIME_BITCOINLAREDO
+
+tx 8bbf09b89e26b6be24a860944060d274fae1afd205ab23f6d4db8615071723d2
+?u=http%3A%2F%2Fboop.boop
+
+tx 4ab4daeb6e9312937bcec625a5aad318330b9a8e7160d09cd59ed3207aaa84d0
+u=http%3A%2F%2Fboop.boop
+
+tx 7b87b5a2f203a9bc12035a14305688a3813543611ac15e497c7903f286a1ed0a
+nPtfQm2f6k_ee0k4ypmpd
+
+tx 322b65c42481aad832b794b5e166416481553ba8e22dce86378cc9532b63021c
+dirtysocks from just-dice.com wishes you all good lick!!  :)
+
+tx 4947c6682b31622b9f04ffd46e36dd5ba394fd23dcff6566a0139919f13077b4
+fz4T8zELHG_h9qvx2sfoa
+
+tx 13a2d03bcb1079fe1b03c25b9980719183f0c867f508aab893acf3fe017463a9
+HcMyUM1Imu_9cn6vdxla4
+
+tx 0070de42818beff6223b466272d04251d9fb9b08c3a76980148064fd5d680223
+A10AKpfCXEa_fiuozw3njg
+
+tx 82a826768c5429be3e26832192bfe3496e7ef84a36bf60d805c3b80bf88df8de
+sMSGA6cekJJ_j8rdm4s3yp
+
+tx 56c7c246e0e3588fa027ecdf5236782abf5e8644c7faa55e0b8539f671071c9d
+Casey Jay Scheideman May 31, 1989
+
+tx c5df922cc2aceba27c90cb0a559e1cbca7aa4fe7d3045a6d486ebd9b2b439b70
+https://www.coinbase.com/andrew send pls
+
+tx e2a96d5425ac653d2e1e4bf5dfd6acf4a3fb71168733a5e168f4b4749d08941c
+Justin Andrew Camarena
+
+tx 2ce66860afa239fa6de84326dd93e90ae500eb2d822e4df202c8fb0328967e72
+sNuZMUGT10_zmhn3buxxm
+
+tx 9d0f04007e1e7cfb60c8d525c3cd5de948e732da859a35b215c19767beb724c8
+IlQziNzv16_4m3imjfm4c
+
+tx 8cfd1681713deee829855b6d708f7d0213123f2bf441597c3695e11435b96a7d
+tFYUzUFHtTts_t9ae3pdx7z
+
+tx 0ee3a6204046373d617fb3cbbc637a6e154bbd9912a75c3cf7309977791183ee
+8'qXLCWLrEAL_on36rv8ue1
+
+tx 2c3fb685adbdd7da70ca882ba95faf0c6a9b0e1d42fa39f50f0749fb8996933e
+RZpeJpOPEr_v3x1zdux8o
+
+tx 9f301484c235c4eb5f9492c4aa1fa2e9bfa93482d784d6b3f55331f45a96eb33
+milkywaymasta was here!
+
+tx 440d3fe13953c593c50938d7f89df2a66f2b682303642df4fe64ffbea107d784
+www.youtube.com/watch?v=cUTdzZ6GkZc
+
+tx e637e4e934a6db921575091b057bf3591401ef17210982d23778aabfdc321634
+ddt9pyyBvLH_yix0jtbtld
+
+tx 9c069565c3ebf51130fb5e8c794c6a66294fb013cc6c96a27e6de070c7fda966
+RoUH58dF0C_nnwh7vyoz3
+
+tx bb4e7d2d8835b981f0cf30fd2a87d456ed93c4364ae0b4d6ffc4614ecf6d2d0f
+yKHTGkhT7GmJ_px2rxsbcxt
+
+tx 1c0630cf5d93e45ca7b71d1ff3c2ad730b0dc0cafe79073c5a9a65ef41190340
+9gC0o1R6sM_jieiqua3rp
+
+tx 71c7343d47b4f33ecb570f3bcc91ca51be76824dd0c159284a648ec03946cb67
+BzTxI1MvfQ_9cwc4q3en4
+
+tx 31d48d2d053b669ebe43a0ce6835a15389bd0def878f5f38032d7ef7dd1b4805
+b7Zng0NQjP_tvjo3as33m
+
+tx 35fa1677f2f81415e6ecfefe20bbfa0442e6e750de741c138eb1fa9044dff7ab
+id;nikosbentenitis.idT
+
+tx 9d830cd6d7b36a53f52412187e5579060162828fc47957320a3dc6541f700773
+Justin Andrew Camarena 1994
+
+tx 675bd64dd4a3f24d4dfdaad4b89a75338549d5d2f800190fae0fea89a231658c
+EW 097e81ee8661513aed64b9e9b4a1d9b9da3532e1530d9d62c355566ec244f0bc
+
+tx aee0e46ad10daadf54a34229ecd7e5e356a2a8114a87e192c4f2f6d701d8f05a
+Coinimal.com is the best retail exchange
+
+tx b448c91ff5ac309f4b1b8960480c21465042924f7ad6180b6b490f7106662607
+jacob betke, 10.07.1971-05.02.1995
+
+tx 46c3820de6ed43e27472b7b9a488ad08e6fcb912a56369b553bc8a640ccf9071
+WARNING: Coinkite has been hacked!
+
+tx 0d572f328b580758dac72ca16ce1700cb21a83f9481c2b741a99548d8d2faebc
+Rodolfo from Coinkite is a SCAMMER!
+
+tx 66867b997bd575a9d36c9717719b0f39442539045ea9aa20bac1f276da4754e2
+eg!.blockstoredemoo2
+
+tx 27ca0da193cc9dc8cbd00bf08d74d53884b37a08d31584f4c746fd190a5f98d5
+utWednesday, October/28/2015- Signal for today is 100% BTC / 0% USD :Smart2
+
+tx 49d28cfcf05b4f29937c315e9594002ca7942ba30257fcd66120394bc094301d
+id;chrislundkvist.id
+
+tx 5fff9550bdf547dd52e22bb11c2a330ef547786df8b0a17bdd1d10367e1f2ad2
+id;superguard_sin.id
+
+tx aa951e44f5c8701e03b5398fb846891724d6cdaa5f1af9c4acbd9e82889175b8
+warning! coinkite hacked! don't use!
+
+tx e011142deaacc4f629cff5ece587fe80382f0b10714da25c993ea65122e5c58d
+EW Hello blockcypher
+
+tx 1e316767e990d9dbdbcab4b439dc5c9671c74cbb84b4e0490e8621381f6cd0b5
+Coinkite wallet sucks!!!!
+
+tx 9506fcbca69a28ad22e6614d22fd5a6f1378dc1cd01a873a51384e1a2fbefef1
+eg:helloworld.blockstoredemoo2
+
+tx 3b14f7be914688f9dd2f087f9aca2692beb8bf8c8fdc676685e0e09da3e8e9ab
+eg:helloworld.blockstoredemoo2
+
+tx 9f67e2b3256051772253a9bb4bae0b92e873f2ee2af8fc2900a3b32535365903
+id;johnvrichardsonjr.id
+
+tx 7b3582f3f5b6a9e6d646d3c5290ec86074ed6d6df162ccda434e532f58140994
+:EW Rovigo rulez! dio caneeeeeeeee
+
+tx 4ebfc39da3bdbf8eea68e0a32d3f9ce92cbe7ec8fb1dd189107c0cec10df0e38
+u=https://cpr.sm/luCwwUny4wP
+
+tx 028b0ebabe2a9870bf188abc9f6474f474a76572c1ab791e9df8b0a3a83e116e
+u=https://cpr.sm/kc4QlLhNKI
+
+tx f48e13413810721646510b16af5a07461804d4324f0bf79c86b04e47d0aa0fd9
+u=https://robertredl.com/asset>
+
+tx cd304e68b3707bd076d9e9353d86ddc255ff588e6d1fbac5acb892d95bc5b895
+u=http%3A%2F%2Fboop.boop
+
+tx 6cc51ac6a755d072c54495d8bf2f4bde25adf09e363355590bf78e3224de1944
+Nu=http%3A%2F%2Fboop.boop
+
+tx 002558b6c28f5f1c94bdc8271de44b1e5a6f98ac88e980711fb5cc5de93054fb
++u=http%3A%2F%2Fboop.boop
+
+tx 131f86b783d21e23b88df5314204b00d7f5e805b0d967da3123ff23ee88988e9
+[u=http%3A%2F%2Fboop.boop
+
+tx b1019a7c4c53f09598bc8be561fe3f8fcecbf87050657661a3ec5e864f27603b
+Z7u=http%3A%2F%2Fboop.boop
+
+tx 9ad3ddb45c11d8608565536f721c9f3b0aff51b6e5a8e0aefbda17594bbe89e4
+hi                  
+
+tx 9abf3866363af0c2ca706d218b9ff399e35fcc0ae55586e12b820aab33ac826b
+pruebadecertificacion
+
+tx 3eee969f155c520ecda0c4fd6ed1b3ee4ec4bd3f4a742001762cf6e3908173f3
+pruebadecertificacion2
+
+tx 1d24d60338065a55c87bc8e6587d5fd91b1108e9ded9bb5a67bafe0a1935ea2a
+^u=http%3A%2F%2Fboop.boop
+
+tx 6845409865fe3452bd3be57fe0d90bfb7b70f534ed813743434a93b40007de0f
+id;melvinwijenayaka.id
+
+tx ddb13ba00b2df95568955c24f1c412343d958eef7f41e52b2a6081052700c2a0
+id;another_howard.id
+
+tx 1239750d68d5f2ea1839a92dd85e03e2966275ef90a359c8c4d51ba4c340cff0
+u=http%3A%2F%2Fboop.boop

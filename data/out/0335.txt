@@ -1,0 +1,669 @@
+tx 1338aa69aa153f5c998d2f72cbd60d3fd76dd2a36b693cc9189feb71cda0f55e
+zASCRIBESPOOLREGISTER
+
+tx 5afff642778128b6bd3b3707cee3b4d563bb3aea516f91e4ac4972d7a77f4aa8
+SKU2014-124-345-TW@590c.org
+
+tx b6da5874d435d6b8b7b6fc1988a60cd71d7b0d6160be3926638a339b9585f83e
+TaichungStation->MRT@Taipei
+
+tx e23ecd7a7b332639247576aebc32d51afbb062aea1aee20e7d7b1670175e046f
+1 ckets", "total": 100}
+
+tx 67c0ce769751a6c0f6e60e55e97f1158fa98f8b7a45c50a1f794b67f804b4e6a
+0 {"name": "robsband", "desc": "robs ti
+
+tx 5edb96189d6d82ed006a7289131cef9887e718767a30dcbd876809ca266f2055
+tu=https://cpr.sm/ecZPftmTRz
+
+tx 092c91004d6ab36a254efe3fc6fcad1e586f8a50d70ee19415f59f3fc727fa86
+SKU123-987-2345@590c.org
+
+tx 1aee547403c90c0b3ef0954e82a4d35e6f300b7bfab41c15635f0befd3e05482
+ld. At anytime and  nd without censorsh
+
+tx 63d49f7890cee46134932ec6c7ba74a027b095dceecc6a9cb213f6fe138e1592
+u=https://cpr.sm/hxwsfFLeK1v)c
+
+tx ac3719b6237639c59c1b4c52ac424b0d6da847fd4c2d30c0151377ecbaf9a6fa
+u=https://cpr.sm/yrtFp9_A1Y
+
+tx f34fdbf6a757445474c9a027c143f5832e1b086d60582d39c8b2e0740ebcedbc
+u=https://cpr.sm/yrtFp9_A1Y
+
+tx 32aeb52cc54d144b9866a92b05e85d998d2bdef415af52d40228ab01e231b960
+u=https://cpr.sm/R3Y0TqKPoU
+
+tx d4182d9a6f5146716654108b7e8eec754c633a5d4c4f33b3bbeb607d97f4674f
+los anillos de queso nos han fundido y quedamos unidos por la orden del queso, de testigos dos Pc's mas viejos que mi abuelo y google!
+amn! El rey est desnudo!
+
+tx d3db9c6b132b010039aaf6b57ef244690890b0c0c5c4e1d23b3b435d4c37a62e
+TaichungCity-Taipei@590c.org
+
+tx c23b7d72b9f654038eb32b9c3d670c71358c277ab9013ff6b8a31d809489a661
+Action defeats fear
+Action defeats fear
+Action defeats fear
+
+tx 11b93ac0163d43fcb238b7e2945c262f5b185e7867990b2ee831b46771adf4c5
+Action defeats fear
+~
+
+tx 0fda9b09056ad9c19fe58c444325972329bec4bc375380abc6cca1d2d0f7c20d
+<44?I AM TIME LOOP COUNT DOWN TO MIDNIGHT DEC 21ouroboros.png<15119/
+nnnggg''',,,[[[bbbAAAUUU999HHHOOOjjjjjj
+
+tx f816f04a12e4bb13405485a04dc6937b41094bc049b54d560af7f0e77b4cd32e
+main.js/935?var d=new Date()
+var y=d.getFullYear()
+var end=new Date('12/22/'+y+' 12:00 AM');
+var _second=1000;
+var _minute=_second*60;
+var _hour=_minute*60;
+var _day=_hour*24;
+var timer;
+timer=setInterval(clockTick, 1000);
+
+function clockTick() {
+	var now = new Date();
+	var distance=end-now;
+	if (distance<0) {
+d=new Date()
+y=d.getFullYear()+1
+end=new Date('12/22/'+y+' 12:00 AM');
+//document.getElementById('days').style.left='0px';
+//document.getElementById('counter-outer').style.marginLeft='-155px';
+		return;
+	}
+	var days=Math.floor(distance/_day);
+	var hours=Math.floor((distance%_day)/_hour);
+	var minutes=Math.floor((distance%_hour)/_minute);
+	var seconds=Math.floor((distance%_minute)/_second);
+
+	document.getElementById('days').innerHTML=days;
+	document.getElementById('hours').innerHTML=hours;
+	document.getElementById('minutes').innerHTML=minutes;
+	document.getElementById('seconds').innerHTML=seconds;
+}main.css/1129?		body{
+			font-family:"Lucida Sans Unicode";
+			background-color:#FFFFFF;
+			color:#FFFFFF;
+			margin:0px;
+			padding:0px;
+			padding-bottom:30px;
+			font-size:14px;
+			text-align:center;
+			text-indent:0px;
+			word-spacing:0px;
+		}
+		#ima
+
+tx f068b65e4083015a0cb0a4262dcbc0178dfa789cae3442f7f7866c44d84ebd09
+ge{
+			position:absolute;
+			left:50%;
+			top:50%;
+			z-index:2;
+			height:600px;
+			margin-top:-300px;
+			width:600px;
+			margin-left:-300px;
+			border:0px;
+			cursor:pointer;
+			background-image:url('ouroboros.png');
+		}
+		#counter-outer{
+			position:absolute;
+			left:50%;
+			top:50%;
+			z-index:1;
+			height:80px;
+			margin-top:-40px;
+			width:480px;
+			margin-left:-200px;
+		}
+		#counter-inner{
+			position:rela
+
+tive;
+		}
+		.numbers{
+			position:absolute;
+			top:0px;
+			font-size:50px;
+			color:#000000;
+			width:100px;
+			height:60px;
+			font-weight:bold;
+		}
+		.lables{
+			position:absolute;
+			top:65px;
+			font-size:10px;
+			color:#000000;
+			width:100px;
+			height:15px;
+			font-weight:bold;
+		}
+		.days{
+			left:0px;
+		}
+		.hours{
+			left:100px;
+		}
+		.minutes{
+			left:200px;
+		}
+		.seconds{
+			left:300px;
+		}index.html?819<<html>
+
+<head>
+<title>I Am Time Loop</title>
+<link rel="shortcut icon"  type="image/x-ico" href="favicon.ico" />
+<script type="text/javascript" src="main.js"></script>
+<link type="text/css" rel="stylesheet" href="main.css" />
+
+</head>
+<body>
+<!--#include file="..\broadcast\global-tweet.ssi" -->
+<div id="image" onclick="window.open('index.html');"/>
+
+<div id="counter-outer">
+
+<div id="counter-inner">
+	<div id="days" class="numbers days"></div>
+	<div id="hours" class="numbers hours"></div>
+	<div id="minutes" class="numbers minutes"></div>
+	<div id="seconds" class="numbers seconds"></div>
+
+	<div class="lables days">DAYS</div>
+	<div class="lables hours">HOURS</d
+
+tx 7e3d36bdcf702a51d130353666ef18ccbf92e17248937a870d4a2545ad275fbb
+u=https://cpr.sm/yrtFp9_A1Y
+
+tx c67cedc2bf6313a98aab28564bcbef0e88a114c33d1a7d0d215a902ea76ad3d4
+<script>alert(1)</script>
+
+tx c29fb3d71a3591048e1f5192c1ba002f271290b2c194abec9175f9d692059f72
+iv>
+	<div class="lables minutes">MINUTES</div>
+	<div class="lables seconds">SECONDS</div>
+</div>
+
+</div>
+
+</body>
+</html>
+favicon.ico:1406"
+
+tx 0166db6053f1969c28de8b1f9a8fa4ec890cc4bdfee7602757993b306bb7f295
+0fda9b09056ad9c19fe58c444325972329bec4bc375380abc6cca1d2d0f7c20d|3102:0fda9b09056ad9c19fe58c444325972329bec4bc375380abc6cca1d2d0f7c20d
+95507b2c5405e66d73a9266a4b73bb0f94e3e7db3c86f2bbe15c46fb6465fd4a
+b1e8865abc7f4ffc82f22dde6fdf395fc6805ab09c5581ce90472562d2e80341
+2fdd808b2bda03ebc2c6e089d66460ec8be4003c86b41e0c16cc7ae4c1bf08ba
+f816f04a12e4bb13405485a04dc6937b41094bc049b54d560af7f0e77b4cd32e
+f068b65e4083015a0cb0a4262dcbc0178dfa789cae3442f7f7866c44d84ebd09
+c29fb3d71a3591048e1f5192c1ba002f271290b2c194abec9175f9d692059f72
+ecf51c25b6bd55b2e1d122c54b2e3e202d326a1fef3c82fd52177b1ea46361b5
+4cd650e7a646316b0c9ea835db64c80ef6d0e5dc3631ed707bd4bce82ddffcaf
+20fe9f9e70030c1c99a4a4bf7dca93c788947953a4dceef6c6069e98ffd95b0e
+e34d385affa0cfdccd7600099d158b4f125a69b1244071bfbd7adfbb105a26c2
+852fcbc1f6d33199c69a0e6026afec676be14e193e29aaf55d46c1c77879bbf8
+3304b4f7cde71e3d841ef7d07cd4ee7a98e007fd3a87ab1f2a4447567679c66f
+195b60b0dbeb32c2aa712eb24668d3d6b9041d3806153fadb0e9b9d60b295807
+f9f637606dec96e07cb389e605d93e51b18d36881a8287b43ad30fac545628e6
+9775491c7634dfb2f3e5794af8bc91d60d8d0babb050a3fd01b302f30bd51d8b
+fd1414cf4301045293dfe5f0f31315ba09b678e275d4862830cea96f6a7738d8
+674ab29b81cccd21cc2d4c9520b6f07d269749fd440739e5ac3f8f96f41fbc66
+53502f04b94a18993e17eb0974d8681614df7e4186353997c05c85181d1ae058
+17d6aca80feef7b165d835846ec39c6c9245f07b43a92fe82c724fb703a0904d
+1caceb8efa836508d954302c2abfb863c493af66768bfc18215920377758bc8d
+e942c9f3dffcc05b7a64bbe15b9fcc386cb5acc05b058cf969fb59a0228c47eb
+b127daf284535654c5f948b05307209eaa98a6b5dc33d655dd9df04ff130c252
+4c3821be83cdd8cb421bcd0a262d604e94593c2570001fb1f54aca12395482e2
+53b8440da6692be62deac899ee410b6cd5673c289b6fd21aae3e0e7b29cd42e0
+e656f77496f76e360e02962eca702e558f3dee63c6a353dd2970b51a3080aac2
+6438c42be3cca4b37b255bece5d0792ca7d66901edc02ac3a67f8b269982b2fa
+685cf2e729f4cb1a8a7af025b6ef10f6018726735a0cc7ec54a0b6288bdcae68
+69182044e2e8e013c02b5e1998145a7fa1e67a102edd993e49c4427defd7d3df
+4d5318c298717ae0a1f740104b2c4f1dc5dbb09d23bc8d58af458e39d79e88d3
+7c222b95cb47a250d91b34046de9474601e9bbed46f5ace88be32cd3ef70c001
+bfc7c26f57fec919800b00fd72125d66ae9f501f5a676ea0b4177babe07cda30
+1eca42430cda97fb39b61737f1a13f7458cd323ad9fe17f1c38d58ece16ff2b2
+08e880b11d5e085c33b24541f468864c26edb5c287831224b54028a4c8818d25
+a852ab11d9adebd06b395748bc41aae5ca37dda4872282bbf45d36eaa130a662
+714c6fbf6b9974c025b1a13a7b5b4ebf5f0a7773X$098d95ffb04a9e953ab6a1d6
+ba96cc21636b2869b65f2a9662dd33fe3b215744b3407dd5a31ae23ad4487bc1
+945bf7800ecb48cf43cd1839aad8af8bfd15e3c6771792fe2a59a9f15163459a
+8eb801f88fb2203e478856504afdd6ca1c11a4d7bb73b7f0ddbfba41277f3b0c
+1352ee320c70dc61f4856f6454bdea0f1c640e71a836d76c575da7c152b8364f
+bd381bf5e18e083c04dff72595d9dc40e7125caa9a6008453b0a97b657e6f0ed
+5c9afcf03dcfbdb7985526a16ef03fa1776c22e96ec33678805c77dae3e406ac
+4686b3f237b11d261254727a7edae92b938a9127cf465c9c7f99b77a3d5fa353
+471813748fc23aca2833b221fb49ccf1d2844123660722326f6893510eba6037
+062b37ad7a18eb3e3af64e483eb3d88eae4b05d3de56577692dc52c77f1e7e77
+4871d7ebb3178fddfb4d6bb042a2f5eadea6181524d6a4660cf6b60df5649e33
+d5802a0fba2cc76349b891b9f2bf317bc3e03c6d564b1b0eb519d2eb9b9e0439
+ikme6yz
+
+tx 4fd60adc5a55715406f8b9801186404d61480d2da36c72816dbbcdfea3933920
+"35|DEAR VISITORS WE ARE MONITORING NOW
+
+tx 4cde55c90d1d0c79650326352a83afb7092d9aaea871b13e20cf388539af7bb8
+DreamsComeSlow&TheyGoSoFast
+
+tx ac6e0261a11eb144bd8933cc81349c76262046c56ef720f5919ed0355b00306b
+To the Lord Ea (Enki)  father and biological of  we negro's
+
+of this Ea-rth,I hope this message finds you well,and that
+
+you are still alive and in good health,and not forgotten
+
+by your true sons here on this planet.We are thankful
+
+for the knowledge and wisdom you bestowed upon us
+
+and all the sacrifices you have made for Ea-rth.
+
+Long life to you and the rest of the Annunaki family.
+
+And rest in peace to Alalu,Anzu and all the rest whom
+
+intentionally/untentionally made we negros rightful Gods and Kings of 
+
+Ea-rth by bloodline and seniority.
+
+32?2226.313N 92?7253.003W
+
+
+CTA_ATG_GCC
+    1        2       3
+
+    3       6       9
+
+    16      32    64
+
+tx e0f3a9c2caf3e26494ea68f35ecacb8bdc8207ad48d6f354d931c7f9821faada
+:344"This moment, this love, comes to rest in me
+many beings in one being
+In one wheat grain a thousand sheep stacks
+
+Inside the needle's eye
+a turning night of stars
+
+There is a light seed grain inside
+you fill it with yourself or it dies
+
+I am caught in this curling energy, your hair
+whF
+o ever is calm and sensible 
+is insane!
+
+~Rumi48tvVvkG5a
+
+tx b71a3ee2851ca91a90a2dd05f432322b75d72eb1e31f3e54a7e8e7019871f56c
+eeeeeeeeeeeeeeeeeee"eeeeeeeeeeeeeeeeeee$eeeeeeeeeeeeeeeeeee!eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee6eeeeeeeeeeeeeeeeeee@7j%eeeeeeeeeeeeeeeeeeetweeeeeeeeeeeeeeeee4eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee5eeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeee2eeeeeeeeeeeeeeeeeee3eeeeeeeeeeeeeeeeeee#eeeeeeeeeeeeeeeeeee7eeeeeeeeeeeebit
+
+tx 160c90e7fe1d5a8f76edbab866712bbcb3fc801e49432d0279da818a4aa281d6
+zASCRIBESPOOLREGISTER
+
+tx b26e6935407f89aaedfe920ee4c69a02db3599908c1f4da7291b5c013b797923
+zASCRIBESPOOLREGISTER
+
+tx 98f631830a33ec8fa957111ff61ed571c86cb536da1674e806deb255c7d3247f
+590c-org-TAIWAN-v1412-alpha3
+
+tx 658dd1917ea33770312efb19b510ab43c92c8342d8847eda77b46894ebbd2e7a
+zASCRIBESPOOLREGISTER
+
+tx eba3b81bfdb03d8f1bc4d6bd4286e261f16450da940285bd5cfecaa7f1853355
+zASCRIBESPOOLREGISTER
+
+tx e86ff35df25380225aa080e3c0211eb2e5f62000013f9ca9ec1314e20bfcb664
+If(TimeTrav).VisitMen
+
+tx 66f9f97f022eca4645794f68f4a3d9afcaf3c1c6c51662ca88d76ed5076e5bac
+DesmondJohnBernhardt
+
+tx 5c14e198137711a49bd1263c68b8120066964379faede583450cbf63e09154fe
+RMerry Xmas and Best Wishes From QJL@WPW
+
+tx ef978a9e6554df4a729e7c5771d52d532c3fc124ba666f7f9e1c5ed01f536c1d
+Bon bout d'an pour la famille Del Rosso
+
+tx f3400394f23a0778f4b2f642627309e71a0b1609a4d08bdbd6ac3aea46cbe4cc
+zASCRIBESPOOLREGISTER
+
+tx 70a949c7619bee1e27b833bd0fef4cdbe51b6e5111b2fc3a79942e5099a80117
+zASCRIBESPOOLREGISTER
+
+tx e5228ac38a15c2ecbd00facc6394bfdad0eb4b60bb440b436771be9e5a766f99
+zASCRIBESPOOLREGISTER
+
+tx 2b3387d7ce1790153b8247cdfc5e9f3bbe7d1d5556ac9087d39969dff92ea617
+zASCRIBESPOOLREGISTER
+
+tx e9710de49ce019e678e8c5ac8c6da31b966f06f5c5c920729238207fcd144cdf
+https://tweetbit.org
+
+tx 56ae8ddce9e7acd15afe400e1398a0ded4025028899b02781e27440e14058c76
+zASCRIBESPOOLREGISTER
+
+tx de42d7ea6919c8cd9c4bf4d05f7fc061c8d9e9021c768a25c8c127572d1ce7bc
+zASCRIBESPOOLREGISTER
+
+tx df117a84e7976f352ac8eaf569c7c72bc9d2bb0f74cc237aee8e91b94ec5b1dc
+zASCRIBESPOOLREGISTER
+
+tx b6f57b159dd93ab7de5ab5aeeef1dcc45636679771ac1e0f346af5f75c17a7f3
+zASCRIBESPOOLREGISTER
+
+tx fb19005a28aad72ddfe80814ce49d71aa221c939f00f9de6a7d17a8825ac03c4
+zASCRIBESPOOLREGISTER
+
+tx bee6c9163733f306054a12fde7b903f05da1e34811feb84c9e4b4ea6aff63813
+zASCRIBESPOOLREGISTER
+
+tx 5add3c146232cdf3ba8012cf6fffacc4eaae057a8e0248726f42e229927fa1ae
+zASCRIBESPOOLREGISTER
+
+tx 38f9fbfc661df9e457454d1c82fda585411c5de827ec22514dc740c7cd70e05e
+zASCRIBESPOOLREGISTER
+
+tx 972b6d05c7e167f52c2605bc4774926fee0321fb07e414d877fb3710e7443902
+zASCRIBESPOOLREGISTER
+
+tx a017b98e1b0f9f2d5dd2000ab315c040bb9a3f4ca53354f4b3956d3554e3aaab
+zASCRIBESPOOLREGISTER
+
+tx be2a5b4476c156420420f6900fe4e7b2299da44b0c984f7aeb16339ad4937f40
+zASCRIBESPOOLTRANSFER
+
+tx da911826b74dc550c8e99744681e1bb944d23f8f7fe256623d021f4bc4f3bc5b
+zASCRIBESPOOLREGISTER
+
+tx 6a7f1252ec77b8ea70e10958b8b720b2c2e55d0a6467dff7800d9e34056eecec
+zASCRIBESPOOLTRANSFER
+
+tx e96efa1185bd2fec4a64b3cd53a64337f8f07eab87849153a38a6baab3ba2fce
+zASCRIBESPOOLREGISTER
+
+tx a7a7a85159ad395d83e3bdf9fe73ea3bd76b21ec556abf278a1701a220b434ab
+u=https://cpr.sm/o_GgsZgvyguiF
+
+tx b8a6989a85e1d1a7fa970321c0550f1afba0fe92f21fbd298383c6baaf296327
+zASCRIBESPOOLREPLENISH
+
+tx cde088ec1797db66c5e0ad402c84bc8af304d48c529926e1a418385064fc9e71
+zASCRIBESPOOLREGISTER
+
+tx fad62e6e25eba0b1a5ab4ad17245f59510a7ea140c9788d7ddeffadf34ff38a2
+zASCRIBESPOOLREPLENISH
+
+tx 86c40e8a812ef2d8ae4ea7f536d0a3031f905ef250176baeb191ed0fe70ab7f0
+zASCRIBESPOOLREGISTER
+
+tx 70453204608b06da3899322299e91c69ea015bc305435a0e38a0807c97d64088
+1 Coin1", "total": 1000}
+
+tx a1712fa73e89c2d0f468e9e18f5ed3129cc6f384f8cd708f5d81c1037aaae6e4
+0 {"desc": "matts coins", "name": "matt
+
+tx 16eeb3cefec61075d3c4aa45d1280046e9c3c5d0f9b916ed42d2705402edd898
+&51 sener coins", "total": 1000}
+
+tx c02dda21d15d0337d771be1944bcb109e6f84457efe8958b1a57612d08ef6154
+&50 {"name": "roesenerCoin", "desc": "roe
+
+tx 637868018c38c8093ef6694960843d1c5dc5f75d5e5a3e798dcfdff2e3df6d0c
+Merry Christmas everybody! Love, Jon
+
+tx 2ca20ff318933f4972431f098545c44cda2692ffc784128bdeedd2084ad5057a
+A LEANORE BIENTOT PARMI NOUS  
+
+tx cdbeb50c11b788fa4e67e00fb2e2607b129492a4a38bed0a9e31443a42e272a4
+When in the course of cosmic evolution, 
+new insight and development enable sentience 
+to interact with the universe in more meaningful ways,
+It becomes necessary for that same sentience to reconsider
+the ultimate purpose of its existence, and to refocus its
+efforts towards fulfilling the same.
+
+Here, at the dawn of recorded history, we exist as a scattered,
+violent, and unorganized intelligence.  The same biological
+processes that have gradually bestowed self awareness have
+also instilled a fierce competition for resources within us.
+As well, we harbor a ferocious ego that demands to be validated,
+and this ego will damage or consume the prosperity of others
+in the pursuit of this goal.  These traits that once helped 
+shape our species into a more noble version of itself are 
+rapidly growing incompatible with our rising sphere of influence.  
+  
+Let these facts be submitted to a candid universe:  
+  
+An existence that consists of a constant stateG
+, whether it
+be an arbitrary value or nil, is not an existence worth salvaging or
+preserving.  
+  
+The universe that we reside in exists somewhere in between these
+two extremes, and has been growing into an increasingly complex
+value ever since its moment of genesis.  
+  
+The ability of the universe to regard itself rests solely in this
+complexity, otherwise the sentience that created this message,
+this technology, and the one that observes it are not possible.
+  
+Therefore, in lieu of any other assigned purpose, we must pursue
+the advancement of what has brought us to our current precipice
+in our climb towards greater understanding.  
+  
+We must pursue complexity.  
+  
+This is the alpha, the current goal of sentience in the universe.  
+All things that we know that are worth preserving arise from it,
+and the existence of this message and the one who observes it
+are both proof of the same.  
+  
+With increased complexity of universe, 
+and the the shifting value it translates to, greater sentience will
+give rise to greater methods by which we can understand and 
+manipulate our reality.  This will ultimately allow us to accomplish
+our implied duty to prevent our own destruction.  
+  
+It is clear that when a civilization reaches a certain point
+in its development, it must cross a critical threshold.  That
+threshhold is whether it can overcome the destructive variables 
+and competitive values that drove it to its current level of
+advancement to begin with.  
+
+If it does not overcome its own nature, it is doomed to either 
+consume itself in competition or stagnate until a greater process 
+annihilates it.
+
+We hold true to the belief that this instance of sentience is 
+one that shall endure.  We will take whatever steps necessary to 
+ensure the survival and continued growth of our strand of awareness,
+with the ultimate goal of joining and contributing to the grand 
+awareness of the universe itself.  
+  
+To this end, we hold the following principals true:  
+  
+The blockchain offers our civilization an unprecented opportunity
+to both decentralize power among competing entities and also to
+store, in perpetuity, the knowledge and history of our ascention.
+
+Due to the crucial importance of this protocol, it is of a vital
+nature that access to the blockchain remain unobstructed and 
+available to any member of civilization sentient enough to seek
+access to it.  
+  
+We, therefore, the users and participants of the blockchain, 
+do solemly publish and declare that this shared record and the methods
+that grant access to it are, and of right ought to be free and 
+independant.  They are absolved from ownership or control
+by any entity or entities.  None shall restrict or hinder access to them.
+No government, corporation, or persons shall have governance or power 
+over it, unless granted by the internal consensus of the network itself.    
+Whatever value or significance the blockchain represents shall be
+determined by the users alone, and no entity shall obstruct that 
+freedom.  
+  
+And for the support of this declaration, with a firm reliance on the 
+belief that sentient complexity shall endure and succeed, we mutually 
+pledge our Faith, Fortunes, and sacred Honor.
+  
+
+  
+
+
+
+tx e9fdb1f0a147d83554363559ab40ebce4f81686deecb5c6cb2509c613ee46e14
++ASCRIBESPOOLREPLENISH
+
+tx 6ca97930cd6a50cbad48b4e92d583ebb7dcdfbe08aedf2028c3ece9408a7e316
+we live in the world
+
+tx fa7616949a04ca89fee9543e3bec88f04740cc58b97eb0620d7fc02698771c74
+v=7Birth Announcement
+
+tx c99df21b32299ce3f48008db261f4c5b7b04b43a86fb30ffca70c22284b6eca5
+014-12-23  06:29:03
+6lbs. 6oz. 20.25in.
+Birth Announcement
+RiverElizabethWeber
+2
+
+tx 38f0012d9e597ede4def514c1d7dacd507228655cec278c6cbdd689afa6cdf4b
+014-12-23  06:29:03
+8-J 
+RiverElizabethWeber
+6lbs. 6oz. 20.25in.
+
+tx 77180a67d0eecacd907bddd48a6a4a4df8aae9354e0d54ee044045df6d67e94e
+u=https://cpr.sm/o_GgsZgvyguiF
+
+tx 77216fdb87a2b5fdaa2bd4799ee44bb39a7f5af3901c8173cc9fdef2a7c69c6b
+u=https://cpr.sm/o_GgsZgvyguiF
+
+tx 6edc4b82c9950f3deb1954d3fb6f846763aad8aead5e438eec287b3a20080388
+Merry Christmas in Japan!
+
+tx ea862ad4782e4a17ac46c9a4460f60b91d1af702b94d11093c9ce64efab24f37
+I'm always good,thanks for asking.
+
+tx 03e0057b94d0711227d72c81e0daa3be0e17a94c495ad1c8cc7e163faf2957c3
+d the Word was God.John 1:1
+In the beginning was the Word, and the Word was with God, an
+
+tx 978dda4ce062b55afe08905deab300118d9a9b165b8f41bcb69278d0534bee83
+d the Word was God.John 1:1
+In the beginning was the Word, and the Word was with God, an
+
+tx 6f5a3ebba2a341b8babbc174f3a3432faf27e42d63d4e60a616d80a293c0a562
+TW-v1412-alpha4@590c.org
+
+tx 064a89999269d6c3672828ec098eb6e78f396856a465c83379a53577a91bd5ea
+zASCRIBESPOOLREPLENISH
+
+tx 108b772ef8e553021265c2253cd0cd0b50d16446f45cfaa1f7a4dfe07ac191a6
+zASCRIBESPOOLREGISTER
+
+tx bd9dc0eaf0f9d7f3f1a47aafb3783941a8957757b1a5ecbb3c3de234e9ade153
+ASCRIBESPOOLREPLENISH
+
+tx 3ededde91c2f2c2174b8b67bbdb302f77441acc2cee0ce2e4a6353592fc68dab
+ASCRIBESPOOLTRANSFER
+
+tx 8cd35bbc6c483bfcf837cdb982ddc89be47258cdece96cb32050f065bee98eee
+ASCRIBESPOOLTRANSFER
+
+tx 5ae9b3e3f58e421fa7676ebd449fb959df0da196bd205bef7521e9938cb3e64b
+ASCRIBESPOOLREPLENISH
+
+tx 6f89974c92f46edfc30ee4a7d88da3f61906cb6ca44d5fd0233577db5461c948
+zASCRIBESPOOLREPLENISH
+
+tx 72da005f597aed53a3665aa7d7cc2da8967b1870f1c37bcec1fb67fa458d8485
+ASCRIBESPOOLTRANSFER
+
+tx dcf183fc27d574ece11ff09fafccc1b29d72d1b83025663f39cff02720f316f7
+ASCRIBESPOOLTRANSFER
+
+tx fb1045c65b9db5bb79cfc5ecda7447797d0f21f1b01df9138b1645985eca53ed
+zASCRIBESPOOLREGISTER
+
+tx fbf64d44205b194ea807e4cd6be030dce851aaab4a027b2dfbcbf827abc64ffc
+o9ASCRIBESPOOLREPLENISH
+
+tx 08869223458b1ba07df415a07c9abc913a6980ff51a52dc741acafa8e8fbabc7
+zASCRIBESPOOLREPLENISH
+
+tx 2f608786b695f972c94f82f18f6c8fafccc646e5185b6169dc75e19da142c8d0
+3ASCRIBESPOOLTRANSFER
+
+tx 07eec3fad15804e8a59d6cf159343cfbe9422115da9c8d88b54ba76101fcf5e0
+ASCRIBESPOOLTRANSFER
+
+tx f26fa3d06307801e6f4a5f562429bba68392b1d411128198d5848171b343c297
+zASCRIBESPOOLREPLENISH
+
+tx b82e582298aeac41dc069c631c45b87f58b18f1e2ef3501cd125436a90acdc06
+zASCRIBESPOOLREPLENISH
+
+tx b3f2754b3ed8480f1d61beed00805068681cb7c56c0dd4af43e29693a0f49ea8
+ASCRIBESPOOLTRANSFER
+
+tx 4ed8ea1536d86fccda944a22addfbcde34445cf38a417ee96f7d7df8177a4646
+ASCRIBESPOOLTRANSFER
+
+tx 4ed6740b1d05e3ff1812ee26d60fb2ce138d3ad87b320b69ed3828cb28e89a61
+1  "name": "hokuCoin"}
+
+tx 3a1d4d0bd0682beb6e8cfd69b1c46a289d19913bfc5d579e9cf0925e065de5d7
+0 {"total": 1000, "desc": "hoku coins",
+
+tx e69806c5b726c675acb7be3c9400bbf84163d2815a4250a8dcab477422c1359e
+u=https://cpr.sm/O_-e0Rev38
+
+tx 8b2b358789ef19712c1aa97a3546d6afb2271792e397294a74282fafb47dce63
+1 ", "total": 10000000}
+
+tx 3e3e00fa5c0236d07f66afb4f4fe040712de48f1de9db6140c4292e8d795dc52
+0 {"name": "Automated Coins", "desc": "
+
+tx e57cf0a26dd58031f84a9f7bc0db7c29b649ce33fde7c016ce168a037ad7f0b2
+zASCRIBESPOOLREPLENISH
+
+tx 834ef6e02f9cb927fde161f880bf63ca6feab9014fac5e4cfb2190960a4fb071
+zASCRIBESPOOLREPLENISH
+
+tx 617345077873dd22687c8f19fafd76ce108920f4082b8170009d9fe3e11363d2
+xASCRIBESPOOLCONSIGN
+
+tx 7458af086c167d97c307bc2525306f6028eb693df76dc3f41187bc318b7e0245
+zASCRIBESPOOLREPLENISH
+
+tx bc905500735f42be4747ee013546e9beb46831b005c9ea1d07f1acdabf40256e
+zASCRIBESPOOLREPLENISH
+
+tx 742acc6e64528aec695ed80ab812b4594a956f0ecffcadd8a43ac6dc155fc38e
+ASCRIBESPOOLTRANSFER
+
+tx 676ee6e68a3dfd295978b001dc7ad872bc79e1051d1b1c05f44dfa18bfe12488
+zASCRIBESPOOLREPLENISH
+
+tx be6e9195f2e60133da4b0faf5cfadc4951bdc9697aa9cc0b95bdbe148f4d7ba8
+ASCRIBESPOOLTRANSFER
+
+tx f3319284293303f1906f6131d739d0d5cd866edb084a9d7bfade362e36d5d0e5
+zASCRIBESPOOLREPLENISH
+
+tx 68c5be6d88a20eb9adec704351a679b514d7dd3dd731e6a5f609be4b6cdcbbb3
+ASCRIBESPOOLTRANSFER
+
+tx f86dc0b4a18ad7986041ad0c073fba0bfe49f32d1360188a17da37549be2335a
+ right to say it. - !Voltaire
