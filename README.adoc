@@ -116,6 +116,8 @@ Since we are already going to all this trouble to properly index the ASCII strin
 
 === Image indexing
 
+Interesting finds commented at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain#images
+
 The following files index all transactions such that the very start of their script constants matches known file signatures:
 
 * link:data/jpeg[]: `FFD8FF`
