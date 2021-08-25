@@ -16,8 +16,6 @@ A selection of interesting content is being published at: https://cirosantilli.c
 
 toc::[]
 
-== Data showcase
-
 == How the data is organized
 
 The Bitcon blockchain is composed of a linear list of blocks, each containing a list confirmed transactions.
@@ -30,7 +28,7 @@ Each of our files corresponds to 1000 blocks, e.g.:
 
 and so on.
 
-Those files in particular are however empty, because there were no ASCII encoded data in them. Such empty files basically never happen on the modern blockchain where spam is constant, only in the very early days.
+Those first files in particular are however empty, because there was no ASCII encoded data in them. Such empty files basically never happen on the modern blockchain where spam is constant, only in the very early days.
 
 The mining difficulty is recalibrated every two weeks such that each block will take about 10 minutes to mine. Therefore 1000 blocks corresponds to about 7 days of real time approximately.
 
@@ -59,7 +57,7 @@ which means that there were two transactions:
 
 You could click on the files one by one on the web UI: <<index-of-data-files>>, e.g. link:data/in/0132.txt[], but it is going to get tiresome.
 
-More practically therefore you can do:
+More practically therefore you can do from a terminal:
 
 ....
 git clone https://github.com/cirosantilli/bitcoin-strings-with-txid
@@ -67,7 +65,7 @@ cd bitcoin-strings-with-txid
 tail -n+1 data/in/* data/out/* | less
 ....
 
-However, the majority of data in the blockchain, like everywhere else in the interent, is crap, especially after a its https://en.wikipedia.org/wiki/Eternal_September[Eternal September] started.
+However, the majority of data in the blockchain, like everywhere else in the Interent, is crap, especially after a its https://en.wikipedia.org/wiki/Eternal_September[Eternal September] started.
 
 To try and filter some of the spam, see: <<data-mining-hacks>>.
 
