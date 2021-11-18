@@ -108,7 +108,7 @@ ls | xargs wc | sort -nk1 | grep -v total | awk '{print $4}' | xargs cat
 
 == Indexes
 
-Besides link:data/in[] and link:data/out[], the link:data[] also contains some files which index some other interesting stuff besides ASCII strings.
+Besides link:data/in[] and link:data/out[], the link:data/[] directory also contains some files which index some other interesting stuff besides ASCII strings.
 
 Since we are already going to all this trouble to properly index the ASCII strings, this comes basically for free.
 
@@ -173,7 +173,7 @@ Open all on the browser at once https://unix.stackexchange.com/questions/17659/o
 sed -r 's/^/* http:\/\/bitfossil.org\//' data/atomsea | xargs chromium-browser --new-tab
 ....
 
-TODO: noticed half way that stuff like http://bitfossil.org/747f5038e954a53e947b71c1b5f3a7c61c854fc310247ac79359f099b07a19b1/index.htm was missed and got lazy to path. Payload bytes on wire are:
+TODO: noticed half way that stuff like http://bitfossil.org/747f5038e954a53e947b71c1b5f3a7c61c854fc310247ac79359f099b07a19b1/index.htm was missed and got lazy to patch. Payload bytes on wire are:
 
 ....
 00000000  53 49 47 7c 30 30 30 30  30 38 38 3f 48 39 67 56  |SIG|0000088?H9gV|
@@ -416,9 +416,9 @@ First we dump the <<utxo-dump>>.
 
 == Deterministic output ordered by block height
 
-bitcoinstrings.com directly does `strings` on the blkXXXXX.dat files downloaded by Bitcoin Core.
+https://bitcoinstrings.com directly does `strings` on the blkXXXXX.dat files downloaded by Bitcoin Core.
 
-However, those files appear not to have a fixed order based on what gets downloaded first from the network:
+However, those files appear not to have a deterministic order, the order being based only randomly on what gets downloaded first from the network:
 
 * https://www.blockchain.com/charts/n-transactions-per-block
 * https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_2):_Data_Storage
@@ -482,11 +482,11 @@ where:
 * `14`: 0x14 = 20 bytes of data follow (the payload)
 * `88ac`: `OP_EQUALVERIFY`, `OP_CHECKSIG`
 
-This forms a https://en.bitcoin.it/wiki/Script#Standard_Transaction_to_Bitcoin_address_.28pay-to-pubkey-hash.29[Standard Transaction to Bitcoin address], except that the pubkey is data, so that the funds cannot be recovered once sent like this: you have to burn some money to do it.
+This forms a https://en.bitcoin.it/wiki/Script#Standard_Transaction_to_Bitcoin_address_.28pay-to-pubkey-hash.29[Standard Transaction to Bitcoin address], except that the pubkey is arbitrary data for which you don't have a corresponding private key, so that the funds cannot be recovered once sent like this: you have to burn some money to do it.
 
 Such output transactions with the minimum script size likely lead to cheaper data upload, and therefore are very dominant.
 
-Because bitcoinstrings.com simply does `strings -n`, it does not take the metadata around the payload into account.
+Because https://bitcoinstrings.com simply does `strings -n`, it does not take the metadata around the payload into account.
 
 This notably leads to:
 
@@ -688,11 +688,11 @@ cd .bitcoin/blocks/
 strings -n20 *.dat
 ....
 
-This is extremely fast, but because it does not parse the transactions, and therefore cannot achieve any of the extra features this project provides.
+This is extremely fast, but it does not parse the transactions, and therefore cannot see metadata and provide the extra features that this project provides.
 
 This repository instead relies on https://github.com/alecalve/python-bitcoin-blockchain-parser[], which actually parses the blockchain, and allows us to achieve all of our extra features. I wonder how much faster the C++ parser would be: https://github.com/znort987/blockparser[], 10x would be a game changer, but this project is not important enough to be worth the port right now.
 
-Then we somewhat reimplement `strings` in Python(more precisely `strings -w` to include newlines).
+Then we somewhat reimplement `strings` in Python (more precisely `strings -w` to include newlines).
 
 Currently only the https://en.bitcoin.it/wiki/Transaction[input and output script fields] are searched for. There may be other ways to encode strings in the blockchain: https://bitcoin.stackexchange.com/questions/32575/what-methods-are-currently-used-to-embed-additional-data-into-the-bitcoin-blockc but this covered all cases I was interested in so far, if you find a missing case, send a pull request.
 
