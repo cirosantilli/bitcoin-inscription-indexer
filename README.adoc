@@ -124,10 +124,13 @@ The following files index all transactions such that the very start of their scr
 All those possible indexed images can be quickly downloaded from https://blockchain.info[] without the need to download the entire blockchain yourself with link:download_tx_consts.py[]:
 
 ....
-python -m pip install --user -r requirements.txt
-./download_tx_consts.py --images-all
+sudo apt install libleveldb-dev
+python3 -m pip install --user -r requirements.txt
+./download_tx_consts.py --images
 xdg-open data/bin/<txid>.jpg
 ....
+
+TODO broken as of January 2022 because they broke `?format=hex` URLs of type: https://blockchain.info/tx/9bdb59a0f5858af670d9b412041b8918114d7c56cc637f57f1d8469f101a5d0b?format=hex[]. `?format=json` ones are still up though: https://blockchain.info/tx/9bdb59a0f5858af670d9b412041b8918114d7c56cc637f57f1d8469f101a5d0b?format=json[] so we could use those instead. But lazy to think now. Related: https://bitcoin.stackexchange.com/questions/57009/how-to-view-raw-json-bitcoin-transactions
 
 Many of the indexed transactions are just coincidences that start with the signature bytes, but are not actually images.
 
@@ -726,7 +729,7 @@ sudo apt install libleveldb-dev
 go get github.com/in3rsha/bitcoin-utxo-dump
 ./utxodump-to-sqlite3
 
-python -m pip install --user -r requirements.txt
+python3 -m pip install --user -r requirements.txt
 ./main.py /path/to/.bitcoin/blocks/
 ....
 
