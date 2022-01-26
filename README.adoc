@@ -148,6 +148,8 @@ mv ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.bin tankman.
 
 This feature is similar to https://cryptograffiti.info[] but they apparently are tracking only the Bitcoin Cash fork of Bitcoin Core, which is much less popular and therefore less interesting as of 2021.
 
+TODO how to download from a local full note instead of from https://blockchain.info[]? All `-s` options seem broken currently, partly becuse of a lack of requirements.txt entry. Oops, got to revive them.
+
 ==== satoshi_uploader
 
 Data uploaded in the format of https://cirosantilli.com/satoshi-uploader

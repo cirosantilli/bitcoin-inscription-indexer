@@ -69,15 +69,16 @@ UTXO_DUMP_SQLITE = 'utxodump.sqlite3'
 def basename_to_int(basename):
     return int(re.match('(\d+)\.(dat|txt)', basename).group(1))
 
-def download_tx_consts(_txid, index_offset=0, _input=False, **kwargs):
+def download_tx_consts(_txid, index_offset=0, _input=False, out_not_in=True, **kwargs):
     response = json.loads(requests.get('https://blockchain.info/tx/{}?format=json'.format(_txid)).content.decode('ascii'))
     ret = []
     if 'minlen' in kwargs:
         minlen = kwargs['minlen']
     else:
         minlen = 0
-    for out in response['out']:
-        hex = bytes.fromhex(out['script'])
+    respio = 'out' if out_not_in else 'inputs'
+    for io in response[respio]:
+        hex = bytes.fromhex(io['script'])
         script = blockchain_parser.script.Script.from_hex(hex)
         extract_ops(ret, script, minlen)
     return b''.join(ret)
@@ -118,6 +119,16 @@ def extract_ops(ret, script, minlen):
                     ret.append(op)
     except Exception as e:
         ret.append(script.hex)
+
+def init_datadir(datadir):
+    if datadir is None:
+        envvar = os.getenv('BITCOIN_DATA_DIR')
+        if envvar is None:
+            return os.path.join(pathlib.Path.home(), '.bitcoin', 'blocks')
+        else:
+            return os.path.join(envvar, 'blocks')
+    else:
+        return datadir
 
 def outpath(file_num, pref):
     return os.path.join(outdir, pref, '{:04}'.format(file_num) + '.txt')
@@ -611,12 +622,7 @@ if __name__ == '__main__':
         help='/path/to/.bitcoin/blocks. Defaults to BITCOIN_DATA_DIR env variable, and if that is not set then ~/.bitcoin/blocks'
     )
     args = parser.parse_args()
-    if args.datadir is None:
-        envvar = os.getenv('BITCOIN_DATA_DIR')
-        if envvar is None:
-            args.datadir = os.path.join(pathlib.Path.home(), '.bitcoin', 'blocks')
-        else:
-            args.datadir = os.path.join(envvar, 'blocks')
+    args.datadir = init_datadir(args.datadir)
 
     if os.path.exists(UTXO_DUMP_SQLITE):
         utxodb = sqlite3.connect(UTXO_DUMP_SQLITE)

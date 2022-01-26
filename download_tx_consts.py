@@ -17,7 +17,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     '-d',
     '--datadir',
-    default=os.path.join(Path.home(), '.bitcoin', 'blocks'),
+    default=None,
     help='Path to .bitcoin/blocks'
 )
 parser.add_argument(
@@ -54,6 +54,7 @@ parser.add_argument(
 )
 parser.add_argument('txids', nargs='*')
 args = parser.parse_args()
+args.datadir = main.init_datadir(args.datadir)
 
 if args.source == 'parse':
     blockchain = blockchain_parser.blockchain.Blockchain(args.datadir)
@@ -61,37 +62,39 @@ if args.source == 'parse':
 
 def download(txid, **kwargs):
     global args
-    if not 'ext' in kwargs:
-        kwargs['ext'] = '.bin'
-    if not 'outdir' in kwargs:
-        kwargs['outdir'] = '.'
-    if not 'satoshi' in kwargs:
-        kwargs['satoshi'] = False
-    subkwargs = {}
-    if kwargs['satoshi']:
-        subkwargs['minlen'] = 20
-    outpath = os.path.join(kwargs['outdir'], txid + kwargs['ext'])
-    if not os.path.exists(outpath):
-        print(txid)
-        if args.source == 'blockchain.info':
-            data = main.download_tx_consts(txid, _input=args.input, **subkwargs)
-        elif args.source == 'parse':
-            data = main.extract_consts_tx(blockchain.get_transaction(txid, db), _input=args.input, **subkwargs)
-        elif args.source == 'rpc':
-            data = main.download_tx_consts_from_rpc(txid, os.environ['BTCRPCURL'], _input=args.input, **subkwargs)
+    for out_not_in in [True, False]:
+        if not 'ext' in kwargs:
+            kwargs['ext'] = '.bin'
+        if not 'outdir' in kwargs:
+            kwargs['outdir'] = '.'
+        if not 'satoshi' in kwargs:
+            kwargs['satoshi'] = False
+        subkwargs = {}
         if kwargs['satoshi']:
-            length = struct.unpack('<L', data[0:4])[0]
-            checksum = struct.unpack('<L', data[4:8])[0]
-            data = data[8:8+length]
-            assert checksum == crc32(data)
-        with open(outpath, 'bw') as f:
-            f.write(data)
+            subkwargs['minlen'] = 20
+        iosuf = '' if out_not_in else '-in'
+        outpath = os.path.join(kwargs['outdir'], txid + iosuf + kwargs['ext'])
+        if not os.path.exists(outpath):
+            print(txid)
+            if args.source == 'blockchain.info':
+                data = main.download_tx_consts(txid, _input=args.input, out_not_in=out_not_in, **subkwargs)
+            elif args.source == 'parse':
+                data = main.extract_consts_tx(blockchain.get_transaction(txid, db), _input=args.input, **subkwargs)
+            elif args.source == 'rpc':
+                data = main.download_tx_consts_from_rpc(txid, os.environ['BTCRPCURL'], _input=args.input, **subkwargs)
+            if kwargs['satoshi']:
+                length = struct.unpack('<L', data[0:4])[0]
+                checksum = struct.unpack('<L', data[4:8])[0]
+                data = data[8:8+length]
+                assert checksum == crc32(data)
+            with open(outpath, 'bw') as f:
+                f.write(data)
 
 if not os.path.exists(main.bindir):
     os.mkdir(main.bindir)
 
 for txid in args.txids:
-    download(txid, satoshi=args.satoshi)
+    download(txid, outdir=main.bindir, satoshi=args.satoshi)
 
 if args.satoshi_all:
     with open(os.path.join(main.outdir, 'satoshi_uploader'), 'r') as f:
