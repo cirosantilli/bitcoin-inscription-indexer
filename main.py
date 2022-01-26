@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# stdlib
 import argparse
 import binascii
 import copy
@@ -8,14 +9,14 @@ import json
 import os
 import pathlib
 import re
-import requests
 import signal
 import sqlite3
 import string
 import struct
 import sys
 
-# OP_
+# Third party
+import requests
 import bitcoin
 from bitcoin.core.script import *
 import blockchain_parser.blockchain
