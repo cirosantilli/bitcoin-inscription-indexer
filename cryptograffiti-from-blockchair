@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -eu
+d=data/cryptograffiti-blockchair
+i=0
+# max allowed
+limit=100
+rm -rf "$d"
+mkdir -p "$d"
+while true; do
+  f="$d/$i"
+  echo curl "https://api.blockchair.com/bitcoin/outputs?offset=$((i * limit))&limit=$limit&s=time(asc)&q=recipient(1MVpQJA7FtcDrwKC6zATkZvZcxqma4JixS)"
+  curl "https://api.blockchair.com/bitcoin/outputs?offset=$((i * limit))&limit=$limit&s=time(desc)&q=recipient(1MVpQJA7FtcDrwKC6zATkZvZcxqma4JixS)" | jq -r '.data[].transaction_hash' > "$f"
+  if [ "$(wc -l "$f" | cut -f1 -d' ')" -lt "$limit" ]; then
+    break
+  fi
+  i=$((i+1))
+done
+cat "$d"/* > data/cryptograffiti

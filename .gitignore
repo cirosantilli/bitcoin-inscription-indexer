@@ -1,6 +1,7 @@
 /bitcoin-strings-with-txids-blacklist
 /cache.pkl
 /data/bin
+/data/cryptograffiti-blockchair
 /data/largest
 /txindex.sqlite3
 /utxodump.csv

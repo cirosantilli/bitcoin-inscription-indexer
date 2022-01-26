@@ -252,6 +252,16 @@ They seem to have added signatures in a way that they are backwards compatible, 
 
 both reuse the same data.
 
+==== cryptograffiti
+
+link:data/cryptograffiti[]
+
+Generated with link:cryptograffiti-from-blockchair.sh[]:
+
+....
+./cryptograffiti-from-blockchair
+....
+
 ==== Manual image indexes
 
 ===== hashling
@@ -764,9 +774,12 @@ virtualenv -p python .venv
 . .venv/bin/activate
 pip install -r requirements.txt
 ./main.py "$BITCOIN_DATA_DIR/blocks"
+
+# To finish off.
+./cryptograffiti-from-blockchair
 ....
 
-Our scripts also pick up `BITCOIN_DATA_DIR` by default, so if you have that exported you can run just:
+Our scripts pick up `BITCOIN_DATA_DIR` by default, so if you have that exported you can run just:
 
 ....
 ./main.py
@@ -810,6 +823,12 @@ Alternatively, you can extract just a single block of interest with:
 ....
 
 Not supported by python-bitcoin-blockchain-parser unfortunately: https://github.com/alecalve/python-bitcoin-blockchain-parser/issues/40
+
+==== txindex2sqlite.py
+
+This attempts to dump all txindex to sqlite database to allow finding where transactions are in .dat files.
+
+It requires `bitcoin-core.daemon -txindex` is broken right now.
 
 === UTXO dump
 

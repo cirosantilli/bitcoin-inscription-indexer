@@ -110,6 +110,7 @@ if args.images:
         ('pdf', '.pdf'),
         ('png', '.png'),
         ('webp', '.webp'),
+        ('cryptograffiti', '.bin'),
     ]:
         with open(os.path.join(main.outdir, fname), 'r') as f:
             for line in f:
