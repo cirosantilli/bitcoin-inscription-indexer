@@ -99,9 +99,15 @@ if args.satoshi_all:
             download(line.rstrip(), satoshi=True, outdir=main.bindir)
 
 if args.images:
-    with open(os.path.join(main.outdir, 'jpeg'), 'r') as f:
-        for line in f:
-            download(line.rstrip(), outdir=main.bindir, ext='.jpg')
-    with open(os.path.join(main.outdir, 'png'), 'r') as f:
-        for line in f:
-            download(line.rstrip(), outdir=main.bindir, ext='.png')
+    for fname, ext in [
+        ('gif', '.gif'),
+        ('jpeg', '.jpg'),
+        ('mp4', '.mp4'),
+        ('ogg', '.ogg'),
+        ('pdf', '.pdf'),
+        ('png', '.png'),
+        ('webp', '.webp'),
+    ]:
+        with open(os.path.join(main.outdir, fname), 'r') as f:
+            for line in f:
+                download(line.rstrip(), outdir=main.bindir, ext=ext)

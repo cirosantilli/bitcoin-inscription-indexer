@@ -14,6 +14,7 @@ import sqlite3
 import string
 import struct
 import sys
+import time
 
 # Third party
 import requests
@@ -676,6 +677,7 @@ if __name__ == '__main__':
         start_blk = args.start_blk
     input_file = None
     output_file = None
+    start_time = None
     for block in blockchain.get_ordered_blocks(
         os.path.join(args.datadir, 'index'),
         cache='cache.pkl',
@@ -717,7 +719,11 @@ if __name__ == '__main__':
 
             input_file = open(outpath(cur_file_num, 'in'), 'w')
             output_file = open(outpath(cur_file_num, 'out'), 'w')
-            print('{}'.format(cur_file_num), file=sys.stderr)
+            new_start_time = time.time()
+            if start_time is not None:
+                print('{} finished in {:.3f} s'.format(cur_file_num - 1, new_start_time - start_time), file=sys.stderr)
+            print('{} starting'.format(cur_file_num), file=sys.stderr)
+            start_time = new_start_time
             first_print_in_file_in = True
             first_print_in_file_out = True
             last_file_num = cur_file_num
