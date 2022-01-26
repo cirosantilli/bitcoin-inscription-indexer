@@ -1,6 +1,6 @@
 [
   {
-    "count": 1891127983,
+    "count": 1880382459,
     "ioidx": 0,
     "sample": "74c1a6dd6e88f73035143f8fc7420b5c395d28300a70bb35b943f7f2eddc656d",
     "sig": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "count": 1334468757,
+    "count": 1333188856,
     "ioidx": 0,
     "sample": "6f7cf9580f1c2dfb3c4d5d043cdbb128c640e3f20161245aa7372e9666168516",
     "sig": [
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "count": 703995985,
+    "count": 702342300,
     "ioidx": 1,
     "sample": "9c08a4d78931342b37fd5f72900fb9983087e6f46c4a097d8a1f52c74e28eaf6",
     "sig": [
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "count": 562009800,
+    "count": 562047694,
     "ioidx": 0,
     "sample": "f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16",
     "sig": [
@@ -39,13 +39,13 @@
     ]
   },
   {
-    "count": 515345983,
+    "count": 508597058,
     "ioidx": 0,
     "sample": "af32bb06f12f2ae5fdb7face7cd272be67c923e86b7a66a76ded02d954c2f94d",
     "sig": []
   },
   {
-    "count": 114829668,
+    "count": 114813394,
     "ioidx": 0,
     "sample": "e8ac451e7f47d566d4dd822a67fea2181ecfa7c7ba96d9faa63e2f6b26e55fd3",
     "sig": [
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "count": 53267979,
+    "count": 53270942,
     "ioidx": 0,
     "sample": "1a2e22a717d626fc5db363582007c46924ae6b28319f07cb1b907776bd8293fc",
     "sig": [
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "count": 7660657,
+    "count": 7721883,
     "ioidx": 0,
     "sample": "df76f1f344695a2f7d11d0e89e41ef3ae9afd3d8fc4927bab4f2c24890216bb7",
     "sig": [
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "count": 3599975,
+    "count": 3579715,
     "ioidx": 0,
     "sample": "4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",
     "sig": [
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "count": 1630590,
+    "count": 1630536,
     "ioidx": 0,
     "sample": "10c61e258e0a2b19b245a96a2d0a1538fe81cd4ecd547e0a3df7ed6fd3761ada",
     "sig": [
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "count": 1202314,
+    "count": 1226966,
     "ioidx": 0,
     "sample": "2daea775df11a98646c475c04247b998bbed053dc0c72db162dd6b0a99a59c26",
     "sig": [
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "count": 725275,
+    "count": 776728,
     "ioidx": 1,
     "sample": "b45cf420756a7d85bd0b16ee7c1dc4909ba07e864f38029cf27d9681d1aaa96c",
     "sig": [
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "count": 207158,
+    "count": 149377,
     "ioidx": 0,
     "sample": "8c57e916764c225c1babf1536a8592b034638c919483f923399aa677d4f7aad1",
     "sig": [
@@ -153,7 +153,7 @@
     ]
   },
   {
-    "count": 59044,
+    "count": 59084,
     "ioidx": 0,
     "sample": "e43198e6784cf2fb6895b1e923ec271e6e9d9b1828fc00b7d4a7448e2a29f1fd",
     "sig": [
@@ -166,7 +166,7 @@
     ]
   },
   {
-    "count": 56574,
+    "count": 57072,
     "ioidx": 1,
     "sample": "2107eae13966548abcb5310b2afc2ea068817cbd12444ce8621125c27d5233ed",
     "sig": [
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "count": 48741,
+    "count": 48743,
     "ioidx": 0,
     "sample": "f3d4a9fc84989407ee931111d6b240e1ac3a7f079f284b77c84d04521689ffab",
     "sig": [
@@ -197,7 +197,7 @@
     ]
   },
   {
-    "count": 4852,
+    "count": 4963,
     "ioidx": 1,
     "sample": "83087a6580fed1a828552c51a30d28562d476de79e588b18a486b345911510a1",
     "sig": [
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "count": 2581,
+    "count": 2565,
     "ioidx": 0,
     "sample": "845869b5333dd5892938063b428cc26563cc05405eb64a362f1729e6c0f05862",
     "sig": [
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "count": 2074,
+    "count": 2083,
     "ioidx": 0,
     "sample": "4ed8d914e68329b3d18bcbfc7808a582a04972a6ead551a8c4174b28a4c65ec3",
     "sig": [
@@ -267,13 +267,38 @@
     ]
   },
   {
-    "count": 1205,
+    "count": 1197,
     "ioidx": 0,
     "sample": "dcfedad22701bc48e33fc3063b5fa4c3d4ccb7b52a82b7cac659608966a3c647",
     "sig": [
       null,
       null,
       null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "count": 1025,
+    "ioidx": 0,
+    "sample": "e9cf00dc9bbc0ef3e5c0a5ba7ae8438fb75f9b5a2360cafe8cb5e5d63fd30ebe",
+    "sig": [
+      "OP_RETURN",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "count": 347,
+    "ioidx": 0,
+    "sample": "e5e4727e3f9b587c063406b4ec352f7c35bba04fcfa021a15183216d648f049d",
+    "sig": [
+      "OP_RETURN",
       null,
       null,
       null,
@@ -344,19 +369,6 @@
     ]
   },
   {
-    "count": 224,
-    "ioidx": 0,
-    "sample": "e5e4727e3f9b587c063406b4ec352f7c35bba04fcfa021a15183216d648f049d",
-    "sig": [
-      "OP_RETURN",
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
-  },
-  {
     "count": 193,
     "ioidx": 0,
     "sample": "552026dade1c9385e4693a4e82f07080d8d1950fc822346f95a0dc1e0a833465",
@@ -391,18 +403,6 @@
       "OP_VERIFY",
       "OP_2OVER",
       "OP_DEPTH"
-    ]
-  },
-  {
-    "count": 181,
-    "ioidx": 0,
-    "sample": "e9cf00dc9bbc0ef3e5c0a5ba7ae8438fb75f9b5a2360cafe8cb5e5d63fd30ebe",
-    "sig": [
-      "OP_RETURN",
-      null,
-      null,
-      null,
-      null
     ]
   },
   {
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "count": 57,
+    "count": 58,
     "ioidx": 2,
     "sample": "973e1c4d9bd2bc5a3c4a4af23f5df299c79d88fce53010497c5a18c2ee0336ec",
     "sig": [
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "count": 41,
+    "count": 43,
     "ioidx": 0,
     "sample": "8eca7cef1e42cebcc83881f6ba99305d2116cbc7cb7c1e9576a6098346e232f1",
     "sig": [
@@ -1532,20 +1532,6 @@
       "OP_MIN",
       null,
       "OP_EQUAL"
-    ]
-  },
-  {
-    "count": 4,
-    "ioidx": 1,
-    "sample": "5543fe24f6d5f871cf1fab270712db17a23eb228cd6db3aeda4c22eda2a3a67a",
-    "sig": [
-      "OP_RETURN",
-      null,
-      null,
-      null,
-      "OP_1NEGATE",
-      null,
-      null
     ]
   },
   {
@@ -7500,6 +7486,20 @@
       null,
       null,
       null,
+      null,
+      null
+    ]
+  },
+  {
+    "count": 1,
+    "ioidx": 1,
+    "sample": "5543fe24f6d5f871cf1fab270712db17a23eb228cd6db3aeda4c22eda2a3a67a",
+    "sig": [
+      "OP_RETURN",
+      null,
+      null,
+      null,
+      "OP_1NEGATE",
       null,
       null
     ]
