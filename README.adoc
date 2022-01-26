@@ -169,7 +169,7 @@ tx 8f3b90d8de36b424a0afd51dee41d439b364079967ebf161302aa7b5a9094711 block 234011
 
 ==== atomsea
 
-Data uploaded in the format of https://cirosantilli.com/atomsea-embii
+Data uploaded in the format of https://cirosantilli.com/atomsea-and-embii
 
 Index at: link:data/atomsea[]
 
@@ -240,8 +240,10 @@ Here's one with photo: http://bitfossil.org/5d6e26df7030a3d719b4c203334d045a5f73
 All of those can be easily found however with:
 
 ....
-grep -Er '^SIG\b' -B1 | grep txt-tx | grep -Ff data/atomsea -v | awk '{print "http://bitfossil.org/" $2}' # | xargs chromium-browser --new-tab
+git grep -Er '^SIG\b' -B1 | grep txt-tx | grep -Ff data/atomsea -v | awk '{print "http://bitfossil.org/" $2}' # | xargs chromium-browser --new-tab
 ....
+
+which gives a few hundred hits.
 
 This might be due to the addition of signatures at some point: http://bitfossil.org/7e79661bde52d5acbb746a2e813c738a2b962b972299ffc0669428dee04d0378/ "Just imported my profile and signature into a new #Apertus 0.3.3 client. #Groovy"
 
@@ -251,6 +253,111 @@ They seem to have added signatures in a way that they are backwards compatible, 
 * http://bitfossil.org/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/
 
 both reuse the same data.
+
+Another format we missed which starts with an asterisk for whatever reason:
+
+* http://bitfossil.com/b58e817c7fcd2552a6934cd64ff58d0405f81ea0786d3cd85c225ffe20b9018a
++
+....
+00000000  2a 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30  |*000000000000000|
+00000010  30 37 36 5c 49 73 20 23  53 61 74 6f 73 68 69 20  |076\Is #Satoshi |
+00000020  23 4e 61 6b 61 6d 6f 74  6f 20 23 43 72 61 69 67  |#Nakamoto #Craig|
+00000030  57 72 69 67 68 74 3f 0d  0a 23 53 61 74 6f 73 68  |Wright?..#Satosh|
+00000040  69 4e 61 6b 61 6d 6f 74  6f 20 23 43 72 61 69 67  |iNakamoto #Craig|
+00000050  20 23 53 74 65 76 65 6e  20 23 57 72 69 67 68 74  | #Steven #Wright|
+00000060  44 72 5f 43 72 61 69 67  5f 57 72 69 67 68 74 2e  |Dr_Craig_Wright.|
+00000070  6a 70 67 3a 30 30 30 30  30 30 30 30 30 30 30 30  |jpg:000000000000|
+00000080  30 30 30 34 31 32 34 3c  ff d8 ff e0 00 10 4a 46  |0004124<......JF|
+....
++
+Maybe this is a format for things that fit entirely into one tx, without including any sub ransactions, this gives a few dozen hits:
++
+....
+sep='([!@#$%&*()?<>{}+=_/\]|\^|-|\|)'
+git grep -E "^${sep}[0-9]{18}${sep}"
+....
++
+OK, so what happens is that the toplevel is somewhat optional, e.g.:
++
+* http://bitfossil.com/4fb8620ccff8015a74cd3522f6dbee2821a0db48185f919050fb1ee572f30921/
+* http://bitfossil.com/760422f1c3530e43599b4358ac73944c9903a1131d2410940426def8e8e46976/
+* text dumps:
++
+....
+tx 760422f1c3530e43599b4358ac73944c9903a1131d2410940426def8e8e46976 blk 408354 txid 1073
+*000000000000000277?NASA: A purple nebula, in honor of #Prince, who passed away today.
+....
+* text dumps:
++
+....
+tx 4fb8620ccff8015a74cd3522f6dbee2821a0db48185f919050fb1ee572f30921 blk 408355 txid 1670
+%760422f1c3530e43599b4358ac73944c9903a1131d2410940426def8e8e46976>858\760422f1c3530e43599b4358ac73944c9903a1131d2410940426def8e8e46976
+bb18648d89276a878791177a59cf763c6e8a28a093a30337b0cf356a33c0d492
+....
++
+So if the entire text or image fits in on transaction, it gets shown. Anything cut off gets ignored.
+
+===== atomsea-from-bitfossil
+
+link:data/atomsea-from-bitfossil[]
+
+File format:
+
+....
+tx_hash tx_size tx_time
+....
+
+Same as link:atomsea[] ideally, but downloaded from the canonical source http://bitfossil.com/catalog.htm and filtered for Bitcoin only.
+
+Generated with: link:atomsea-from-bitfossil[].
+
+Oh and their indexer seems to be very broken, the false positive rate seems huge, which is why we also dump the size to serve as heuristic. But even still, it's way too hight to be useful.
+
+===== atomsea-from-strings
+
+link:data/atomsea-from-strings[]
+
+Genereated with: link:atomsea-from-strings[]
+
+This script extracts atomsea txes from the strings dump.
+
+This should work quite well since atomsea uploads all use ASCII metadata in them, except for the spurious change transaction which may blow us up from time to time.
+
+Ideally we should do this extraction from link:main.py[], but we've missed some patterns there, and re-running that script is slow, and working on ASCII alone will be way faster.
+
+===== atomsea-leaves
+
+link:data/atomsea-leaves[]
+
+Generated with link:atomsea-leaves[]
+
+Must be run after strings have been extracted.
+
+Loop over all atomsea toplevel transactions and extract all leave transactions from them. E.g. for `NelsonMandela.jpg` the toplevel is:
+
+....
+tx 78f0e6de0ce007f4dd4a09085e649d7e354f70bc7da06d697b167f353f115b8e blk 273536 txid 1827
+8881a937a437ff6ce83be3a89d77ea88ee12315f37f7ef0dd3742c30eef92dba|396*8881a937a437ff6ce83be3a89d77ea88ee12315f37f7ef0dd3742c30eef92dba
+575061146335bd57f2dc132112152d0eeea44cf187ea6a52ac02435a7e5bea44
+674c7cc34ea44bb276c6caf76f2b28fa1597380ab6e6a6906076d8f7229ca5b3
+8e2642416ad20924b43f51a633fa1c0a5ba8e4a7b631877db1c64540a42081c9
+a3084018096b92af04df57b6116e01ff4b7c7e8bd228235ed49e23f4a2817029
+39348722b841afa0c5b67e5af10839afe965ed1b24874e89336bea9fa4ef3091
+tomSea & EMBII 
+....
+
+and so we extract:
+
+....
+8881a937a437ff6ce83be3a89d77ea88ee12315f37f7ef0dd3742c30eef92dba
+575061146335bd57f2dc132112152d0eeea44cf187ea6a52ac02435a7e5bea44
+674c7cc34ea44bb276c6caf76f2b28fa1597380ab6e6a6906076d8f7229ca5b3
+8e2642416ad20924b43f51a633fa1c0a5ba8e4a7b631877db1c64540a42081c9
+a3084018096b92af04df57b6116e01ff4b7c7e8bd228235ed49e23f4a2817029
+39348722b841afa0c5b67e5af10839afe965ed1b24874e89336bea9fa4ef3091
+....
+
+The use case for this is to remove atomsea hits from binwalk-based exploration to search more easily for non-atomsea.
 
 ==== cryptograffiti
 
@@ -262,6 +369,8 @@ Generated with link:cryptograffiti-from-blockchair.sh[]:
 ./cryptograffiti-from-blockchair
 ....
 
+Our main.py already catches all images from them, but this can help highlight some texts, in particular UTF-8 ones.
+
 ==== Manual image indexes
 
 ===== hashling
@@ -269,6 +378,27 @@ Generated with link:cryptograffiti-from-blockchair.sh[]:
 link:data/hashling[]
 
 https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain#code-the-hashling
+
+This is basically automated actually:
+
+....
+git grep -B2 "The Hashling" | grep -Po 'tx ([^ ]+)' | cut -d' ' -f2
+....
+
+but there is one without text 453c9511ca76361c8c44b4302ce1b5d8d5c98a938b548478ef931baaa7d70e62 which that misses.
+
+===== annotated-blockchain-project-images
+
+link:data/annotated-blockchain-project-images[]
+
+Extracted from https://etherpad.mit.edu/p/r.19b7b3e2c5ea08a61cb0bef0aeb213fd with tx hashes deduplicated.
+
+To try and find new upload methods we can exclude known ones from it with:
+
+....
+cd data
+grep -v -f atomsea -f atomsea-leaves -f hashling -f cryptograffiti annotated-blockchain-project-images
+....
 
 === invalid_tx
 
@@ -777,6 +907,8 @@ pip install -r requirements.txt
 
 # To finish off.
 ./cryptograffiti-from-blockchair
+./atomsea-from-bitfossil
+./atomsea-leaves
 ....
 
 Our scripts pick up `BITCOIN_DATA_DIR` by default, so if you have that exported you can run just:

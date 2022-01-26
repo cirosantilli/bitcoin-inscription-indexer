@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+sep='([*?<>/\\]|\|)'
+(
+  # Possibly raw toplevels. May be included in non-raw ones or not.
+  # There is also a format without leading zeroes, with hits as small as 2 characters...
+  # but then this has a lot of false positives...
+  # E.g. 56768b30dec33bd284223d85c23087975e2360b3391d20d505aa59a5675e5379
+  # tx 56768b30dec33bd284223d85c23087975e2360b3391d20d505aa59a5675e5379 blk 274591 txid 169
+  # |51\Dear Aliens,
+  #  Not sure why they don't index it though: http://bitfossil.com/56768b30dec33bd284223d85c23087975e2360b3391d20d505aa59a5675e5379
+  git --no-pager grep -B1 -E "^${sep}[0-9]{2,18}${sep}"
+  git --no-pager grep -B1 -P "^SIG${sep}(00000)?88+${sep}"
+
+  # Clear toplevel index. main.py picks those up already.
+  git --no-pager grep -B1 -P "^([[:xdigit:]]{64})${sep}\d+${sep}\1\r"
+)
+#| perl -lne 'print for /tx ([^ ]+)/' > data/atomsea-from-strings

@@ -2,6 +2,7 @@
 /cache.pkl
 /data/bin
 /data/cryptograffiti-blockchair
+/data/atomsea-from-bitfossil.tmp
 /data/largest
 /txindex.sqlite3
 /utxodump.csv
@@ -10,3 +11,4 @@ __pycache__
 log.log
 tmp
 tmp.*
+*.tmp

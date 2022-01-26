@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Download atomsea toplevel transactions from bitfossil.
+# Filter out bitcoin ones from other coins via RPC.
+# bitcoind must be running.
+# We wouldn't need this if we parsed atomsea properly. But we are lazy to implement it!
+# Would be a good cross check anyways.
+d="data/atomsea-from-bitfossil.tmp"
+out="data/atomsea-from-bitfossil"
+rm -f out
+rm -rf "$d"
+mkdir -p "$d"
+curl 'http://bitfossil.com/catalog.htm' > "$d/raw"
+sed -r 's/^.*">//;s/<.*//' "$d/raw" > "$d/txall"
+cat "$d/txall" | while read l; do
+  raw="$(bitcoin-core.cli getrawtransaction "$l" true 2>/dev/null)"
+  if [ $? -eq 0 ]; then
+    echo "$l $(jq -r '"\(.size) \(.time)"' <<< $raw )"
+  fi
+done | tee "$out"
+sort -r -n -k2 -o "$out" "$out"

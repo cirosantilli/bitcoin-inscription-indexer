@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+while read l; do
+  git ls-files data/out | xargs awk "/^tx $l/{flag=1; next} /^tx /{flag=0} flag" | perl -lne 'print for /^([[:xdigit:]]{64})/'
+done < data/atomsea | sort -u > data/atomsea-leaves
