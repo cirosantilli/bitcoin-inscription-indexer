@@ -655,11 +655,11 @@ if __name__ == '__main__':
     input_file = None
     output_file = None
     for block in blockchain.get_ordered_blocks(
-            os.path.join(args.datadir, 'index'),
-            cache='cache.pkl',
-            start=start_blk,
-            end=args.end_blk
-        ):
+        os.path.join(args.datadir, 'index'),
+        cache='cache.pkl',
+        start=start_blk,
+        end=args.end_blk
+    ):
         if exit_signal:
             break
         height = block.height
