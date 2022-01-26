@@ -1,8 +1,22 @@
 #!/usr/bin/env bash
-f=data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg
+set -eu
+txtop="$1"
+ext="$2"
+skip="${3:-0}"
+enc="${4:-op-return}"
+f="data/bin/${txtop}.${ext}"
 rm -f "$f"
-while read tx; do
-  echo "$tx"
-  #bitcoin-core.cli getrawtransaction "$tx" true | jq -r '.vout[0].scriptPubKey.asm' | cut -c 21- | xxd -r -p >> "$f"
-  bitcoin-core.cli getrawtransaction "$tx" true 
-done < data-manual/daisy
+echo "$f"
+while read tx_outs; do
+  tx="${tx_outs%% *}"
+  outs="${tx_outs#* }"
+  for out in $outs; do
+    echo "$tx $out"
+    bitcoin-core.cli getrawtransaction "$tx" true |
+      jq -r ".vout[$out].scriptPubKey.asm" |
+      ( if [ "$enc" = 'op-return' ]; then sed 's/OP_RETURN //'; else sed -r 's/OP_DUP OP_HASH160 //;s/ OP_EQUALVERIFY OP_CHECKSIG//'; fi  ) |
+      cut -c $((($skip * 2) + 1))- |
+      xxd -r -p \
+    >> "$f"
+  done
+done < "data-manual/daisy/$txtop"

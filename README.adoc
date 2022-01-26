@@ -523,9 +523,17 @@ grep -v -f data/atomsea -f data/atomsea-leaves -f data-manual/atomsea-leaves -f 
 
 ===== daisy
 
-This is currently for a single very unique encoding: https://www.blockchain.com/explorer/transactions/btc/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2 starts a daisy chain of OP_RETURN transactions, one per transaction:
+The directory file:data-manau/daisy[] contains confirmed "daisy-chain" inscriptions or candidates.
 
-Data is stored in OP_RETURNs as follows:
+Daisy chain inscriptions refere to inscriptions made by inscribing one or a small naumber of payloads per tx, and linking from one tx to the other by sending funds forward via a single output.
+
+The payloads are then encoded using any specific method such as P2FKS.
+
+Daisy inscriptions are designed to be hard to find and decode, not to be efficient and easy to find. This makes finding them harder, but also rewarding. The best way to decide entry-points is likely to just look at <<binwalk>>.
+
+A key difficulty in finding them is that Bicoin Core does not have an index of transactions that spend outputs: https://bitcoin.stackexchange.com/questions/61794/bitcoin-rpc-how-to-find-the-transaction-that-spends-a-txo So far we have just relied on the blockchain.info API to solve this.
+
+https://www.blockchain.com/explorer/transactions/btc/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2 starts a daisy chain of OP_RETURN transactions, one per transaction. Data is stored in OP_RETURNs as follows:
 
 ....
 OP_RETURN 6200010000 ffd8ffe1001845786966000049492a00080000000000000000000000ffec0011447563
@@ -533,32 +541,37 @@ OP_RETURN 6200010001 6b79000100040000003c0000ffe1039a687474703a2f2f6e732e61646f6
 OP_RETURN 6200010002 2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d
 OP_RETURN 6200010003 2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d70
 
+...
+
+OP_RETURN 6200010085 51290358a41fe5408b4435254208d4810a5fe9113044c1ae3aa544656d729756395b87
+OP_RETURN 6200010086 c4e261f55c5d19e1c792c3f78adff1368db58e5a0bb85b2c6753c42de6d973edae0642
+OP_RETURN 6200010087 1b2c8370f203aaa0a6eb7ea0871d8e9ae6534b785b57347171e4df6a5463d7ce77b93b
 ....
 
-OP_RETURN 620001008551290358a41fe5408b4435254208d4810a5fe9113044c1ae3aa544656d729756395b87
-OP_RETURN 6200010086c4e261f55c5d19e1c792c3f78adff1368db58e5a0bb85b2c6753c42de6d973edae0642
-OP_RETURN 62000100871b2c8370f203aaa0a6eb7ea0871d8e9ae6534b785b57347171e4df6a5463d7ce77b93b
-....
-
-so we see that there's also an index for each payload.
+so we see that in this case there's also an index for each payload.
 
 This was found with <<binwalk>> because ffd8ffe1 is a JPEG signature.
 
 Obtain the data from blockahain.info with link:daisy[]:
 
 ....
-./daisy
+./daisy b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2
+./daisy 6ab2f3dbff0ebd856f6cf0360fc7db987f8789508dfdefdcc1f9e2aacf9ac0de
+./daisy b70bfe6a9b314611655554576feb11f15d47b9e80c5993e91829bb87895ef23c
 ....
 
 This produces the tx list under link:data-manual/daisy[].
 
-Next extra the data locally with:
+Next extra the data locally from a Bitcoin Core server with link:daisy-carve[]:
 
 ....
-./daisy-carve
+./daisy-carve b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2 jpg 5
+./daisy-carve 6ab2f3dbff0ebd856f6cf0360fc7db987f8789508dfdefdcc1f9e2aacf9ac0de jpg
+./daisy-carve b70bfe6a9b314611655554576feb11f15d47b9e80c5993e91829bb87895ef23c png
+./daisy-carve abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794 zip 0 p2fkh
 ....
 
-which produces data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg.
+which produces data/bin/<txid>.jpg.
 
 Unfortunately something is wrong with our decoding, we can see top half of the image, but the bottom is grayed out and `identify` from ImageMagick 6.9.11 says that the image is corrupt:
 
@@ -568,6 +581,21 @@ tmp.jpg JPEG 200x200 200x200+0+0 8-bit sRGB 5409B 0.000u 0:00.000
 identify-im6.q16: Corrupt JPEG data: 35 extraneous bytes before marker 0xc0 `data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg' @ warning/jpeg.c/JPEGWarningHandler/389.
 ....
 
+The following are P2FKH daisy chain candidates:
+
+....
+./daisy abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794
+./daisy b3be8b9d9c2f7acb563ae93714702106e38979974300e58966a21d2308540bda
+./daisy cc44bd5a06940ea6b748b44a4b29ada9da162684ba7bdb79c58c750979e160f9
+....
+
+These are the only known instances.
+
+These three are all related, 8c05fb3b3cea0470a9df0bc4cde1fb8de4bf811485d5c6e8e6e13d58675783b3 is just a quick-pause, and then its second output resumes at: b3be8b9d9c2f7acb563ae93714702106e38979974300e58966a21d2308540bda
+
+This transaction in the chain: https://www.blockchain.com/explorer/transactions/btc/54c3c242b641c33f002332bef53b064f2c24a215eaffa8d30281c8a834b0c208 has address marked as belonging to "Wikileaks 3", which tells us that these may be related, though the wikileaks format is different (P2FMS, while these daisies are just P2FKH).
+
+Another pause at c6b387b52a5525381b5fbf4d7f2afdd6e51423823a0cf371cd17b7b97147dfc6 and then more daisy on second out of 5a683f714c3eabb1053c909172a41a0b1598b7a0dea6f8dbd79002a93953b811 starting at https://www.blockchain.com/explorer/transactions/btc/cc44bd5a06940ea6b748b44a4b29ada9da162684ba7bdb79c58c750979e160f9
 
 === invalid_tx
 

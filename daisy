@@ -1,13 +1,26 @@
 #!/usr/bin/env bash
-tx=b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2
-f=data-manual/daisy
-tx_index="$(curl -s "https://blockchain.info/tx/$tx?format=json" | jq '.tx_index')"
+set -eu
+tx="$1"
+endtx="${2:-}"
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+d="${SCRIPT_DIR}/data-manual/daisy"
+mkdir -p "$d"
+f="$d/$tx"
 rm -f "$f"
+tx_index="$(curl -s "https://blockchain.info/tx/$tx?format=json" | jq '.tx_index')"
 while true; do
   json="$(curl -s "https://blockchain.info/tx/$tx_index?format=json")"
-  tx_index="$(printf %s "$json" | jq -r '.out[1].spending_outpoints[0].tx_index')"
-  tx="$(printf %s "$json" | jq -r '.hash')"
-  echo $tx | tee -a $f
-  [ "$tx" = 43b182065ab2c7d1908ec3cee756d9f626c1e4bd1efa17a7c3993433b653d499 ] && break
+  # Fails if there are no spent outputs.
+  if tx_index="$(printf %s "$json" | jq -r '[.out[] | select(.spent == true)][0].spending_outpoints[0].tx_index')"; then
+    unspent_indices="$(printf %s "$json" | jq -r '.out | map(.spent == false) | indices(true) | join(" ")')"
+    tx="$(printf %s "$json" | jq -r '.hash')"
+    [ -z "$unspent_indices" ] && break
+    printf "${tx} ${unspent_indices}\n" | tee -a $f
+    if [ -n "$endtx" ] && [ "$tx" = "$endtx" ]; then
+      break
+    fi
+  else
+    break
+  fi
   sleep 0.1
 done

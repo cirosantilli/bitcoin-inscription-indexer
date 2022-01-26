@@ -1,56 +1,8 @@
 [
 {
-  "tx": "002e7c652bbfc57da5aa768a7218fd2b93003b99afb7e7945c69c5ce9ed27705",
-  "binwalkSigs": ["gif"],
-  "desc": "contains 4 bytes at the start of GIF signature on an input: 'G' 'I' 'F' '8', but it is followed by byte 03 which is not a valid signature, needed either a '7' or a '9'"
-},
-{
   "tx": "54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713",
   "inscriptions": ["pdf"],
   "desc": "bitcoin whitepaper"
-},
-{
-  "tx": "5c2613415516f1c1a6d095dee12110cffb4ef85c9a9e71a3dff5beef48e0c70f",
-  "size": "59151",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by 3e45 which seems invalid. Quite a large transaction too which makes it very suspicious."
-},
-{
-  "tx": "bc4376d3141a4bf956c081a3c3b6482ad90550c42a7dcf632348ac932bbef1eb",
-  "size": "33672",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by 894c which seems invalid. Quite a large transaction too which makes it very suspicious."
-},
-{
-  "tx": "6b5cf45763c675df588a4d101fb5d89632c3bc2553442e23f48e3ff5ce08d185",
-  "size": "7903",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by 895b which seems invalid"
-},
-{
-  "tx": "49a3195d443e3544c538d94b1e5ef516335fe05218249da839a2ad36b50abdff",
-  "size": "7903",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by 895b which seems invalid"
-},
-
-{
-  "tx": "b80dcfb19647ea81ebc86346cd5d53e94a6f2b9cabf728ecb416243d25e370d5",
-  "size": "19825",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by 9e3a which seems invalid"
-},
-{
-  "tx": "68deed9ae129a610f0d24c66ef9ea6712574701da17ff582037fcb21d6cf57ec",
-  "size": "29760",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by a70d which seems invalid"
-},
-{
-  "tx": "d8eb479bb6f5531644a1ad28ed21fb64662e3ad62bcf3d367f3510bb961440f9",
-  "size": "88985",
-  "binwalkSigs": ["gif"],
-  "desc": "contains start of GIF signature 47494638, but then followed by acb94 which seems invalid"
 },
 {
   "tx": "165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08",
@@ -101,6 +53,12 @@
   "desc": "Bud Karen Joe Jan Loraine Betty Kat Ingrid.jpg http://bitfossil.com/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/index.htm"
 },
 {
+  "tx": "49a3195d443e3544c538d94b1e5ef516335fe05218249da839a2ad36b50abdff",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Jan Ingrid Karen Loraine.jp http://bitfossil.com/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/index.htm"
+},
+{
   "tx": "af3a5bb5856abf7c25c4dee739d49255c173743c4039132055ddbe90f756629e",
   "binwalkSigs": ["jpeg"],
   "encoding": ["atomsea"],
@@ -129,7 +87,7 @@
   "binwalkSigs": ["jpeg"],
   "encoding": ["p2fms"],
   "inscriptions": ["jpeg"],
-  "desc": "TODO decode"
+  "desc": "Mentioned at: https://github.com/bitcoin/bitcoin/pull/28400"
 },
 {
   "tx": "cad2c46b0f7feb56191f2ab7d8ed59184615cbf0ca46af8c8b5a21a2045a42d2",
@@ -138,15 +96,10 @@
   "desc": "low resolution screenshot of the Bitboin whitepaper"
 },
 {
-  "tx": "b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2",
-  "binwalkSigs": ["jpeg"],
-  "encoding": ["opreturn"],
-  "desc": "OP_RETURN 6200010000 ffd8ffe1001845786966000049492a00080000000000000000000000ffec0011447563 on first output followed by a change output, but that's it, the image is incomplete? Could it be a multi tx thing?"
-},
-{
   "tx": "2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73",
   "binwalkSigs": ["jpeg"],
-  "inscriptions": []
+  "encoding": ["atomsea"],
+  "desc": "EMBII.jpg http://bitfossil.com/5bfd6eab2df2eb615dd72172408e02e07fddba2f00fed9b80cd66c0b115ee03d/index.htm"
 },
 {
   "tx": "225ed8bc432d37cf434f80717286fd5671f676f12b573294db72a2a8f9b1e7ba",
@@ -176,23 +129,49 @@
   "desc": "it is some atomsea thing for sure, referred to from tx 031d28dcaad2ad1c8cba85ac8c6992823ae3a3a7acff26e376ec016e2fa5cc31 blk 339700 txid 1111 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG*88:HzBgQKB7Hi6nQpuiL4HZ6PQN++SHeEralPuHrnMcD0dGNTozhFNH64xlnunNEMsi3YN5MLT/Z1uxMBUYAcoWYOU=9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96>924<9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96 bu does not show up at http://bitfossil.com/031d28dcaad2ad1c8cba85ac8c6992823ae3a3a7acff26e376ec016e2fa5cc31 so not sure"
 },
 {
-  "tx": "9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96",
-  "encoding": ["daisy"],
+  "tx": "b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2",
+  "encoding": ["daisy-op-return-5"],
   "inscriptionsPartial": ["jpeg"],
   "binwalkSigs": ["jpeg"],
   "desc": ""
 },
 {
   "tx": "abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794",
-  "encoding": ["daisy"],
+  "encoding": ["daisy-p2fkh"],
   "binwalkSigs": ["zip"],
-  "desc": "possibly daisy on 0.00010000 BTC txes, though there can be more than one per tx"
+  "desc": "possibly daisy on 0.00010000 BTC txes with more than one per tx. The first one is 'OP_DUP OP_HASH160 6be1f662f96371cd 504b0304 d9151aecb2486a46 OP_EQUALVERIFY OP_CHECKSIG'. '504b0304' is zip signature, 6be1f662f96371cd unknown. The chain is very short however, possibly has complex followups..."
 },
 {
-  "tx": "abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794",
+  "tx": "6ab2f3dbff0ebd856f6cf0360fc7db987f8789508dfdefdcc1f9e2aacf9ac0de",
+  "encoding": ["daisy-op-return"],
+  "inscriptions": ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "City of London School"
+},
+{
+  "tx": "b70bfe6a9b314611655554576feb11f15d47b9e80c5993e91829bb87895ef23c",
+  "encoding": ["daisy-op-return"],
+  "inscriptions": ["png"],
+  "binwalkSigs": ["png"],
+  "desc": "The Economist"
+},
+{
+  "tx": "d3bab0fda965b7c6fe9cf55d0a7efac96ab19c184ca2812f2018f135b273a050",
   "encoding": ["input"],
   "inscriptions": ["zip"],
   "binwalkSigs": ["zip"],
   "desc": "contains file tithonus_ecies_cert_anon.der which is a certificate file type. Decoded with: `bitcoin-core.cli getrawtransaction d3bab0fda965b7c6fe9cf55d0a7efac96ab19c184ca2812f2018f135b273a050 true | jq -r .vin[0].scriptSig.asm | tr -d ' ' | xxd -r -p > tmp.zip` Googling leads to https://petsymposium.org/popets/2019/popets-2019-0005.pdf 'Tithonus: A Bitcoin Based Censorship Resilient System'"
-}
+},
+{
+  "tx": "e92a1718c15c85c0c7d45af2ec1d57aa722264a902f7c87d8a2aa1c27b5011f3",
+  "encoding": ["daisy-op-return"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "OP_RETURN ffd8ffe000104a464946000101010096 but short daisy chain and image not valid"
+},
+{
+  "tx": "995451b40d7bd78b0322066227e3d4a0210e9698705ab94c9dc88e64fe2bc2ef",
+  "encoding": ["daisy-op-return"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "OP_RETURN ffd8ffe000104a4649 but short daisy chain and image not valid"
+},
 ]
