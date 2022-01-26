@@ -10,7 +10,9 @@ outrepo="$SCRIPT_DIR/data/binwalk/data"
 # binwalk doesn't do webp or any audio/video formats, it is quite sad. We need to patch the thing some day.
 mkdir -p "$tmpdir"
 cat "$outrepo/"*.csv > "$raw_deterministic"
-# "GIF image data" has too many false positives.
+# "GIF image data alone" has too many false positives.
+# A bit noisy.
+#-e 'gzip compressed data' \
 grep \
   -e 'JPEG image data' \
   -e 'GIF image data, version' \

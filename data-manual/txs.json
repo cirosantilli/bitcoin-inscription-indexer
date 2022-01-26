@@ -113,7 +113,7 @@
   "binwalkSigs": ["jpeg"],
   "inscriptions": ["jpeg"],
   "encoding": ["segwit"],
-  "desc": "same payload as 225ed8bc432d37cf434f80717286fd5671f676f12b573294db72a2a8f9b1e7ba by different encoding, same encoding as 94e319d09fc236fb9d7a24e60af8f47ed41ca3cc01e9950c925d806153ed8aa3"
+  "desc": "same payload as 225ed8bc432d37cf434f80717286fd5671f676f12b573294db72a2a8f9b1e7ba by different encoding"
 },
 {
   "tx": "283f2a156022d3036da9ed1cbe988c9b50a78820a82c526150a9b0a1b05256b0",
@@ -139,7 +139,7 @@
   "tx": "abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794",
   "encoding": ["daisy-p2fkh"],
   "binwalkSigs": ["zip"],
-  "desc": "possibly daisy on 0.00010000 BTC txes with more than one per tx. The first one is 'OP_DUP OP_HASH160 6be1f662f96371cd 504b0304 d9151aecb2486a46 OP_EQUALVERIFY OP_CHECKSIG'. '504b0304' is zip signature, 6be1f662f96371cd unknown. The chain is very short however, possibly has complex followups..."
+  "desc": "possibly daisy on 0.00010000 BTC txes with more than one per tx. The first one is 'OP_DUP OP_HASH160 6be1f662f96371cd 504b0304 d9151aecb2486a46 OP_EQUALVERIFY OP_CHECKSIG'. '504b0304' is zip signature, 6be1f662f96371cd unknown. The chain is very short however, possibly has complex followups... Daisy starts way earlier at c51dc50677c50733b5ea6795cf563e2a909dd2ad6962c4202ab22b085af374f3. Last is b9899e874e2a951167390a58e52038890ac3609a17f80bcb5a081703b7259016 but then into 8c05fb3b3cea0470a9df0bc4cde1fb8de4bf811485d5c6e8e6e13d58675783b3 goes to b3be8b9d9c2f7acb563ae93714702106e38979974300e58966a21d2308540bda which is another daisy, 209 long! Ends in c6b387b52a5525381b5fbf4d7f2afdd6e51423823a0cf371cd17b7b97147dfc6. More such follow with annoying 1 tx pauses, finishing in bac9e68eb6f42defe139d78aaf3d5c09909f503047f58ff124dc9df5ecf8e7d5. Quite mysterious this one."
 },
 {
   "tx": "6ab2f3dbff0ebd856f6cf0360fc7db987f8789508dfdefdcc1f9e2aacf9ac0de",
@@ -166,12 +166,200 @@
   "tx": "e92a1718c15c85c0c7d45af2ec1d57aa722264a902f7c87d8a2aa1c27b5011f3",
   "encoding": ["daisy-op-return"],
   "binwalkSigs": ["jpeg"],
-  "desc": "OP_RETURN ffd8ffe000104a464946000101010096 but short daisy chain and image not valid"
+  "desc": "OP_RETURN ffd8ffe000104a464946000101010096 but short daisy chain and image not valid. Daisy starts one before at 909994e476cab2fddf6669ac8b32797b412858f7c4e175561beb064261a75312"
 },
 {
   "tx": "995451b40d7bd78b0322066227e3d4a0210e9698705ab94c9dc88e64fe2bc2ef",
   "encoding": ["daisy-op-return"],
   "binwalkSigs": ["jpeg"],
-  "desc": "OP_RETURN ffd8ffe000104a4649 but short daisy chain and image not valid"
+  "desc": "OP_RETURN ffd8ffe000104a4649 but short daisy chain and image not valid. Daisy starts two before at 909994e476cab2fddf6669ac8b32797b412858f7c4e175561beb064261a75312 so same chain as e92a1718c15c85c0c7d45af2ec1d57aa722264a902f7c87d8a2aa1c27b5011f3 weird"
 },
+{
+  "tx": "033d185d1a04c4bd6de9bb23985f8c15aa46234206ad29101c31f4b33f1a0e49",
+  "encoding": ["input"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "Augustana College Old-Main.jpg"
+},
+{
+  "tx": "a55e5e7492848445a9f9ecf55ce566242c9d95e6c46a171fd94a345e8b74c355",
+  "encoding": ["p2fkh"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "Teenage girl with arms crossed"
+},
+{
+  "tx": "8cf28eb9ac221d8cd15298b9ae63eca910b536a5234c133c7e364b29a4e39d21",
+  "encoding": ["p2fkh"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "Black cat"
+},
+{
+  "tx": "546124c6ad55acc6e0cd00a66fbd29e9b7df5fe8505e2ebf8470bb44aa35bc16",
+  "encoding": ["p2fkh"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "Teddy bear"
+},
+{
+  "tx": "9c1a5d5a9e65e9a35050d67574681695a5c46a3df3feb27834848daa49c2fb92",
+  "encoding": ["input"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "gulagu.net logo"
+},
+{
+  "tx": "36e7f004ff22aa1146a00705d166fbca64d174c472a5296ed1f38d4749a74e10",
+  "encoding": ["input"],
+  "insriptions":  ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "gulagu.net people"
+},
+{
+  "tx": "6fa03193609f6506c2fa76540fa9930adf68d50b21c942434a90486a694ccacd",
+  "encoding": ["input"],
+  "binwalkSigs": ["jpeg"],
+  "inscriptionsPartial": ["jpeg"]
+},
+{
+  "tx": "7adfde9d95ef2bc4a74c887893dacdca9ecc1446956da6ae235211a32faffed7",
+  "inscriptions": [],
+  "desc": "ffd8ff8a on start of out sig and spent, large value"
+},
+{
+  "tx": "23a70030d0d7ed104550d9a47c80b680833627f4c3f6d320f99babe93355fa61",
+  "inscriptions": [],
+  "desc": "ffd8ff8a on start of out sig and spent, but small value. Feeds into 7cc0a23301c79597457ffe46040caf09347e68f89cc0985200d348deea108184 which groups a lot of small sats."
+},
+{
+  "tx": "2d9248c6937dbe5d47aed56ff4e4282de5e2e2ac2fd8f8311e1f94e09b9a3c95",
+  "inscriptions": [],
+  "desc": "ffd8ffcf on start of out sig and spent"
+},
+{
+  "tx": "1433701528804ff5b123b0d495798ef009a09eb1a06476d9c68c10080a885e74",
+  "inscriptions": [],
+  "desc": "ffd8ff25 on start of out sig and spent"
+},
+{
+  "tx": "e5c9fcd22c3d5561536931369846c9a2a6486fd3e3b500c75bb6f381e2c054e7",
+  "inscriptions": [],
+  "desc": "ffd8ff18 on start of out sig and spent"
+},
+{
+  "tx": "037969966f53ca1964d3fcbb60aa5f8b25994a6a1025a7f097cc3b703c3d710a",
+  "inscriptions": [],
+  "desc": "ffd8ff5c spent"
+},
+{
+  "tx": "41f1a381a3d97a471551da5a60a04ebc842fea4d7af6647ee1b4b13c6c3365a0",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "61d658c936b921d83b7185d1fab327cf3c165ef817780f8c69dc679820ca51e7",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "ef2a59be7dfef9d3913ae315958a74c86002f68168e7a1f94adfb4b31e41b8a3",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "58353f185b3efda50453142379c99ce68d66b9f7b7f739f935bc88bc74c33d5a",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "b05d027b880080187372c1b9432e497963a714d4af52064283dec82d7e83baaa",
+  "inscriptions": [],
+  "desc": "ffd8ffbd 31 of same value but spent"
+},
+{
+  "tx": "b5b9d8d924dde8daa54fdcf1f4a15044eea90cba6d5b55225c1e746c5c909fa4",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "8fd243c58248ec50c611554fda46c5ff86ce110e44e2239f0455021ef15e624a",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "81f62d2584da4c313430c1bcf874230d48de432c63f30a46e896a65249bb3bb1",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "153631137a2f2a3efa802a23ed3740b41fbf3ce8d1ff4e4f9aa82de94c04ecba",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "997b25ef2ab57e025eeffb4d1fabcda7e6d06e2f145a584e98e504771b4430dd",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "3f3e0d1e1b9b693c85fcd1ca21f36971a8201700e1e8d790ca543431a8accfbf",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "7ddcb33d905b1d93b13af9cd656527ae19622442f433fdb1da02d7ca7557f477",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "5a03e421b4398b08d38cea4a2a17667c297331da8393cd437cb28d5c74d00645",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "59e9056a694056c9c4bc571e5e71f0bd7d16d273ae0ca901a370daa38984af8c",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "e2ebb15ec37d4ad62696a377cd726249722d7a63f09970a9847d270667285b9a",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "00abce5e0e9f906aceb70cf671ea3f8414db92012447d1f830d86df708762860",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "73d28711098fca86ded57cf27620ef4da9a122f380b0d79945b0fc5e4aceb765",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "0956ddecd796de8398b0e878cc81384f9ce486219dc35d3e1e9b7e47555dc5b4",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "aa853ef16ae0ca29b2d8e7b541695e4fbd92f288673386ad9528149e03754842",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "60c1ab3810a50d1fc8eaaaee6045bf493a8f621f640119e6ea3c9bb618ac3ae6",
+  "inscriptions": [],
+  "desc": "spent"
+},
+{
+  "tx": "4986e9cd20b75bb534df92e60b232945e18274f4c46d25b8853af9bdda5166b8",
+  "inscriptions": ["png"],
+  "desc": "Cat managa"
+},
+{
+  "tx": "200f3f6f8a91ae438d1924e5cedca98cea7f0197b9eba11343948b5621ca19ed",
+  "inscriptions": ["gzip"],
+  "desc": "western-union-bitcoin-spoof.jpg.gz"
+}
 ]
