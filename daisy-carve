@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+f=data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg
+rm -f "$f"
+while read tx; do
+  echo "$tx"
+  #bitcoin-core.cli getrawtransaction "$tx" true | jq -r '.vout[0].scriptPubKey.asm' | cut -c 21- | xxd -r -p >> "$f"
+  bitcoin-core.cli getrawtransaction "$tx" true 
+done < data-manual/daisy

@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+set -eux
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+tmpdir="$SCRIPT_DIR/data/binwalk.tmp"
+raw="$tmpdir/raw.csv"
+# Correct ordering but dat/offset data still present.
+raw_deterministic_sort="$tmpdir/raw_det_sort.csv"
+# Format independent of my spceific blk.dat ordering.
+raw_deterministic="$tmpdir/raw_det.csv"
+outrepo="$SCRIPT_DIR/data/binwalk"
+datadir="${outrepo}/data"
+
+for f in "$tmpdir/"*.dat.log; do
+  b="$(basename "$f")"
+  filenum="${b%.dat*}"
+  filenum="${filenum#blk}"
+  tail -n+4 "$f" | head -n-1 | while read binwalk_line; do
+    off="${binwalk_line%% *}"
+    type_="$(printf '%s\n' "$binwalk_line" | sed -r 's/^[^ ]+ +[^ ]+ +//;s/"/""/g')"
+    ret="$(sqlite3 txindex.sqlite3 -cmd '.mode csv' "select * from t where file = $filenum and offset <= $off order by offset desc limit 1" | dos2unix)"
+    if [ -z "$ret" ]; then
+      break
+    fi
+    printf '%s\n' "${ret},\"${type_}\""
+  done
+done | tee "$raw"
+# Sort by block and then .dat position to order transactions within each block correctly..
+sort -n -k2,2 -k4,4 -o "$raw_deterministic_sort" -t, "$raw"
+# Remove .dat file and position.
+cut -d, -f 3,4 --complement "$raw_deterministic_sort" > "$raw_deterministic"
+rm -rf "$outrepo"
+mkdir -p "$outrepo"
+mkdir -p "$datadir"
+split -a 4 --additional-suffix .csv -d -l 2000 "$raw_deterministic" "$datadir/"
+cd "$outrepo"
+cat >README.adoc <<EOF
+= Bitcoin Inscription Indexer: Blockchain binwalk with txids
+
+This repository contains the result of running binwalk https://github.com/ReFirmLabs/binwalk on the Bitcoin blockchain, and then finding out which transaction each hit belongs to.
+
+This can be useful to help find new inscriptions in the Bitcoin blockchain.
+
+This repository is generated with: https://github.com/cirosantilli/bitcoin-inscription-indexer/blob/master/binwalk-get-tx more details at: https://github.com/cirosantilli/bitcoin-inscription-indexer#binwalk
+
+Generated with binwalk 2.3.4.
+
+File index:
+
+$(ls "${datadir}" | grep .json | sed -r 's/^/* link:data\//;s/$/[]/')
+EOF
+git -C "$outrepo" init
+git -C "$outrepo" add .
+d="@0 +0000"
+GIT_COMMITTER_DATE="$d" git git -C "$outrepo" commit --date "$d" -m 'Autogen' -q
+git -C "$outrepo" remote add origin git@github.com:cirosantilli/bitcoin-inscription-indexer-binwalk.git
+git -C "$outrepo" push -f

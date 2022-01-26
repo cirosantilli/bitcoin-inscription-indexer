@@ -301,7 +301,7 @@ So if the entire text or image fits in on transaction, it gets shown. Anything c
 
 ===== atomsea-from-bitfossil
 
-link:data/atomsea-from-bitfossil[]
+link:data-manual/atomsea-from-bitfossil[]
 
 File format:
 
@@ -311,7 +311,7 @@ tx_hash tx_size tx_time
 
 Same as link:atomsea[] ideally, but downloaded from the canonical source http://bitfossil.com/catalog.htm and filtered for Bitcoin only.
 
-Generated with: link:atomsea-from-bitfossil[].
+Generated with: link:data-manual/atomsea-from-bitfossil[].
 
 Oh and their indexer seems to be very broken, the false positive rate seems huge, which is why we also dump the size to serve as heuristic. But even still, it's way too hight to be useful.
 
@@ -361,23 +361,143 @@ a3084018096b92af04df57b6116e01ff4b7c7e8bd228235ed49e23f4a2817029
 
 The use case for this is to remove atomsea hits from binwalk-based exploration to search more easily for non-atomsea.
 
-==== cryptograffiti
+==== Ordinals
 
-link:data/cryptograffiti[]
-
-Generated with link:cryptograffiti-from-blockchair.sh[]:
+To do just them you can start from:
 
 ....
-./cryptograffiti-from-blockchair
+./main.py -i ordinals --start 767000
+....
+
+which extracts files from ordinals and dumps them under `data/ordinals/<txid[0:2]/><txid[2:4]>/txid[4:64]-<inscription_index>.<ext>`. The first ordinal is after 767000, so doing it on anything prior is useless.
+
+`<inscription_index>` is analogous to the i0 on ordinals.com and denotes the index of the inscription within a given transaction.
+
+It also produces an index data/ordinals.tmp/ordinals.csv which we have uploaded to https://archive.org/details/bitcoin-ordinal-inscriptions.csv
+
+Sample data:
+
+....
+6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799,0,1,767430,image/png,793
+26482871f33f1051f450f2da9af275794c0b5f1c61ebf35e4467fb42c2813403,0,1,767753,image/png,20266
+c17dd02a7f216f4b438ab1a303f518abfc4d4d01dcff8f023cf87c4403cb54ca,0,1,768094,image/gif,9371
+....
+
+format:
+
+* `txid`: 6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799
+* `incription_sindex`: `0`
+* `segwit_index`: `1`
+* `mime`: `iamge/png`
+* `payload_len`: 793 bytes
+
+===== Ordinals nudity detection
+
+link:ordinals-detect-porn[] attempts to detect porn on <<ordinals>>.
+
+Currently the only thing that it runs is https://github.com/notAI-tech/NudeNet which detects nudity, but not sex.
+
+It produces the file: link:data/ordinals-nudenet[].
+
+==== binwalk
+
+The directory link:data/binwalk[] contains possible files found by signature with binwalk: https://github.com/ReFirmLabs/binwalk
+
+To generate it first do a raw binwalk run link:binwalk[]:
+
+....
+./binwalk
+....
+
+which takes several hours and dumps logs under `data/binwalk.tmp` stating where each file signature is found in each bitcoin .dat file. Next obtain <<txindex.sqlite3>> and run:
+
+....
+./binwalk-get-tx
+....
+
+which also takes several hours and uses <<txindex.sqlite3>> to map each signature found to its corresponding txid producing a directory:
+
+....
+data/binwalk
+....
+
+which contains files:
+
+....
+0000.csv
+0001.csv
+....
+
+Each of those files contains 2000 lines, each with a binwalk hit, ordered in natural blockchain order. Sample line:
+
+....
+8a940f44b09744533577ba4605049d90c2e4964ef863aa396be2df0d40d8e85a,7777,135,"Intel x86 or x64 microcode, sig 0xf01b486f, pf_mask 0x4ebe2255, 1AFA-16-26, rev 0x3359ba8f, size 2048"
+....
+
+which contains:
+
+* txid: `8a940f44b09744533577ba4605049d90c2e4964ef863aa396be2df0d40d8e85a`
+* block: `7777`
+* transaction size in bytes: `135`
+* binwalk description: `Intel x86 or x64 microcode, sig 0xf01b486f, pf_mask 0x4ebe2255, 1AFA-16-26, rev 0x3359ba8f, size 2048`
+
+This intermediate result is useful but also large, so we store it in a separate data repository that is tracked as a git submodule of this repository: https://github.com/cirosantilli/bitcoin-inscription-indexer-binwalk
+
+After `data/binwalk` is obtained, we filter and sort it a bit to highlight inscriptions we might not yet know about with link:binwalk-mine[]:
+
+....
+./binwalk-mine
+....
+
+This attempts to data mine the binwalk results by selecting interesting filetypes and excluding things like <<atomsea>> or <<cryptograffiti-blockchair>> and outputing selected lines at:
+
+....
+data/binwalk.tmp/mine.csv
+....
+
+sorted by descending file size.
+
+==== Manual indexes
+
+This section is about data files that are either:
+
+* created manually with "intelligence"
+* created from data not present in the blockchain itself, and that therefore could expire at any moment
+
+They cannot therefore be reliably automatically generated, and are placed under link:data-manual[].
+
+We are also going to start one massive manual index to rule them all at link:data-manual/txs.json[], wish us luck. Schema:
+
+* `tx`: transaction hash
+* `size`: transaction size. Larger means more likely to contain an inscription
+* `inscriptions` (`list[string]`): list of strings containing the inscribed file formats that were fully correctly extracted from the transaction, e.g. `["jpeg"]`
+** if missing means: "we don't know"
+** if given and empty means: "we've manually inspected it but don't think there are any inscriptions"
+* `inscriptionsPartial` analogous to `inscriptions`, there is something for sure, but we've only been able to partially decode it, e.g. half of an image for example;
+* `desc`: arbitrary description
+* `binwalkSigs`: signatures found by <<binwalk>>, possibly false positives
+* `dust` (`boolean`): the transaction contains several outputs with small and identical small values, a hallmark of output encoding methods
+* `encoding` (`string`): the inscription protocol seen on the wire, e.g.: `atomsea`, `ordinal`
+
+===== blacklist
+
+List of illegal blacklisted txids in case any are found. .gitignored from this repository and stored out-of-band.
+
+===== cryptograffiti-blockchair
+
+link:data-manual/cryptograffiti-blockchair[]
+
+Generated with link:cryptograffiti-blockchair[]:
+
+....
+./cryptograffiti-blockchair
 ....
 
 Our main.py already catches all images from them, but this can help highlight some texts, in particular UTF-8 ones.
 
-==== Manual image indexes
-
 ===== hashling
 
-link:data/hashling[]
+link:data-manual/hashling[]
 
 https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain#code-the-hashling
 
@@ -391,16 +511,63 @@ but there is one without text 453c9511ca76361c8c44b4302ce1b5d8d5c98a938b548478ef
 
 ===== annotated-blockchain-project-images
 
-link:data/annotated-blockchain-project-images[]
+link:data-manual/annotated-blockchain-project-images[]
 
 Extracted from https://etherpad.mit.edu/p/r.19b7b3e2c5ea08a61cb0bef0aeb213fd with tx hashes deduplicated.
 
 To try and find new upload methods we can exclude known ones from it with:
 
 ....
-cd data
-grep -v -f atomsea -f atomsea-leaves -f hashling -f cryptograffiti annotated-blockchain-project-images
+grep -v -f data/atomsea -f data/atomsea-leaves -f data-manual/atomsea-leaves -f data-manual/cryptograffiti-blockchair -f data-manual/hashling data/annotated-blockchain-project-images
 ....
+
+===== daisy
+
+This is currently for a single very unique encoding: https://www.blockchain.com/explorer/transactions/btc/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2 starts a daisy chain of OP_RETURN transactions, one per transaction:
+
+Data is stored in OP_RETURNs as follows:
+
+....
+OP_RETURN 6200010000 ffd8ffe1001845786966000049492a00080000000000000000000000ffec0011447563
+OP_RETURN 6200010001 6b79000100040000003c0000ffe1039a687474703a2f2f6e732e61646f62652e636f6d
+OP_RETURN 6200010002 2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d
+OP_RETURN 6200010003 2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d70
+
+....
+
+OP_RETURN 620001008551290358a41fe5408b4435254208d4810a5fe9113044c1ae3aa544656d729756395b87
+OP_RETURN 6200010086c4e261f55c5d19e1c792c3f78adff1368db58e5a0bb85b2c6753c42de6d973edae0642
+OP_RETURN 62000100871b2c8370f203aaa0a6eb7ea0871d8e9ae6534b785b57347171e4df6a5463d7ce77b93b
+....
+
+so we see that there's also an index for each payload.
+
+This was found with <<binwalk>> because ffd8ffe1 is a JPEG signature.
+
+Obtain the data from blockahain.info with link:daisy[]:
+
+....
+./daisy
+....
+
+This produces the tx list under link:data-manual/daisy[].
+
+Next extra the data locally with:
+
+....
+./daisy-carve
+....
+
+which produces data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg.
+
+Unfortunately something is wrong with our decoding, we can see top half of the image, but the bottom is grayed out and `identify` from ImageMagick 6.9.11 says that the image is corrupt:
+
+....
+data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg JPEG 200x200 200x200+0+0 8-bit sRGB 4830B 0.000u 0:00.000
+tmp.jpg JPEG 200x200 200x200+0+0 8-bit sRGB 5409B 0.000u 0:00.000
+identify-im6.q16: Corrupt JPEG data: 35 extraneous bytes before marker 0xc0 `data/bin/b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2.jpg' @ warning/jpeg.c/JPEGWarningHandler/389.
+....
+
 
 === invalid_tx
 
@@ -908,8 +1075,6 @@ pip install -r requirements.txt
 ./main.py "$BITCOIN_DATA_DIR/blocks"
 
 # To finish off.
-./cryptograffiti-from-blockchair
-./atomsea-from-bitfossil
 ./atomsea-leaves
 ....
 
@@ -962,7 +1127,41 @@ Not supported by python-bitcoin-blockchain-parser unfortunately: https://github.
 
 This attempts to dump all txindex to sqlite database to allow finding where transactions are in .dat files.
 
-It requires `bitcoin-core.daemon -txindex` is broken right now.
+It requires `bitcoin-core.daemon -txindex`.
+
+This is currently not working correctly: https://bitcoin.stackexchange.com/questions/121888/what-is-the-data-format-layout-for-txindex-leveldb-values/121889#121889
+
+===== txindex.sqlite3
+
+This index contains information about all transactions, including where they they start and end in bytes within each block file.
+
+This information can be useful to find inscriptions with external tools that don't know about the blockchain such as <<binwalk>> or https://github.com/getreu/stringsext[]. The index then allows us to match possible inscriptions back to transactions, from which we can attempt a proper data recovery with the Bitcoin Core CLI tools. This could allow us to find new inscriptions that were missed by our existing methods.
+
+Size: 177 GB as of dat file 965.
+
+The best way to generate this would be with <<txindex2sqlite.py>>, but since that is broken, we can do the slower in-Python:
+
+....
+./main.py -i txindex
+....
+
+To verify we can compare:
+
+....
+sqlite3 txindex.sqlite3 "select * from t where txid = '52b53375e7d5d907486640b70a10c79244ce7e60fd8706646ab8aabd89c70d5b'"
+....
+
+Then get the file number and offset from that and get the bytes from the .dat:
+
+....
+tail -c+5277298  ~/snap/bitcoin-core/common/.bitcoin/blocks/blk00000.dat | head -c 200 | xxd -p | tr -d '\n'
+....
+
+then finally we can cross check those with the bytes from:
+
+....
+btc getrawtransaction 52b53375e7d5d907486640b70a10c79244ce7e60fd8706646ab8aabd89c70d5b
+....
 
 === UTXO dump
 

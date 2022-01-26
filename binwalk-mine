@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -eu
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+tmpdir="$SCRIPT_DIR/data/binwalk.tmp"
+mine="$tmpdir/mine.csv"
+raw_deterministic="$tmpdir/raw_det.csv"
+outrepo="$SCRIPT_DIR/data/binwalk/data"
+# Too ooisy.
+#-e 'gzip compressed data' \
+# binwalk doesn't do webp or any audio/video formats, it is quite sad. We need to patch the thing some day.
+mkdir -p "$tmpdir"
+cat "$outrepo/"*.csv > "$raw_deterministic"
+# "GIF image data" has too many false positives.
+grep \
+  -e 'JPEG image data' \
+  -e 'GIF image data, version' \
+  -e 'PNG image' \
+  -e 'PDF document' \
+  -e '7-zip archive' \
+  -e 'Zip archive data' \
+  "$raw_deterministic" |
+grep -v \
+  -f "$SCRIPT_DIR/data/atomsea" \
+  -f "$SCRIPT_DIR/data/atomsea-leaves" \
+  -f "$SCRIPT_DIR/data/jpeg" \
+  -f "$SCRIPT_DIR/data/gif" \
+  -f "$SCRIPT_DIR/data/png" \
+  -f "$SCRIPT_DIR/data/pdf" \
+  -f "$SCRIPT_DIR/data/webp" \
+  -f "$SCRIPT_DIR/data/ogg" \
+  -f "$SCRIPT_DIR/data/mp4" \
+  -f "$SCRIPT_DIR/data/satoshi_uploader" \
+  -f "$SCRIPT_DIR/data-manual/atomsea-leaves" \
+  -f "$SCRIPT_DIR/data-manual/cryptograffiti-blockchair" \
+  -f "$SCRIPT_DIR/data-manual/hashling" \
+  -f <(jq -r '.[].tx' <"$SCRIPT_DIR/data-manual/txs.json") \
+  -f <( f="$SCRIPT_DIR/blacklist"; [ -f "$f" ] && grep . "$f" | grep -Ev '^#') \
+|
+while read l; do
+  # Remove all ordinals.
+  txid="${l%%,*}"
+  if ! ls "data/ordinals.tmp/payloads/${txid:0:2}/${txid:2:2}/${txid:4:60}"* &>/dev/null; then
+    echo "$l"
+  fi
+done | tee "${mine}"
+# Sort by decreasing size
+sort -n -k3 -o "$mine-sort-size" -r -t, "$mine"

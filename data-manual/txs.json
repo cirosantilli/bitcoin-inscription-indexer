@@ -1,0 +1,198 @@
+[
+{
+  "tx": "002e7c652bbfc57da5aa768a7218fd2b93003b99afb7e7945c69c5ce9ed27705",
+  "binwalkSigs": ["gif"],
+  "desc": "contains 4 bytes at the start of GIF signature on an input: 'G' 'I' 'F' '8', but it is followed by byte 03 which is not a valid signature, needed either a '7' or a '9'"
+},
+{
+  "tx": "54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713",
+  "inscriptions": ["pdf"],
+  "desc": "bitcoin whitepaper"
+},
+{
+  "tx": "5c2613415516f1c1a6d095dee12110cffb4ef85c9a9e71a3dff5beef48e0c70f",
+  "size": "59151",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by 3e45 which seems invalid. Quite a large transaction too which makes it very suspicious."
+},
+{
+  "tx": "bc4376d3141a4bf956c081a3c3b6482ad90550c42a7dcf632348ac932bbef1eb",
+  "size": "33672",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by 894c which seems invalid. Quite a large transaction too which makes it very suspicious."
+},
+{
+  "tx": "6b5cf45763c675df588a4d101fb5d89632c3bc2553442e23f48e3ff5ce08d185",
+  "size": "7903",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by 895b which seems invalid"
+},
+{
+  "tx": "49a3195d443e3544c538d94b1e5ef516335fe05218249da839a2ad36b50abdff",
+  "size": "7903",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by 895b which seems invalid"
+},
+
+{
+  "tx": "b80dcfb19647ea81ebc86346cd5d53e94a6f2b9cabf728ecb416243d25e370d5",
+  "size": "19825",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by 9e3a which seems invalid"
+},
+{
+  "tx": "68deed9ae129a610f0d24c66ef9ea6712574701da17ff582037fcb21d6cf57ec",
+  "size": "29760",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by a70d which seems invalid"
+},
+{
+  "tx": "d8eb479bb6f5531644a1ad28ed21fb64662e3ad62bcf3d367f3510bb961440f9",
+  "size": "88985",
+  "binwalkSigs": ["gif"],
+  "desc": "contains start of GIF signature 47494638, but then followed by acb94 which seems invalid"
+},
+{
+  "tx": "165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "TODO why not showing on ASCII? TODO find toplevel. About Eric Garner http://bitfossil.com/165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08/"
+},
+{
+  "tx": "69e57ba591edb1335c77d540c1a51fa2ba219f4fabecb59b5a18d100399ab568",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "TODO why not showing on ASCII? TODO find toplevel. Kat Ingrid.jpg. http://bitfossil.com/165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08/"
+},
+{
+  "tx": "5316f55b30d0e09af7a3e402425aaba4dc813202997348e876cb16037605b72d",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Shiemaa&Vincent.jpg parent parent parent parent parent parent parent parent http://bitfossil.com/36d0d77acd760f0aa549b6b314f0c1e9690baa6bcc2d0f07ea9f3167f4a5ec99/"
+},
+{
+  "tx": "4bb74478ebf01340dc82a60c04b49fc3da7b0bb75279b1d02c12e9adb0ece3e0",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "RobinWilliams.jpg http://bitfossil.com/d0440b68c9e5e012dc02594fbe17b2334c154682223f31beabec93ce6b19e926/index.htm"
+},
+{
+  "tx": "8d5a9d3b29721f6544189d554770cf5e0e4e782f6b634df9fe7dc451abcee4d5",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Mahabharata.jpg http://bitfossil.com/0618f12af65a4e82f8e7b41f8578721dfeb109e9a73ff71aebdbc982696e3720/index.htm"
+},
+{
+  "tx": "7d164165139e5db2201a3c6644356235543bd949b1d022fb4c603c10de05884c",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "AMT2.jpg, Alan Turing http://bitfossil.com/5f5766f6b04d7bfae15a38e13012c9847a604ceec572a8152df6de304971b2cb/index.htm"
+},
+{
+  "tx": "67a2c5446aa550da341e81be566457f0f13bac0e779668bcf52bb778f0ffd344",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Loraine High School.jpg http://bitfossil.com/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/index.htm"
+},
+{
+  "tx": "4d66d7bcb8b070fadfefcd8f0b154cb83a4fe7eb52a3e0c1d34b2e626785026c",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Bud Karen Joe Jan Loraine Betty Kat Ingrid.jpg http://bitfossil.com/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/index.htm"
+},
+{
+  "tx": "af3a5bb5856abf7c25c4dee739d49255c173743c4039132055ddbe90f756629e",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Spock.jpg http://bitfossil.com/1bc87dbff1ff5831287f62ac7cf95579794e4386688479bab66174963f9a4a0c/index.htm"
+},
+{
+  "tx": "1f9473defa3c2e224bd5f63112456fa32c507312e9e0f5da2181ca8fe3d75064",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Dome C C02 Graph.jpg http://bitfossil.com/88144af29540aa788a9cb156ed461d57be82d97540d3255433a9defb4c26eb1e/index.htm"
+},
+{
+  "tx": "84fe320ec6c822fce7354cd7958188ee0ea62fae6a709eac56431f8195a8824c",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "I Will Not Stop.jpg http://bitfossil.com/f2efd446475ad58a3ea808cc0f05a63c55cece9fced70d84799a1ffce5d307e4/index.htm"
+},
+{
+  "tx": "d653965dec2c2910f9576b64d9c3565d111748661f25873c8be2e9ce1fb8d1d0",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["atomsea"],
+  "desc": "Naked Ape.jpg http://bitfossil.com/1991aa1b4f542e24bff49336e80b581594c13a3a99c4dd108bd034b04a182bab/index.htm"
+},
+{
+  "tx": "3110f49fb6047d62e6fa198a0a4b180d9abf7075d6f29472747990ae286295cb",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["p2fms"],
+  "inscriptions": ["jpeg"],
+  "desc": "TODO decode"
+},
+{
+  "tx": "cad2c46b0f7feb56191f2ab7d8ed59184615cbf0ca46af8c8b5a21a2045a42d2",
+  "binwalkSigs": ["gif"],
+  "encoding": ["p2fkh"],
+  "desc": "low resolution screenshot of the Bitboin whitepaper"
+},
+{
+  "tx": "b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2",
+  "binwalkSigs": ["jpeg"],
+  "encoding": ["opreturn"],
+  "desc": "OP_RETURN 6200010000 ffd8ffe1001845786966000049492a00080000000000000000000000ffec0011447563 on first output followed by a change output, but that's it, the image is incomplete? Could it be a multi tx thing?"
+},
+{
+  "tx": "2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73",
+  "binwalkSigs": ["jpeg"],
+  "inscriptions": []
+},
+{
+  "tx": "225ed8bc432d37cf434f80717286fd5671f676f12b573294db72a2a8f9b1e7ba",
+  "binwalkSigs": ["jpeg"],
+  "inscriptions": ["jpeg"],
+  "encoding": ["segwit"],
+  "desc": "The Starry Night by van Gogh, https://github.com/aureleoules/bitcandle"
+},
+{
+  "tx": "8dc2785335c59df6c00257f9b20e5df9b932a717f97066b279e292faba71a67a",
+  "binwalkSigs": ["jpeg"],
+  "inscriptions": ["jpeg"],
+  "encoding": ["segwit"],
+  "desc": "same payload as 225ed8bc432d37cf434f80717286fd5671f676f12b573294db72a2a8f9b1e7ba by different encoding, same encoding as 94e319d09fc236fb9d7a24e60af8f47ed41ca3cc01e9950c925d806153ed8aa3"
+},
+{
+  "tx": "283f2a156022d3036da9ed1cbe988c9b50a78820a82c526150a9b0a1b05256b0",
+  "binwalkSigs": ["png"],
+  "inscriptions": ["png"],
+  "encoding": ["segwit"],
+  "desc": "gray solid color. TODO did we correctly decode it?"
+},
+{
+  "tx": "9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96",
+  "encoding": ["atomsea"],
+  "binwalkSigs": ["jpeg"],
+  "desc": "it is some atomsea thing for sure, referred to from tx 031d28dcaad2ad1c8cba85ac8c6992823ae3a3a7acff26e376ec016e2fa5cc31 blk 339700 txid 1111 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG*88:HzBgQKB7Hi6nQpuiL4HZ6PQN++SHeEralPuHrnMcD0dGNTozhFNH64xlnunNEMsi3YN5MLT/Z1uxMBUYAcoWYOU=9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96>924<9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96 bu does not show up at http://bitfossil.com/031d28dcaad2ad1c8cba85ac8c6992823ae3a3a7acff26e376ec016e2fa5cc31 so not sure"
+},
+{
+  "tx": "9e85ce18292ae49a268d10d985516afa00a3281a915a7fc7f6acab38ebdccd96",
+  "encoding": ["daisy"],
+  "inscriptionsPartial": ["jpeg"],
+  "binwalkSigs": ["jpeg"],
+  "desc": ""
+},
+{
+  "tx": "abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794",
+  "encoding": ["daisy"],
+  "binwalkSigs": ["zip"],
+  "desc": "possibly daisy on 0.00010000 BTC txes, though there can be more than one per tx"
+},
+{
+  "tx": "abed58ffd6e0a51b65b499227e93e7067381a8691739c8374052f8740365c794",
+  "encoding": ["input"],
+  "inscriptions": ["zip"],
+  "binwalkSigs": ["zip"],
+  "desc": "contains file tithonus_ecies_cert_anon.der which is a certificate file type. Decoded with: `bitcoin-core.cli getrawtransaction d3bab0fda965b7c6fe9cf55d0a7efac96ab19c184ca2812f2018f135b273a050 true | jq -r .vin[0].scriptSig.asm | tr -d ' ' | xxd -r -p > tmp.zip` Googling leads to https://petsymposium.org/popets/2019/popets-2019-0005.pdf 'Tithonus: A Bitcoin Based Censorship Resilient System'"
+}
+]

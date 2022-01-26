@@ -3,9 +3,12 @@
 # stdlib
 import argparse
 import binascii
+import csv
 import copy
 import heapq
+import itertools
 import json
+import mimetypes
 import os
 import pathlib
 import re
@@ -24,6 +27,10 @@ import blockchain_parser.blockchain
 
 # Global state.
 outdir = 'data'
+ordinals_dir = os.path.join(outdir, 'ordinals')
+ordinals_dir_tmp = os.path.join(outdir, 'ordinals.tmp')
+ordinals_csv_path = os.path.join(ordinals_dir_tmp, 'ordinals.csv')
+ordinals_dir_payloads = os.path.join(ordinals_dir_tmp, 'payloads')
 bindir = os.path.join(outdir, 'bin')
 digits_ascii_int_set = set(ord(c) for c in string.digits)
 hexdigits_ascii_int_set = set(ord(c) for c in string.hexdigits)
@@ -65,6 +72,14 @@ SIZE_NAMES = [
     'tx_value',
 ]
 UTXO_DUMP_SQLITE = 'utxodump.sqlite3'
+TXINDEX_SQLITE = 'txindex.sqlite3'
+INDEX_CHOICES = (
+    'ordinals',
+    'txindex',
+    'utxo',
+    'therest'
+)
+ORDINAL_DIR_PREF_LEN = 2
 
 def basename_to_int(basename):
     return int(re.match('(\d+)\.(dat|txt)', basename).group(1))
@@ -133,9 +148,9 @@ def init_datadir(datadir):
 def outpath(file_num, pref):
     return os.path.join(outdir, pref, '{:04}'.format(file_num) + '.txt')
 
-def print_ios(blk_height, tx, ios, minlen, output_file, isinput, txno):
-    decode = get_ios_bytes(tx, ios, minlen, isinput)
-    if decode:
+def print_ios(blk_height, tx, ios, minlen, output_file, isinput, txno, index_set):
+    decode = get_ios_bytes(tx, ios, minlen, isinput, index_set)
+    if 'therest' in index_set and decode:
         print_tx(blk_height, tx, output_file, isinput, txno)
         if tx.txid in CENSORED_TXS:
            decode = '[[CIROSANTILLI CENSORED]]\n'
@@ -310,164 +325,166 @@ if True:
     ss.push(b'ef')
     assert ss.get() == 'ab\ncdef\n'
 
-def get_ios_bytes(tx, ios, minlen, isinput):
-    global json_db
-    has_op_return = False
-    ss = StringSplitterSimple(minlen);
-    payload_size = 0
-    is_2vals = True
-    consts_bytes_list = []
-    satoshi_bytes_list = []
-    atomsea_bytes_list = []
-    op_signatures = []
-    if not isinput:
-        total_value = 0
-        if len(ios) > 0:
-            first_val = ios[0].value
-    for ioidx, io in enumerate(ios):
-        script = io.script
-        if isinput and tx.is_coinbase():
-            # Arbitrary data.
-            bytes_list = [io.script.hex]
-        else:
-            try:
-                ops = script.operations
-                op_signature = []
-                bytes_list = []
-                for op in ops:
-                    if type(op) == bitcoin.core.script.CScriptOp:
-                        op_signature.append(bitcoin.core.script.OPCODE_NAMES[op])
-                    else:
-                        op_signature.append(None)
-                        bytes_list.append(op)
-                op_signature = tuple(op_signature)
-                op_signatures.append(op_signature)
-                if not op_signature in json_db['known_op_signatures']:
-                    json_db['known_op_signatures'][op_signature] = {
-                        'count': 0,
-                        'sample': tx.txid,
-                        'ioidx': ioidx,
-                    }
-                json_db['known_op_signatures'][op_signature]['count'] += 1
-                if ops and ops[0] == bitcoin.core.script.OP_RETURN:
-                    has_op_return = True
-            except:
-                # blk 88
-                # https://blockchain.info/tx/ebc9fa1196a59e192352d76c0f6e73167046b9d37b8302b6bb6968dfd279b767?format=json
-                # Others:
-                # - 6f8a70aac37786b1f619d40250b8bca1a1f6da487146a7e81091f611068a23ef
-                # first output. It looks like you can always make invalid output scripts of
-                # some type that throw, so we just to ignore them (or log them if not too common.
-                # bitcoin.core.script.CScriptTruncatedPushDataError: PUSHDATA(1): truncated data
-                # Also they are likely not spendable, so not much can come of this except
-                # deducing identidies of developers.
-                serialize_list('invalid_tx', (tx.txid, ioidx))
-                bytes_list = [io.script.hex]
-                op_signatures.append(tuple())
-                if tx.txid == 'fa735229f650a8a12bcf2f14cca5a8593513f0aabc52f8687ee148c9f9ab6665':
-                    print('ok')
-        for _bytes in bytes_list:
-            if type(_bytes) is int:
-                # It seems to convert 1 byte literals like OP_1, OP_2 etc. to ints instead of bytes
-                # CScript([OP_DUP, OP_HASH160, 0, OP_EQUALVERIFY, OP_CHECKSIG])
-                # "out": ["script":"76a90088ac"
-                # We just add them to the payload. This could lead to errors. E.g. Satoshi Downloader
-                # ignores those from payload.
-                _bytes = bytes([_bytes])
-            else:
-                if len(_bytes) >= 20:
-                    satoshi_bytes_list.append(_bytes)
-            payload_size += len(_bytes)
-            consts_bytes_list.append(_bytes)
-            if not isinput and io.value == first_val:
-                atomsea_bytes_list.append(_bytes)
-            ss.push(_bytes)
+def get_ios_bytes(tx, ios, minlen, isinput, index_set):
+    if 'therest' in index_set:
+        global json_db
+        has_op_return = False
+        ss = StringSplitterSimple(minlen);
+        payload_size = 0
+        is_2vals = True
+        consts_bytes_list = []
+        satoshi_bytes_list = []
+        atomsea_bytes_list = []
+        op_signatures = []
         if not isinput:
-            total_value += io.value
-            if ioidx < len(ios) - 1 and io.value != first_val:
-                is_2vals = False
-    # Raw consts index.
-    consts_bytes = b''.join(consts_bytes_list)
-    if consts_bytes.startswith(bytes.fromhex('474946383761')) or consts_bytes.startswith(bytes.fromhex('474946383961')):
-        serialize_list('gif', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('FFD8FF')):
-        serialize_list('jpeg', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('6674797069736F6D')) or consts_bytes.startswith(bytes.fromhex('667479704D534E56')):
-        serialize_list('mp4', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('89504E470D0A1A0A')):
-        serialize_list('png', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('4F676753')):
-        serialize_list('ogg', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('255044462D')):
-        serialize_list('pdf', (tx.txid,))
-    if consts_bytes.startswith(bytes.fromhex('52494646')):
-        serialize_list('webp', (tx.txid,))
+            total_value = 0
+            if len(ios) > 0:
+                first_val = ios[0].value
+        for ioidx, io in enumerate(ios):
+            script = io.script
+            if isinput and tx.is_coinbase():
+                # Arbitrary data.
+                bytes_list = [io.script.hex]
+            else:
+                try:
+                    ops = script.operations
+                    op_signature = []
+                    bytes_list = []
+                    for op in ops:
+                        if type(op) == bitcoin.core.script.CScriptOp:
+                            op_signature.append(bitcoin.core.script.OPCODE_NAMES[op])
+                        else:
+                            op_signature.append(None)
+                            bytes_list.append(op)
+                    op_signature = tuple(op_signature)
+                    op_signatures.append(op_signature)
+                    if not op_signature in json_db['known_op_signatures']:
+                        json_db['known_op_signatures'][op_signature] = {
+                            'count': 0,
+                            'sample': tx.txid,
+                            'ioidx': ioidx,
+                        }
+                    json_db['known_op_signatures'][op_signature]['count'] += 1
+                    if ops and ops[0] == bitcoin.core.script.OP_RETURN:
+                        has_op_return = True
+                except:
+                    # blk 88
+                    # https://blockchain.info/tx/ebc9fa1196a59e192352d76c0f6e73167046b9d37b8302b6bb6968dfd279b767?format=json
+                    # Others:
+                    # - 6f8a70aac37786b1f619d40250b8bca1a1f6da487146a7e81091f611068a23ef
+                    # first output. It looks like you can always make invalid output scripts of
+                    # some type that throw, so we just to ignore them (or log them if not too common.
+                    # bitcoin.core.script.CScriptTruncatedPushDataError: PUSHDATA(1): truncated data
+                    # Also they are likely not spendable, so not much can come of this except
+                    # deducing identidies of developers.
+                    serialize_list('invalid_tx', (tx.txid, ioidx))
+                    bytes_list = [io.script.hex]
+                    op_signatures.append(tuple())
+                    if tx.txid == 'fa735229f650a8a12bcf2f14cca5a8593513f0aabc52f8687ee148c9f9ab6665':
+                        print('ok')
+            for _bytes in bytes_list:
+                if type(_bytes) is int:
+                    # It seems to convert 1 byte literals like OP_1, OP_2 etc. to ints instead of bytes
+                    # CScript([OP_DUP, OP_HASH160, 0, OP_EQUALVERIFY, OP_CHECKSIG])
+                    # "out": ["script":"76a90088ac"
+                    # We just add them to the payload. This could lead to errors. E.g. Satoshi Downloader
+                    # ignores those from payload.
+                    _bytes = bytes([_bytes])
+                else:
+                    if len(_bytes) >= 20:
+                        satoshi_bytes_list.append(_bytes)
+                payload_size += len(_bytes)
+                consts_bytes_list.append(_bytes)
+                if not isinput and io.value == first_val:
+                    atomsea_bytes_list.append(_bytes)
+                ss.push(_bytes)
+            if not isinput:
+                total_value += io.value
+                if ioidx < len(ios) - 1 and io.value != first_val:
+                    is_2vals = False
+        # Raw consts index.
+        consts_bytes = b''.join(consts_bytes_list)
+        if consts_bytes.startswith(bytes.fromhex('474946383761')) or consts_bytes.startswith(bytes.fromhex('474946383961')):
+            serialize_list('gif', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('FFD8FF')):
+            serialize_list('jpeg', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('6674797069736F6D')) or consts_bytes.startswith(bytes.fromhex('667479704D534E56')):
+            serialize_list('mp4', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('89504E470D0A1A0A')):
+            serialize_list('png', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('4F676753')):
+            serialize_list('ogg', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('255044462D')):
+            serialize_list('pdf', (tx.txid,))
+        if consts_bytes.startswith(bytes.fromhex('52494646')):
+            serialize_list('webp', (tx.txid,))
 
-    # Satoshi consts index.
-    satoshi_bytes = b''.join(satoshi_bytes_list)
-    satoshi_bytes_len = len(satoshi_bytes)
-    if satoshi_bytes_len > 8:
-        length = struct.unpack('<L', satoshi_bytes[0:4])[0]
-        checksum = struct.unpack('<L', satoshi_bytes[4:8])[0]
-        satoshi_bytes_data = satoshi_bytes[8:8+length]
-        if (
-            # There are some transactions with a 0 hash, e.g.
-            # https://www.blockchain.com/btc/tx/2c637592a4b4a95cf4b19260730c66de540d7d3b14d8d352de591c5ee6eac0fc
-            # and the crc of empty is 0.
-            length > 0 and
-            len(satoshi_bytes_data) >= length and
-            checksum == binascii.crc32(satoshi_bytes_data)
-        ):
-            serialize_list('satoshi_uploader', (tx.txid,))
-
-    # Atomsea index
-    if not isinput:
-        atomsea_bytes = b''.join(atomsea_bytes_list)
-        if len(atomsea_bytes) > 64 + 1 + 1 + 1 + 64 + 2:
-            text_txid = atomsea_bytes[:64]
+        # Satoshi consts index.
+        satoshi_bytes = b''.join(satoshi_bytes_list)
+        satoshi_bytes_len = len(satoshi_bytes)
+        if satoshi_bytes_len > 8:
+            length = struct.unpack('<L', satoshi_bytes[0:4])[0]
+            checksum = struct.unpack('<L', satoshi_bytes[4:8])[0]
+            satoshi_bytes_data = satoshi_bytes[8:8+length]
             if (
-                set(text_txid) <= hexdigits_ascii_int_set and
-                not atomsea_bytes[64] in hexdigits_ascii_int_set
+                # There are some transactions with a 0 hash, e.g.
+                # https://www.blockchain.com/btc/tx/2c637592a4b4a95cf4b19260730c66de540d7d3b14d8d352de591c5ee6eac0fc
+                # and the crc of empty is 0.
+                length > 0 and
+                len(satoshi_bytes_data) >= length and
+                checksum == binascii.crc32(satoshi_bytes_data)
             ):
-                i = 65
-                while atomsea_bytes[i] in digits_ascii_int_set:
-                    i += 1
-                if i > 65:
-                    i += 1
-                    if text_txid == atomsea_bytes[i: i + 64]:
-                        i += 64
-                        if atomsea_bytes[i: i + 2] == b'\r\n':
-                            serialize_list('atomsea', (tx.txid,))
+                serialize_list('satoshi_uploader', (tx.txid,))
 
-    if isinput:
-        _type = 'in'
-    else:
-        _type = 'out'
-    update_size('payload_size_' + _type, payload_size, tx.txid)
-    if not isinput and has_op_return:
-        update_size('payload_size_out_op_return', payload_size, tx.txid)
+        # Atomsea index
+        if not isinput:
+            atomsea_bytes = b''.join(atomsea_bytes_list)
+            if len(atomsea_bytes) > 64 + 1 + 1 + 1 + 64 + 2:
+                text_txid = atomsea_bytes[:64]
+                if (
+                    set(text_txid) <= hexdigits_ascii_int_set and
+                    not atomsea_bytes[64] in hexdigits_ascii_int_set
+                ):
+                    i = 65
+                    while atomsea_bytes[i] in digits_ascii_int_set:
+                        i += 1
+                    if i > 65:
+                        i += 1
+                        if text_txid == atomsea_bytes[i: i + 64]:
+                            i += 64
+                            if atomsea_bytes[i: i + 2] == b'\r\n':
+                                serialize_list('atomsea', (tx.txid,))
 
-    # UTXO stuff.
-    outs_in_utxo = get_outs_in_utxo(tx.txid)
-    len_not_utxo = len(ios) - len(outs_in_utxo)
-    if not isinput:
-        if len_not_utxo == 0 or (len_not_utxo == 1 and len(ios) > 1):
-            update_size('payload_size_out_utxo', payload_size, tx.txid)
-            if is_2vals:
-                update_size('payload_size_out_utxo_2vals', payload_size, tx.txid)
-        for out_in_utxo in outs_in_utxo:
-            if out_in_utxo[4] == 'non-standard':
-                vout = out_in_utxo[2]
-                op_signature = op_signatures[vout]
-                if len(op_signature) > 0 and op_signature[0] != 'OP_RETURN':
-                    # TODO add ios[vout].value here as well, some useless 0 value outs present.
-                    # e.g. https://www.blockchain.com/btc/tx/90d089b07d7a9f84adf1be6c9de5422b24f7eef4aa09d18444bcc81b47862a98?page2=62 vout 308.
-                    serialize_list('utxo_nonstandard', (tx.txid, vout) + op_signature)
+        if isinput:
+            _type = 'in'
+        else:
+            _type = 'out'
+        update_size('payload_size_' + _type, payload_size, tx.txid)
+        if not isinput and has_op_return:
+            update_size('payload_size_out_op_return', payload_size, tx.txid)
 
-    update_size('tx_n' + _type + 's', len(ios), tx.txid)
-    if not isinput:
-        update_size('tx_value', total_value, tx.txid)
-    return ss.get()
+    if 'utxo' in index_set:
+        # UTXO stuff.
+        outs_in_utxo = get_outs_in_utxo(tx.txid)
+        len_not_utxo = len(ios) - len(outs_in_utxo)
+        if not isinput:
+            if len_not_utxo == 0 or (len_not_utxo == 1 and len(ios) > 1):
+                update_size('payload_size_out_utxo', payload_size, tx.txid)
+                if is_2vals:
+                    update_size('payload_size_out_utxo_2vals', payload_size, tx.txid)
+            for out_in_utxo in outs_in_utxo:
+                if out_in_utxo[4] == 'non-standard':
+                    vout = out_in_utxo[2]
+                    op_signature = op_signatures[vout]
+                    if len(op_signature) > 0 and op_signature[0] != 'OP_RETURN':
+                        # TODO add ios[vout].value here as well, some useless 0 value outs present.
+                        # e.g. https://www.blockchain.com/btc/tx/90d089b07d7a9f84adf1be6c9de5422b24f7eef4aa09d18444bcc81b47862a98?page2=62 vout 308.
+                        serialize_list('utxo_nonstandard', (tx.txid, vout) + op_signature)
+    if 'therest' in index_set:
+        update_size('tx_n' + _type + 's', len(ios), tx.txid)
+        if not isinput:
+            update_size('tx_value', total_value, tx.txid)
+        return ss.get()
 
 def get_outs_in_utxo(txid):
     """
@@ -589,6 +606,7 @@ if __name__ == '__main__':
         '--blocks-per-file',
         type=int,
         default=1000,
+        help='''How many blocks to output strings to each output file'''
     )
     parser.add_argument(
         '-e',
@@ -596,6 +614,14 @@ if __name__ == '__main__':
         type=int,
         default=None,
         help='''The last block height is the one before this number (N-1, exclusive)'''
+    )
+    parser.add_argument(
+        '-i',
+        '--index',
+        default=[],
+        choices=INDEX_CHOICES,
+        action='append',
+        help='''List of what to index'''
     )
     parser.add_argument(
         '--minlen',
@@ -623,11 +649,25 @@ if __name__ == '__main__':
     )
     args = parser.parse_args()
     args.datadir = init_datadir(args.datadir)
-
-    if os.path.exists(UTXO_DUMP_SQLITE):
-        utxodb = sqlite3.connect(UTXO_DUMP_SQLITE)
+    if args.index:
+        index_set = set(args.index)
     else:
-        utxodb = None
+        index_set = set(INDEX_CHOICES)
+
+    if 'utxo' in index_set:
+        if os.path.exists(UTXO_DUMP_SQLITE):
+            utxodb = sqlite3.connect(UTXO_DUMP_SQLITE)
+        else:
+            utxodb = None
+    if 'txindex' in index_set:
+        # Transaction offsets within .dat files
+        txindex = sqlite3.connect(TXINDEX_SQLITE)
+        txindex.execute('CREATE TABLE IF NOT EXISTS t (txid INT, block INT, file INT, offset INT, len INT)')
+        # This becomes faster after some point.
+        # txindex.execute('''DROP INDEX IF EXISTS txid_index on t''')
+        # txindex.execute('''DROP INDEX IF EXISTS file_offset_index ON t''')
+        # txindex.execute('''DROP INDEX IF EXISTS block_index ON t''')
+        # txindex.execute('''DROP INDEX IF EXISTS len_index ON t''')
 
     # Main.
     stdout_mode = args.stdout
@@ -636,6 +676,19 @@ if __name__ == '__main__':
             os.mkdir(outdir)
             os.mkdir(os.path.join(outdir, 'in'))
             os.mkdir(os.path.join(outdir, 'out'))
+        if 'ordinals' in index_set:
+            os.makedirs(ordinals_dir_payloads, exist_ok=True)
+            os.makedirs(ordinals_dir_tmp, exist_ok=True)
+            ordinals_csv_file = open(ordinals_csv_path, 'w')
+            ordinals_csv_writter = csv.writer(ordinals_csv_file, quoting=csv.QUOTE_MINIMAL)
+            for d in itertools.product('0123457689abcdef', repeat=2):
+                dd = os.path.join(ordinals_dir_payloads, ''.join(d))
+                # We need to split in subdirs otherwise too many files with large names in a single dir blow up ext4 limits:
+                # https://stackoverflow.com/questions/6998083/python-causing-ioerror-errno-28-no-space-left-on-device-results-32766-h/78195484#78195484
+                # Two levels is not mandatory but it makes it even more manageable.
+                os.makedirs(dd, exist_ok=True)
+                for e in itertools.product('0123457689abcdef', repeat=2):
+                    os.makedirs(os.path.join(dd, ''.join(e)), exist_ok=True)
     known_op_signatures_path = os.path.join(outdir, 'known_op_signatures.json')
     if os.path.exists(known_op_signatures_path):
         with open(known_op_signatures_path, 'r') as f:
@@ -684,12 +737,22 @@ if __name__ == '__main__':
     input_file = None
     output_file = None
     start_time = None
+    blk_files_seen = set()
+    end_blk = args.end_blk
+    if 'txindex' in index_set:
+            # Clear out possibly incomplete blocks  that we are about to redo.
+        if end_blk is None:
+            txindex.execute('DELETE FROM t WHERE block >= ?', (start_blk,))
+        else:
+            txindex.execute('DELETE FROM t WHERE block >= ? AND block < ?', (start_blk, end_blk))
     for block in blockchain.get_ordered_blocks(
         os.path.join(args.datadir, 'index'),
         cache='cache.pkl',
         start=start_blk,
-        end=args.end_blk
+        end=end_blk,
     ):
+        blk_file = block.blk_file
+        blk_files_seen.add(blk_file)
         if exit_signal:
             break
         height = block.height
@@ -723,8 +786,9 @@ if __name__ == '__main__':
                         json.dump(json_db_dump[key], f, indent=2, sort_keys=True)
                 os.sync()
 
-            input_file = open(outpath(cur_file_num, 'in'), 'w')
-            output_file = open(outpath(cur_file_num, 'out'), 'w')
+            if 'therest' in index_set:
+                input_file = open(outpath(cur_file_num, 'in'), 'w')
+                output_file = open(outpath(cur_file_num, 'out'), 'w')
             new_start_time = time.time()
             if start_time is not None:
                 print('{} finished in {:.3f} s'.format(cur_file_num - 1, new_start_time - start_time), file=sys.stderr)
@@ -736,13 +800,135 @@ if __name__ == '__main__':
         first_print_in_blk_in = True
         first_print_in_blk_out = True
         for txno, tx in enumerate(block.transactions):
+            if 'txindex' in index_set:
+                txindex.execute('INSERT INTO t VALUES (?, ?, ?, ?, ?)', (tx.txid, height, blk_file, block.offset_in_dat + tx.offset_in_block, tx.size))
             if exit_signal:
                 break
             update_size('tx_size_bytes', tx.size, tx.txid)
-            print_ios(height, tx, tx.inputs, args.minlen, input_file, True, txno)
-            print_ios(height, tx, tx.outputs, args.minlen, output_file, False, txno)
+            print_ios(height, tx, tx.inputs, args.minlen, input_file, True, txno, index_set)
+            print_ios(height, tx, tx.outputs, args.minlen, output_file, False, txno, index_set)
+            for inp in tx.inputs:
+                wits = inp.witnesses
+                for wit_idx, wit in enumerate(wits):
+                    try :
+                        script = list(bitcoin.core.script.CScript(wit))
+                        script_len = len(script)
+                        ordinal_idx = 0
+                        i = 0
+                        while i < script_len:
+                            op = script[i]
+                            if (
+                                op == 0 and
+                                script_len >= i + 3 and
+                                script[i + 1] == bitcoin.core.script.OP_IF and
+                                script[i + 2] == b'ord'
+                            ):
+                                mime = ''
+                                ext = None
+                                i = i + 3
+                                if i < script_len:
+                                    op = script[i]
+                                    while op != bitcoin.core.script.OP_ENDIF and i < script_len:
+                                        # Skip over tag byte.
+                                        i += 1
+                                        if op == b'\x01' or op == 1:
+                                            # 1 caused a curse e.g. at:
+                                            # https://ordinals.com/inscription/2fa287270e4203ca2fc9f82ea3de7a0f7b785875791a76387ef6f4ccbb54eee2i0
+                                            if i < script_len:
+                                                mime = script[i]
+                                                # Skip over mime.
+                                                i += 1
+                                                if type(mime) == bytes:
+                                                    try:
+                                                        mime = mime.decode()
+                                                    except UnicodeDecodeError:
+                                                        print(f'mime not utf8: mime={mime} tx={tx.txid}')
+                                                    else:
+                                                        ext = mimetypes.guess_extension(mime.split(';')[0])
+                                                        if not ext:
+                                                            if mime == 'audio/midi':
+                                                                ext = 'midi'
+                                                            elif mime == 'application/x-gzip':
+                                                                # https://stackoverflow.com/questions/21870351/difference-between-x-gzip-and-gzip-for-content-encoding
+                                                                ext = 'gz'
+                                                            elif mime == 'application/x-javascript':
+                                                                ext = 'js'
+                                                            elif mime == 'application/x-yaml':
+                                                                ext = 'yaml'
+                                                            elif mime == 'audio/mod':
+                                                                ext = 'mod'
+                                                            elif mime == 'audio/wav':
+                                                                ext = 'wav'
+                                                            elif mime == 'text/rtf':
+                                                                ext = 'rtf'
+                                                            elif mime == 'image/jpg':
+                                                                ext = 'jpg'
+                                                            else:
+                                                                print(f'ordinals unknown mime ext: mime={mime} tx={tx.txid}')
+                                                                mime_spilt = mime.split('/')
+                                                                if len(mime_spilt) > 1:
+                                                                    ext = mime_spilt[1]
+                                                                    if len(ext) > 64:
+                                                                        ext = 'mime-too-long'
+                                                                else:
+                                                                    ext = 'mime-without-slash'
+                                                            ext = '.' + ext
+                                        elif op == 0:
+                                            if ext is None:
+                                                ext = '.nomime'
+                                                print(f'nomime: {tx.txid}')
+                                            with open(
+                                                os.path.join(
+                                                    ordinals_dir_payloads,
+                                                    tx.txid[:ORDINAL_DIR_PREF_LEN],
+                                                    tx.txid[ORDINAL_DIR_PREF_LEN:2*ORDINAL_DIR_PREF_LEN],
+                                                    tx.txid[2*ORDINAL_DIR_PREF_LEN:] + f'-{ordinal_idx}' + ext
+                                                ),
+                                                'wb'
+                                            ) as f:
+                                                payload_len = 0
+                                                op = script[i]
+                                                while op != bitcoin.core.script.OP_ENDIF:
+                                                    if type(op) is bitcoin.core.script.CScriptOp:
+                                                        print(f'ordinals unexpected op={str(op)} tx={tx.txid}')
+                                                    elif type(op) is int:
+                                                        f.write((op).to_bytes())
+                                                        payload_len += 1
+                                                    else:
+                                                        f.write(op)
+                                                        payload_len += len(op)
+                                                    i += 1
+                                                    op = script[i]
+                                                ordinals_csv_writter.writerow((tx.txid, ordinal_idx, wit_idx, height, mime, payload_len))
+                                                ordinals_csv_file.flush()
+                                                ordinal_idx += 1
+                                                i += 1
+                                                break
+                                        else:
+                                            # Skip over uninteresting tag.
+                                            i += 1
+                                        if i < script_len:
+                                            op = script[i]
+                            else:
+                                i += 1
+                                if i < script_len:
+                                    op = script[i]
+                    except bitcoin.core.script.CScriptTruncatedPushDataError:
+                        pass
+                    except bitcoin.core.script.CScriptInvalidError:
+                        pass
     for name in LIST_NAMES:
         list_db_files[name].close()
+    if 'txindex' in index_set:
+        txindex.execute('''create index if not exists txid_index on t (txid)''')
+        txindex.execute('''CREATE INDEX IF NOT EXISTS file_offset_index ON t (file, offset)''')
+        txindex.execute('''CREATE INDEX IF NOT EXISTS block_index ON t (block)''')
+        txindex.execute('''CREATE INDEX IF NOT EXISTS len_index ON t (len)''')
+        txindex.commit()
+        txindex.close()
+    if 'ordinals' in index_set:
+        ordinals_csv_file.close()
     if not stdout_mode and input_file is not None:
-        input_file.close()
-        output_file.close()
+        if 'therest' in index_set:
+            input_file.close()
+            output_file.close()

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -eu
-d=data/cryptograffiti-blockchair
+d=data-manual/cryptograffiti-blockchair.tmp
 i=0
 # max allowed
 limit=100
@@ -15,4 +15,4 @@ while true; do
   fi
   i=$((i+1))
 done
-cat "$d"/* > data/cryptograffiti
+cat "$d"/* > data-manual/cryptograffiti-blockchair

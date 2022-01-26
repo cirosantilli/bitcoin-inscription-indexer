@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+tx=b673c7d0c62cce8315ad6cc63a2c8ca8169bf73432435760b808735e1a7fe0e2
+f=data-manual/daisy
+tx_index="$(curl -s "https://blockchain.info/tx/$tx?format=json" | jq '.tx_index')"
+rm -f "$f"
+while true; do
+  json="$(curl -s "https://blockchain.info/tx/$tx_index?format=json")"
+  tx_index="$(printf %s "$json" | jq -r '.out[1].spending_outpoints[0].tx_index')"
+  tx="$(printf %s "$json" | jq -r '.hash')"
+  echo $tx | tee -a $f
+  [ "$tx" = 43b182065ab2c7d1908ec3cee756d9f626c1e4bd1efa17a7c3993433b653d499 ] && break
+  sleep 0.1
+done

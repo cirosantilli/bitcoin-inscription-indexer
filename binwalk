@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -eu
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+d="$SCRIPT_DIR/data/binwalk.tmp"
+#rm -rf "$d"
+mkdir -p "$d"
+for file in ~/snap/bitcoin-core/common/.bitcoin/blocks/blk*dat; do
+  bname="$(basename "$file")"
+  echo "$bname"
+  outf="$d/$bname.log"
+  trap "rm -f '$outf'; echo Exited!; exit;" SIGINT SIGTERM
+  if [ ! -f  "$outf" ]; then
+    # TODO -n1 any way to not extract anything? It's a bit large.
+    binwalk  -n1 --dd='.*' "$file" -C "$d" --log="$outf"
+  fi
+done
+binwalk blk*.dat
+dos2unix "$d/*.log"

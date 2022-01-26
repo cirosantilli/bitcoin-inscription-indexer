@@ -1,0 +1,31 @@
+#!/usr/bin/env python
+
+import os
+import mimetypes
+
+from nudenet import NudeDetector
+
+import main
+
+# Only detects nudity but not sex.
+nude_detector = NudeDetector()
+
+def get_extensions_for_type(general_type):
+    for ext in mimetypes.types_map:
+        if mimetypes.types_map[ext].split('/')[0] == general_type:
+            yield ext
+image_exts = set(get_extensions_for_type('image'))
+for root, dirs, files in os.walk(main.ordinals_dir_tmp):
+    for file in files:
+        if os.path.splitext(file)[1] in image_exts:
+            p = os.path.join(root, file)
+            try:
+                out = nude_detector.detect(p)
+            except:
+                # It fails a lot for some reason.
+                # print(f'failed: {p}')
+                pass
+            else:
+                for cls in out:
+                    if cls['score'] >= 0.7:
+                        print(f'{p} {cls}')
