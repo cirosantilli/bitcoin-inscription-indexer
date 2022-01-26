@@ -704,20 +704,32 @@ Currently only the https://en.bitcoin.it/wiki/Transaction[input and output scrip
 
 == How to generate the data
 
-First download the Bitcoin Blockchain full node: https://bitcoin.org/en/full-node[]. This basically means:
+The first step is to download Bitcoin blockchain full node.
 
-* download Bitcoin core from https://bitcoincore.org/en/download/[]
-* run `bin/bitcoin-qt`
+Tested on Ubuntu 23.10, a good way is:
+
+* install Bitcoin core. A good way is:
++
+....
+sudo snap install bitcoin-core
+....
+* run `bitcoin-qt`
 * on the splash screen, unselect the option to have a partial node
-* wait 24 hours or more for the download to complete
+* wait \~24 hours or more for the download to complete (\~586 GiB as of January 2024)
 * close `bitcoin-qt`. This is necessary, because otherwise our scripts will refuse to work because of a `LOCK` file in that directory that indicates that `bitcoin-qt` is using the files
 
-Once the download is complete (hundreds of Gigabytes), and you have the `.dat` files e.g.:
+Once the download is complete (hundreds of Gigabytes) you have the `.dat` files, e.g. if you used the snap:
 
 ....
-/path/to/.bitcoin/blocks/blk000000.dat
-/path/to/.bitcoin/blocks/blk000001.dat
+~/snap/bitcoin-core/common/.bitcoin/blocks/blk000000.dat
+~/snap/bitcoin-core/common/.bitcoin/blocks/blk000001.dat
 ...
+....
+
+We will call the `.bitcoin` directory the `BITCOIN_DATA_DIR` throughout this  documentation, e.g. on the above:
+
+....
+export BITCOIN_DATA_DIR=~/snap/bitcoin-core/common/.bitcoin
 ....
 
 Then run this repo as:
@@ -729,14 +741,31 @@ sudo apt install libleveldb-dev
 
 # Dump unspent transactions, see also #utxo-dump
 # Without this, things work, but some of the data won't be generated.
-go get github.com/in3rsha/bitcoin-utxo-dump
-./utxodump-to-sqlite3
+go install github.com/in3rsha/bitcoin-utxo-dump@5723696e694ebbfe52687f51e7fc0ce62ba43dc8
+time bitcoin-utxo-dump -db /path/to/.bitcoin/chainstate/
+# Produces utxodump.sqlite3 ~ 34 GB
+time ./utxodump-to-sqlite3
+# ~20 GB Jan 2024
+rm -f utxodump.csv
 
-python3 -m pip install --user -r requirements.txt
-./main.py /path/to/.bitcoin/blocks/
+virtualenv -p python .venv
+. .venv/bin/activate
+pip install -r requirements.txt
+./main.py "$BITCOIN_DATA_DIR/blocks"
 ....
 
-This will again take about 24 hours, and <<deterministic-output-ordered-by-block-height,deterministically>> produce the data under link:data/[].
+This command took about 24 hours for the first 668 blocks, and <<deterministic-output-ordered-by-block-height,deterministically>> produces the data under link:data/[].
+
+The program progress is reported a bit like this:
+
+....
+673 starting
+673 finished in 283 s
+674 starting
+674 finished in 303 s
+....
+
+where e.g. 673, 674 and 675 refer to the processing of blocks under `+$BITCOIN_DATA_DIR/blocks+`, e.g. `+$BITCOIN_DATA_DIR/blocks/blk00673.dat+`, `+$BITCOIN_DATA_DIR/blocks/blk00674.dat+` and so on, and how long each took to finish in seconds.
 
 When more blockchain nodes become available, you can update the data simply by re-running this script.
 
@@ -784,9 +813,9 @@ TODO all utxo operations should be done by iteraing the UTXO set, currently we j
 
 == Censorship
 
-If we find any illegal data made obvious from this analysis, it will be removed from the data/indexes manually and force pushed out of the repository without explanation. Please inform of such content privately, not on GitHub issues. Skipping these cannot be automated obviously, and must be manually removed on any regeneration, which hopefully will never happen as it takes forever.
+If we find any highly illegal data made obvious from this analysis such as child porn, it will be removed from the data/indexes manually and force pushed out of the repository without explanation. Please inform of such content privately, not on GitHub issues. Skipping these cannot be automated obviously, and must be manually removed on any regeneration, which hopefully will never happen as it takes forever.
 
-Material that violates GitHub's ToS but is not necessarily illegal will be removed and a list of offending transactions will be maintained in source. The ASCII content of those transactions will be replaced with:
+Material that violates GitHub's ToS but is not necessarily illegal such adult porn will be removed and a list of offending transactions will be maintained in source. The ASCII content of those transactions will be replaced with:
 ....
 [[CIROSANTILLI CENSORED]]
 ....

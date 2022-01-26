@@ -1,0 +1,1143 @@
+tx 6dbef2254376b6936d97d9b4006d78daddc59a8888bf1e9743b3f78c0fa41d29
+/ViaBTC/Mined by phenomhf/,
+
+tx 97680be42af4df5fab02df248c48429c61275be899cfe29949bf70a775e0bd3f
+`/poolin.com/taproot/bip9/
+
+tx 60e955b513d56202ab75ca42cbe9092370a28e77ec6153df3864d64652fdeaf0
+Mined by albert1970r
+
+tx 5bbb69c838129f18b34d65278bdfc12c6f4a971491c03431bfd279f0c5596ca0
+`/poolin.com/taproot/bip9/S
+
+tx 42dc5a2d4648914e63f32aab834165af5187d1fe8bf0537faf736db7b10c9643
+/ViaBTC/Mined by kzminest/,
+
+tx de9b0c2688e001d8d513d94b8920674de3a2887d890937681baf4bb6a7a3af8d
+`/poolin.com/taproot/bip9/4EnX<(yXKF
+
+tx c163a38176166052fc03484c81760c10c94d25c1fb376ec0968c542680bbedca
+Mined by AntPool762#
+
+tx 3540c1cf6768d98781fad2488273eca6fcfb35f9869ba330c64255b372ffda31
+Mined by jiajiang1500
+
+tx 67e9548be37d5f15c010367976f895e9d0b655ecf09cdba7a1fc5e9aa5a17d6d
+Mined by AntPool724#
+
+tx 9658d62e8b3d3f4651fedd9011111b60bdebd70a93bdd8e088ac840003544e39
+Mined by lichenbing456
+
+tx d342bcd87b08188e16ee8ec4829fccd5b504b0c026e0fb7e807e3183a3abcfa9
+Mined by AntPool723#
+
+tx 33202dc8ef1fa6c97ebb654fa18b9c9d1d7babe93e24111795ea11cd3443bad8
+/ViaBTC/Mined by lvmlogos/,
+
+tx e8ab3a80e1cf0ee88c572d565af35df9faeacc0125a569a88cdf92e2ad639c3e
+/ViaBTC/Mined by jackyliau/,
+
+tx dff8c3f6fef8d5b9652d47b4b54724469fd1cbf860f86107089f5b2f45542c5b
+/ViaBTC/Mined by janajol1/,
+
+tx 9e8aa62c1654702ebdb10ec2598cb64bd86306cfc96fbd8ab5a4a93606efa894
+`/poolin.com/taproot/bip9/"
+
+tx 6cf0704b87c800848766d9b3d70f1007f61e21f22404a7f163a677d913b0bc2a
+Mined by AntPool766#
+
+tx 830f756921e0035c28a7244c49d624b2a2401e15a817a82b7f4667cda2ac9721
+`hongkong/www.okex.com/
+
+tx f140403222fcf78f3fbece586adc5e681fce767233513402853820873e969325
+`/Foundry USA Pool #dropgold/
+
+tx 209921454e00641f55bf53b89ca86d3a659e3a3227ec53d59062726cee4e94a1
+`/Foundry USA Pool #dropgold/
+
+tx 2b458074b3c0902c54830828c25565db1a30ef14af1564afe6ca421496dbfaae
+/ViaBTC/Mined by kznetlogicst/,
+
+tx 260cf352541bdc4acd208e3a3cb53f1096eeadab02149c1d77c4d6e945ea6e9c
+/ViaBTC/Mined by power33/,
+
+tx 875956810bc3cf04f4e8d95be118cf75733b35d28bdfebcfb0fc6b7d0d1b5409
+`hangzhou/www.okex.com/
+
+tx 2230117e52de1568edcbc2414a2d4b307b77a9caec77ddc356637b0469b895d0
+`/poolin.com/taproot/bip9/
+
+tx 8369d92e2258aa904e02015419ee95bda41e4e493695623deb111cb4d42c2bc6
+`/poolin.com/taproot/bip9/
+
+tx c4cf5cec735885959b26b68e6225afeeac5e169f5a89c5b4896da3b2b057616e
+/ViaBTC/Mined by testrejim/,
+
+tx 34277468d68fb56abe723dab79c744cf3f10fadfa6058964819e846208f93426
+/ViaBTC/Mined by farzane1356/,
+
+tx c795c8b512f409c721dff42ebc0ea193e85392f8e1e976e13cace43ccce1494f
+/ViaBTC/Mined by phenomhf/,
+
+tx 879228421daaf12c86e080711cedfbb40ade32450247f534e8d17bfc4aad5f1f
+`/Foundry USA Pool #dropgold/
+
+tx f3b678cbfba74c1d62de484eceb73ba3cab21b79ea76933ddfcd135400016e33
+Mined by AntPool762#
+
+tx 19859c703e833caab57043fb04ed829ecca822255d86f7116be2b3a29d1962dc
+Mined by AntPool762#
+
+tx 44a98dcf215fc529fe9eeaa3acf8a36cd18b6eb9130d285ca152e940f9c0d20c
+/F2Pool/Mined by kz3
+
+tx fd54963c227d69da98518ff8282a6691012f3fa930f2c21be7790c1004a0625b
+Mined by AntPool724#
+
+tx 39df7f0da85a2c631b79fe01a16930d5ce5666ff8054be7feff6ab906b4a7f39
+`/Foundry USA Pool #dropgold/
+
+tx 9ac09303d6e87c7dd944a0f70854282dedcc33ea7693f0ca86df00ec9aa08184
+`/poolin.com/taproot/bip9/
+
+tx 131cca287d68ec4a06907a4e7f7e0189359d57330c31ab3854410158ca5472b5
+Mined by AntPool724#
+
+tx 8be3a28079c9eaf5c88e59ca33e6fe2e4267d551c7c6d5853ada53c8b9ee3cc0
+`/Foundry USA Pool #dropgold/
+
+tx 6c136e459868154d6605d696ede8aa37faedb8ecfc87433dd16530999cbf913e
+`/Foundry USA Pool #dropgold/
+
+tx afd733c8d425e30b4329d9fbc9ab9992ca7c754320d6899fa02863aaaf7fad56
+/ViaBTC/Mined by 11488411/,
+
+tx 09a9423dc1fb03b9f6dc8d763b4b7e9f94000223f0f922f5518c3e80d3a3cf77
+Mined by anjihongyong1
+
+tx 5713ebefe8dad4abf597da85045d78cfe2afe3d1443e2c00b621bc4f39be9995
+`hangzhou/www.okex.com/
+
+tx 267c57d236aeb1729ae2ef1a8cb7c50618a907c92de6784691f4818018b7a2c5
+/F2Pool/Mined by kz3
+
+tx 199305fb4c565a04c876f8deb2db4e95f48b13c7d735af5b8f61cd3164a6599a
+`/Foundry USA Pool #dropgold/
+
+tx 0639555167211d50fa978547b2323686fd48c685ed408b293f252936c22e94f7
+`/poolin.com/taproot/bip9/h
+
+tx 262397ddb455c8d63e0efa865060685c0f1ce222ae9e55061c1725fafcd6ccdd
+`/poolin.com/taproot/bip9/Xm
+
+tx 7175aa30b9a7d05f3506bdbd2f9a4cad5b28534581ef1e42b49b8b3eab3c0e04
+`/poolin.com/taproot/bip9/
+
+tx 5d67ea0eb607df5f28fd08562101545bfb93cc52ce86fedca70d9e1eb70fcd78
+`/poolin.com/taproot/bip9/.
+
+tx 1e39f568e7ee10add8aee1a02e76ae0d592fd1d676c9e6188eee2d5d43af9d98
+`/Foundry USA Pool #dropgold/
+
+tx 34bc66663aefbceca34fcc3287b4debb91c17b697e96fcf64d8342dfac541699
+xp
+8\ MARA Pool - OFAC Compliant Block \
+
+tx a0fbf7d93fa78d776a2a33438f71b2e21371b083c8c57a9d26d3c7d707c1a682
+/ViaBTC/Mined by murad6611/,
+
+tx e5273c72143dce14ea5609062e8ee3ad74d50abb8dbb1ada6a77d92b0accff08
+`/poolin.com/taproot/bip9/
+
+tx db4210710262ab358bdff7c632c7070c1c49ff278e8194352a55355cd6e0915a
+Mined by AntPool761#
+
+tx 0adcab09a3989f4fc7742be5784fff97f606312feab888136436b957e39fa32c
+`/poolin.com/taproot/bip9/
+
+tx e0645ba932e372c93dc57bfe183fddd25997f0709c8c901bfcdc49ba5dda387f
+`/poolin.com/taproot/bip9/
+
+tx 72a8b870f0d620db5ba4c8d187528ee775e448fbc4c2c31ea27f1aeccffe7b19
+`/Foundry USA Pool #dropgold/
+
+tx 8b2b6b30ebc73f7da401c2d9cd7458c96b8f6b5d0f6900739cd2c0954cdf1440
+`/Foundry USA Pool #dropgold/
+
+tx 9ca5d9c2b68ee1464081f8ff802d7040c19c9b3f707612ab82c9500a25647d2d
+`/poolin.com/taproot/bip9/
+
+tx 0ee3e48207acfff6a488264c0378a9383964d9e5f75594cdb6fd38dd6fcf498d
+/ViaBTC/Mined by yamine/,
+
+tx 494da2c181195f9dcea05466f959da6a32a681918a26083e71af0d44023ddebf
+/ViaBTC/Mined by btcsvair/,
+
+tx 6a330a9067f6ba3cdb143689b73af66b6b5f5e1cc08e9bf7e187ca6195c50bd4
+/ViaBTC/Mined by janajol2/,
+
+tx eb58b0f1fb15a7f1e11eff61ef414e4b75810e441cff9da56d24006b7e30f210
+`/SBICrypto.com Pool/
+
+tx f9534273371cdfd5e1099d49f1c59dc390e8e3a291de2f31b98bf7674386032c
+Mined by AntPool762#
+
+tx 77cd5986b4b54ce98915dd36be0e72ab98fdb5bbddf72598c3aa2462d4f2654b
+/ViaBTC/Mined by zuruldi/,
+
+tx d29c9d118e0aec29717531b8ca71f789becaf43537d148bc526df8381eba4e3d
+f"o#OkJ[-7 V:Ok'v0E
+
+tx 1ad1a4ceeb7d171add0e9090e4e3a99453f08ecac75ebbf348dd7a89c6e6ed4b
+`hangzhou/www.okex.com/
+
+tx 913eac4b910647d8ad42371e7cacfa4707f626278405e70eebb536798c9e1354
+Mined by AntPool766#
+
+tx fabfecf9f7123546af3473e8efc5ef940daeda2cac4abb4463cd74f9b2315d6e
+`/poolin.com/taproot/bip9/
+
+tx f422a41e8efd3bc94a3e9633e05a9d8596f78b7d4444d8ed6dc5969c226b98ed
+/ViaBTC/Mined by sps9i/,
+
+tx d4f06a0c64b399625c9d709d3a12ba30c8880bb624c23f0e2dfddad5b1cc2bf2
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx 060b8fbea675f59565aa15c85e96d9f2eaa9ec836e71b062a6212685ebfe9f20
+/ViaBTC/Mined by kzminetr/,
+
+tx 6d90e24dae6051b2a2a2b60cc504a9934eb1a8d640dc2a94ff2e11a6d503688d
+`/poolin.com/taproot/bip9/Q
+
+tx 1a457716f90b87afa7a2b47d1230a0916d991a0641d21d0d797bf1e59f35367b
+p
+8\ MARA Pool - OFAC Compliant Block \
+
+tx fef8775b650a4f88949c5e62e17f3322ea554a9d2e71751afb5c31c62814c024
+`/SBICrypto.com Pool/
+
+tx e028d81964c44f8b0bf81296bc58d96c6d523e7ff8fb6cdd46824da5d3467aa1
+/ViaBTC/Mined by 2491723670/,
+
+tx 7a15ebf68913b43383854f2dac68de45b3d65a03cc8a39ebddaed40bea7fd452
+`/poolin.com/taproot/bip9/
+
+tx 24c2a967b7de3853f5152e054570e1d826eb248b7485cdf1a3642ae2f8de65ca
+/ViaBTC/Mined by csviabtc/,
+
+tx d1feae3c84892a9963bd3fee4ead777669109181fc6b55286f2dbb59302917b2
+Mined by zhundongall2020
+
+tx 2dc32a4f019134c3d00a49897f2dce09c33cf0a6044732ef4c805ecbd31c51d3
+`/poolin.com/taproot/bip9/
+
+tx 766cffe6662affbeea3e81fb13c4962fcc40d915e0dc6d53661387829209d6e2
+/ViaBTC/Mined by sibdigger/,
+
+tx 2f8e3c8a4d369eb8c8e8dcca363e00e54cb095c79873ddac1de0b22b78b20754
+/ViaBTC/Mined by etrade/,
+
+tx de616547cb1e670d204f965ca29bc24978071bfb76c1cca7a0cf2b1c006fde4d
+/ViaBTC/Mined by 1365243/,
+
+tx c71835ed4610f6b379cad10f3377ee1a6823b20d075c20dce706b55fee33d7d6
+/ViaBTC/Mined by denes88/,
+
+tx 8d1a84966d613f12cdb956215c4eec8e4c261280dadafbfa38b05b4b9cb06ce0
+`/poolin.com/taproot/bip9/f
+
+tx 097d35302150bdcbc8a2d3bd67c2679271c764f599595aa261d7bffca71e1cfd
+eu7v/hash.okkong.com/
+
+tx 95c8ed36e987717d79adea5d2569db2d7221024ebf645ff536cfc3d98f436d5d
+Mined by AntPool761#
+
+tx 5866dd33d02123e4918ec228ae1b8d1d31fc45f2dd423e5917f9f62fc2b84db2
+`/Foundry USA Pool #dropgold/
+
+tx 88947fd8210cc5201f5b6338a8ce1817dd86d75cdd839f758eee8acc1cea0867
+`/Foundry USA Pool #dropgold/
+
+tx 38936e5149e78422b7b34e232be19a60288dc67d93c40c4ad04be16fca1af678
+Mined by AntPool762#
+
+tx dc4df358ea7bb4124d48eada6b4569988cc3b859353e6e10842309efb0822eac
+Mined by AntPool720x
+
+tx b9eb7400f32d2fc4ec0956c5b883737d817647cf62948d5efda5c5eee085393e
+`/poolin.com/taproot/bip9/
+
+tx 02cadc131fc40e063b6429fa0656476af5a0ae9d066c2a7749f537d060c31094
+`/poolin.com/taproot/bip9/Q
+
+tx 5c499904a73bf4d07ad196dc88ef9c0e7e07021ebf11f6dce183f854bb36f381
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx 78d90fc0ca248a017dc802822b77b3a8e202144b014b1391e5116d2a13861935
+/ViaBTC/Mined by kznetlogictr1/,
+
+tx a7a2466c9fe6469dc59da5ab451d7f22db3e4bcae997a7d525a8f64b2a51b195
+/ViaBTC/Mined by linglingjam/,
+
+tx 52a0c8334b58b5124425d0613d7fb7ab21ac633d02dfc4db59922a813d833d31
+`/Foundry USA Pool #dropgold/
+
+tx 3b8099cee146b2ac8d450f88cbb3bf37c65df48aca954f55fd5699fe7514058a
+`/SBICrypto.com Pool/
+
+tx 62e1b472accb3a189804160c369e8663c33b316b37ccc5f86cf7aacc7cd801dd
+`/poolin.com/taproot/bip9/
+
+tx ad89a7f47ba50232a0420e167d4b62f7c7414f597531eb24750e06a3c1a73d00
+`/SBICrypto.com Pool/
+
+tx f204b143b935cde855175fad4411af221ad25ce6a965ef4ccc365b8499387dfe
+/F2Pool/Mined by vpo
+
+tx 114a676bd6a2fc9beb738edf858bd95e6fa3da9d223ac982d431e2aa3bce574c
+`/poolin.com/taproot/bip9/
+
+tx 74372c96634ee1d8dd600da8fd0c456e59cb6e44641fb4dc5f4bab4c3ba9049e
+/ViaBTC/Mined by melisa200/,
+
+tx b287e651015d1ed4f3b3d65abfe2853590b97adf42e2efc06c4465ada8feb32d
+`/poolin.com/taproot/bip9/
+
+tx b5b8324f759ce5d3ec3dc97171d3a9fc0535036cceff6aaf47055e3fb25f5e19
+/ViaBTC/Mined by 111985kaveh/,
+
+tx 95f34b15a99339928ec7c7967b7077f1f460a9b7cf0215297a0f380370a23d68
+`/poolin.com/taproot/bip9/4r
+
+tx f16435c9dedc175801e26de65db7159911c1ceb557e925f2338b4590e5cabac6
+Mined by generalbehzad
+
+tx 151c475ee5ef444dcb67aee913789e571158bfeeb38c93890d934317ba124c33
+q
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 46dd17245b086edbce7bd9bf31fdb33b1e6540e0f70f7bc9368dde04ac6f3cf5
+`/Foundry USA Pool #dropgold/
+
+tx 29d380c7335d231a1388e536aa6b1bab68caa4c39c97839b8f3e56db85fe7c3f
+/ViaBTC/Mined by slkstock/,
+
+tx 671e183ea398c28641e251e756a0338428680688198405fcbbde65363165b3d8
+/F2Pool/Mined by geo1
+
+tx f588d805cb1aff205b6c98ef92366c1e98c7395cd568a5f5ba95dcf62d277d2f
+)q
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 9fe1edc84ba3b760b05130ca660dea4a5e10bb30206fb8f729c0b31bd8d51d8a
+`/poolin.com/taproot/bip9/'
+
+tx efdca9b6af572475d5a1a7a8560f77b9617eaec8479b3fab05eed444461bd694
+`/poolin.com/taproot/bip9/?
+
+tx efaa7f95be5ab4a5341f640419d154e7d7f5d2fee5620fd7077065369d4efc40
+`/SBICrypto.com Pool/
+
+tx 6fcb0c39551f98f7ccdc97f129f3497e025d04e18a2f775d59d0b4e516996f36
+/ViaBTC/Mined by aboabdolla/,
+
+tx 9ecb3245bb4aed1a70068c2cf3fabcca0790b26494db723f2e46a1c2beb3f649
+/ViaBTC/Mined by beeryz/,
+
+tx fe82622aecd307f3c35e2eefdc76ce666254a6f31e307838449de5befb2924f9
+`hangzhou/www.okex.com/
+
+tx 548661b25c028809b714d0797e529e7143a7df3c5e3e6bc025f73a02a1f15fa4
+Mined by neutrinoj33
+
+tx 03545849860a83e6880cd1f61a18cd81316451e4a13b4f534b6388f9387a0e10
+Mined by dimontilsit39
+
+tx ecb6e3a58140e67cddc3ff5ff97e100a629d6293afd72be85f2bf690d5915cda
+/ViaBTC/Mined by wkr17b01/,
+
+tx 13e51a2655c17590e516c6e08e797d5028e582ce98f18910aa731281336ca585
+`/poolin.com/taproot/bip9/Q
+
+tx eda9bdc8761f055ce1c8a3c604bb25365a65f6ba493d73cbdff0e40b19c0d599
+Mined by neutrino600tz
+
+tx e67f5896e8eea3b007686ef6ba3a36ab447d628681044127781bc0b6750be6ff
+`/SBICrypto.com Pool/
+
+tx 6a069f62323aa55d372dabed6844eb8949451bdbf4795f5e201aed528102deab
+`/poolin.com/taproot/bip9/Ys
+
+tx 7930dc15d7d794ad7b2e348b3e11b5cfd7f5c145c9a86bf96c398929f772e942
+`/poolin.com/taproot/bip9/Q
+
+tx fd1ffdda6608407f06520f775dcaf0587a6ff7397680a11a6b2f1f0076cecf0f
+`/poolin.com/taproot/bip9/
+
+tx 28a90954923b4fa9f6b0f3bfba25dad628091567d35f251a06ecb5a0593bd953
+`/poolin.com/taproot/bip9/
+
+tx b63c24255ce032a748ad53ccf9cd981cfb14933b12f10bf1203dc81084943ba7
+/ViaBTC/Mined by navidbtc64/,
+
+tx ea41913bcccc80dc0ab3cf5434272d8d991925c891132f9e0c8290948598b3bb
+/ViaBTC/Mined by 21c800tai/,
+
+tx ba66e70d064313d53ca7c2c0bb890756b6d321cde3d8c4d964230311fed2b69f
+`/SBICrypto.com Pool/
+
+tx 5a5e620d919a40381e9c770584c2d1116dcc59af18fe7848fc1c31f52800da11
+/ViaBTC/Mined by skorpion3777/,
+
+tx 1f8880edd1aa6ec46c21cebd60b27b1e344fe49d64951d847fa3ba8d7df3b3ce
+/ViaBTC/Mined by btckrny1/,
+
+tx ccaf7e821e0d665281c86756a53830f3dbc9477ad672bb60dda06f1feb137e72
+Mined by AntPool770 
+
+tx fd202200992379e4781e15652aaacf2c1fa4121da1e0ba1f59cd64007bc0c570
+Mined by shengyun31s
+
+tx fa7b93723a496cab790aa2452011e22056f55478ba39abe304bc149e7e774ce5
+Mined by AntPool735p
+
+tx 1104c02d99b229cce096966cb713c21f95b4f88e290b9b85f83386de23e88b48
+`/Foundry USA Pool #dropgold/
+
+tx a37a3dd08d866933a5e62ef69d8cdc09446dacbf427b820515a53418afd52cf8
+Mined by AntPool723j
+
+tx 6b785bba09a792f230fde4de7f9c49ad3dd489fd4f691454e70ba26d3a8bae34
+/ViaBTC/Mined by m31s/,
+
+tx 4acd72a4f71696b94b2e6fb455e43c25b1010dc82f36801178fde8288b243825
+Mined by AntPool724j
+
+tx c92b31d5279c2bcffa339831300c7b4c51677ad8db584d4a4e5e2168866febd4
+`/poolin.com/taproot/bip9/Q
+
+tx da8c529d9973b9f1c680003dd90164358bf5854382f5c07a2472f13cb12066b0
+/ViaBTC/Mined by janajol2/,
+
+tx 8bceba7c133131d0cda76654019122504e8ae02ab7026c3abe51186e5f73dff9
+Mined by AntPool761j
+
+tx e87f408125c3e3597f32fdcb2a4185176eeabbe05dc9a94333a1f3262cb5f0ff
+`/poolin.com/taproot/bip9/
+
+tx 1b1d3e9a780b214637a4425e6a32d266836b62eec143a020d8bd796efe8928a2
+Mined by AntPool709Z
+
+tx 1afd2dc3182ecf15a71c42d5b0bcc088b481fae49d67d51fcf459d467e057e62
+Mined by AntPool741p
+
+tx 947edd3c9ef00b19be6c0ecb01a8efe992462d7ccfef4c3787ab70e9fcace5ec
+`hangzhou/www.okex.com/
+
+tx 802484e578307e455b7aa7e3798b1b7c1197eb2be5c64b6c55f0a18856f84dd9
+/ViaBTC/Mined by shumlabs/,
+
+tx 12c2b0066df49b555dd92d9305b2830097d84fe0f6a91c14154acb99549a58d6
+Mined by AntPool710Z
+
+tx ea4dad7785795f1d7093fc87aab993c932b0ee58ca843bc2fa5881a208dbf4cc
+Mined by greatvoyage
+
+tx 8ecf95211dddabe9d612a83185ea2ec8994c6299633918f9cef973e8a824c80a
+/ViaBTC/Mined by kzsmartsx/,
+
+tx 02d88fa7839d594e67353f7d56245d13487db62f8a08e4a9276f56a5d4200e1f
+Mined by AntPool713Z
+
+tx 30ca2d7efd1ebe7eea0a2c51aabb305d0e32428f62efbd9ee3dc6235016f32df
+Mined by AntPool713Z
+
+tx 093e9a006138d8912a1909290ccdea6a94010260bfeea46b4cf0f4adc0ee06e6
+/ViaBTC/Mined by phenomhf/,
+
+tx f53deb6a1a1c85e04fdaa3a6ab472d4dc5ebc7f0ac66a3af87bbc1e4d190b488
+`/poolin.com/taproot/bip9/
+
+tx b367e9875f4132f65fb13d07f17523a5195c3bf7b5f369fc4e42e4f82b39991f
+/ViaBTC/Mined by emadharby/,
+
+tx 822900a4150ba0eeb9a22d129b27ae41f82f4c4fbb64eb329af5a68a4f899fcf
+`/Foundry USA Pool #dropgold/
+
+tx 93047b4dcf48807bb7e208e02500189a918f42e27c1ab493c02543c26ca60f07
+/ViaBTC/Mined by btcum/,
+
+tx 39da267afcacbfee9e26133250a8a52e2aceb01afab9ae571c003640af7871d8
+Mined by AntPool761j
+
+tx 207256172f9020fcc010a5f2525d57da2279cf07689d69e5ffe4976da631bf2e
+/ViaBTC/Mined by kzmineat/,
+
+tx 8c81070c2fcccc0bf77dd272fbd08191a21732c607b9e1f6daf0a0ca78335260
+/ViaBTC/Mined by bazovaya/,
+
+tx f4f35768fa2f0c6e52363a816a31b95f473f211e8a88646b527a955107ee6214
+Mined by AntPool770 
+
+tx 7b0943f8dc541b54124cf15a3496b9826e49b0e90de0c44b4291b67364d9cec9
+`/poolin.com/taproot/bip9/
+
+tx a0be5a84712fa47f51e97b97685a30e4f8e3ea6f372dac969bc37e60f308dde6
+Mined by AntPool723j
+
+tx 0585744478ea89529c635d8c598c655b18e4a79b2697ccb42eec96617c950800
+`/poolin.com/taproot/bip9/h
+
+tx aec35163aa8d5b0f06fd5183d8d9c65097c9537386bb81c7a881ffae64b3bc3d
+Mined by AntPool766j
+
+tx 4b44574f290d4e3be488addaebdacf6c899d4e23a5a1ed52c47be3c7ab8f173e
+Mined by AntPool715 
+
+tx 7b26e313ca8b9c9f30e8a9dbc81f3b851de1eb5451e378c2b819083128ee5f09
+/ViaBTC/Mined by zhujunqiang/,
+
+tx 64c83934ef2ebd00a834d58d5b9f19af6d87b6ada79465875dd0251b045e964e
+`/SBICrypto.com Pool/
+
+tx 45a28aeeece084db329ee6c4641e067222e77a48b3f5f99a115d7b660532c27d
+`/Foundry USA Pool #dropgold/
+
+tx 28c775583f253284754bf7c4901b3f8830d326a9505dfdbe9c0e18d2f8bd4ab3
+`/poolin.com/taproot/bip9/Q
+
+tx e4606184f6b5fc761c83b3683fac54d90de39d7c074f5a268e67b9ddd9d73c57
+Mined by blockbtc013
+
+tx d8fa4409ca1fdf461718c6428581c859f0678697703652bae61b5c9fca96badb
+/ViaBTC/Mined by kzminest/,
+
+tx f367017c3d5e00629bba787d6580ddf9edfedf6250be0941cd1dffb1e6d0f9f9
+Mined by AntPool743p
+
+tx cff313ddab25aefbd542087ec62daeb69adba71304edd1ea58030fc34027fab6
+/ViaBTC/Mined by dobled/,
+
+tx ff489eaded4b52eac14ff5ccbd13adce19304e1d28050a213fabf828bdee5386
+`/poolin.com/taproot/bip9/
+
+tx ae025eae72426fa69efe56f593080167337fe21b9f0426f43e7008166c2222c3
+Mined by AntPool735p
+
+tx 364ad3225ab686e7373ccb399839f979565f4c05cf8eff090bd0f43f614f9042
+`/poolin.com/taproot/bip9/
+
+tx b04e2e52d4995bd1cb4003f28a76d60dc395f422011bd59e974330da9883cbe9
+/ViaBTC/Mined by tnaoki12/,
+
+tx 6d38d849614fca24d97c6d3b481e055c479934e62736574b40a1b872c2ccaff3
+q
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 32eb3763839bc5a68d9f1e58a72a8e6ac7e889128908d68626cd49f735321a19
+`/poolin.com/taproot/bip9/
+
+tx bbd003303541171a7ae2e10c618a09076e5ecf7d1db4803404d1101d7c98c1d3
+j= vsz/hash.okkong.com/
+
+tx 250a93a9b01238cc6084808b138ffc3bcbd0940e5ce1007dbb4593d314b76702
+Mined by AntPool711Z
+
+tx 7a99f8aa58b4a2b697b68b3055c2eb2320b6be0ba68ed3759825732ce3ce51f3
+`/Foundry USA Pool #dropgold/
+
+tx cc127e3d1f0d40164d2ba1df70d8fe47af6564d7663c13b1623ed0b4f1eea939
+*0x0000000000000000000000000000000000000000uuS!
+
+tx 5723b7a80d9bd48b20ccf5cf7ab9b31adf9c44d65d609efe0bbea28369ceb991
+`/poolin.com/taproot/bip9/
+
+tx d2b8e66adc3d740f3e02a4e4dc8366610b6ca375c0f6cd5ce1b7c959484f099d
+/ViaBTC/Mined by mahmoodsh/,
+
+tx 93266763f4d3723f560488b18dbec0126b09cf7d1bc8bd41190c0b829dba20df
+/ViaBTC/Mined by btcsvair/,
+
+tx 17ae79e66d7cf8e13942f7bcff4426632bf5b22637da1a4b958a05a4a8762ec8
+Mined by AntPool708Z
+
+tx 1885c1d0086117eae1e476b9d8b47173e60e8bd23f06db09944bb66f880f4407
+/ViaBTC/Mined by akap/,
+
+tx 5a98dbff91be219daf95aa911f99c208ae39b7cd3bf09e9ee5a9f77252770951
+Mined by AntPool751p
+
+tx f99ca5f08f98791de3c17d14d3f33c4c143a259c594afb3f71403b5e114a2759
+`/poolin.com/taproot/bip9/
+
+tx fec6e1f0233657b52032b9821f3493cc12efb7588d514b82cc26b08566236e92
+/ViaBTC/Mined by btcdressea1/,
+
+tx b360575a13df4d7ea43f0fe5d380fd5dab8ce0ab6ab400992660738b1e8581b1
+Mined by AntPool750p
+
+tx 446178dfa9d6077e165f679bf299260b073c778ab0f3eda920fc49e88bfa6ad4
+`/poolin.com/taproot/bip9/Q
+
+tx 698c9bdd6d2970894e65bcf100316a961ba4869f588db1366314ec3418989d77
+`hangzhou/www.okex.com/
+
+tx 76ab0ed60dc68343202049c6fb5a121bc98edcaa4e349d5abc5d8bc8f113eae4
+Mined by AntPool763j
+
+tx 163cf14a43261d1139582084386f90fe9fb1bbc75d4d88906e01b27ddff151cb
+/ViaBTC/Mined by unionjack/,
+
+tx 255bcf325c4c2be217979488797e6ac2dadf3b46b293e7a63a348c717ad1e8cf
+Mined by AntPool762j
+
+tx 833a678de8f0472d86cb1e54e13989795e71787ce209ff52371dc3cbe31395a2
+`hangzhou/www.okex.com/
+
+tx aab6748bef8306af4af599d58679b0c80bb963bef6fbe189589e221f5c9832f9
+/ViaBTC/Mined by jjsdzs9/,
+
+tx 03f713dbd0767741dcef8915c866b258f9637f78a50f56dee7aa05ea7df21c49
+r
+8\ MARA Pool - OFAC Compliant Block \
+
+tx e540c236f8f32058567a6f93982ff03d26500cc73a90c4a46ea6cfbd2a20319b
+Mined by AntPool724j
+
+tx 707b447890a9ca4471c25a53c1702ecf07ada0bf0062a2938f763a40f7a81c09
+Mined by davoodkavoosi1
+
+tx b74e5687878f4d1f214910204d7f76161233f6741ca51716191537e992668ab3
+`/poolin.com/taproot/bip9/-d
+
+tx 6ab2af3fff8c93330a29ba436f5b0d3dcb88bf0f04a4d824ed213f0164bd6c7e
+`/Foundry USA Pool #dropgold/
+
+tx ed3d30576b4e21e31e45fd87ba8158770c2e97f4a237c37f5e3953f62587cfdb
+*0x0000000000000000000000000000000000000000uuS!
+
+tx 8b3ff3afc2ea01f891dad111eb7344476c0f17984220b220c6acc3b66827fae0
+Mined by AntPool708Z
+
+tx e16838a999f51f0a0c2707c3564e9133e249d5dc5d7b96334da3bc8d649791c8
+Mined by AntPool725 
+
+tx 186a7fe6120b6e4c4ed851a497334691b6a3470a6f7e656cfc75f12cc2b5ef8b
+`/Foundry USA Pool #dropgold/
+
+tx 6f92b2dc83bab47bd41bb702f1b456ea5ac975ef059e8ebf0d9461f289143564
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx b71fa143ad08a63a8ad21af79ff241d40dad323066501f25965b3662d9604cff
+`/poolin.com/taproot/bip9/g
+
+tx a1049050f20762a540157e325017e5b1d93d18a4ebe89de0ca449302177e4b6c
+`/poolin.com/taproot/bip9/
+
+tx 7f1e2e1e3b934a7d2bad99283a0fe4962982b60e033beb76fb7ef4dc7f001f86
+/ViaBTC/Mined by lujuncheng666/,
+
+tx 1f7755760cb7d539ae4f3715d559f934b5b950c24799b05515b6d1b7609b6c2c
+`/Foundry USA Pool #dropgold/
+
+tx 44857b5ab00c995633cefb4c7b288b721c8325c085b6ea3d597d0dbfee0d8267
+Mined by AntPool762j
+
+tx 5ec8e596fdcb8348b03a12c8f1e3f31bd9b7de8202084f0b9157f2d684ef4d27
+%Fl1eu/Sigmapool.com/
+
+tx d781b1a197995310b74fa3aae17faff839b0ab4ba5a821bdd5ed1767a1d913ad
+Mined by AntPool752p
+
+tx bd6d6180823c33e29853cd4838c9fdf0cfac8cf016942a906c39a6eaf278108c
+vsz/hash.okkong.com/
+
+tx 10581c860b267789272a243d63ca7668b079a7817c9d5992940105077a639063
+`/Foundry USA Pool #dropgold/
+
+tx 79dcb60479c85b5b0b0a863a72d85865f375afd7962013900280b02199915c14
+/ViaBTC/Mined by kznetlogictr2/,
+
+tx 0f82ad1feb9a3ec4764c616034c04a021c0b6c11aa127253d9b368bc2f636afb
+/F2Pool/Mined by nora
+
+tx d313fc6c99b76284621530651cb853905bcf9b0a71cfceb9821549a190f3e2c3
+/ViaBTC/Mined by pacific2/,
+
+tx e768148e1046b59bcdf73062b806027ed98110f69628a29a9c898dceb6a74570
+Mined by AntPool726 
+
+tx 5d12867a60606f036c1d00ae0c88929aef42aee1a6812ddd88cc97f626ac5c1f
+Mined by AntPool711Z
+
+tx 10f885c13a7d684db9d8f1f789b6c627656ce86d4aabf5fd30445448458a66f6
+Mined by AntPool709Z
+
+tx 335eaaebc55dcc75e222b9097deeef168c3265504e0c096983b08a4094da8fe3
+Mr
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 4e0b8b75423e84c3a2e259fa37f93f4daac8fb5c2e20c3f1c2392d0078e27b59
+Mined by AntPool761j
+
+tx abd9bae92c307666fe449225fdf3937345e0c779bb6a4bea912ff9220af7324f
+`hangzhou/www.okex.com/
+
+tx f336c6a86aad57382771470019d736ca5986879a39deb100b3011a3794d45c8e
+Mined by cwl135791314532
+
+tx ba1a9268320c31c05d32b13925760f65b1b5961c782e673d9c526c3ea1438c13
+Mined by AntPool713Z
+
+tx c973682f3e68b888bfa6f16aa187bbe291bdf38714557a8a03535110a418441c
+Mined by AntPool752p
+
+tx 07cf0d9f9ab492b51cfd77170dae005ae0b0f9dcc539b2b4d8b4394be277de70
+Mined by AntPool765j
+
+tx 4e701171e144c642bedeef733d8b950c6ad27bc3cb2cd6b839fe7acc209b6dba
+`/poolin.com/taproot/bip9/
+
+tx ea3f9bf44fd50dd30034c68e98440718990831bc0ca4021012c4148010f2db5a
+`/poolin.com/taproot/bip9/
+
+
+tx b8415b8bc502c112754b9f0fca60c5d9899f83e234e579ec5f8ee028663c6be0
+Mined by AntPool710Z
+
+tx 33fb1ba508da30f99648966a9fe31d79001871361bd034a203cc928f17da92f3
+Mined by AntPool709Z
+
+tx 9cd9937f442382bcf34fba8349a339fe3e09833e06e4d19c3a8a210a907ce4d1
+Mined by anjihongyong1
+
+tx e5f0dc395cf4bec3a4644ecc1cc1d35b50d78e65dafd33617dfc12d6170bdd1e
+`/Foundry USA Pool #dropgold/
+
+tx c24000b03313c08e8e59ec48a6dcdf2447f175b5a71689df740e7031558dc1d1
+Mined by AntPool711Z
+
+tx 8a6855ea200dd409d076be9fe6bf87565fb879371dcc3525e9868f152ae5c183
+`/poolin.com/taproot/bip9/
+
+tx d8f70fb20a7d970e26990e148789db0b6a3866d0ca6f1f9bcf2f3cb55055a74f
+Mined by shengyunm10
+
+tx 95fea459796528c7c80f5fe7f992ab67270e98375d83fa9ac1ce0ab22167507d
+Mined by AntPool761j
+
+tx 404c52773abd0ff027c4e25a1b59213a1ac75642001c05509ad886c99630b6bb
+Mined by AntPool723j
+
+tx 5923eed5f7c2620c1dfda97282037be14a59f564f0cfaac374820ae58d245245
+`/Foundry USA Pool #dropgold/
+
+tx 988cc5bf96c8cf41fc097656e3b38f69e9093fab30efffaa94668d5b1af76dba
+`/poolin.com/taproot/bip9/$
+
+tx 5c361ee4f5934e54ce411c71b65717159b291573bf9bad941664526775049995
+/ViaBTC/Mined by dmitr2608/,
+
+tx 5b3b62e3782cdb7459c20c4e7cf38a2c1fc482557b217e1f246319caff530ed6
+Mined by AntPool761j
+
+tx ab94335421d771ac8631f0d408b5d5c0d1c825c7b64992d7e964f20a5c224d98
+/ViaBTC/Mined by janajol1/,
+
+tx d1319741cd60c3a088b5c2641232d0860d5bd1dc778b15cfc2a8895567744bf4
+/ViaBTC/Mined by lcc2021/,
+
+tx 7e313fad74f6e3b0c9a005856004dab63622301e0f33ccdce2b65880e5b914db
+`/Foundry USA Pool #dropgold/
+
+tx d7828a7277eddeae197e6b55dad1b33163370439f369ea3f710d14799e9613d0
+`hangzhou/www.okex.com/
+
+tx b60421f4f43404a974ec1773a30d5fa224e10752728108cc5b71adc096d87746
+Mined by AntPool736p
+
+tx 67963e9149f18a5025ab831521140ff3cdd4b0e4e5ba85ce738f45cc60e9aa3f
+`/poolin.com/taproot/bip9/
+
+tx 4f0e17ace48395db8e47426e2b3f29faa2f3e4abbaeef321f8540096e1c47251
+/ViaBTC/Mined by ecos/,
+
+tx 0c6ce3d223fdcb58968cc4db8ad3e67862b59758d90bd575d599276a62bdf8aa
+Mined by AntPool766j
+
+tx f95ed3738097877fd39b5c6be4fc84f5911bdecafed752f57592de6374129c0d
+Mined by AntPool710Z
+
+tx 520509392c5c0e32a74697a92325a3ed58313abdd2b87ba3fb69aea12ca6e9ad
+Mined by AntPool769 
+
+tx ddb2b186da421e6fe2a2c75940b42ec43a2b8f549f24f1f7108b2a32dba91197
+Mined by AntPool741p
+
+tx 08cf14b52f37200cc9e4a7fba09f9c9440d8dc400a754a472a1b0eff95159df0
+`/poolin.com/taproot/bip9/
+
+tx f0d14c8364da2ef34557208caf8d0681ebbedbf94bc63cfd313c9860bbe4547b
+vsz/hash.okkong.com/
+
+tx f395b258fc86df4faf2eb39e27dbf40a9c8f8ed61c52c71083a62a7b681d373b
+/ViaBTC/Mined by kzminekk/,
+
+tx 048efd42fd3719097f00bc2bb1fb4d1cb370a1c53dd89fdb8a8aff5555eebb89
+`/Foundry USA Pool #dropgold/
+
+tx e7afc81fe034dd66c41881c9badb84e17293380ff5a655d713873c97cb02ffe8
+Mined by frostywithcream
+
+tx 352d9a3b19a18b35b9af8c61c6e02eacfd545ddfdab9a401d6eb1e927de8e413
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx 8a152e3c453311f712804bcc7422e104fe1df39326ccbee80c7e955b87958fa4
+Mined by AntPool709Z
+
+tx 19ab1ae5f936aa78ab0a5bbb09340044a004cb6aac61a3fccdeb99969039b186
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx a8e7140b88d69aa6495f0cc2faadda11552516c61ee205d068a0169cb1bfd120
+/ViaBTC/Mined by janajol2/,
+
+tx 0a2e726fa75ca17e1193ba6f386bb74b2d5d9a54af68e73299789c8d6b247a57
+`/Foundry USA Pool #dropgold/
+
+tx c4edef6bf7388cb4e6dc9e5d9f7618a697e4d071f069e75cf8ebbba9a1a2932b
+vsz/hash.okkong.com/
+
+tx 15f5e813f14fe08758671a0048da1704d6745e00ffedfa9f2958264c16b0aee3
+Mined by AntPool716 
+
+tx c636bddf2e6268dc2bda6c6dd00d857eae940e9506479218de80c293ba39aeb6
+Mined by AntPool750p
+
+tx 4a8feb8e452df900a75ec032f4c95fa8697e017060c001bb0f67e0ed8789b319
+Mined by fufuf2po11785
+
+tx 860306094c3586e341b741fe08444961f1e841778c8846d63230d875fab13ef0
+`/poolin.com/taproot/bip9/
+
+tx 80e4d6d25a7ba956929dbdb269bf4eb55469141a2e2e969230b7a70287e103bd
+`/poolin.com/taproot/bip9/Q
+
+tx fd42a429ed2f5de3792e76968d4462029992aa2f950e84c72a41e0faec05d990
+`/Foundry USA Pool #dropgold/
+
+tx 203014baf8b71b0348b6aede6f094b28e6b3dc4a8f3fbd4ed1b4d93a73a85b7c
+/ViaBTC/Mined by hg777/,
+
+tx ad7501fb971e048cc5cad8b47d10ed88f572dd83c82d0f49b989679ac6e2de6a
+Mined by AntPool762j
+
+tx 21aefcdc9af1b131b3efca86ef65c05aff4e60e87bcf21d56c806bca283cf765
+/F2Pool/Mined by mgmt
+
+tx a33b917bc02a02efe3d7891c2bdb66f6c9c453630577de5d1a7c3a4ad555ccb4
+`/Foundry USA Pool #dropgold/
+
+tx b4dbc57b73885f04bad7a67940979ec91ac637f7f356d451ff6fdfcadb049c74
+`/poolin.com/taproot/bip9/
+
+tx 07de4f4ee0b869a474484aa8c2cdfe96a7f355329cacebc21c4ae620f6bacf66
+`/poolin.com/taproot/bip9/
+
+tx d50ecef750bf7cc5548d0cccabff68fbc52b1f58129930c2ab609e7754fab8b7
+Mined by AntPool709Z
+
+tx bbface38d04447999476674047914561b5b752bc0197d9a03daa1f174a166493
+Mined by AntPool711Z
+
+tx d853b06aaa9b82e476b73c6c739e2fdc7857342f9bd8d9606828202fa58b9120
+/ViaBTC/Mined by 026371/,
+
+tx 069b973e8f530c32c7c8d72d6c5fda1b05bd933ae012f9ac3b148aa6154d9886
+`/SBICrypto.com Pool/
+
+tx 2b84827edba756a83f6f11e6b5f5f0011b02f012af369462616720c49c5fd456
+Mined by AntPool772 
+
+tx 51b1bb9044cb2ecda527611c75a7a48df054b407f01daa4cb667201c6cd836ad
+`/poolin.com/taproot/bip9//
+
+tx 61b105f6ffd86133fdc20b1cdb0de6d15f70b2d659cc021532c0fc91f1637331
+/ViaBTC/Mined by kznetlogicst/,
+
+tx caa69f0d0e95864b4bf1e56aa155c374ab264abaa865ba0496cff48ef9117d7a
+/ViaBTC/Mined by samparandoosh/,
+
+tx 3561bcc5fdba1466a7d8ddac61d49c6dc55d5dd615cddab59044456330384a87
+`/poolin.com/taproot/bip9/Ys
+
+tx 44832fcc0f852f347fad8b9b17f3ed0eb3188b7d26e8225cd505ba646d15a7a8
+`/poolin.com/taproot/bip9/4EnX<(yXKF
+
+tx 6d5e174e8b36da46f2208dba56b59a2a8936707d61d5c8c676f7f0baac397785
+`/SBICrypto.com Pool/
+
+tx d57d3f33fce12862f95b370ae51dfd6a18a8e1657a104df1929e3a1a78a23352
+Mined by AntPool750p
+
+tx d71808e0e3657622e48995416214ad9dceef4f23a09e31aea1b43c558ec1508d
+Mined by AntPool736p
+
+tx 530dc308aab7d4f42279bff674116729f532d51ff89fc8fe057c0691523679c8
+/ViaBTC/Mined by madjit/,
+
+tx a422356820d8ac226b290bc1a2c4091c7d12d7a111e156389cda75c72c8306df
+`/poolin.com/taproot/bip9/Q
+
+tx 5578fa3ec0ae173f5df3487870d463c70f032539fa59189d8c651985060843d7
+`/Foundry USA Pool #dropgold/
+
+tx 98ea7ecef81f86b710d6cf7a3ce6fb367be4f6d5718477a15ad01d2769bc86b4
+Mined by zhanglei0826
+
+tx 6c37669974fbcdd1001ebe9950f56348f26438a988f86b7f745514514e0522f5
+`/poolin.com/taproot/bip9/m
+
+tx 83a088f2bd8fc54e53df7d9680e21b540fec92144579ac7fcb95673ef2eb3339
+Mined by AntPool727 
+
+tx d43a00ef17351e2b72e4c5025103e143e8e7381607f7808d2807237c551795e5
+`/poolin.com/taproot/bip9/Q
+
+tx 803675c4d722a3880a6b98bee9c35015fdbc03e9ecc4a1a1a1118d98ad26d73b
+`hangzhou/www.okex.com/
+
+tx e0d6dc4bbce49a317d90b48ce3d76433d04a984b24ba0e70b0746c3b1af0e86e
+Mined by AntPool728 
+
+tx 34fd02fe42150ef6a6be82bf4f340e79a098783d3d47a38fd5f5dfbc9ccf6877
+Mined by AntPool713Z
+
+tx 58f40ba4f794f85f9e6452cae82eb80e5c50d85565a5bd824db667a439adbb0e
+Mined by AntPool726 
+
+tx 5192e7baac69c2a48cb7659ba07669dafa21b8f3b187b0793546b281346e4b54
+Mined by AntPool725 
+
+tx 24e24615437f93fab072f06e39d22db00dd6c1bbd6612484cd3abdd59a4ceb10
+/ViaBTC/Mined by yam2him/,
+
+tx 5df74fd1bcd93d7ceea43985f15888923e3dc0f95406dc62aa9b26fff70d1085
+`/poolin.com/taproot/bip9/
+
+tx 20e20b39ca0741978d17040df1f0d77be4c1d75883d52c5ffae2bc1993ec8e77
+Mined by AntPool769 
+
+tx 0ad746309ea0ec5ba7ba9865d31969826be950749de7c45edd3f3d1fa86617db
+`/Foundry USA Pool #dropgold/
+
+tx 9e81b7fb1940a2e229c3002b15049bba2f7aa9a06eebea947394d1092813764c
+Mined by AntPool751p
+
+tx eb5d841c02fcae1330691516d5e3e172112321ee99a75fea32115baa50fc8fa9
+Mined by AntPool762j
+
+tx 4a69f6bf4ac7c0c9760111485c3811d08c582be980ae1dffbc2cb99779871c52
+`/Foundry USA Pool #dropgold/
+
+tx 32eedbb60c9b6702b6d8934511877662a0d5707158594bbe65eec1fdbcac60cb
+`hangzhou/www.okex.com/
+
+tx 2256af9987b4fbec0d5782180d60349ded5e8d90bc02c3291f4aacbf58285e99
+`/Foundry USA Pool #dropgold/
+
+tx b639138602571621c5727442eab95ac30e3ce508fbbd9a6867b225d1be03c0d5
+Mined by AntPool769 
+
+tx f8850ee48a63013c6386decfdecbe6c69233ad5675a6e7148ae350bf4f98ee88
+/ViaBTC/Mined by eshtehardfarm/,
+
+tx 454c976b0fd98d92a05673b9d578a6191e1e2e5db2288eb85d72790ac07b136a
+`/poolin.com/taproot/bip9/
+
+tx 001c7ae27e0440c298b19fdf8adb0b7f0ae186246d38b0ec84af25a31ac260ed
+Mined by AntPool770 
+
+tx ba1cc2489868e8c3a68c2d3a7079a1b2c8630e1482a3101bd79ae80499ad6425
+*s
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 5ff0d92b79ba6b6f0eebfe39c3d43f88e1778bf678e623e702d3942428fa83fd
+Mined by AntPool737p
+
+tx 36f9952f8831340f612d82f127071c8ae662f04efd32c819d2ec87ef4f3b002c
+Mined by AntPool723j
+
+tx 034ccece8ca28b323d1fde8e162b9c6174b7aa9da3f7339da2a3e381b6f92a63
+/ViaBTC/Mined by zhongnanpb/,
+
+tx 3e811dc33b3208180acdba242ad95e25b98df31f2b5b9afd1c609bad642b05be
+Mined by AntPool750p
+
+tx 98aa70ad68ad751adbd2174a6c17efb3dd4f3bc5658e5d4b46aa4559876f55d9
+4s
+8\ MARA Pool - OFAC Compliant Block \
+
+tx 844d173dbc316480da26334f4bcec5d29b10f27d2d778a4cbe523b0f617d7b7b
+`/Foundry USA Pool #dropgold/
+
+tx 64cc5134012bb1eaa4d66d186a6ea670187078de28ffe06e13c60480159e1d85
+Mined by AntPool709Z
+
+tx be21f27f5a6686adbaa64dc320858ddec077882f91c66e29e6a76dec1a44ef40
+Mined by AntPool736p
+
+tx 6370d9bddd641cb3db1993beed83238d5a5b7d8441367ea3e8821e3a7b941eca
+`/Foundry USA Pool #dropgold/
+
+tx 2def5438b064ea7eef13749aa81370d947530a6fcbdf561569d4f843b3879637
+`hangzhou/www.okex.com/
+
+tx 0be4314205954e4d8f29a4c9232c7a488fe77bb5f1bff35d2d0819269bd2475b
+/ViaBTC/Mined by kzminest/,
+
+tx 198c7060577729fc69e44b4d961b93b288348037e23b114959a74e59ee1b12d6
+/ViaBTC/Mined by wjj521/,
+
+tx 300c93aecc38f55ff3db1c10530944e831947682519902e142c0688a4d0a3c31
+`/Foundry USA Pool #dropgold/
+
+tx f4180be928c701dc3621b6c1527594233ccd094c16c46fb3b4bc3ba4a43780ad
+Mined by zhundongall2020
+
+tx 829c65d98dac31451eec0444b604f31aac716d08fa1b8a34f5939deedaafdcf8
+`/poolin.com/taproot/bip9/
+
+tx 5a9eba6096b6ee7dbc749522703e3d0f0badc81de8c416e0aac345ddfabcadf5
+Mined by AntPool711Z
+
+tx 60fe5e58abd00fa429a5d59156473d811786c8edd91733a7352a164da4567315
+`/poolin.com/taproot/bip9/D-
+
+tx 19fcee0f12ff21344d52aba0bbab65d8214bf8a538311283ccaec6e5c20d9f97
+`/poolin.com/taproot/bip9/
+
+tx 6ae024c871235301c35128f78acc7847e02930bfed00225b5295830f15c6a28a
+Mined by AntPool715 
+
+tx 3584dde5122d671c8f75c97436e9caa88226033d248b09c7571799d2e0fda319
+Mined by rmelectronics1
+
+tx 2c718e179ce45e3be61edb184cff0d51060155a733faf642ded9bdbd7b89520d
+`/SBICrypto.com Pool/
+
+tx 1d1399eba98aee47a4aaf932b076da8190551cef7ce2d2ff6d7ac5dc91608dd0
+Mined by AntPool715 
+
+tx 50323a1ddd0e130a95d891af5bff87adf88e17527e1f3cf67ba22da9733eb69a
+/ViaBTC/Mined by mohammads11/,
+
+tx 30f5f1a21b902c1ba55f05e86ebbb761e799a6d2fa0cc4bfc792a512774058ae
+`/poolin.com/taproot/bip9/u
+
+tx e815104c087774c11851ae31173623e24cb9b5695297265cfdc5ccbf52ada3ec
+`/poolin.com/taproot/bip9/
+
+tx f2cba48241174dacfc1e809729d22e4127f74d3f5c0aa29b710c131da816fd40
+Mined by AntPool709Z
+
+tx c0ddfa2a21440a91b65414d7ebd84eb761b0ef9b0498292b206f9e6f093efd14
+/F2Pool/Mined by yj33
+
+tx b473ff0ceb83a161c81ef6b8e023cb3f4d45dd50ca45769bd4d7446100035334
+`/poolin.com/taproot/bip9/
+
+tx 7fcceee07a6ff0836ecb35d3ff7170eaba430abfadfc047be8994e00de1aae3e
+/ViaBTC/Mined by btcdressea1/,
+
+tx 6f2c41e594d12cd125dfdb879ee183b914de5666db65965ffd24f3076a4770cd
+Mined by AntPool713Z
+
+tx 6babe9aa3a325afdfb5ed2b609f38d7d85591d352e4f428a1700ef97625caf09
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx 989b3a5fc9a1c2ca36ab887d9f4f95e34a8be20b569b70f6854dff6906e64edd
+`/poolin.com/taproot/bip9/
+
+tx b453f9d41707a7dcc0a1fc83d65863c9dca3f2746098863aeedc8494a08908fb
+Mined by AntPool713Z
+
+tx b3c79ad9e774bb2108a9fda6844cada45834afe4122cf68693a9b41d81168c10
+/ViaBTC/Mined by 2gbatchone/,
+
+tx f507ffd38b5c4f097fb5ae542a6ad314514f385d1c681b49af89a1e548e52ffb
+*0x0000000000000000000000000000000000000000uuS!
+
+tx 4b225d678168d722da31a27e0e722a0b0027c2cd2e8b6167b97a64275ee1a52e
+Mined by jiajiang1500
+
+tx aa950794840eebca2d48e5f7a0d7330dada19e317c0af2973fc8692b06e62d03
+/ViaBTC/Mined by jetminer/,
+
+tx 555fd9af7eb42933c1c0062edc7e6e1ab5dec071e12b1f347439fc94f101a54e
+Mined by AntPool708Z
+
+tx 7918e393e3dfd701ae54031f308ce835fd69787058e63381085f3f0d93ee0488
+/ViaBTC/Mined by m31s110/,
+
+tx 904b09013d2ce9d46aee5ba678a9d0c8a3cbca13de724fd3aafd8b4550e38d55
+Mined by AntPool714 
+
+tx 29270e8f11f9eae51a0c07f9f0109d57204a1673f419bcb89e15c22e8d3937a9
+`/SBICrypto.com Pool/
+
+tx 15cf97bb76cdea15c041b1b3c76af2de9651219985ef6096c41eae3c22a9f8a1
+Mined by AntPool710Z
+
+tx dfe3c9bb56a2a26e6c658c0c5d506372970a6f00e38637921bc151f967c51df4
+`hangzhou/www.okex.com/
+
+tx 51350c086a743cc3543f4e91defe7b644dc78214bad0dc896cad561f6152e833
+/ViaBTC/Mined by kznetlogictr3/,
+
+tx 37492b694032c404e24f966f2ed7c222c3ec071e683253b92967fc78573c1ce3
+/ViaBTC/Mined by kznetlogicst/,
+
+tx 97402d6cfb915dfa64ac37384d3e0dceaddca1cb720dd2fca78f2ddc816f9b01
+Mined by AntPool742p
+
+tx 1d4a645b58672dfce6999c5c8fedc3f2099dd2b5149ca045796bc8c2c504389d
+Mined by AntPool741p
+
+tx 35a2204cefebcdcafaf2bc3c357783d3307735913c1c59493b8df7dc3e31e3a6
+Mined by AntPool716 
+
+tx 7b3bf9b87c025ddae57e4700a8c76b3776989e008400674a7e36a1b08b119f0a
+/ViaBTC/Mined by reza0083/,
+
+tx f42bb2df9aab612e8bd34631fd96ea64907fc7f96d85a62dce36d01bc43b35d5
+`/poolin.com/taproot/bip9/
+
+tx 603120e42060f8abdc9803eb44a44849a9ae587d1416703c3b160bff7dc64bf8
+Mined by AntPool770 
+
+tx fe7d06d9a643495d6eca55cb8e0c6ef3f03113b81812f5dfe4b9f085c5c22c7c
+/F2Pool/Mined by gld3
+
+tx 607360309276069f2033ab5134c4daf2ac7dc79702c178d1be68ae8705f3f56e
+`/Foundry USA Pool #dropgold/
+
+tx 4393bb22c7d239da8932341bc44d989b60756758d017acf887336d5c51b1d619
+/ViaBTC/Mined by kzminetr/,
+
+tx f9a046c48990907723f506363698317047ab3a31fb8dd8fb39164db3b77e1aca
+`/poolin.com/taproot/bip9/
+
+tx eb680a9b2efd3d64fe77a9cf77715f40bfebdd340929d1edae5993830d6068c5
+Mined by AntPool740p
+
+tx 082324d1e013adff471f2c90c10ec1240c73ee4e63b234bd5ed424816464f3ef
+`/poolin.com/taproot/bip9/K
+
+tx 98bed8fd3a580b7eb6c1cd354e3cf5aa7abe00f2b93a87a79e016ff80dd2fa07
+/ViaBTC/Mined by dcgloan3a/,
+
+tx 15c1ab61b919a727a4a4e4abb3bbd689e228c9527275ae6846599b9079126d83
+Mined by fjshwyhtbg102
+
+tx 54346f860af06dd3e564fd259e3b9f9146de5e7ab72f941599cb99fb5d6ba4d5
+Mined by AntPool741p

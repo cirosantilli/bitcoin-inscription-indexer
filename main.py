@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 
 # stdlib
 import argparse
@@ -40,11 +40,16 @@ JSON_DB_MAX_SIZE_ENTRIES_KEEP = 10000
 # tx lists sorted by date.
 LIST_NAMES = [
     'atomsea',
+    'gif',
     'invalid_tx',
     'jpeg',
+    'mp4',
     'png',
+    'ogg',
+    'pdf',
     'satoshi_uploader',
     'utxo_nonstandard',
+    'webp',
 ]
 # tx/size pairs sorted by size.
 SIZE_NAMES = [
@@ -371,10 +376,20 @@ def get_ios_bytes(tx, ios, minlen, isinput):
                 is_2vals = False
     # Raw consts index.
     consts_bytes = b''.join(consts_bytes_list)
+    if consts_bytes.startswith(bytes.fromhex('474946383761')) or consts_bytes.startswith(bytes.fromhex('474946383961')):
+        serialize_list('gif', (tx.txid,))
     if consts_bytes.startswith(bytes.fromhex('FFD8FF')):
         serialize_list('jpeg', (tx.txid,))
+    if consts_bytes.startswith(bytes.fromhex('6674797069736F6D')) or consts_bytes.startswith(bytes.fromhex('667479704D534E56')):
+        serialize_list('mp4', (tx.txid,))
     if consts_bytes.startswith(bytes.fromhex('89504E470D0A1A0A')):
         serialize_list('png', (tx.txid,))
+    if consts_bytes.startswith(bytes.fromhex('4F676753')):
+        serialize_list('ogg', (tx.txid,))
+    if consts_bytes.startswith(bytes.fromhex('255044462D')):
+        serialize_list('pdf', (tx.txid,))
+    if consts_bytes.startswith(bytes.fromhex('52494646')):
+        serialize_list('webp', (tx.txid,))
 
     # Satoshi consts index.
     satoshi_bytes = b''.join(satoshi_bytes_list)
