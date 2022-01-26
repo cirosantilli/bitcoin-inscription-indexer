@@ -1,4 +1,4 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 
 # stdlib
 import argparse
@@ -121,10 +121,10 @@ def extract_ops(ret, script, minlen):
 def outpath(file_num, pref):
     return os.path.join(outdir, pref, '{:04}'.format(file_num) + '.txt')
 
-def print_ios(blk_num, tx, ios, minlen, output_file, isinput, txno):
+def print_ios(blk_height, tx, ios, minlen, output_file, isinput, txno):
     decode = get_ios_bytes(tx, ios, minlen, isinput)
     if decode:
-        print_tx(blk_num, tx, output_file, isinput, txno)
+        print_tx(blk_height, tx, output_file, isinput, txno)
         if tx.txid in CENSORED_TXS:
            decode = '[[CIROSANTILLI CENSORED]]\n'
         write('{}'.format(decode), output_file)
@@ -469,7 +469,7 @@ def get_outs_in_utxo(txid):
             'SELECT * FROM utxo WHERE txid = ?', (txid,)
         ).fetchall()
 
-def print_tx(blk_num, tx, output_file, isinput, txno):
+def print_tx(blk_height, tx, output_file, isinput, txno):
     global first_print_in_file_in
     global first_print_in_file_out
     global first_print_in_blk_in
@@ -478,7 +478,7 @@ def print_tx(blk_num, tx, output_file, isinput, txno):
         if not first_print_in_file_in:
             write('\n', output_file)
         if first_print_in_blk_in:
-            # write('blk {}\n\n'.format(blk_num), output_file)
+            # write('blk {}\n\n'.format(blk_height), output_file)
             pass
         first_print_in_file_in = False
         first_print_in_blk_in = False
@@ -486,7 +486,7 @@ def print_tx(blk_num, tx, output_file, isinput, txno):
         if not first_print_in_file_out:
             write('\n', output_file)
         if first_print_in_blk_out:
-            # write('blk {}\n\n'.format(blk_num), output_file)
+            # write('blk {}\n\n'.format(blk_height), output_file)
             pass
         first_print_in_file_out = False
         first_print_in_blk_out = False
@@ -497,7 +497,7 @@ def print_tx(blk_num, tx, output_file, isinput, txno):
             pref = 'out '
     else:
         pref = ''
-    write('tx {}{}\n'.format(pref, tx.txid), output_file)
+    write('tx {}{} blk {} txid {}\n'.format(pref, tx.txid, blk_height, txno), output_file)
 
 def strings_n(_bytes, minlen=20):
     ret = []
@@ -606,10 +606,16 @@ if __name__ == '__main__':
     parser.add_argument(
         'datadir',
         nargs='?',
-        default=os.path.join(pathlib.Path.home(), '.bitcoin', 'blocks'),
-        help='/path/to/.bitcoin/blocks'
+        default=None,
+        help='/path/to/.bitcoin/blocks. Defaults to BITCOIN_DATA_DIR env variable, and if that is not set then ~/.bitcoin/blocks'
     )
     args = parser.parse_args()
+    if args.datadir is None:
+        envvar = os.getenv('BITCOIN_DATA_DIR')
+        if envvar is None:
+            args.datadir = os.path.join(pathlib.Path.home(), '.bitcoin', 'blocks')
+        else:
+            args.datadir = os.path.join(envvar, 'blocks')
 
     if os.path.exists(UTXO_DUMP_SQLITE):
         utxodb = sqlite3.connect(UTXO_DUMP_SQLITE)

@@ -754,6 +754,12 @@ pip install -r requirements.txt
 ./main.py "$BITCOIN_DATA_DIR/blocks"
 ....
 
+Our scripts also pick up `BITCOIN_DATA_DIR` by default, so if you have that exported you can run just:
+
+....
+./main.py
+....
+
 This command took about 24 hours for the first 668 blocks, and <<deterministic-output-ordered-by-block-height,deterministically>> produces the data under link:data/[].
 
 The program progress is reported a bit like this:
