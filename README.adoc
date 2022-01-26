@@ -1,4 +1,4 @@
-= Bitcoin blockchain ASCII strings with transaction IDs
+= Bitcoin Inscription Indexer
 :idprefix:
 :idseparator: -
 :nofooter:
@@ -10,9 +10,11 @@
 :toc: macro
 :toclevels: 6
 
-A dump of printable ASCII strings of length 20 or greater found in the Bitcoin Blockchain with <<transaction-id-added-before-ascii-strings-in-the-transaction,transaction IDs>> and <<deterministic-output-ordered-by-block-height,deterministic ordering>>, and some other heuristic data indexes.
+An attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length 20 or more with <<transaction-id-added-before-ascii-strings-in-the-transaction,transaction IDs>> and <<deterministic-output-ordered-by-block-height,deterministic ordering>> ordering, plus media like images and other interesting transactions. Previously: "bitcoin-strings-with-txids".
 
 A selection of interesting content is being published at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
+
+This project is slow because of Python and incomplete because of lack of time, not something to be proud of yet. But when fun requires we kick it a little bit forward. Also we haven't touched ordinals yet. Ugly little things anyways. Raw JPEGs 4ever.
 
 toc::[]
 
@@ -249,6 +251,14 @@ They seem to have added signatures in a way that they are backwards compatible, 
 * http://bitfossil.org/7c0b2e91221044ce7d5dbdf3f8e48e5e6c27c47190c24ced6584b0658e4d542a/
 
 both reuse the same data.
+
+==== Manual image indexes
+
+===== hashling
+
+link:data/hashling[]
+
+https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain#code-the-hashling
 
 === invalid_tx
 
@@ -715,7 +725,7 @@ Tested on Ubuntu 23.10, a good way is:
 ....
 sudo snap install bitcoin-core
 ....
-* run `bitcoin-qt`
+* run `bitcoin-core.qt -txindex`
 * on the splash screen, unselect the option to have a partial node
 * wait \~24 hours or more for the download to complete (\~586 GiB as of January 2024)
 * close `bitcoin-qt`. This is necessary, because otherwise our scripts will refuse to work because of a `LOCK` file in that directory that indicates that `bitcoin-qt` is using the files

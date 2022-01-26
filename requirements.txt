@@ -1,3 +1,4 @@
 #git+https://github.com/alecalve/python-bitcoin-blockchain-parser.git@c06f420995b345c9a193c8be6e0916eb70335863
 git+https://github.com/cirosantilli/python-bitcoin-blockchain-parser.git@plyvel-1.5.1
 requests==2.31.0
+plyvel==1.5.1

@@ -2,8 +2,10 @@
 /cache.pkl
 /data/bin
 /data/largest
+/txindex.sqlite3
 /utxodump.csv
 /utxodump.sqlite3
 __pycache__
 log.log
 tmp
+tmp.*
