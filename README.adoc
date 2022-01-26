@@ -130,7 +130,12 @@ python3 -m pip install --user -r requirements.txt
 xdg-open data/bin/<txid>.jpg
 ....
 
-Many of the indexed transactions are just coincidences that start with the signature bytes, but are not actually images.
+Many of the indexed transactions are just coincidences that start with the signature bytes, but are not actually images, to remove the corrupt ones you can use:
+
+....
+cd data/bin
+for f in *; do identify $f &>/dev/null || rm $f; done
+....
 
 But there aren't that many hits total, and it is easy to go over all of them very quickly with an image viewer like `eog` to find the actual images.
 
