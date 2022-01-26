@@ -41,17 +41,17 @@ Each transaction has <<classify-input-and-output-transactions,inputs and outputs
 Within each txt file, each ASCII string is preceeded by the ID of the transaction it appears in. For example, under: link:data/in/0139.txt[] we see:
 
 ....
-tx ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b
+tx ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b blk 139717 txid 0
 Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.
 
-tx 23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94
+tx 23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94 blk 139758 txid 8
 ***************************************************
 ....
 
 which means that there were two transactions:
 
-* the first with ID `ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b` and content `Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.`
-* the second with ID `23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94` and content `+***************************************************+`
+* the first with ID `ddfdf53423f7e2742ca92b217a9d788522a661a240b12a4f9d6934902be0832b`, which was mined on block 139717 as the very first transaction (txid 0) with ASCII content `Eligius/Benedictus Deus. Benedictum Nomen Sanctum eius.`
+* the second with ID `23befff6eea3dded0e34574af65c266c9398e7d7d9d07022bf1cd526c5cdbc94`, which was mined on block 139758 as the 9th transaction (txid 8, 0-based) with ASCII content `+***************************************************+`
 
 == How to view the ASCII data
 
@@ -766,12 +766,12 @@ The program progress is reported a bit like this:
 
 ....
 673 starting
-673 finished in 283 s
+673 finished in 283.353 s
 674 starting
-674 finished in 303 s
+674 finished in 303.989 s
 ....
 
-where e.g. 673, 674 and 675 refer to the processing of blocks under `+$BITCOIN_DATA_DIR/blocks+`, e.g. `+$BITCOIN_DATA_DIR/blocks/blk00673.dat+`, `+$BITCOIN_DATA_DIR/blocks/blk00674.dat+` and so on, and how long each took to finish in seconds.
+where e.g. 673, 674 and 675 mean that we've processed from block 673000 to 674000, 674000 to 675000 and so on, and how long in seconds each one took.
 
 When more blockchain nodes become available, you can update the data simply by re-running this script.
 
