@@ -130,8 +130,6 @@ python3 -m pip install --user -r requirements.txt
 xdg-open data/bin/<txid>.jpg
 ....
 
-TODO broken as of January 2022 because they broke `?format=hex` URLs of type: https://blockchain.info/tx/9bdb59a0f5858af670d9b412041b8918114d7c56cc637f57f1d8469f101a5d0b?format=hex[]. `?format=json` ones are still up though: https://blockchain.info/tx/9bdb59a0f5858af670d9b412041b8918114d7c56cc637f57f1d8469f101a5d0b?format=json[] so we could use those instead. But lazy to think now. Related: https://bitcoin.stackexchange.com/questions/57009/how-to-view-raw-json-bitcoin-transactions
-
 Many of the indexed transactions are just coincidences that start with the signature bytes, but are not actually images.
 
 But there aren't that many hits total, and it is easy to go over all of them very quickly with an image viewer like `eog` to find the actual images.

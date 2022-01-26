@@ -63,9 +63,17 @@ def basename_to_int(basename):
     return int(re.match('(\d+)\.(dat|txt)', basename).group(1))
 
 def download_tx_consts(_txid, index_offset=0, _input=False, **kwargs):
-    response = requests.get('https://blockchain.info/tx/{}?format=hex'.format(_txid))
-    transaction_rawhex = bytes.fromhex(response.content.decode('ascii'))
-    return extract_consts(transaction_rawhex, index_offset, _input, **kwargs)
+    response = json.loads(requests.get('https://blockchain.info/tx/{}?format=json'.format(_txid)).content.decode('ascii'))
+    ret = []
+    if 'minlen' in kwargs:
+        minlen = kwargs['minlen']
+    else:
+        minlen = 0
+    for out in response['out']:
+        hex = bytes.fromhex(out['script'])
+        script = blockchain_parser.script.Script.from_hex(hex)
+        extract_ops(ret, script, minlen)
+    return b''.join(ret)
 
 def download_tx_consts_from_rpc(_txid, btcrpcurl, index_offset=0, _input=False, **kwargs):
     import jsonrpc
@@ -88,18 +96,21 @@ def extract_consts_tx(tx, index_offset=0, _input=False, **kwargs):
     else:
         minlen = 0
     for io in ios[index_offset:]:
-        try:
-            ops = io.script.operations
-            bytes_list = []
-            for op in ops:
-                if type(op) is not bitcoin.core.script.CScriptOp:
-                    if type(op) is int:
-                        op = bytes([op])
-                    if len(op) >= minlen:
-                        ret.append(op)
-        except:
-            ret.append(io.script.hex)
+        extract_ops(ret, io.script, minlen)
     return b''.join(ret)
+
+def extract_ops(ret, script, minlen):
+    try:
+        ops = script.operations
+        bytes_list = []
+        for op in ops:
+            if type(op) is not bitcoin.core.script.CScriptOp:
+                if type(op) is int:
+                    op = bytes([op])
+                if len(op) >= minlen:
+                    ret.append(op)
+    except Exception as e:
+        ret.append(script.hex)
 
 def outpath(file_num, pref):
     return os.path.join(outdir, pref, '{:04}'.format(file_num) + '.txt')
