@@ -16,6 +16,8 @@ A selection of interesting content is being published at: https://cirosantilli.c
 
 This project is slow because of Python and incomplete because of lack of time, not something to be proud of yet. But when fun requires we kick it a little bit forward. Also we haven't touched ordinals yet. Ugly little things anyways. Raw JPEGs 4ever.
 
+Next step: make sure we got all the non-AtomSea-non-cryptograffiti PNGs and JPEGs with `binwalk`. Prerequisite: https://cirosantilli.com/get-bitcoin-transaction-id-from-position-in-dat-file[] to find the tx IDs.
+
 toc::[]
 
 == How the data is organized
