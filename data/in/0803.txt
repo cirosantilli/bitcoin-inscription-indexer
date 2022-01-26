@@ -1,0 +1,1605 @@
+tx 5a5fb07daddef412a7bd89f12c9e6467ff0a8b624868e45978ab4a5deeef494e blk 803001 txid 0
+Mined by AntPool906J
+
+tx d1e93609181195cea848c8c47a2fcbe1991b76c7598707a5e446442c3eb2447e blk 803003 txid 0
+Mined by AntPool970A
+
+tx 3d9fa3e8dd4ebc1e8acf8fc9da9cfc250afab8a9ee86f64a9417bebe3e18bce6 blk 803004 txid 0
+/ViaBTC/Mined by kzslsave/,
+
+tx 60340c20d744678e37299c31f686410700d04b7c92fca48df55470facd9559b2 blk 803005 txid 0
+Mined by AntPool971A
+
+tx f6e4274df26d3876f0ce962f375f3bda6608a1ff91cc1802073fc029cc5b7b39 blk 803006 txid 0
+/Powered by Luxor Tech/35
+
+tx 8c9ac3428c4c6b7138971831ddecccdd993cd16f6b3e6405ae968ff2f992c98a blk 803009 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 3ee1c0e9dce880cabf31e9a0dc3aa8e701e24b1c70a8b59252d0bf7ceeb625ba blk 803011 txid 0
+/ViaBTC/Mined by kolos191/,
+
+tx 1a7d118cf545e5b5caf5bf215e890646fe588a805b6562a1a6059f0cfaa7870e blk 803013 txid 0
+d/Foundry USA Pool #dropgold/6
+
+tx 4633f590139e4844f4715f964d06dc83388824a5e4219488fde9e81d23d7619d blk 803014 txid 0
+/Powered by Luxor Tech/36
+
+tx ad4ada33381fb891731e2ab97cf26fb9c43abfd3740daa84f2b40e907685c159 blk 803015 txid 0
+d/Foundry USA Pool #dropgold/%V
+
+tx 5c15392a24dd91ac33e67a633d8d3adb2c4af84a7528f5673d700b7d77c3fa5e blk 803017 txid 0
+d/Foundry USA Pool #dropgold/0f
+
+tx 941ce7e845888ac339ee0bdfa4eed6237a870514ed75c80e5b2c54154f6123db blk 803018 txid 0
+d/Foundry USA Pool #dropgold/&E
+
+tx c4a051736b2b7c54734619ed18dbb5deb37ccf677d9e436f909d8227fd471aa6 blk 803020 txid 0
+d/Foundry USA Pool #dropgold/!o
+
+tx 3673043e02507c5998a992b40c9c6a8e3f2359e0f64dfe781b1e79c1412df2d3 blk 803023 txid 0
+Mined by AntPool1023J
+
+tx c6f53aae25b85e379ef85fa07c938f6135fd9e4214c73556bd58d869c7c32046 blk 803026 txid 0
+d/Foundry USA Pool #dropgold/8=,
+
+tx 1682491d02e1f57d938ea8b364c7ecc2e0a6f12f28cb7107b9161c10de7777a5 blk 803028 txid 0
+Mined by AntPool806J
+
+tx 7b8a588b40d46ef46c748ba42b3e500066cce09d3df0076939688b57c7b959e8 blk 803029 txid 0
+d/Foundry USA Pool #dropgold/)}*
+
+tx 627b844ac89de36c85a8b9ad90ba4e8959d72288fadcf01ebc5e530620d1328a blk 803030 txid 0
+d/Foundry USA Pool #dropgold/"u
+
+tx 76fa4bdf6db0052301c69483247fabc51d492223c39e22c17ec9c17fa4daf467 blk 803032 txid 0
+d/Foundry USA Pool #dropgold/0v
+
+tx 0d5efc837cfa1b7bc04e9045f1b12ebb96315e88f42cc48aee7109717957ceb1 blk 803036 txid 0
+d/SBICrypto.com Pool/
+
+tx 58fa3e33ce8fdc352127fd951f0ad220693361251c78ad42e79229da0e82a7da blk 803037 txid 0
+Mined by AntPool959A
+
+tx 04ec3e87138b8f597c3b1311aadf6fc1ff3e1bcde4ca1c0607b2847025d7adea blk 803038 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 0b12663256ce1117ae68947b4f10c86f5e6ca2dadc9670d343337b9c6383d756 blk 803040 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx aa3c41cb2ed4ee80a1e7b52ab9dba621fb07de2b67c3341e01ff97c793337c95 blk 803041 txid 0
+d/Foundry USA Pool #dropgold/98
+
+tx a2004956de3a68d5959edbff19f4e45b8465a7770518177d384062414c09844a blk 803042 txid 0
+d/Foundry USA Pool #dropgold/
+
+
+tx 2aae01018f1ecae53cabd9f36bf11f1d1051924fd74a356c1681263efd181dd2 blk 803048 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 194a57fe84f87186b5f35c906f450f47c990634708e2b6205bb64be07c9cd9ab blk 803049 txid 0
+d/Foundry USA Pool #dropgold/1
+
+tx b0d30d939ef3f473f9d15ce9516bece298844418c3cc0a4e2aa5b69babfa8a2e blk 803050 txid 0
+d/Foundry USA Pool #dropgold/E
+
+tx 29518db6df34bfb8826d1c2d29299807b41509a706f4c5183cf3126da95c7a22 blk 803052 txid 0
+d/Foundry USA Pool #dropgold/	
+
+tx ab16a114e92e29ae7433440a16dbca40dbca7cfd6a45f9a4cf20d368a95a302a blk 803053 txid 0
+Mined by AntPool805J
+
+tx e31264f69709c32f29ab24a967bc26f58e009f79602fee82b0a881ae2750e8ee blk 803056 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 0eb3dc3e6b8a6b6c852d6069f3ffe306a88efb245f9dc0e09bd0c9a688dfa259 blk 803057 txid 0
+Mined by AntPool961q
+
+tx bfa8fa7429a7fe1202ee7a983a4400131d235aadff92640861a732a4706a6e1e blk 803059 txid 0
+/ViaBTC/Mined by wepa/,
+
+tx 1762d9bc3f62b8c009f2800403981cd0c9791bd72b255eba8f18eb64a13629ee blk 803060 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 15332b8f7acdbea044ad631c01027c74ea9ef7e36b6a1141cae5c63be0aa8d91 blk 803064 txid 0
+/Powered by Luxor Tech/34*
+
+tx 2a80aa16c09903c0aae9c72612287599c3954d2072b5156951068f3a76f2c873 blk 803065 txid 0
+d/Foundry USA Pool #dropgold/-
+
+tx 2f461d595cb71fef13351bac8e740738cebe0ed413ce9e5df23f98886f7996d2 blk 803066 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx 0edbe6f629eab8162e173b140acad736b8fb678a7d7eb514f70d4a0f7e7e9f96 blk 803068 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 6a5eadfc294585e0adcf444b0ca9b53631246f76625f4e65e0dc656d81a885f7 blk 803069 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 1301dab6e1ae49836de5147a734ce224ccf6ec0c5e8855bb17804791de833401 blk 803071 txid 0
+d/Foundry USA Pool #dropgold/&{
+
+tx 5bdd611e8e83d2e4d5e7e071a08c0a5d596da2a0b476bf4d677a5b0df216805c blk 803074 txid 0
+d/Foundry USA Pool #dropgold/8
+
+tx 4859929d22defaba4ddfc9f5c2386d47c8bd1941b490109b9164161eae955a6d blk 803075 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx 79a6f253587731493f4e67a82b043fadb791dd1e3ca4eb0d91c6434a73caa2f8 blk 803076 txid 0
+Mined by AntPool907J
+
+tx 0a76b8d6f4ed4176b071d2590143b9d7690690353961d4f8dd0cbdd03fd6cf7d blk 803080 txid 0
+Mined by AntPool907J
+
+tx 602eb1d9c31053ae61456390eb64a35f8a07a0350760ad0adea8bd5db07914c6 blk 803081 txid 0
+d/Foundry USA Pool #dropgold/"
+
+tx d7a975e0e62b7ac028f7cee2e355b5ada293de666c66e2bcd545f900a695287f blk 803085 txid 0
+/ViaBTC/Mined by diggerkgn/,
+
+tx 2ffa3ab4c281edc437240dcc2c894664183302ae17db4bbb92b187d3e42759e6 blk 803086 txid 0
+Mined by AntPool1023J
+
+tx 0cdfefa3bce02ca1b20a6f9d3ae8800613f26ce943f958fb928673d14cc3c269 blk 803087 txid 0
+Mined by AntPool805J
+
+tx 1bac91fb48fd2cc8043471bfad2f90dfced1ffc0c9f93a293723c90c2b761c9e blk 803088 txid 0
+Mined by AntPool970A
+
+tx 38d7aa68f28b893514d3df60f51c304cc527648e00070b644034c44f25170269 blk 803089 txid 0
+d/SBICrypto.com Pool/
+
+tx ff40842ec37eb95175b6849481d670c2e56de4fa6c0e8e135c96dbac6f2359c7 blk 803090 txid 0
+d/Foundry USA Pool #dropgold/%
+
+tx fcf32f22a781a6b2f88bc462eb82a0b34c3c4827aecbb211bfefd5648a58e08f blk 803093 txid 0
+Mined by AntPool971A
+
+tx 0aa80b66b85d36198badbba3e1541a091ec4ac33495be3333e89d6918add6d86 blk 803098 txid 0
+d/Foundry USA Pool #dropgold/I
+
+tx 5453717d509f1b4e86d4b112fe79f221cd8752d5592c364f809a4665daf87f67 blk 803100 txid 0
+/ViaBTC/Mined by inteliondata/,
+
+tx 7a15d213d3fefb38f3a70691cf5825857a996233295a69647b43f49cadeafe3c blk 803101 txid 0
+d/Foundry USA Pool #dropgold/4.
+
+tx 3e7ee8ee9ce5b6243a70e76d2b9f7a1e109436df4d8f5a5b5822d8a2d07300d3 blk 803102 txid 0
+/ViaBTC/Mined by erlgray/,
+
+tx 2abc27755c3021abac45ffeea4a4342d90eb090f0e8496e6f79047462dad7d09 blk 803103 txid 0
+Mined by AntPool959A
+
+tx e97427cb8e97abc7265c0e777dbb699b77b8a28c9e46bd447e245068416ee5c5 blk 803106 txid 0
+/Powered by Luxor Tech/33
+
+tx c187a3e4370379050d3c8179bdb68812858719d2d93dfad7db42591d8f28e279 blk 803107 txid 0
+d/Foundry USA Pool #dropgold/D
+
+tx 9966a2f729390e32e0468267a6a7bdf55cf72291f4eaf5fd860aeefc1916b2c3 blk 803108 txid 0
+Mined by AntPool959A
+
+tx 4309acfc581ef7e1a1d43699b60d1aaa541434f4f4096758c58497ff37d39fef blk 803109 txid 0
+/Powered by Luxor Tech/33
+
+tx 89a71669fce4fd530467c00633fe26c4838567e05ac9f35652d300d0b8675204 blk 803110 txid 0
+d/Foundry USA Pool #dropgold/G
+
+tx 2625f7f49dcd8045d9360812464c9e5701abf6f2beb1a8847c64eadd0150385e blk 803113 txid 0
+d/Foundry USA Pool #dropgold//
+
+tx 253dc76b603aaa78ff4af96f2c01eba7dff81ffd609dbde5266481c6272d3dc4 blk 803114 txid 0
+/ViaBTC/Mined by 69026902/,
+
+tx 847db528065b72a292a94172350507704a826b0ef67558bfbca98a927a0d2aa8 blk 803116 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx bbd6af0fe1ae26864770d4d5ba2bb4948116ac76ddf69840658b60aa825ca32e blk 803117 txid 0
+d/Foundry USA Pool #dropgold/:
+
+tx e2c7db613d8524c910d7d225c083a2b2e6e5b60a19f2cb3a377e2716927b215b blk 803118 txid 0
+/ViaBTC/Mined by 88318832/,
+
+tx efa4371f30e31816ebf7e3b0e64ea3fc5e77e85ecdfe92acf21e629ecc2a4d9a blk 803119 txid 0
+d/Foundry USA Pool #dropgold/%
+
+tx 0d299d34c69b94f63ff7e99c5636e6531f7b3db934741d84bbeab71d4c4eac87 blk 803121 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f77f29b0c04b0bfbc23edc717532fd35cc51f6291433dca2d82116582a0e1a93 blk 803122 txid 0
+d/Foundry USA Pool #dropgold/A
+
+tx 87aa31a3b67547315706c8ef9c92caa311a92e4d603ce4f1321755c4cb67ad07 blk 803123 txid 0
+d/Foundry USA Pool #dropgold/A
+
+tx 715b1c81b59cf8243c89b749d23501dd22ade40fa0f979eb1305234a2dcca20e blk 803124 txid 0
+d/Foundry USA Pool #dropgold/)A
+
+tx e9377bf04096c5a2d58ecb068623b3d9c5a38f4c5666b661fbfa1e30fed76071 blk 803125 txid 0
+d/Foundry USA Pool #dropgold/I
+
+tx f047f3f901ee483b814f916c54bd5381338009b581da0498e959c4edb78ec292 blk 803127 txid 0
+/ViaBTC/Mined by via66/,
+
+tx 9926c8416425ced0f4d9edf56a95d9baf5dde197182489513e219ccb231c3185 blk 803128 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f7c8cbdd0722a2d275b5be1fc4b69a6b751d52a784aed2c40734586b7be01112 blk 803131 txid 0
+d/Foundry USA Pool #dropgold/A
+
+tx 36945ed03f8c28259c3f7aa97e5f1401c29bd91415da77fc92d246d951cb66c3 blk 803139 txid 0
+Mined by AntPool960q
+
+tx a6edce7873f7ab475fdc1d5dfbaf69beef4774c76785973665e3f8dc03657a23 blk 803144 txid 0
+d/Foundry USA Pool #dropgold/,	
+
+tx ce972b8c26f43ec7f6c5d3743128d40fd02eacb0b6d8b0e915277213d48a6314 blk 803149 txid 0
+d/Foundry USA Pool #dropgold/4
+
+tx 2dbc20080ee9aa6747f7b25205824709bfa7ce40457172b6e2e72a7df3777e2f blk 803150 txid 0
+d/Foundry USA Pool #dropgold/
+X
+
+tx cb88a3f30039451aa2f03d69cc0977d05d03c9744408043c5f2f10e7fad539ea blk 803151 txid 0
+d/Foundry USA Pool #dropgold//
+
+tx a0d334735fdd981252131b49483fd47d7c200848c1f295a060bca110d205a50c blk 803154 txid 0
+d/Foundry USA Pool #dropgold/3
+
+tx 2738624d4f3d810d82d3fd73250383e3172f5cf93ce709a9021d0431fdc6f3e9 blk 803155 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 286f5892336b9d66934b7fac024d262229e95f49e11f841657ef77287b1b27e4 blk 803156 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 382e3623f7ce604675df81b07f1ad0e078f2292075e2490aac4b3461bfe51ff8 blk 803157 txid 0
+Mined by AntPool959A
+
+tx ae5c2f2fb273c7a6e984ef4d1d0d25204eb2abc857b835316e94ab0ec2f0c39e blk 803158 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx b8161b5f33a807926c6603f52389e76b41ce4ac7b9c28f4561d87b288573c766 blk 803163 txid 0
+d/Foundry USA Pool #dropgold/#I
+
+tx f9ce7331529bafe4591235409522a28310bfdcfe126f6147080ab747a26fd650 blk 803166 txid 0
+d/Foundry USA Pool #dropgold/'
+
+tx 366ae2168edf33da80e9fd108626f28b5400a3e3c77c6d91fc1e9fd0d9e0686f blk 803167 txid 0
+d/Foundry USA Pool #dropgold/?M
+
+tx 9f7d406538c2fdcb45b0c30a375cacf8522b34ecd0687a0a01c3b9d4cf201331 blk 803168 txid 0
+d/Foundry USA Pool #dropgold/"
+
+tx 1396451e06a8f84f423ae3fc1d7c488feb10617866832b581ff6bb132f56110e blk 803172 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 4b5fdef76b279cbc53c8d44fa2b89207ec227361cc49b9b615402dcc557a7fc0 blk 803174 txid 0
+d/Foundry USA Pool #dropgold/9Q
+
+tx f2de8e8beaba20be8b0eb3441ea4ceaa717c85bfcd12cabb895cceab424642df blk 803177 txid 0
+/ViaBTC/Mined by gmt30/,
+
+tx d16e5852ea6c37559288769ae25a02ce9cc681367936e6b12421768b21c7e1f0 blk 803178 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx cf8e67a037b7e72675755609031ee696e27f441dbd43194edf981d03efa47a84 blk 803179 txid 0
+/ViaBTC/Mined by 100krsk2/,
+
+tx d9692c7dcfdaced62d66762f29805c8340599ef04c9ae27ef78b51f48ae1483b blk 803181 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx fa7e191cc3b6555dec10221df4034c3bde2d064801650bb56ca73318794eeb12 blk 803182 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a86d780249d010d5bf9c81b8e2339b1902521697d91a0f88327debaf6c0f6051 blk 803183 txid 0
+/Powered by Luxor Tech/34
+
+tx dc3e4212230b98dbdacfe093e3d342789eeb0281b0cfbd635d7d069cf86f8fb8 blk 803185 txid 0
+d/Foundry USA Pool #dropgold/?H
+
+tx 6fc9a54ab14a60392282595c7d3b7347bae7f494ece2ceb53542fd59dec83130 blk 803186 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx 0109ccdaecc4b3603d3297acc9f67a0e98cc3c7fa5562bd61b94d201b62fa423 blk 803188 txid 0
+Mined by AntPool961q
+
+tx cfdcf6c29df1528cd097295e0f65772ed9f19b0c5c899b2e241663f6b7415491 blk 803190 txid 0
+Mined by AntPool907J
+
+tx 1260999dffaab672a1b8771724542adc68c27edc0a74b743415b09e13c682348 blk 803191 txid 0
+Mined by AntPool805J
+
+tx 03db021d065197f70764fa769d48dad38b1e40650c7e5f9fdca435cece4ded7a blk 803192 txid 0
+d/SBICrypto.com Pool/
+
+tx 24a2976c7cfb24bcacdecee32ea9e38eba9117dc733d1e6017714508e46f0c03 blk 803194 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx da6784181749ea8620c464941a781de657ca0aee4fb4772c793dcd94647a7e5a blk 803196 txid 0
+Mined by AntPool970A
+
+tx 8872fb6455adc70d6559c70c1c3ed5513c65b8f4ea755eabd995d34e3e808847 blk 803198 txid 0
+d/Foundry USA Pool #dropgold/-
+
+tx da9a28b8da1d7a9bb6da85e657dac68b01c01699ee89aac2573d3eb67042197c blk 803199 txid 0
+Mined by AntPool960q
+
+tx 4c1d2b6dba734f683ff521aeb920388064a937a10925af429d9b6eb6de22e333 blk 803200 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a9b8f2e43aa050a62d4ecd46fe2d028ac9e8eddf4c3cd5abfbd642d1b7829200 blk 803203 txid 0
+Mined by AntPool970A
+
+tx b1959ed93c763e32e29500025db2ac7615dfd104cfc676af3b0f52bc68a74f19 blk 803204 txid 0
+/ViaBTC/Mined by mw006/,
+
+tx 54df97d3e259d7817ab7f1b58f837e384085d29b76e82e461a6a0607542ebbd3 blk 803205 txid 0
+Mined by AntPool1023J
+
+tx 1da89dd77f6f4af18922392d5ded9b59dbbe969f71412bea363c37100e2c2442 blk 803206 txid 0
+/ViaBTC/Mined by vertongo600/,
+
+tx a35e6e6cf916f9bdf05906e67f0db59b0faa42f017811a11951e2f324dda9da3 blk 803208 txid 0
+Mined by AntPool843J
+
+tx 9494e6fdd59f381d14d4060e7608c925f6a5b1a177c153a422f878e8899e2373 blk 803211 txid 0
+d/Foundry USA Pool #dropgold/9W
+
+tx 7e393735ada5cb69a3916702ebb560afe1cd815be6b6bae8c83aae935627fcc0 blk 803215 txid 0
+/Powered by Luxor Tech/356
+
+tx 755b649b1b4fdf588454b441c52d0ae7a9ed368608c18191795318dfee97839a blk 803217 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx e328d53cd7d23c89a698a2eedc215e0dc1d1660db43569335d6d05f0b50bafca blk 803223 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f1ac4d599a0ee7b5bfaa6b7d6372122c62fdc13b010184233ac14c255f669e78 blk 803225 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 71b8f5eaa8514c13c3f9a3a3fa4b2b6432a4cd6fc06a03597d82ed01d254e9ca blk 803226 txid 0
+Mined by AntPool970A
+
+tx 4f179b3c3a3fd2c95cda9648b21fa3126d90e163693bbc3c82e34f80ddc210cb blk 803229 txid 0
+Mined by AntPool906J
+
+tx e1c0041a9c236453721e17de58ac29d0524a7f97b33915de2f14aca6a149d085 blk 803230 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx ce39d5e250ce1e3ca4e72dc4a94b293f0350ed7d90602a8e07a5adbc67a92bdd blk 803231 txid 0
+d/Foundry USA Pool #dropgold/DM
+
+tx ad9a28f20fd0e4d0b9c6e63f0a722d064f931bed49d44261343d886e8240b2dd blk 803232 txid 0
+d/Foundry USA Pool #dropgold/*
+0
+
+tx 243e756a0f15ea79427c01291e0e2c476987b6e20809cc29025a4318e324ed5d blk 803235 txid 0
+d/Foundry USA Pool #dropgold//
+
+tx 678405ce01cacc6ffdb46e810a1a7c66219e32cec2061a7baea964cea1993485 blk 803236 txid 0
+d/Foundry USA Pool #dropgold/6
+
+tx d67c7dac1cb31c05c309eae7adefbb5a21698d3184ab5f0ae0e631c34282d321 blk 803238 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 700996b35b9c261c0711ee39eaaaf6b51e140ef61c964f21af2efad85156dfd3 blk 803239 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx a61dbdfabaf92d3aa6547feda9058caaf154462938cbcc57cc98e219b9862ed2 blk 803240 txid 0
+d/Foundry USA Pool #dropgold/-
+
+tx dd11c6dfd8dfc7988d095df6a592af83d94d4114b7b2ec5de52dfc255fcd397e blk 803241 txid 0
+d/Foundry USA Pool #dropgold/I
+
+tx 3c761f402475befa1a531ccca36da348e16726d63e81a749841cd314ee50d71d blk 803242 txid 0
+d/Foundry USA Pool #dropgold/& H
+
+tx 9817edd6cfb850f4ab9bda5a9bede79298e34b811a5f70cbb0e47610fa93414a blk 803243 txid 0
+d/Foundry USA Pool #dropgold/B
+
+tx 1bad03b368dac4a13b413bd17dd71f7b903f48f2d78a4cfa757e2d5cc3c102bb blk 803244 txid 0
+d/Foundry USA Pool #dropgold/3t
+
+tx 45c2f1c3333474010a8eca25d214157cf61e48cc03ba6760d8dbc89d780a834a blk 803247 txid 0
+Mined by AntPool959A
+
+tx 59dac975e81ea53dbebf856c627c0c6b6e6aca5811b61a726418544b78beedae blk 803252 txid 0
+/Powered by Luxor Tech/33
+
+tx 6a677f398aac9b06821e7ffdd03422bde425ea6e20968207e6ef12ad723a91f1 blk 803255 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx 76f6e51b42d24a28503eadc133e06c178275a0b79db563c45bb21e1564cb0ff3 blk 803258 txid 0
+d/Foundry USA Pool #dropgold/(+
+
+tx efdcb396c5e1b0a118e1f4c5eff4b57e42267302c08776da5117db943f92f3dc blk 803261 txid 0
+d/Foundry USA Pool #dropgold/E
+
+tx 1a511d51eae876a2c899b47fd12a97cfc06538aed4bee89de1ffa2f9c2959c07 blk 803262 txid 0
+/ViaBTC/Mined by ake2000/,
+
+tx 9a55cc45301be18a9c7ae81077e623620aa4a4fb8440749ff919a48aa4f10813 blk 803265 txid 0
+d/Foundry USA Pool #dropgold/9
+
+tx bfab6626df58dc7869134d727fa1dca650715012c85405d06e892b222531c239 blk 803267 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx bd186e32cebd457da61ba519e6fdceb38ec73267114bb95911fa673963a8d875 blk 803268 txid 0
+/Powered by Luxor Tech/34
+
+tx c70bf911ec2d594f2f3e3725ee1ae6ddbd7d169d2dc33dead712e9c77964b6f4 blk 803270 txid 0
+d/Foundry USA Pool #dropgold/-
+
+tx a95152e42eccffe70c89e77d0be0a727764f534d2569bb8856700fc83752bbe3 blk 803275 txid 0
+d/Foundry USA Pool #dropgold/7
+
+tx 4affd9664c8885e7bd1a01eaa387666a3aaf8deba477f62cde8e904a8ca3fd05 blk 803276 txid 0
+d/Foundry USA Pool #dropgold/"
+
+tx 67db6ac2742bedee2f400cfbfca646cc6defa4b13229e3ce7d3ba78c73adf462 blk 803277 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx b3436aeae0956b3931dfec68c84dd1bf0d3eb9d5973cc2e32bb52093c1ff48fa blk 803278 txid 0
+d/SBICrypto.com Pool/
+
+tx cbee7b33567b78e8f4b12b68ca00878a86c8d1ec06031ce271d11d7ac3120c39 blk 803280 txid 0
+Mined by AntPool970A
+
+tx 439d5409e213869dc13ac136ef0a41109655c6a9a1480305f7cf4384ea9b93a6 blk 803281 txid 0
+d/Foundry USA Pool #dropgold/7
+
+tx becd6e9dff30ba35cd3f048b833f5844f98993d88aae2b649cdbd722cb045bd5 blk 803283 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx 536a74e334d46c8d69c0f6907f297d4057d46cb2b5a901700afb39c6a139b2fc blk 803284 txid 0
+d/Foundry USA Pool #dropgold/	
+
+tx 10e08422df4835206c0ae0ebe98cd6f60fa899fa4c9759e6d4cc7e03a2b0bb57 blk 803285 txid 0
+d/Foundry USA Pool #dropgold/I
+
+tx fa476ce621a5c444b4ef7f400cf98a191771d3f086953beb06b0e1df6ae2155e blk 803286 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 35d2a21741ef02cba12e499227691e6469b5b8e3c963ca41fb5d066594cf5733 blk 803287 txid 0
+/ViaBTC/Mined by petraykov/,
+
+tx b2df21d6a9cb284d710e09fcc120a44ca1350f0662fad52ed1160423a29c4420 blk 803288 txid 0
+Mined by AntPool970A
+
+tx db84565aeb5b7c0db6160fb5e8b563f43f3ed6f43015f3b1168d6481322fc1f2 blk 803289 txid 0
+d/Foundry USA Pool #dropgold/I)
+
+tx ec25081ce56383b034988010b8943d7e38b689e985bac69422bbd0311453df59 blk 803291 txid 0
+Mined by AntPool901q
+
+tx dcd79478f6aa9c96e8f57bff9a20941b5751759c1da3127a7f7e1b543db6f868 blk 803292 txid 0
+Mined by AntPool960q
+
+tx 72eb9c7ba2ec3555a07c7329dee3d3c6d5a47b2bbc7d1aca2a9516118f66e359 blk 803295 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 770818d533b5276d1d250443f31d69cc5744358817656d60850e275a0b2fe2a6 blk 803297 txid 0
+d/Foundry USA Pool #dropgold/B)
+
+tx de29b5d53eebff1d8f655deef8edf2ab5928199fa4e59368fb0f676909290648 blk 803298 txid 0
+/Powered by Luxor Tech/32
+
+tx d49efd72833365ad674ecb00cda93485b9de579e376be28bce84ba213cf79400 blk 803299 txid 0
+Mined by AntPool830J
+
+tx 087f50bb7f2a1440325b24709b0c6e17b95d7bfa209fe41f740a292e6c199528 blk 803303 txid 0
+Mined by AntPool961q
+
+tx dcf9b080ea9617578e5fa83e4934e8c1242676b7b3f0fb25a1c16777f9a035d7 blk 803305 txid 0
+d/Foundry USA Pool #dropgold/'`
+
+tx e904f9137c047bbaae46e975b83c342827d9cddb590bd671d290dd6338f70a93 blk 803307 txid 0
+Mined by AntPool901q
+
+tx 0d1445c16db59eb50b6308306d5a84cb11d10f4bef0ca7f1302456191ee3c4b3 blk 803308 txid 0
+d/Foundry USA Pool #dropgold/BM
+
+tx 943c3d0fd2a55564b14858681997d5efb26a295324e5e02c7acc620423f7ed48 blk 803309 txid 0
+/ViaBTC/Mined by wantplay/,
+
+tx 26df93b6ce606ad173502aa345e6a8483cbabe0e3f68e02b086f5904c8caae88 blk 803313 txid 0
+Mined by AntPool906J
+
+tx 8f4e6ce5c8d26f59d15cd081935e1b8339103c7849c6cdc87c79fd6c8b6e3336 blk 803314 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx a90f5da5f9846e97e8b1452dc678295062b610b97aba924f6dfcf5edacb76de6 blk 803319 txid 0
+d/Foundry USA Pool #dropgold/3
+
+tx daf3aa5747bffc687ce881ac4ed6a6689b1a8c1b316938df3edeb3d412913512 blk 803320 txid 0
+d/Foundry USA Pool #dropgold/4TT
+
+tx 1b52c34729d0400d2509a8e28df3abd1603ed5c092b86beb67d343f07e78fcd3 blk 803322 txid 0
+/ViaBTC/Mined by kzalgsave/,
+
+tx b2928954e59743d50b2e2b0aaf778ecaf9831ea797d881c3b1e4bb97ff27e650 blk 803324 txid 0
+/ViaBTC/Mined by mw001/,
+
+tx 7c204bb58166e4c8e1b5dc300c74173ad982ba08547613869aa1ce66e8c75590 blk 803325 txid 0
+/ViaBTC/Mined by aka77777/,
+
+tx fa9842fc1afdbad03b541efd2eb480614a3c1e858d1ad92d3dbdd454500300f0 blk 803326 txid 0
+d/Foundry USA Pool #dropgold/6	A+
+
+tx 0569ca35c4496575ed6a8538444c30f55550e394790a16f5ab61bc4b9aa4251d blk 803327 txid 0
+/ViaBTC/Mined by kzslsave/,
+
+tx 3d987f3438e9de8806449b107a2592becda68343f9badc2392677c9031666e40 blk 803328 txid 0
+Mined by AntPool805J
+
+tx 66b0e1eaa6f2bb6ee379cf85ea0e58dd18081ec56dfbd75f4a7632ed4abd0786 blk 803331 txid 0
+/ViaBTC/Mined by whatkript2/,
+
+tx 0382e34da92eaec023e7272d3e66d7aebd05e30741ea859c72321f0cf015cee6 blk 803334 txid 0
+d/Foundry USA Pool #dropgold/*
+
+tx 6e47ba2a0c319513e888fd46252766b58b346d482749c145e8eafee6cc699b8e blk 803337 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx b66c26263569b48fefb9344d124f2027e9dbca12197eb940e15fac5dc16c1d19 blk 803340 txid 0
+Mined by AntPool900q
+
+tx 3d9a0e419a2da87c79c29f6b3422cf1b881dafd27d3d5b5b5151799f37872ff0 blk 803342 txid 0
+d/Foundry USA Pool #dropgold/"
+
+tx a51680c41b744aedd9b87657fd5d4f98c505a8e3f5c18e2c17845ba527462073 blk 803343 txid 0
+d/Foundry USA Pool #dropgold/&!
+
+tx 6a9ea95349e54620686882628061f185431eecb24182222c5be2b25a3863c572 blk 803346 txid 0
+d/SBICrypto.com Pool/
+
+tx 47227178b4ad483b26771edde843fe677316172d9256f148b1266a43185b0508 blk 803347 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d48acb4f64aeae9032510e4b88ee471cbb9b559f134f61ebf91dc0efbc4c866d blk 803348 txid 0
+/Powered by Luxor Tech/32
+
+tx b8042b3ca32ee496198a975a6c40722d5316f03930123418a34b1ee4617dbec5 blk 803350 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx d1b4f72140c285a68b7ddb92cdaa7d4e9c6d2045f40ee4fd42653cbd56d54847 blk 803352 txid 0
+d/Foundry USA Pool #dropgold/>
+
+tx c9c66dcea29014a234664f9c53b7b8d97af813a5af5043544a4078b422fd69e1 blk 803353 txid 0
+d/SBICrypto.com Pool/
+
+tx ea86a3ac29063d436188e380bcc827cb86e8ca36e45d3ac0d1665d0534044703 blk 803354 txid 0
+Mined by AntPool907J
+
+tx f0f0487815822e60e127072a26322381684557017d87d95ad91abf284edbfd74 blk 803358 txid 0
+d/Foundry USA Pool #dropgold//x]%p
+
+tx 2d882d50c3dc32a587b87b18e19e0846ac041df13aa56171428ecbe8f4d27c24 blk 803361 txid 0
+d/Foundry USA Pool #dropgold/1
+
+tx 150c82415d1155cd6768724c5098d2ff60cf35b782cb95377f92fb75bfa546e3 blk 803364 txid 0
+d/Foundry USA Pool #dropgold/3
+
+tx 373ef2e0345cf15ec42621398ca871e5bd43e512cdd5f61a0f5b65b840af918a blk 803365 txid 0
+d/Foundry USA Pool #dropgold/?	
+
+tx 25814ddf2194a8f851a5300d2c8a82ce563c350f6d66d1192084ff9528bf7494 blk 803366 txid 0
+Mined by AntPool971A
+
+tx 4b32c033016e1c944d97debd3471a513d413c6beb528e0dfd4bb2010be889db6 blk 803369 txid 0
+d/Foundry USA Pool #dropgold/@g
+
+tx e4978f3a895c705507ba406067ff465cbec33ffd40c46ec7f171ef4b2cb6085d blk 803372 txid 0
+Mined by AntPool900q
+
+tx d1f84f80a82ef208bdd4ea8f8da7b381c320e81379c9f2f21c314f9e7fc3415c blk 803374 txid 0
+d/Foundry USA Pool #dropgold/E
+
+tx b1f795b53de10b87b85b32debfe721d1bdc86356a71b873a8af656ba11430eb9 blk 803377 txid 0
+d/Foundry USA Pool #dropgold/%Sp
+
+tx d44960c4c3d7ee18c1ada31405f76705e28e5c045972ea74d02d525da26a5394 blk 803378 txid 0
+Mined by AntPool961q
+
+tx f67c0f5672b1c12e33164242119e6bd51c5fb2fccd4a8100e2615cb6b4caf275 blk 803382 txid 0
+Mined by AntPool843J
+
+tx 06619e4fe0e7269de86a4ed8dc0c760a9dd30021f569e959d9851c51c5eddae0 blk 803393 txid 0
+d/Foundry USA Pool #dropgold/)zY
+
+tx 54c0aa83583287e6e2843092c1672377ecc6abd98ecab148d48a4f093a58904e blk 803394 txid 0
+d/Foundry USA Pool #dropgold/
+
+
+tx 51d1d6ea08d2866ae500a79c5a9975cfa5c79dff02e98f4004112e40d0e0f468 blk 803395 txid 0
+d/Foundry USA Pool #dropgold/3
+
+tx f2167aeeb12a74f043214b7f25984061a60e540e52d505a21bbabad40be2710f blk 803396 txid 0
+d/Foundry USA Pool #dropgold/&
+
+tx fce5b2ccd6372abff4d2376bd7f05a07c4d85740387c7ea3cd4a9b7942a4a4bb blk 803397 txid 0
+d/Foundry USA Pool #dropgold/4@a
+
+tx 01823d1e915df06d38d8d2cbbbf575decbc32ed883a56feb1957a452f65c2319 blk 803399 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx 9a6c96ebc362df4e35872a7171584a35eeebfa65502c7fdf50c249c08b858416 blk 803404 txid 0
+/ViaBTC/Mined by kzalgsave/,
+
+tx 0fbad106ca7d2c295aee94e97d03842abdcf7d575a5f8c0474acd8ff3cff9a84 blk 803406 txid 0
+d/Foundry USA Pool #dropgold/-@
+
+tx 4f60d481f2ddbbe0bfb55e3d80d5c6d8481bdfcf9b421612e2226d16d1940663 blk 803411 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx dfd30c31e160d57ef18a5826d06cdc03e20db378c52e4b19f02a7d16ec21da20 blk 803413 txid 0
+/Powered by Luxor Tech/33
+
+tx bfc714348f23b881234f3d66c382b98537a7ccc760475fd5c3717dd3a9ebf891 blk 803416 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx c13d9152340d4115f4ec8469cb4e458f23f124ad3569fb321ae136e4263bcd3d blk 803418 txid 0
+d/Foundry USA Pool #dropgold/	
+
+tx bf35b62727e2a35bd959eb58db86ab95640d1e76dfc36e61c54dab85d1299f59 blk 803421 txid 0
+d/Foundry USA Pool #dropgold/E
+
+tx 235b1d8c1ee1b641b33882152ada3d78a96bbbdf2cbfeddfcf1d3e8aee2b15da blk 803423 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 5a273ec3706c55105e70f992bf1bc0a35c82e713d122772bca1e5ee6a8f0435d blk 803425 txid 0
+/ViaBTC/Mined by robobmw/,
+
+tx c7c705250c7972e34e8cfe7ee45660eb522b097dee13bde128b3e0e6ee8e877e blk 803426 txid 0
+/Powered by Luxor Tech/33
+
+tx 91652d87cd7ea0926f62b4e4607ce2ba9ff881ea33212f8df04db7ba280ab934 blk 803427 txid 0
+d/SBICrypto.com Pool/
+
+tx a05f4f72f24c4e8e4ac8102a6de47878c8285f201bb668aa1f421da874f736c4 blk 803429 txid 0
+/Powered by Luxor Tech/33(
+
+tx 60d1ea25f3cfd841dd4ef527450112a10976707e0c8ee82394b3bfe4008b4088 blk 803430 txid 0
+d/Foundry USA Pool #dropgold/2b
+
+tx 665433b2b11fbb29b2ecf2ad4c696d819c40f9a8d101d25e4dedf24ba315eb63 blk 803431 txid 0
+d/Foundry USA Pool #dropgold/2
+
+tx cbfc221c6e211c5e04b175ff38827886ea76d600902613931f656de7bd758527 blk 803433 txid 0
+Mined by AntPool805J
+
+tx 2144871b5f3c8f787d7b951d8f70c8f7df854e24bc19ecafdd450f77f9f24f15 blk 803435 txid 0
+d/Foundry USA Pool #dropgold/%y
+
+tx e9ae85dddb177024fa6550cfa484ca3a8490631eacd27e3cd8b33646db058c66 blk 803436 txid 0
+Mined by AntPool961q
+
+tx 706722df11cc3d1a8405f0d1853d3e03bec0a7d9275e47cd19f2af8a749f7e9b blk 803438 txid 0
+/ViaBTC/Mined by 679015/,
+
+tx b73454b57f686b57d5bc2172949fe7a716a2e1c58c1189c23e6cea607fd93dae blk 803439 txid 0
+/Powered by Luxor Tech/36i
+
+tx 38bfea0e5e32d885bcef5d31ee2f3d4ae268948c6d988873b9771339b54e8a13 blk 803440 txid 0
+/ViaBTC/Mined by mw001/,
+
+tx c0cbc35614d06b77db8cba2b549b784299a4ad8d4b4068d105315dc36a03128a blk 803442 txid 0
+/ViaBTC/Mined by unp1/,
+
+tx d62b3c2d04e8eea97578dec78fb2cf82120c5db7daf5af4eb719eebc7b4c43ce blk 803444 txid 0
+Mined by AntPool970A
+
+tx cc1fa86a08f1da231fe9429de456cf953be91a59a636ec0ef4d65d133d207fd2 blk 803447 txid 0
+d/Foundry USA Pool #dropgold/$
+
+tx 7750af3cf92b76404e714d118f69a384bebc80d8491a17fae4f2c3523b1382bc blk 803448 txid 0
+Mined by AntPool901q
+
+tx 89a627269386a41f4810849000bb4a85d476caa4be62e82f69deeca8eda75549 blk 803449 txid 0
+d/Foundry USA Pool #dropgold/9
+
+tx 04f1b6c0cee44a8ba10cade754a36f405576120d33abd58b59b54af8109d7fc8 blk 803450 txid 0
+d/Foundry USA Pool #dropgold/	
+
+tx 5796bdac143456344a07a931e4e47bc155e9fe76c99ddd3049ee49e1cf65c641 blk 803451 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 4d6b31bee188574d39645591db7f946ee139562f302dcf2bc10cd651b75147b4 blk 803453 txid 0
+d/Foundry USA Pool #dropgold/
+
+
+tx a58df0cebac2a927da1467b15745476f4196d9fb64121a6e81135fe35d6c0788 blk 803455 txid 0
+d/Foundry USA Pool #dropgold/*wp
+
+tx 3d6d26acdb862ade509814bd0bbf6c497a4c46992591c1c6b22e1a494ccc857e blk 803458 txid 0
+d/Foundry USA Pool #dropgold/:]um
+
+tx c02d3931caf5c7773ba64ea3e8fabf54d023c8dcaa5c2a03766cab6b2033bf29 blk 803459 txid 0
+d/Foundry USA Pool #dropgold/4$
+
+tx 1346786e64325ab60992a860ccec457aaae55020039a3564d7a283eb19e9eed3 blk 803461 txid 0
+d/Foundry USA Pool #dropgold/"(
+
+tx 0e4a1014fe4939b11e2548e84f666dc7ceb906ad64a0ff188e5ab07ba44f74e0 blk 803463 txid 0
+/ViaBTC/Mined by gmt20/,
+
+tx d2916ae69ed7f3cd577a660a91d41811b26a84ffc7e7672120187272e5dab4fc blk 803465 txid 0
+d/Foundry USA Pool #dropgold/0
+
+tx 4fbed728e39253f3c0680e1d23c55abbbf6b744e9885344d9fdcf33cea77aab8 blk 803467 txid 0
+Mined by AntPool959A
+
+tx db3807f8b674cab98652ffca49c59eeaa6f7be2d034aee15de31f1965468ea51 blk 803470 txid 0
+d/SBICrypto.com Pool/
+
+tx 8aa9bfb0750a468ab8ee6a3ff0c7fd91e06694f4ac785c80605d643a4681b5b8 blk 803472 txid 0
+/ViaBTC/Mined by mw006/,
+
+tx 23a18da9369ea5c7ef967119abfd4c36bb00f503f9ca68a9e20ba08bdce1971b blk 803475 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d471ffd53361049eafc43e820e33db005b4876c7c1a756d12452b2e5f5c906a2 blk 803476 txid 0
+d/Foundry USA Pool #dropgold/!x
+
+tx 4652a6f892569530a4250576a16e056a8c590433087f87f9619f8f0f99c72d88 blk 803477 txid 0
+d/Foundry USA Pool #dropgold/A
+
+tx 0df0ae4d6c77884ef0d05eb12953634f369526c2d98966131ee31ebead439682 blk 803478 txid 0
+d/Foundry USA Pool #dropgold/1Bfc
+
+tx 583693de6b5b7665e82b2f332b3093335b9a7cc1daca555cd98e727f3c35c653 blk 803479 txid 0
+Mined by AntPool806J
+
+tx 5c0b3cf95ccf164aa4fac354250991dc14c26c8c4a5f758c4e742564eb909d75 blk 803480 txid 0
+/ViaBTC/Mined by ammine2/,
+
+tx 0cbc9fa97d714ab0e67ad32f9e0a39ad06c3d2ef0f3ee74d2c7f51eb5ddc621e blk 803481 txid 0
+d/Foundry USA Pool #dropgold/>p
+
+tx 2ec2b58fa638c082bb3c22ccbce362a66ea99eadfa80a4c02e5914ebc2944ec1 blk 803482 txid 0
+Mined by AntPool970A
+
+tx 4ac9bd6c02a5d09ee6054f410bddc67fa3ad7912dd3a208ba77a49badec72128 blk 803483 txid 0
+d/Foundry USA Pool #dropgold/
+
+
+tx 5c24bcceccd00f2ea7246099eaacc29dce9e31efbb41b3a5e3d3bcdc111030ef blk 803484 txid 0
+/ViaBTC/Mined by kzslsave/,
+
+tx 96532fa10778b778f1dc6ecbface6c42572449e5e9b0934223ba8717e9db3de1 blk 803486 txid 0
+d/Foundry USA Pool #dropgold/1
+
+tx e73e0f77af0364816157d81a5e9050a0ee4e01ffb0e69ee058b900fb3e49d237 blk 803489 txid 0
+d/Foundry USA Pool #dropgold/1
+
+tx 0359c82730d813e34ca3a670d2da82c16b92056aae35d837052f717d17952ffa blk 803491 txid 0
+d/Foundry USA Pool #dropgold/8
+
+tx fe87189d1cea24bceea08cbc9cf44915c72d8524c84869fc6ce3fea87eee6e39 blk 803492 txid 0
+/ViaBTC/Mined by mike09/,
+
+tx ef1ea9391f57998a081c8eec0fdeb0d116197b83c1a8c48c2bc9c95f4818e7f8 blk 803496 txid 0
+d/SBICrypto.com Pool/
+
+tx 137132a7fa7d75f731798fed4a6ac9e652d2ef0db2075d374a2ba8deaf95e17b blk 803498 txid 0
+Mined by AntPool971A
+
+tx 7828af1ca02fe9e83c389c1401b3dc058e044f26c18162f42c3781f54cd5f2c8 blk 803499 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx b2c35e3b61b203dcb834487ccae72b5eaee2eb493d94578f6a6e634593b20def blk 803500 txid 0
+/Powered by Luxor Tech/36
+
+tx e66c93e42cb8bdf6f99e66a789760ff9e9e9805d54c388eeaa3ec53b9edb773c blk 803502 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 4109b87c88b6c38cea5a383ec782900e604ec90ead1f0041ea5ed9822bd7611b blk 803504 txid 0
+/ViaBTC/Mined by wm32b/,
+
+tx 116840838cb6d924619bbc074d755279a562cb18c754090c325028e8739bcb7c blk 803505 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 27c4b24c3f75ec083f44364431f16b91c2535884cdfca4a67f5f5067fbb6e37a blk 803506 txid 0
+d/Foundry USA Pool #dropgold/&
+
+tx f06fb1f173c19b3b840944cfbe79469b3376a12c7f35c39ef440c98c3032d902 blk 803507 txid 0
+/ViaBTC/Mined by maaggaa/,
+
+tx 85fbe025ec275287afb72052de32cbbd30e15e1fdd2b67dceed75b512d4df022 blk 803508 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx da2e592468e3a88e863e0a78683e13bd700d8e390b7ba5dcfe8f7e3ae119be28 blk 803512 txid 0
+Mined by AntPool959A
+
+tx ac10976975657f50dafa2a75625c70cb744dffe0b24f6c235ad35c6380744711 blk 803513 txid 0
+/ViaBTC/Mined by otar72/,
+
+tx c80914ebe32416d39bfcceed6bd7e0870bc1667e163e97e41a198ee3083c5442 blk 803516 txid 0
+Mined by AntPool961q
+
+tx 0f47098f129efb4582b409a0745421bd5cca5b44816d10a47a84ff48bcb9316e blk 803517 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 6fd6c8b0a660d0ee4b133822db2766f4e699834367233a46c0e7c91823deaf4a blk 803519 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx 67ced2578845bef8b76fa28112a50302700de879e922e217666efd30b7209fc6 blk 803521 txid 0
+/ViaBTC/Mined by axmase/,
+
+tx 4518996a244dcb9b057e1f1e6379c9ebec552dac9983a549b682f0468a832703 blk 803522 txid 0
+Mined by AntPool805J
+
+tx 9850e8388e8421d310063d001007bc8c4fe9d9ed1f72f9d71dbc26bc9d54f8b5 blk 803523 txid 0
+Mined by AntPool900q
+
+tx f31f3b4397a1f9324c923f4fe678f54d32a5e4f3e047007dfe9eaf3ad3a72973 blk 803525 txid 0
+Mined by AntPool960q
+
+tx 010628d22c70af4ba7c53e109a52faa0dd4a6e446c13177ccd0261bf6bc244fd blk 803526 txid 0
+/Powered by Luxor Tech/36n`1
+
+tx ca6879aaa8ab2f71c4207f5f81419f103cdbcdf52b7838a5890ccf0f06919716 blk 803528 txid 0
+Mined by AntPool961q
+
+tx d2d94d3eb2088ef89dd5d53672290d09aee15f6ad07dc4f9f02f105a7de5ac53 blk 803529 txid 0
+d/Foundry USA Pool #dropgold/ 
+
+tx 9e9e28b7875795aded7a0508f82890d1089de1eddc588fa9aaad4fa09ef0bb68 blk 803532 txid 0
+d/Foundry USA Pool #dropgold/#
+
+tx 2f491f1f573d58af2d29228947de79c05dd8694241f8418fb9c083c2169329d8 blk 803533 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 9174bbe680c4fbd4a7d29d47649e42a20e97d3dcf71164f95733c39420a74abe blk 803535 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 89e680ae1e24cc8eb2d6ce3214f92b84e83f63db94f9faf2782ad9a37099cea7 blk 803536 txid 0
+d/Foundry USA Pool #dropgold/0
+
+tx e520606783fd7a18aad1cd0828641035a5e96aa15ea3e6bad1806af157e80052 blk 803537 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 99fb7457ab951cc6d7a7bcf5447d3eedecb9189034b48b270ce52a058d12ca04 blk 803539 txid 0
+d/Foundry USA Pool #dropgold/%
+
+tx 8456deb2d291a122d4cc6a1c11a5852a745115fd6bca4e28536b9e76e2d139fa blk 803540 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx ee78b29a2045d3b2dac8ba0482a28cb30f519bbec28d33d0229a6cb0ee7e11a6 blk 803543 txid 0
+Mined by AntPool906J
+
+tx d28ee21e52167f7f96a86317f63857e587616a1768872c0f6848d0e7ae4b893f blk 803544 txid 0
+/ViaBTC/Mined by kzslsave/,
+
+tx 2c1fec69143feb271066c7315a22710712303d36e8345d2287e4293280a554c7 blk 803546 txid 0
+d/Foundry USA Pool #dropgold/-
+
+tx 5d26124f3079075b8f7928eba6d37a7f5d9f9008cc21db9cb974e3b078cec555 blk 803550 txid 0
+/Powered by Luxor Tech/37F
+
+tx 71f90e560aa1a1488e9cbd3105706a50b39df9a977efc5926f7e88014915be3d blk 803551 txid 0
+d/Foundry USA Pool #dropgold/5 
+
+tx 3baa3a3d321b35650cf90fba3a4b1edbd7f6fe90a009e8ec4df9168f3a8c69cd blk 803552 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 0801f05c6c965ab7b08e31d128c4b6eb26688fa048d881497557563a18d08794 blk 803557 txid 0
+Mined by AntPool959A
+
+tx 4acb3e5afac5f8fb047a5969e32964ada0048b170a48af182b24dbc9de0c426f blk 803558 txid 0
+Mined by AntPool907J
+
+tx 6d74978888d7c68b6ffef596fac9c13311f81c78fec4379c898bedd1008129f2 blk 803559 txid 0
+Mined by AntPool805J
+
+tx e07e001a8cdc76bc25a9e16383833c6b3e5cdfd39b41df590a194a8e53971bff blk 803560 txid 0
+d/Foundry USA Pool #dropgold/0
+
+tx 5cee47c8c9eb35b15909e39a607fa7f56a9a630929459eba8f69b6d2b5a1b7c7 blk 803561 txid 0
+Mined by AntPool971A
+
+tx 2c0204cebc38b5aa81a412187a0c5cf0c7db77f6355b6c45e4f46eae06cc3c1a blk 803562 txid 0
+Mined by AntPool959A
+
+tx 6de6ae20b5d7b39608dfde8c4725cacd25b101422bd0bcf0d45e3cf9a559b106 blk 803563 txid 0
+/ViaBTC/Mined by sknkvs19/,
+
+tx 8db60e80533458593de29b33e192075ba7d1e13bbbe6f665a04a42a1556c1a41 blk 803564 txid 0
+d/Foundry USA Pool #dropgold/*
+
+tx afabb7f41c4a6cc9b202484196135d9679f3fd5a215632ff79fac74118b4495a blk 803566 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 3101599115f9ba83a4f8a11f4766419fed7f1dea3c9fea4a42f45c95481cce7a blk 803567 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx e706a0c4056ed56dc4b7d35fe34a6726d57ac6fb3916481b66bed9628bb42883 blk 803568 txid 0
+Mined by AntPool959A
+
+tx 1f1369506fa1ff0a776eb3d6b575f8d12642381b07c9c408ea9370d7036e0d62 blk 803569 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx e1579b31c0b65c0aca70e12a29ade0adc8cb1f0716714569faba104de791ebf8 blk 803570 txid 0
+Mined by AntPool906J
+
+tx ebd264e475e76d4ce5ce2d38c32b96216ec22e0e09daee7da1d4b9c423ca7f68 blk 803572 txid 0
+d/SBICrypto.com Pool/
+
+tx fd15e5e467ad56ba4497015aa1c66cccade50f9cf3fdc9c78f0afd83f1848258 blk 803573 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 67ec87a9d867150e3804d6066027421b3f2be92c1657d4d577f11b68e711ecac blk 803575 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx 7e52a704cd1af07edb56393d79c56409626865e4ac157710497f12eeda1aee79 blk 803577 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 3caa21b26d25a57747050deb30d4bcaea373a0fb9c9e257425b235c802bbc15e blk 803578 txid 0
+/ViaBTC/Mined by msk449/,
+
+tx 32a9a31d72e68db773de5921c7022a8a3c4548b0a0f1dc984d59511de42daa62 blk 803580 txid 0
+Mined by AntPool970A
+
+tx cb5dec75a89b5ebe25386deafd85303a744b63f158ddbce9dddfc21af34c4732 blk 803581 txid 0
+/ViaBTC/Mined by inteliondata2/,
+
+tx c38642ac28bc3d1366b02c2eb64c8f58fdba3a064b94ccd4c15155405f86a52d blk 803584 txid 0
+/ViaBTC/Mined by ehisod/,
+
+tx 875669ded3cfab61f10388764d0ad024af481b345fdd40911856744ca80ebead blk 803586 txid 0
+d/SBICrypto.com Pool/
+
+tx b919c3774b31bf87ae9c5506884b31330883ad18b0ef2f4b1e4a63665974edb0 blk 803587 txid 0
+d/Foundry USA Pool #dropgold/!"\
+
+tx ee340be50d009bc4364cb506600a0f6fbf661791146c31f03d5348971435beab blk 803591 txid 0
+Mined by AntPool959A
+
+tx a84cdc0e1f178970bc93eafdc15e1adb269154bc98eb5587e1bc7da1886a1840 blk 803592 txid 0
+Mined by AntPool959A
+
+tx 6bd49cca96031706fe381e40c95dcce48895f3d4b90793a617fcf90e86538751 blk 803595 txid 0
+/Powered by Luxor Tech/36%
+
+tx b39a44c8e78c91b6c997311c1029c1d178ead4012310bd5e1c8a0e9093942d38 blk 803598 txid 0
+d/Foundry USA Pool #dropgold/*
+
+tx 0a1ffce350b6d6b8a3f426a80817b1de6715ec85fa208a8124ac9c53524bc4cb blk 803599 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 4a3846d38295fa80831dd3ea1abb58e5a3c150300b76d3530bf0c2241b0a0a21 blk 803600 txid 0
+/ViaBTC/Mined by serbtc1/,
+
+tx 1e4f0511027cbdd0afd6d9b68cdbf3bab3ac4ac941b09330b14f56bb45974698 blk 803601 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx aa9592ddf8ca2e0b68bd9970ecb94245d51d1effc61c60a58ff4376023fae65f blk 803603 txid 0
+d/SBICrypto.com Pool/
+
+tx 9f02cf968759b99200623778e3f0c2c034e2da6d7a01e0fc1c2959730437754e blk 803604 txid 0
+d/Foundry USA Pool #dropgold/3<
+
+tx 8ff24e7ee0465483c08e754ef7c2dca4022ac5c35f8473d6c3b898e63bad5142 blk 803605 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 9262340a4310a2ff77071abf2dac0ebe782b159353118cc1ba3638ab1b59345f blk 803613 txid 0
+/Powered by Luxor Tech/36
+
+tx 9df6cce58532aaac127a0c0f9ce61f740893875b26e31144fa3c562d338e50c6 blk 803614 txid 0
+d/Foundry USA Pool #dropgold/#
+
+tx 1ce9e2aa09f9d9408b0062238a01138984ac5170efc693aec2b29f481f837f51 blk 803616 txid 0
+d/Foundry USA Pool #dropgold/!$q
+
+tx f9e90c1122fe3ac661e4b878ee6fb05e8238286886d054c2a2740456e11b370e blk 803617 txid 0
+Mined by AntPool843J
+
+tx f9c991010ddb20ab1056987760090602eb7869e14120a586366c436b5d90f020 blk 803618 txid 0
+d/Foundry USA Pool #dropgold/*L
+
+tx 4ef75bfd3ef3df4d3439de969b1482671651ae72dbe1ec6b87eca84cd021ec5c blk 803621 txid 0
+d/Foundry USA Pool #dropgold/"C
+
+tx 18b5c7a430f109a5aa93fc3226374e69b721fbd352d9ebf522a54c964db871f2 blk 803622 txid 0
+Mined by AntPool970A
+
+tx 5288b82fbc8afac8cc678b9cf2045f5752e475e2e422af538ab0a02b6f316085 blk 803623 txid 0
+/Powered by Luxor Tech/32
+
+tx d7c9944b82f9d7dd73cbc032acaae9646551c0853100a83756af8bcc2dd2a7cc blk 803624 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx b5d442d3fac9c8aed15c3212f40c76787f1dfdedc03bc722e83799d4814ac75a blk 803625 txid 0
+d/Foundry USA Pool #dropgold/'4
+
+tx 599b1866a1bbc0129ce65277f29bbaa0242aabfab153923c39d4a2a221d6f5a7 blk 803627 txid 0
+Mined by AntPool907J
+
+tx 59472384ac5fd955362c4901ef357a7b28d5ec37ca9b6e8d2701de809aeb6930 blk 803628 txid 0
+/ViaBTC/Mined by kaiwei96/,
+
+tx f0a81db22569794d37b604bb0fb2f066329f5f233bfd0005fa0856f83b5931be blk 803630 txid 0
+Mined by AntPool971A
+
+tx d7f7bee680cb9398fbe95d446f42e5bbbf14dc9c81378c659000a0ccab588800 blk 803631 txid 0
+/Powered by Luxor Tech/35
+
+tx 1431c9dfbb008fd0b77f340369dd38a019ff43a32ff8df6f5c679f4a838b6b72 blk 803632 txid 0
+/Powered by Luxor Tech/32
+
+tx ec5ad4c148d36299730b83453e7ddb416fc5b0eb2b4f60e0defa6750cde46b23 blk 803635 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 0afe9d9f87d18b7fec4875a2d05acbbe3aacd58671489ee1406fc39b7ef1f70c blk 803637 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f1f04e76e3ecca73ce37919159be283f21335cd5e9198d52050ddefe986e06f1 blk 803638 txid 0
+d/Foundry USA Pool #dropgold/1
+
+tx fc2687fe8c3cee9b67248b5606f5f1bfcf3893132bac643b737cd8988dfbbe0a blk 803642 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 943864f8a98d23fda88fb04ae11169bc96d51f2f248c42d6a366a8d934dfecd9 blk 803643 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 7bdd08ca1a747a04e154934db2aa6a7a42838ebe8666f8291aca2f6385b89edd blk 803644 txid 0
+d/Foundry USA Pool #dropgold/.Vc
+
+tx e01840dce597c0a81afc229b42b63134627f2390feb75170022f06c64fd821c9 blk 803645 txid 0
+/Powered by Luxor Tech/37n
+
+tx 31d55a7d4e3cfe802f5b655c613c511c2000e14bbbbf626fa13f6acdcf507bbb blk 803646 txid 0
+Mined by AntPool961q
+
+tx 88c169d8f907e27a1034f05b16f93eb915c9aff00c8dad101a928b0b87acd539 blk 803649 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 823b26c3633a8b0556e95295ede88a21ce7867c6fc375026a3ab88dda7cbe170 blk 803650 txid 0
+Mined by AntPool906J
+
+tx 7bda33caf7cdc665b213104a1c93cb53083c4f83b1a888ef39f4c964668bef12 blk 803651 txid 0
+d/Foundry USA Pool #dropgold/#
+
+tx 33a0775d5fdc04c57057f576c62038c6f0f6ff5336c57d6febd08c4874967160 blk 803652 txid 0
+d/Foundry USA Pool #dropgold/#
+
+tx a4f2e09601f2cdcec392e7e7decf1d5cecfa439a9b2efe3e7ba0066ce12dbe9a blk 803653 txid 0
+d/Foundry USA Pool #dropgold/'
+
+tx 6782164dcfa09d420dcb5082b04dda4858633a51d0ab23082ec3a50f8d5b754c blk 803654 txid 0
+d/Foundry USA Pool #dropgold/0
+
+tx 414999d8a93c351a9fb96aa5b17f3818d82212a1c456e97290cf7eef11f9b0ff blk 803656 txid 0
+d/Foundry USA Pool #dropgold/);
+
+tx 07b55323168caeb1eb1d10d49f60fb8beec39ea9432845e273b91c7f3afc21eb blk 803657 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f38f239d6376a302e6752a6ba7fa92762b63a4f75144c0819bf0c201dab0e767 blk 803660 txid 0
+/ViaBTC/Mined by qwesdf/,
+
+tx 41039c9f3b75d3fe59e79d22b606803329170cbf2fe05d13d2de36a2a172b319 blk 803661 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f40cd178213509e48c09a5765d19b998167259bde1769a2e6e90215a8db74b55 blk 803662 txid 0
+Mined by AntPool960q
+
+tx 791c922bfc1c12e253164e1f3faefbb8014f413454af49815a685bb8e2d8974d blk 803664 txid 0
+d/Foundry USA Pool #dropgold/,!
+
+tx 43f15760eacd4910111a662130592b78b01387300c298481a33d73071bce3a53 blk 803670 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 6be7e8b390750c3b5aeb73adb8861b572cebc461d0a4897842e5cc852090b38d blk 803671 txid 0
+Mined by AntPool970A
+
+tx 4b73aa01bca8b4de6ac68285dde7b6e264fb00c16b5c5a0105ab1e3b0433819e blk 803672 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 46c7a4848e66e7c774e73c0056d79581a1fbab1268956b940b036c16b904f38a blk 803673 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 846b301ec5bcedfdfd718ff9f8183455a7fa5f99eef28f68731934a8f7e15b15 blk 803674 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx e302546ced91a208404b1309e60d0b2830340f8108f3b263ef85adf9de8801e7 blk 803677 txid 0
+/ViaBTC/Mined by kh1357/,
+
+tx 4d4eaab44f620f9d9797713166d9c41e70950682cf8fb588cdda7d4ec1326e9f blk 803680 txid 0
+d/Foundry USA Pool #dropgold/ 
+
+tx 9a6ee5a913e159050669aeef578fbc208a8586cce80f7f28f2bac933c8a31329 blk 803681 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx ab53aa6300d96ccc84a5acbe4a1cf1a735ef20d4ba907a2e4842beea1a145510 blk 803682 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx 4c372ec177edb4360d27c9baf752e9925317cc6eb0ca59a8b8fe906aeb291227 blk 803683 txid 0
+/Powered by Luxor Tech/37
+
+tx 2e259a03edeead702b0020da7111dd8dc30e2977961f0acc1ab14029b28bef03 blk 803685 txid 0
+Mined by AntPool906J
+
+tx 7ce4c2032ce6a103e864734468444858ae2206f0798ad48c15eaa4c839dba6dd blk 803686 txid 0
+Mined by AntPool959A
+
+tx 74722c60031891b2e002846b6d19957c4a5859685747603183d2f90d119ce769 blk 803692 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d5595c7e50d0fcff5a7014d252bbf900127381cf3e7b491c1ecd319934999a58 blk 803693 txid 0
+Mined by AntPool961q
+
+tx a2cde2d9504dada105a46f8d859c149d9e71bf1482dbca866ad132a23bea91c2 blk 803696 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx c9b014e631751e4e7750eca1134c294e37e0052adcb7d0e87e40a9e47229e5c0 blk 803698 txid 0
+Mined by AntPool906J
+
+tx 9fd75d2976c7e11c6dcadd706edaddb668fb5eebc89134435c39815a6c053420 blk 803700 txid 0
+/Powered by Luxor Tech/34
+
+tx c3b163fab9edf01a5e26ab2c2ec79388241f55c9c3ad0e18a15f9585a2597e74 blk 803702 txid 0
+Mined by AntPool906J
+
+tx 581df7a99327d2c9af203f1cb752e5eda3e352cfd558d6a1d9774f8f5b8e67d3 blk 803705 txid 0
+/Powered by Luxor Tech/37>W+
+
+tx f66d8c9207004cae92eda50082ad37cb40d34a2d47f919b472cb27f41317d23a blk 803706 txid 0
+d/Foundry USA Pool #dropgold/6
+
+tx dda8d040296c16248b19d94ee779e9a2b0d7a65061f881c75206eae20b4e04a6 blk 803707 txid 0
+d/Foundry USA Pool #dropgold/)
+
+tx f647c4e9f22f679bf13ea336b2c9e22003f19d48e1f582de1346d089dd175a89 blk 803709 txid 0
+d/Foundry USA Pool #dropgold/*,+.
+
+tx f403349cd7f97ef63c6c88825aa70564fcd5d80f2fdda3e98d781877e703cd7c blk 803710 txid 0
+Mined by AntPool970A
+
+tx 6abc1aba051f2d01f340f32ccbcaf8f6a5b92bfa0b9b09c0074430effd50521e blk 803711 txid 0
+Mined by AntPool960q
+
+tx 1c523989a652aeaaa1038fab54266ad14840778ff05b58df043730dc10f8f136 blk 803712 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 3aeb6cac43708ba37d330c8724140bea46b4bb465c3646e463845ea9fc29544a blk 803716 txid 0
+d/Foundry USA Pool #dropgold/4
+
+tx 5f4685f88e8b41fc85574e0f4e444c8fd8a9c1036c98f43088deb9b45cc3286b blk 803717 txid 0
+/ViaBTC/Mined by jglmining/,
+
+tx b668e458bf5cbf212901facc367ecc0d6677a479d0a90777b0e3c5cd2e02c3fc blk 803718 txid 0
+/Powered by Luxor Tech/33
+
+tx d2fb28baf407ac74a4cffa773873bdc67f560e3f5384a14816752e0caacd5752 blk 803719 txid 0
+/Powered by Luxor Tech/37
+
+tx fcd3caa3f4cf80b2079db43af4976601127dba121e2514ca63eac15ea899dac8 blk 803720 txid 0
+/ViaBTC/Mined by ox27bp/,
+
+tx 096e61c3f1c22215a358dd942d9b67a239df478363af351231ce757cc393dd91 blk 803721 txid 0
+d/Foundry USA Pool #dropgold//
+
+tx 5f13ede6eb6bb62d0848a81c44ca115ee5c8c62bdf355b1c86cf1e94e399b11a blk 803723 txid 0
+Mined by AntPool900q
+
+tx c0d47dcc9fc352cbdb756ebc9210ee5234d19f8694e744f08673f1de57fe6283 blk 803725 txid 0
+/ViaBTC/Mined by kuan225/,
+
+tx caadd95bdb9b1a909b66e71b758356ee265678288614c14f075f03f116d3444b blk 803726 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx b46ad5b9f25cdf05bafb162532d1d396f939bfd941bc331c6f859822e93b12df blk 803727 txid 0
+Mined by AntPool971A
+
+tx 29876638aea023f99f8a34b3d83f7a244f1a997b8749c23697cf1c0546ab3f6d blk 803732 txid 0
+d/Foundry USA Pool #dropgold/"
+
+tx e53f41660b1a3a253283fb6c3cb617af3f7c4e68708c996353add2b09bb49c64 blk 803737 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 6ccf32b711bd69af9b8b01e742b1659a3dba5ac02bb1ea1039eea11c877301c4 blk 803739 txid 0
+/ViaBTC/Mined by papa888/,
+
+tx 159be0f4da83918d45b09ba2be8e5bd9223257dfa6e0d26c57cb1fd8273b56fc blk 803740 txid 0
+Mined by AntPool806J
+
+tx 45f2ca08126c15006a2c9c269ccd45c3a210ea5fcac0e667e0c2a31e7e68c92a blk 803741 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d862e072a4ba8df136d327d0f6a7a239e5f7ee72d36f2440df5c2b38fbfa4482 blk 803742 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 15e579635a47e017e491e505193a691ed179c70a7ec44fa8d45843a8c649f91a blk 803743 txid 0
+d/Foundry USA Pool #dropgold/3
+
+tx 6ae7510bedb5d1c12f6edb037aadeb3c5783d7b00d3fd56ca689e90772537083 blk 803744 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx c60e17213f774b8edb27c883542cb19ff7a01f57f89a2a397eadb841d1c07d56 blk 803745 txid 0
+Mined by AntPool960q
+
+tx 7dcd39f37cec7b8b3304fc4c0e76f52adbd73baf04e052d30e1e672d7004d2b3 blk 803747 txid 0
+Mined by AntPool805J
+
+tx 2bf08311e41e8c9c5e7bbf67a4d5120879d1a3b4bf5865cb7da55eeb09e5913a blk 803750 txid 0
+d/Foundry USA Pool #dropgold/ "
+
+tx 0929e0a1eb228b489216b150ff9fdf44e9b202a9160ab9e96c51ae7cb9f25b26 blk 803752 txid 0
+/ViaBTC/Mined by junebug/,
+
+tx a73bcd72cc3608a7c47ff5f92ed1b7af764c975954b5e2ce39eca6068c8852ff blk 803753 txid 0
+d/Foundry USA Pool #dropgold/6
+
+tx 3f28c7eb460b31d202101990ccae8edec50b8e590490ccead5a68d15447f9dcb blk 803756 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 29083ce4786e68fbcfe398d2c44a2eff1eeb4400b28fb835f88b5a07fc8de2a2 blk 803758 txid 0
+Mined by AntPool959A
+
+tx 4d9fdd88e7b76c2c4d89d83ae69c4526e91165cf2f1db48084a479038c951c92 blk 803760 txid 0
+Mined by AntPool971A
+
+tx f9767ca31487488b098b36f5e0f7fd226d2bc344c41516bead95519c76f930ad blk 803761 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 273c05c9b94a46baa0792f4e5054e55921bce8f92349c80abd611806528faa7a blk 803762 txid 0
+/ViaBTC/Mined by sibkrsk/,
+
+tx 74f81a9772bf24972421d0ff9df654f2a27d24d73ffa0602f37299ede0a28c30 blk 803766 txid 0
+Mined by AntPool961q
+
+tx 68e8ca0f5bfdd92250f9f6562c11f3c53dce189f963ee7d24c94f9fdad827357 blk 803767 txid 0
+/Powered by Luxor Tech/33
+
+tx 0365d537408b413f0dc89963f91e612acf2e6db5578d5ad097f185b243b5e547 blk 803768 txid 0
+/Powered by Luxor Tech/33
+
+tx 6d57c116453ee7f62aec62e23e230ca09d21e42fc39b58ec0386cbaa9a7bb6b9 blk 803769 txid 0
+Mined by AntPool907J
+
+tx f5518fbcf0a0fb564f7095cf043f751b849e6a54478525204e15d1d03b9a6f26 blk 803770 txid 0
+Mined by AntPool959A
+
+tx d24e0d954c25105d5be14d6099fbb9e0d26658238ccfd9301b7cf995d5576d4b blk 803773 txid 0
+Mined by AntPool900q
+
+tx cbffe232951b7a1868f067dbc66159c9b2430f8190304e4452bd972d1bf7506e blk 803774 txid 0
+Mined by AntPool900q
+
+tx 12b525292620870ff54ae0d148012d742bf3345457d9665460e401a86501652e blk 803775 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 65d9690d240b9e632db450409b126a65b200d7a832a79ac8aab971cc320674ed blk 803776 txid 0
+Mined by AntPool961q
+
+tx 145d03600254804fb42a63cf4234d8073d2fe857387e21422bc92fa4e485cbe0 blk 803780 txid 0
+d/Foundry USA Pool #dropgold/&
+
+tx d3c5b78ed02606d42faabc25ac6f8018f86324714f1af38eb8022ecc738f81b3 blk 803781 txid 0
+Mined by AntPool1023J
+
+tx fdf047fd798c4300fa94c789b551d59c1f4d4d173479ba7cc006b968a1a01419 blk 803783 txid 0
+/ViaBTC/Mined by nehr0m/,
+
+tx 2b7f9399e47de8d4282241ab2a30353e32676dd5a698bb11dff94f25eccd87ce blk 803784 txid 0
+/ViaBTC/Mined by nfil1981/,
+
+tx 15f4ad9b90319107e7b1df03b8625075d4583123d6f4b8eaa641e392005ddfb7 blk 803786 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 14ecf940c09b8560f21afbe854327ef1f8e6beeb71d916c199be064b5fdc9160 blk 803789 txid 0
+d/Foundry USA Pool #dropgold//I
+
+tx 45c13e8ca8228091c8c7cf88d7f6961b4ea5e61bf2260fec3be6c7af07bf9731 blk 803790 txid 0
+/ViaBTC/Mined by vvp1/,
+
+tx a0a7239df4ef263872d8f25b8d04fddc17a76906d87fd9ee5c8986293233480d blk 803791 txid 0
+d/Foundry USA Pool #dropgold/ 
+
+tx 254e0e4df091776397c045037dd5f08b9d4c830e1d153d2c36ba7d2984f4a30d blk 803792 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx 51f1af44bd689377932dd93206966689f37b86287c3b22b3e45ea7936e8da569 blk 803793 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a420d25b16c59ffdb50c2aa6fc9ac6b036d6be6ae95d1ac1807a2a580b9f5443 blk 803801 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx 9e41e01e1e94c0ac323e4c8e94e04e0e6ab9982790fddad1287b412f8a104918 blk 803802 txid 0
+d/Foundry USA Pool #dropgold/,c
+
+tx 6a5e37703cd22ae97878f8a71aed1923b46417937c2bb2392e55f73f8f9d602d blk 803804 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx ab2645850e877a68f43ca68daded64fd4e9cef8ea0c866606ed1ef1f25ad4b87 blk 803807 txid 0
+d/Foundry USA Pool #dropgold/)
+
+tx d5f51e0e1abf7bd890b1ba583dd9097de997360e635e3bb1e2740e783c7ff584 blk 803810 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx ad02655eff96c4bdf02884202402ba408b68a0bd3d8a754c20889796bff3029f blk 803811 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 5a61cae4bef6546b6d0493e5b76dadce6c44b2ec1a82396a76201f4e9be15e93 blk 803812 txid 0
+d/Foundry USA Pool #dropgold/'
+
+tx 60d8091eafb8f84b30aafbc13bf62af90945592ec91eee4b7935a363d9670908 blk 803813 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx becb01e8101deaefe3deb6df0a16cf12f118386c1471c21be00a2f10900e05e2 blk 803814 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx f0569094152b479020e62a0e49c420d32628655e9b93bfccd3f7e65c6aa5cfc4 blk 803815 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx af783fc0f2817983cda01ce8e7115074994b76b27e8ebbcd8f0c504dc77101b3 blk 803817 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx c838dfd123452f52cb73662eb8fa95bfb57c808905b2a9371834c829aa1e6f8b blk 803819 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx 4f1d01db2f02af0b1258b8f7e194bd30a22adf4aa49b1699be5980fe5d55ceff blk 803825 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 603f03a7db3eb5dba2aa3cd1e2d871c2e9511a5c5355e163af8cbb06686b6178 blk 803827 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 153d2856060e387597f1903e7534aeda140f5b1d3b252fd04abb975d911ea3ee blk 803828 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d04374c01a298b8f31e573f293cb2f531366abb2e2878e364f6888c3c0684102 blk 803830 txid 1328
+O'\?5360r))hrg,3w:^
+
+tx 802ed71f794ef8cb98ac3d40b09a2047b5d297b557ae3d20e1fa620ca7d69c7d blk 803833 txid 0
+d/Foundry USA Pool #dropgold/4
+
+tx 2ab4e67ed47aab5ab54b7b2489c59ffdc10f8c26a8319810f682881a45da7bf0 blk 803834 txid 0
+/ViaBTC/Mined by pushbtc/,
+
+tx 250a25257572838f11f91443a740163b5a1793960c782d491ea60b7daa4aadce blk 803836 txid 0
+/ViaBTC/Mined by bmf5/,
+
+tx d477a4f907b4c268e814ce64f53de1cf49915932902996cf1117d528e7592746 blk 803838 txid 0
+/ViaBTC/Mined by dvslava/,
+
+tx 87c19fa3022d82b3b3e59e51bfbb80c473400c86de9fb95a9461ba8cbca7c609 blk 803839 txid 0
+d/Foundry USA Pool #dropgold/ @
+
+tx e62456540bf479180fb94b33e893ed1a29a9dee19d22b1961e598e2cbbed4f86 blk 803840 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 8bd78ab2327613285bf8eb2c70fa4e4eb391bf7bc99399434de0f3687e833695 blk 803841 txid 0
+/ViaBTC/Mined by vv500100vv/,
+
+tx d09a4d4c585caea2fe63b3194598f0894ce482e0b1bdd7ea97bcde37c642b525 blk 803842 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 5d4817c0bb20237411f9dc06365608f9c62daeb4fe857adbbd37c2a42c51a30d blk 803845 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx c5fb626f07a6c6360ba351a85039fff86632f99bcb33b84897b1225d1ac7a902 blk 803846 txid 0
+/Powered by Luxor Tech/35
+
+tx 453617b6efcddb30892036d1a7c7d6a7866b430939d54ef3a2ac898989881719 blk 803847 txid 0
+d/Foundry USA Pool #dropgold/ sH
+
+tx 02a4be53249009c7be6d70b71360e41d039cab76ec8c8b2515a0c95c3818dfbc blk 803848 txid 0
+d/Foundry USA Pool #dropgold/*
+
+tx 5db18984384058cb40158e2f1a60102c3a881d14b2e01601f219a3a634e984c6 blk 803849 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a9e356bac4de6350e50e3989d60f6dbf8adc9d1c70e6ac1dc1f9dc5bfa7c139c blk 803851 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx eded7ef7fd6206df5a9589781fa5879588ac6140a99f43ae3bfe175338e3184b blk 803852 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 872dfb700827125145f76625ac86e93b0726fcc3e4f710e103e95a1799ca2b45 blk 803855 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx 93f6f55cff36734d67cc13d7711bd2b04372629868a2a79999aa4f51d67a1492 blk 803862 txid 0
+d/Foundry USA Pool #dropgold/5
+
+tx f62552a25fe6487d6d1e7ae2aff1943a8b808a29c1b01681dd0de1db268e23d5 blk 803864 txid 0
+d/Foundry USA Pool #dropgold/#
+
+tx f134b2e3f6cd87a2bd80f9ace80cac173e2c51c49473eae203919818b9361ea0 blk 803865 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx 50bffd8d5a419193683f4a65af34e3c0c0f59a820e77ec9e542e3242c8099db0 blk 803867 txid 0
+/ViaBTC/Mined by stive/,
+
+tx 4a64fcdf67436ba4b7d400ba4fb6ff2d755b5929545f72717312ad83ad395077 blk 803868 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 2f9b1b58048de0f96a45a0ebe6414896c41f40a5cad09b5d173f4bc5d327537b blk 803869 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx db5bcb89baba281f92bf6a393a2ebbcab61f7bd77bf314647bfa87685781562e blk 803870 txid 0
+Mined by AntPool960q
+
+tx 21f553ce4093f128ed7742540c1d6ce5e50bfac0cdb01d33bf91a2568c139849 blk 803871 txid 0
+/Powered by Luxor Tech/37
+
+tx ea4b1ed9957451a85c41d19511ca62ba530cd44209df7f77cd53a6f9f377323a blk 803872 txid 0
+d/Foundry USA Pool #dropgold/%
+
+tx 2b763b19b8c5929f5d2c4a43d5b48914571289244fb383f9c1f5c015f858c763 blk 803875 txid 0
+Mined by AntPool907J
+
+tx 63df35f0c519834206dc199cbd097f007c8a0925785fc1e90cbcdd515334d30c blk 803879 txid 0
+d/Foundry USA Pool #dropgold/(
+
+tx 35e54370a6c0650efbff1920b96bbeb0b6642c4830a3f906dade1b4a4f7329e5 blk 803881 txid 0
+d/Foundry USA Pool #dropgold/,
+
+tx 22ada55be262cc3a89ab37705a51e8b5f8a996dfa8f7afc16b292098be57a3a7 blk 803882 txid 0
+/ViaBTC/Mined by boris888/,
+
+tx 506d9b2ae7b877c90bea457b895a47f9465625a163cfa5a9071c5749a0bef2c2 blk 803885 txid 0
+d/Foundry USA Pool #dropgold//
+
+tx feed3bfc48f8060cc2d2f13bc68e137e01db45be2d9723cd20715e44e5317a20 blk 803886 txid 0
+Mined by AntPool829J
+
+tx f7b0e926a68a674fe2e009bbe100eb1f1095163d6893b82ac91b4704c6a1eec0 blk 803887 txid 0
+Mined by AntPool907J
+
+tx 037f04191f755c6e12b1b2deaee6e5ee91b4fa7a25ba495d5fd03fa14410ed90 blk 803889 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 2032bc3a12fedab438a4fa2b1fca5d1786c477e8d46d1755d456050b1c571896 blk 803895 txid 0
+d/Foundry USA Pool #dropgold/+$uC
+
+tx b00e0990bd718ff48b8ca2199d46964dfb17c20ae50a909d7c9f92e4302df34a blk 803898 txid 0
+Mined by AntPool959A
+
+tx 6901d0c836ce44d5086d1c4d83ab580c764568fd7cbcf36aecb84d80fc9efbc5 blk 803901 txid 0
+Mined by AntPool806J
+
+tx 56f7aafc1929f9bcc110a65f96585c373b26dcbf426f8c48ef0810e8baed31b9 blk 803903 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 79f491e31f98c792d5335725b1558ebb28dd11a318798b5261ea2e7d4734ac95 blk 803904 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx 30528af87e9bf879a5a158da6fd9978840f0143e1e8848d3f34f3e0d4d4bd378 blk 803906 txid 0
+/ViaBTC/Mined by bog2gis/,
+
+tx 53ab53ca483514681db7fd773d29610778a557868c8df07a9b42009c7819c7d2 blk 803907 txid 0
+d/Foundry USA Pool #dropgold/+
+
+tx 7b5975e9ea2cdf1489fa43ded0cf4caa417023ba7ff942ec2ab0b7d91464a573 blk 803908 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 131e398416929398c29b9c82fc8496baa9f5447ed729d33c53dda9e1ad8c754d blk 803909 txid 0
+Mined by AntPool830J
+
+tx 9c6998e119ac9fec3141704436b3a8b84aad19479d246f5e307d28c8e21c22b5 blk 803911 txid 0
+d/Foundry USA Pool #dropgold/
+.
+
+tx d024adb12014f07c10f00c8d13c359c5287ddbb2d960dd9f0e2b311974f98c08 blk 803912 txid 0
+d/Foundry USA Pool #dropgold/2
+
+tx ae357d9b9ef52a621028a2b1cdf7cd60b6c2bc185ce0cd6365f819c76f52c8cc blk 803913 txid 0
+Mined by AntPool970A
+
+tx e2624c18795be6e058581a85fb69533e448a5cdd942baa8ebaa2a59a3e759857 blk 803918 txid 0
+Mined by AntPool961q
+
+tx 324a2eba09c227b1687fb8e54a461ee937e7f8edafd7ea38410e3137aafbc34d blk 803919 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx d2345b23e7a7f1876c5c32254c9d1dd2df724412dc170f7b9121ea4dc81f5319 blk 803920 txid 0
+/ViaBTC/Mined by zvezda6450/,
+
+tx c27dc301811c24f2a62f22a1118bce4a94157b19df5dac85ba41066e9cc63182 blk 803921 txid 0
+Mined by AntPool901q
+
+tx d87965cd29e51c7c1fbffdcd3edb4e04f5c6e018e18c687623065936854d0299 blk 803923 txid 0
+d/Foundry USA Pool #dropgold/)"
+
+tx bc47a5b67b7133536fa59815c66bbdf05da78b3e666875bfacd7ee13de213b0e blk 803925 txid 0
+Mined by AntPool970A
+
+tx ab8ee7980858ad84c4e135443df910770b1b007c3ba7e1d2d1b84ac75432f8c7 blk 803927 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 514a516e1c734c2dd1a275b9a924af0b9985108dee0cce80729f6ad412e9a554 blk 803928 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 9624532fb51fb50106cd4c7f361d190d07f534cc6a839174c196dff3010e9c22 blk 803932 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx f70cd870eca57f80361b31b7325575a7c5e9e6892b9bd2c2fd3a781ade405fd5 blk 803934 txid 0
+Mined by AntPool971A
+
+tx da5c8f4f88405725368a8350085b1176ef3f2957b1363c2b81246f35f5e2574e blk 803935 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 89fa45eb52e293273c98bc6995dfa2e9ebe6f65081eb241c2f49ca24ffda36ef blk 803937 txid 0
+/Powered by Luxor Tech/35
+
+tx f9930dc053fb00a98a42f70e167a5817479f473fcdfe7ece29b4a78a9b175938 blk 803938 txid 0
+d/Foundry USA Pool #dropgold/	&
+
+tx c1d1474a597152cdf1cde8736b75d48fad64464ceb0f71d1400b6c3cda3d417a blk 803940 txid 0
+/Powered by Luxor Tech/355
+
+tx 5b08d8d92d8911ae95a8317c4b259a4a260c388479c4c9eb999eaf4f6dc5932f blk 803942 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a1aefa6026f401a066475c9a32ce26c33c55df7cebb3bf2be9e8dcf4bde7035e blk 803944 txid 0
+d/Foundry USA Pool #dropgold/,%&t
+
+tx 006eddb04b2f9185b65ac34f895f4aa2dab680787f9b950945d4b2b870a21ef3 blk 803946 txid 0
+/ViaBTC/Mined by dartikvp/,
+
+tx 4d124ede9e551e12b8b1b966ae144de4b58d89deb63b42a9d65c5985456dc06c blk 803954 txid 0
+Mined by AntPool805J
+
+tx d7cf4dc28d2e421998abc168ec5fef4f61975f5cc0ec740ec23e0a4e391699a8 blk 803955 txid 0
+d/Foundry USA Pool #dropgold/(<,B
+
+tx 4045c0708c42507cd497e6e2d7cb6de15012655ae1f8cbe319e424035a4e0a88 blk 803957 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a7b87a64a0c80980d9af57c5d2d54558eaafd76ec95d273780067223e88f5772 blk 803959 txid 0
+/ViaBTC/Mined by gemmela/,
+
+tx d283efc16d345df61c450f0c5b58e6c2a86072903f90383ba833eaf55e8749f1 blk 803961 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 51179beb39633b0a18e83b75049c126c6fb5c62a85b3b28c4bae71600be43885 blk 803964 txid 0
+/ViaBTC/Mined by hamo2023/,
+
+tx 0b1b9149e8244af02bc3947cd8d338affb7c39b3e2bcad863c05e95f8e120ce2 blk 803966 txid 0
+Mined by AntPool961q
+
+tx 3345c7337775c03487690b09089ea8928ce68ca64e1267c6292dc691fb9969c8 blk 803967 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 06179838df9ea8b609047454a2fcf89bc298c22617ab4a4f31f6036d3daf1873 blk 803968 txid 0
+d/Foundry USA Pool #dropgold/p
+
+tx 97a53d6cd8592f99ac0d59b1f5bbd02db95a825c5f5841186515a6d271de54ba blk 803973 txid 0
+/ViaBTC/Mined by kznltrgrad/,
+
+tx f353463b6c14dc13492fd193220b2c0fe399f3c1b49b86baddde870da72054d6 blk 803975 txid 0
+Mined by AntPool806J
+
+tx bdf7ea534345b1e171f3e5c086fafc0ad66d469f314e5ffb6c696893033d5fe8 blk 803977 txid 0
+d/Foundry USA Pool #dropgold/")
+
+tx 55b1323d3d579736597d52c8c972a52ac88370b4fcb7fa82b38bdeb7ceaf6815 blk 803978 txid 0
+d/Foundry USA Pool #dropgold/.
+
+tx 22b797d50ab82bb5b581ac103e3a347c7f507b75f0857a099857703441af219e blk 803980 txid 0
+d/Foundry USA Pool #dropgold/0qm{
+
+tx 1283d93a733934db2772ac3395d6145435e7bedc36026363d01193c30b3bfad7 blk 803985 txid 0
+Mined by AntPool959A
+
+tx 1fa351eba0a082ed37bf80ddcb70726ea346518d613a9451a36f7e5d70b98556 blk 803986 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx 68550b6d4910e284cc5cb4e5e410bfcac9df025f42c0b457e01cbd11e7a30d84 blk 803990 txid 0
+/Powered by Luxor Tech/34
+
+tx 524c8a227f09e081621f065d5dc40881499a6e4720c6f284c2d6e489fd55cdc3 blk 803991 txid 0
+d/SBICrypto.com Pool/
+
+tx 49ed15ddc595eeac0640e8aa7b0625f547c56c06483665c167619aaee523a307 blk 803994 txid 0
+d/Foundry USA Pool #dropgold/!
+
+tx d06727a3c098846ba41e8f59c00c57bd4614380888f16e93b831a223331cdadb blk 803996 txid 0
+/ViaBTC/Mined by matrixx/,
+
+tx 3691ba894f6e96bf993c7d01439fae0dc761a7e447f73b1586aa01eaa72142f4 blk 803997 txid 0
+d/Foundry USA Pool #dropgold/
+
+tx a0757441d1f47d95abcbde8c852075c3b870ab1f9e6dcb6013152da727858c62 blk 803999 txid 0
+Mined by AntPool959A

@@ -1,2 +1,2 @@
-tx e3c15ea7da4b8b8bb3f3e300c463c7db802b6f71c0a36a01daf8891a50ce5fa3
+tx e3c15ea7da4b8b8bb3f3e300c463c7db802b6f71c0a36a01daf8891a50ce5fa3 blk 147895 txid 37
 dictates that a fivedollar bitcoin is ok -- coinabul_jay

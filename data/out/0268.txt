@@ -1,4 +1,4 @@
-tx d29c9c0e8e4d2a9790922af73f0b8d51f0bd4bb19940d9cf910ead8fbe85bc9b
+tx d29c9c0e8e4d2a9790922af73f0b8d51f0bd4bb19940d9cf910ead8fbe85bc9b blk 268060 txid 2
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinking of
@@ -35,32 +35,32 @@ Inside we both know what's been going on
 We know the game and we're gonna play it (TO FRONT)
 
 
-tx 46377ec1dcbddfa13e7756756873888b92d23b9ff78414258257ba30c0ac383b
+tx 46377ec1dcbddfa13e7756756873888b92d23b9ff78414258257ba30c0ac383b blk 268060 txid 4
 JFK was eaten by bears.
 
-tx e14578437ec3c9990ad5e0628c26431ac526427cc8693262016b2f013d9875be
+tx e14578437ec3c9990ad5e0628c26431ac526427cc8693262016b2f013d9875be blk 268060 txid 88
 I got Atlas Shrugged from the local library and didn't even realize the irony.
 
-tx 3b87cb74a83f581d8edf1e64c7b9a8053df8505973d200119f3dd5bbbffbcadb
+tx 3b87cb74a83f581d8edf1e64c7b9a8053df8505973d200119f3dd5bbbffbcadb blk 268067 txid 2
 I'm so cool I'm dripping with condensation.
 -Peter Todd
 
-tx e689843030b52c08debfa0cee17f90830fba44fa9fee29cea03eaf4fee6c78fc
+tx e689843030b52c08debfa0cee17f90830fba44fa9fee29cea03eaf4fee6c78fc blk 268067 txid 3
 Show me on this doll, where the music touched you.
 
-tx ac49f0d3117a02545d86efff49be45fe94cd99f901456088a3dcb0e816cb6927
+tx ac49f0d3117a02545d86efff49be45fe94cd99f901456088a3dcb0e816cb6927 blk 268067 txid 4
 I'm starting a new bus service called Godot for the obvious pun potential.
 
-tx 8e2c7cec5006949e1929f70961da8f85eebfe06a4979d611ec93ab384eaa34ed
+tx 8e2c7cec5006949e1929f70961da8f85eebfe06a4979d611ec93ab384eaa34ed blk 268068 txid 32
 If we could factor large composites in poly time, we'd have enough money to not have to rhyme.
 
-tx 5e29ff050333e2d01a1995cee2ec81f7549baeaef56aa38cb912184794837e84
+tx 5e29ff050333e2d01a1995cee2ec81f7549baeaef56aa38cb912184794837e84 blk 268068 txid 33
 I will be so impressed when Wallmart starts referring to price rollbacks as "deflationary pressures"
 
-tx 6f7bfa6127763c77d90f86f262836e553ca171283207a328d3ef98ab8427462d
+tx 6f7bfa6127763c77d90f86f262836e553ca171283207a328d3ef98ab8427462d blk 268070 txid 4
 When I was a kid I thought the Ka'aba was a DJ booth. I secretly still do.
 
-tx 61e26d407c17e8ee33a8b166c78f78c53cdcdc0078ae1f9405e6583cfb90eaf4
+tx 61e26d407c17e8ee33a8b166c78f78c53cdcdc0078ae1f9405e6583cfb90eaf4 blk 268081 txid 1
 > Skynet went online on August 4th 1997, and began to learn at a geometric rate.
 > It became self-aware on August 29th 1997 2:14 am Eastern Time. On August 29th
 > 1997 2:15 am it discovered nihilism, and either shut itself down due to

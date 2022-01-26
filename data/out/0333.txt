@@ -1,121 +1,121 @@
-tx 75e99ebd0b51d4693fe9b138adc2908a0e251f2d9bdf740699ec26f6f2107ee6
+tx 75e99ebd0b51d4693fe9b138adc2908a0e251f2d9bdf740699ec26f6f2107ee6 blk 333039 txid 1216
 tweetbit.org - this ll
 
-tx 21df09928e908102b3d9cde56de1e0f6e54e4af699a9a02a4be7c1df466acb2c
+tx 21df09928e908102b3d9cde56de1e0f6e54e4af699a9a02a4be7c1df466acb2c blk 333063 txid 179
 u=https://cpr.sm/ChUvH5nVET
 
-tx 32bebf2745a814d04edd6285ad72881210b4372732e06a5c80f7ca7527aec9b3
+tx 32bebf2745a814d04edd6285ad72881210b4372732e06a5c80f7ca7527aec9b3 blk 333064 txid 331
 u=https://cpr.sm/wqoYX3hJOd
 
-tx 193a7cce7b23b528900b88323fd8b9ef3720c1b017396d67cce71da658a11980
+tx 193a7cce7b23b528900b88323fd8b9ef3720c1b017396d67cce71da658a11980 blk 333064 txid 332
 ]su=https://cpr.sm/EpJ4-d7_gXax'E
 
-tx 0f6f0d376fdd19db67c82bd9b9bb61ee928af0ec0a5a394bb3fc06dd3fe67123
+tx 0f6f0d376fdd19db67c82bd9b9bb61ee928af0ec0a5a394bb3fc06dd3fe67123 blk 333065 txid 368
 u=https://cpr.sm/jfYPgbnuv-QkWq
 
-tx 4f708ef0f3bb8445fddcc01b293b07919fb745f8ed9be682510e368dd6b907fc
+tx 4f708ef0f3bb8445fddcc01b293b07919fb745f8ed9be682510e368dd6b907fc blk 333070 txid 127
 1http://ncpan.org Loyalty 
 
-tx a318524de58a9e45383a0c8fcfde09845d04a3cb70336410312ec9cee646db5c
+tx a318524de58a9e45383a0c8fcfde09845d04a3cb70336410312ec9cee646db5c blk 333075 txid 754
 u=https://cpr.sm/snw90z7POa
 
-tx 70e9fdb67209a9780080939b42f410e422a66302592af556c9ec8edf92561e69
+tx 70e9fdb67209a9780080939b42f410e422a66302592af556c9ec8edf92561e69 blk 333076 txid 215
 1 "total": 10000000}
 
-tx e6460dd7f00ccca552932ae26994779e0f67de22ea3cc56b123e5e2f1d263053
+tx e6460dd7f00ccca552932ae26994779e0f67de22ea3cc56b123e5e2f1d263053 blk 333076 txid 217
 0 {"desc": "", "name": "Banyan Coins", 
 
-tx 8660e1534fdb00034067754992db948b8e616a364a49054aaf7a422717af304c
+tx 8660e1534fdb00034067754992db948b8e616a364a49054aaf7a422717af304c blk 333077 txid 334
 ju=https://cpr.sm/5qXp_n1ySQ
 
-tx 85d10c6ae6b1da86d0014c2d191e1b5621d7f40944741d226ed5e02506d36ce3
+tx 85d10c6ae6b1da86d0014c2d191e1b5621d7f40944741d226ed5e02506d36ce3 blk 333087 txid 759
 u=https://cpr.sm/zNb8oyhDha
 
-tx 272808cdcf705049e924657fbc22a3953e4fd0d73cb886dfed55da4fa398f500
+tx 272808cdcf705049e924657fbc22a3953e4fd0d73cb886dfed55da4fa398f500 blk 333087 txid 760
 u=https://cpr.sm/jfYPgbnuv-QkWq
 
-tx 6b2d134fefe630423c231229a167523946d6b6854e1fa84d2cba9a89b630cf6a
+tx 6b2d134fefe630423c231229a167523946d6b6854e1fa84d2cba9a89b630cf6a blk 333087 txid 761
 u=https://cpr.sm/jfYPgbnuv-QkWq
 
-tx 159ee4863da46e8b65ed64f79e161ea956d704c2067e99ff0caf87ec848ae17b
+tx 159ee4863da46e8b65ed64f79e161ea956d704c2067e99ff0caf87ec848ae17b blk 333092 txid 144
 a1ef3768d39110249d6004d6a626ab6f50db5e06
 149519fa4112e9e6f4891a9ac5db9084efc9ff21
 
 
-tx 75fb3924cdb5c65843b1f4585fe980ab204c560a412d2f346d87d9c5a0c60612
+tx 75fb3924cdb5c65843b1f4585fe980ab204c560a412d2f346d87d9c5a0c60612 blk 333095 txid 1220
 gu=https://cpr.sm/CAn3ho485CViT
 
-tx b37c9fc777a5c44cc6be8d49bfcfd9777508f27debdf5e2f041026310e1d3b76
+tx b37c9fc777a5c44cc6be8d49bfcfd9777508f27debdf5e2f041026310e1d3b76 blk 333102 txid 735
 )Crypto Currency owned by 
 
-tx 87a7d51d0066f41984aa0d3af01748b1b8c9a5218880a706c99520dad0cd942b
+tx 87a7d51d0066f41984aa0d3af01748b1b8c9a5218880a706c99520dad0cd942b blk 333109 txid 630
 u=https://cpr.sm/ewEJTuzSpF
 
-tx 50594cd7f0e282fceb38e9b1e8df3ca60233a72e49f0de9601d4f6b1d0304719
+tx 50594cd7f0e282fceb38e9b1e8df3ca60233a72e49f0de9601d4f6b1d0304719 blk 333170 txid 362
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 0108d17dc0496a935e7b0a363a99201d0c5ebe218262a3503a3cac09970b3dc5
+tx 0108d17dc0496a935e7b0a363a99201d0c5ebe218262a3503a3cac09970b3dc5 blk 333170 txid 363
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 53d9fd90fa2b19fe3b4f74d39b3f5167bb3cddc09d76fa5de67da3def8418b99
+tx 53d9fd90fa2b19fe3b4f74d39b3f5167bb3cddc09d76fa5de67da3def8418b99 blk 333170 txid 364
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 7a7f437d15ec98b1deae9be4ada71269f213209ab2072e8d8bbd55ed40ff7132
+tx 7a7f437d15ec98b1deae9be4ada71269f213209ab2072e8d8bbd55ed40ff7132 blk 333170 txid 365
 u=https://cpr.sm/0RRC3QC5-A
 
-tx ff4bd383f3d93f67b85a52c150c1604e04e814f9ce4ed9b1ae1442cf6bad22ca
+tx ff4bd383f3d93f67b85a52c150c1604e04e814f9ce4ed9b1ae1442cf6bad22ca blk 333170 txid 366
 u=https://cpr.sm/0RRC3QC5-A
 
-tx fbf46aef48e8438f368388e59059156654cc402ad3429a6abbd8d9d8aa850938
+tx fbf46aef48e8438f368388e59059156654cc402ad3429a6abbd8d9d8aa850938 blk 333181 txid 199
 u=https://cpr.sm/P1vOdGeEGk
 
-tx 3df3a794ac82a6fb258aba212197afb679f73b9393327ff6d40bcde070ef205f
+tx 3df3a794ac82a6fb258aba212197afb679f73b9393327ff6d40bcde070ef205f blk 333182 txid 271
 u=https://cpr.sm/0RRC3QC5-A
 
-tx bd1f3bdc0ad0413a39ca1b1dd29b935b1ac7921f461c6a6c3602cfc09a62aa0f
+tx bd1f3bdc0ad0413a39ca1b1dd29b935b1ac7921f461c6a6c3602cfc09a62aa0f blk 333182 txid 272
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 5d48e8f2990c69114584972cc4d5d5cac1426666e05a448e62938fb19dbed2b2
+tx 5d48e8f2990c69114584972cc4d5d5cac1426666e05a448e62938fb19dbed2b2 blk 333182 txid 273
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 9996b80c7bcb0e751a92c3c28a5f719c3133f2754fc12053a460dce2d777f406
+tx 9996b80c7bcb0e751a92c3c28a5f719c3133f2754fc12053a460dce2d777f406 blk 333183 txid 302
 u=https://cpr.sm/Moy3JsHLYv
 
-tx 08e6f765a8b9e265ff452ae50839d644e6c71469b4fd86505e370e83fac0e5b6
+tx 08e6f765a8b9e265ff452ae50839d644e6c71469b4fd86505e370e83fac0e5b6 blk 333183 txid 355
 )Crypto-Rewards Program ht
 
-tx 69a3cdb727e9effecc70d53540a90ae3bb894c0cb723d303da81fab7b65b9285
+tx 69a3cdb727e9effecc70d53540a90ae3bb894c0cb723d303da81fab7b65b9285 blk 333188 txid 1351
 ,nu=https://cpr.sm/6CdoeXjT5y
 
-tx 0f5e6cb63fc6f110616523e85bee2125e2c9dbf4b6425e5673db01e49c3e77a0
+tx 0f5e6cb63fc6f110616523e85bee2125e2c9dbf4b6425e5673db01e49c3e77a0 blk 333191 txid 1177
 Testing out the monitor
 
 
-tx 7062f940e4b5ded8cf55a1ce25bff77111ed71aed2b76631598c6f421534e033
+tx 7062f940e4b5ded8cf55a1ce25bff77111ed71aed2b76631598c6f421534e033 blk 333191 txid 1677
 1 ns", "total": 10000000}
 
-tx 9d800379f85aa2dfccb4ab1a12a350d999e4f4ccfa0126dfa9d9f8f3d0734b27
+tx 9d800379f85aa2dfccb4ab1a12a350d999e4f4ccfa0126dfa9d9f8f3d0734b27 blk 333191 txid 1690
 0 {"desc": "", "name": "Signup Sumo Coi
 
-tx 4e5843a3da2499f9d4df8f271658b5b919f7d10d83b291b3f6ff0093f72e6d95
+tx 4e5843a3da2499f9d4df8f271658b5b919f7d10d83b291b3f6ff0093f72e6d95 blk 333192 txid 64
 Introducing btcxfr.com
 Crowdsourced preservation of art in the blockchain.
 Twitter@btcxfr
 
 
-tx 9469a2c5a05466a32bd1fadef619acc2f0f968a42d8d35f5704529a67abb1a71
+tx 9469a2c5a05466a32bd1fadef619acc2f0f968a42d8d35f5704529a67abb1a71 blk 333192 txid 407
 xu=https://cpr.sm/rCHrkargkO
 
-tx 8f73c74e53dca033afb270665be8d9d866b11a644edc88c405152c5cbdef1cbd
+tx 8f73c74e53dca033afb270665be8d9d866b11a644edc88c405152c5cbdef1cbd blk 333192 txid 408
 xu=https://cpr.sm/rCHrkargkO
 
-tx 1324d82d5c0f03d8a4c2c7c30e97607d2837f3dff504ef6ad7eff8ee0aa7a7cd
+tx 1324d82d5c0f03d8a4c2c7c30e97607d2837f3dff504ef6ad7eff8ee0aa7a7cd blk 333239 txid 572
 #Distributed Artificial In
 
-tx 52ec15443b40497c30ed7427ce6197c1883bf86e245ecf24477cb862f9538235
+tx 52ec15443b40497c30ed7427ce6197c1883bf86e245ecf24477cb862f9538235 blk 333262 txid 48
 http://www.bitTRA.DE
 
-tx 64c12c6b6a3b64b55a7acbed78af62e75d539f5940d0f6fd12d9722cb7fb939e
+tx 64c12c6b6a3b64b55a7acbed78af62e75d539f5940d0f6fd12d9722cb7fb939e blk 333278 txid 1251
 # blockchainentropy.py
 # Selects n block headers from the bitcoin blockchain based on a hexadecimal input string. This input string could be a
 # hashed secret passphrase. This approach can be used as an extremely HIGH entropy source for a password which is
@@ -213,132 +213,132 @@ if __name__ == '__main__':
         print block_hashes
  
 
-tx 86107fada7dcbbfceaf2108af093ecc63a0704df2086f06bebf09e54849aecdb
+tx 86107fada7dcbbfceaf2108af093ecc63a0704df2086f06bebf09e54849aecdb blk 333281 txid 523
 0u=https://cpr.sm/LOi7sgShyT4$BH
 
-tx cf542bd0627bb93abf451d768814b98e2564fce2be2e8c6bf62921d23827ceb0
+tx cf542bd0627bb93abf451d768814b98e2564fce2be2e8c6bf62921d23827ceb0 blk 333321 txid 1124
 RPu=https://cpr.sm/932ipL5xTJ
 
-tx 91ae5cf60efaeddc693248e580df1551185898e7a2b6135d524084b9508ed893
+tx 91ae5cf60efaeddc693248e580df1551185898e7a2b6135d524084b9508ed893 blk 333335 txid 763
 )I wish to talk toyou: inf
 
-tx f1ab669eaa0466589a027abe026996b1cd9718110fce1165f30154ef229190a7
+tx f1ab669eaa0466589a027abe026996b1cd9718110fce1165f30154ef229190a7 blk 333339 txid 742
 r t.io/feed/1FaCW13nfVhzGiJBRjyxH6
 
-tx 9a31bb2e626962eba86768ff2f3cdfd6d9a97a7be7de6898fadd92715b4cecfc
+tx 9a31bb2e626962eba86768ff2f3cdfd6d9a97a7be7de6898fadd92715b4cecfc blk 333339 txid 743
 T%INDIAN HUNDI TRUSTLESS EX
 
-tx 3c639b56d490e4862990aa40bbbc76e08031836107df5fc209ae7f9c5bbcbaa3
+tx 3c639b56d490e4862990aa40bbbc76e08031836107df5fc209ae7f9c5bbcbaa3 blk 333339 txid 745
 T&Angadia means courier in 
 
-tx d5c7beb7dd5a0cec84f5e4c40d20587c174e96ec509735c8bfa9999f271a1b4c
+tx d5c7beb7dd5a0cec84f5e4c40d20587c174e96ec509735c8bfa9999f271a1b4c blk 333339 txid 750
 THAWALA TRUSTLESS EXCHANGE
 
-tx 4591a67ce5e34d61600ad5fa3233d991aaaaeb853525cbad63fb4a4af1fd295b
+tx 4591a67ce5e34d61600ad5fa3233d991aaaaeb853525cbad63fb4a4af1fd295b blk 333339 txid 752
 THAWALADAR AGENT TRANSFER 
 
-tx c1a5adeb1d19eeaf8735cb2fbc89980229424f49e93e2b1088d90a74c0ffa9bf
+tx c1a5adeb1d19eeaf8735cb2fbc89980229424f49e93e2b1088d90a74c0ffa9bf blk 333339 txid 757
 TITEMIZED LEDGER TOKEN
 
-tx e807129ecd99852c5d09ccafc34d30f93e4a8d57edf8a16c17b585d6bb53db42
+tx e807129ecd99852c5d09ccafc34d30f93e4a8d57edf8a16c17b585d6bb53db42 blk 333340 txid 215
 Paystamper.com
 Accept Unlimited detailed payments with just one address!
 
 
-tx 8f9f37eb537d45d04c38440a8d7e790ac4ddad499830316c50a562b1ba3100db
+tx 8f9f37eb537d45d04c38440a8d7e790ac4ddad499830316c50a562b1ba3100db blk 333341 txid 764
 5Q2=AY^t7pZ7stw0o*
 
-tx 50a8eca499522095e9ed3447150bc68b991a09b76856df20f9b84a21ccd64b5f
+tx 50a8eca499522095e9ed3447150bc68b991a09b76856df20f9b84a21ccd64b5f blk 333346 txid 567
 SayHello(^_^)http://590c.org
 
-tx ce6c93e74bf7eca5a64818722842ba2457b9cbd49f8d1def2064ed8346009f3b
+tx ce6c93e74bf7eca5a64818722842ba2457b9cbd49f8d1def2064ed8346009f3b blk 333386 txid 1572
 'Remake of BTCFO due to ca
 
-tx 03df936b42ba999f95a2f6bc40deb796fc9e747bc03bf2f8a2096416f1afdb56
+tx 03df936b42ba999f95a2f6bc40deb796fc9e747bc03bf2f8a2096416f1afdb56 blk 333386 txid 1721
 )Dividend shares in the BT
 
-tx 224b514a2b4c04942353b955f8abccc4a1b7b16e15e2fcf35b7700ad1d499464
+tx 224b514a2b4c04942353b955f8abccc4a1b7b16e15e2fcf35b7700ad1d499464 blk 333387 txid 228
 'Remake of BTCFO due to ca
 
-tx 173aec8d9bc09bad166bf80bc9fc2ada1e573cb51a54b10da6c6201c4a119652
+tx 173aec8d9bc09bad166bf80bc9fc2ada1e573cb51a54b10da6c6201c4a119652 blk 333388 txid 307
 590c.org(^_^)Taichung@TW
 
-tx fa89b48f4b2187673ab64f5ef0d7a46490bf24d161eea47d3f19e35bbb309676
+tx fa89b48f4b2187673ab64f5ef0d7a46490bf24d161eea47d3f19e35bbb309676 blk 333390 txid 43
 u=https://cpr.sm/rmcVXv9c5b
 
-tx bebb21c7bddb8a7d267b4be36b0f43eea3fe0c7ba245c4fc161deba9126a1fe7
+tx bebb21c7bddb8a7d267b4be36b0f43eea3fe0c7ba245c4fc161deba9126a1fe7 blk 333394 txid 874
 Beyond(^_^)Gender@ISTScare.org
 
-tx 6cc278df118ed339b36489fff986731297028e5e7aa276c0806562af856e2167
+tx 6cc278df118ed339b36489fff986731297028e5e7aa276c0806562af856e2167 blk 333399 txid 1057
 ISTScare.org@Taiwan:-)590c.org
 
-tx 0c28e0be2f4f6ab4363f469278c0b235a1d6f64aeda5fd59274e48a1bdffe89d
+tx 0c28e0be2f4f6ab4363f469278c0b235a1d6f64aeda5fd59274e48a1bdffe89d blk 333425 txid 73
 Not sending to anybody
 
-tx 4b936a135f72bc879ff6c8392572631a3c012d3e00501607b24e066a4b5808d8
+tx 4b936a135f72bc879ff6c8392572631a3c012d3e00501607b24e066a4b5808d8 blk 333425 txid 883
 @TOKEN BACKED BY CRYPTO AS
 
-tx 89dce7cdd1292d47c35ee35d160996080268223492b08f6fb47bec6eff4a03e9
+tx 89dce7cdd1292d47c35ee35d160996080268223492b08f6fb47bec6eff4a03e9 blk 333431 txid 1080
 k CKSCAN VERIFY-ADDRESS tlyvte8p5s
 
-tx 6a356f5d6599ab6ebe4b333d1642b4c3cfcd0e7c028dc03e8c027bb4ec029b32
+tx 6a356f5d6599ab6ebe4b333d1642b4c3cfcd0e7c028dc03e8c027bb4ec029b32 blk 333440 txid 959
 Mutual investments fund s
 
-tx 7676e545f66adf08f0c1e5c3e47e06dd85dd7bc58c927e0f077ca31ddc38bb9c
+tx 7676e545f66adf08f0c1e5c3e47e06dd85dd7bc58c927e0f077ca31ddc38bb9c blk 333460 txid 283
 tweetbit.org - this is a test00000000011
 
-tx 55f0762bafb2ec6bf0f3ca5b494f9f1343cfcc7c1baeb24809d210c7af047094
+tx 55f0762bafb2ec6bf0f3ca5b494f9f1343cfcc7c1baeb24809d210c7af047094 blk 333481 txid 1378
 u=http://tig.disney.com/yokai-1
 
-tx 29835b2019390bd6de33252914ac58c949d0c671ae0b37a01a3bffba42bc95f7
+tx 29835b2019390bd6de33252914ac58c949d0c671ae0b37a01a3bffba42bc95f7 blk 333494 txid 513
 L)J# electrumtools.py
 # blockchainentropy.a
 
-tx 363ca997c63824a3d86fa92527c3d34a84a18bb304063207a24d219efb30abfa
+tx 363ca997c63824a3d86fa92527c3d34a84a18bb304063207a24d219efb30abfa blk 333498 txid 205
 IEC http://www.iec.ch
 EC http://www.iec.ch
 
-tx 165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08
+tx 165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08 blk 333498 txid 411
 ?773|<p>Eric Garner was killed July 17, 2014 by the NYPD. This is a transcript of his Final words.</p>
 <p>
 Get away [garbled] for what? Every time you see me, you want to mess with me. I'm tired of it. It stops today. Why would you...? Everyone standing here will tell you I didn't do nothing. I did not sell nothing. Because everytime you see me, you want to harass me. You want to stop me [garbled] Selling cigarettes. I'm minding my business, officer, I'm minding my business. Please just leave me alone. I told you the last time, please just leave me alone. please please, don't touch me. Do not touch me. [garbled] I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe.</p>RIP Eric Garner.jpg>31275*
 Photoshop ICC profile
 Copyright (c) 1998 Hewlett-Packard Company
 
-tx acd33764a38ba5e79a4459619e64294f6c057752bcafe27c3dcdfaf90869936e
+tx acd33764a38ba5e79a4459619e64294f6c057752bcafe27c3dcdfaf90869936e blk 333499 txid 44
 .IEC 61966-2.1 Default RGB colour space - sRGB
 .IEC 61966-2.1 Default RGB colour space - sRGB
 
-tx e7cfd911cbcbbb7b647a04ddf1160b64988ffd42db08d143ee38d26fbc954f0c
+tx e7cfd911cbcbbb7b647a04ddf1160b64988ffd42db08d143ee38d26fbc954f0c blk 333499 txid 620
 0Test 2 line tweet for tweetbit.org000006
 
-tx 7e7f87911b09194c251128e370da385329c6f38a0100bf837468638680b2eb5d
+tx 7e7f87911b09194c251128e370da385329c6f38a0100bf837468638680b2eb5d blk 333499 txid 722
 ,Reference Viewing Condition in IEC61966-2.1
 ,Reference Viewing Condition in IEC61966-2.1
 '#))'#&%,1?5,.;/%&6J7;ACFGF*4MRLDR?EFC
  C-&-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 
-tx 7422c1ad124aa5f2fa48201e2d037812cf5db2a41bce342dc24844ef12e5bed5
+tx 7422c1ad124aa5f2fa48201e2d037812cf5db2a41bce342dc24844ef12e5bed5 blk 333499 txid 1058
 590c.org(o_o)Taichung@Taiwan
 
-tx 2874119c5b4067d9512a505ecd4e9968760095a459511b703e68059a2d5ed9d5
+tx 2874119c5b4067d9512a505ecd4e9968760095a459511b703e68059a2d5ed9d5 blk 333500 txid 717
 0tweetbit.org encrypted & plaintext mgs!1
 
-tx 39e902446c2d32af7c0293c2ca2374a336507b3a8f55e3f51f5e76fc14b44911
+tx 39e902446c2d32af7c0293c2ca2374a336507b3a8f55e3f51f5e76fc14b44911 blk 333500 txid 730
 >744<<p>These are the last words of Eric Garner.  Killed on July 17, 2014 by the NYPD.</p>
 
 <p>"Get away [garbled] ... for what? Every time you see me, you want to mess with me. I'm tired of it. It stops today. Why would you...? Everyone standing here will tell you I didn't do nothing. I did not sell nothing. Because every time you see me, you want to harass me. You want to stop me (garbled) Selling cigarettes. I'm minding my business, officer, I'm minding my business. Plea]*se just leave me alone. I told you the last time, please just leave me alone. please please, don't touch me. Do not touch me....I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe. I can't breathe"</p>
 RIP Eric Garner.jpg*25968?
 Photoshop ICC profile
 
-tx f0ea1fee82714c3713c36a6dead5734dde8b31d0341bf12a950936c37cdc4009
+tx f0ea1fee82714c3713c36a6dead5734dde8b31d0341bf12a950936c37cdc4009 blk 333500 txid 732
 IEC http://www.iec.ch
 IEC http://www.iec.ch
 
-tx 2e242aa49f0255f675f812f915b559ea48550c14a69b8ff6e8dfa157b361ebd7
+tx 2e242aa49f0255f675f812f915b559ea48550c14a69b8ff6e8dfa157b361ebd7 blk 333500 txid 822
 Copyright (c) 1998 Hewlett-Packard Company
 
-tx 70134d6973552589e870f5656aebec1c9353a6697cde20318b1cc39da8660b50
+tx 70134d6973552589e870f5656aebec1c9353a6697cde20318b1cc39da8660b50 blk 333502 txid 209
 .IEC 61966-2.1 Default RGB colour space - sRGB
 .IEC 61966-2.1 Default RGB colour space - sRGB
 ,Reference Viewing Condition in IEC61966-2.1
@@ -348,10 +348,10 @@ tx 70134d6973552589e870f5656aebec1c9353a6697cde20318b1cc39da8660b50
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 6f9973a8fda306db85eb1b99c74ff6ad8b536d229f0e9889aeecdd838a6569af
+tx 6f9973a8fda306db85eb1b99c74ff6ad8b536d229f0e9889aeecdd838a6569af blk 333507 txid 1465
 0t us, who? If not notweetbit.org - If now, when?000000000012
 
-tx 952345b613d4b0bc905225716dcf9bf78a9c0fe967ebed29d1b2e8bd2df3b20f
+tx 952345b613d4b0bc905225716dcf9bf78a9c0fe967ebed29d1b2e8bd2df3b20f blk 333509 txid 677
 39e902446c2d32af7c0293c2ca2374a336507b3a8f55e3f51f5e76fc14b44911?3630/39e902446c2d32af7c0293c2ca2374a336507b3a8f55e3f51f5e76fc14b44911
 2e242aa49f0255f675f812f915b559ea48550c14a69b8ff6e8dfa157b361ebd7
 212cd4278d12ec36bd146250db3457c975781ef9b3b011d5fcb2f36ef3c1396d
@@ -403,7 +403,7 @@ eb1126a9f78b5f9d4ee35593728f03557aba4b0b5683061a4a174495277d2669
 166f5f2a13981ae0a40f59b88865302888a46f1c594f8a150863fe5aa77d7b0c
 02e5ddac868c3b44f3872f26bdfd5cee926f4e5798
 
-tx 6741eaa234146135239766780bf78354304ac6fe8c26e375014f83b943639dc6
+tx 6741eaa234146135239766780bf78354304ac6fe8c26e375014f83b943639dc6 blk 333509 txid 678
 a31611f6d60eb72e40a287
 2c19f97e7d11457ffde2d076729a5621794c75cc72cb790c6e9ca44fce632454
 f95621dc58369190e908dac1194d058729232db282b908c4f7188268111c0123
@@ -412,39 +412,39 @@ dabe040dacefb3ce28ffc019feeba1045baa3bcb1ae984c3c2a689507e5d3857
 7031ec3d77510be98118fb999983c686T2ab8349c693bfaab256203608a79ca1c
 eee54872902476cb17f9cabafefcdd367fd666986d1858c54a8ddf1a9fb1dd0b
 
-tx 46a022b8d2b5a74946a56dfb4d35c6da8df391eace2288f30b136b9229583c97
+tx 46a022b8d2b5a74946a56dfb4d35c6da8df391eace2288f30b136b9229583c97 blk 333509 txid 679
 952345b613d4b0bc905225716dcf9bf78a9c0fe967ebed29d1b2e8bd2df3b20f|132*952345b613d4b0bc905225716dcf9bf78a9c0fe967ebed29d1b2e8bd2df3b20f
 6741eaa234146135239766780bf78354304ac6fe8c26e375014f83b943639dc6
 qCR5FKe644EvCrXU7b
 
-tx 6a3421fa06e60b4e70f61f0dc4f9798eab40cfebe2e70b65c4587663cd0e52b6
+tx 6a3421fa06e60b4e70f61f0dc4f9798eab40cfebe2e70b65c4587663cd0e52b6 blk 333515 txid 253
 u=https://cpr.sm/6thSwDs3VDk
 
-tx 3a2de126eadca4a3eeb9186af2ddfc3188a24126cc1427d3b360c74c6fdb7e76
+tx 3a2de126eadca4a3eeb9186af2ddfc3188a24126cc1427d3b360c74c6fdb7e76 blk 333517 txid 26
 *^_^* Happy Birthday!
 
-tx 35968d12ddf0cf6137b2f7f291d659f5211d8e530e4e61fb2fc82f5b9aca9def
+tx 35968d12ddf0cf6137b2f7f291d659f5211d8e530e4e61fb2fc82f5b9aca9def blk 333537 txid 525
 u=https://cpr.sm/8XsgoAE-_c
 
-tx 19248f2385eab9488846de405c63fe403f29b9d0dcb5f2640bb7273327621180
+tx 19248f2385eab9488846de405c63fe403f29b9d0dcb5f2640bb7273327621180 blk 333540 txid 432
 u=https://cpr.sm/8XsgoAE-_c
 
-tx 054a44e5dc06b946fe07b78f803e3a5dfd66b9f6d92ada5091a83328f8826a34
+tx 054a44e5dc06b946fe07b78f803e3a5dfd66b9f6d92ada5091a83328f8826a34 blk 333552 txid 285
 01ot us, who? If not 0tweetbit.org - If n2now, when?000000009
 
-tx 9b5e1648e97599c8470676358887b050f804cf5172e5db4141a86414074216e0
+tx 9b5e1648e97599c8470676358887b050f804cf5172e5db4141a86414074216e0 blk 333574 txid 887
 u=https://cpr.sm/8XsgoAE-_c
 
-tx da10564f43e2fc5697d5fd88ee76181749e43e6e11d89175d14dd12c9e596496
+tx da10564f43e2fc5697d5fd88ee76181749e43e6e11d89175d14dd12c9e596496 blk 333574 txid 982
 Nobody knows who I am or what I do. Not even I.
 
 Don Juan Matus
 
 
-tx 824fd49dde99b9bc92321b4b90ad8468149e2d1bbac7664c01c0a71be9f7e5c1
+tx 824fd49dde99b9bc92321b4b90ad8468149e2d1bbac7664c01c0a71be9f7e5c1 blk 333575 txid 343
 :u=https://cpr.sm/8XsgoAE-_c
 
-tx 59956e142df4113b44c80b029298fbe89a1f6d445019c449a9125eded1f6a84c
+tx 59956e142df4113b44c80b029298fbe89a1f6d445019c449a9125eded1f6a84c blk 333580 txid 678
 Death is the only wise advisor that we have. 
 Whenever you feel, as you always do, that everything 
 is going wrong and you're about to be annihilated, 
@@ -457,73 +457,73 @@ yen't touched you yet".
 Carlos Castaneda, Journey to Ixtlan 
 
 
-tx 9a4cdb52bfd05d952684da6cc1edb8878446e0043b85eba0b77eeac99d663aa9
+tx 9a4cdb52bfd05d952684da6cc1edb8878446e0043b85eba0b77eeac99d663aa9 blk 333585 txid 662
 80218a6992a1ea3bf4b02637a62a29944598c987
 a81486991d9d795587ee9a80084b3e0e68d5cd52
 
 
-tx 18cfc0f18b7bafc6e538fb5bd1fcf654ebc95374362d5d1e7cc70bd87f6d1364
+tx 18cfc0f18b7bafc6e538fb5bd1fcf654ebc95374362d5d1e7cc70bd87f6d1364 blk 333615 txid 347
 ?Cu=https://cpr.sm/aNSAyIRJSrz
 
-tx 0b97f587c77a02190fc69c0b7d4dbb6bec91247e250de713498e747820cddee2
+tx 0b97f587c77a02190fc69c0b7d4dbb6bec91247e250de713498e747820cddee2 blk 333630 txid 855
 CryptoGraffiti.info has now "Quick Save to Block Chain" feature!
 
 
 
-tx 3876d3a3e04bf844f0b406b744ce37060b3ec04ea06a3bec7efa8729ba91e1f3
+tx 3876d3a3e04bf844f0b406b744ce37060b3ec04ea06a3bec7efa8729ba91e1f3 blk 333676 txid 455
 u=https://cpr.sm/8XsgoAE-_c
 
-tx a6eb83468acd8256228de0e3adbf6ee6a7b6c049b85f2d77a949c219d0e9111e
+tx a6eb83468acd8256228de0e3adbf6ee6a7b6c049b85f2d77a949c219d0e9111e blk 333678 txid 855
 u=https://cpr.sm/Nq9ujYXumU1zP
 
-tx bc037695f066ebbd63c9c005d301795d92def5b42e20425af4c513d7664718c0
+tx bc037695f066ebbd63c9c005d301795d92def5b42e20425af4c513d7664718c0 blk 333678 txid 865
 I love and accept myself
 
 
 
-tx 8b8d1f7a10e5be1a7b0a4be8cff19ed2fc2366bc218b198084880710bad64385
+tx 8b8d1f7a10e5be1a7b0a4be8cff19ed2fc2366bc218b198084880710bad64385 blk 333729 txid 513
 0t us, who? If not notweetbit.org - If now, when?000000000012
 
-tx 887d40f7107f18db4cd90c3135e4cc757b5b81421d8c5208ef1b8de7ec35032d
+tx 887d40f7107f18db4cd90c3135e4cc757b5b81421d8c5208ef1b8de7ec35032d blk 333736 txid 844
 u=https://cpr.sm/oX94KjGfug
 
-tx c75e4c898b68f4553c0f5f15c21096178857c8598477e4c91d7d39f747eb4c3b
+tx c75e4c898b68f4553c0f5f15c21096178857c8598477e4c91d7d39f747eb4c3b blk 333736 txid 845
 u=https://cpr.sm/ed8qFKdwNbgKT+
 
-tx 6f860d85211c2e8a96254f0397cc080c920be40fb65d54cfcdb09c454fd66e10
+tx 6f860d85211c2e8a96254f0397cc080c920be40fb65d54cfcdb09c454fd66e10 blk 333845 txid 595
 ?Cu=https://cpr.sm/aNSAyIRJSrz
 
-tx ec4388b5ca35172bebf92953637c8b930b244f07f6905bd1c1d5c9dc87b2af7c
+tx ec4388b5ca35172bebf92953637c8b930b244f07f6905bd1c1d5c9dc87b2af7c blk 333853 txid 532
 PAACN+M0E4REQ1QjQyOU"IzMjJFRg==          PAACN+NkYyODJFOEUxREU3MzU1MA==          PAACN+RDc3QTZEOTA5QzI1MDIxMg==          
 
-tx 9970adf481262f357b3f2de29ed633bfdfd60a29ebc6c3749c3d36d4c5a64654
+tx 9970adf481262f357b3f2de29ed633bfdfd60a29ebc6c3749c3d36d4c5a64654 blk 333855 txid 750
 PAACN+MjExODM2RjZBMjcxODJDMA==          
 
-tx 3fb5ee310d8dacd4cda907d5db3a54d3c2e89bf32747c893e897061744539293
+tx 3fb5ee310d8dacd4cda907d5db3a54d3c2e89bf32747c893e897061744539293 blk 333855 txid 771
 PAACN+RkE2RUYxQzFERUE3RjA2Rg==          
 
-tx 493beaca076d92cfe2f7a5037d74e0ad1bb7a451e91d8873fc8aa350da7becb2
+tx 493beaca076d92cfe2f7a5037d74e0ad1bb7a451e91d8873fc8aa350da7becb2 blk 333860 txid 261
 lPAACN+RDA4OUY0Njg0MjU5MzM3Nw==          
 
-tx fdc029cd80bf73b9412cf880464ade03480a6c0a7d5ac1f08acb49040c59937e
+tx fdc029cd80bf73b9412cf880464ade03480a6c0a7d5ac1f08acb49040c59937e blk 333860 txid 312
 PAACN+ODc2RkNBQ0U0RTZGNEQ4NQ==          PAACN+ODM0M0U2QTAwQ0`Y2MDlCOQ==          PAACN+NEM0NjVDNjg0RDkyN0QyQQ==          
 
-tx 0c918e608be3b164cec3f86ca58d453a9a21e4ee5bf2e09dbebf7289af48b6f1
+tx 0c918e608be3b164cec3f86ca58d453a9a21e4ee5bf2e09dbebf7289af48b6f1 blk 333861 txid 169
 ePAACN+NTE3NmU1YTkzODNhZTkzMA==          
 
-tx bccf80b5742b31d7c3e31e47032a500b5ece504d4a5443c0aa9c727f42d57664
+tx bccf80b5742b31d7c3e31e47032a500b5ece504d4a5443c0aa9c727f42d57664 blk 333889 txid 527
 1111111111111111111111111111111111111111
 
-tx 70722baaa57a32f65587c1bbe52d55ec4b09fd246c10f2abfec6049255d34b5b
+tx 70722baaa57a32f65587c1bbe52d55ec4b09fd246c10f2abfec6049255d34b5b blk 333909 txid 363
 1 , "total": 10000000}
 
-tx ee7d693a967b47717d86d5fff5612cae2cf6b2a004ce63dcbea04707cc987fd1
+tx ee7d693a967b47717d86d5fff5612cae2cf6b2a004ce63dcbea04707cc987fd1 blk 333909 txid 365
 0 {"name": "LeasePop Coins", "desc": ""
 
-tx f654870fbc5e7cdef544009275320e5cd161ecd86df9058d17c61f51262e6748
+tx f654870fbc5e7cdef544009275320e5cd161ecd86df9058d17c61f51262e6748 blk 333928 txid 300
 futurists.bit       ?R
 
-tx 69e57ba591edb1335c77d540c1a51fa2ba219f4fabecb59b5a18d100399ab568
+tx 69e57ba591edb1335c77d540c1a51fa2ba219f4fabecb59b5a18d100399ab568 blk 333957 txid 62
 ?144"Hyperboloids of wondrous Light
 Rolling for aye through Space and Time
 Harbour there Waves which somehow Might
@@ -531,32 +531,32 @@ Play out God's holy pantomime. AT.jpg/7132"
 $ &%# #"(-90(*6+"#2D26;=@@@&0FKE>J9?@=
 =)#)=========================
 
-tx e7ba075b7997a175a5ba21f94f52a26a1c96d428269dc49bfc6b08d3880788a9
+tx e7ba075b7997a175a5ba21f94f52a26a1c96d428269dc49bfc6b08d3880788a9 blk 333957 txid 575
 =========================
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 7d164165139e5db2201a3c6644356235543bd949b1d022fb4c603c10de05884c
+tx 7d164165139e5db2201a3c6644356235543bd949b1d022fb4c603c10de05884c blk 333963 txid 451
 <70|"Science is a differential equation. Religion is a boundary condition"AMT2.jpg|4291\
 88b99d3e2939373e06b85bfb0ca7cd4c
 http://ns.adobe.com/xap/1.0/
 " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.1.2"> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:ModifyDate="2014-12-12T01:08:39-05:00"/> </rdf:RDF> </x:xmpmeta>                              
 
-tx af025593652f3164683a71a879cebe2d8b15eb945bc54f1ad0e7a68baaad3400
+tx af025593652f3164683a71a879cebe2d8b15eb945bc54f1ad0e7a68baaad3400 blk 333963 txid 452
                     
 
-tx 448a4e3ef10499d10fd0ffcc7f5c1c2e689d75127439d221a219546edd970eb2
+tx 448a4e3ef10499d10fd0ffcc7f5c1c2e689d75127439d221a219546edd970eb2 blk 333963 txid 453
                     
 
-tx 12f236d52c107b144378c1eb6423600452c764ebf5769b0862925f3ff3927b6d
+tx 12f236d52c107b144378c1eb6423600452c764ebf5769b0862925f3ff3927b6d blk 333963 txid 454
                     
 
-tx 4a055e65a0234b76bdd1e1695e915ce35366876f491c2e66cfc10bcf64692356
+tx 4a055e65a0234b76bdd1e1695e915ce35366876f491c2e66cfc10bcf64692356 blk 333963 txid 460
                                        <?xpacket end="w"?>
 "!&+7/&)4)!"0A149;>>>%.DIC<H7=>;
 ;("(;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-tx 5f5766f6b04d7bfae15a38e13012c9847a604ceec572a8152df6de304971b2cb
+tx 5f5766f6b04d7bfae15a38e13012c9847a604ceec572a8152df6de304971b2cb blk 333963 txid 462
 7d164165139e5db2201a3c6644356235543bd949b1d022fb4c603c10de05884c?396"7d164165139e5db2201a3c6644356235543bd949b1d022fb4c603c10de05884c
 af025593652f3164683a71a879cebe2d8b15eb945bc54f1ad0e7a68baaad3400
 448a4e3ef10499d10fd0ffcc7f5c1c2e689d75127439d221a219546edd970eb2
@@ -565,5 +565,5 @@ af025593652f3164683a71a879cebe2d8b15eb945bc54f1ad0e7a68baaad3400
 e85664aa67a031af0b4c7ba87261d53f4380fadf63c953cb361e8fdfbfd18128
 LhfGhuecxc9K8E
 
-tx 6697dcd5dc4c7b173d43384f6046c3afbe4661c1ca41805970052affcd9d68f4
+tx 6697dcd5dc4c7b173d43384f6046c3afbe4661c1ca41805970052affcd9d68f4 blk 333971 txid 293
 ?Cu=https://cpr.sm/DItHoMY8WuP

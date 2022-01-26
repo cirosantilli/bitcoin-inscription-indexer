@@ -1,31 +1,31 @@
-tx 5d7a1bc6a9010673feba59ab9227cfc95fad9ac38f12d37414da0b1c8febb592
+tx 5d7a1bc6a9010673feba59ab9227cfc95fad9ac38f12d37414da0b1c8febb592 blk 291046 txid 136
  /BTC PRICE source: www.masterexc
 
-tx 57e9ea861dd8648231a11111c2452a9e3ddaa7ec8faf3370ef73d8007da9efde
+tx 57e9ea861dd8648231a11111c2452a9e3ddaa7ec8faf3370ef73d8007da9efde blk 291061 txid 199
  /BTC PRICE source: www.masterexc
 
-tx e6a033dd9a97b6cacbabcc2443a9c0acfa11caf1b5b4ef48a1ea10ee4267d3e0
+tx e6a033dd9a97b6cacbabcc2443a9c0acfa11caf1b5b4ef48a1ea10ee4267d3e0 blk 291172 txid 385
 Gk D/USD PRICE source: www.quandl.c
 
-tx ae5fda4af8970473e8e9a21825c238f01ede444f1ee8bf6a9cd14296a8ddb604
+tx ae5fda4af8970473e8e9a21825c238f01ede444f1ee8bf6a9cd14296a8ddb604 blk 291172 txid 428
  /BTC PRICE source: www.masterexc
 
-tx 4b825c851cd088d68f87dd0b732ce546e1132d2d6f0d139b09d84a43bd3cc5cf
+tx 4b825c851cd088d68f87dd0b732ce546e1132d2d6f0d139b09d84a43bd3cc5cf blk 291213 txid 111
  /BTC PRICE source: www.masterexc
 
-tx 8006162b78d58adf545b99dc83d6df0f0d2683311cc145f615ea9ce51bfe06b5
+tx 8006162b78d58adf545b99dc83d6df0f0d2683311cc145f615ea9ce51bfe06b5 blk 291213 txid 112
 Gk D/USD PRICE source: www.quandl.c
 
-tx 137283be5261a8895fa72a09ad2fe2947680f05c67794d4d6ff12a092f06a462
+tx 137283be5261a8895fa72a09ad2fe2947680f05c67794d4d6ff12a092f06a462 blk 291227 txid 337
 w)bitcointalk.org/index.php
 
-tx a0ef35df9495f1619b05a5a2d87d7490e6dd51f621fa145c523f285425f65a7e
+tx a0ef35df9495f1619b05a5a2d87d7490e6dd51f621fa145c523f285425f65a7e blk 291335 txid 661
  /BTC PRICE source: www.masterexc
 
-tx 02273d6025cb26dd71e666ac6b54901d07e5c80ef5a0629d7012393b4a16b7db
+tx 02273d6025cb26dd71e666ac6b54901d07e5c80ef5a0629d7012393b4a16b7db blk 291337 txid 442
 Gk D/USD PRICE source: www.quandl.c
 
-tx 8367a48e4a863e37b3749bc9c111327b07a7c383ec9b3e7ce8d41949e71e1c10
+tx 8367a48e4a863e37b3749bc9c111327b07a7c383ec9b3e7ce8d41949e71e1c10 blk 291345 txid 853
 [1;35;m         /"\
         |\./|
         |   |
@@ -48,51 +48,51 @@ tx 8367a48e4a863e37b3749bc9c111327b07a7c383ec9b3e7ce8d41949e71e1c10
     |--\_|_//--|
 
 
-tx 6df654f770057a2ac1140fc93e3a8510180c709ff492a5656188d72079ae617d
+tx 6df654f770057a2ac1140fc93e3a8510180c709ff492a5656188d72079ae617d blk 291381 txid 762
 ()===[:::::::::::::>
 
-tx 48c03a55b0e5efdb66becc2dd04998061763dc7eaf35d926974ca3bff4c3935e
+tx 48c03a55b0e5efdb66becc2dd04998061763dc7eaf35d926974ca3bff4c3935e blk 291435 txid 73
 Gk D/USD PRICE source: www.quandl.c
 
-tx 5e0aa267d525b8724cb618962828c8090c2dfbd47661d4a7e05cc7867b50be0a
+tx 5e0aa267d525b8724cb618962828c8090c2dfbd47661d4a7e05cc7867b50be0a blk 291436 txid 1341
  /BTC PRICE source: www.masterexc
 
-tx 0d0e88fa2cf342214720eea8e383854c128c081d539d448f02ef65ce4fc142a9
+tx 0d0e88fa2cf342214720eea8e383854c128c081d539d448f02ef65ce4fc142a9 blk 291481 txid 626
 +Rhash_ABCDEFGHIJKLMNO
 
-tx f741d2f6a81238ccb6eaeae45049556e61a9fec08a70ee1c495ed5af709d13a0
+tx f741d2f6a81238ccb6eaeae45049556e61a9fec08a70ee1c495ed5af709d13a0 blk 291484 txid 1011
 +Rhash_ABCDEFGHIJKLMNO
 
-tx 395f7f1e35859e6d5408d5847de2608a49c24ecdbf216ced6fd96c1e9aaf2560
+tx 395f7f1e35859e6d5408d5847de2608a49c24ecdbf216ced6fd96c1e9aaf2560 blk 291484 txid 1012
 +Rgoogle.com/?q=hidden+flipside+economist
 
-tx 734a491ed6f5211c9d8eccc23331f89ad1f5aeb84d2a53748c506a59acd51a65
+tx 734a491ed6f5211c9d8eccc23331f89ad1f5aeb84d2a53748c506a59acd51a65 blk 291484 txid 1013
 +Rgoogle.com/?q=hidden+flipside+economist
 
-tx eacb1cd76ef0a187ccee12e68b25e4b0d64561ddeed73e12cb3664841a13343f
+tx eacb1cd76ef0a187ccee12e68b25e4b0d64561ddeed73e12cb3664841a13343f blk 291484 txid 1014
 +Rgoogle.com/?q=hidden+flipside+economist
 
-tx 9c69acf20d026cfd362fb9f7dde5f317c7403add03a965de05ae5f25ea0ad8ae
+tx 9c69acf20d026cfd362fb9f7dde5f317c7403add03a965de05ae5f25ea0ad8ae blk 291503 txid 778
 [31;47mWhy is the man who invests all your 
 [31m called a broker????
 
-tx d4b0ad33a76d7fb61a258c09fa9fd1c3070d47c69043d28f679bbc516ec0e397
+tx d4b0ad33a76d7fb61a258c09fa9fd1c3070d47c69043d28f679bbc516ec0e397 blk 291565 txid 135
 Gk D/USD\ PRICE\ source:\ www.quand
 
-tx 5510872da2dd8cd4af397cd17dda5fe855b6153dc1cd3c3845d14c0b113fbab4
+tx 5510872da2dd8cd4af397cd17dda5fe855b6153dc1cd3c3845d14c0b113fbab4 blk 291569 txid 526
 Gk D/USD\ PRICE\ source:\ www.quand
 
-tx aef714bcdd843698872351d6f5102e8570e6dcb446232d942a8a71b1b33adabd
+tx aef714bcdd843698872351d6f5102e8570e6dcb446232d942a8a71b1b33adabd blk 291584 txid 194
  /BTC\ PRICE\ source:\ www.master
 
-tx 724e0fb42bfac90dbb64047f91c5675c5b99c3664d905a299c2f56da92b7fb18
+tx 724e0fb42bfac90dbb64047f91c5675c5b99c3664d905a299c2f56da92b7fb18 blk 291584 txid 195
 Gk D/USD\ PRICE\ source:\ www.quand
 
-tx 04bc17bfd7e80ad4553ba0ccf47f8be8f75ab9f33ce1dcb05ba2aee2beb86132
+tx 04bc17bfd7e80ad4553ba0ccf47f8be8f75ab9f33ce1dcb05ba2aee2beb86132 blk 291591 txid 298
  /BTC\ PRICE\ source:\ www.master
 
-tx 95635a3d2576523123327bb591584b374f7c3a1771b1464400291b6bfb5c2a75
+tx 95635a3d2576523123327bb591584b374f7c3a1771b1464400291b6bfb5c2a75 blk 291591 txid 299
 Gk D/USD\ PRICE\ source:\ www.quand
 
-tx a64bd33097fbd49e6e15f00c375d5a43bdc7a65420cd8f790cf4c9906e6b77ce
+tx a64bd33097fbd49e6e15f00c375d5a43bdc7a65420cd8f790cf4c9906e6b77ce blk 291631 txid 190
 Doing something permanent to regret your whole lifetime has never been so easy!

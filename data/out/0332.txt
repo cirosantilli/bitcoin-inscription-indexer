@@ -1,43 +1,43 @@
-tx ecf801940ee14313ef2fb786bd553c26222f72570ff52918ecc0d37ae365f9ad
+tx ecf801940ee14313ef2fb786bd553c26222f72570ff52918ecc0d37ae365f9ad blk 332000 txid 285
 @TOKEN BACKED BY CRYPTO AS
 
-tx 0376393549ead57e75e0cbf777d567f3cd0bb595811fa3a9a430b39b4e2721b2
+tx 0376393549ead57e75e0cbf777d567f3cd0bb595811fa3a9a430b39b4e2721b2 blk 332000 txid 287
 @TOKEN BACKED BY CRYPTO AS
 
-tx 8d3204a5d905de1ff9229c1d21ba291b921dba77c4248e4f4a1cd15aad65b927
+tx 8d3204a5d905de1ff9229c1d21ba291b921dba77c4248e4f4a1cd15aad65b927 blk 332018 txid 473
 The trouble is you think you have time.
 Q
 
-tx 5355ba17561a5b5e247e2e5f0470a82c22edd76bc0f9c4159542de9f7b25830e
+tx 5355ba17561a5b5e247e2e5f0470a82c22edd76bc0f9c4159542de9f7b25830e blk 332020 txid 396
 MBe the change you wish to see in the world.
 
 
-tx 67106981f7a9469de96aa53d4529800435bbc4927587590304e5696dadb7fa48
+tx 67106981f7a9469de96aa53d4529800435bbc4927587590304e5696dadb7fa48 blk 332035 txid 553
 digitaltangibletrust.com/assets/GLDGERHERFOURC
 
-tx b350c04e2edf317c655aa067c39d909d2da962ad9385d6fce29be32279f6ea43
+tx b350c04e2edf317c655aa067c39d909d2da962ad9385d6fce29be32279f6ea43 blk 332044 txid 229
 01Douglas Adam Smit&
 h II0000000000000000
 
-tx b829813ae52434211fe32abb2fc82c35d57f27b1cbd39fea09ad2562164606a8
+tx b829813ae52434211fe32abb2fc82c35d57f27b1cbd39fea09ad2562164606a8 blk 332068 txid 1330
 SMu=https://cpr.sm/rbiEEgLacVa
 
-tx 7694507464b02770976ad4fcf04adf05dcd4879fbfb7e51e1af649e41fd2acd9
+tx 7694507464b02770976ad4fcf04adf05dcd4879fbfb7e51e1af649e41fd2acd9 blk 332074 txid 669
 u=https://cpr.sm/Ghf085A0gl
 
-tx 2430bef72358398ddee90473aeb7b979fdfe1920fa7ebe306bf1fc8f7eb4eca2
+tx 2430bef72358398ddee90473aeb7b979fdfe1920fa7ebe306bf1fc8f7eb4eca2 blk 332089 txid 85
 u=https://cpr.sm/VrwS2NSQxo
 
-tx 905c4d1ee5873d8a0504e1e506f8c00895c3fba3963929822ec3fdd6397c4b7e
+tx 905c4d1ee5873d8a0504e1e506f8c00895c3fba3963929822ec3fdd6397c4b7e blk 332093 txid 224
 01yes!0000000000000W
 
-tx a889cf23f9674939dc3d813adac55089d3716787ff666b9b0e930c72fe608e31
+tx a889cf23f9674939dc3d813adac55089d3716787ff666b9b0e930c72fe608e31 blk 332163 txid 1189
 vOhttp://bit.ly/1fvekM9
 
-tx df30f7a86d81a3969959b47c5f908b46177db2ec7495454ed07f8b4ca626f5e0
+tx df30f7a86d81a3969959b47c5f908b46177db2ec7495454ed07f8b4ca626f5e0 blk 332163 txid 1332
 vOhttp://jarokn.deviantart.
 
-tx 322a611420e5a0aeefae17ae6e9c017778dea16ee1c1643adffdda40a1063def
+tx 322a611420e5a0aeefae17ae6e9c017778dea16ee1c1643adffdda40a1063def blk 332200 txid 1127
 import os
 import hashlib
 # Returns the hash of a block, based on code from Electrum 1.9x. (Electrum's bitcoin.py, blockchain.py, GNU GPL 3,  https://github.com/spesmilo/electrum)
@@ -109,13 +109,13 @@ if __name__ == '__main__':
 
 
 
-tx a2a8f3bbb0db085492bb93d53cfe7617079c2cb45ad8a78c7e7e1266e9bdd212
+tx a2a8f3bbb0db085492bb93d53cfe7617079c2cb45ad8a78c7e7e1266e9bdd212 blk 332204 txid 768
 34f759e335ba8ee79ecf9436a5d70cffdb95719b
 57b93635a02a24ff657oQ
 0734209c3b1704fff5e94
 
 
-tx 5b4870e1d802653de1564846997c08ac0089e1065cd728e88fdffd91a42d80f5
+tx 5b4870e1d802653de1564846997c08ac0089e1065cd728e88fdffd91a42d80f5 blk 332204 txid 1148
 disregard transaction 322a611420e5a0aeefae1
 line1
 
@@ -128,20 +128,20 @@ comment test: bla 'string' hash some comment
 line is probably screwed up: bla 'string' # some comment 
 
 
-tx ef3f749f47136ad4221bd9e5b1a3da4f44ab2aabc230a3df7b62157e78bdc903
+tx ef3f749f47136ad4221bd9e5b1a3da4f44ab2aabc230a3df7b62157e78bdc903 blk 332204 txid 1149
 line1
 
 line2
  
 line3
 
-tx d3bbd204be7875719e1b45f9dc8989ae0cfc6c89fb188ead17ca91276022e998
+tx d3bbd204be7875719e1b45f9dc8989ae0cfc6c89fb188ead17ca91276022e998 blk 332204 txid 1150
 hello world
 
 line2
  
 
-tx 401b30d1bae165fe0c55dfeeb705d1b2b39990039a97b4523f60b2250b84cb0e
+tx 401b30d1bae165fe0c55dfeeb705d1b2b39990039a97b4523f60b2250b84cb0e blk 332204 txid 1151
 hello world
 
 line2
@@ -150,19 +150,19 @@ line2
 line3
        
 
-tx 4f17f57f6397b1a5db5be4367f6229b1a49a7c8c5ae2309a1791f00a2d910a4e
+tx 4f17f57f6397b1a5db5be4367f6229b1a49a7c8c5ae2309a1791f00a2d910a4e blk 332204 txid 1152
 Conclusion:
 
 If you want empty lines displayed on cryptograffiti.info you need to have "\r\n" line endings and you need to do your own byte to base58chk address conversion.
     
 
-tx b7d7005714d1f1c66cb1d67b9154b40fc5dd3f4b6dc7912ca6d613893591b69a
+tx b7d7005714d1f1c66cb1d67b9154b40fc5dd3f4b6dc7912ca6d613893591b69a blk 332205 txid 36
 Re: Conclusion
 AboutzA8 empty lines, it's a known bug and will be fixed.
 
 -- Hyena
 
-tx 593757c37303a8487c60ed2c522b315594b365a66b2012c46da0ac8bb504225a
+tx 593757c37303a8487c60ed2c522b315594b365a66b2012c46da0ac8bb504225a blk 332206 txid 351
 # electrumtools.py
 # Returns the hash of a block
 # Based on code from Electrum 1.9x. (bitcoin.py, blockchain.py, GNU GPL 3, https://github.com/spesmilo/electrum)
@@ -236,29 +236,29 @@ if __name__ == '__main__':
     print hash_header(h)
                    
 
-tx af0e4e4000eb2ae96d33a98d43073b2e9c851cdd6f47cac1944fd5494efa8434
+tx af0e4e4000eb2ae96d33a98d43073b2e9c851cdd6f47cac1944fd5494efa8434 blk 332257 txid 103
 u=https://cpr.sm/97-MH_e4hu
 
-tx 7d89fef0a34a4a254569e259e160b1ecaac6a4a0ecdf6581434fc853f5a8b86d
+tx 7d89fef0a34a4a254569e259e160b1ecaac6a4a0ecdf6581434fc853f5a8b86d blk 332290 txid 53
  tact details deepwebfinance@lela
 
-tx 5af6c330e0119f46bce7e201c98e99c54e56b5dbf297307d019708fd4a633060
+tx 5af6c330e0119f46bce7e201c98e99c54e56b5dbf297307d019708fd4a633060 blk 332306 txid 1138
 U2FsdGVkX1/W20OASSqIzEX0n+RDEBvtzsWCTx4Esz8RxPW65rsIwZBUKRN0UzFo
 PQBeTlDe6G2QDNlnxebcKEXLok0tAHCbUYynlzaHndDF4McynqDDZ7p6P2YeSsqq
 g+y7xYs6mPnQ3KYl4UiYURINWlAjuM{U\<~
 4Loyzh1zFUeZvKMUHlxyCUYo+Fjva8JUxo
 XYWdyErgqvz9IgpD2c6SqA==
 
-tx ea8a4ad05a744a6bbfa6f3b004369abdd1ac82325511991f6addde7b1ee5e195
+tx ea8a4ad05a744a6bbfa6f3b004369abdd1ac82325511991f6addde7b1ee5e195 blk 332307 txid 991
 )Crypto-Rewards Program ht
 
-tx ce5e6aabe78927febcc8b7a8662f48b03e2bcde239a8f537f29e2cd152940bcf
+tx ce5e6aabe78927febcc8b7a8662f48b03e2bcde239a8f537f29e2cd152940bcf blk 332313 txid 159
 this is a test
 how are you!!
 I would like to order 1 pizza
 
 
-tx e6186d73c96af05443fdddf9447a51e2ddea5264bdf7636db3e61945e3394fab
+tx e6186d73c96af05443fdddf9447a51e2ddea5264bdf7636db3e61945e3394fab blk 332318 txid 570
 U2FsdGVkX199u2lyJtIwg2oQkVPzRQPMvoGyI1kThnY/Wl263au2dJjh5io6T/LM
 cZYgOaxcjm9rV1Iw7JPe4C44H1N9Y+RGyxrc9g8HjEnqdomXTccYjvCVCR4z/XbO
 XroyXxOStnJF5CCAJbzfrrFvkIVos3PStFlnkBaqfSe7zAWZhxOzZSxJ8Wg94L4w
@@ -309,152 +309,152 @@ BlPL2NygJ7xCfBsZMrvfsz9QLoQKqEwN+ztak0jWlSqIiWDd/V/vJRZv5HLh2+dV
 piX6EWYIQBQH8Zf5MPtLbgHfFB31uRnCly2L7XDoWDw=
      
 
-tx 6974c3f413896a56f7bea52620d1abd04b6fa8d3bcb8342d55e67a7977e42164
+tx 6974c3f413896a56f7bea52620d1abd04b6fa8d3bcb8342d55e67a7977e42164 blk 332323 txid 1177
 e37ed534f31f0a922ff7563c9dd7ea62262827eb
 fc0013c6a932a47ec2eoQ
 88acd64a220d9c43184d6
 
 
-tx ba0eed387337cf90c2c541cb2595808cba4265ac468299105a77cd51164d69e7
+tx ba0eed387337cf90c2c541cb2595808cba4265ac468299105a77cd51164d69e7 blk 332326 txid 270
 045f62843935f872beb11b4833157ef1f1841227
 64014720dc86ff4f5c87bf693c24af604bb2437d
 
 
-tx 8e785b84086426bda9d00dbbb45cd05fa6ef1e10999f2ea825f3a957f1f62b94
+tx 8e785b84086426bda9d00dbbb45cd05fa6ef1e10999f2ea825f3a957f1f62b94 blk 332350 txid 382
 61 ": "Nomad Coins"}
 
-tx ee0b3ac8aebe1d3568f742fbe339633a990b5a19794320d43fcd47cc0a2337a8
+tx ee0b3ac8aebe1d3568f742fbe339633a990b5a19794320d43fcd47cc0a2337a8 blk 332350 txid 384
 60 {"total": 10000000, "desc": "", "name
 
-tx 70722cd20ecd37da2c80cab2b0c82fc3afe58b4d0e330a27fcd4bbd90ada4a31
+tx 70722cd20ecd37da2c80cab2b0c82fc3afe58b4d0e330a27fcd4bbd90ada4a31 blk 332357 txid 777
 Don't hurt me no more
 
 
-tx b7714c5aef324522fc62957d8c98047efa4e4034e4e59a91099e2183cc138413
+tx b7714c5aef324522fc62957d8c98047efa4e4034e4e59a91099e2183cc138413 blk 332357 txid 1054
 I don't know why you're not there
 I give you my love but you don't care
 So what is right and what is wrong?
 Gimme a sign
 
 
-tx dc03ebd463104461afeedb8a864e9dd3a4a66c0a0140bd782e7afbea5f22dfbb
+tx dc03ebd463104461afeedb8a864e9dd3a4a66c0a0140bd782e7afbea5f22dfbb blk 332358 txid 282
 t1 ins", "total": 10000000}
 
-tx 165e522e2800db68c9cbed91dc0366be17b60cd6257acb549fd39159b41b71ef
+tx 165e522e2800db68c9cbed91dc0366be17b60cd6257acb549fd39159b41b71ef blk 332358 txid 284
 t0 {"desc": "", "name": "Pretty Shots Co
 
-tx e29d7753c1fd09b29761ce567312bc75dcf82aba1dc7d911c0bc137e8a039147
+tx e29d7753c1fd09b29761ce567312bc75dcf82aba1dc7d911c0bc137e8a039147 blk 332362 txid 195
 u=https://cpr.sm/DItHoMY8WuP
 
-tx 60d3295ce95efd68a8faf3849a393608374fb77cebbcdd233c9b1036bf847919
+tx 60d3295ce95efd68a8faf3849a393608374fb77cebbcdd233c9b1036bf847919 blk 332373 txid 576
 'Y12STUDIO@Taiwan@Bitcoin
 
-tx a3a6a1df6cb3cf2fba23b21a09e373f1276d6e40f8e6d5eef81ff78894c95547
+tx a3a6a1df6cb3cf2fba23b21a09e373f1276d6e40f8e6d5eef81ff78894c95547 blk 332387 txid 1007
 'HTTP^_^Bitcoin(=^_^=)y12
 
-tx 895baefe117926c313ec31f929058dfccb310a18ea0e8d771525ec1b75016240
+tx 895baefe117926c313ec31f929058dfccb310a18ea0e8d771525ec1b75016240 blk 332390 txid 323
 %Gold backing that increas
 
-tx 01c2111d32c7328694ff727c5e680e25ce674f718f909d11ac0910c6b66c1fb5
+tx 01c2111d32c7328694ff727c5e680e25ce674f718f909d11ac0910c6b66c1fb5 blk 332427 txid 562
 Ohttp://cyber.fund/pie
 
-tx b8944d7d3414437eb377577498e287273d3bec5988b02e90d01dfce128fc0ccc
+tx b8944d7d3414437eb377577498e287273d3bec5988b02e90d01dfce128fc0ccc blk 332427 txid 563
 Ohttp://cyber.fund/wallet
 
-tx af0a4609bc5d25db0d7c088526b0780d0b5a10bbadeb22f7137063b98bc4408e
+tx af0a4609bc5d25db0d7c088526b0780d0b5a10bbadeb22f7137063b98bc4408e blk 332427 txid 564
 Ohttp://cybertalks.org
 
-tx d244f12969a41b8f69c14386adff6abde2a4f7aceb5d37b194af6830d342b36d
+tx d244f12969a41b8f69c14386adff6abde2a4f7aceb5d37b194af6830d342b36d blk 332427 txid 566
 Ohttp://paper.cyber.fund
 
-tx 9a60c42962ef6dee0d6c239f9e6e1f1c0d81a9d7a7861667f13109847fdac07e
+tx 9a60c42962ef6dee0d6c239f9e6e1f1c0d81a9d7a7861667f13109847fdac07e blk 332427 txid 567
 Ohttp://digest.cyber.fund
 
-tx 4d7b188ed442fe77dd6134d23d9304cf01a55c5911fda1f2e2489fc6e1ec9cf6
+tx 4d7b188ed442fe77dd6134d23d9304cf01a55c5911fda1f2e2489fc6e1ec9cf6 blk 332433 txid 385
 y12^_^Taichung@Taiwan
 
-tx 6008efd26364bc8825a62d04823b307cd96a124995e333a42ccbe173099c6581
+tx 6008efd26364bc8825a62d04823b307cd96a124995e333a42ccbe173099c6581 blk 332440 txid 335
 Z(Inspiration from the Xiao
 
-tx 7bb5f0711d14cda1d98e6e3589efc07c05cdfb29a11a4068a2a0d5a19da1d95e
+tx 7bb5f0711d14cda1d98e6e3589efc07c05cdfb29a11a4068a2a0d5a19da1d95e blk 332443 txid 612
 Z&QQ Coin ,QQ is very Popul
 
-tx 67e06e5d6a3943497fd3dec6ac7d987be505221642bfbd6ea4d4a240b401ca06
+tx 67e06e5d6a3943497fd3dec6ac7d987be505221642bfbd6ea4d4a240b401ca06 blk 332446 txid 254
 ZInspiration comes from YY
 
-tx 7e7d3107d6af57bedc1bee73939e3e5780b850c417cfdf0c75924a8342f5ec45
+tx 7e7d3107d6af57bedc1bee73939e3e5780b850c417cfdf0c75924a8342f5ec45 blk 332450 txid 1798
 Z)youku is very popular vid
 
-tx 604f17dfdb5a88fc072bd2bcf53436087c899051241e519af7241dc0037d3df6
+tx 604f17dfdb5a88fc072bd2bcf53436087c899051241e519af7241dc0037d3df6 blk 332467 txid 22
 Dear hive team, ever since I have discovered Bitcoin I have been a fan of your products. Aside from the beautiful design I like your retreat from QR-Codes towards leveraging bluetooth as a much better medium of address exchange. Your way of making Bitcoin wallets handy and easy to use will ultimately help Bitcoin to reach mainstream awareness, which in my opinion is an important issue to tackle in times of proprietary payment providers like Apple Pay or Square. Furthermore, the fact that your company is not only publishing your own code but also actively contributing to other open source projects is a detail I highly appreciate. This is why you are one of the few companies I could image working for. Currently I am working on my bachelor thesis on Context-Aware Computing and Sentiment Analysis which I am going to complete by March 2015. Afterwards I would like to take up new Challenges(); #include <bitcoin.h> and focus on developing thick client applications for mobile devices just like your web wallet. In my three years of studying Computer Science and Media at the University of Ulm I have been focusing my attention fully on learning how to develop web applications in JavaScript. The work with Node.js and Angular.js drove my creativity and enabled me to develop highly efficiently which led to a number of serious team projects. With my experience in modern web development I would surely be a valuable associate to your team. If I have made you curious and you are interested in taking this further I would be happy to send you more detailed information about me or even arrange a date for an interview. I am looking forward to hearing from you. Sincerely, Tim Daubenschuetz
 
-tx 325b3f66bc3e5dd4c524efdc53db14731f19de9f0c91953b16c00e6cdffc50ad
+tx 325b3f66bc3e5dd4c524efdc53db14731f19de9f0c91953b16c00e6cdffc50ad blk 332467 txid 686
 Su=https://cpr.sm/a2jLkNnomx
 
-tx ed49fb7c01f859dbacf011332f2a3d694b8566e3bc01e5c44dae156fe7519cde
+tx ed49fb7c01f859dbacf011332f2a3d694b8566e3bc01e5c44dae156fe7519cde blk 332469 txid 1760
 Zu=https://cpr.sm/Hm0qkGLfAz)
 
-tx 7510a115a18e8f385a86dfcad5fac02f36ffcc5dd38b95bacb18eac40791bf2a
+tx 7510a115a18e8f385a86dfcad5fac02f36ffcc5dd38b95bacb18eac40791bf2a blk 332557 txid 201
 (Counterparty News - count
 
-tx 2269244d7680c2ad1090d518de1b18b0e6d84a2ae9d8e13cfa24457535e7ce62
+tx 2269244d7680c2ad1090d518de1b18b0e6d84a2ae9d8e13cfa24457535e7ce62 blk 332568 txid 970
 'y12.tw@Taiwan:-)Taichung
 
-tx 4da67a277648b477c3234a8b67de89fea1d626550e9545dbdfecfafcd2673b51
+tx 4da67a277648b477c3234a8b67de89fea1d626550e9545dbdfecfafcd2673b51 blk 332577 txid 780
 'github.com/y12studio(*_*)
 
-tx 325ef5de0d1d71f567fd050856799b1479ebda6bd0934e9efc02e28e47ef2e21
+tx 325ef5de0d1d71f567fd050856799b1479ebda6bd0934e9efc02e28e47ef2e21 blk 332594 txid 527
 u=https://cpr.sm/L-0hbad4SGv
 
-tx 20a4e13297b8aa99be3fc1a6219984efae6659e9eb6f09e6f6c61c448110b33b
+tx 20a4e13297b8aa99be3fc1a6219984efae6659e9eb6f09e6f6c61c448110b33b blk 332645 txid 1414
 9nDW BITCOIN DIFFICULTY
 
-tx 1eaf6334353b85994e3d319e7e3485c848253233868e2f21e1c1138195a67da0
+tx 1eaf6334353b85994e3d319e7e3485c848253233868e2f21e1c1138195a67da0 blk 332654 txid 70
 #http://preview.tinyurl.com/ap9991
 
-tx 137cd4d4f2c776c778463acd484cd8b94b697e0d80ec6e80e7c4f97c09af360c
+tx 137cd4d4f2c776c778463acd484cd8b94b697e0d80ec6e80e7c4f97c09af360c blk 332658 txid 258
 $foldingcoin.net/index.php
 
-tx 091e20d170fe47c28b3c568710ae6e8372aec172f759d6bbd112ed32032729d9
+tx 091e20d170fe47c28b3c568710ae6e8372aec172f759d6bbd112ed32032729d9 blk 332660 txid 800
 ToTheMoonOrTaichung@Taiwan
 
-tx 4bc3c63dbc8bb350f241032876676aaeb95caabf8097f98c3916a6ecde2b9e1b
+tx 4bc3c63dbc8bb350f241032876676aaeb95caabf8097f98c3916a6ecde2b9e1b blk 332664 txid 1497
 Z(Inspiration from the Xiao
 
-tx 3542c076336873e512a0dad3f3d39883cede0bde1c2c0b6658314a20408177cd
+tx 3542c076336873e512a0dad3f3d39883cede0bde1c2c0b6658314a20408177cd blk 332665 txid 40
 http://preview.tinyurl.com/apdotpdf
 
-tx f7497982746b71607308720b8577eaaaacfe2ee3e5520833c0dc00871f64e1fe
+tx f7497982746b71607308720b8577eaaaacfe2ee3e5520833c0dc00871f64e1fe blk 332671 txid 24
 ~http://preview.tinyurl.com/krypto-ap-pdf
 
-tx 964ff34cc92648e3f7fad74090e1a655a46fb8d9a7a4daa111cbff61d7cc4501
+tx 964ff34cc92648e3f7fad74090e1a655a46fb8d9a7a4daa111cbff61d7cc4501 blk 332675 txid 566
 Z&QQ Coin ,QQ is very Popul
 
-tx 0bdc967423ccd863bb2f669bf738b55a0a8d9d8c49385a82bfe24de41ac1598c
+tx 0bdc967423ccd863bb2f669bf738b55a0a8d9d8c49385a82bfe24de41ac1598c blk 332678 txid 435
  I <3 p'tite peluche!
 
-tx c8674f32a31f3c195be48f95cdf074ce711c19ad5fb9b67cd0fc5ee4067a1e5d
+tx c8674f32a31f3c195be48f95cdf074ce711c19ad5fb9b67cd0fc5ee4067a1e5d blk 332700 txid 1799
 )Crypto Currency owned by 
 
-tx 65bb1a0cfbfb2aea369a4d8f4ecba505117cdf975e70ded590f8f3c3ab43a8e4
+tx 65bb1a0cfbfb2aea369a4d8f4ecba505117cdf975e70ded590f8f3c3ab43a8e4 blk 332705 txid 340
 u=https://cpr.sm/QpiYh_6XHI
 
-tx 41289aec37f7c434943fabb23ef5d5e78b1378fe8302b52ecb49028f7b2b33a2
+tx 41289aec37f7c434943fabb23ef5d5e78b1378fe8302b52ecb49028f7b2b33a2 blk 332708 txid 868
 u=https://cpr.sm/iKHIWKEeM1MWr
 
-tx 5ec3d0fa76651a5665fbf9ddef86770c6a1c8a45b190c00c74e982181105e89c
+tx 5ec3d0fa76651a5665fbf9ddef86770c6a1c8a45b190c00c74e982181105e89c blk 332709 txid 557
 u=https://cpr.sm/Hx6rTG9EMn
 
-tx 02f54da76997c5be242a13b8a72b9981da027c318a8248610b972d48a29b21f0
+tx 02f54da76997c5be242a13b8a72b9981da027c318a8248610b972d48a29b21f0 blk 332722 txid 161
 Hello World, there is so much opportunity now that we have true freedom of speech!
 
-tx 67cd74bbd3d40b784baec68ba2fd7bc1d104339f2019fb24d8db806fd7afc35e
+tx 67cd74bbd3d40b784baec68ba2fd7bc1d104339f2019fb24d8db806fd7afc35e blk 332729 txid 669
 &0065-01456-22So.ExpeditiousLn03028F
 
-tx 93bc487b24143745eaffcde438b9f0c2891b92c36dfe3c716779fa17676c3c91
+tx 93bc487b24143745eaffcde438b9f0c2891b92c36dfe3c716779fa17676c3c91 blk 332731 txid 1241
 y0065-01456-22So.ExpeditiousLn03028
 
-tx 9a74d0ee2e9a925d9afadc413e087fa2effda031935bf19a0d4d48df76e4ce3f
+tx 9a74d0ee2e9a925d9afadc413e087fa2effda031935bf19a0d4d48df76e4ce3f blk 332750 txid 675
  -------------------------------------
 |  Force of Will               3 U U  |
 |  ---------------------------------  |
@@ -484,112 +484,112 @@ tx 9a74d0ee2e9a925d9afadc413e087fa2effda031935bf19a0d4d48df76e4ce3f
  -------------------------------------
 
 
-tx 0f05c47a8caafadecc10d70ba3bf010eaf6bb416b5e1ad7b01cf3445f5fb7a1c
+tx 0f05c47a8caafadecc10d70ba3bf010eaf6bb416b5e1ad7b01cf3445f5fb7a1c blk 332755 txid 382
 I am. Therefore, I have come to be.
 
 -- Hyena
 
 
-tx e6d48f6912929a58a2ee30c13768058777d8547215c27109b5cb0724e7abaaba
+tx e6d48f6912929a58a2ee30c13768058777d8547215c27109b5cb0724e7abaaba blk 332762 txid 470
 Erich,
 Bro, this looks excellent!!
 -Duriel
 
 
-tx f829d0f40ddf7db9bfa41b160139f7ab986faae1a3a9a1e08d1c20a4c8c39dd6
+tx f829d0f40ddf7db9bfa41b160139f7ab986faae1a3a9a1e08d1c20a4c8c39dd6 blk 332787 txid 679
 X]kN,https://twitter.com/POWCO
 
-tx a29922bd3d9535a120eeaa38dde7e08fbba6b68f2344fc16f91fed2be24d5326
+tx a29922bd3d9535a120eeaa38dde7e08fbba6b68f2344fc16f91fed2be24d5326 blk 332790 txid 664
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 7817d531d4dde12708a9b30eac96047df85ed6739e7e0febc93dd67a233c682c
+tx 7817d531d4dde12708a9b30eac96047df85ed6739e7e0febc93dd67a233c682c blk 332790 txid 665
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 5fe4cdc7269daf006e91163ac3bf1a25eeae6885fc50b74d133670aa28953d56
+tx 5fe4cdc7269daf006e91163ac3bf1a25eeae6885fc50b74d133670aa28953d56 blk 332790 txid 666
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 86b5a2abb2acce98af37d7134cd5dc0ba076ff5a744d00397d5db2f19566a74d
+tx 86b5a2abb2acce98af37d7134cd5dc0ba076ff5a744d00397d5db2f19566a74d blk 332792 txid 811
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 7d80aec8687ac421edfdce35cfb099177582bf8bb5354daf8a9a865ce1c46c2c
+tx 7d80aec8687ac421edfdce35cfb099177582bf8bb5354daf8a9a865ce1c46c2c blk 332792 txid 812
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 61df9fdb7ec4157c6e19a35dde07525cc4f725e07ef0411124ec1ce0b8e8355c
+tx 61df9fdb7ec4157c6e19a35dde07525cc4f725e07ef0411124ec1ce0b8e8355c blk 332811 txid 164
 Jeff <3's Yvonne ;-)
 
-tx f8d097097006736cb5bd64c50541298729582a67c081cb4215b484e2f51fe975
+tx f8d097097006736cb5bd64c50541298729582a67c081cb4215b484e2f51fe975 blk 332818 txid 322
 Y12Studio^_^Taichu@Taiwan
 
-tx 73c40b938205e6e29a9f701e4e91ecc040f7829f2a1f7a65eb357171386aaff2
+tx 73c40b938205e6e29a9f701e4e91ecc040f7829f2a1f7a65eb357171386aaff2 blk 332821 txid 866
 Y12Studio^_^LOL@TaiwanOrz
 
-tx a72a65583028ef5c5e51080c02a987de08d35201a03b62a98c54408874a60eb2
+tx a72a65583028ef5c5e51080c02a987de08d35201a03b62a98c54408874a60eb2 blk 332824 txid 264
 Taichu.proto.v1@y12.tw(**)LOL
 
-tx c03f65a1d696c48337162bce5daaf2438f060dbed5121b2a51426b8a3bca7102
+tx c03f65a1d696c48337162bce5daaf2438f060dbed5121b2a51426b8a3bca7102 blk 332835 txid 856
 
 u=https://cpr.sm/RRFBOppjXWt
 
-tx c8e0dc7c1cb6ce7ce4221d59c34ddc665d01dca972729d6202720ba06850a571
+tx c8e0dc7c1cb6ce7ce4221d59c34ddc665d01dca972729d6202720ba06850a571 blk 332836 txid 239
 
 u=https://cpr.sm/RRFBOppjXWt
 
-tx 9c73af0db3bb2266f0f2d0c23276f6c06b481c31005d3cb9abab452596f7454e
+tx 9c73af0db3bb2266f0f2d0c23276f6c06b481c31005d3cb9abab452596f7454e blk 332844 txid 404
 u=https://cpr.sm/cbPhSLgKXA
 
-tx 35dc031e126748a9e5e31d74b009752b24909a92df32515a658dc605fa486591
+tx 35dc031e126748a9e5e31d74b009752b24909a92df32515a658dc605fa486591 blk 332851 txid 423
 PAACN+MUMzRDNFMjAzOT
 
-tx 636b0044976889e273d18b3efead0f794e11ef7d5e92747fa0e15713abfdc6f2
+tx 636b0044976889e273d18b3efead0f794e11ef7d5e92747fa0e15713abfdc6f2 blk 332851 txid 927
 PAACN+MUMzRDNFMjAzOTJBM0U2Mw==          8
 
-tx 6623dfc1903c8485b5bda4636cdc579b564e5a3f093c862f4b795809ae01280c
+tx 6623dfc1903c8485b5bda4636cdc579b564e5a3f093c862f4b795809ae01280c blk 332852 txid 465
 PAACN+ZDNjMDUzYjU4NmM4MDg2MA==          dd
 
-tx 5444d8b90393e4e52e6d89be99afc6ac3caec289ef807955c60bdb41ec8db49e
+tx 5444d8b90393e4e52e6d89be99afc6ac3caec289ef807955c60bdb41ec8db49e blk 332853 txid 595
 PAACN+MTM0MzdFNkQxOEI5NDQ1Nw==          J
 
-tx f107b9b90be7db409d37b3de0b3444438f0dbe56cd8b9c96cf39d42fc4b872ab
+tx f107b9b90be7db409d37b3de0b3444438f0dbe56cd8b9c96cf39d42fc4b872ab blk 332853 txid 625
 PAACN+RUQ4NDZDNkZDNzhCOUUxMw==          
 
-tx b3776a2203edb189031d29770cb04350b3607eeff72bec3bade5a8ab799c1467
+tx b3776a2203edb189031d29770cb04350b3607eeff72bec3bade5a8ab799c1467 blk 332860 txid 343
 Top monthly FLDC folders
 
-tx ee3750dc852fe1694c64a1b86f595573f2b459d9b8957086e0c0e50c4c1bd4cb
+tx ee3750dc852fe1694c64a1b86f595573f2b459d9b8957086e0c0e50c4c1bd4cb blk 332877 txid 1269
 u=https://cpr.sm/vN3BZDcEFP
 
-tx 860be35fd1fb3cb320447d999b6c9d6ba2e68785d67b49010b41bd2cb8b583a8
+tx 860be35fd1fb3cb320447d999b6c9d6ba2e68785d67b49010b41bd2cb8b583a8 blk 332877 txid 1271
 u=https://cpr.sm/0RRC3QC5-A
 
-tx 5be65282ac578d1b37adabe49ca63e5d7394d139fa101a6b5eba1f5e29e176ff
+tx 5be65282ac578d1b37adabe49ca63e5d7394d139fa101a6b5eba1f5e29e176ff blk 332878 txid 695
 u=https://cpr.sm/wt3OYZSgtc
 
-tx 46fb127a85b818560dba372711b3f8ea0a8d6347cdc67eecf618870aff55a9d8
+tx 46fb127a85b818560dba372711b3f8ea0a8d6347cdc67eecf618870aff55a9d8 blk 332896 txid 622
 u=https://cpr.sm/M-so_snjmi
 
-tx 26ba74eccf7f8a06479267df6ca71cd1c6b1258ed55217afb6b78584b141b98f
+tx 26ba74eccf7f8a06479267df6ca71cd1c6b1258ed55217afb6b78584b141b98f blk 332896 txid 967
 t1 , "total": 10000000}
 
-tx 88465e512c0fd9e4263fb65e17fe513d0cf2f7073d17291c34020f592e9b6fe2
+tx 88465e512c0fd9e4263fb65e17fe513d0cf2f7073d17291c34020f592e9b6fe2 blk 332896 txid 969
 t0 {"desc": "", "name": "BoxyChat Coins"
 
-tx 191fb901b88b3900c095c36bdd2ea95c17453249dcc20817a161d5e5a84cfc72
+tx 191fb901b88b3900c095c36bdd2ea95c17453249dcc20817a161d5e5a84cfc72 blk 332905 txid 954
 89956653ac468c8dbf3b106be40b49fa53de77df
 a5a662cd2aad4ce1ee2d47c4bfc8a4dbfe5a1ed3
 
 
-tx a803dfe49f67a2fc2c5d7fb2376c03b6bdccba0172ecc1eebc69e998a4d6472c
+tx a803dfe49f67a2fc2c5d7fb2376c03b6bdccba0172ecc1eebc69e998a4d6472c blk 332905 txid 967
 <Token for The Joy of Bitc
 
-tx 63df4e28a3625108abdd50c510bccd84cf2facb79b95c83e152c1619b1004a25
+tx 63df4e28a3625108abdd50c510bccd84cf2facb79b95c83e152c1619b1004a25 blk 332908 txid 391
 u=https://cpr.sm/M-so_snjmi
 
-tx dd3b9ded24b035799849ebf7988d15b5396796e4439a215cf3d69903b7719c26
+tx dd3b9ded24b035799849ebf7988d15b5396796e4439a215cf3d69903b7719c26 blk 332930 txid 480
 u=https://cpr.sm/XqW3rfwogm~4u4D
 
-tx dcb069d1dadb9d7f2160f800cbcc8034f259fdf62047b35ce7d1f37a3112cf3e
+tx dcb069d1dadb9d7f2160f800cbcc8034f259fdf62047b35ce7d1f37a3112cf3e blk 332957 txid 1004
 "
  istscare.org/donate(^_^)y12.tw:)
 
-tx 756af16d94de56316b066776c93c2e09e48a0c3b9293ea5dd76b58ce19bc78ac
+tx 756af16d94de56316b066776c93c2e09e48a0c3b9293ea5dd76b58ce19bc78ac blk 332975 txid 311
 u=https://cpr.sm/XqW3rfwogm~4u4D

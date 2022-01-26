@@ -1,82 +1,82 @@
-tx 8d3c948c7460620e613128f3a935e79f22c281f077dd5de34af232b429ed99ac
+tx 8d3c948c7460620e613128f3a935e79f22c281f077dd5de34af232b429ed99ac blk 337005 txid 1055
 zASCRIBESPOOLREGISTER
 
-tx 7c4e515536acca538125f12212f816496baab21ef0ba21e45bf2c7e664c40637
+tx 7c4e515536acca538125f12212f816496baab21ef0ba21e45bf2c7e664c40637 blk 337014 txid 844
 Htangible.io is live.
 
-tx dcfe710938970b4e9f6bc1f0dbccd6035a626505f6d67e9a10de5e40e71f59ba
+tx dcfe710938970b4e9f6bc1f0dbccd6035a626505f6d67e9a10de5e40e71f59ba blk 337034 txid 178
 zASCRIBESPOOLREPLENISH
 
-tx 633ee03d44bf29b773ecacf8911d46f94d28f342170ff68ad2b6701cdd4bc537
+tx 633ee03d44bf29b773ecacf8911d46f94d28f342170ff68ad2b6701cdd4bc537 blk 337034 txid 180
 zASCRIBESPOOLREPLENISH
 
-tx 8940b9538bc54ca6f6ba545fff97117b8a284fc9fcd2679c3922f7d97a70a5d4
+tx 8940b9538bc54ca6f6ba545fff97117b8a284fc9fcd2679c3922f7d97a70a5d4 blk 337034 txid 181
 zASCRIBESPOOLREPLENISH
 
-tx bedde2ade4ea182a4f88f6bb3676e50180072a667c4ed76a742ebc562012ab61
+tx bedde2ade4ea182a4f88f6bb3676e50180072a667c4ed76a742ebc562012ab61 blk 337034 txid 182
 zASCRIBESPOOLREPLENISH
 
-tx 1ae6322308043429dfbbf59373c92e859cf3c506aff638ee17b31f29e8c2bdd1
+tx 1ae6322308043429dfbbf59373c92e859cf3c506aff638ee17b31f29e8c2bdd1 blk 337035 txid 28
 yASCRIBESPOOLCONSIGN
 
-tx 514ceb4856af4264ba883fff7c599aee3fcb106724addae4b3b2db3c4e2c357f
+tx 514ceb4856af4264ba883fff7c599aee3fcb106724addae4b3b2db3c4e2c357f blk 337036 txid 112
 zASCRIBESPOOLREPLENISH
 
-tx f82c3995b111078a83ddc5a6dd39480df9b2cd372c89263f95f7b10487a6a205
+tx f82c3995b111078a83ddc5a6dd39480df9b2cd372c89263f95f7b10487a6a205 blk 337036 txid 113
 zASCRIBESPOOLREPLENISH
 
-tx 2fb156bfa39385459e8c1796abb1920581f218fdd15cc5d419ea248b001996c6
+tx 2fb156bfa39385459e8c1796abb1920581f218fdd15cc5d419ea248b001996c6 blk 337041 txid 103
 ASCRIBESPOOLUNCONSIGN
 
-tx 672598c656d6a06d1436545295e4a8d084f8f9640ce4ba8bc76560987d134a5a
+tx 672598c656d6a06d1436545295e4a8d084f8f9640ce4ba8bc76560987d134a5a blk 337041 txid 109
 ASCRIBESPOOLUNCONSIGN
 
-tx 96b03aa02b495e71b42f5aa6b6e44545b9ebe8b40a22692d89eaf336fb686edb
+tx 96b03aa02b495e71b42f5aa6b6e44545b9ebe8b40a22692d89eaf336fb686edb blk 337096 txid 1052
 zASCRIBESPOOLREPLENISH
 
-tx e9d74af928ff075e1d9ddf7f4521b28d5f61a88d37bcc12744300bfdfde4093c
+tx e9d74af928ff075e1d9ddf7f4521b28d5f61a88d37bcc12744300bfdfde4093c blk 337102 txid 278
 zASCRIBESPOOLREPLENISH
 
-tx 6b10c38f54730d59b9ae280463713d6962010a6b1ef941a74a9b9f458e6bdc07
+tx 6b10c38f54730d59b9ae280463713d6962010a6b1ef941a74a9b9f458e6bdc07 blk 337112 txid 1147
 zASCRIBESPOOLREPLENISH
 
-tx 8e76e8941103135363e9f95ce4497b4d35e7f34910ca9f9209ff28136512a954
+tx 8e76e8941103135363e9f95ce4497b4d35e7f34910ca9f9209ff28136512a954 blk 337114 txid 129
 ASCRIBESPOOLTRANSFER
 
-tx e8699b927b30fab4c487ef66ac251b9e949927a899f6f21fe90cc85baa69933c
+tx e8699b927b30fab4c487ef66ac251b9e949927a899f6f21fe90cc85baa69933c blk 337119 txid 204
 Takahiro Yamagiwa, i am here.
 
-tx 6be386874dec8976176f1d37306472eef5f74c9ac7135fbc006b8828c725f976
+tx 6be386874dec8976176f1d37306472eef5f74c9ac7135fbc006b8828c725f976 blk 337127 txid 9
 1Greg 'HEARTS' Annie 4EVER
 
-tx a983fd669e907a63deab6b75348f4bfc8d5e8675be7094e237447ee808def06b
+tx a983fd669e907a63deab6b75348f4bfc8d5e8675be7094e237447ee808def06b blk 337139 txid 515
 zASCRIBESPOOLREGISTER
 
-tx 0e8f5f6d49f4885fc4983867fd26e47ec30f2b9f1dd2a9639b3ad46378c99a74
+tx 0e8f5f6d49f4885fc4983867fd26e47ec30f2b9f1dd2a9639b3ad46378c99a74 blk 337145 txid 660
 zASCRIBESPOOLREGISTER
 
-tx 3a510fe51b9de422fd7e82b09cac6fbd853282eff44dd479983a6259fc5dc3d1
+tx 3a510fe51b9de422fd7e82b09cac6fbd853282eff44dd479983a6259fc5dc3d1 blk 337145 txid 661
 zASCRIBESPOOLREGISTER
 
-tx dc80030f4daac97f68ad0c2fe466b79dea23b67fe0be375f6c293a4509893773
+tx dc80030f4daac97f68ad0c2fe466b79dea23b67fe0be375f6c293a4509893773 blk 337145 txid 662
 zASCRIBESPOOLREGISTER
 
-tx a849cf6c307359c703236b920054a84ab639513ec44e84b5525326134075eae4
+tx a849cf6c307359c703236b920054a84ab639513ec44e84b5525326134075eae4 blk 337145 txid 663
 zASCRIBESPOOLREGISTER
 
-tx a372b92eab494a487714fb0e0e78f45ad98f1c28dfb2c617625ca634ecb4cc10
+tx a372b92eab494a487714fb0e0e78f45ad98f1c28dfb2c617625ca634ecb4cc10 blk 337154 txid 528
 u=https://cpr.sm/87o2vyOlmq
 
-tx 102ddab2813db3d8e4ff7490d45a831d20f23b6b99071cc6d46b41e7b163f955
+tx 102ddab2813db3d8e4ff7490d45a831d20f23b6b99071cc6d46b41e7b163f955 blk 337162 txid 639
 ", "total": 10000000}
 
-tx dbbc13a5920ceb8df247f7d75595e591b9af9215661f8daf844521c8a2134de4
+tx dbbc13a5920ceb8df247f7d75595e591b9af9215661f8daf844521c8a2134de4 blk 337162 txid 641
 {"desc": "", "name": "formspree Coins
 
-tx 873214583fd494f7b1a9b2c2d99fdb5cfb2dec86215422bd797261d7e6ef6b6c
+tx 873214583fd494f7b1a9b2c2d99fdb5cfb2dec86215422bd797261d7e6ef6b6c blk 337165 txid 217
 This message is writ(Not the Moby Dick cten from Starbucks. haracter).
 
-tx cb03bc37db9123f7bd084b0275b0a034f2230d4bf923d34eeecf4e5171de4c84
+tx cb03bc37db9123f7bd084b0275b0a034f2230d4bf923d34eeecf4e5171de4c84 blk 337183 txid 848
 # Electrum wordlist old_mnemonic.py, 1626 words
 # https://github.com/spesmilo/electrum/blob/master/lib/old_mnemonic.py
 
@@ -221,28 +221,28 @@ words = [
 ]
          
 
-tx cda06968c8746356959fcefbc023ce66cf6c8acc6a5b8071f329c8130cb67aa8
+tx cda06968c8746356959fcefbc023ce66cf6c8acc6a5b8071f329c8130cb67aa8 blk 337189 txid 366
 zASCRIBESPOOLREGISTER
 
-tx eeedeb9e26452a12abb23710835e4c5c095612746b9d8599e7800026162113c0
+tx eeedeb9e26452a12abb23710835e4c5c095612746b9d8599e7800026162113c0 blk 337191 txid 517
 zASCRIBESPOOLREGISTER
 
-tx 49badfe5662772ac193f60c8eef3b76a5dc6bf22b5389875ec528545e32713af
+tx 49badfe5662772ac193f60c8eef3b76a5dc6bf22b5389875ec528545e32713af blk 337191 txid 518
 zASCRIBESPOOLREGISTER
 
-tx 7257780de41b79777a4e4bdf5aa096c6289fde43fcd58e395c4c2fd9edfb2bee
+tx 7257780de41b79777a4e4bdf5aa096c6289fde43fcd58e395c4c2fd9edfb2bee blk 337191 txid 519
 zASCRIBESPOOLREGISTER
 
-tx 1205a2eaa5f5af90de5574cccd9e172bd1b30b4f1ac19058864956b344e3ce35
+tx 1205a2eaa5f5af90de5574cccd9e172bd1b30b4f1ac19058864956b344e3ce35 blk 337193 txid 1342
 zASCRIBESPOOLREGISTER
 
-tx 4f1f04ad4ac226b1235c7cfa2b0b7b8fd952c8e6b14557ee4ecb3e47c9c4e84b
+tx 4f1f04ad4ac226b1235c7cfa2b0b7b8fd952c8e6b14557ee4ecb3e47c9c4e84b blk 337193 txid 1343
 zASCRIBESPOOLREGISTER
 
-tx 9d1f3c497b6e871165dfc6d028647cd04825d8d305b56046d2eb1a1a3d8c3bbd
+tx 9d1f3c497b6e871165dfc6d028647cd04825d8d305b56046d2eb1a1a3d8c3bbd blk 337193 txid 1344
 zASCRIBESPOOLREGISTER
 
-tx d426f67621a2e0433aabcf40f7e3ef7adc9656f741e92e949f94a07250e5f793
+tx d426f67621a2e0433aabcf40f7e3ef7adc9656f741e92e949f94a07250e5f793 blk 337193 txid 2012
 # Electrum wordlist sha256 checksum
 import hashlib
 
@@ -251,15 +251,15 @@ if __name__ == "__main__":
     #36457fdcaaff463a84891cf5a32710cd754b7efca67060163dd5ae1e5ffe2934
                   
 
-tx 69cd8b09182683d807b3b3e9b78fa5eb384a80d3583d89801cbc892ae5618aeb
+tx 69cd8b09182683d807b3b3e9b78fa5eb384a80d3583d89801cbc892ae5618aeb blk 337246 txid 184
 p&u=https://cpr.sm/41hxcz0z1WV
 
-tx 07f7e908b242fb58f092d78ada873849f28f70114d18d084f45efd61b00ee3c0
+tx 07f7e908b242fb58f092d78ada873849f28f70114d18d084f45efd61b00ee3c0 blk 337246 txid 431
 y, provide for the cn and establish thiste the general Welfa Posterity, do ordaiperfect Union, estabto ourselves and ourommon defence, promolish Justice, insure domestic TranquilitBit-Comm Testing
  United States, in Order to form a more re, and secure the Blessings of Liberty px
 e United States of A Constitution for thWe the People of the
 
-tx 49d6dae7c8159b8e56a623a0e78501b617c12a4289dbd45d557cd3d5ebbb6312
+tx 49d6dae7c8159b8e56a623a0e78501b617c12a4289dbd45d557cd3d5ebbb6312 blk 337246 txid 619
 1z M109.521,262.447l0.014-70.672c21.778-0.18,17.357,0.258,25.612,247.692,174.396part:1000
 -0.009-52.779c8.832,09.535,95.321c18.126,262.431,109.521,2628l32.102,0.009
 			l42-16.697,96.544-67.,0,75.132-5.767,75.1385
@@ -272,137 +272,137 @@ tx 49d6dae7c8159b8e56a623a0e78501b617c12a4289dbd45d557cd3d5ebbb6312
 .638,266.971,131.313.684,0.247l-0.009,522-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx ecf10390a988eb4380a39ba19d0ed63d8eaad492be1d7ad70c9400aaab97af3e
+tx ecf10390a988eb4380a39ba19d0ed63d8eaad492be1d7ad70c9400aaab97af3e blk 337246 txid 620
  Build 0)  -->
 <!DOe Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.or<!-- Generator: Adobencoding="utf-8"?>
 , SVG Export Plug-Inpart:0
 /W3C//DTD SVG 1.1//Epx
 CTYPE svg PUBLIC "-/
 
-tx 187623adb6cb772a71112129797fbc37190fda7475759b811bf6ee6ef87ef5ea
+tx 187623adb6cb772a71112129797fbc37190fda7475759b811bf6ee6ef87ef5ea blk 337246 txid 621
 ayer_1" xmlns="http:g" xmlns:xlink="http"
 	 width="273.6px"://www.w3.org/1999/xTD/svg11.dtd">
 <svg//www.w3.org/2000/svbtc.svg
 g/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="L height="360px" view
 
-tx b744b3cbc581d75f7d4465713e7bdd0c9ff7a0afcd609e78f7d4d4c072a41f5c
+tx b744b3cbc581d75f7d4465713e7bdd0c9ff7a0afcd609e78f7d4d4c072a41f5c blk 337246 txid 622
 enable-background="npart:400
 26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.c-3.667-38.023-36.5
 <g>
 	<g>
 		<path d="M217.021,167.042cBox="0 0 273.6 360" l:space="preserve">18.631-9.483,30.288-
 
-tx e8efc43252e125fe1c3be224f69dfa9aff250f3e692f805f6f9f9b81bc7f22d7
+tx e8efc43252e125fe1c3be224f69dfa9aff250f3e692f805f6f9f9b81bc7f22d7 blk 337246 txid 623
 354c-8.456,0-17.076,	h-32.139l-0.009,51.0.166-25.657,0.338L118l0.006,34.282c0,0,77v-0.156l-44.33-0.004l-0.008-52.741
 		.003l-0.006,52.728
 793,0.277-20.466,0.2			c-6.959,0.142-13.08.76,5.897l-32.11-0
 
-tx 64d8e33de7acd6abd2b77b827e27c59cfef2dcf2ccdd85ad276177efaf1a53f6
+tx 64d8e33de7acd6abd2b77b827e27c59cfef2dcf2ccdd85ad276177efaf1a53f6 blk 337246 txid 624
 009,17.262,7.559,18.part:800
 0.013
 			c13.013,0.3,10.637
 			c0.414,8.335h41.817c7.792,0484,14.076l0.01,60.03.379-0.004l-6.375,323.734-0.446,23.343-0.364-23.379-0.004-283v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 7fce955ea6a6a6b1717431d59a3f9b1e932e7ac8ae8c7238929e6b3d391fcdc5
+tx 7fce955ea6a6a6b1717431d59a3f9b1e932e7ac8ae8c7238929e6b3d391fcdc5 blk 337246 txid 625
 385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.18,17.357,0.258,25part:1000
 -0.009-52.779c8.832,.684,0.247l-0.009,528l32.102,0.009
 			l42-16.697,96.544-67.
 
-tx e870d6e825f71601578b8f5e609ec7520bcfa0b36322fd67085c14a59b308555
+tx e870d6e825f71601578b8f5e609ec7520bcfa0b36322fd67085c14a59b308555 blk 337246 txid 626
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,9.612,247.692,174.39609.535,95.321c18.1262-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1part:1200
 ,36.269-56.996,32.03
 
-tx 7a161234a61fa6243bdcf8ec6a526deea0b94754c1138abe6bf77efa2c9feb93
+tx 7a161234a61fa6243bdcf8ec6a526deea0b94754c1138abe6bf77efa2c9feb93 blk 337246 txid 627
 ,262.431,109.521,2620.094,35.32
 			C199.638,266.971,131.313part:1400
 .447z"/>
 	</g>
 </g
 
-tx e33acd606f507a75a749709f6b6fd07f89ea86f1d3ceb3014cb6aeb27874cc1e
+tx e33acd606f507a75a749709f6b6fd07f89ea86f1d3ceb3014cb6aeb27874cc1e blk 337248 txid 186
 u=https://cpr.sm/Jwl6pz3EQy
 
-tx a787fb312046e2ee6a8c035288442bc005e3dcfec59c02f38b9236b78432ed46
+tx a787fb312046e2ee6a8c035288442bc005e3dcfec59c02f38b9236b78432ed46 blk 337249 txid 284
  Build 0)  -->
 <!DOe Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.or<!-- Generator: Adobencoding="utf-8"?>
 , SVG Export Plug-Inpart:0
 /W3C//DTD SVG 1.1//Epx
 CTYPE svg PUBLIC "-/
 
-tx b7a41a6130b20447890a4f84c49a899236545156bf251513185d1619292f63d9
+tx b7a41a6130b20447890a4f84c49a899236545156bf251513185d1619292f63d9 blk 337249 txid 285
 ayer_1" xmlns="http:g" xmlns:xlink="http"
 	 width="273.6px"://www.w3.org/1999/xTD/svg11.dtd">
 <svg//www.w3.org/2000/svbtc.svg
 g/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="L height="360px" view
 
-tx 7bafdffb3c2b6332eef902624623a0de73c6137d1a99972fd5e67438a4b9e48a
+tx 7bafdffb3c2b6332eef902624623a0de73c6137d1a99972fd5e67438a4b9e48a blk 337249 txid 286
 enable-background="npart:400
 26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.c-3.667-38.023-36.5
 <g>
 	<g>
 		<path d="M217.021,167.042cBox="0 0 273.6 360" l:space="preserve">18.631-9.483,30.288-
 
-tx b8d9742708cf278a7b4125a97800fd5ed40245790cc7cc1d8006f0387ca8f9d2
+tx b8d9742708cf278a7b4125a97800fd5ed40245790cc7cc1d8006f0387ca8f9d2 blk 337249 txid 287
 354c-8.456,0-17.076,	h-32.139l-0.009,51.0.166-25.657,0.338L118l0.006,34.282c0,0,77v-0.156l-44.33-0.004l-0.008-52.741
 		.003l-0.006,52.728
 793,0.277-20.466,0.2			c-6.959,0.142-13.08.76,5.897l-32.11-0
 
-tx 293158fc80038c99314cc73fd73932e33dc269abe3a2d548a7770ec8db5de035
+tx 293158fc80038c99314cc73fd73932e33dc269abe3a2d548a7770ec8db5de035 blk 337249 txid 288
 009,17.262,7.559,18.part:800
 0.013
 			c13.013,0.3,10.637
 			c0.414,8.335h41.817c7.792,0484,14.076l0.01,60.03.379-0.004l-6.375,323.734-0.446,23.343-0.364-23.379-0.004-283v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 658c93e53011d3bf05abb9eac438e29a6c6a91a5ca55df39703329b1d8ff8d09
+tx 658c93e53011d3bf05abb9eac438e29a6c6a91a5ca55df39703329b1d8ff8d09 blk 337249 txid 289
 385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.18,17.357,0.258,25part:1000
 -0.009-52.779c8.832,.684,0.247l-0.009,528l32.102,0.009
 			l42-16.697,96.544-67.
 
-tx f0099810eb9107eae74a327c1b4c5cbbc6c77a008960d51d05dd3c978134f245
+tx f0099810eb9107eae74a327c1b4c5cbbc6c77a008960d51d05dd3c978134f245 blk 337249 txid 290
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,9.612,247.692,174.39609.535,95.321c18.1262-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1part:1200
 ,36.269-56.996,32.03
 
-tx 37f6abcadb6b6c1bf064b4b084e455c6c3d2a792d00a3775ca9fbc69736c267e
+tx 37f6abcadb6b6c1bf064b4b084e455c6c3d2a792d00a3775ca9fbc69736c267e blk 337249 txid 291
 ,262.431,109.521,2620.094,35.32
 			C199.638,266.971,131.313part:1400
 .447z"/>
 	</g>
 </g
 
-tx c8f1252c77a89b00eba3eab91dda063e55d1e63eccef84fa7135b911855c46e8
+tx c8f1252c77a89b00eba3eab91dda063e55d1e63eccef84fa7135b911855c46e8 blk 337249 txid 361
 035288442bc005e3dcfec1d8006f0387ca8f9d2;e3a2d548a7770ec8db5de67438a4b9e48a;b8d977890a4f84c49a8992365main:true
 bcadb6b6c1bf064b4b084e455c6c3d2a792d00a3e035;658c93e53011d3bc73fd73932e33dc269abc59c02f38b9236b784329292f63d9;7bafdffb3ca91a5ca55df39703329b2b6332eef902624623a042708cf278a7b4125a97dd3c978134f245;37f6a293158fc80038c99314cde73c6137d1a99972fd5bbc6c77a008960d51d05ed46;b7a41a6130b2044800fd5ed40245790cc7c45156bf251513185d1611d8ff8d09;f0099810eba787fb312046e2ee6a8cbtc.svg
 f05abb9eac438e29a6c69107eae74a327c1b4c5c
 
-tx 6268341d13faaec06f92d351f52f58c45bb563cc7b309207fb3a10e3a8262371
+tx 6268341d13faaec06f92d351f52f58c45bb563cc7b309207fb3a10e3a8262371 blk 337284 txid 58
 Happy Birthday Bitcoin m@doman.zo
 
-tx 1e4aa34ffc4ac0ff60519c3bc32600e037247ff4a49c24effbb02c617a437c11
+tx 1e4aa34ffc4ac0ff60519c3bc32600e037247ff4a49c24effbb02c617a437c11 blk 337314 txid 30
 *107<'The Shropshire Star 03/Jan/2015 Ch=]ancellor George Osborne vows better mobile phone coverage in Shropshire'Knm6qxm
 
-tx 0a62436061f2527717ba61bc5d59caa073d8bae41b60e32bca6b81d222259844
+tx 0a62436061f2527717ba61bc5d59caa073d8bae41b60e32bca6b81d222259844 blk 337357 txid 656
 u=https://cpr.sm/oP74jyARFr
 
-tx 2cd3e55a42e61ec34e35fa606cc6c8290d3daa99817c1f07a77302a9ee763414
+tx 2cd3e55a42e61ec34e35fa606cc6c8290d3daa99817c1f07a77302a9ee763414 blk 337360 txid 118
 7limiwoyuanzhaoguniyishengyishi
 
-tx c78aa7edc1adaeda4ba31adf50f3ac3b55d8334e89fbcdf8767c186db1ab2b73
+tx c78aa7edc1adaeda4ba31adf50f3ac3b55d8334e89fbcdf8767c186db1ab2b73 blk 337364 txid 532
 HP2015-0104-TAIWAN@590c.org
 
-tx d2d2fdfab9dae0d80783db7b917b098f75176828441ffa19293802bab0932be9
+tx d2d2fdfab9dae0d80783db7b917b098f75176828441ffa19293802bab0932be9 blk 337464 txid 1309
 u=https://cpr.sm/MRM_jjO6idt
 
-tx 672398182eec52ec4d984e20386c78b9d27e8c49d0d3ad04424ea22175bbc433
+tx 672398182eec52ec4d984e20386c78b9d27e8c49d0d3ad04424ea22175bbc433 blk 337474 txid 1484
 u=https://cpr.sm/CuInsgM5rD
 
-tx e6374517bdcb03e83b0b8ec2c273b46cc19186228c38375d56bc9916d8b7f688
+tx e6374517bdcb03e83b0b8ec2c273b46cc19186228c38375d56bc9916d8b7f688 blk 337486 txid 513
 \u=https://cpr.sm/yCMIFM3z-L
 
-tx 368e703affa361264b20bad99bd094d7c5598a9370c4eeed18a06e8115b1da1d
+tx 368e703affa361264b20bad99bd094d7c5598a9370c4eeed18a06e8115b1da1d blk 337486 txid 778
 1z M109.521,262.447l0.014-70.672c21.778-0.18,17.357,0.258,25.612,247.692,174.396-0.009-52.779c8.832,09.535,95.321c18.126,262.431,109.521,262px
 8l32.102,0.009
 			l42-16.697,96.544-67.,0,75.132-5.767,75.1385
@@ -415,7 +415,7 @@ tx 368e703affa361264b20bad99bd094d7c5598a9370c4eeed18a06e8115b1da1d
 .638,266.971,131.313.684,0.247l-0.009,522-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx 378a84cf0e77238464322e9eb78f5983afeeba0f3798dac2b2b90346271ef304
+tx 378a84cf0e77238464322e9eb78f5983afeeba0f3798dac2b2b90346271ef304 blk 337491 txid 772
 1z M109.521,262.447l0.014-70.672c21.778-0.18,17.357,0.258,25.612,247.692,174.396-0.009-52.779c8.832,09.535,95.321c18.126,262.431,109.521,262px
 8l32.102,0.009
 			l42-16.697,96.544-67.,0,75.132-5.767,75.1385
@@ -428,14 +428,14 @@ tx 378a84cf0e77238464322e9eb78f5983afeeba0f3798dac2b2b90346271ef304
 .638,266.971,131.313.684,0.247l-0.009,522-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx c56c125d8decf1581330bd9436d177525287b0d01df1d35f53f97aa1adb1bc3d
+tx c56c125d8decf1581330bd9436d177525287b0d01df1d35f53f97aa1adb1bc3d blk 337491 txid 773
 ,262.431,109.521,262px
 0.094,35.32
 			C199.638,266.971,131.313.447z"/>
 	</g>
 </g
 
-tx b9c5b701803b245fec694a4347081f43a210836602efa076a26ccfab4fd4b018
+tx b9c5b701803b245fec694a4347081f43a210836602efa076a26ccfab4fd4b018 blk 337491 txid 774
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -443,7 +443,7 @@ tx b9c5b701803b245fec694a4347081f43a210836602efa076a26ccfab4fd4b018
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx 50b9a0b0e1c70f109255a25bb0c49b5296d733bf428aa4a54842496988f1ad58
+tx 50b9a0b0e1c70f109255a25bb0c49b5296d733bf428aa4a54842496988f1ad58 blk 337491 txid 775
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -451,7 +451,7 @@ tx 50b9a0b0e1c70f109255a25bb0c49b5296d733bf428aa4a54842496988f1ad58
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx 32bd35a22a3f4e8c6659d1245d0cdc5b0cbb04300c5f4f8bc23891df376e05b8
+tx 32bd35a22a3f4e8c6659d1245d0cdc5b0cbb04300c5f4f8bc23891df376e05b8 blk 337491 txid 776
 enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.		h-32.139l-0.009,51c-3.667-38.023-36.5.793,0.277-20.466,0.018l0.006,34.282c0,0
 <g>
 	<g>
@@ -460,7 +460,7 @@ enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007
 18.631-9.483,30.288-0.003l-0.006,52.728404l-0.008-52.741
 	
 
-tx a13a1698e487f61adc2caa30161ec216ed644ad85a1ef0002f20fb3aa9635286
+tx a13a1698e487f61adc2caa30161ec216ed644ad85a1ef0002f20fb3aa9635286 blk 337491 txid 777
 009,17.262,7.559,18.385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.013
 			c13.013,0.3,10.637
@@ -468,7 +468,7 @@ tx a13a1698e487f61adc2caa30161ec216ed644ad85a1ef0002f20fb3aa9635286
 .684,0.247l-0.009,5223.734-0.446,23.343-8l32.102,0.009
 			l0.364-23.379-0.004-242-16.697,96.544-67.83v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx f1e2a165465e765f4d2104f70eeb9d692ccacdc9bc6dcd192bade9da2c8baaa4
+tx f1e2a165465e765f4d2104f70eeb9d692ccacdc9bc6dcd192bade9da2c8baaa4 blk 337491 txid 778
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,90.094,35.32
 			C199.447z"/>
 	</g>
@@ -476,16 +476,16 @@ tx f1e2a165465e765f4d2104f70eeb9d692ccacdc9bc6dcd192bade9da2c8baaa4
 .638,266.971,131.3132-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx 78971722f7299033b0c199e826cee29c535ff3bb8115875164ed8084cc91ca32
+tx 78971722f7299033b0c199e826cee29c535ff3bb8115875164ed8084cc91ca32 blk 337491 txid 779
 428aa4a54842496988f1bb04300c5f4f8bc23891df376e05b8'na13a1698a4
 c216ed644ad85a1ef000e2a165465e765f4d21046dcd192bade9da2c8baaad58'n32bd35a22a3f4ef70eeb9d692ccacdc9bca25bb0c49b5296d733bf2f20fb3aa9635286'nf1px
 e487f61adc2caa30161ebtc.svg
 type:pointer;size:7550b9a0b0e1c70f1092558c6659d1245d0cdc5b0c
 
-tx 6ea59b9e624456b8b160be1aeaebf9933c0fef56adb53627c52d2218b5debe1b
+tx 6ea59b9e624456b8b160be1aeaebf9933c0fef56adb53627c52d2218b5debe1b blk 337492 txid 69
 +9gloryglorymanunited
 
-tx 301a42b7efcc978dcb5ef660bba075cb4d6df7061114d5c8c2ef2944ae55222c
+tx 301a42b7efcc978dcb5ef660bba075cb4d6df7061114d5c8c2ef2944ae55222c blk 337492 txid 1540
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -493,7 +493,7 @@ tx 301a42b7efcc978dcb5ef660bba075cb4d6df7061114d5c8c2ef2944ae55222c
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx 07486086d7175133f40ac33ff5ec34b375f8f63a9d38a6de8c58dd8449ad83d0
+tx 07486086d7175133f40ac33ff5ec34b375f8f63a9d38a6de8c58dd8449ad83d0 blk 337492 txid 1541
 enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.		h-32.139l-0.009,51c-3.667-38.023-36.5.793,0.277-20.466,0.018l0.006,34.282c0,0
 <g>
 	<g>
@@ -502,7 +502,7 @@ enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007
 18.631-9.483,30.288-0.003l-0.006,52.728404l-0.008-52.741
 	
 
-tx 26d88a43a814f26ce1272509485bd69e29a49b7a98f4b33fd5c76f910d8cb7de
+tx 26d88a43a814f26ce1272509485bd69e29a49b7a98f4b33fd5c76f910d8cb7de blk 337492 txid 1542
 009,17.262,7.559,18.385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.013
 			c13.013,0.3,10.637
@@ -510,7 +510,7 @@ tx 26d88a43a814f26ce1272509485bd69e29a49b7a98f4b33fd5c76f910d8cb7de
 .684,0.247l-0.009,5223.734-0.446,23.343-8l32.102,0.009
 			l0.364-23.379-0.004-242-16.697,96.544-67.83v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 503a84f5d06290e9173f4e7b862c42fb1b80fc58cb66d50c987931d1c6ca0581
+tx 503a84f5d06290e9173f4e7b862c42fb1b80fc58cb66d50c987931d1c6ca0581 blk 337492 txid 1543
 8f63a9d38a6de8c58dd8449ad83d0
 26d88a43a8222c
 07486086d717513c76f910d8cb7de
@@ -518,7 +518,7 @@ tx 503a84f5d06290e9173f4e7b862c42fb1b80fc58cb66d50c987931d1c6ca0581
 1114d5c8c2ef2944ae559e29a49b7a98f4b33fd5f660bba075cb4d6df706px
 type:pointer;size:753f40ac33ff5ec34b375f14f26ce1272509485bd6301a42b7efcc978dcb5e
 
-tx 773362329051831517f0721c6f1114ee80906ec48cac966e8a8fd08b8b9ae7f2
+tx 773362329051831517f0721c6f1114ee80906ec48cac966e8a8fd08b8b9ae7f2 blk 337492 txid 1544
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -526,7 +526,7 @@ tx 773362329051831517f0721c6f1114ee80906ec48cac966e8a8fd08b8b9ae7f2
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx c06beb91e9decb64151598e684b11f3118bb77f4520b890b15b73c46d30d1cf0
+tx c06beb91e9decb64151598e684b11f3118bb77f4520b890b15b73c46d30d1cf0 blk 337492 txid 1545
 enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.		h-32.139l-0.009,51c-3.667-38.023-36.5.793,0.277-20.466,0.018l0.006,34.282c0,0
 <g>
 	<g>
@@ -535,7 +535,7 @@ enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007
 18.631-9.483,30.288-0.003l-0.006,52.728404l-0.008-52.741
 	
 
-tx d57f9080378c322b15ef6b763ee93f2420e59cd02f1cb15002f68c8beb878c55
+tx d57f9080378c322b15ef6b763ee93f2420e59cd02f1cb15002f68c8beb878c55 blk 337492 txid 1546
 009,17.262,7.559,18.385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.013
 			c13.013,0.3,10.637
@@ -543,7 +543,7 @@ tx d57f9080378c322b15ef6b763ee93f2420e59cd02f1cb15002f68c8beb878c55
 .684,0.247l-0.009,5223.734-0.446,23.343-8l32.102,0.009
 			l0.364-23.379-0.004-242-16.697,96.544-67.83v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 63016e733594e4494f1a5cb7f90c7303756c1e9e84a7675192a11ecad72f6540
+tx 63016e733594e4494f1a5cb7f90c7303756c1e9e84a7675192a11ecad72f6540 blk 337492 txid 1547
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,90.094,35.32
 			C199.447z"/>
 	</g>
@@ -553,7 +553,7 @@ tx 63016e733594e4494f1a5cb7f90c7303756c1e9e84a7675192a11ecad72f6540
 .638,266.971,131.3132-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03px
 
-tx 2301e40008548b4256d6b7a3ece12e57664b0212224462c3a55e45f61839052e
+tx 2301e40008548b4256d6b7a3ece12e57664b0212224462c3a55e45f61839052e blk 337492 txid 1548
 8cac966e8a8fd08b8b9a90c7303756c1e9e84a76773362329051831517f0721c6f1114ee80906ec42420e59cd02f1cb150028c322b15ef6b763ee93fbtc.svg
 type:pointer;size:75e7f2
 c06beb91e9decb675192a11ecad72f6540
@@ -561,7 +561,7 @@ b77f4520b890b15b73c4f68c8beb878c55
 63016e733594e4494f1a5cb7f6d30d1cf0
 d57f9080374151598e684b11f3118bpx
 
-tx 8ad8f6999d71564cfe317fb36d52915e24cfacc9e05314d836e6fdc0476a4c6c
+tx 8ad8f6999d71564cfe317fb36d52915e24cfacc9e05314d836e6fdc0476a4c6c blk 337494 txid 1488
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -569,7 +569,7 @@ tx 8ad8f6999d71564cfe317fb36d52915e24cfacc9e05314d836e6fdc0476a4c6c
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx 84ff627630dfad7c834e3cdb77fe0a47c4865d55a4dee96390155922d72e3b4d
+tx 84ff627630dfad7c834e3cdb77fe0a47c4865d55a4dee96390155922d72e3b4d blk 337494 txid 1489
 enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.		h-32.139l-0.009,51c-3.667-38.023-36.5.793,0.277-20.466,0.018l0.006,34.282c0,0
 <g>
 	<g>
@@ -578,7 +578,7 @@ enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007
 18.631-9.483,30.288-0.003l-0.006,52.728404l-0.008-52.741
 	
 
-tx c7caf0e965716696d83c88c516b24358c2f9ead3ba97d536ef8a4a8f87c8b100
+tx c7caf0e965716696d83c88c516b24358c2f9ead3ba97d536ef8a4a8f87c8b100 blk 337494 txid 1490
 009,17.262,7.559,18.385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.013
 			c13.013,0.3,10.637
@@ -586,7 +586,7 @@ tx c7caf0e965716696d83c88c516b24358c2f9ead3ba97d536ef8a4a8f87c8b100
 .684,0.247l-0.009,5223.734-0.446,23.343-8l32.102,0.009
 			l0.364-23.379-0.004-242-16.697,96.544-67.83v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 1b6cf838ea904d4452905a09bc7b899fa479865467ea7c30acbc1d8e2a95ee5f
+tx 1b6cf838ea904d4452905a09bc7b899fa479865467ea7c30acbc1d8e2a95ee5f blk 337494 txid 1491
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,90.094,35.32
 			C199.447z"/>
 	</g>
@@ -594,17 +594,17 @@ tx 1b6cf838ea904d4452905a09bc7b899fa479865467ea7c30acbc1d8e2a95ee5f
 .638,266.971,131.3132-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx 93d62909809b428e3436e243544e28d5bdf13aaf4ccc4c4637be9d6837ef81d9
+tx 93d62909809b428e3436e243544e28d5bdf13aaf4ccc4c4637be9d6837ef81d9 blk 337494 txid 1492
 e05314d836e6fdc0476a22d72e3b4d
 c7caf0e964c6c
 84ff627630dfad865d55a4dee963901559bc7b899fa479865467eaf838ea904d4452905a09f8a4a8f87c8b100
 1b6c7fb36d52915e24cfacc95716696d83c88c516b247c30acbc1d8e2a95ee5fpx
 type:pointer;size:758ad8f6999d71564cfe31358c2f9ead3ba97d536e7c834e3cdb77fe0a47c4
 
-tx 0bfa669f70fc58fd5897e6ff18c910bd310df2c5adae891bf79950c6e5e0edd6
+tx 0bfa669f70fc58fd5897e6ff18c910bd310df2c5adae891bf79950c6e5e0edd6 blk 337495 txid 854
 type:pointer;size:75
 
-tx f54dc4425f251ba3fa2c7e9e36e15edd8aad6754a87938726fbeeb534a45b6e5
+tx f54dc4425f251ba3fa2c7e9e36e15edd8aad6754a87938726fbeeb534a45b6e5 blk 337496 txid 287
  Build 0)  -->
 <!DOayer_1" xmlns="http:e Illustrator 15.1.0<?xml version="1.0"  . SVG Version: 6.00N" "http://www.w3.org" xmlns:xlink="http<!-- Generator: Adobencoding="utf-8"?>
 "
@@ -612,7 +612,7 @@ tx f54dc4425f251ba3fa2c7e9e36e15edd8aad6754a87938726fbeeb534a45b6e5
 <svg, SVG Export Plug-In/W3C//DTD SVG 1.1//Epx
 //www.w3.org/2000/svg/Graphics/SVG/1.1/Dlink" x="0px" y="0px version="1.1" id="LCTYPE svg PUBLIC "-/ height="360px" view
 
-tx fba1e5431de51459b22667d72d8e4f452e1da023bfac2b2cc489d429ae1a9a0e
+tx fba1e5431de51459b22667d72d8e4f452e1da023bfac2b2cc489d429ae1a9a0e blk 337496 txid 288
 enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007ew 0 0 273.6 360" xm26-50.773-78.006-54.		h-32.139l-0.009,51c-3.667-38.023-36.5.793,0.277-20.466,0.018l0.006,34.282c0,0
 <g>
 	<g>
@@ -621,7 +621,7 @@ enable-background="n.354c-8.456,0-17.076277v-0.156l-44.33-0.26.184,27.565-54.007
 18.631-9.483,30.288-0.003l-0.006,52.728404l-0.008-52.741
 	
 
-tx f59620b2a3bc4b2b09c9015ff0f44c929b7f941a9e67c38e377d5a40fcfe0912
+tx f59620b2a3bc4b2b09c9015ff0f44c929b7f941a9e67c38e377d5a40fcfe0912 blk 337496 txid 289
 009,17.262,7.559,18.385
 			C266.916,192.009,15.448,0.13,22..532h32.138l0.018-53959,0.19l0.028,53.33.249c54.022-3.1,91.80.013
 			c13.013,0.3,10.637
@@ -629,7 +629,7 @@ tx f59620b2a3bc4b2b09c9015ff0f44c929b7f941a9e67c38e377d5a40fcfe0912
 .684,0.247l-0.009,528l32.102,0.009
 			l0.364-23.379-0.004-242-16.697,96.544-67.83v84.397c-0.573,4.09-2.984,10.625-12.08
 
-tx 7e87e8d4df2d7167c5e74ce8412424813b3762a92932c05847da3aeaa47deace
+tx 7e87e8d4df2d7167c5e74ce8412424813b3762a92932c05847da3aeaa47deace blk 337496 txid 290
 ,0,75.132-5.767,75.11z M109.521,262.447l0.014-70.672c21.778-0.006,90.085-6.261,90.094,35.32
 			C199.447z"/>
 	</g>
@@ -637,7 +637,7 @@ tx 7e87e8d4df2d7167c5e74ce8412424813b3762a92932c05847da3aeaa47deace
 .638,266.971,131.3132-75.14,32.032V95.324,32.064
 			c-0.008,217.021,167.042z M1,36.269-56.996,32.03
 
-tx 23059b75ed2ae506e481747572c566d6240aeb74bc8ab3a8ce180518979bd81a
+tx 23059b75ed2ae506e481747572c566d6240aeb74bc8ab3a8ce180518979bd81a blk 337496 txid 291
 9b22667d72d8e4f452e1a87938726fbeeb534a457d5a40fcfe0912
 7e87e05847da3aeaa47deace
 b6e5
@@ -646,109 +646,109 @@ fba1e5431de5145bc4b2b09c9015ff0f44cda023bfac2b2cc489d42BitcoinSign.svg
 7e9e36e15edd8aad6754type:pointer;size:75f54dc4425f251ba3fa2c8d4df2d7167c5e74ce849ae1a9a0e
 f59620b2a3929b7f941a9e67c38e37
 
-tx 2e7d9133d093547aa05c9621a22f2990ed108855f5969914d921258f48373454
+tx 2e7d9133d093547aa05c9621a22f2990ed108855f5969914d921258f48373454 blk 337503 txid 34
 ]u=https://cpr.sm/Ldr6BuBRJJ
 
-tx 47a1bf064c1c616f40ee664ee74f8df843386e5cd37ac83f5469ecd7d95bc6ce
+tx 47a1bf064c1c616f40ee664ee74f8df843386e5cd37ac83f5469ecd7d95bc6ce blk 337504 txid 178
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exlauses should be addc confidence in the e of their adopting px
 se of its powers, tht ensure the beneficed: And as extendingGovernment, will besry and restrictive c
 
-tx 93522cb610cd91c067cce93343c7918ec1e945d70e3697f132cb247e8c38d9ce
+tx 93522cb610cd91c067cce93343c7918ec1e945d70e3697f132cb247e8c38d9ce blk 337504 txid 179
 47a1bf064c1c616f40eepx
 type:pointer;size:19preamble.txt
 d37ac83f5469ecd7d95b664ee74f8df843386e5c
 
-tx c3dfe47ecf67494792a11e7e94e76d75c9fba544461a3574ff4828315574f6ce
+tx c3dfe47ecf67494792a11e7e94e76d75c9fba544461a3574ff4828315574f6ce blk 337505 txid 325
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx 57136a0d0644ed5ca6a4e80a247340cecbeb3cd72c4f1bc77c79e8e2d160017e
+tx 57136a0d0644ed5ca6a4e80a247340cecbeb3cd72c4f1bc77c79e8e2d160017e blk 337506 txid 570
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx cf6412bfb1f30e2fce2580e124782603446da96d60ed2886241365f27271984c
+tx cf6412bfb1f30e2fce2580e124782603446da96d60ed2886241365f27271984c blk 337506 txid 571
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx d6c8a0617c584331d79229f6d66aee4f6b4b9f26a57346f8e1a532c2bc78f61f
+tx d6c8a0617c584331d79229f6d66aee4f6b4b9f26a57346f8e1a532c2bc78f61f blk 337506 txid 572
 by three fourths of s, to be valid to alcles, when ratified the said Legislatureaid Constitution; vises concurring, thatConstitution of the z.
 ARTICLES in addiUnited States, all, es of America, in Congress assembled, twpx
 he Legislatures of t the following Artiche several States, ao thirds of both Hous amendments to the es, as part of the stion to, and Amendment of the Constitutil intents and purposles be proposed to tor any of which Arti
 
-tx be2047efedb17dde24d1ae670948021daba02b165209c7ac6c82965a27e5e53a
+tx be2047efedb17dde24d1ae670948021daba02b165209c7ac6c82965a27e5e53a blk 337506 txid 573
 on of the United Stad ratified by the Lepx
 veral States, pursuacle of the original gislatures of the seConstitution.
 tes of America, proposed by Congress, annt to the fifth Arti
 
-tx caabd016f7e7f49d50eec6ad3a96144fed9e9d4750d1647b80bf847779b371dd
+tx caabd016f7e7f49d50eec6ad3a96144fed9e9d4750d1647b80bf847779b371dd blk 337506 txid 575
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publitype:pointer;size:53at further declaratoent ends of its instc confidence in the e of their adopting px
 se of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive cpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be additution.
 RESOLVED bpreamble.txt
 
-tx df44ab0b952c016a2e738f84b5709d28cd6fb9af23b36942f289bf8b994c69cb
+tx df44ab0b952c016a2e738f84b5709d28cd6fb9af23b36942f289bf8b994c69cb blk 337509 txid 190
 u=https://cpr.sm/jfYPgbnuv-QkWq
 
-tx 9fbe828ae65498f22c4d04d464051e80fb0eb84c3d9acc2c1954595cfd413936
+tx 9fbe828ae65498f22c4d04d464051e80fb0eb84c3d9acc2c1954595cfd413936 blk 337509 txid 191
 u=https://cpr.sm/CuInsgM5rD
 
-tx 8432c3e3f578a2e553a5a52b6fd584a911ecd4f3176a58246fd68ab83b8179db
+tx 8432c3e3f578a2e553a5a52b6fd584a911ecd4f3176a58246fd68ab83b8179db blk 337509 txid 192
 u=https://cpr.sm/CuInsgM5rD
 
-tx 0f394c83f6681f3b8550793e581fb09e915ac995cbfed00d2d999e02e70478ef
+tx 0f394c83f6681f3b8550793e581fb09e915ac995cbfed00d2d999e02e70478ef blk 337509 txid 193
 u=https://cpr.sm/CuInsgM5rD
 
-tx 0bf4216e8abe85ffe0b054ffc4f5f0885ace94219e13b34d813bddb0eead547a
+tx 0bf4216e8abe85ffe0b054ffc4f5f0885ace94219e13b34d813bddb0eead547a blk 337509 txid 194
 u=https://cpr.sm/CuInsgM5rD
 
-tx a7665237a388a1f8a9d6500a8dca8f515e1cc19dd4c8b2c0743f31b6f7d185a1
+tx a7665237a388a1f8a9d6500a8dca8f515e1cc19dd4c8b2c0743f31b6f7d185a1 blk 337509 txid 548
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx ff38b31ba977101e84cfb498201f02ba4bcd1dbafff6963f690cfb371ad78269
+tx ff38b31ba977101e84cfb498201f02ba4bcd1dbafff6963f690cfb371ad78269 blk 337509 txid 549
 by three fourths of s, to be valid to alcles, when ratified the said Legislatureaid Constitution; vises concurring, thatConstitution of the z.
 ARTICLES in addiUnited States, all, es of America, in Congress assembled, twpx
 he Legislatures of t the following Artiche several States, ao thirds of both Hous amendments to the es, as part of the stion to, and Amendment of the Constitutil intents and purposles be proposed to tor any of which Arti
 
-tx b3368a8ad4b9c11699ebc6b9d160d9b306af4b1a5fc477b48daf2457681a22b6
+tx b3368a8ad4b9c11699ebc6b9d160d9b306af4b1a5fc477b48daf2457681a22b6 blk 337509 txid 550
 on of the United Stad ratified by the Lepx
 veral States, pursuacle of the original gislatures of the seConstitution.
 tes of America, proposed by Congress, annt to the fifth Arti
 
-tx 2cdc0f16d6da781d437f2dbb00fab177376b8c4809df9b7a2ef3531ae851fbd7
+tx 2cdc0f16d6da781d437f2dbb00fab177376b8c4809df9b7a2ef3531ae851fbd7 blk 337509 txid 551
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx 5c559c815c068cd611c2936e1d5a33d5d1963b9e3706eaeec7c387dbbebd7b1e
+tx 5c559c815c068cd611c2936e1d5a33d5d1963b9e3706eaeec7c387dbbebd7b1e blk 337509 txid 552
 by three fourths of s, to be valid to alcles, when ratified the said Legislatureaid Constitution; vises concurring, thatConstitution of the z.
 ARTICLES in addiUnited States, all, es of America, in Congress assembled, twpx
 he Legislatures of t the following Artiche several States, ao thirds of both Hous amendments to the es, as part of the stion to, and Amendment of the Constitutil intents and purposles be proposed to tor any of which Arti
 
-tx 0e1c6366bb4655990e0f9ff83e4d546e3fa2a30540ddb244afad6e4df1b1c742
+tx 0e1c6366bb4655990e0f9ff83e4d546e3fa2a30540ddb244afad6e4df1b1c742 blk 337509 txid 553
 on of the United Stad ratified by the Lepx
 veral States, pursuacle of the original gislatures of the seConstitution.
 tes of America, proposed by Congress, annt to the fifth Arti
 
-tx 6b0b53bceb3b3232adf26e57b7c4683def87b214fc8945e5902070d71e764f9a
+tx 6b0b53bceb3b3232adf26e57b7c4683def87b214fc8945e5902070d71e764f9a blk 337509 txid 554
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx 90e0154511983074aba5a2ec961e0fdf3e981a1ed2c81969e1f028503676ca56
+tx 90e0154511983074aba5a2ec961e0fdf3e981a1ed2c81969e1f028503676ca56 blk 337509 txid 555
 by three fourths of s, to be valid to alcles, when ratified the said Legislatureaid Constitution; vises concurring, thatConstitution of the z.
 ARTICLES in addiUnited States, all, es of America, in Congress assembled, twpx
 he Legislatures of t the following Artiche several States, ao thirds of both Hous amendments to the es, as part of the stion to, and Amendment of the Constitutil intents and purposles be proposed to tor any of which Arti
 
-tx c45ee6b063f7837808c735622b5c273aa65d21062bac29f9226b44cf95c9365f
+tx c45ee6b063f7837808c735622b5c273aa65d21062bac29f9226b44cf95c9365f blk 337509 txid 556
 on of the United Stad ratified by the Lepx
 veral States, pursuacle of the original gislatures of the seConstitution.
 tes of America, proposed by Congress, annt to the fifth Arti
 
-tx 47d540e1f9845e4893dd3557ac06f4d9c0dc8d876fcb90164e5f1495b28c1e50
+tx 47d540e1f9845e4893dd3557ac06f4d9c0dc8d876fcb90164e5f1495b28c1e50 blk 337509 txid 557
 f7837808c735622b5c276b44cf95c9365f
 4aba5a2ec961e0fdf3e903676ca56
 c45ee6b0636e57b7c4683def87b214type:pointer;size:5381a1ed2c81969e1f02853aa65d21062bac29f9226b0b53bceb3b3232adf2px
@@ -756,40 +756,40 @@ fc8945e5902070d71e76preamble.txt
 4f9a
 90e015451198307
 
-tx ed42dcf48c76c1fdf29d851512efb4f6f821f171979646b1cf0b105fdcb8aa83
+tx ed42dcf48c76c1fdf29d851512efb4f6f821f171979646b1cf0b105fdcb8aa83 blk 337511 txid 406
  order to prevent misconstruction or abu number of the States, having at the tim the ground of publiat further declaratoent ends of its instpressed a desire, inTHE Conventions of athe Constitution, exy the Senate and Houlauses should be addc confidence in the e of their adopting px
 itution.
 RESOLVED bse of its powers, ths of the United Statt ensure the beneficse of Representativeed: And as extendingGovernment, will besry and restrictive c
 
-tx f57ca54cb34412a58956ebcf4b71ac4dc65545a571cf97735854dc252c72b776
+tx f57ca54cb34412a58956ebcf4b71ac4dc65545a571cf97735854dc252c72b776 blk 337511 txid 407
 by three fourths of s, to be valid to alcles, when ratified the said Legislatureaid Constitution; vises concurring, thatConstitution of the z.
 ARTICLES in addiUnited States, all, es of America, in Congress assembled, twpx
 he Legislatures of t the following Artiche several States, ao thirds of both Hous amendments to the es, as part of the stion to, and Amendment of the Constitutil intents and purposles be proposed to tor any of which Arti
 
-tx d484c4df841ad8ba0e7f7edd63deb611ff008d28d2874a1dce47c494ac031ffb
+tx d484c4df841ad8ba0e7f7edd63deb611ff008d28d2874a1dce47c494ac031ffb blk 337511 txid 408
 icle the first... Afon of the United StaConstitution.
 
 Arthe Constitution, thecle of the original ter the first enumerre shall be one Reprtil the number shalle first article of t thirty thousand, unproportion shall be tes of America, proposed by Congress, and ratified by the Leesentative for everypx
 veral States, pursuagislatures of the se amount to one hundred, after which the ation required by thso regulated by Congnt to the fifth Arti
 
-tx 524283889c407e4ccb215bdb614d40acad654b1c1b67035f8e9c2b2f1fbabb03
+tx 524283889c407e4ccb215bdb614d40acad654b1c1b67035f8e9c2b2f1fbabb03 blk 337511 txid 414
 ticle the second... ess, that there shalil the number of Repusand persons.
 
 Arpx
 tatives, nor less thatives, nor more thal not be less than tNo law, varying the one hundred Represenresentatives shall a for every fifty thomount to two hundred; after which the prress, that there shaan one Representatiwo hundred Representcoensation for the s regulated by Congrn one Representativeoportion shall be soll be not less than ve for every forty thousand persons, unt
 
-tx 2d17e30b9db4d3f4f07a0c962ef3f1183be3cc8dfe21913faecdbd09f3c860b1
+tx 2d17e30b9db4d3f4f07a0c962ef3f1183be3cc8dfe21913faecdbd09f3c860b1 blk 337511 txid 415
 hird... Congress shathe press; or the riors and Representatidress of grievances. and to petition thect, until an electioexercise thereof; oraceably to assemble,coensation for the snt of religion, or pom of speech, or of ves, shall take efferohibiting the free ght of the people pe shall have intervenn of Representativespx
 ervices of the Senatcting an establishmeed.
 
 Article the tll make no law respe Government for a re abridging the freed
 
-tx 09c0e39a5fa0b8d4a7eb947f05b7b25c2643530b52fa2bb69f82fde17e4df853
+tx 09c0e39a5fa0b8d4a7eb947f05b7b25c2643530b52fa2bb69f82fde17e4df853 blk 337511 txid 416
 
 
 Article the foured Militia, being neople to keep and bear Arms, shall not becessary to the secur the right of the peth... A well regulatity of a free State,
 
-tx 2cf775f5e40263639ee787f823155ad9607de84815339ab4621f2bbaed5582e2
+tx 2cf775f5e40263639ee787f823155ad9607de84815339ab4621f2bbaed5582e2 blk 337511 txid 417
 979646b1cf0b105fdcb814d40acad654b1c1b67035f8e9c2b2f1fbabb03
 545a571cf97735854dc2px
 fe21913faecdbd09f3c8aa83
@@ -799,7 +799,7 @@ f57ca54cb34412a4a7eb947f05b7b25c264ed42dcf48c76c1fdf29d47c494ac031ffb
 1ad8ba0e7f7edd63deb62d17e30b9db4d3f4f07a58956ebcf4b71ac4dc6552c72b776
 d484c4df84
 
-tx 8bd200f4d87ca8dbd49fd739c8b32b45c62e38c6813df48062c644887b614e0e
+tx 8bd200f4d87ca8dbd49fd739c8b32b45c62e38c6813df48062c644887b614e0e blk 337512 txid 485
 d eighty nine.
 
 THrder to prevent miscof their adopting the Constitution, expr United States
@@ -810,13 +810,13 @@ The U.S. Bill of Rigs
 
 Congress of theE Conventions of a n having at the time umber of the States, further declaratoryty of New-York, on
 
-tx ffe1fbbaf57e394bd0ce0a0df95034bb8031da470d2b0f9ace6789a62df35ead
+tx ffe1fbbaf57e394bd0ce0a0df95034bb8031da470d2b0f9ace6789a62df35ead blk 337513 txid 157
 : And as extending tution.
 
 RESOLVED bhe ground of public confidence in the Goses concurring, thatConstitution of the ensure the beneficenvernment, will best United States, all, y the Senate and Houes of America, in Congress assembled, twpx
 s of the United Stathe Legislatures of tt ends of its institse of Representative the following Artiche several States, ao thirds of both Hous amendments to the uses should be addedles be proposed to t
 
-tx 57766f48689a08ea523373d06086ef3604ac3142d7c757159796a0805ccde9f8
+tx 57766f48689a08ea523373d06086ef3604ac3142d7c757159796a0805ccde9f8 blk 337513 txid 158
 tion of the United Sand ratified by the l Constitution.
 
 NLegislatures of the by three fourths of s, to be valid to aldition to, and Amendcles, when ratified the said Legislatureaid Constitution; viseveral States, pursoposed by Congress, tates of America, prote: The following tticle of the originapx
@@ -824,7 +824,7 @@ ment of the Constitues, as part of the sext is a transcriptil intents and purpos
 
 ARTICLES in ad
 
-tx 192643605daddd5de3251ae891ee719427fc6c6400662b11daecb158c8445fa2
+tx 192643605daddd5de3251ae891ee719427fc6c6400662b11daecb158c8445fa2 blk 337513 txid 159
 of the press; or theeedom of speech, or  of Rights."
 
 Amenhment of religion, ole, and to petition ee exercise thereof;amendments to the Co right of the peopler prohibiting the fr peaceably to assembspecting an establis791, and form what ion of the first ten nstitution in their  or abridging the frified December 15, 1px
@@ -832,7 +832,7 @@ Amenhment of religion, ole, and to petition ee exercise thereof;amendments to th
 
 Congress s known as the "Bill
 
-tx 7696c036ffe9a29cd0d592ea7bafcb8ccb119a3ed602a5be875aa6828487e0e6
+tx 7696c036ffe9a29cd0d592ea7bafcb8ccb119a3ed602a5be875aa6828487e0e6 blk 337513 txid 160
 V
 
 The right of th law.
@@ -848,7 +848,7 @@ Amendment II redress of grievanc
 
 A well regulated Militia, being neces
 
-tx 4be7e5092888150f617ead50d686cb52ecd1bd51e9323fa8894d5d77bdfe5f40
+tx 4be7e5092888150f617ead50d686cb52ecd1bd51e9323fa8894d5d77bdfe5f40 blk 337513 txid 161
 sue, but upon probabngs to be seized.
 effects, against unreasonable searches aot be violated, and le cause, supported  on a presentment orhouses, papers, and erson shall be held tal, or otherwise ind the persons or thifamous crime, unless describing the place to be searched, anno Warrants shall isto answer for a capipx
 
@@ -856,11 +856,11 @@ Amendment V
 
 No p indictment of a Graby Oath or affirmation, and particularlynd seizures, shall nnd Jury, except in c
 
-tx 17fc653e08b74edc05181b4d7b0a97b1c31a945285aadaa3d3cdf38e09d2cb95
+tx 17fc653e08b74edc05181b4d7b0a97b1c31a945285aadaa3d3cdf38e09d2cb95 blk 337513 txid 162
 en for public use, w shall any person be subject for the samst himself, nor be d any criminal case tland or naval forces, or in the Militia,hall be compelled inithout just compensao be a witness againr public danger; nor life or limb; nor spx
 e offence to be twic when in actual service in time of War oerty, or property, wases arising in the eprived of life, libvate property be take put in jeopardy ofithout due process of law; nor shall pri
 
-tx 59f9d6931f4d2b3daf0b601e0a611a5b76508b17adbbff2a1053dc5abba1d3e3
+tx 59f9d6931f4d2b3daf0b601e0a611a5b76508b17adbbff2a1053dc5abba1d3e3 blk 337513 txid 163
  and public trial, btrict shall have beey an impartial jury  confronted with theined by law, and to he accusation; to beI
 
 In all criminalature and cause of tcommitted, which disof the State and disbe informed of the nccused shall enjoy ttrict wherein the crpx
@@ -868,7 +868,7 @@ In all criminalature and cause of tcommitted, which disof the State and disbe in
 
 Amendment Vim; to have compulsoning witnesses in hi
 
-tx 7d7f37aa1f24699567781f5688b6f75453641cb5c1dccb2e84e982f1e5cf54ec
+tx 7d7f37aa1f24699567781f5688b6f75453641cb5c1dccb2e84e982f1e5cf54ec blk 337513 txid 164
 rding to the rules  be preserved, and nollars, the right of
 Amendment VIII
 
@@ -880,7 +880,7 @@ In Suits at commry, shall be otherwilue in controversy spod, nor cruel and u tri
 
 Amendment VIIr excessive fines imhall exceed twenty d not be required, noo fact tried by a ju
 
-tx ccec8590ecc55075f8d0755175aafd77ac818bb26b4de7fceba577f578bfb799
+tx ccec8590ecc55075f8d0755175aafd77ac818bb26b4de7fceba577f578bfb799 blk 337514 txid 219
 nstrued to deny or dpod, nor cruel and unusual punishments ition, of certain rig are reserved to thetion in the Constitued to the United Stant IX
 
 The enumeraisparage others retaion, nor prohibited e powers not delegattes by the Constitutpx
@@ -893,7 +893,7 @@ by it to the States, States respectivelynflicted.
 
 Amendmeined by the people.
 
-tx 53263afa9476775306bf17dbfd9a6ae9e62832d64bbb0128adcc85b13d0e0af5
+tx 53263afa9476775306bf17dbfd9a6ae9e62832d64bbb0128adcc85b13d0e0af5 blk 337514 txid 221
 813df48062c644887b618bd200f4d87ca8dbd49f7696c036ffe9a29cd0d5e0e6
 4be7e5092888150f617ead50d686cb52ecd1bd51e9323fa8894d5d79a08ea523373d06086ef96a0805ccde9f8
 1926492ea7bafcb8ccb119a3e1ee719427fc6c64006621da470d2b0f9ace6789a62df35ead
@@ -902,135 +902,135 @@ tx 53263afa9476775306bf17dbfd9a6ae9e62832d64bbb0128adcc85b13d0e0af5
 ffe1fbbaf57e394d602a5be875aa68284873604ac3142d7c7571597d739c8b32b45c62e38c6b11daecb158c8445fa2
 bd0ce0a0df95034bb803
 
-tx e78ba37907b6fac4639f7dd65191feda0b3e3a23e141299e55909b40c34dab50
+tx e78ba37907b6fac4639f7dd65191feda0b3e3a23e141299e55909b40c34dab50 blk 337514 txid 222
 1b4d7b0a97b1c31a94525453641cb5c1dccb2e8417fc653e08b74edc0518abba1d3e3
 7d7f37aa1fcb95
 59f9d6931f4d2b3px
 85aadaa3d3cdf38e09d2daf0b601e0a611a5b7655aafd77ac818bb26b4de08b17adbbff2a1053dc5590ecc55075f8d07551724699567781f5688b6f7e982f1e5cf54ec
 ccec8
 
-tx e3b204c71f2471d1939b7d6dcc61478b18990d3a9aec7af3ab45f335256bf083
+tx e3b204c71f2471d1939b7d6dcc61478b18990d3a9aec7af3ab45f335256bf083 blk 337514 txid 223
 53263afa9476775306bftype:pointer;size:210c34dab50
 4639f7dd65191feda0b317dbfd9a6ae9e62832d6px
 4bbb0128adcc85b13d0e0af5
 e78ba37907b6face3a23e141299e55909b4
 
-tx 1580eec4ce3accc39b337e2cadaed1976de7e2d9d5d4c76758ee19a12bb54e69
+tx 1580eec4ce3accc39b337e2cadaed1976de7e2d9d5d4c76758ee19a12bb54e69 blk 337520 txid 545
 u=https://cpr.sm/MRM_jjO6idt
 
-tx a18387c6309c10276fdc01930ce3658e06037b6a58d82a57b388d1f45a2970e1
+tx a18387c6309c10276fdc01930ce3658e06037b6a58d82a57b388d1f45a2970e1 blk 337520 txid 546
 u=https://cpr.sm/MRM_jjO6idt
 
-tx 9b0d8b55521e2903d1100fd9f88f35651e5b9f6b9c34b600496a357927885cfe
+tx 9b0d8b55521e2903d1100fd9f88f35651e5b9f6b9c34b600496a357927885cfe blk 337620 txid 254
 zASCRIBESPOOLREGISTER
 
-tx 4657d34b653916390e8cc008bab1a8e3ba1b5cf0fd459ecfcdaa516dfb7a2cbe
+tx 4657d34b653916390e8cc008bab1a8e3ba1b5cf0fd459ecfcdaa516dfb7a2cbe blk 337621 txid 306
 zASCRIBESPOOLREGISTER
 
-tx 19fd62bcfdf9bbf20c69048042f674de797c0898650a9425fe7425d113774049
+tx 19fd62bcfdf9bbf20c69048042f674de797c0898650a9425fe7425d113774049 blk 337621 txid 307
 zASCRIBESPOOLREGISTER
 
-tx defaa1648c8126032d90a4593dd13c5636553649e221af284be11f828706cc35
+tx defaa1648c8126032d90a4593dd13c5636553649e221af284be11f828706cc35 blk 337621 txid 308
 zASCRIBESPOOLREGISTER
 
-tx c20710b2a1bd3c36a0774570b83c5fa0d940a909eac55c1f80d08214028a489b
+tx c20710b2a1bd3c36a0774570b83c5fa0d940a909eac55c1f80d08214028a489b blk 337623 txid 181
 zASCRIBESPOOLREGISTER
 
-tx 382648bedef5d9383e6515bbf348d3667a2111023e86fa470895603657549a7e
+tx 382648bedef5d9383e6515bbf348d3667a2111023e86fa470895603657549a7e blk 337624 txid 481
 zASCRIBESPOOLREGISTER
 
-tx 7ee4d294dc6ed0f59cb4ef89fd75c862272f4c9a26db2eede2a4f7b127785f14
+tx 7ee4d294dc6ed0f59cb4ef89fd75c862272f4c9a26db2eede2a4f7b127785f14 blk 337624 txid 482
 zASCRIBESPOOLREGISTER
 
-tx e19062aa875e07c0c60ee094f38b551bc75114dc98bceb6f984346391c2c699a
+tx e19062aa875e07c0c60ee094f38b551bc75114dc98bceb6f984346391c2c699a blk 337624 txid 483
 zASCRIBESPOOLREGISTER
 
-tx 381e5f53672de35d9ac9f23799769a98c862304127285f754d419181f6b56c7c
+tx 381e5f53672de35d9ac9f23799769a98c862304127285f754d419181f6b56c7c blk 337625 txid 121
 zASCRIBESPOOLREGISTER
 
-tx 7cb48aad13b028d1055237593565872b484e02d16ed71ba85a41b6b6c2d09a84
+tx 7cb48aad13b028d1055237593565872b484e02d16ed71ba85a41b6b6c2d09a84 blk 337626 txid 383
 zASCRIBESPOOLREGISTER
 
-tx afe2e23c1a8743d2620ea978700c8f585b48dccb777646b15f1365fdb0d2532c
+tx afe2e23c1a8743d2620ea978700c8f585b48dccb777646b15f1365fdb0d2532c blk 337627 txid 294
 zASCRIBESPOOLREGISTER
 
-tx 8f0cf169372a40b2a4d0643316960f617a0f6468a7df830b373174a2ac59d7af
+tx 8f0cf169372a40b2a4d0643316960f617a0f6468a7df830b373174a2ac59d7af blk 337628 txid 215
 zASCRIBESPOOLREGISTER
 
-tx 919a9c6121918ed27b75abd3dfcbb2a994039fbfb420bf17fe79e8bb2bff59e5
+tx 919a9c6121918ed27b75abd3dfcbb2a994039fbfb420bf17fe79e8bb2bff59e5 blk 337633 txid 247
 zASCRIBESPOOLREGISTER
 
-tx 6517f1f465012d785f50cf766b8ba5d06fc9e675fc9c0e496e8f44baedf75b09
+tx 6517f1f465012d785f50cf766b8ba5d06fc9e675fc9c0e496e8f44baedf75b09 blk 337646 txid 522
 2de03b4d1b68cc2919a5150eae876a930c340f00Hello_World.txt
 c737f08b5efcd483a17f
 
-tx 3d13fc3b55eb08ebfd8051599cf9cb85c35eba0936ebc3a5a13c0a66192ac121
+tx 3d13fc3b55eb08ebfd8051599cf9cb85c35eba0936ebc3a5a13c0a66192ac121 blk 337647 txid 1364
 ae8352910d7b89732cb3Hello_World.txt
 428b790301ad7cd7219d09237f6cd4e47d40626a
 
-tx 77979cd3bf1adb8e6de54afd998377c3e5566d5c9e0e2f84c6cdf8228694e562
+tx 77979cd3bf1adb8e6de54afd998377c3e5566d5c9e0e2f84c6cdf8228694e562 blk 337661 txid 1373
 zASCRIBESPOOLREGISTER
 
-tx 683a4ea03adc797e1f08b44ecd6f3db8c0069f70c9935814c33b318acaf3fd2a
+tx 683a4ea03adc797e1f08b44ecd6f3db8c0069f70c9935814c33b318acaf3fd2a blk 337661 txid 1375
 zASCRIBESPOOLREGISTER
 
-tx 1eabcb3e0ec2bf89c9ff6323190547666edf87655c38da92b7d610c74dc042c8
+tx 1eabcb3e0ec2bf89c9ff6323190547666edf87655c38da92b7d610c74dc042c8 blk 337661 txid 1376
 zASCRIBESPOOLREGISTER
 
-tx d95a2b6f885e19b1fdc5c5fc04b3ccd44752c07b4ad76c72405ba1989f7d0d42
+tx d95a2b6f885e19b1fdc5c5fc04b3ccd44752c07b4ad76c72405ba1989f7d0d42 blk 337667 txid 454
 (oThis is my first jou
 
-tx 0ad16906b64f39f6482f9abbb9c424c1fdd092c84a0ed878192c8afd5c3609ba
+tx 0ad16906b64f39f6482f9abbb9c424c1fdd092c84a0ed878192c8afd5c3609ba blk 337669 txid 352
 *qhis my second entry.(oThat was so awesome, I'm going to make t
 
-tx 8205d433c675dc992d59c9bbc02152f5b843a0743511746f2653cedc86f702e0
+tx 8205d433c675dc992d59c9bbc02152f5b843a0743511746f2653cedc86f702e0 blk 337678 txid 559
 Testing the bitcoin selector method"
 
-tx a35151ed9f2a72870181432f133792205f972e28899a961739378021d4f84814
+tx a35151ed9f2a72870181432f133792205f972e28899a961739378021d4f84814 blk 337678 txid 874
 (olet's see if this istest 3
 
-tx 22b8c6353a4ab86d966de9558f03da45669dcb9419919e6655d6bb8c3e5546a1
+tx 22b8c6353a4ab86d966de9558f03da45669dcb9419919e6655d6bb8c3e5546a1 blk 337678 txid 875
 Echar la casa por la
 
-tx de11b5f3f35d7dae79e406c7a2d7561cde68307920530250a316930c67cdbf56
+tx de11b5f3f35d7dae79e406c7a2d7561cde68307920530250a316930c67cdbf56 blk 337678 txid 876
 *q19919e6655d6bb8c3e55Proverb.txt
 e9558f03da45669dcb94type:pointer;size:2
 22b8c6353a4ab86d966d
 
-tx c0a95d7c4f4c226e84799ded59e93d48063c799367d7154a0538e80aff69691f
+tx c0a95d7c4f4c226e84799ded59e93d48063c799367d7154a0538e80aff69691f blk 337695 txid 349
 GCuse wallet.la to leave a msg on chain 
 
-tx 9fb3c3b77b7af47787c8f635a88d3f4df420a3c7d246369b67597c444d7c5d06
+tx 9fb3c3b77b7af47787c8f635a88d3f4df420a3c7d246369b67597c444d7c5d06 blk 337732 txid 494
 LEANORE ou ELEANORE ? Alex L. FR        
 
-tx 8ae90a3c32ea66c7fe128e982b8fa4d480a9a94cdb51db429a9a9da9d345b690
+tx 8ae90a3c32ea66c7fe128e982b8fa4d480a9a94cdb51db429a9a9da9d345b690 blk 337739 txid 1133
 TW-v1501-TEST@590c.org
 
-tx dcc4fadf4770974bb5f657d0f625e4192899c06a0720733fc713a2fa66631c91
+tx dcc4fadf4770974bb5f657d0f625e4192899c06a0720733fc713a2fa66631c91 blk 337763 txid 151
 zASCRIBESPOOLREGISTER
 
-tx 67af9b5c35436929b0e75cc844e8e1fc997f0daa2d7fd1be83be658eb99acc6b
+tx 67af9b5c35436929b0e75cc844e8e1fc997f0daa2d7fd1be83be658eb99acc6b blk 337764 txid 775
 zASCRIBESPOOLREPLENISH
 
-tx f11428da110594e4db4ef7ade6da0453540c65cba948f7b7a74f9c726cba3552
+tx f11428da110594e4db4ef7ade6da0453540c65cba948f7b7a74f9c726cba3552 blk 337765 txid 70
 Ec`ASCRIBESPOOLTRANSFER
 
-tx 8fcec37c873eec482b22bf9ed3cbd82c74db11c6efde61eef60e5f12b6f25e82
+tx 8fcec37c873eec482b22bf9ed3cbd82c74db11c6efde61eef60e5f12b6f25e82 blk 337767 txid 782
 zASCRIBESPOOLREGISTER
 
-tx 5f1305a4424b4e982195f48ea1a1fb56195af29bc5086b7c14c633d313c188f0
+tx 5f1305a4424b4e982195f48ea1a1fb56195af29bc5086b7c14c633d313c188f0 blk 337767 txid 928
 zASCRIBESPOOLREPLENISH
 
-tx 83796b10cba8da439e03d1d3cf7e9af036bdd1258208f8a2067df3a54fdbae72
+tx 83796b10cba8da439e03d1d3cf7e9af036bdd1258208f8a2067df3a54fdbae72 blk 337768 txid 120
 Y oJASCRIBESPOOLTRANSFER
 
-tx 24f7f5783ba8549b3d08793728dee27bd5155848367682b0907b8474012619ce
+tx 24f7f5783ba8549b3d08793728dee27bd5155848367682b0907b8474012619ce blk 337810 txid 448
 ]su=https://cpr.sm/EpJ4-d7_gXax'E
 
-tx 3359da32a88db7b525469f32558846f84554b9925445e969138c80391a87037b
+tx 3359da32a88db7b525469f32558846f84554b9925445e969138c80391a87037b blk 337822 txid 1024
 ,4,,,,,,,,,,,,,,,,,,&,,,,,,,,,,,,,,,,,,,
 
-tx 3ed2ee702b272d51a2fac4f49fed504c2e20b396d5fb6b2ad7b23d89a7755d53
+tx 3ed2ee702b272d51a2fac4f49fed504c2e20b396d5fb6b2ad7b23d89a7755d53 blk 337822 txid 1046
 *q80e33579d7e17b8509c779a55789a85d6d28b64ea669f818a7577ca3b2ddf924bcb5f91d6daf37b1ea9e96449f65a6
 a5d6c6abc
 56d446c90f0c7a037b
@@ -1039,14 +1039,14 @@ a292b54a9d333f6baeb79f32558846f84554b9924b9b50726c86525905f7031035ec12f9ed233ef0
 85b984935c
 f17cad95067650febd22d1e05709096928ee64a
 
-tx 44437b2b57cc395965655a0d29c2328924f12e821da4ba6587091d145ce38cdf
+tx 44437b2b57cc395965655a0d29c2328924f12e821da4ba6587091d145ce38cdf blk 337822 txid 1050
 *qLa_persistencia_de_lc4f49fed504c2e20b3963ed2ee702b272d51a2fa5d53
 
 
 
 type:pointer;size:42d5fb6b2ad7b23d89a775
 
-tx fe4a4e657a28bf823dcbe93eb818af4c25f40f3a01a718c61c083a17eeb91052
+tx fe4a4e657a28bf823dcbe93eb818af4c25f40f3a01a718c61c083a17eeb91052 blk 337822 txid 1059
 *q8e89734d6d216b3efdacc18d3d6c92d665f226cdfc76fdffcf5
 e68f43a13daea8c1716b11ede42f3
 cc3b6705643377541549dc20e8
@@ -1055,14 +1055,14 @@ cc3b6705643377541549dc20e8
 
 af517d5ff65782e9c704f579387d1ab94f8175
 
-tx cc3bd668d9b9e6abdc346d8188d9048672ec93051417532afe17279de8f81b00
+tx cc3bd668d9b9e6abdc346d8188d9048672ec93051417532afe17279de8f81b00 blk 337822 txid 1060
 *q747b324956f34b48fe2d3365565a5
 9abc0a095ed8bdab063a1d9293d5fb58a89e4b3d931d3c083c29926eac6f5d650ca125a86987d2f58d51ed07569c2a85886e3433703da3e0f66997f475424f4513ea55
 791203ead4216fd388ff051988b7b
 565eaac74f873afda7c9f708
 c5cc7ff7e0f63462b51b86e8d2a0c881638a2683685e6263499961fd7c59e012de8ad825b3feccaf4419e291f6ff2cf675e4
 
-tx aab31d6099d302d956d987d5ace69f44558a1f65dde0d9aa84aed6c1bd44eee4
+tx aab31d6099d302d956d987d5ace69f44558a1f65dde0d9aa84aed6c1bd44eee4 blk 337822 txid 1061
 *qd3af84de4
 d04b9fa5c1424e5617a1029dcf53506978f54ed429df11b242e996002cac7b6c65dc7688efda205e2490c2ae7afe0132bf03c3fc46b945b14b
 d5468f3c1407239fbfdf7cadffeddd0443c645e763a370051170802d27a820ec3444e284318aef9ee91ec406afc9f3f9b93301869df2b959fa55b4eb2a842c3b5250fe4a23674d239189f456dbeae5ab98dc61241feba9a9b62
@@ -1070,34 +1070,34 @@ d5468f3c1407239fbfdf7cadffeddd0443c645e763a370051170802d27a820ec3444e284318aef9e
 841781aacd33ad
 540c9
 
-tx f74a3ad2421c4b532609497ebdaed9d7dc1f0e58bceec505c36b99df6b8e57b6
+tx f74a3ad2421c4b532609497ebdaed9d7dc1f0e58bceec505c36b99df6b8e57b6 blk 337822 txid 1062
 *qfce6f8b9adfff6b3a563499b5b436
 6cd7bcd0d6324393f7696e0eb391e387b3ffc595446b1ba2ce1e52b41cb341c6fcf0d6258fa57750ad75
 15fba987a1fab95
 
-tx e67f4ccd96d827caa256b651289178279e394e7cdd12abb0cddba02a0df7442c
+tx e67f4ccd96d827caa256b651289178279e394e7cdd12abb0cddba02a0df7442c blk 337822 txid 1063
 *qLa_persistencia_de_l01a718c61c083a17eeb9bdc346d8188d9048672ed302d956d987d5ace69ftype:pointer;size:42(oaed6c1bd44eee4
 f74a3a_memoria.jpg
 1052
 cc3bd668d9b9e6ac93051417532afe17279daed9d7dc1f0e58bceecad2421c4b532609497ebfe4a4e657a28bf823dcbde8f81b00
 aab31d6099e93eb818af4c25f40f3a44558a1f65dde0d9aa84
 
-tx 71e6bab2832757c8f431b522a56aba752604e5f640baebf26e7a9cd0216cae15
+tx 71e6bab2832757c8f431b522a56aba752604e5f640baebf26e7a9cd0216cae15 blk 337824 txid 477
 u=https://cpr.sm/zNb8oyhDha
 
-tx 937558c1e106bcf887cf9ed486decb79b430b1981dd84b34d6f1008d218b7318
+tx 937558c1e106bcf887cf9ed486decb79b430b1981dd84b34d6f1008d218b7318 blk 337833 txid 728
 @u=https://cpr.sm/24mf9vz9el
 
-tx 957e435b7b29e340499bfca3ea2bb21ba522f6b8967ac226940cf51530ecec82
+tx 957e435b7b29e340499bfca3ea2bb21ba522f6b8967ac226940cf51530ecec82 blk 337852 txid 237
 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG>88<IKuDb1n8YoOCih5yu/
 
 I@FVCTivyRO5B4APbcANZHTAJUQ6idxBf8bDYEfw7w71dlJtWiXY+WYaezBxxi7KuFHnhdU="21>Does Free Will Exist?7UW8
 
-tx e8777bfa71ce74e41fd4d2ca77a79ad938476e112abdafd44cd972491c847c51
+tx e8777bfa71ce74e41fd4d2ca77a79ad938476e112abdafd44cd972491c847c51 blk 337862 txid 1480
 1M93qV8hpo6648HFUHtu?
 ?ocVm3vGt7fXgEd.SIG/88*IOprQAT31jmGIwueACIT9Z7uelGmlH6X26Ku1eE59Ambk7tcuIQ6WQYo28qeLNTYFkKUl8dInA5zInZT9xDF8zQ=/14|Are you alive?NfpaxUYSxAs
 
-tx 6354294b22be62ddb447f875cc67f7347c7df6130ee1c0431ebbb0d3daeca754
+tx 6354294b22be62ddb447f875cc67f7347c7df6130ee1c0431ebbb0d3daeca754 blk 337874 txid 280
 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG?88"H3IThGqE04BXPnGMxibNqStoKruWg3U5RCY+bYVq8LnOF6E8duOrCFpR4y4V+ylfzLgai5mWeonRBqJX2UsN1VR4=?2320><p>On November 16th 1974 the Arecibo Observatory broadcasted the following message into deep space</p>
 
 00000010101010000000000
@@ -1111,7 +1111,7 @@ tx 6354294b22be62ddb447f875cc67f7347c7df6130ee1c0431ebbb0d3daeca754
 00000000010101000000000
 0000000001111
 
-tx f01c2bbd48134eb713b68b3526a6422d6c1a9489c0e179f66a74fd26c1da681e
+tx f01c2bbd48134eb713b68b3526a6422d6c1a9489c0e179f66a74fd26c1da681e blk 337874 txid 307
 1000000000
 00000000000000000000000
 11000011100011000011000
@@ -1161,7 +1161,7 @@ tx f01c2bbd48134eb713b68b3526a6422d6c1a9489c0e179f66a74fd26c1da681e
 00100000110110000000000
 000
 
-tx 64d65fedb59a44ca0c259417d9e86f9f2dc96fb953555e4283dbebba489bc7a8
+tx 64d65fedb59a44ca0c259417d9e86f9f2dc96fb953555e4283dbebba489bc7a8 blk 337874 txid 321
 00000000000000000000
 00111000001000000000000
 00111010100010101010101
@@ -1204,7 +1204,7 @@ Image Credit: Arne Nordmann (norro) (Own drawing, 2005) [<a href="http://www.gnu
 <rect x="19" y="3" width="1" height="1"/>
 <rect x="21" y="
 
-tx f23d773182b0a6312f0f7b6a70f0ec10f19eedb4da9ab5091b284026a31c1989
+tx f23d773182b0a6312f0f7b6a70f0ec10f19eedb4da9ab5091b284026a31c1989 blk 337874 txid 322
 4" width="1" height="1"/>
 <rect x="21" y="2" width="1" height="1"/>
 <rect x="22" y="3" width="1" height="1"/>
@@ -1221,7 +1221,7 @@ tx f23d773182b0a6312f0f7b6a70f0ec10f19eedb4da9ab5091b284026a31c1989
 <rect x="1" y="12" width="1" height="4"/>
 <rect x="2" y="14" width="1" 
 
-tx 7b65e377952a97dd1ba98b5b69cd1109f2ff92695901a6cea4910d37ca7706e5
+tx 7b65e377952a97dd1ba98b5b69cd1109f2ff92695901a6cea4910d37ca7706e5 blk 337874 txid 323
 height="2"/>
 <rect x="4" y="14" width="1" height="2"/>
 <rect x="2" y="12" width="1" height="1"/>
@@ -1243,7 +1243,7 @@ w/>
 <rect x="20" y="12" width="1" height="1"/>
 <rect x="21" y="15" width=
 
-tx 3018d8f7cb6a7997b7aa04fb1ab9f0a2ab68e368e9e41a76de138edb1bf96af9
+tx 3018d8f7cb6a7997b7aa04fb1ab9f0a2ab68e368e9e41a76de138edb1bf96af9 blk 337874 txid 324
 "1" height="1"/>
 <rect x="23" y="15" width="1" height="1"/>
 <rect x="1" y="20" width="5" height="1"/>
@@ -1263,7 +1263,7 @@ tx 3018d8f7cb6a7997b7aa04fb1ab9f0a2ab68e368e9e41a76de138edb1bf96af9
 height="1"/>
 <rect x="7" y="25" width="2
 
-tx 932a8872da7200333314ae02cb0b600f3cfaafbc945843ec38444dabe4264a56
+tx 932a8872da7200333314ae02cb0b600f3cfaafbc945843ec38444dabe4264a56 blk 337874 txid 325
 " height="1"/>
 <rect x="7" y="22" width="2" height="1"/>
 <rect x="14" y="24" width="3" height="2"/>
@@ -1273,7 +1273,7 @@ tx 932a8872da7200333314ae02cb0b600f3cfaafbc945843ec38444dabe4264a56
 <rect x="20" y="22" width="1" height="1"/>
 <rect x="21" y="25" width="1
 
-tx 8a4445f3be9689f727e8b018a08e2f86aea1ad8bccc0165f1ce5a71a1cdb706e
+tx 8a4445f3be9689f727e8b018a08e2f86aea1ad8bccc0165f1ce5a71a1cdb706e blk 337874 txid 326
 " height="1"/>
 <rect x="23" y="25" width="1" height="1"/>
 <rect x="9" y="23" wid6g
@@ -1285,7 +1285,7 @@ th="1" height="3"/>
 <rect x="5" y="29" width="1" height="1"/>
 <rect x="4" y="27" width="1
 
-tx c690e47a58e0995e64e562639a01069bd144acdbebfad902f97263a2d754d394
+tx c690e47a58e0995e64e562639a01069bd144acdbebfad902f97263a2d754d394 blk 337874 txid 337
 " height="1"/>
 <rect x="19" y="30" width="5" height="1"/>
 <rect x="23" y="29" width="1" height="1"/>
@@ -1298,7 +1298,7 @@ tx c690e47a58e0995e64e562639a01069bd144acdbebfad902f97263a2d754d394
 <rect x="11" y="38" width="1" height="4"/>
 <rect x="11" y="43" width="1
 
-tx f2c1a1a01fc8d27b346d32223bed303fe2a04bbbd14c24f19f22ca4b5722d0a0
+tx f2c1a1a01fc8d27b346d32223bed303fe2a04bbbd14c24f19f22ca4b5722d0a0 blk 337874 txid 338
 " height="1"/>
 <rect x="12" y="40" width="1" height="3"/></g>
 <g fill="rgb(14,114,255)">
@@ -1306,7 +1306,7 @@ tx f2c1a1a01fc8d27b346d32223bed303fe2a04bbbd14c24f19f22ca4b5722d0a0
 <rect x="4" y="33" width="1" height="1"/>
 <rect x)a&KN="5" y="34" width="2
 
-tx e33e6af2004c5d5951e271725a92cc293d073aff4d4a1cd4b54e3243db126d2d
+tx e33e6af2004c5d5951e271725a92cc293d073aff4d4a1cd4b54e3243db126d2d blk 337874 txid 339
 " height="1"/>
 <rect x="7" y="35" width="2" height="1"/>
 <rect x="15" y="36" width="2" height="1"/>
@@ -1319,7 +1319,7 @@ tx e33e6af2004c5d5951e271725a92cc293d073aff4d4a1cd4b54e3243db126d2d
 <rect x="4" y="39" width="1" height="1"/>
 <rnect x="5" y="38" wid
 
-tx c71ac5b95b23d4f2dbb27ba20e6316c44ef94b29aba05c207d073cd7637d60c5
+tx c71ac5b95b23d4f2dbb27ba20e6316c44ef94b29aba05c207d073cd7637d60c5 blk 337874 txid 340
 th="2" height="1"/>
 <rect x="7" y="37" width="2" height="1"/>
 <rect x="4" y="39" width="1" height="1"/>
@@ -1332,7 +1332,7 @@ th="2" height="1"/>
 <rect x="17" y="44" width="2" height="1"/>
 <rect x="20" y="42"
 
-tx ab9064d9f4675257fc0b54400e12b656702edc77b77928b42e8b7d9ccc0ac4a0
+tx ab9064d9f4675257fc0b54400e12b656702edc77b77928b42e8b7d9ccc0ac4a0 blk 337874 txid 341
  width="1" height="1"/>
 <rect x="19" y="43" width="1" height&
 X="1"/>
@@ -1349,7 +1349,7 @@ X="1"/>
 <rect x="12" y="48" width="1" height="8"/>
 <rect x="9" y="48" 
 
-tx c19182a65497d0609a54152eb8df76f034afde8e1546cf73a7eb1e0bfbdc9c5d
+tx c19182a65497d0609a54152eb8df76f034afde8e1546cf73a7eb1e0bfbdc9c5d blk 337874 txid 342
 width="1" height="1"/>
 <rect x="8" y="49" width="1" height="1"/>
 <rect x="7" y="50" width="1" height="1"/>
@@ -1361,7 +1361,7 @@ width="1" height="1"/>
 <g fill="rgb(255,255,255)">
 <rect x="3" y="51" width="3
 
-tx 51387a06eb6a41931452cba3ea2c4b67c63dc505b7c5fe75d9e12836c69720b1
+tx 51387a06eb6a41931452cba3ea2c4b67c63dc505b7c5fe75d9e12836c69720b1 blk 337874 txid 343
 " height="1"/>
 <rect x="1" y="51" width="1" height="1"/></g>
 <g fill="rgb(14,114,255)">
@@ -1381,7 +1381,7 @@ tx 51387a06eb6a41931452cba3ea2c4b67c63dc505b7c5fe75d9e12836c69720b1
 <rect x="7" y="58" width="1" height="1"/>
 <rect x="9" y="58
 
-tx 4635cba01c0750de5dc2d8d3a1a5656d6e08c4e2d37c4b0cc2c2f725bbd1f76a
+tx 4635cba01c0750de5dc2d8d3a1a5656d6e08c4e2d37c4b0cc2c2f725bbd1f76a blk 337874 txid 344
 " width="1" height="1"/>
 <rect x="13" y="58" width="1" height="1"/>
 <rect x="23" y="58" width="1" height="1"/>
@@ -1416,7 +1416,7 @@ rgb(172,15,198)">
 <rect x="20" y="67" width="1" height="2"/>
 <rect x="7" y="66" width="1" he
 
-tx ea23c87baf093374b5ce640c9c8eb3920f89621aef832e555a48f8fc85733dee
+tx ea23c87baf093374b5ce640c9c8eb3920f89621aef832e555a48f8fc85733dee blk 337874 txid 345
 ight="1"/>
 <rect x="8" y="67" width="1" height="1"/>
 <rect x="9" y="68" width="1" height="1"/>
@@ -1427,7 +1427,7 @@ ight="1"/>
 <rect x="14" y="67" width="1" height="1"/>
 <rect x="13" y="68" width="1" 
 
-tx 4e1974d206955aa3a5b1b78c179cb3f7e9a2210bc2050fe749328088bded7771
+tx 4e1974d206955aa3a5b1b78c179cb3f7e9a2210bc2050fe749328088bded7771 blk 337874 txid 346
 height="1"/>
 <rect x="12" y="69" width="1" height="1"/></g>
 <path fill="none" stroke="rgb(35,35,35)" stroke-width="0.1" d="M2,1V74M3,1V74
@@ -1446,7 +1446,7 @@ M1,56H24M1,57H24M1,58H24M1,59H24M1,60H24M1,61H24M1,62H24M1,63H24
 M1,64H24M1,65H24M1,66H24M1,67H24M1,68H24M1,69H24M1,70H24M1,71H24
 M1,72H24M1,73H24"/></g></svg>mAX2nsR
 
-tx c6d2e535cd2ba4659e954a61198c66fd98c60f6475cf8ff92a404f3fe3a16c4b
+tx c6d2e535cd2ba4659e954a61198c66fd98c60f6475cf8ff92a404f3fe3a16c4b blk 337874 txid 347
 6354294b22be62ddb447f875cc67f7347c7df6130ee1c0431ebbb0d3daeca754*1188/6354294b22be62ddb447f875cc67f7347c7df6130ee1c0431ebbb0d3daeca754
 f01c2bbd48134eb713b68b3526a6422d6c1a9489c0e179f66a74fd26c1da681e
 64d65fedb59a44ca0c259417d9e86f9f2dc96fb953555e4283dbebba489bc7a8
@@ -1467,103 +1467,103 @@ ea23c87baf093374b5ce640c9c8eb3920f89621aef832e555a48f8fc85733dee
 4e1974d206955aa3a5b1b78c179cb3f7e9a2210bc2050fe749328088bded7771
 E
 
-tx 48fcf6d5f09b86601e565e3339151132b92aa54d17a360b83f6dad654a2837c4
+tx 48fcf6d5f09b86601e565e3339151132b92aa54d17a360b83f6dad654a2837c4 blk 337884 txid 732
  blockmsg.com - Messages On BlockChain]
 
-tx 04ab6edee514a0ee2aeff48ca672d6f47d6c40923abb0d78aa33ec7e2001eb09
+tx 04ab6edee514a0ee2aeff48ca672d6f47d6c40923abb0d78aa33ec7e2001eb09 blk 337908 txid 43
 Content-type: text/plain; charset=utf-8
 Content-length: 18
 
 gdassori was here
 
-tx 52dc65e298a032759ea636144de875b5004cd743a1f8cf7606be1eab869036a2
+tx 52dc65e298a032759ea636144de875b5004cd743a1f8cf7606be1eab869036a2 blk 337914 txid 373
 zASCRIBESPOOLREGISTER
 
-tx 8201201fa377742f951d018896ee7d8023191ecff993404706d4d5363567b007
+tx 8201201fa377742f951d018896ee7d8023191ecff993404706d4d5363567b007 blk 337915 txid 171
 zASCRIBESPOOLREGISTER
 
-tx 494346363f7da956fd32e98f15be4cac9aad5e83752c38e42a77a0870fb37855
+tx 494346363f7da956fd32e98f15be4cac9aad5e83752c38e42a77a0870fb37855 blk 337926 txid 597
 zASCRIBESPOOLREGISTER
 
-tx 2c13d4d8ab9312521e39cfb310db3b21898b8de9db04647915ebd1a428364718
+tx 2c13d4d8ab9312521e39cfb310db3b21898b8de9db04647915ebd1a428364718 blk 337926 txid 613
 zASCRIBESPOOLREGISTER
 
-tx 1d6b608c2a857b4ca5d997a301cea21b04539fc3f722a3e9efdc90bdfbed9011
+tx 1d6b608c2a857b4ca5d997a301cea21b04539fc3f722a3e9efdc90bdfbed9011 blk 337926 txid 796
 zASCRIBESPOOLREPLENISH
 
-tx 6668ff9a05101d804ade59c465de44751ef1682e74a1adf8e4a6a394e4829723
+tx 6668ff9a05101d804ade59c465de44751ef1682e74a1adf8e4a6a394e4829723 blk 337926 txid 799
 zASCRIBESPOOLREPLENISH
 
-tx d2688057cb4707af68c0bd5a2a228a9e4f70d6754f7bf990736df6d144cca426
+tx d2688057cb4707af68c0bd5a2a228a9e4f70d6754f7bf990736df6d144cca426 blk 337926 txid 809
 zASCRIBESPOOLREPLENISH
 
-tx 47237b1837682f181079749ad1d2bf8e78ab36e79f64d2254e6676c178b44a0a
+tx 47237b1837682f181079749ad1d2bf8e78ab36e79f64d2254e6676c178b44a0a blk 337932 txid 42
 ,ASCRIBESPOOLTRANSFER
 
-tx 81fb7ab0b66ff6adcff1a2df39e52fba6b23590b30e8b00deee08d2a5929ee8d
+tx 81fb7ab0b66ff6adcff1a2df39e52fba6b23590b30e8b00deee08d2a5929ee8d blk 337932 txid 43
 IHASCRIBESPOOLTRANSFER
 
-tx 56925bd541d369e85b619d48150004e1a522210a17fb8c3ceaf0877f97d57396
+tx 56925bd541d369e85b619d48150004e1a522210a17fb8c3ceaf0877f97d57396 blk 337932 txid 46
 )AKASCRIBESPOOLTRANSFER
 
-tx a7bdd8a4ace72fe39c4597ea185ff8c099db2f5528dee43f642b2d177a1d6646
+tx a7bdd8a4ace72fe39c4597ea185ff8c099db2f5528dee43f642b2d177a1d6646 blk 337936 txid 889
 wallet test of decade!
 
-tx 0ba509892255591dba64bd5aa38397e00e3e55d1d7ff30157e1eef4cd19cd331
+tx 0ba509892255591dba64bd5aa38397e00e3e55d1d7ff30157e1eef4cd19cd331 blk 337940 txid 364
 u=https://cpr.sm/c0k4Vzn6yd
 
-tx f4d0bb7015cc7b2d5499e4254443982d4bd497e247053bbadff9be7d1d5d16f8
+tx f4d0bb7015cc7b2d5499e4254443982d4bd497e247053bbadff9be7d1d5d16f8 blk 337957 txid 277
 b8V
 u=https://cpr.sm/wc10WZ8OpB
 
-tx 54515c320c421aefe4853b84ad4a2aa5764830df448139d2687e0501dca839b9
+tx 54515c320c421aefe4853b84ad4a2aa5764830df448139d2687e0501dca839b9 blk 337957 txid 278
 b8V
 u=https://cpr.sm/wc10WZ8OpB
 
-tx 7f5dc7a5d64e6362063cedf62eda97bef286971701d2f5d79e75b895be758cb2
+tx 7f5dc7a5d64e6362063cedf62eda97bef286971701d2f5d79e75b895be758cb2 blk 337957 txid 279
 b8V
 u=https://cpr.sm/wc10WZ8OpB
 
-tx f4ee15181fbc73a0c4e467b0ee9a2838064a8599c120e6f321b1a9027cb17685
+tx f4ee15181fbc73a0c4e467b0ee9a2838064a8599c120e6f321b1a9027cb17685 blk 337957 txid 280
 b8V
 u=https://cpr.sm/wc10WZ8OpB
 
-tx 07ce8eb3ca30b3324427e4e283f1cafd71eff5b1a62c9a68e677b78218f466c2
+tx 07ce8eb3ca30b3324427e4e283f1cafd71eff5b1a62c9a68e677b78218f466c2 blk 337962 txid 1099
 zASCRIBESPOOLREGISTER
 
-tx 25170897b543a80a50fd9e7240dbf84341ae05cff509c78ec037c142a46db830
+tx 25170897b543a80a50fd9e7240dbf84341ae05cff509c78ec037c142a46db830 blk 337967 txid 606
 zASCRIBESPOOLREGISTER
 
-tx c035bd48a2b458768d07b865969237e3a81111b47298359396a2a2854e300b9f
+tx c035bd48a2b458768d07b865969237e3a81111b47298359396a2a2854e300b9f blk 337967 txid 607
 zASCRIBESPOOLREGISTER
 
-tx b4f5b1030ca6c06c8f05b2d833dd62ab0ae4ae2a33cbdc4f3936a8d5c83adc69
+tx b4f5b1030ca6c06c8f05b2d833dd62ab0ae4ae2a33cbdc4f3936a8d5c83adc69 blk 337967 txid 608
 zASCRIBESPOOLREGISTER
 
-tx 258d02e38a959b3a75efb5c962b140f09295439fb17c4afee44c5bba747bffa9
+tx 258d02e38a959b3a75efb5c962b140f09295439fb17c4afee44c5bba747bffa9 blk 337967 txid 609
 zASCRIBESPOOLREGISTER
 
-tx 9682b49d772c699b6f02c8f295eb385d7657d3a82a05ff816044f8911bcaaf1c
+tx 9682b49d772c699b6f02c8f295eb385d7657d3a82a05ff816044f8911bcaaf1c blk 337967 txid 627
 zASCRIBESPOOLREGISTER
 
-tx 304b2547a3d555d10e62fb35efaa7539d141f4aa616eacd91f6f6072a907131f
+tx 304b2547a3d555d10e62fb35efaa7539d141f4aa616eacd91f6f6072a907131f blk 337984 txid 423
 2af398593040a3f92ca0oQ
 c892f6a956d3948ada27
 
 
-tx 3aa19c4b33a01358e1e4480dfefdc655b46f4fbd65cd448c73ead0decd5b8fa8
+tx 3aa19c4b33a01358e1e4480dfefdc655b46f4fbd65cd448c73ead0decd5b8fa8 blk 337991 txid 955
 Testing the new logi?Everyone gets their own wallet.
 
-tx 2ad717de57f5a141aa0565ad8f25f289da84957dc34cafe4ba2981d132510d9a
+tx 2ad717de57f5a141aa0565ad8f25f289da84957dc34cafe4ba2981d132510d9a blk 337995 txid 677
 A
 	YZcdefghijstuvwxyz
 56789:CDEFGHIJSTUVWX
 
-tx c93d7ccdc2e03e2c4eaf6f181fc2c26f1b641a5cb766057de3602839916b539a
+tx c93d7ccdc2e03e2c4eaf6f181fc2c26f1b641a5cb766057de3602839916b539a blk 337995 txid 678
 TUVWXYZcdefghijstuvwi3
 &'()*56789:CDEFGHIJS
 
-tx 11436c1535656ce8f82305d469459699865289277de5315e3eb63ab50821bf43
+tx 11436c1535656ce8f82305d469459699865289277de5315e3eb63ab50821bf43 blk 337995 txid 685
 f1f5d3e79681463eeb9f6ba4905b64b3b52d5837e0da46ff74d4aee48682c34cafe4ba2981d13251melting_clock.jpg
 65ad8f25f289da84957dtype:pointer;size:119916b539a
 16b81792810d9a

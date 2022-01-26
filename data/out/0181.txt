@@ -1,5 +1,5 @@
-tx 11c88f6e655d69b8805f23a58b664a76af508c9d1ef128399ea82b5f45a9448a
+tx 11c88f6e655d69b8805f23a58b664a76af508c9d1ef128399ea82b5f45a9448a blk 181694 txid 252
 This text was embedded into the block chain by me!
 
-tx 71bbaef28e09d8d6fadd41f053db7768dbb5fa4570f06b961dfc29db3dc00b1d
+tx 71bbaef28e09d8d6fadd41f053db7768dbb5fa4570f06b961dfc29db3dc00b1d blk 181732 txid 31
 Another text was embedded into the block chain. The standard "transaction to IP address" transaction type was used, the data was embedded into the public key.

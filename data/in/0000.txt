@@ -1,2 +1,2 @@
-tx 4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
+tx 4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b blk 0 txid 0
 EThe Times 03/Jan/2009 Chancellor on brink of second bailout for banks

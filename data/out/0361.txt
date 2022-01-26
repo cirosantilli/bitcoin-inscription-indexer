@@ -1,32 +1,32 @@
-tx d71db39260673c5c69fb19800dd1980b2425cfdcb8e779a3a2be2dbed44b7f8f
+tx d71db39260673c5c69fb19800dd1980b2425cfdcb8e779a3a2be2dbed44b7f8f blk 361002 txid 461
 SIG/0000088:G9/YOrZLwjRtBHs7FFwzYNooB+K5Ed4kiteGksOzSEQsVziKkj3tyP4IVoWqfqTpFM6XUeiXuTLqg5n/RawKv1g="000000000000000046>#EMBII 
 
 Ceiling of the #Fargo Theater #ND
 StarShip.jpg*000000000000000003259s
 Copyright (c) 1998 Hewlett-Packard Company
 
-tx b49c86287c0600a508bfca792ed06e27679ad8fe134a8695df60fc360eb3a7b6
+tx b49c86287c0600a508bfca792ed06e27679ad8fe134a8695df60fc360eb3a7b6 blk 361002 txid 463
 IEC http://www.iec.ch
 IEC http://www.iec.ch
 
-tx 3a55734f85df626071581cac9dfff839fc670b7150bcbad84df670ce4727160b
+tx 3a55734f85df626071581cac9dfff839fc670b7150bcbad84df670ce4727160b blk 361002 txid 464
 .IEC 61966-2.1 Default RGB colour space - sRGB
 .IEC 61966-2.1 Default RGB colour space - sRGB
 
-tx 07a5b00c4c2c1825bc93ff80b5bacfa83c4ef507e64092ce0b1ba92309e2678f
+tx 07a5b00c4c2c1825bc93ff80b5bacfa83c4ef507e64092ce0b1ba92309e2678f blk 361002 txid 496
 ,Reference Viewing Condition in IEC61966-2.1
 ,Reference Viewing Condition in IEC61966-2.1
 "2,441,0/7>OC7:K;/0E^FKRTYYY5Bah`VgOWYU
 (U909UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 
-tx 88d555b4c7bc3c9bcc1de6d118ab23ec582eebfb7aad43052c1f6055bd4ade5a
+tx 88d555b4c7bc3c9bcc1de6d118ab23ec582eebfb7aad43052c1f6055bd4ade5a blk 361002 txid 497
 UUUUUUUUUUUUUUUUUUUU%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 1dec0a7de66dd7a7b4b6c4984e54e22e3c5e5a6f341e84c79e1c1715091988eb
+tx 1dec0a7de66dd7a7b4b6c4984e54e22e3c5e5a6f341e84c79e1c1715091988eb blk 361002 txid 501
 EMBII###############Fargo###############ND##################
 
-tx c53719cd196ea0f6c6bc77f828954d485854854a4b22ccb3d63692dacfa17b36
+tx c53719cd196ea0f6c6bc77f828954d485854854a4b22ccb3d63692dacfa17b36 blk 361002 txid 502
 d71db39260673c5c69fb19800dd1980b2425cfdcb8e779a3a2be2dbed44b7f8f\660>d71db39260673c5c69fb19800dd1980b2425cfdcb8e779a3a2be2dbed44b7f8f
 8b1a6e6a41938221c14c892b928cb97be23d11ffc467f553658f99087b438574
 b49c86287c0600a508bfca792ed06e27679ad8fe134a8695df60fc360eb3a7b6
@@ -41,493 +41,493 @@ a975edcb5713bb05ec4d499d68dea813fb7e406f1c5541415c0b75e05b7f52b2
 ##########
 EMBII###############Fargo###############ND##################
 
-tx e97207dd2b020120d87c3082c84eae9ad8604b747e5b63cd9bd693a3d98a2735
+tx e97207dd2b020120d87c3082c84eae9ad8604b747e5b63cd9bd693a3d98a2735 blk 361004 txid 636
 SIG>0000088*HIhwd245vu9ZKZzziQVGL/C79A9AwrQQhOckSDjtZx2fD5rcir/oUX3w8Q9K80gNm+h0LJcqy4bM1VhNEdxms+Y=*000000000000000090?FB3063BD2A37F2D1DC7BEE1385EF2050787FDDD9p
 CBF1A4620D342DA85773BC01
 FileName:StarShip-big.png#########
 EMBII###############
 
-tx 046a0e445c1e26fcf85c569257dbf9a1aa3f3fde24e4bdd5f7b63507a29b6398
+tx 046a0e445c1e26fcf85c569257dbf9a1aa3f3fde24e4bdd5f7b63507a29b6398 blk 361005 txid 1180
 unsuccessful double-spend attempt
 
-tx b7c7e7732e6aca1605917951de76f527945a97cd7fe419b9334ee4c03d5d7e7f
+tx b7c7e7732e6aca1605917951de76f527945a97cd7fe419b9334ee4c03d5d7e7f blk 361014 txid 270
 unsuccessful double-spend attempt
 
-tx 79a9057324ec2c23d473781192c57a043e5e44b745073e6742ac731a5c8f1fd9
+tx 79a9057324ec2c23d473781192c57a043e5e44b745073e6742ac731a5c8f1fd9 blk 361024 txid 184
 unsuccessful double-spend attempt
 
-tx 85a466229883f15481b1a53e64e49f11474cbcad2b41bb383f676863e576b12f
+tx 85a466229883f15481b1a53e64e49f11474cbcad2b41bb383f676863e576b12f blk 361045 txid 428
 zASCRIBESPOOLREGISTER
 
-tx d55d7ce136b651926aa85ad620a40fb5440227e84aae36bb0e8d0a8c927f0d0b
+tx d55d7ce136b651926aa85ad620a40fb5440227e84aae36bb0e8d0a8c927f0d0b blk 361060 txid 1371
 zASCRIBESPOOLREGISTER
 
-tx 3a12200aea03602ab6632ed515dca38918d510ce48ece19d28c05d71ad74b05a
+tx 3a12200aea03602ab6632ed515dca38918d510ce48ece19d28c05d71ad74b05a blk 361062 txid 622
 f06c5a91ad50d51ed7286d8e1b829f3d5448c94f6ffb5a166ea8f252eb688018
 
-tx 3403353c52dbd83b2ffaa1445569fecf5ec02513cc4a9d27871f359d157b72c7
+tx 3403353c52dbd83b2ffaa1445569fecf5ec02513cc4a9d27871f359d157b72c7 blk 361065 txid 582
 zASCRIBESPOOLREGISTER
 
-tx b2c5f2fa9d9ca9de227db68d3a6fa42bdeacc6eff048e122698851c768820289
+tx b2c5f2fa9d9ca9de227db68d3a6fa42bdeacc6eff048e122698851c768820289 blk 361069 txid 292
 zASCRIBESPOOLREGISTER
 
-tx ca9709230d83d8dfdf3083c129903d1c5b6deb55fc4dba3dc80b446996aec820
+tx ca9709230d83d8dfdf3083c129903d1c5b6deb55fc4dba3dc80b446996aec820 blk 361074 txid 537
 f06c5a91ad50d51ed7286d8e1b829f3d5448c94f6ffb5a166ea8f252eb688018
 
-tx 11ef69880df57b91ad288b79c7417db54309382522ba6accf6c58dc4209fcabb
+tx 11ef69880df57b91ad288b79c7417db54309382522ba6accf6c58dc4209fcabb blk 361079 txid 1231
 u=https://cpr.sm/_Ii7LAYu5l
 
-tx 077f9abd393511ab8a89731ba2d49aa1be850ef382bfdfd9afa8148e666b5426
+tx 077f9abd393511ab8a89731ba2d49aa1be850ef382bfdfd9afa8148e666b5426 blk 361082 txid 60
 6ebe81e4fa941e15436f053f53f4a4d9b68d61d86767cd5c2e69d380c03edd8e
 
-tx cba6114e433ac1e1247108d0bfe4f37f95ee4870627b0befc500259bca37efa2
+tx cba6114e433ac1e1247108d0bfe4f37f95ee4870627b0befc500259bca37efa2 blk 361085 txid 349
 c8004d0ce699d40ad573ccdd01c6f9a50559a3a4d2a79619c53909343cd11013
 
-tx e95a04f95f79ece82ba3c21028c434975359b44b06ccda55f533f77df78c2cd9
+tx e95a04f95f79ece82ba3c21028c434975359b44b06ccda55f533f77df78c2cd9 blk 361087 txid 1100
 589e43d21ab702cb160100db51dc1d4714b143e600a6caffd0564bdb4c983dee
 
-tx 1e742683ec559d7a437799f5bb7bd3a700a3abacd9ebbd017bd467248f116f29
+tx 1e742683ec559d7a437799f5bb7bd3a700a3abacd9ebbd017bd467248f116f29 blk 361095 txid 897
 $ix,Pu=https://cpr.sm/fqcdYfFaGI
 
-tx d6662450013c3350b64885707c4120ef36cdfdf63d37823cd4e955f77a664c53
+tx d6662450013c3350b64885707c4120ef36cdfdf63d37823cd4e955f77a664c53 blk 361095 txid 954
 6ebe81e4fa941e15436f053f53f4a4d9b68d61d86767cd5c2e69d380c03edd8e
 
-tx a8368e1743a58dffc18097621e924e31da0a1184aa7511051788959ca6340970
+tx a8368e1743a58dffc18097621e924e31da0a1184aa7511051788959ca6340970 blk 361100 txid 993
 zASCRIBESPOOLREGISTER
 
-tx 1b90689decad819db0b8347601a06b70524f43f1613996c61264e5cb58c3e065
+tx 1b90689decad819db0b8347601a06b70524f43f1613996c61264e5cb58c3e065 blk 361100 txid 994
 zASCRIBESPOOLREGISTER
 
-tx ac053f918cce4c95de4e4490cbaa25136b7df0dccdcce1795a24175a51093ada
+tx ac053f918cce4c95de4e4490cbaa25136b7df0dccdcce1795a24175a51093ada blk 361100 txid 1210
 X u=https://cpr.sm/sfVgO99st-
 
-tx 3cb0ad318302398cd2ce311b74310b8122d21c0eb08faca345829f89bf6196ad
+tx 3cb0ad318302398cd2ce311b74310b8122d21c0eb08faca345829f89bf6196ad blk 361105 txid 826
 zASCRIBESPOOLREGISTER
 
-tx 2ae9966d10cb87a51c7bb1145e17017e0755d32589385f281fa600e4b89abe5c
+tx 2ae9966d10cb87a51c7bb1145e17017e0755d32589385f281fa600e4b89abe5c blk 361124 txid 387
 mu=https://cpr.sm/KO7T5scKPk
 
-tx 76a7d9ed13849b4bd314e52bc80c054745f69f35ba456fc1f19e8096fb6c0eeb
+tx 76a7d9ed13849b4bd314e52bc80c054745f69f35ba456fc1f19e8096fb6c0eeb blk 361141 txid 794
 `unsuccessful double-spend attempt
 
-tx f8464bc79746419c5f9a478d6fd97e43354ac7c8c46545a6505f0ee8d49005dc
+tx f8464bc79746419c5f9a478d6fd97e43354ac7c8c46545a6505f0ee8d49005dc blk 361170 txid 120
 unsuccessful double-spend attempt
 
-tx 15819fd1fdeac9ca86b046a1ae31fd3908ad50e15531af2623efc800a1dccf2a
+tx 15819fd1fdeac9ca86b046a1ae31fd3908ad50e15531af2623efc800a1dccf2a blk 361183 txid 1332
 zASCRIBESPOOLREGISTER
 
-tx 14d8c53c33e0e26e550bdc26c7a03a4696a099e706852e88853555c36e2c4c93
+tx 14d8c53c33e0e26e550bdc26c7a03a4696a099e706852e88853555c36e2c4c93 blk 361184 txid 1376
 @ASCRIBESPOOL01EDITIONS0
 
-tx 020daefb2902a786632ac3bd5528c9bb8542abf080f4f3c843e7f86dca355add
+tx 020daefb2902a786632ac3bd5528c9bb8542abf080f4f3c843e7f86dca355add blk 361184 txid 1377
 @ASCRIBESPOOL01REGISTER0
 
-tx e1ae9434a7cc88013fb16a464c5353457e162132f392d5f6985a5ad180e936a5
+tx e1ae9434a7cc88013fb16a464c5353457e162132f392d5f6985a5ad180e936a5 blk 361185 txid 590
 @ASCRIBESPOOL01EDITIONS2
 
-tx f2d9c2d54aed1b296902faa8fca6e95158c055be78bdafc106a0975e69a89f4e
+tx f2d9c2d54aed1b296902faa8fca6e95158c055be78bdafc106a0975e69a89f4e blk 361188 txid 366
 f06c5a91ad50d51ed7286d8e1b829f3d5448c94f
 
-tx ea57ebab9e49f78dd600631b18307eb1f667153ff934da57422df6702dd98e32
+tx ea57ebab9e49f78dd600631b18307eb1f667153ff934da57422df6702dd98e32 blk 361189 txid 929
 mu=https://cpr.sm/KO7T5scKPk
 
-tx 3146e897fa4c438e1e2656a867eef1ad17feb5e217ac9664c3ffaa4d5d7d2458
+tx 3146e897fa4c438e1e2656a867eef1ad17feb5e217ac9664c3ffaa4d5d7d2458 blk 361190 txid 509
 @ASCRIBESPOOL01REGISTER0
 
-tx d872812cf94764aedea1fe61bf3fccf7c2534a8af591dd53c8d65a5238ba45ca
+tx d872812cf94764aedea1fe61bf3fccf7c2534a8af591dd53c8d65a5238ba45ca blk 361190 txid 510
 @ASCRIBESPOOL01EDITIONS2
 
-tx 8bce3b3a075beb6187a2d4182b3435bf55964af9ec4c4bb11760817180546a42
+tx 8bce3b3a075beb6187a2d4182b3435bf55964af9ec4c4bb11760817180546a42 blk 361190 txid 511
 @ASCRIBESPOOL01REGISTER0
 
-tx 0bdbffbf5b0c1b6d12747bbb64493bcc62cdabfc374f6a964bd2ed542abb6edb
+tx 0bdbffbf5b0c1b6d12747bbb64493bcc62cdabfc374f6a964bd2ed542abb6edb blk 361190 txid 512
 @ASCRIBESPOOL01REGISTER0
 
-tx 2d870772f2a394ff76091ca85a382612cbb3997a7d44355598f4fb0e259d321b
+tx 2d870772f2a394ff76091ca85a382612cbb3997a7d44355598f4fb0e259d321b blk 361194 txid 1674
 W3b0526LeeMing baobeidaxiang  dazhu  gege
 
-tx ae77c12fdbaa925cd20e238befc40357e09fb098d0bb20090640c4c125494119
+tx ae77c12fdbaa925cd20e238befc40357e09fb098d0bb20090640c4c125494119 blk 361195 txid 274
 zASCRIBESPOOLREGISTER
 
-tx 80314a729e6aea1183c968aaffdd8ce3ecda230f02699e1b38fe300a448d9f77
+tx 80314a729e6aea1183c968aaffdd8ce3ecda230f02699e1b38fe300a448d9f77 blk 361195 txid 407
 @ASCRIBESPOOL01EDITIONS2
 
-tx 19384f8cf4ea8490b44ac0a809ea03c441dc649c8b03b5bbcc57dbc1ad72de97
+tx 19384f8cf4ea8490b44ac0a809ea03c441dc649c8b03b5bbcc57dbc1ad72de97 blk 361195 txid 408
 @ASCRIBESPOOL01EDITIONS2
 
-tx 626e48b7292874535afb776edcbb8ea0babfcd92411e46aaa28c137c3bef8464
+tx 626e48b7292874535afb776edcbb8ea0babfcd92411e46aaa28c137c3bef8464 blk 361195 txid 409
 @ASCRIBESPOOL01EDITIONS2
 
-tx 1bd73b5e90fac2797da48ccb015c717b9fc02058f3b1b17c5f8aad77dc2cd5ba
+tx 1bd73b5e90fac2797da48ccb015c717b9fc02058f3b1b17c5f8aad77dc2cd5ba blk 361195 txid 410
 @ASCRIBESPOOL01REGISTER0
 
-tx 4186b78ebe26b57f2f62a7a43bba2d8181e6d493834d154a82aa9743f3812076
+tx 4186b78ebe26b57f2f62a7a43bba2d8181e6d493834d154a82aa9743f3812076 blk 361195 txid 411
 @ASCRIBESPOOL01EDITIONS2
 
-tx 4862c89506faee197e6dde704001e778b19cac4486b7b475297cbb8371d431f7
+tx 4862c89506faee197e6dde704001e778b19cac4486b7b475297cbb8371d431f7 blk 361195 txid 412
 @ASCRIBESPOOL01REGISTER0
 
-tx a8c47b5b62040bee62bd6f506e7b937dac9bdc3a33aab36efd01024e1bce7d82
+tx a8c47b5b62040bee62bd6f506e7b937dac9bdc3a33aab36efd01024e1bce7d82 blk 361197 txid 821
 u=https://cpr.sm/GVXmGwR66W
 
-tx 1d5e844aa554e8019ef740fd692c3026d2dffb6024ac2669a86415dc1425455e
+tx 1d5e844aa554e8019ef740fd692c3026d2dffb6024ac2669a86415dc1425455e blk 361200 txid 1259
 u=https://cpr.sm/gS_at1x2AX
 
-tx 5785ea7abcf30c45791ce94f48e3d590a96a3d035deddeb06c23d66ac0eee068
+tx 5785ea7abcf30c45791ce94f48e3d590a96a3d035deddeb06c23d66ac0eee068 blk 361202 txid 559
 L/(pV68.65.120.45        
 
-tx 281abcb988156bb83b1ec5d4dc6410c65efd44a4a79211793dfdeefbcdf3eab0
+tx 281abcb988156bb83b1ec5d4dc6410c65efd44a4a79211793dfdeefbcdf3eab0 blk 361202 txid 1910
 u=https://cpr.sm/z4d7P03JGIQ
 
-tx da5a77969f830d822638ffde79f18d659222ce243cda46e855206c159e5d4342
+tx da5a77969f830d822638ffde79f18d659222ce243cda46e855206c159e5d4342 blk 361202 txid 1917
 zASCRIBESPOOLREGISTER
 
-tx cc52740c6878d3ab38842b4963d9ef43979794e43cf9ee257bf70b8bd6594b4d
+tx cc52740c6878d3ab38842b4963d9ef43979794e43cf9ee257bf70b8bd6594b4d blk 361207 txid 771
 zASCRIBESPOOLREGISTER
 
-tx d30cbb5896ab33ad72b12d8d5cb27b1f16eab58f941ac9714bee5c56a546d82f
+tx d30cbb5896ab33ad72b12d8d5cb27b1f16eab58f941ac9714bee5c56a546d82f blk 361209 txid 1188
 u=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx be5fa5fddaeb9b7b90499abfab1e43e9fef692b9eae0fd2e32e155356789df71
+tx be5fa5fddaeb9b7b90499abfab1e43e9fef692b9eae0fd2e32e155356789df71 blk 361213 txid 130
 68.65.120.45        
 
-tx 5f10a1b15cec599d424016d36d6a66b6de40bf682eaca97b4377a0aa9ed31fd1
+tx 5f10a1b15cec599d424016d36d6a66b6de40bf682eaca97b4377a0aa9ed31fd1 blk 361215 txid 343
 u=https://cpr.sm/ED1WgvOrWkVi)z
 
-tx 90343199ab16e929e819693068f3772272d392bce4659731c9460224ee1126db
+tx 90343199ab16e929e819693068f3772272d392bce4659731c9460224ee1126db blk 361219 txid 307
 68.65.120.45        
 
-tx f4eddd584d133629a8b01448fd1c6b18dcdee11120d53d5ae987e149797d0059
+tx f4eddd584d133629a8b01448fd1c6b18dcdee11120d53d5ae987e149797d0059 blk 361225 txid 219
 68.65.120.45        
 
-tx 8ed4a6adc5b98c98bdef4cf758a45b2ebea954aa9fc7663246c42257ea70daf6
+tx 8ed4a6adc5b98c98bdef4cf758a45b2ebea954aa9fc7663246c42257ea70daf6 blk 361229 txid 264
 u=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx 42dac26feb9a44535d686ed2381b993fc53c57a8150dd87cb4a58b55982951e6
+tx 42dac26feb9a44535d686ed2381b993fc53c57a8150dd87cb4a58b55982951e6 blk 361229 txid 267
 u=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx 261f8f9f267fd15d3e169be664476ae470fb643aff88d9b885df2c5b0a892773
+tx 261f8f9f267fd15d3e169be664476ae470fb643aff88d9b885df2c5b0a892773 blk 361229 txid 268
 u=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx d7c4020a6245ff6c197ae272277af62eff51281f1fe640216c73da12f4eba468
+tx d7c4020a6245ff6c197ae272277af62eff51281f1fe640216c73da12f4eba468 blk 361249 txid 297
 68.65.120.45        =t
 
-tx 39c1783dd3e61e7554b5a246adb8acfb851d92290b2584acb40fbe116d5952d1
+tx 39c1783dd3e61e7554b5a246adb8acfb851d92290b2584acb40fbe116d5952d1 blk 361267 txid 370
 u=http://goo.gl/CxoF8Y
 
-tx fd879258aedee13d603117a45d1721652c05b04812563309cabd6a5e3c154675
+tx fd879258aedee13d603117a45d1721652c05b04812563309cabd6a5e3c154675 blk 361269 txid 992
 u=http://goo.gl/CxoF8Y
 
-tx 6fc8875e3a308358003925a54124059cb97934ee05c5704f8d2b8df1ef2976b8
+tx 6fc8875e3a308358003925a54124059cb97934ee05c5704f8d2b8df1ef2976b8 blk 361271 txid 239
 u=http://goo.gl/CxoF8Y
 
-tx 01acbb532be03677e47f870e822dbe07ede4958a31eb2a52881ee4320a65aeee
+tx 01acbb532be03677e47f870e822dbe07ede4958a31eb2a52881ee4320a65aeee blk 361283 txid 1161
 zASCRIBESPOOLREGISTER
 
-tx 4f53bc45f08e9a0425e22fa89f5e058dcd380e338c4bfc7b85d6d4e6646106f8
+tx 4f53bc45f08e9a0425e22fa89f5e058dcd380e338c4bfc7b85d6d4e6646106f8 blk 361283 txid 1279
 ASCRIBESPOOLREPLENISH
 
-tx f16e310ed9737721538da78df5c4a32004d7d8b3b7714a81c6a57009bb11d7bb
+tx f16e310ed9737721538da78df5c4a32004d7d8b3b7714a81c6a57009bb11d7bb blk 361283 txid 1503
 ZASCRIBESPOOLREGISTER
 
-tx e9280ba07036440cf3bd7363ca75d920d252283a943e9656b581d6c94494b98c
+tx e9280ba07036440cf3bd7363ca75d920d252283a943e9656b581d6c94494b98c blk 361283 txid 1544
 zASCRIBESPOOLREPLENISH
 
-tx a77405deb8ea1889dd1198fae16f912106c0c2eb49261acc513a805486e5c1cf
+tx a77405deb8ea1889dd1198fae16f912106c0c2eb49261acc513a805486e5c1cf blk 361283 txid 1545
 zASCRIBESPOOLREPLENISH
 
-tx 626189a4b3dd37c0325c572ff26f15fc8367c4edce6804242bd48f217dbee93a
+tx 626189a4b3dd37c0325c572ff26f15fc8367c4edce6804242bd48f217dbee93a blk 361283 txid 1582
 zASCRIBESPOOLREPLENISH
 
-tx 286230dcb35dc5e3a068d1ccbd901b2ba58cd76fea970fe301a2b1a34b1f1af7
+tx 286230dcb35dc5e3a068d1ccbd901b2ba58cd76fea970fe301a2b1a34b1f1af7 blk 361285 txid 74
 2VASCRIBESPOOLCONSIGN
 
-tx 04dc88ba83f9d8a86cbc478ff8a1164dcda76dce455aa890360ec5c6d8c30193
+tx 04dc88ba83f9d8a86cbc478ff8a1164dcda76dce455aa890360ec5c6d8c30193 blk 361285 txid 75
 6ASCRIBESPOOLCONSIGN
 
-tx f12bf8adf3f860e4988d43e445f025aa18610b0d77facc3965917840af624598
+tx f12bf8adf3f860e4988d43e445f025aa18610b0d77facc3965917840af624598 blk 361285 txid 368
 zASCRIBESPOOLREGISTER
 
-tx c9dd0b94afd040d9f67d5015fb8adef32c944308b0454a7b0507eac516c90a05
+tx c9dd0b94afd040d9f67d5015fb8adef32c944308b0454a7b0507eac516c90a05 blk 361286 txid 59
 ASCRIBESPOOLTRANSFER
 
-tx 10843025c69b44c85f4eec0c5992fcb4bac54e07d0fdc8368a38944fa961bf31
+tx 10843025c69b44c85f4eec0c5992fcb4bac54e07d0fdc8368a38944fa961bf31 blk 361286 txid 68
 oASCRIBESPOOLTRANSFER
 
-tx 88ede6a26cb664bb63f4dff9be22878bf585962b88a70d39b3cf9406b386b550
+tx 88ede6a26cb664bb63f4dff9be22878bf585962b88a70d39b3cf9406b386b550 blk 361286 txid 817
 @ASCRIBESPOOL01EDITIONS2
 
-tx a2cab98ac1d4581fdaae6adab736ab4de6f1c28d54749841985ba723a8fcb41f
+tx a2cab98ac1d4581fdaae6adab736ab4de6f1c28d54749841985ba723a8fcb41f blk 361287 txid 881
 ASCRIBESPOOL01REGISTER2
 
-tx 827f181b963d724a292705fa79d833b7585e714648025136a9e2a84ef684f522
+tx 827f181b963d724a292705fa79d833b7585e714648025136a9e2a84ef684f522 blk 361287 txid 1464
 @ASCRIBESPOOL01EDITIONS2
 
-tx 393f033acdb36bf0d748e6740b405bfd57efd39d41f69acdbe0851b56215c7b1
+tx 393f033acdb36bf0d748e6740b405bfd57efd39d41f69acdbe0851b56215c7b1 blk 361287 txid 1465
 @ASCRIBESPOOL01EDITIONS2
 
-tx ff70cba607e881b41d1927bf07e1af01569b52513799aa3e3499044619559b09
+tx ff70cba607e881b41d1927bf07e1af01569b52513799aa3e3499044619559b09 blk 361288 txid 497
 jvASCRIBESPOOL01CONSIGN2
 
-tx 5ebc5208f663488c91ce801ce4ac2b38499a7f3a1abd5601704b04227a6f78fa
+tx 5ebc5208f663488c91ce801ce4ac2b38499a7f3a1abd5601704b04227a6f78fa blk 361299 txid 567
 u=https://cpr.sm/3azN1MFwMm
 
-tx bdf6c8653ff5d28989560960bffdfb7769d692ba9d4ca66ee905456e3bc86301
+tx bdf6c8653ff5d28989560960bffdfb7769d692ba9d4ca66ee905456e3bc86301 blk 361300 txid 401
 Rdg1u=https://cpr.sm/OGLXGrs1Cd4s
 
-tx 4a6dfead643b8438f177b83d15a25048a95c16d184fad287637e64f8ad7a7926
+tx 4a6dfead643b8438f177b83d15a25048a95c16d184fad287637e64f8ad7a7926 blk 361306 txid 1390
 u=http://goo.gl/CxoF8Y
 
-tx 3411b77550756ca6099ce33aaf0c994681fda99e0dc023885600f6f170ac5296
+tx 3411b77550756ca6099ce33aaf0c994681fda99e0dc023885600f6f170ac5296 blk 361308 txid 127
 XASCRIBESPOOLMIGRATE
 
-tx 78e01c217c6d32733dfa4ceb559e66c4a0e339a4de8837b84a916ecedbd2b21a
+tx 78e01c217c6d32733dfa4ceb559e66c4a0e339a4de8837b84a916ecedbd2b21a blk 361308 txid 130
 zASCRIBESPOOLREPLENISH
 
-tx 183271f17db41a1e815eb3ab0e60878ecb39807a9d36744ee338387d59e7488c
+tx 183271f17db41a1e815eb3ab0e60878ecb39807a9d36744ee338387d59e7488c blk 361308 txid 149
 @ASCRIBESPOOL01EDITIONS2
 
-tx 57f03dac7961ff557604ac8b402ec8a73c8bb581fded5bdd698d54eeb9c17fd8
+tx 57f03dac7961ff557604ac8b402ec8a73c8bb581fded5bdd698d54eeb9c17fd8 blk 361312 txid 141
 ASCRIBESPOOLTRANSFER
 
-tx 7f2e85904c7cf31ee0b8014f6c75f0a0be819963b1424e3f981c506901c8c668
+tx 7f2e85904c7cf31ee0b8014f6c75f0a0be819963b1424e3f981c506901c8c668 blk 361320 txid 468
 @ASCRIBESPOOL01REGISTER0
 
-tx 98d63f0556d50f7245bf49e5ed7c45f163d0e19a4ce3862c78bbbbaa5d0c4f6f
+tx 98d63f0556d50f7245bf49e5ed7c45f163d0e19a4ce3862c78bbbbaa5d0c4f6f blk 361320 txid 469
 @ASCRIBESPOOL01EDITIONS2
 
-tx a711f1d3aed229b48e285a69afb9957dc2f9129a6ddc01c11717e2fc87bf6b30
+tx a711f1d3aed229b48e285a69afb9957dc2f9129a6ddc01c11717e2fc87bf6b30 blk 361321 txid 690
 @ASCRIBESPOOL01EDITIONS2
 
-tx 9ac577ca12a6213b3b6920308593762551c5e96e622e832c85c3118dbeb09ba3
+tx 9ac577ca12a6213b3b6920308593762551c5e96e622e832c85c3118dbeb09ba3 blk 361321 txid 692
 @ASCRIBESPOOL01REGISTER0
 
-tx 5802594d2b02f846146366d560cca3533de962ad04d4823b33d58c8bca54c175
+tx 5802594d2b02f846146366d560cca3533de962ad04d4823b33d58c8bca54c175 blk 361322 txid 1290
 3ASCRIBESPOOLREGISTER
 
-tx 6099082b4c6741facf69f00be64e26bd07373399868593e7b9b6f25cd653bf76
+tx 6099082b4c6741facf69f00be64e26bd07373399868593e7b9b6f25cd653bf76 blk 361325 txid 413
 @ASCRIBESPOOL01REGISTER0
 
-tx 7988ba7e916b8989269b15365e6f375b24887cda46f509cc22fff7a995ed6f14
+tx 7988ba7e916b8989269b15365e6f375b24887cda46f509cc22fff7a995ed6f14 blk 361325 txid 414
 @ASCRIBESPOOL01EDITIONS2
 
-tx 11b27b4a55f3f1ca80e8e18117328c91ab7b2f300dd71f99a7890ad9fe87143e
+tx 11b27b4a55f3f1ca80e8e18117328c91ab7b2f300dd71f99a7890ad9fe87143e blk 361325 txid 1253
 unsuccessful double-spend attempt
 
-tx 91826a4d9ea7f7fcce36ed8a3c3bba81817aa42a7eead04859d58330f230eff7
+tx 91826a4d9ea7f7fcce36ed8a3c3bba81817aa42a7eead04859d58330f230eff7 blk 361325 txid 1254
 unsuccessful double-spend attempt
 
-tx d2a5c2d399d9546fc2425c424752f3cca45520cc831101a531843eb4a7856f0b
+tx d2a5c2d399d9546fc2425c424752f3cca45520cc831101a531843eb4a7856f0b blk 361334 txid 1062
 ^BNu=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx ad9af283d3b97b9e432ab7e63d20fca45f9703b1807c6f081327c035101faf02
+tx ad9af283d3b97b9e432ab7e63d20fca45f9703b1807c6f081327c035101faf02 blk 361364 txid 438
 u=https://cpr.sm/GVXmGwR66W
 
-tx 63bea616b0247cc753a6e29ebf48ba864a43c82558ec1e2a07351820b85dbdec
+tx 63bea616b0247cc753a6e29ebf48ba864a43c82558ec1e2a07351820b85dbdec blk 361370 txid 504
 u=https://cpr.sm/-Hg-Lr51y5
 
-tx 5bf9df50fd600582992ec17c1e2a3d68d95b491a308920f82209495a25b858fd
+tx 5bf9df50fd600582992ec17c1e2a3d68d95b491a308920f82209495a25b858fd blk 361370 txid 505
 u=https://cpr.sm/-Hg-Lr51y5
 
-tx 266f6a081e8d067886bfdcf2f83d3544c07701a328d3bd321b15fd9c273016ea
+tx 266f6a081e8d067886bfdcf2f83d3544c07701a328d3bd321b15fd9c273016ea blk 361377 txid 137
 [vSending something cool!
 
-tx 1457815cfe4b906a27cf25a8d91308b797106339b8db1806f9e616ca5ba4b6f9
+tx 1457815cfe4b906a27cf25a8d91308b797106339b8db1806f9e616ca5ba4b6f9 blk 361395 txid 277
 u=https://cpr.sm/vngy1H0hKZ
 
-tx 2161005fd8b59e7a990a86c3f710ef7a70cdb783f90a8242128edfb23636b259
+tx 2161005fd8b59e7a990a86c3f710ef7a70cdb783f90a8242128edfb23636b259 blk 361396 txid 385
 bASCRIBESPOOLREGISTER
 
-tx 2f11957a6c15b8a22c96313b3b6d932fa66bb00c01dae7007c6eacc1b58d9e3c
+tx 2f11957a6c15b8a22c96313b3b6d932fa66bb00c01dae7007c6eacc1b58d9e3c blk 361437 txid 1220
 =u=https://cpr.sm/-Hg-Lr51y5
 
-tx d8ff4a1fd60739b5c9abd39f83aa91bbda569c14b568852d0aa70297a75d4ed7
+tx d8ff4a1fd60739b5c9abd39f83aa91bbda569c14b568852d0aa70297a75d4ed7 blk 361438 txid 641
 %u=https://cpr.sm/SoJ6mWneQg
 
-tx e36610642d7d5d1ea212446d076523a90954396eb598f9ad99c86711666a025f
+tx e36610642d7d5d1ea212446d076523a90954396eb598f9ad99c86711666a025f blk 361455 txid 1566
 bASCRIBESPOOLREGISTER
 
-tx d026ad0127db0074adaf5318d2db7e0570bc01b81f2c07a2d499d48455ef0fbd
+tx d026ad0127db0074adaf5318d2db7e0570bc01b81f2c07a2d499d48455ef0fbd blk 361455 txid 1709
 bASCRIBESPOOLREPLENISH
 
-tx 5dabe707fe45cbd3936d1211e5b3eeb46af68bb0a100c2d9d0effabe7c68df05
+tx 5dabe707fe45cbd3936d1211e5b3eeb46af68bb0a100c2d9d0effabe7c68df05 blk 361455 txid 1753
 ASCRIBESPOOLREPLENISH
 
-tx 9d1370d98e42ecda1500487a840a8f43f12ea3a2fb655bf551a5ba828872f3c6
+tx 9d1370d98e42ecda1500487a840a8f43f12ea3a2fb655bf551a5ba828872f3c6 blk 361456 txid 211
 P:	W8ASCRIBESPOOLCONSIGN
 
-tx 1acf043aeb289381dfff9b669d69bda0af818f472b90bfb2f7b759258a1933b9
+tx 1acf043aeb289381dfff9b669d69bda0af818f472b90bfb2f7b759258a1933b9 blk 361456 txid 225
 CASCRIBESPOOLTRANSFER
 
-tx 1a0e4ea5994075ce3337fa8145b119355dc6f9b05d596e20471d50c3b77b63f4
+tx 1a0e4ea5994075ce3337fa8145b119355dc6f9b05d596e20471d50c3b77b63f4 blk 361459 txid 741
 su=https://coloredcoin.io/dmt
 
-tx 969ad6e680d003e10d7856137e267f08840aca30f11da6f3de02f4e214013ab9
+tx 969ad6e680d003e10d7856137e267f08840aca30f11da6f3de02f4e214013ab9 blk 361459 txid 742
 du=https://coloredcoin.io/dmt
 
-tx 18ee0251240224e2bca06fb7be481731d6de3468f9ff1c454eb897d8448ad422
+tx 18ee0251240224e2bca06fb7be481731d6de3468f9ff1c454eb897d8448ad422 blk 361459 txid 1491
 @ASCRIBESPOOL01EDITIONS2
 
-tx 36fdb8f9a51c8e2b00433575aa443ff2721a22af48ff5fd8b2ce1d73dfbe7130
+tx 36fdb8f9a51c8e2b00433575aa443ff2721a22af48ff5fd8b2ce1d73dfbe7130 blk 361459 txid 1492
 @ASCRIBESPOOL01REGISTER0
 
-tx 509a7b277bc2af8abdbb8e508d883aa5c870dd7d10c7fe42a9bf514b33b7cb7d
+tx 509a7b277bc2af8abdbb8e508d883aa5c870dd7d10c7fe42a9bf514b33b7cb7d blk 361459 txid 1493
 @ASCRIBESPOOL01EDITIONS2
 
-tx 0d9e09fa1cb6bd71980068a00d678f69ea87ef5cfbdcdfe1e1dbb79696436748
+tx 0d9e09fa1cb6bd71980068a00d678f69ea87ef5cfbdcdfe1e1dbb79696436748 blk 361459 txid 1494
 @ASCRIBESPOOL01REGISTER0
 
-tx 4e0436d4bda98f78ce4bbba7f6b2558f6f484a769388e2e0492ae36eea5cb095
+tx 4e0436d4bda98f78ce4bbba7f6b2558f6f484a769388e2e0492ae36eea5cb095 blk 361459 txid 1495
 @ASCRIBESPOOL01REGISTER0
 
-tx 631c40e8dde67a8c2f98a1bfc3e4c3353cdd2095bd27551cc95015ab82203267
+tx 631c40e8dde67a8c2f98a1bfc3e4c3353cdd2095bd27551cc95015ab82203267 blk 361459 txid 1496
 @ASCRIBESPOOL01EDITIONS2
 
-tx 1bbe31dc24c80477e823edc6da3ec095018f2b71d2489cce8ba15f97ddf86231
+tx 1bbe31dc24c80477e823edc6da3ec095018f2b71d2489cce8ba15f97ddf86231 blk 361459 txid 1497
 @ASCRIBESPOOL01EDITIONS2
 
-tx 4ec5471a8538cf8aa1269ab574623c9f3c24f4a415dd6badd579496927eeff33
+tx 4ec5471a8538cf8aa1269ab574623c9f3c24f4a415dd6badd579496927eeff33 blk 361459 txid 1498
 @ASCRIBESPOOL01REGISTER0
 
-tx 1088f85af67427040047b965a073fb4b35fea64f2c95eaab4f1c63027b3002b9
+tx 1088f85af67427040047b965a073fb4b35fea64f2c95eaab4f1c63027b3002b9 blk 361460 txid 466
 @ASCRIBESPOOL01REGISTER0
 
-tx f1368fb7bd0fd33bc65a383de88e62a84e97214505f418c557e4900a55a270d6
+tx f1368fb7bd0fd33bc65a383de88e62a84e97214505f418c557e4900a55a270d6 blk 361460 txid 467
 @ASCRIBESPOOL01EDITIONS2
 
-tx 4b583909c49ceefd973028979172053e600dc10b230c450e481ca4f558f86ab0
+tx 4b583909c49ceefd973028979172053e600dc10b230c450e481ca4f558f86ab0 blk 361462 txid 331
 @ASCRIBESPOOL01REGISTER0
 
-tx b5db3f3045100b7da2060d13bf2e31e6cbbd74367c50b5726ec9529dc1720d86
+tx b5db3f3045100b7da2060d13bf2e31e6cbbd74367c50b5726ec9529dc1720d86 blk 361462 txid 332
 @ASCRIBESPOOL01EDITIONS2
 
-tx ef01a27666ed7b341d7b11ae75587efa134424856999e9a86e6595867078d979
+tx ef01a27666ed7b341d7b11ae75587efa134424856999e9a86e6595867078d979 blk 361463 txid 654
 @ASCRIBESPOOL01EDITIONS2
 
-tx 5cbfc246c7bc07900e6bd4a837bfbb77eb76dba4a47e3be9a85a4f511a0e6aa3
+tx 5cbfc246c7bc07900e6bd4a837bfbb77eb76dba4a47e3be9a85a4f511a0e6aa3 blk 361463 txid 655
 @ASCRIBESPOOL01REGISTER0
 
-tx 71ce3151a93380a125b43e4d37f0fc921448e42bcb4d723d055b5e4a43c0ccb7
+tx 71ce3151a93380a125b43e4d37f0fc921448e42bcb4d723d055b5e4a43c0ccb7 blk 361465 txid 690
 @ASCRIBESPOOL01EDITIONS2
 
-tx f8ccda1a6246a50073ee341db85b0f8e26dc00653fcab8b8980db96f07839a66
+tx f8ccda1a6246a50073ee341db85b0f8e26dc00653fcab8b8980db96f07839a66 blk 361465 txid 691
 @ASCRIBESPOOL01REGISTER0
 
-tx 95a6b4453ebea94ee9ae470ae7d063d531e4f4d95b66f3d2dacd1cb185057482
+tx 95a6b4453ebea94ee9ae470ae7d063d531e4f4d95b66f3d2dacd1cb185057482 blk 361467 txid 683
 @ASCRIBESPOOL01EDITIONS2
 
-tx cc70f60553b2a5c513b6a5f0311bd5016cfc83936fd25b805202a44763372818
+tx cc70f60553b2a5c513b6a5f0311bd5016cfc83936fd25b805202a44763372818 blk 361467 txid 684
 @ASCRIBESPOOL01REGISTER0
 
-tx 72d45734e153b154e32756a5f026d2209bdc214ae07e65e75360556600b6788f
+tx 72d45734e153b154e32756a5f026d2209bdc214ae07e65e75360556600b6788f blk 361467 txid 685
 @ASCRIBESPOOL01REGISTER0
 
-tx 1c3680fa9e393af1edf5563aec9f8b7fe11b295c2c08e8d6383afbcf593d45aa
+tx 1c3680fa9e393af1edf5563aec9f8b7fe11b295c2c08e8d6383afbcf593d45aa blk 361468 txid 604
 @ASCRIBESPOOL01REGISTER0
 
-tx 47c3c26e2e4748ac97e90ca0c1345c82aaa42d9e9567e04cab2a7abf26291644
+tx 47c3c26e2e4748ac97e90ca0c1345c82aaa42d9e9567e04cab2a7abf26291644 blk 361468 txid 605
 @ASCRIBESPOOL01REGISTER0
 
-tx 4530212707a5a5825b062662588da2fa86d6600edb3be33d498f2927653b03ad
+tx 4530212707a5a5825b062662588da2fa86d6600edb3be33d498f2927653b03ad blk 361468 txid 606
 @ASCRIBESPOOL01EDITIONS2
 
-tx 9c4ed4d6ba867cade98d646299784da1c7fbb51be5d1dd8b77d19e5534cd773d
+tx 9c4ed4d6ba867cade98d646299784da1c7fbb51be5d1dd8b77d19e5534cd773d blk 361468 txid 607
 @ASCRIBESPOOL01EDITIONS1
 
-tx 906875f0522d37e12e924f46bc90beeacdd21c1d1c215129093f955a46601005
+tx 906875f0522d37e12e924f46bc90beeacdd21c1d1c215129093f955a46601005 blk 361468 txid 608
 @ASCRIBESPOOL01EDITIONS2
 
-tx 8c5ade528cc3ced75ae135436ff7d86b94dd707aba03e1a44dbecb7fc8eb1c36
+tx 8c5ade528cc3ced75ae135436ff7d86b94dd707aba03e1a44dbecb7fc8eb1c36 blk 361468 txid 833
 @ASCRIBESPOOL01REGISTER0
 
-tx 190f49fd3ca5215ba49467d1d82b174a5a64821982c820b2c209e773508c7888
+tx 190f49fd3ca5215ba49467d1d82b174a5a64821982c820b2c209e773508c7888 blk 361468 txid 1144
 ***BlockCypher Data Endpoint Test***
 
-tx e3e34c248b6a3f847c312ed47cfea77067d095414ec7da1ddc99a139fab10ef9
+tx e3e34c248b6a3f847c312ed47cfea77067d095414ec7da1ddc99a139fab10ef9 blk 361469 txid 248
 @ASCRIBESPOOL01EDITIONS2
 
-tx 9e5c337f140bdb27473b2333f843d83b25b73be8fb54a87c90f74b46f22776ab
+tx 9e5c337f140bdb27473b2333f843d83b25b73be8fb54a87c90f74b46f22776ab blk 361469 txid 249
 @ASCRIBESPOOL01REGISTER0
 
-tx 47024e76341371c4b5acae6071839ceb4377848f39c81b1770bf91badbb2e07a
+tx 47024e76341371c4b5acae6071839ceb4377848f39c81b1770bf91badbb2e07a blk 361469 txid 252
 ***BlockCypher Data Endpoint Test***
 
-tx 20996d94f48aa76e2fcef128cd07c99c2dba51c24a8404050b8ae95b3865903e
+tx 20996d94f48aa76e2fcef128cd07c99c2dba51c24a8404050b8ae95b3865903e blk 361469 txid 436
 zASCRIBESPOOLREPLENISH
 
-tx 15ac8b78df776c3cb51377d3c7ce9e8e20b5f3653dbc031ef31c84ff58bf5e81
+tx 15ac8b78df776c3cb51377d3c7ce9e8e20b5f3653dbc031ef31c84ff58bf5e81 blk 361470 txid 264
 cASCRIBESPOOLTRANSFER
 
-tx 4ea371063de08b8e9ec84436f39e0550aedde3ff75a16ed930fde57f29e5fc59
+tx 4ea371063de08b8e9ec84436f39e0550aedde3ff75a16ed930fde57f29e5fc59 blk 361470 txid 1371
 @ASCRIBESPOOL01EDITIONS1
 
-tx 7c0a8a8a41080d81fce82b9bca3448b896276df8835db0636d11d2ab01aa4203
+tx 7c0a8a8a41080d81fce82b9bca3448b896276df8835db0636d11d2ab01aa4203 blk 361470 txid 1374
 @ASCRIBESPOOL01REGISTER0
 
-tx 85f0e032224365c331e43fe9977f747d88f66cd50b137ef70eb05eb285425a61
+tx 85f0e032224365c331e43fe9977f747d88f66cd50b137ef70eb05eb285425a61 blk 361475 txid 225
 u=https://cpr.sm/GVXmGwR66W
 
-tx 1d42f527eb45899d7a10e9be99fb1b3fb1d9a42c223ee4646eef543f0b82771d
+tx 1d42f527eb45899d7a10e9be99fb1b3fb1d9a42c223ee4646eef543f0b82771d blk 361476 txid 499
 zASCRIBESPOOLMIGRATE
 
-tx 9077c75d4585fbbe6e0a022268970f923a0ca4e5b74f3cd8aaeb3e52e497a70f
+tx 9077c75d4585fbbe6e0a022268970f923a0ca4e5b74f3cd8aaeb3e52e497a70f blk 361476 txid 531
 ASCRIBESPOOLREPLENISH150618150619
 
-tx 24bfc5efbb432b979928f15b3d546f3917be4b7fb75a7ac9a94e1ccb2db092b7
+tx 24bfc5efbb432b979928f15b3d546f3917be4b7fb75a7ac9a94e1ccb2db092b7 blk 361478 txid 628
 ASCRIBESPOOLLOAN150618150619
 
-tx a73c7df7bef955114486f7c8a91702de174a1b6c5c63e0ef9edd9631f4a554ec
+tx a73c7df7bef955114486f7c8a91702de174a1b6c5c63e0ef9edd9631f4a554ec blk 361478 txid 959
 Q$ASCRIBESPOOLREGISTER
 
-tx d5f66014eb4d9946788f847531133025d17a7e31ba737d1c83c7ed45c4ed8d57
+tx d5f66014eb4d9946788f847531133025d17a7e31ba737d1c83c7ed45c4ed8d57 blk 361480 txid 730
 @ASCRIBESPOOL01REGISTER0
 
-tx dd9b6f870aa01a7f94188701f55f9c62216433fc798f9f85efe1ba897bba1861
+tx dd9b6f870aa01a7f94188701f55f9c62216433fc798f9f85efe1ba897bba1861 blk 361480 txid 731
 @ASCRIBESPOOL01EDITIONS2
 
-tx 60286c0b3ab1eefe3688b057c0f3a92faccd1caa6e6c9fc5f8bb8d4a9335b2b1
+tx 60286c0b3ab1eefe3688b057c0f3a92faccd1caa6e6c9fc5f8bb8d4a9335b2b1 blk 361480 txid 732
 @ASCRIBESPOOL01REGISTER0
 
-tx 2fd9fd3b00578ad2da53a11b138aa4fc7169b29207c552ea894d12e5603487b0
+tx 2fd9fd3b00578ad2da53a11b138aa4fc7169b29207c552ea894d12e5603487b0 blk 361484 txid 747
 @ASCRIBESPOOL01EDITIONS5
 
-tx 85ea1df7e151c7fe136e924423c7ee779defa915c0a4f410104a2c3ef1a4fb6d
+tx 85ea1df7e151c7fe136e924423c7ee779defa915c0a4f410104a2c3ef1a4fb6d blk 361484 txid 759
 @ASCRIBESPOOL01REGISTER0
 
-tx 9480f7bbf7aa56953505298421fd5ca1656f73def3a7b6b2159fe175f55e2ed5
+tx 9480f7bbf7aa56953505298421fd5ca1656f73def3a7b6b2159fe175f55e2ed5 blk 361496 txid 1019
 zASCRIBESPOOLREGISTER
 
-tx 38838b98f36cec78c02534aaca0c73185d0789ab3cbd1c2a4c63e06736aa29e3
+tx 38838b98f36cec78c02534aaca0c73185d0789ab3cbd1c2a4c63e06736aa29e3 blk 361504 txid 741
 zASCRIBESPOOLREGISTER
 
-tx 201c8c04bb934f6b6a189f2f5726879705e4b2e7e99dd6b9975e247f2393d7f1
+tx 201c8c04bb934f6b6a189f2f5726879705e4b2e7e99dd6b9975e247f2393d7f1 blk 361510 txid 826
 junsuccessful double-spend attempt
 
-tx 723934815d6466f3178d148fc592eaade826cda11cbba7f84179e2e4fa8e943b
+tx 723934815d6466f3178d148fc592eaade826cda11cbba7f84179e2e4fa8e943b blk 361526 txid 1183
 zASCRIBESPOOLMIGRATE
 
-tx eb3d5702cc76db7c57b66ae0276812e875f23199116908d9ae1910c09b08cb0b
+tx eb3d5702cc76db7c57b66ae0276812e875f23199116908d9ae1910c09b08cb0b blk 361526 txid 1259
 zASCRIBESPOOLREGISTER
 
-tx 96ca88e4be7729a6717c00f3bc7f41ebad893f250250de9efb52bfcae2860272
+tx 96ca88e4be7729a6717c00f3bc7f41ebad893f250250de9efb52bfcae2860272 blk 361526 txid 1432
 ASCRIBESPOOLREPLENISH
 
-tx 19f1aafb4d2c065a0ba11bdbb91ea5adf9f74000809addae3eb615ec442f231f
+tx 19f1aafb4d2c065a0ba11bdbb91ea5adf9f74000809addae3eb615ec442f231f blk 361527 txid 89
 ASCRIBESPOOLTRANSFER
 
-tx 56e67e00cf4154a7eaf562de7b44f12108fa69a0cb4f537e520fa1e7274623a8
+tx 56e67e00cf4154a7eaf562de7b44f12108fa69a0cb4f537e520fa1e7274623a8 blk 361540 txid 250
 ru=http%3A%2F%2Fbit.ly%2F1drFy5R
 
-tx 84a2fa5fd06ca822a96b32bbade7a52649cbb9ffa12cb91e5e5976f7bb77628a
+tx 84a2fa5fd06ca822a96b32bbade7a52649cbb9ffa12cb91e5e5976f7bb77628a blk 361547 txid 951
 u=http://tinyurl.com/pabusrr
 
-tx 8121fc03468d5628d0db34f382a8b6b53c86633f346a69933627bb5603812eeb
+tx 8121fc03468d5628d0db34f382a8b6b53c86633f346a69933627bb5603812eeb blk 361547 txid 1913
 enovating buildings which improve their energy efficiency. But these good practices are still far from widespread.</p> 
 <p align="left"> </p> 
 <p align="left"> </p> 
 <p align="left"><b>II. THE ISSUE OF WATER</b></p> 
 
-tx 5c5a643ad3583731e76f0c005e9ace59a604f5c3cc77594f4f447a3ab2edde90
+tx 5c5a643ad3583731e76f0c005e9ace59a604f5c3cc77594f4f447a3ab2edde90 blk 361547 txid 1918
 $@*6|000000000000298279<<p align="center"><font color="#663300">ENCYCLICAL LETTER<i><br /> <font size="4"> <b>LAUDATO SI
 <br /> </b> </font></i>OF THE HOLY FATHER<br /> <b>FRANCIS<br /> </b>ON CARE FOR OUR COMMON HOME</font></p> 
 <p align="center">&nbsp;</p> 
@@ -549,7 +549,7 @@ Praise be to you, my Lord, through our Sister, Mother Earth, who sustains and go
 <p> </p> 
 <p>4. In 1971, eight years after <i> <a href="http://w2.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html">Pacem in Terris</a></i>, <a href=
 
-tx 56d571d0eb4214f6f6bcc7b0214e444bff3495418cfe6209833f1019926f7485
+tx 56d571d0eb4214f6f6bcc7b0214e444bff3495418cfe6209833f1019926f7485 blk 361547 txid 1919
 s world needs. It is liberation from fear, greed and compulsion
 .<a name="_ftnref17" title="" href="#_ftn17">[17]</a> As Christians, we are also called 
 to accept the world as a sacrament of communion, as a way of sharing with God and our neighbours on a global scale. It is our humble conviction that the divine and the human meet in the slightest detail in the seamless garment of God
@@ -581,7 +581,7 @@ s poorest. Young people demand change. They wonder how anyone can claim to be bu
 s talents and involvement are needed to redress the damage caused by human abuse of God
 . <a name="_ftnref22
 
-tx bd301080c1e3c34d16cce5fdfb9cb70b5ab943d8eb19b05fa3d4e51d820fcd9b
+tx bd301080c1e3c34d16cce5fdfb9cb70b5ab943d8eb19b05fa3d4e51d820fcd9b blk 361547 txid 1920
 " title="" href="#_ftn22">[22]</a> All of us can cooperate as instruments of God for the care of creation, each according to his or her own culture, experience, involvements and talents.</p> 
 <p> </p> 
 <p>15. It is my hope that this Encyclical Letter, which is now added to the body of the Church
@@ -610,7 +610,7 @@ s daily experience. Exposure to atmospheric pollutants produces a broad spectrum
 <p>21. Account must also be taken of the pollution produced by residue, including dangerous waste present in different areas. Each year hundreds of millions of tons of waste are generated, much of it non-biodegradable, highly toxic and radioactive, from homes and businesses, from construction and demolition sites, from clinical, electronic and industrial sources. The earth, our home, is beginning to look more and more like an immense pile of filth. In many parts of the planet, the elderly lament that once beautiful landscapes are now covered with rubbish. Industrial waste and chemical products utilized in cities and agricultural areas can lead to bioaccumulation in the organisms of the local population, even when levels of toxins in those places are low. Frequently no measures are taken until after people
 s health has been irreversibly affected.<
 
-tx 85c1abb1688533ba4959b0c267f6a7960794b9bc118db0bae8491bfb37272658
+tx 85c1abb1688533ba4959b0c267f6a7960794b9bc118db0bae8491bfb37272658 blk 361547 txid 1921
 "http://w2.vatican.va/content/paul-vi/en.html">Blessed Pope Paul VI</a> referred to the ecological concern as 
 a tragic consequence
  of unchecked human activity: 
@@ -665,7 +665,7 @@ to commit a crime against the natural world is a sin against ourselves and a sin
 <p>9. At the same time, Bartholomew has drawn attention to the ethical and spiritual roots of environmental problems, which require that we look for solutions not only in technology but in a change of humanity; otherwise we would be dealing merely with symptoms. He asks us to replace consumption with sacrifice, greed with generosity, wastefulness with a spirit of sharing, an asceticism which 
 entails learning to give, and not simply to give up. It is a way of loving, of moving gradually away from what I want 
 
-tx 541f4d3bdaeba8beabc40b4a315661b2df4bd9ac42f0755457f07a8c11fda3c6
+tx 541f4d3bdaeba8beabc40b4a315661b2df4bd9ac42f0755457f07a8c11fda3c6 blk 361547 txid 1922
 olling them, yet this is not the case where ecological debt is concerned. In different ways, developing countries, where the most important reserves of the biosphere are found, continue to fuel the development of richer countries at the cost of their own present and future. The land of the southern poor is rich and mostly unpolluted, yet access to ownership of goods and resources for meeting vital needs is inhibited by a system of commercial relations and ownership which is structurally perverse. The developed countries ought to help pay this debt by significantly limiting their consumption of non-renewable energy and by assisting poorer countries to support policies and programmes of sustainable development. The poorest areas and countries are less capable of adopting new models for reducing environmental impact because they lack the wherewithal to develop the necessary processes and to cover their costs. We must continue to be aware that, regarding climate change, there are <i>differentiated responsibilities</i>. As the United States bishops have said, greater attention must be given to 
 the needs of the poor, the weak and the vulnerable, in a debate often dominated by more powerful interests
 .<a name="_ftnref31" title="" href="#_ftn31">[31]</a> We need to strengthen the conviction that we are one single human family. There are no frontiers or barriers, political or social, behind which we can hide, still less is there room for the globalization of indifference.</p> 
@@ -679,7 +679,7 @@ g generations. The establishment of a legal framework which can set clear bounda
 the interests of economic groups which irrationally demolish sources of life should not prevail in dealing with natural resources
 .<a name="_ftnref32" t
 
-tx 9da295ce1fa37845796c4092d743f960c96a9f7fb708785527d2a80550277e4b
+tx 9da295ce1fa37845796c4092d743f960c96a9f7fb708785527d2a80550277e4b blk 361547 txid 1923
 /p> 
 <p> </p> 
 <p>22. These problems are closely linked to a throwaway culture which affects the excluded just as it quickly reduces things to rubbish. To cite one example, most of the paper we produce is thrown away and not recycled. It is hard for us to accept that the way natural ecosystems work is exemplary: plants synthesize nutrients which feed herbivores; these in turn become food for carnivores, which produce significant quantities of organic waste which give rise to new generations of plants. But our industrial system, at the end of its cycle of production and consumption, has not developed the capacity to absorb and reuse waste and by-products. We have not yet managed to adopt a circular model of production capable of preserving resources for present and future generations, while limiting as much as possible the use of non-renewable resources, moderating their consumption, maximizing their efficient use, reusing and recycling them. A serious consideration of this issue would be one way of counteracting the throwaway culture which affects the entire planet, but it must be said that only limited progress has been made in this regard.</p> 
@@ -699,7 +699,7 @@ s population lives on the coast or nearby, and that the majority of our megaciti
 <p>26. Many of those who possess more resources and economic or political power seem mostly to be concerned with masking the problems or concealing their symptoms, simply making efforts to reduce some of the negative impacts of climate change. However, many of these symptoms indicate that such effects will continue to worsen if we continue with current models of production and consumption. There is an urgent need to develop policies so that, in the next few years, the emission of carbon dioxide and other highly polluting gases can be drastically reduced, for example, substituting for fossil fuels and developing sources of renewable energy. Worldwide there is minimal access to clean and renewable energy. There is still a need to develop adequate storage technologies. Some countries have made considerable progress, although it is far from constituting a significant proportion. Investments have also been made in means of production and transportation which consume less energy and require fewer raw materials, as 0
 Bwell as in methods of construction and r
 
-tx c2bbd039a9b0c0b07f39b45094999dfd0941e8d9029af74569ca045638b5541f
+tx c2bbd039a9b0c0b07f39b45094999dfd0941e8d9029af74569ca045638b5541f blk 361547 txid 1924
 
 <p align="left"> </p> 
 <p>27. Other indicators of the present situation have to do with the depletion of natural resources. We all know that it is not possible to sustain the present level of consumption in developed countries and wealthier sectors of society, where the habit of wasting and discarding has reached unprecedented levels. The exploitation of the planet has already exceeded acceptable limits and we still have not solved the problem of poverty.</p> 
@@ -711,7 +711,7 @@ tx c2bbd039a9b0c0b07f39b45094999dfd0941e8d9029af74569ca045638b5541f
 <p>30. Even as the quality of available water is constantly diminishing, in some places there is a growing tendency, despite its scarcity, to privatize this resource, turning it into a commodity subject to the laws of the market. Yet <i> access to safe drinkable water is a basic and universal human right, since it is essential to human survival and, as such, is a condition for the exercise of other human rights</i>. Our world has a grave social debt towards the poor who lack access to drinking water, because <i>they are denied the right to a life consistent with their inalienable dignity</i>. This debt can be paid partly by an increase in funding yb
 to provide clean water and sanitary services among the poor. But water continues to be wasted, not only in the developed world but also in developing countries which possess it in abundance. This shows that the problem of water is partly an educational and cultural issue, since there is little awareness of the seriousness of such behaviour within a context of great inequality.<
 
-tx ad858fbd49aae43f561143bb77a6fb853caa2e26b0ac9c3bf4275bace7eeea79
+tx ad858fbd49aae43f561143bb77a6fb853caa2e26b0ac9c3bf4275bace7eeea79 blk 361547 txid 1925
 itle="" href="#_ftn32">[32]</a> The alliance between the economy and technology ends up sidelining anything unrelated to its immediate interests. Consequently the most one can expect is superficial rhetoric, sporadic acts of philanthropy and perfunctory expressions of concern for the environment, whereas any genuine attempt by groups within society to introduce change is viewed as a nuisance based on romantic illusions or an obstacle to be circumvented.</p5> 
 <p> </p> 
 <p>55. Some countries are gradually making significant progress, developing more effective controls and working to combat corruption. People may well have a growing ecological sensitivity but it has not succeeded in changing their harmful habits of consumption which, rather than decreasing, appear to be growing all the more. A simple example is the increasing use and power of air-conditioning. The markets, which immediately benefit from sales, stimulate ever greater demand. An outsider looking at our world would be amazed at such behaviour, which at times appears self-destructive.</p> 
@@ -740,7 +740,7 @@ s problems cannot be analyzed or explained in isolation. There are regions now a
 <p align="left"> </p> 
 <p>62. Why should this docu
 
-tx 197f7651c696fbc86468637b34579c3c701163c168a90a6ba32c501a9bfa1db8
+tx 197f7651c696fbc86468637b34579c3c701163c168a90a6ba32c501a9bfa1db8 blk 361547 txid 1926
 ment, addressed to all people of good will, include a chapter dealing with the convictions of believers? I am well aware that in the areas of politics and philosophy there are those who firmly reject the idea of a Creator, or consider it irrelevant, and consequently dismiss as irrational the rich contribution which religions can make towards an integral ecology and the full development of humanity. Others view religions simply as a subculture to be tolerated. Nonetheless, science and religion, with their distinctive approaches to understanding reality, can enter into an intense dialogue fruitful for both.</p> 
 <p> </p> 
 <p><b>I. THE LIGHT OFFERED BY FAITH</b></p> 
@@ -778,7 +778,7 @@ s image and given dominion over the earth justifies absolute domination over oth
  refers to cultivating, ploughing or working, while 
  means caring, protecting, overseeing and preserving. This impl
 
-tx 20fdad0cc9494dc7c7c95ec54a4e4934b2ea0255e58589402affda88f09b3b2d
+tx 20fdad0cc9494dc7c7c95ec54a4e4934b2ea0255e58589402affda88f09b3b2d blk 361547 txid 1927
 /p> 
 <p> </p> 
 <p>31. Greater scarcity of water will lead to an increase in the cost of food and the various products which depend on its use. Some studies warn that an acute water shortage may occur within a few decades unless urgent action is taken. The environmental repercussions could affect billions of people; it is also conceivable that the control of water by large multinational businesses may become a major source of conflict in this century.<a name="_ftnref23" title="" href="#_ftn23">[23]</a> </p> 
@@ -803,13 +803,13 @@ s resources are also being plundered because of short-sighted approaches to the 
 proposals to internationalize the Amazon, which only serve the economic interests of transnational corporations
 .<a name="_ftnref24" title="" href="#_ftn24">[24]</a> We cannot fail to praise the commitment of international agencies and civil society organizations which draw public attention to these issues and offer critical cooperation, e
 
-tx bc6db6b6b88b73cc095a883aa261f36a4a7d91e9925092a010cfd7878b2b1cf6
+tx bc6db6b6b88b73cc095a883aa261f36a4a7d91e9925092a010cfd7878b2b1cf6 blk 361548 txid 472
 u=https://cpr.sm/mycWQVW63E
 
-tx 256e359f54319c851b37ed8ee0c4e549d5b093b841b8278aa9a18e40cbe94280
+tx 256e359f54319c851b37ed8ee0c4e549d5b093b841b8278aa9a18e40cbe94280 blk 361548 txid 473
 u=https://cpr.sm/mycWQVW63E
 
-tx 952e7f5e798e41abca4a9a7d8787358dd0506a72767737c09bc78743757ffeb7
+tx 952e7f5e798e41abca4a9a7d8787358dd0506a72767737c09bc78743757ffeb7 blk 361548 txid 1156
 lms frequently exhort us to praise God the Creator, 
 who spread out the earth on the waters, for his steadfast love endures for ever
  (<i>Ps </i> 136:6). They also invite other creatures to join us in this praise: 
@@ -861,7 +861,7 @@ she must above all protect mankind from self-destruction
 <p> </p> 
 <p>80. Yet God, who wishes to work with us and who coun
 
-tx 779be6ad25c19d745c33d79c99e5a51051fa34f1af23a2c97195eeb04cbf5788
+tx 779be6ad25c19d745c33d79c99e5a51051fa34f1af23a2c97195eeb04cbf5788 blk 361548 txid 1157
 ies a relationship of mutual responsibility between human beings and nature. Each community can take from the bounty of the earth whatever it needs for subsistence, but it also has the duty to protect the earth and to ensure its fruitfulness for coming generations. 
 The earth is the Lord
  (<i>Ps</i> 24:1); to him belongs 
@@ -917,7 +917,7 @@ When you reap the harvest of your land, you shall not reap your field to its ver
 <p> </p> 
 <p>72. The Psa
 
-tx 75bb5325fd5dddcff9fee8ffd4c4485553b5542c8b39b501d4d0ca86452b41f2
+tx 75bb5325fd5dddcff9fee8ffd4c4485553b5542c8b39b501d4d0ca86452b41f2 blk 361548 txid 1158
 mploying legitimate means of pressure, to ensure that each government carries out its proper and inalienable responsibility to preserve its country
 s environment and natural resources, without capitulating to spurious local or international interests.</p> 
 <p> </p> 
@@ -951,7 +951,7 @@ s access to places of particular beauty. In others,
 Weliminate relationships at whim, thus giving rise to a new type of contrived emotion which has more to do with devices and displays than with other people and with nature. Today
 s media do enable us to communicate and to share our knowledge and affections. Yet at times they also shield us from direct contact with the pain, the fears and the joys of others and the complexity of their personal experiences. For this reason, we should be 
 
-tx 5c05426eb3805ed7229256eb19e7a0b9d2f67afa043c65ba40fe709c7c47bd89
+tx 5c05426eb3805ed7229256eb19e7a0b9d2f67afa043c65ba40fe709c7c47bd89 blk 361548 txid 1159
 ts on our cooperation, can also bring good out of the evil we have done. 
 The Holy Spirit can be said to possess an infinite creativity, proper to the divine mind, which knows how to loosen the knots of human affairs, including the most complex and inscrutable
 .<a name="_ftnref48" title="" href="#_ftn48">[48]</a> Creating a world in need of development, God in some way sought to limit himself in such a way that many of the things we think of as evils, dangers or sources of suffering, are in reality part of the pains of childbirth which he uses to draw us into the act of cooperation with the Creator.<a name="_ftnref49" title="" href="#_ftn49">[49]</a> God is intimately present to each being, without impinging on the autonomy of his creature, and this gives rise to the rightful autonomy of earthly affairs.<a name="_ftnref50" title="" href="#_ftn50">[50]</a> His divine presence, which ensures the subsistence and growth of each being, 
@@ -986,7 +986,7 @@ To sense each creature singing the hymn of its existence is to live joyfully in 
 for the believer, to contemplate creation is to hear a message, to listen to a paradoxical and silent voice
 .<a name="_ftnref57" 
 
-tx 716b8e9699a4327635de9501f5c2b0b98bd87181c376a828b873086331928ed7
+tx 716b8e9699a4327635de9501f5c2b0b98bd87181c376a828b873086331928ed7 blk 361548 txid 1160
 concerned that, alongside the exciting possibilities offered by these media, a deep and melancholic dissatisfaction with interpersonal relations, or a harmful sense of isolation, can also arise.</p> 
 <p align="left"> </p> 
 <p align="left"><b>V. GLOBAL INEQUALITY</b></p> 
@@ -1014,7 +1014,7 @@ We note that often the businesses which operate this way are multinationals. The
 <p> </p> 
 <p>52. The foreign debt of poor countries has become a way of contr
 
-tx 6a2925d41d5623d528a8a77b8c1f10a9effaa74e5d7e3b85f7bfcad51b9be856
+tx 6a2925d41d5623d528a8a77b8c1f10a9effaa74e5d7e3b85f7bfcad51b9be856 blk 361548 txid 1161
 title="" href="#_ftn57">[57]</a> We can say that 
 alongside revelation properly so-called, contained in sacred Scripture, there is a divine manifestation in the blaze of the sun and the fall of night
 .<a name="_ftnref58" title="" href="#_ftn58">[58]</a> Paying attention to this manifestation, we learn to see ourselves in relation to all other creatures: I express myself in expressing the world; in my effort to decipher the sacredness of the world, I explore my own
@@ -1037,7 +1037,7 @@ God wills the interdependence of creatures. The sun and the moon, the cedar and 
 <p> </p> 
 <p>88. The bishops of Brazil have pointed out that nature as a whole not only manifests God but is also a locus of his presence. The Spirit of life dwells in every living creature and calls us to enter into relationship with him.<a name="_ftnref65" 
 
-tx 66ded4c9c9d11a41b7f5767c1d3f58fa533d13d1779f4896006c46e075cc7ea4
+tx 66ded4c9c9d11a41b7f5767c1d3f58fa533d13d1779f4896006c46e075cc7ea4 blk 361548 txid 1162
 title="" href="#_ftn65">[65]</a> Discovering this presence leads us to cultivate the 
 .<a name="_ftnref66" title="" href="#_ftn66">[66]</a> This is not to forget that there is an infinite distance between God and the things of this world, which do not possess his fullness. Otherwise, we would not be doing the creatures themselves any good either, for we would be failing to acknowledge their right and proper place. We would end up unduly demanding of them something which they, in their smallness, cannot give us.</p> 
 <p> </p> 
@@ -1050,7 +1050,7 @@ e basis of our conviction that, as part of the universe, called into being by on
 God has joined us so closely to the world around us that we can feel the desertification of the soil almost as a physical ailment, and the extinction of a species as a painful disfigurement
 .<a name="_ftnref67" 
 
-tx 14dd89c9a906de7827db1567844d717898aee0ab4436a592b419d8eab9e04679
+tx 14dd89c9a906de7827db1567844d717898aee0ab4436a592b419d8eab9e04679 blk 361548 txid 1163
 title="" href="#_ftn67">[67]</a></p> 
 <p> </p> 
 <p>90. This is not to put all living beings on the same level nor to deprive human beings of their unique worth and the tremendous responsibility it entails. Nor does it imply a divinization of the earth which would prevent us from working on it and protecting it in its fragility. Such notions would end up creating new imbalances which would deflect us from the reality which challenges us.<a name="_ftnref68" title="" href="#_ftn68">[68]</a> At times we see an obsession with denying any pre-eminence to the human person; more zeal is shown in protecting other species than in defending the dignity which all human beings share in equal measure. Certainly, we should be concerned lest other living beings be treated irresponsibly. But we should be particularly indignant at the enormous inequalities in our midst, whereby we continue to tolerate some considering themselves more worthy than others. We fail to see that some are mired in desperate and degrading poverty, with no way out, while others have not the faintest idea of what to do with their possessions, vainly showing off their supposed superiority and leaving behind them so much waste which, if it were the case everywhere, would destroy the planet. In practice, we continue to tolerate that some consider themselves more human than others, as if they had been born with greater rights.</p> 
@@ -1091,7 +1091,7 @@ he makes his sun rise on the evil and on the good
 <p> </p> 
 <p>95. The natural environment is a collective good, the patrimony of all humanity and the responsibility of everyone. If we make something our own
 
-tx 048147b6788f855ab7799e1351379cb98318dfad4ca238f2c6dc473360b95159
+tx 048147b6788f855ab7799e1351379cb98318dfad4ca238f2c6dc473360b95159 blk 361548 txid 1164
 , it is only to administer it for the goLH_
 od of all. If we do not, we burden our consciences with the weight of having denied the existence of others. That is why the New Zealand bishops asked what the commandment 
 twenty percent of the world
@@ -1110,7 +1110,7 @@ Lift up your eyes, and see how the fields are already white for harvest
 The kingdom of God is like a grain of mustard seed which a man took and sowed in his field; it is the smallest of all seeds, but once it has grown, it is the greatest of plants
 <i> </i>(<i>Mt</i> 13:31-32).
 
-tx 1582d161c7a9ac089c21b723c4d39b31e4c3983ef1d6bbcc9b770b22cbbe4351
+tx 1582d161c7a9ac089c21b723c4d39b31e4c3983ef1d6bbcc9b770b22cbbe4351 blk 361548 txid 1165
 </p> 
 <p> </p> 
 <p>98. Jesus lived in full harmony with creation, and others were amazed: 
@@ -1155,7 +1155,7 @@ expresses the inner tension that impels man gradually to overcome material limit
 <p> </p> 
 <p>104. Yet it must also be recognized that nuclear energy, biotechnology, information technology, knowledge of our DNA, and many other abilities which we have acquired, have given us tremendous power. More precisely, they have given those with the knowledge, and especially the economic resources to use them, an impressive dominance over the whole of humanity and the entire world. Never has humanity had such power over itself, yet nothing ensures that it will be used wisely, particularly when we consider how it is currently being used. We need but think of the nuclear bombs dropped in the middle of the twentieth century, or the array of technology which Nazism, Communism and other totalitarian regimes have employed to kill millions of people, to say nothing of the increasingly deadly arsenal of weapons available for modern warfare. In whose hands does all th
 
-tx 64bf6287e401fae0481596beac5ee0715ca3afe2c56d2417c7e109a50f7d4c32
+tx 64bf6287e401fae0481596beac5ee0715ca3afe2c56d2417c7e109a50f7d4c32 blk 361550 txid 121
 is power lie, or will it eventually end up? It is extremely risky for a small part of humanity to have it.</p> 
 <p> </p> 
 <p>105. There is a tendency to believe that every increase in power means 
@@ -1187,7 +1187,7 @@ s alternative creativity are diminished.</p>
 <p> </p> 
 <p>109. The technocratic paradigm also tends to dominate economic and political life. The economy accepts every advance in technology with a view to profit, without concern for its potentially negative impact on human beings. Finance overwhelms the real economy. The lessons of the global financial crisis have not been assimilated, and we are learning all too slowly the lessons of environmental deterioration. Some circles maintain that current economics and technology will solve all environmental problems, and argue, in popular and non-technical terms, that the problems of global hunger and poverty will be resolved simply by market growth. They are less concerned with certain economic theories which today scarcely anybody dares defend, than with their actual operation in the functioning of the economy. They may not affirm such theories with words, but nonetheless support them with their deeds by showing no interest in more balanced
 
-tx 86df629b92c1afa6ad2b227659b1e850770a24be91714e3aca193519c9f7e0aa
+tx 86df629b92c1afa6ad2b227659b1e850770a24be91714e3aca193519c9f7e0aa blk 361550 txid 122
  levels of production, a better distribution of wealth, concern for the environment and the rights of future generations. Their behaviour shows that for them maximizing profits is enough. Yet by itself the market cannot guarantee integral human development and social inclusion.<a name="_ftnref89" title="" href="#_ftn89">[89]</a> At the same time, we have 
  of a wasteful and consumerist kind which forms an unacceptable contrast with the ongoing situations of dehumanizing deprivation,<a name="_ftnref90" title="" href="#_ftn90">[90]</a> while we are all too slow in developing economic institutions and social initiatives which can give the poor regular access to basic resources. We fail to see the deepest roots of our present failures, which have to do with the direction, goals, meaning and social implications of technological and economic growth.</p> 
 <p>110. The specialization which belongs to technology makes it difficult to see the larger picture. The fragmentation of knowledge proves helpful for concrete applications, and yet it often leads to a loss of appreciation for the whole, for the relationships between things, and for the broader horizon, which then becomes irrelevant. This very fact makes it hard to find adequate ways of solving the more complex problems of today
@@ -1213,13 +1213,13 @@ the technological mind sees nature as an insensate order, as a cold body of fact
 .<a name="_ftnref92" title="" href="#_ftn92">[92]</a> The intrinsic dignity of the world is thus compromised. When human beings fail to find their true place in this world, they misunderstand themselves and end up acting against themselves: 
 Not only has God given the earth to man, who must
 
-tx 03fcd06ca13f3ea1ec28b538da7f46db73282e503ae5faeedf3fbdca8c75a6af
+tx 03fcd06ca13f3ea1ec28b538da7f46db73282e503ae5faeedf3fbdca8c75a6af blk 361552 txid 317
 u=https://cpr.sm/mycWQVW63E
 
-tx ffb42bccfc0eb854f9cac2f5e635497fe8b063ae761ee053bb9e87cf3f9b9c2f
+tx ffb42bccfc0eb854f9cac2f5e635497fe8b063ae761ee053bb9e87cf3f9b9c2f blk 361554 txid 419
 A#^k(yu=https://cpr.sm/-Hg-Lr51y5
 
-tx 5a8f7b505f9eb39ea6292bfc014c99f4491c6da7b4321f494f6c3d190b2b5707
+tx 5a8f7b505f9eb39ea6292bfc014c99f4491c6da7b4321f494f6c3d190b2b5707 blk 361554 txid 975
  use it with respect for the original good purpose for which it was given, but, man too is God
 s gift to man. He must therefore respect the natural and moral structure with which he has been endowed.<a name="_ftnref93" title="" href="#_ftn93">[93]</a></p> 
 <p> </p> 
@@ -1256,7 +1256,7 @@ s own immediate interests. There is a logic in all this whereby different attitu
 <p> </p> 
 <p>123. The culture of relativism is the same disorder which drives one person to take advantage of another, to treat others as mere objects, imposing forced labour on them or enslaving them to pay their debts. The same kind of thinking leads to the sexual exploitation of children and abandonment of the elderly who no longer serve our interests. It is also the
 
-tx fc3b2bbc3e8121362777c768aea095246e47a556443caca2fa0984b067d63458
+tx fc3b2bbc3e8121362777c768aea095246e47a556443caca2fa0984b067d63458 blk 361554 txid 976
  mindset of those who say: Let us allow the invisible forces of the market to regulate the economy, and consider their impact on society and nature as collateral damage. In the absence of objective truths or sound principles other than the satisfaction of our own desires and immediate needs, what limits can be placed on human trafficking, organized crime, the drug trade, commerce in blood diamonds and the fur of endangered species? Is it not the same relativistic logic which justifies buying the organs of the poor for resale or use in experimentation, or eliminating children because they are not what their parents wanted? This same  logic generates so much waste, because of the disordered desire to consume more than what is really necessary. We should not think that political efforts or the force of law will be sufficient to prevent actions which affect the environment because, when the culture itself is corrupt and objective truth and universally valid principles are no longer upheld, then laws can only be seen as arbitrary impositions or obstacles to be avoided.</p> 
 <p> </p> 
 <p><i>The need to protect employment</i></p> 
@@ -1280,7 +1280,7 @@ the capacity to improve their lot, to further their moral growth and to develop 
 s global society, it is essential that we continue to prioritize the goal of access to steady employment for everyone
 ,<a name="_ftnref103" title="" href="#_ftn103">[103]</a> no matter the limitP}ed interests of business and dubious economic reasoning. </p
 
-tx 962271d96e8c369a5a4fb2c922bd47d2d3da1e52bf823ea8d639a40b3d59c3a2
+tx 962271d96e8c369a5a4fb2c922bd47d2d3da1e52bf823ea8d639a40b3d59c3a2 blk 361554 txid 977
 > 
 <p> </p> 
 <p>128. We were created with a vocation to work. The goal should not be that technological progress increasingly replace human work, for this would be detrimental to humanity. Work is a necessity, part of the meaning of life on this earth, a path to growth, human development and personal fulfilment. Helping the poor financially must always be a provisional solution in the face of pressing needs. The broader objective should always be to allow them a dignified life through work. Yet the orientation of the economy has favoured a kind of technological progress in which the costs of production are reduced by laying off workers and replacing them with machines. This is yet another way in which we can end up working against ourselves. The loss of jobs also has a negative impact on the economy 
@@ -1314,7 +1314,7 @@ indiscriminate genetic manipulation
 <p> </p> 
 <p>132. This, then, is the correct framework for any reflection concerning human i
 
-tx c23b82c2704380bfa943179b32a516b00c23e0f0bc79384aa13b5ca20eb9e108
+tx c23b82c2704380bfa943179b32a516b00c23e0f0bc79384aa13b5ca20eb9e108 blk 361555 txid 534
 d thus in constant interaction with it. Recognizing the reasons why a given area is polluted requires a study of the workings of society, its economy, its behaviour patterns, and the ways it grasps reality. Given the scale of change, it is no longer possible to find a specific, discrete answer for each part of the problem. It is essential to seek comprehensive solutions which consider the interactions within natural systems themselves and with social systems. We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature.</p> 
 <p> </p> 
 <p>140. Due to the number and variety of factors to be taken into account when determining the environmental impact of a concrete undertaking, it is essential to give researchers their due role, to facilitate their interaction, and to ensure broad academic freedom. Ongoing research should also give us a better understanding of how different creatures relate to one another in making up the larger units which today we term 
@@ -1335,7 +1335,7 @@ s institutions has consequences for the environment and the quality of human lif
 Every violation of solidarity and civic friendship harms the environment
 .<a name="_ftnref116" ti
 
-tx fcbd376bba84dc6fc3cf4fef03c2c0968919c844913386bf47547508f131aea6
+tx fcbd376bba84dc6fc3cf4fef03c2c0968919c844913386bf47547508f131aea6 blk 361555 txid 535
 ntervention on plants and animals, which at present includes genetic manipulation by biotechnology for the sake of exploiting the potential present in material reality. The respect owed by faith to reason calls for close attention to what the biological sciences, through research uninfluenced by economic interests, can teach us about biological structures, their possibilities and their mutations. Any legitimate intervention will act on nature only in order 
 to favour its development in its own line, that of creation, as intended by God
 .<a name="_ftnref112" title="" href="#_ftn112">[112]</a> </p> 
@@ -1365,7 +1365,7 @@ s problems call for a vision capable of taking into account every aspect of the 
 <p>139. When we speak of the 
 , what we really mean is a relationship existing between nature and the society which lives in it. Nature cannot be regarded as something separate from ourselves or as a mere setting in which we live. We are part of nature, included in it an
 
-tx bd335d3f9c0f59cebbf154dbc9ebb15bd402a454df89d60664452688c9d7f24f
+tx bd335d3f9c0f59cebbf154dbc9ebb15bd402a454df89d60664452688c9d7f24f blk 361555 txid 536
 tle="" href="#_ftn116">[116]</a> In this sense, social ecology is necessarily institutional, and gradually extends to the whole of society, from the primary social group, the family, to the wider local, national and international communities. Within each social stratum, and between them, institutions develop to regulate human relationships. Anything which weakens those institutions has negative consequences, such as injustice, violence and loss of freedom. A number of countries have a relatively low level of institutional effectiveness, which results in greater problems for their people while benefiting those who profit from this situation. Whether in the administration of the state, the various levels of civil society, or relationships between individuals themselves, lack of respect for the law is becoming more common. Laws may be well framed yet remain a dead letter. Can we hope, then, that in such cases, legislation and regulations dealing with the environment will really prove effective? We know, for example, that countries which have clear legislation about the protection of forests continue to keep silent as they watch laws repeatedly being broken. Moreover, what takes place in any one area can have a direct or indirect influence on other areas. Thus, for example, drug use in affluent societies creates a continual and growing demand for products imported from poorer regions, where behaviour is corrupted, lives are destroyed, and the environment continues to deteriorate.</p> 
 <p> </p> 
 <p><b>II. CULTURAL ECOLOGY</b></p> 
@@ -1385,7 +1385,7 @@ ess, such overstimulation makes it difficult to find ourselves integrated and ha
 <p> </p> 
 <p>148. An admirable creativity and generosity is shown by persons and groups who respond to environmental limitations by alleviating the adverse effects of their surroundings and learning to orient their lives amid disorder and uncertainty. For example, in some places, where the fa&ccedil;ades of buildings are derelict, people show great care for the interior of their homes, or find contentment in the kindness and friendliness of others. A wholesome social life can light up a seemingly undesirable environment. At times a commendable human ecology is practised by the poor despite numerous hardships. The feeling of asphyxiation brought on by densely 
 
-tx d77a2e751c913cae16a3ce5f0a36e64a13ceb137496a006a1a8f1bff4da1ccd7
+tx d77a2e751c913cae16a3ce5f0a36e64a13ceb137496a006a1a8f1bff4da1ccd7 blk 361555 txid 537
 populated residential areas is countered if close and warm relationships develop, if communities are created, if the limitations of the environment are compensated for in the interior of each person who feels held within a network of solidarity and belonging. In this way, any place can turn from being a hell on earth into the setting for a dignified life.</p> 
 <p> </p> 
 <p>149. The extreme poverty experienced in areas lacking harmony, open spaces or potential for integration, can lead to incidents of brutality and to exploitation by criminal organizations. In the unstable neighbourhoods of mega-cities, the daily experience of overcrowding and social anonymity can create a sense of uprootedness which spawns antisocial behaviour and violence. Nonetheless, I wish to insist that love always proves more powerful. Many people in these conditions are able to weave bonds of belonging and togetherness which convert overcrowding into an experience of community in which the walls of the ego are torn down and the barriers of selfishness overcome. This experience of a communitarian salvation often generates creative ideas for the improvement of a building or a neighbourhood.<a name="_ftnref117" title="" href="#_ftn117">[117]</a></p> 
@@ -1414,7 +1414,7 @@ man too has a nature that he must respect and that he cannot manipulate at will
 .<a name="_ftnref120" title="" href="#_ftn120">[120]</a> It is enough to recognize that our body itself establishes us in a direct relationship with the environment and with other living beings. The acceptance of our bodies as God
 s gift is vital for welcoming and accepting the entire world as a gift from the Father and our common home, whereas thinking that we enjoy absolute power over our own bodies turns, often subtly, into thinking that we enjoy absolute power over creation. Learning to accept our body, to care for it and to respect its fullest meaning, is an essential element of any genuine human ecology. Also, valuing one
 
-tx e8b2f3481b64a3a7c1a4448818b9c8ad7b4d682eb24b5c009fc9b901b9e632fb
+tx e8b2f3481b64a3a7c1a4448818b9c8ad7b4d682eb24b5c009fc9b901b9e632fb blk 361555 txid 538
 femininity or masculinity is necessary if I am going to be able to recognize myself in an encounter with someone who is different. In this way we can joyfully accept the specific gifts of another man or woman, the work of God the Creator, and find mutual enrichment. It is not a healthy attitude which would seek 
 to cancel out sexual difference because it no longer knows how to confront it
 .<a name="_ftnref121" title="" href="#_ftn121">[121]</a></p> 
@@ -1443,7 +1443,7 @@ s capacity that our contemporary lifestyle, unsustainable as it is, can only pre
 <p>162. Our difficulty in taking up this challenge seriously has much to do with an ethical and cultural decline which has accompanied the deterioration of the environment. Men and women of our postmodern world run the risk of rampant individualism, and many problems of society are connected with today
 s self-centred culture of instant gratification. We see this in the crisis of family and social ties and the difficulties of recognizing the other. Parents can be prone to impulsive and wasteful consumption, which then affects their children who find it increasingly difficult to acquire a home of their own and build a family. Furthermore, our inability to think seriously about future generations is linked to our inability to broaden the scope of our present interests and to give consideration to those who remain excluded from developme[0nt. Let us not only 
 
-tx 067d67d5efb4603520bd6dfa9be83d596f19c561e14655ec8a596d66440f1917
+tx 067d67d5efb4603520bd6dfa9be83d596f19c561e14655ec8a596d66440f1917 blk 361555 txid 539
 keep the poor of the future in mind, but also today
 s poor, whose life on this earth is brief and who cannot keep on waiting. Hence, 
 in addition to a fairer sense of intergenerational solidarity there is also an urgent moral need for a renewed sense of intragenerational solidarity
@@ -1475,7 +1475,7 @@ s thinning seems to have entered a phase of resolution. </p>
 <p>169. As far as the protection of biodiversity and issues related to desertification are concerned, progress has been far less significant. With regard to climate change, the advances have been regrettably few. Reducing greenhouse gases requires honesty, courage and responsibility, above all on the Epart of those countries which are more powerful and pollute the most. The Conference of the United Nations on Sustainable Development, 
  (Rio de Janeiro 2012), issued a wide-ranging but ineffectual outcome document. International negotiations cannot make significant progress due to positions taken by countries which place their national interests above the global common good. Those who will have to suffer the consequences of what we are trying to hide will not forg
 
-tx e87cd50513e963ed2c04b6df82693cfeb0bd32e59d46f3fc442e51e9dc366f93
+tx e87cd50513e963ed2c04b6df82693cfeb0bd32e59d46f3fc442e51e9dc366f93 blk 361555 txid 540
 et this failure of conscience and responsibility. Even as this Encyclical was being prepared, the debate was intensifying. We believers cannot fail to ask God for a positive outcome to the present discussions, so that future generations will not have to suffer the effects of our ill-advised delays. </p> 
 <p> </p> 
 <p>170. Some strategies for lowering pollutant gas emissions call for the internationalization of environmental costs, which would risk imposing on countries with fewer resources burdensome commitments to reducing emissions comparable to those of the more industrialized countries. Imposing such measures penalizes those countries most in need of development. A further injustice is perpetrated under the guise of protecting the environment. Here also, the poor end up paying the price. Furthermore, since the effects of climate change will be felt for a long time to come, even if stringent measures are taken now, some countries with scarce resources will require assistance in adapting to the effects already being produced, which affect their economies. In this context, there is a need for common and differentiated responsibilities. As the bishops of Bolivia have stated, 
@@ -1505,7 +1505,7 @@ To manage the global economy; to revive economies hit by the crisis; to avoid an
 <p> </p> 
 <p>177. Given the real potential for a misuse of human abilities, individual states can no longer ignore their responsibility for planning, coordination, oversight and enforcement within their respective borders. How can a society plan and protect its future amid constantly developing technological innovations? One au
 
-tx 8facd67a5d48273d6f72edb35b600672b80dc497a734aa77b1218aa7b55450ba
+tx 8facd67a5d48273d6f72edb35b600672b80dc497a734aa77b1218aa7b55450ba blk 361555 txid 541
 thoritative source of oversight and coordination is the law, which lays down rules for admissible conduct in the light of the common good. The limits which a healthy, mature and sovereign society must impose are those related to foresight and security, regulatory norms, timely enforcement, the elimination of corruption, effective responses to undesired side-effects of production processes, and appropriate intervention where potential or uncertain risks are involved. There is a growing jurisprudence dealing with the reduction of pollution by business activities. But political and institutional frameworks do not exist simply to avoid bad practice, but also to promote best practice, to stimulate creativity in seeking new solutions and to encourage individual or group initiatives. </p> 
 <p> </p> 
 <p>178. A politics concerned with immediate results, supported by consumerist sectors of the population, is driven to produce short-term growth. In response to electoral interests, governments are reluctant to upset the public with measures which could affect the level of consumption or create risks for foreign investment. The myopia of power politics delays the inclusion of a far-sighted environmental agenda within the overall agenda of governments. Thus we forget that 
@@ -1528,7 +1528,7 @@ s term. That is why, in the absence of pressure from the public and from civic i
 <p>183. Environmental impact assessment should not come after the drawing up of a business proposition or the proposal of a particular policy, plan or programme. It should be part of the process from the beginning, and be carried out in a way which is interdisciplinary, transparent and free of all economic or political pressure. It should be linked to a study of working conditions and possible effects on people
 s physical and mental health, on the local e
 
-tx 301ac3ba0719de05de1efe0c03d42e4a3f96570cfc41c0b1c3889d244337d4e3
+tx 301ac3ba0719de05de1efe0c03d42e4a3f96570cfc41c0b1c3889d244337d4e3 blk 361555 txid 542
 conomy and on public safety. Economic returns can thus be forecast more realistically, taking into account potential scenarios and the eventual need for further investment to correct possible undesired effects. A consensus should always be reached between the different stakeholders, who can offer a variety of approaches, solutions and alternatives. The local population should have a special place at the table; they are concerned about their own future and that of their children, and can consider goals transcending immediate economic interest. We need to stop thinking in terms of 
  to save the environment in favour of policies developed and debated by all interested parties. The participation of the latter also entails being fully informed about such projects and their different risks and possibilities; this includes not just preliminary decisions but also various follow-up activities and continued monitoring. Honesty and truth are needed in scientific and political discussions; these should not be limited to the issue of whether or not a particular project is permitted by law.</p> 
 <p> </p> 
@@ -1555,7 +1555,7 @@ suggests that serious and irreversible damage may result, a project should be ha
 environmental protection cannot be assured solely on the basis of financial calculations of costs and benefits. The environment is one of those goods that cannot be adequately safeguarded or promoted by market forces
 .<a name="_ftnref134" title="" href="#_ftn134">
 
-tx a01c9957f8d70135a7a6cff8342d8fd47940550be59acf92e69d95e509cc00d3
+tx a01c9957f8d70135a7a6cff8342d8fd47940550be59acf92e69d95e509cc00d3 blk 361555 txid 543
 [134]</a> Once more, we need to reject a magical conception of the market, which would suggest that problems can be solved simply by an increase in the profits of companies or individuals. Is it realistic to hope that those who are obsessed with maximizing profits will stop to reflect on the environmental damage which they will leave behind for future generations? Where profits alone count, there can be no thinking about the rhythms of nature, its phases of decay and regeneration, or the complexity of ecosystems which may be gravely upset by human intervention. Moreover, biodiversity is considered at most a deposit of economic resources available for exploitation, with no serious thought for the real value of things, their significance for persons and cultures, or the concerns and needs of the poor.</p> 
 <p> </p> 
 <p>191. Whenever these questions are raised, some react by accusing others of irrationally attempting to stand in the way of progress and human development. But we need to grow in the conviction that a decrease in the pace of production and consumption can at times give rise to another form of progress and development. Efforts to promote a sustainable use of natural resources are not a waste of money, but rather an investment capable of providing other economic benefits in the medium term. If we look at the larger picture, we can see that more diversified and innovative forms of production which impact less on the environment can prove very profitable. It is a matter of openness to different possibilities which do not involve stifling human creativity and its ideals of progress, but rather directing that energy along new channels.</p> 
@@ -1582,7 +1582,7 @@ v the market or by state central planning.</p>
 <p> </p> 
 <p>196. What happens with politics? Let us keep in mind the principle of subsidiarity, which grants freedom to develop the capabilities present at every level of society, while also demanding a greater sense of responsibility for the common good from those who wield greater power. Today, it is the case that some economic sectors exercise more power than states themselves. But economics without politics cannot be justi
 
-tx aeef597594a242f06119211c7e018dc8773dc20edc1f6eb998bf00fd40fa4691
+tx aeef597594a242f06119211c7e018dc8773dc20edc1f6eb998bf00fd40fa4691 blk 361555 txid 544
 fied, since this would make it impossible to favour other ways of handling the various aspects of the present crisis. The mindset which leaves no room for sincere concern for the environment is the same mindset which lacks concern for the inclusion of the most vulnerable members of society. For 
 the current model, with its emphasis on success and self-reliance, does not appear to favour an investment in efforts to help the slow, the weak or the less talented to find opportunities in life
 .<a name="_ftnref139" title="" href="#_ftn139">[139]</a></p> 
@@ -1600,13 +1600,13 @@ s ability to grasp the ultimate meaning and purpose of things.<a name="_ftnref14
 religious classics can prove meaningful in every age; they have an enduring power to open new Is it reasonable and enlightened to dismiss certain writings simply because they arose in the context of religious belief?
 <a name="_ftnref142" t
 
-tx 286951965b49f1edb780101bdbc18072fcd8ec8160136080e9c832388f238a0f
+tx 286951965b49f1edb780101bdbc18072fcd8ec8160136080e9c832388f238a0f blk 361556 txid 1164
 p>
  </div> 
  <div id="ftn21"> 
   <p align="left"> <a name="_ftn21" title="" href="#_ftnref21">[21]</a> Cf. THOMAS OF CELANO, <i>The Remembrance of the Desire of a Soul</i>, II, 124, 165, in <i>Francis of Assisi: Early Documents</i>, vol. 2, New York-London-Manila, 2000, 354.</
 
-tx b16cbaf0a591ea5a6655e4a77881d507428687eb9826b62c5ee2f1dae6f61839
+tx b16cbaf0a591ea5a6655e4a77881d507428687eb9826b62c5ee2f1dae6f61839 blk 361556 txid 1170
 itle="" href="#_ftn143">[143]</a></p> 
 <p align="left"> </p> 
 <p align="center">CHAPTER SIX</p> 
@@ -1619,7 +1619,7 @@ itle="" href="#_ftn143">[143]</a></p>
 The gadgets and technics forced upon him by the patterns of machine production and of abstract planning mass man accepts quite simply; they are the forms of life itself. To either a greater or lesser degree mass man is convinced that his conformity is both reasonable and just
 .<a name="_ftnref144" title="" href="#_ftn144">[144]</a> This paradigm leads people to believe that they are free as long as they have the supposed freedom to consume. But those really free are the minority who wield economic and financial power. Amid this confusion, postmodern humanity has not yet achieved a new self-awareness capable of offering guidance and direction, and this lack of identity is a source of anxiety. We have too many means and only a few insubstantial ends.
 
-tx 028b2489f24349da6fb45220d2009a87d057687a384b90e8e65363106a502ef9
+tx 028b2489f24349da6fb45220d2009a87d057687a384b90e8e65363106a502ef9 blk 361556 txid 1171
 itle="" href="#_ftn142">[142]</a> It would be quite simplistic to think that ethical principles present themselves purely in the abstract, detached from any context. Nor does the fact that they may be couched in religious language detract from their value in public debate. The ethical principles capable of being apprehended by reason can always reappear in different guise and find expression in a variety of languages, including religious language.</p> 
 <p> </p> 
 <p>200. Any technical solution which science claims to offer will be powerless to solve the serious problems of our world if humanity loses its compass, if we lose sight of the great motivations which make it possible for us to live in harmony, to make sacrifices and to treat others well. Believers themselves must constantly feel challenged to live in a way consonant with their faith and not to contradict it by their actions. They need to be encouraged to be ever open to God
@@ -1631,7 +1631,7 @@ s needs.</p>
 realities are greater than ideas
 .<a name="_ftnref143" t
 
-tx 6eec8270ac5e8f29c4364cb2b2fed7d9414109370b495ffd7df9f30ba68e2fdd
+tx 6eec8270ac5e8f29c4364cb2b2fed7d9414109370b495ffd7df9f30ba68e2fdd blk 361556 txid 1172
  </p> 
 <p> </p> 
 <p>204. The current global situation engenders a feeling of instability and uncertainty, which in turn becomes 
@@ -1667,13 +1667,13 @@ s cultural and ecological crisis must be translated into new habits. Many people
 ecological citizenship
 , is at times limited to providing information, and fails to instil good habits. The existence of laws and regulations is insufficient in the long run to curb bad conduct, even when effective means of enforcement are present. If the laws are to bring about significant, long-lasting effects, the majority of the members of society must be adequately motivated to accept them, and personally transformed to respond. Only by cultivating sound virtues will people be able to make a selfless ecological commitment. A person who could afford to spend and consume more but regularly uses less heating and wears warmer clothes, shows the kind of convictions and attitudes which help to protect the environment. There is a nobility in the duty to care for creation through little daily actions, and it is wonderful how education can bring about real changes in lifestyle. Education in env
 
-tx d843d0539ebb18a01ffe39b995d98c0099bd1a525b33ce84d3e33e2bae78158b
+tx d843d0539ebb18a01ffe39b995d98c0099bd1a525b33ce84d3e33e2bae78158b blk 361557 txid 522
  u=https://cpr.sm/-Hg-Lr51y5
 
-tx ebfd960800df4d25708e42ecfc246cbaa0e7c0fd8c077f55d73b5541459257ed
+tx ebfd960800df4d25708e42ecfc246cbaa0e7c0fd8c077f55d73b5541459257ed blk 361557 txid 851
 zASCRIBESPOOLREGISTER
 
-tx f161bb7edfa6afb68f10af8c6b2dab538263bb27c9d6da21ef6a8cd98a4974ce
+tx f161bb7edfa6afb68f10af8c6b2dab538263bb27c9d6da21ef6a8cd98a4974ce blk 361557 txid 1339
 ironmental responsibility can encourage ways of acting which directly and significantly affect the world around us, such as avoiding the use of plastic and paper, reducing water consumption, separating refuse, cooking only what can reasonably be consumed, showing care for other living beings, using public transport or car-pooling, planting trees, turning off unnecessary lights, or any number of other practices. All of these reflect a generous and worthy creativity which brings out the best in human beings. Reusing something instead of immediately discarding it, when done for the right reasons, can be an act of love which expresses our own dignity.</p> 
 <p> </p> 
 <p>212. We must not think that these efforts are not going to change the world. They benefit society, often unbeknown to us, for they call forth a goodness which, albeit unseen, inevitably tends to spread. Furthermore, such actions can restore our sense of self-esteem; they can enable us to live more fully and to feel that life on earth is worthwhile. </p> 
@@ -1705,7 +1705,7 @@ s handiwork is essential to a life of virtue; it is not an optional or a seconda
 <p>218. In calling to mind the figure of Saint Francis of Assisi, we come to realize that a healthy relationship with creation is one dimension of overall personal conversion, which entails the recognition of our errors, sins, faults and failures, and leads to heartfelt repentance and desire to change. The Australian bishops spoke of the importance of such conversion for achieving reconciliation with creation: 
 To achieve such reconciliation, we must examine our lives and 
 
-tx 924edb38739658dab1c7023469a3db4f3e29f42e20d3d7f00e69bf78c8c8aef9
+tx 924edb38739658dab1c7023469a3db4f3e29f42e20d3d7f00e69bf78c8c8aef9 blk 361557 txid 1340
 acknowledge the waysQ in which we have harmed God
 s creation through our actions and our failure to act. We need to experience a conversion, or change of heart.<a name="_ftnref153" title="" href="#_ftn153">[153]</a></p> 
 <p> </p> 
@@ -1726,7 +1726,7 @@ not one of them is forgotten before God
  (<i>Lk</i> 12:6). How then can we possibly mistreat them or cause them harm? I ask all Christians to recognize and to live fully this dimension of their conversion. May the power and the light of the grace we have received also be evident in our relationship to other creatures and to the world around us. In this way, we will help nurture that sublime fraternity with all creation which Saint Francis of Assisi so radiantly embodied.<br clear="all" /> </p> 
 <p><b>IV. JOY AND PEACE</b>
 
-tx 7bf9e300ff922bfdc61bcb49f1b4ba16514843c453c04a047e9d050c2f3ae7de
+tx 7bf9e300ff922bfdc61bcb49f1b4ba16514843c453c04a047e9d050c2f3ae7de blk 361557 txid 1341
 </p> 
 <p> </p> 
 <p>222. Christian spirituality proposes an alternative understanding of the quality of life, and encourages a prophetic and contemplative lifestyle, one capable of deep enjoyment free of the obsession with consumption. We need to take up an ancient lesson, found in different religious traditions and also in the Bible. It is the conviction that 
@@ -1750,7 +1750,7 @@ he looked at him with love
 <p>228. Care for nature is part of a lifestyle which includes the capacity for living together and communion. Jesus reminded us that we have God as our common Father and that this makes us brothers and sisters. Fraternal love can only be gratuitous; it can never be a means of repaying others for what they have done or will do for us. That is why it is possible to love our enemies. This same gratuitousness inspires us to love and accept the wind, the sun and the clouds, even though we cannot control them. In this sense, we can speak of a 
 universal fraternity
 
-tx dad682cf27f03a9d990f2df69b9f357fcdfae7582fb2c0cabc47bcc8fc2f2bef
+tx dad682cf27f03a9d990f2df69b9f357fcdfae7582fb2c0cabc47bcc8fc2f2bef blk 361557 txid 1342
 .</p> 
 <p> </p> 
 <p>229. We must regain the conviction that we need one another, that we have a shared responsibility for others and the world, and that being good and decent are worth it. We have had enough of immorality and the mockery of ethics, goodness, faith and honesty. It is time to acknowledge that light-hearted superficiality has done us no good. When the foundations of social life are corroded, what ensues are battles over conflicting interests, new forms of violence and brutality, and obstacles to the growth of a genuine culture of care for the environment. </p> 
@@ -1777,7 +1777,7 @@ s face.<a name="_ftnref159" title="" href="#_ftn159">[159]</a> The ideal is not 
 <p>234. Saint John of the Cross taught that all the goodness present in the realities and experiences of this world 
 is present in God eminently and infinitely, or more properly, in each of these sublime realities is God
 
-tx 594d1ac7796920c9cd237bcb81ec8e889cda8ac6a7356bf1162c425aa28f2eda
+tx 594d1ac7796920c9cd237bcb81ec8e889cda8ac6a7356bf1162c425aa28f2eda blk 361558 txid 180
 .<a name="_ftnref161" title="" href="#_ftn161">[161]</a> This is not because the finite things of this world are really divine, but because the mystic experiences the intimate connection between God and all beings, and thus feels that 
 .<a name="_ftnref162" title="" href="#_ftn162">[162]</a> Standing awestruck before a mountain, he or she cannot separate this experience from God, and perceives that the interior awe being lived has to be entrusted to the Lord: 
 Mountains have heights and they are plentiful, vast, beautiful, graceful, bright and fragrant. These mountains are what my Beloved is to me. Lonely valleys are quiet, pleasant, cool, shady and flowing with fresh water; in the variety of their groves and in the sweet song of the birds, they afford abundant recreation and delight to the senses, and in their solitude and silence, they refresh us and give rest. These valleys are what my Beloved is to me
@@ -1812,7 +1812,7 @@ when we contemplate with wonder the universe in all its grandeur and beauty, we 
 <p> </p> 
 <p>23
 
-tx 361ac3ce3bd8a5145320a029704ebdc78c13790d8afdac38b0eb09050dff6268
+tx 361ac3ce3bd8a5145320a029704ebdc78c13790d8afdac38b0eb09050dff6268 blk 361558 txid 181
 9. For Christians, believing in one God who is trinitarian communion suggests that the Trinity has left its mark on all creation. Saint Bonaventure went so far as to say that human beings, before sin, were able to see how each creature 
 testifies that God is three
 . The reflection of the Trinity was there to be recognized in nature 
@@ -1847,7 +1847,7 @@ if the world has a beginning and if it has been created, we must enquire who gav
 <p> </p> 
 <p>All-powerful God, you are present in the whole universe<br /> and in the smallest of your creatures.<br /> You embrace with your tenderness all that exists.<br /> Pour out upon us the power of your love,<br /> hat we may protect life and beauty.<br /> Fill us with peace, that we may live <br /> as brothers and sisters, harming no one.<br /> O God of the poor,<br /> help us to rescue the abandoned and forgotten of this earth,<br /> so precious in your eyes.<br /> Bring healing to our lives, <br /> that we may protect the world and not prey on it,<br /> that we may sow beauty, not pollution and destruction.<br /> Touch the hearts<br /> of those who look only for gain<br /> at the expense of the poor and the earth.<br /> Teach us to discover the worth of each thing,<br /> to be filled with awe and contemplation,<br /> to recognize that we are profoundly united<br /> with every creature<br />
 
-tx 29f46e4a86024d2db1deaac6b27d145af35e1434233f8d0696b0c95fdfe7d1b4
+tx 29f46e4a86024d2db1deaac6b27d145af35e1434233f8d0696b0c95fdfe7d1b4 blk 361558 txid 182
  as we journey towards your infinite light.<br /> We thank you for being with us each day.<br /> Encourage us, we pray, in our struggle<br /> for justice, love and peace.</p> 
 <p><i>A Christian prayer in union with creation</i></p> 
 <p> </p> 
@@ -1878,7 +1878,7 @@ s on 24 May, the Solemnity of Pentecost, in the year 2015, the third of my Ponti
  <div id="ftn3"> 
   <p align="left"> <a name="_ftn3" title="" href="#_ftnref3">[3]</a> <
 
-tx c2ab0378f06ea59785b73c41ef75ed4d953eefafb5ad374f73e7cd411faab438
+tx c2ab0378f06ea59785b73c41ef75ed4d953eefafb5ad374f73e7cd411faab438 blk 361558 txid 183
 i> <a href="http://w2.vatican.va/content/paul-vi/en/speeches/1970/documents/hf_p-vi_spe_19701116_xxv-istituzione-fao.html">Address to FAO on the 25th Anniversary of its Institution</a> </i>(16 November 1970), 4: AAS 62 (1970), 833.</p>
  </div> 
  <div id="ftn4"> 
@@ -1899,7 +1899,7 @@ i> <a href="http://w2.vatican.va/content/paul-vi/en/speeches/1970/documents/hf_p
  <div id="ftn9"> 
   <p align="left"> <a name="_ftn9" title="" href="#_ftnref9">[9]</a> Cf. ID., Encyclical
 
-tx 875c7484c008794d276f42763b871dfcd76dd52a49dce061c2c8012709871187
+tx 875c7484c008794d276f42763b871dfcd76dd52a49dce061c2c8012709871187 blk 361558 txid 184
  Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html">Centesimus Annus</a> </i>(1 May 1991), 37: AAS 83 (1991), 840.</p>
  </div> 
  <div id="ftn10"> 
@@ -1914,7 +1914,7 @@ tx 875c7484c008794d276f42763b871dfcd76dd52a49dce061c2c8012709871187
  <div id="ftn13"> 
   <p align="left"> <a name="_ftn13" title="" href="#_ftnref13">[13]</a><i> <a href="http
 
-tx 6eaf178354d282483fc92aa7350b8adf28ce98002e870bbee78a5e307e564a89
+tx 6eaf178354d282483fc92aa7350b8adf28ce98002e870bbee78a5e307e564a89 blk 361558 txid 185
 ://w2.vatican.va/content/benedict-xvi/en/speeches/2008/august/documents/hf_ben-xvi_spe_20080806_clero-bressanone.html">A\&ddress to the Clergy of the Diocese of Bolzano-Bressanone</a> </i>(6 August 2008): AAS 100 (2008), 634.</p>
  </div> 
  <div id="ftn14"> 
@@ -1940,7 +1940,7 @@ Global Responsibility and Ecological Sustainability
  <div id="ftn20"> 
   <p align="left"> <a name="_ftn20" title="" href="#_ftnref20">[20]</a> <i>The Major Legend of Saint Francis</i>, VIII, 6, in <i>Francis of Assisi: Early Documents</i>, vol. 2, New York-London-Manila, 2000, 590.</
 
-tx b741f45048d6c1e462ad8b73318f20f5105feeb73e6b34b64759b039912a16e7
+tx b741f45048d6c1e462ad8b73318f20f5105feeb73e6b34b64759b039912a16e7 blk 361558 txid 186
 p>
  </div> 
  <div id="ftn22"> 
@@ -1972,7 +1972,7 @@ p>
  <div id="ftn29"> 
   <p align="left"> <a name="_ftn29" title="" href="#_ftnref29">[29]</a> <i> <a href="http://w2.vatican.va/content/francesco/en/audiences/2013/documents/papa-francesco_20130605_udienza-generale.html">Catechesis</a> </i>(5 June 2013): <i>Insegnamenti </i>1/1 (2013), 28
 
-tx 4b03186333b72d572a0a525368b66d047121d5d117441d7e7555b1fda66d3723
+tx 4b03186333b72d572a0a525368b66d047121d5d117441d7e7555b1fda66d3723 blk 361558 txid 187
 0.</p>
  </div> 
  <div id="ftn30"> 
@@ -1988,13 +1988,13 @@ tx 4b03186333b72d572a0a525368b66d047121d5d117441d7e7555b1fda66d3723
  <div id="ftn33"> 
   
 
-tx 470d8eba39163da74d768f9a19ca3d5e4fb2dc0e9b51261c510a7a3a7a590854
+tx 470d8eba39163da74d768f9a19ca3d5e4fb2dc0e9b51261c510a7a3a7a590854 blk 361558 txid 188
 <p align="left"> <a name="_ftn33" title="" href="#_ftnref33">[33]</a> Apostolic Exhortation <i> <a href="http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html">Evangelii Gaudium</a> </i>(24 November 2013), 56: AAS 105 (2013), 1043.</p>
  </div> 
  <div id="ftn34"> 
   <p align="le"ft"> <a name="_ftn34" title="" href="#_ftnref34">[34]</a> JOHN PAUL II, <i> <a h
 
-tx 674c63f8613e9ff46cd5fe567e04000ddacb2b1827198a7933af330ce92aa134
+tx 674c63f8613e9ff46cd5fe567e04000ddacb2b1827198a7933af330ce92aa134 blk 361558 txid 189
 ref="http://w2.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_19891208_xxiii-world-day-for-peace.html">Message for the 1990 World Day of Peace</a></i>, 12: AAS 82 (1990), 154.</p>
  </div> 
  <div id="ftn35"> 
@@ -2041,7 +2041,7 @@ A>, 357.</p>
  </div> 
  <div id="ftn48"> 
 
-tx e9964a0ed0ebc1c060998f3f464b3ef89fbb097bbb5d16889ddbf3f507534ef5
+tx e9964a0ed0ebc1c060998f3f464b3ef89fbb097bbb5d16889ddbf3f507534ef5 blk 361558 txid 190
 
   <p align="left"> <a name="_ftn48" title="" href="#_ftnref48">[48]</a> JOHN PAUL II, <i>Catechesis </i>(24 April 1991), 6: <i>Insegnamenti </i>14 (1991), 856.</p>
  </div> 
@@ -2061,7 +2061,7 @@ journeying towards its ultimate perfection, and that this implies the presence o
  </div> 
  <div id="ftn53">
 
-tx 8b1fadc6815e4f6dd12dd3567aa631d5472682d57a6d538142a84d74a909e03c
+tx 8b1fadc6815e4f6dd12dd3567aa631d5472682d57a6d538142a84d74a909e03c blk 361558 txid 191
  
   <p align="left"> <a name="_ftn53" title="" href="#_ftnref53">[53]</a> Against this horizon we can set the contribution of Fr Teilhard de Chardin; cf. PAUL VI, <i>Address in a Chemical and Pharmaceutical Plant </i>(24 February 1966): <i>Insegnamenti </i>4 (1966), 992-993; JOHN PAUL II, <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/letters/1988/documents/hf_jp-ii_let_19880601_padre-coyne.html">Letter to the Reverend George Coyne</a> </i>(1 June 1988): <i>Insegnamenti </i>11/2 (1988), 1715; BENEDICT XVI, <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090724_vespri-aosta.html">Homily for the Celebration of Vespers in Aosta</a> </i>(24 July 2009): <i>Insegnamenti </i>5/2 (2009), 60.</p>
  </div> 
@@ -2085,7 +2085,7 @@ tx 8b1fadc6815e4f6dd12dd3567aa631d5472682d57a6d538142a84d74a909e03c
  <div id="ftn59"> 
  
 
-tx c9513a29216182ba2bdbb2adbaf6cc83eb69e59a8bdb09b7e00948e666437519
+tx c9513a29216182ba2bdbb2adbaf6cc83eb69e59a8bdb09b7e00948e666437519 blk 361558 txid 192
  <p align="left"> <a name="_ftn59" title="" href="#_ftnref59">[59]</a> PAUL RICOEUR, <i>Philosophie de la Volont&eacute;, t. II: Finitude et Culpabilit&eacute;</i>, Paris, 2009, 216.</p>
  </div> 
  <div id="ftn60"> 
@@ -2100,7 +2100,7 @@ tx c9513a29216182ba2bdbb2adbaf6cc83eb69e59a8bdb09b7e00948e666437519
  </div> 
  <div id="ftn63"> 
 
-tx 0d6db213506eac936345c6bebdc0988f0076077f2aa8a26bf5f2738fc34cfa0c
+tx 0d6db213506eac936345c6bebdc0988f0076077f2aa8a26bf5f2738fc34cfa0c blk 361558 txid 193
 
   <p align="left"> <a name="_ftn63" title="" href="#_ftnref63">[63]</a><i> Catechism of the Catholic Church</i>, 340.</p>
  </div> 
@@ -2115,7 +2115,7 @@ tx 0d6db213506eac936345c6bebdc0988f0076077f2aa8a26bf5f2738fc34cfa0c
  </div> 
  <div id="ftn67"> 
 
-tx bb9f4b94a438cdff9c7b4b543de2a0168ae80d8cc426ccc6421ec5f784552988
+tx bb9f4b94a438cdff9c7b4b543de2a0168ae80d8cc426ccc6421ec5f784552988 blk 361558 txid 194
 
   <p align="left"> <a name="_ftn67" title="" href="#_ftnref67">[67]</a> Apostolic Exhortation <i> <a href="http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html">Evangelii Gaudium</a> </i>(24 November 2013), 215: AAS 105 (2013), 1109.</p>
  </div> 
@@ -2131,17 +2131,17 @@ tx bb9f4b94a438cdff9c7b4b543de2a0168ae80d8cc426ccc6421ec5f784552988
  <div id="ftn71"> 
   <p align="left"> <a name="_ftn71" title="" href="#_ftnref71">[71]</a> JOHN PAUL II, Encyclical Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html">Laborem Exercens</a> </i>(14 September 1981), 19: AAS 73 (1981), 626.</p>
 
-tx acda10b70544ddbc7381bb2c14de271c7a74a19a7a523a0ea1fb934cd815db78
+tx acda10b70544ddbc7381bb2c14de271c7a74a19a7a523a0ea1fb934cd815db78 blk 361559 txid 183
 Hello World... From RicMoo.
 
-tx 8b875356742c567aff4bb3d0b8f496c9cfa87494eea4a5c0e28897df3230faa2
+tx 8b875356742c567aff4bb3d0b8f496c9cfa87494eea4a5c0e28897df3230faa2 blk 361559 txid 1265
  <p align="left"> <a name="_ftn75" title="" href="#_ftnref75">[75]</a><i> Homily at Mass for Farmers, </i>Recife, Brazil (7 July 1980): AAS 72 (1980): AAS 72 (1980), 926.</p>
  </div> 
  <div id="ftn76"> 
   <p align="left"> <a name="_ftn76" title="" href="#_ftnref76">[76]</a> Cf. <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_19891208_xxiii-world-day-for-peace.html">Message for the 1990 World Day of Peace</a></i>, 8: AAS 82 (1990), 152.</p>
  </d
 
-tx cf24433df5aa661ff1dedab6cbac15de43ebc34d6abaa5782f7d9a5b719b47de
+tx cf24433df5aa661ff1dedab6cbac15de43ebc34d6abaa5782f7d9a5b719b47de blk 361559 txid 1268
  </div> 
  <div id="ftn72"> 
   <p align="left"> <a name="_ftn72" title="" href="#_ftnref72">[72]</a> Encyclical Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html">Centesimus Annus</a></i> (1 May 1991), 31: AAS 83 (1991), 831.</p>
@@ -2155,7 +2155,7 @@ tx cf24433df5aa661ff1dedab6cbac15de43ebc34d6abaa5782f7d9a5b719b47de
  <div id="ftn75"> 
  
 
-tx 3b3531df1183d85e2263ec270514f75215bc9ae7e9fd62b671d33deef829cab2
+tx 3b3531df1183d85e2263ec270514f75215bc9ae7e9fd62b671d33deef829cab2 blk 361559 txid 1269
 iv> 
  <div id="ftn77"> 
   <p align="left"> <a name="_ftn77" title="" href="#_ftnref77">[77]</a> PARAGUAYAN BISHOPS
@@ -2170,7 +2170,7 @@ iv>
  <div id="ftn80"> 
  
 
-tx 56ac2ec9641e40f5f45923658f259fa875fd7ee1d445262fbd50cd2d15b6dfaf
+tx 56ac2ec9641e40f5f45923658f259fa875fd7ee1d445262fbd50cd2d15b6dfaf blk 361559 txid 1270
  <p align="left"> <a name="_ftn80" title="" href="#_ftnref80">[80]</a> Hence Saint Justin could speak of 
  in the world; cf. <i>II Apologia</i> 8, 1-2; 13, 3-6: PG 6, 457-458, 467.</p>
  </div> 
@@ -2198,7 +2198,7 @@ tx 56ac2ec9641e40f5f45923658f259fa875fd7ee1d445262fbd50cd2d15b6dfaf
  <div id="ftn88"> 
   <p align="left"> <a name="_ftn88" title="" href="#_ftnref88">[88]</a> Ibid., 64 (<i>The End of the Modern World</i>, 56).</p>
 
-tx ec8eaec9a9861068564ac678817a7c352c8b4235fca914fdb95f12657f734530
+tx ec8eaec9a9861068564ac678817a7c352c8b4235fca914fdb95f12657f734530 blk 361562 txid 612
 
  </div> 
  <div id="ftn89"> 
@@ -2216,7 +2216,7 @@ tx ec8eaec9a9861068564ac678817a7c352c8b4235fca914fdb95f12657f734530
  <div id="ftn93"> 
   <p align="left"> <a name="_ftn93" title="" href="#_ftnref93">[93]</a> JOHN PAUL II, Encyclical Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html">Centesimus Annus</a></i> (1 May 1991), 38: AAS 83 (1991), 841.</p
 
-tx c654d506419af4ab9aac376b1c7ffb54c3cadb88c3a2f6fd85adbe2ef07db8f4
+tx c654d506419af4ab9aac376b1c7ffb54c3cadb88c3a2f6fd85adbe2ef07db8f4 blk 361562 txid 613
 >
  </div> 
  <div id="ftn94"> 
@@ -2244,7 +2244,7 @@ Ut annis scilicet consolidetur, dilatetur tempore, sublimetur aetate
  <div id="ftn100"> 
   <p align="left"> <a name="_ftn100" title="" href="#_ftnref100">[100]</a> SECOND VATICAN ECUMENICAL COUNCIL, Pastoral Constitution on the Church in the Modern World <i><a href="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html"> Gaudium et Spes</a></i>, 63.</p>
 
-tx b9ed2baed833a6a306f3a79ccf2d96078f6226740a01c741254a5b158e25aadc
+tx b9ed2baed833a6a306f3a79ccf2d96078f6226740a01c741254a5b158e25aadc blk 361562 txid 614
  </div> 
  <div id="ftn101"> 
   <p align="left"> <a name="_ftn101" title="" href="#_ftnref101">[101]</a> Cf. JOHN PAUL II, Encyclical Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html">Centesimus Annus</a> </i> (1 May 1991), 37: AAS 83 (1991), 840.</p>
@@ -2253,7 +2253,7 @@ tx b9ed2baed833a6a306f3a79ccf2d96078f6226740a01c741254a5b158e25aadc
   <p align="left"> <a name="_ftn102" title="" href="#_ftnref102">[102]</a> PAUL VI, Encyclical Letter <i> <a href="http://w2.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html">Populorum Progressio</a> </i>(26 March 1967), 34: AAS 59 (1967), 274.</p>
  </d
 
-tx 11ca97dcd9dfeab3b9581d91f3a340cf23af333b4544631ba5825ea246f24ce7
+tx 11ca97dcd9dfeab3b9581d91f3a340cf23af333b4544631ba5825ea246f24ce7 blk 361562 txid 615
 iv> 
  <div id="ftn103"> 
   <p align="left"> <a name="_ftn103" title="" href="#_ftnref103">[103]</a> BENEDICT XVI, Encyclical Letter <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html">Caritas in Veritate</a></i> (29 June 2009), 32: AAS 101 (2009), 666.</p>
@@ -2276,7 +2276,7 @@ iv>
  <div id="ftn109"> 
   <p align="left"> <a name="_ftn109" title="" href="#_ftnref109">[109]</a> <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_19891208_xxiii-world-day-for-peace.html">Message for the 1990 World Day of Peace</a></i>, 6: AAS 82 (1990), 150
 
-tx 15efd8980fcf945c59939ccda728bb953d4da14a8ed618fafd7db6aec16f7717
+tx 15efd8980fcf945c59939ccda728bb953d4da14a8ed618fafd7db6aec16f7717 blk 361562 txid 616
 .</p>
  </div> 
  <div id="ftn110"> 
@@ -2288,7 +2288,7 @@ Z="" href="#_ftnref110">[110]</a> <i>Address to the Pontifical Academy of Scienc
  </div> 
  <div id="ftn112"> 
 
-tx ab4e82f2726e98a6d9d682ef936ce8bade06b318938a3f3b37b47f3674812e8c
+tx ab4e82f2726e98a6d9d682ef936ce8bade06b318938a3f3b37b47f3674812e8c blk 361562 txid 617
   <p align="left"> <a name="_ftn112" title="" href="#_ftnref112">[112]</a> JOHN PAUL II, <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/speeches/1983/october/documents/hf_jp-ii_spe_19831029_ass-medica-mondiale.html">Address to the 35<sup>th</sup> General Assembly of the World Medical Association</a> </i>(29 October 1983), 6: AAS 76 (1984), 394.</p>
  </div> 
  <div id="ftn113"> 
@@ -2315,7 +2315,7 @@ e="" href="#_ftnref118">[118]</a> PONTIFICAL COUNCIL FOR JUSTICE AND PEACE, <i> 
  <div id="ftn119"> 
   <p align="left"> <a name="_ftn119" title="" href="#_ftnref119">[119]</a> Apostolic Exhortation <i> <a href="http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html">Evangelii Gaudium</a> </i>(24 November 2013), 210:<i> </i>AAS 105 (2013), 1107
 
-tx 2d378be4cef9d397c1c4e26f49c624fe0cd93b18ed44b9da5d9c7ff6743f6d77
+tx 2d378be4cef9d397c1c4e26f49c624fe0cd93b18ed44b9da5d9c7ff6743f6d77 blk 361562 txid 618
 .</p>
  </div> 
  <div id="ftn120"> 
@@ -2346,7 +2346,7 @@ Osservatore Romano</i>, 16 April 2015, p. 8.</p>
   <p align="left"> <a name="_ftn127" title="" href="#_ftnref127">[127]</a> BOLIVIAN BISHOPS
  CONFERENCE, Pastoral Letter on the Environment and Human Development in Bolivia <i>El universo, don de Dios para la vida</i> (March 2012), 86.</p
 
-tx 2ac72959c66d927409a6ff783a8c796a1d50e9f5b590d6e7fc46a906446338e1
+tx 2ac72959c66d927409a6ff783a8c796a1d50e9f5b590d6e7fc46a906446338e1 blk 361562 txid 619
 >
  </div> 
  <div id="ftn128"> 
@@ -2375,7 +2375,7 @@ f the Church</a></i>, 469.</p>
  <div id="ftn135"> 
   <p align="left"> <a name="_ftn135" title="" href="#_ftnref135">[135]</a> <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/messages/peace/documents/hf_ben-xvi_mes_20091208_xliii-world-day-peace.html">Message for the 2010 World Day of Peace</a></i>, 9: AAS 102 (2010), 46.</p>
 
-tx c2de0cc81ec3465b9ba2696ce3035ce04bd717d6c1d70e3dfa07f390bbcb11b3
+tx c2de0cc81ec3465b9ba2696ce3035ce04bd717d6c1d70e3dfa07f390bbcb11b3 blk 361562 txid 620
 
  </div> 
  <div id="ftn136"> 
@@ -2413,7 +2413,7 @@ Nor is the light of faith, joined to the truth of love, extraneous to the materi
  <div id="ftn146"> 
   <p align="left"> <a name="_ftn146" title="" href="#_ftnref146">[146]</a> BENEDICT XVI, Encyclical Letter <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html">Caritas in Veritate</a></i> (29 June 2009), 66<i>: </i>AAS 101 (2009), 699.</p
 
-tx 6bd91e328c7d7fd28f56e6a109781215c9d834c3b236a2c5d81aa656f310ff8e
+tx 6bd91e328c7d7fd28f56e6a109781215c9d834c3b236a2c5d81aa656f310ff8e blk 361562 txid 621
 >
  </div> 
  <div id="ftn147"> 
@@ -2434,7 +2434,7 @@ tx 6bd91e328c7d7fd28f56e6a109781215c9d834c3b236a2c5d81aa656f310ff8e
  <div id="ftn152"> 
   <p align="left"> <a name="_ftn152" title="" href="#_ftnref152">[152]</a> BENEDICT XVI, <i
 
-tx e1d257a3bd20862ca51d50e81ce33777b131dee3426c147447fc4dbc01a17163
+tx e1d257a3bd20862ca51d50e81ce33777b131dee3426c147447fc4dbc01a17163 blk 361562 txid 622
 > <a href="http://w2.vatican.va/content/benedict-xvi/en/homilies/2005/documents/hf_ben-xvi_hom_20050424_inizio-pontificato.html">Homily for the Solemn Inauguration of the Petrine Ministry</a> </i> (24 April 2005): AAS 97 (2005), 710.</p>
  </div> 
  <div id="ftn153"> 
@@ -2452,7 +2452,7 @@ tx e1d257a3bd20862ca51d50e81ce33777b131dee3426c147447fc4dbc01a17163
   <p align="left"> <a name="_ftn156" title="" href="#_ftnref156">[156]</a> BENEDICT XVI, Encyclical Letter <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html">Caritas in Veritate</a></i> (29 June 2009) 2: AAS 101 (2009), 642.</p>
  </d
 
-tx d510ae44c026a06210ed21e0fe5948180380b93025c97a27025c590299b57f95
+tx d510ae44c026a06210ed21e0fe5948180380b93025c97a27025c590299b57f95 blk 361562 txid 623
 iv> 
  <div id="ftn157"> 
   <p align="left"> <a name="_ftn157" title="" href="#_ftnref157">[157]</a> PAUL VI, <i> <a href="http://w2.vatican.va/content/paul-vi/en/messages/peace/documents/hf_p-vi_mes_19761208_x-world-day-for-peace.html">Message for the 1977 World Day of Peace</a></i>: AAS 68 (1976), 709.</p>
@@ -2481,7 +2481,7 @@ Prejudice should not have us criticize those who seek ecstasy in music or poetry
  <div id="ftn164"> 
   <p align="left"> <a name="_ftn164" title="" href="#_ftnref164">[164]</a> JOHN PAUL II, Apostolic Letter <i> <a href="http://w2.vatican.va/content/john-paul-ii/en/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html">Orientale Lumen</a></i> (2 May 1995), 11: AAS 87 (1995), 757.</p>
 
-tx 5a155177c7b42a2bc084ab77049b09ac7e98e8cf5096895cd705712de3304f42
+tx 5a155177c7b42a2bc084ab77049b09ac7e98e8cf5096895cd705712de3304f42 blk 361562 txid 624
  </div> 
  <div id="ftn165"> 
   <p align="left"> <a name="_ftn165" title="" href="#_ftnref165">[165]</a> Ibid<i>.</i></p>
@@ -2492,7 +2492,7 @@ tx 5a155177c7b42a2bc084ab77049b09ac7e98e8cf5096895cd705712de3304f42
  <div id="ftn167"> 
   <p align="left"> <a name="_ftn167" title="" href="#_ftnref167">[167]</a> BENEDICT XVI, <i> <a href="http://w2.vatican.va/content/benedict-xvi/en/homilies/2006/documents/hf_ben-xvi_hom_20060615_corpus-christi.html">Homily for the Mass of Corpus Domini</a> </i>(15 June 2006): AAS 98 (2006), 513.</
 
-tx f520d2e1065aebf5e47310fb7ce67de032ddd85a3c592aef29babee13a04e112
+tx f520d2e1065aebf5e47310fb7ce67de032ddd85a3c592aef29babee13a04e112 blk 361562 txid 625
 p>
  </div> 
  <div id="ftn168"> 
@@ -2516,14 +2516,14 @@ Pope Francis.jpg<000000013511?
 
 2013:10:02 10:22:21
 
-tx 4424566d10dec476fa1bc3dc3ca944cf9e406d9094992de0134317850041ebb9
+tx 4424566d10dec476fa1bc3dc3ca944cf9e406d9094992de0134317850041ebb9 blk 361562 txid 629
 Copyright (c) 1998 Hewlett-Packard Compan
 
-tx 0761f0273c7b3e341e9f3bef1b8e0960e12c423b814b08cc9e80f60ae585f492
+tx 0761f0273c7b3e341e9f3bef1b8e0960e12c423b814b08cc9e80f60ae585f492 blk 361562 txid 631
 IEC http://www.iec.ch
 IEC http://www.iec.ch
 
-tx 160ff281889fcf27156173dbe3a1aeb47cd8c20fa76b7011da8cb2f6a6b87ef5
+tx 160ff281889fcf27156173dbe3a1aeb47cd8c20fa76b7011da8cb2f6a6b87ef5 blk 361562 txid 632
 .IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGB
 ,Reference Viewing Condition in IEC61966-2.1
 ,Reference Viewing Condition in IEC61966-2.1
@@ -2531,7 +2531,7 @@ tx 160ff281889fcf27156173dbe3a1aeb47cd8c20fa76b7011da8cb2f6a6b87ef5
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 54d73e61c13b9b2cad3cb65fd92e1b6e047380c2df1874d42d067a58c296ab3d
+tx 54d73e61c13b9b2cad3cb65fd92e1b6e047380c2df1874d42d067a58c296ab3d blk 361562 txid 634
 5c5a643ad3583731e76f0c005e9ace59a604f5c3cc77594f4f447a3ab2edde90<6270|5c5a643ad3583731e76f0c005e9ace59a604f5c3cc77594f4f447a3ab2edde90
 85c1abb1688533ba4959b0c267f6a7960794b9bc118db0bae8491bfb37272658
 56d571d0eb4214f6f6bcc7b0214e444bff3495418cfe6209833f1019926f7485
@@ -2629,113 +2629,113 @@ f6d5da7560929d77f6d5ae7cf1b4ba8e400e85d60b09cf5959e02d069d216deb
 160ff281889fcf27156173dbe3a1aeb47cd8c20fa76b7011da8cb2f6a6b87ef5
 e95a13bf802a7d520f304f75389e7c2765e281592395360aeef99bffe018e0aa
 
-tx a6766ed76fe3641d80f4b4ebfc7367bac040aa13545d68e6297895684f675976
+tx a6766ed76fe3641d80f4b4ebfc7367bac040aa13545d68e6297895684f675976 blk 361570 txid 570
 KApologies for bloating the blockchain.
 
-tx c60ee95a5da49abe9c4f6f8072cfffd51bb70c23147d720e7bf70768a951ca55
+tx c60ee95a5da49abe9c4f6f8072cfffd51bb70c23147d720e7bf70768a951ca55 blk 361570 txid 571
 KBut I need to test chaining OP_RETURN.
 
-tx 224cc705210b50933da42d08863507d08c50387ec78f576b77239549670038da
+tx 224cc705210b50933da42d08863507d08c50387ec78f576b77239549670038da blk 361573 txid 393
 u=http://dev.chroma.io/AGjspg6p
 
-tx 6c25accc5cf22fdd4dd6a2ed31e357524f2634de670280f7b09ecec3d329d0c2
+tx 6c25accc5cf22fdd4dd6a2ed31e357524f2634de670280f7b09ecec3d329d0c2 blk 361587 txid 462
 u=https://goo.gl/CxoF8Y
 
-tx 3aef6a7e72988dc81e5403e2af69a98818957eeaba19c10a80ca7667375502f0
+tx 3aef6a7e72988dc81e5403e2af69a98818957eeaba19c10a80ca7667375502f0 blk 361602 txid 926
 ***BlockCypher Data Endpoint Test***
 
-tx c31a093d0dbb5b0d572d304d05281a2f7716d11839cc245342f714c700d9e9b7
+tx c31a093d0dbb5b0d572d304d05281a2f7716d11839cc245342f714c700d9e9b7 blk 361602 txid 927
 ***BlockCypher Data Endpoint Test***
 
-tx 794d74b4d2e5d43417255d1a66a65e39f4d6a0ea7e33aec5ce80393589032262
+tx 794d74b4d2e5d43417255d1a66a65e39f4d6a0ea7e33aec5ce80393589032262 blk 361604 txid 190
 @ASCRIBESPOOL01EDITIONS10
 
-tx 91c738f999984e5279b6c28dee99c36625570c247589b7e8724766c1d90a7273
+tx 91c738f999984e5279b6c28dee99c36625570c247589b7e8724766c1d90a7273 blk 361604 txid 191
 @ASCRIBESPOOL01REGISTER0
 
-tx cfbf9bf9fb53ef6cd305dc5974abb7c13dda93bb92edc5074b84d047aa4e3cf3
+tx cfbf9bf9fb53ef6cd305dc5974abb7c13dda93bb92edc5074b84d047aa4e3cf3 blk 361606 txid 390
 ASCRIBESPOOL01REGISTER3
 
-tx f9659402e987b132e1f5c822c7137dfbd15c7fd8a560064b37e6a46209ba0b0b
+tx f9659402e987b132e1f5c822c7137dfbd15c7fd8a560064b37e6a46209ba0b0b blk 361609 txid 496
 zASCRIBESPOOLREGISTER
 
-tx fed694c0e6c987b72fca37ac024305a71ab29ae7bc1b15330dc02c513a4cff47
+tx fed694c0e6c987b72fca37ac024305a71ab29ae7bc1b15330dc02c513a4cff47 blk 361614 txid 585
 ***BlockCypher Data Endpoint Test***
 
-tx f0617c8ce6a6127afe4d0bd625c5ab6c79b550d12aa82fc825b8c9e7b1975f1b
+tx f0617c8ce6a6127afe4d0bd625c5ab6c79b550d12aa82fc825b8c9e7b1975f1b blk 361614 txid 586
 ***BlockCypher Data Endpoint Test***
 
-tx d1e808fe7de31ae70ccab4e2909d12cdd283398c624f2da9acfc698e378209be
+tx d1e808fe7de31ae70ccab4e2909d12cdd283398c624f2da9acfc698e378209be blk 361622 txid 433
 u=https://cpr.sm/Yj62DFi-gE
 
-tx ee326f028f0d1b1979fd063ebe6c4b621dca1ddeb491325db1b6c6931dcb4bb7
+tx ee326f028f0d1b1979fd063ebe6c4b621dca1ddeb491325db1b6c6931dcb4bb7 blk 361625 txid 970
 FSenate Banking Committee calls for 
 
-tx 5fb890af0047c5ea4c40b792eaf2d0e6f07338acf0c65a22917e4ffc14811b06
+tx 5fb890af0047c5ea4c40b792eaf2d0e6f07338acf0c65a22917e4ffc14811b06 blk 361625 txid 971
 Flight touch approach to regulation 
 
-tx e77348305141b97e722b7182b727eb3ce2cd09cd76e5e448088c9d2e07f8eeb3
+tx e77348305141b97e722b7182b727eb3ce2cd09cd76e5e448088c9d2e07f8eeb3 blk 361625 txid 972
 Fof Satoshi's invention
 
-tx fe5bb96dc3523a37f6acc26e92e44886fcbacd6e435f808273b6f3fcc67ba00f
+tx fe5bb96dc3523a37f6acc26e92e44886fcbacd6e435f808273b6f3fcc67ba00f blk 361631 txid 326
 u=https://cpr.sm/GVXmGwR66W
 
-tx eacddfccfbc5accd7c964136f5dab10e4db8e5035c857a5fb29f5025769a527d
+tx eacddfccfbc5accd7c964136f5dab10e4db8e5035c857a5fb29f5025769a527d blk 361638 txid 476
 u=https://cpr.sm/-Hg-Lr51y5
 
-tx 4bdbc22eca4d329da034f919d40a1f0203e8d4e42980245cd1a02cbc8897e711
+tx 4bdbc22eca4d329da034f919d40a1f0203e8d4e42980245cd1a02cbc8897e711 blk 361638 txid 477
 *u=https://cpr.sm/-Hg-Lr51y5
 
-tx 029f0fdd2083492b42b41fda2e6cfa11b4c7693cafa4388052ea6d4f1fef03a3
+tx 029f0fdd2083492b42b41fda2e6cfa11b4c7693cafa4388052ea6d4f1fef03a3 blk 361641 txid 1138
 zASCRIBESPOOLREGISTER
 
-tx 8a0b7e1f3f03af73197106515cd4fac196823db54239d15f99c10f6f2478cab1
+tx 8a0b7e1f3f03af73197106515cd4fac196823db54239d15f99c10f6f2478cab1 blk 361643 txid 357
 u=https://cpr.sm/TwQKjZfBtV
 
-tx 238cd806a9cb1ca0168ad89873acc50608395470d95ba411e6256db3327f67d0
+tx 238cd806a9cb1ca0168ad89873acc50608395470d95ba411e6256db3327f67d0 blk 361644 txid 655
 Euklid.co Euklid.co Euklid.co Euklid.co
 
-tx c703e246436f93916f122e4f225f50b5c90dd4aa93fbc36e341dfe539a230d29
+tx c703e246436f93916f122e4f225f50b5c90dd4aa93fbc36e341dfe539a230d29 blk 361644 txid 1122
 zASCRIBESPOOLREGISTER
 
-tx 9ef9c379fb4805e0a1cb63e8947571e815b89d78d51bb48f0cade589f571ee3f
+tx 9ef9c379fb4805e0a1cb63e8947571e815b89d78d51bb48f0cade589f571ee3f blk 361645 txid 174
 I?;Euklid.co Euklid.co
 
-tx 988401b05974b3fae68fc3088b011005f244c83b44dc2bf7ec5f0cf45e4ab232
+tx 988401b05974b3fae68fc3088b011005f244c83b44dc2bf7ec5f0cf45e4ab232 blk 361647 txid 115
 L;Euklid.co Euklid.co
 
-tx 32f21ac3922f456437fd6ca5f089e90e81c03c2b48290787a22fa214d04cc07d
+tx 32f21ac3922f456437fd6ca5f089e90e81c03c2b48290787a22fa214d04cc07d blk 361651 txid 116
 zASCRIBESPOOLREGISTER
 
-tx 623c903efb38a2840c3c8ac97918c95bf81f16d983ccde6c149bf2f89dcf9727
+tx 623c903efb38a2840c3c8ac97918c95bf81f16d983ccde6c149bf2f89dcf9727 blk 361656 txid 129
 nGreece Goes Bitcoin!
 
-tx baab884ecd5eab2bbde685e861a2e3f10ced16f1a973231e685f1eb8e4b9ea38
+tx baab884ecd5eab2bbde685e861a2e3f10ced16f1a973231e685f1eb8e4b9ea38 blk 361656 txid 1462
 }Uohu=https://coloredcoin.io/dmt
 
-tx c3272e5ad6327f24f26060f5e85634446cc921246f0dd5b9d185b3c8f4fa5912
+tx c3272e5ad6327f24f26060f5e85634446cc921246f0dd5b9d185b3c8f4fa5912 blk 361667 txid 245
 Hello Patrick Feeney @farBeyond
 
-tx ffd860c02f82e5a81dbc6a381f66683fefe5191d6d613e8265f77335c958b598
+tx ffd860c02f82e5a81dbc6a381f66683fefe5191d6d613e8265f77335c958b598 blk 361668 txid 492
 u=https://goo.gl/CxoF8Y
 
-tx 752309a1840bbe5be0ead357caff4471cc31cffae10827f20b1b59b669fceac3
+tx 752309a1840bbe5be0ead357caff4471cc31cffae10827f20b1b59b669fceac3 blk 361682 txid 499
 Test post. Please ignore.
 
 
-tx f4e3f6d8138ea3550983197f8aa55279ca6e7035808d6f30ee762b92bc71fc39
+tx f4e3f6d8138ea3550983197f8aa55279ca6e7035808d6f30ee762b92bc71fc39 blk 361682 txid 649
 zASCRIBESPOOLREGISTER
 
-tx fb5242c5b1d3454fa50cb468fb787069a5cbf9276d8d658bfdae0914273986d9
+tx fb5242c5b1d3454fa50cb468fb787069a5cbf9276d8d658bfdae0914273986d9 blk 361684 txid 289
 f0u=https://cpr.sm/-Hg-Lr51y5
 
-tx a32198b343ff19c0cfc60cdf134f7deb4cdde854687a7e22e9ac4f62a060fb8a
+tx a32198b343ff19c0cfc60cdf134f7deb4cdde854687a7e22e9ac4f62a060fb8a blk 361689 txid 1947
 zASCRIBESPOOLREGISTER
 
-tx ddb1d6ecfddb15551f27df3f7498716bcb498325493085da98df308dda9956b5
+tx ddb1d6ecfddb15551f27df3f7498716bcb498325493085da98df308dda9956b5 blk 361689 txid 1948
 zASCRIBESPOOLREGISTER
 
-tx b56ed9b3671dcaeb767f543fb5a4c455fa95e0bcf5bb430f60ac415f190590d1
+tx b56ed9b3671dcaeb767f543fb5a4c455fa95e0bcf5bb430f60ac415f190590d1 blk 361701 txid 775
 SIG"0000088:GwpUnSrhqPdaLiQxi/MmvF3QYMFCW1/o+zkMYBvKxuE5dldVGHzmI9RFMrdmsriSr0Yv98CJeni2CKPTD6/Q5rg=?000000000000000225|The commodity markets will dissolve the moment #ElonMusk finds his first mountain sized asteroid packed with gold and silver. 
 
 In a Infinite Universe true scarcity exists only within #bitcoin
@@ -2744,49 +2744,49 @@ In a Infinite Universe true scarcity exists only within #bitcoin
 #EMBII##############
 ElonMusk############bitcoin#############OwnTheSolarSystem###EMBII###############
 
-tx d8795128cedc7aead08f39cad2c13ed185f0ff934fd30ad2ea94b490f524bf62
+tx d8795128cedc7aead08f39cad2c13ed185f0ff934fd30ad2ea94b490f524bf62 blk 361716 txid 223
 u=https://cpr.sm/-RuhOX7uCb
 
-tx b973482ff921535b3542e5a275b06e6b6869087365e6610c87ea0ef0479bdbde
+tx b973482ff921535b3542e5a275b06e6b6869087365e6610c87ea0ef0479bdbde blk 361718 txid 44
 u=https://goo.gl/CxoF8Y
 
-tx 041afbfcccd172789e228cbc38a79e205f15b052145a39fd9b12ef6a90162719
+tx 041afbfcccd172789e228cbc38a79e205f15b052145a39fd9b12ef6a90162719 blk 361724 txid 1002
 +?u=https://goo.gl/CxoF8YxD
 
-tx b6a2aef6b7607528bd5188b437cf226586765ff1b13ee255ebbc62003a44e9e5
+tx b6a2aef6b7607528bd5188b437cf226586765ff1b13ee255ebbc62003a44e9e5 blk 361724 txid 1520
 zASCRIBESPOOLREGISTER
 
-tx 2fdb2563c63d3a210bcc74d1f750fb66f67aeb86555841760ae6217aa1ad1638
+tx 2fdb2563c63d3a210bcc74d1f750fb66f67aeb86555841760ae6217aa1ad1638 blk 361731 txid 407
 +?u=https://goo.gl/QanvnHxD
 
-tx 4fcb87a5a2ba72e7114bc57120691af2c73ec2e157bcb8914d8f929aeacc7b45
+tx 4fcb87a5a2ba72e7114bc57120691af2c73ec2e157bcb8914d8f929aeacc7b45 blk 361738 txid 291
 zASCRIBESPOOLREGISTER
 
-tx 7cccc315eaebaf1b5f8db48739893e18fdd5ed780dc55253de8c8f49d58464a2
+tx 7cccc315eaebaf1b5f8db48739893e18fdd5ed780dc55253de8c8f49d58464a2 blk 361739 txid 1513
 zASCRIBESPOOLREGISTER
 
-tx 7afd5a039c9d6542d5a91126db921a76e496449f279a2592e247e4b839ef06f6
+tx 7afd5a039c9d6542d5a91126db921a76e496449f279a2592e247e4b839ef06f6 blk 361739 txid 1541
 zASCRIBESPOOLREGISTER
 
-tx 415ef8c916508da9593260e51d07ead553eccab639f4cd95e68765bb8fd8db2b
+tx 415ef8c916508da9593260e51d07ead553eccab639f4cd95e68765bb8fd8db2b blk 361744 txid 309
 zASCRIBESPOOLREGISTER
 
-tx 966bec69d473f9a97e5c44b54d659fa785485f75ea8599c5684c3d3e84caeb0e
+tx 966bec69d473f9a97e5c44b54d659fa785485f75ea8599c5684c3d3e84caeb0e blk 361744 txid 312
 zASCRIBESPOOLREGISTER
 
-tx 233060ae4506b9c7c7b943f346f83a05b58073cef7bc85fb3b4155a9c2768380
+tx 233060ae4506b9c7c7b943f346f83a05b58073cef7bc85fb3b4155a9c2768380 blk 361746 txid 1119
 zASCRIBESPOOLREGISTER
 
-tx dd7287eb8a5f1ffa5c195fe26a91479a301c2a6fed15329da2e703776d623ce4
+tx dd7287eb8a5f1ffa5c195fe26a91479a301c2a6fed15329da2e703776d623ce4 blk 361747 txid 692
 zASCRIBESPOOLREGISTER
 
-tx 4b25902452567598ac8d31ffecade1d0b717e1571ccf4ebc9485c23628433d4e
+tx 4b25902452567598ac8d31ffecade1d0b717e1571ccf4ebc9485c23628433d4e blk 361747 txid 693
 zASCRIBESPOOLREGISTER
 
-tx 5b792bf820370245178733e608874f0530dacf036def551886deb9f738d920ec
+tx 5b792bf820370245178733e608874f0530dacf036def551886deb9f738d920ec blk 361748 txid 353
 2ab94b3bf9b03ab947fd68a082165d97
 
-tx ffd7fd4678326420385c394d9b0dea3859aeeee0341e8865e6edce2b22a4f453
+tx ffd7fd4678326420385c394d9b0dea3859aeeee0341e8865e6edce2b22a4f453 blk 361748 txid 685
 ==================================================
 Nombre de archivo : It was only waiting me - Published.ogg
 SHA-256           : b24bb420ada842e5ef06f371518964f16fb49996f0e31c2b277059328067c339
@@ -2822,947 +2822,947 @@ Description:It was only waiting me song
 MCN:CLX3P-VS51J-7RBDV
 
 
-tx a54cea941f0ac2397eee13b28d9813fa3424543df66ecef50213f5abeae9d463
+tx a54cea941f0ac2397eee13b28d9813fa3424543df66ecef50213f5abeae9d463 blk 361755 txid 850
 zASCRIBESPOOLREGISTER
 
-tx 55073c82f1fa593302c760619af9980812ec17836cdc8c431436ec49eb5a926c
+tx 55073c82f1fa593302c760619af9980812ec17836cdc8c431436ec49eb5a926c blk 361763 txid 229
 zASCRIBESPOOLREGISTER
 
-tx 4d9770492d2e3faa4e2b1c37e07d605730173eab7772a91c0e33cffa947fedb7
+tx 4d9770492d2e3faa4e2b1c37e07d605730173eab7772a91c0e33cffa947fedb7 blk 361766 txid 1024
 u=https://cpr.sm/GVXmGwR66W
 
-tx 6907cc64d53bff26476255dada477a702774131e540ed84fc9eac7c664698cd0
+tx 6907cc64d53bff26476255dada477a702774131e540ed84fc9eac7c664698cd0 blk 361777 txid 103
 77f4ce8b9b093213d194b2d979d1ab2030457383
 
-tx 319d04e49707a613fb95a966a3ca6b95baf7dd046ec68c9b9b5184c3613ea85b
+tx 319d04e49707a613fb95a966a3ca6b95baf7dd046ec68c9b9b5184c3613ea85b blk 361781 txid 20
 2d6574225bbd31ee4bdd5df2d54574631974a459
 
-tx d08de0e9edeb127d1da3222574293ca08663a97e612e0a69f25286c75a9bfc64
+tx d08de0e9edeb127d1da3222574293ca08663a97e612e0a69f25286c75a9bfc64 blk 361781 txid 442
 fc1021d49c7ea096f55e2531aec670c514c6254a
 
-tx 616ba32bb9619496dbd75ed3056eff6a3066f0e3ac8d29290e10cfca7fa65e91
+tx 616ba32bb9619496dbd75ed3056eff6a3066f0e3ac8d29290e10cfca7fa65e91 blk 361784 txid 478
 d7c1ea869113005b5083fa6d43d90f1ebc3c2834
 
-tx c8e0d4bb277fb287d6efa351b2a1f0467b69da7038849a6927552c814f43d17b
+tx c8e0d4bb277fb287d6efa351b2a1f0467b69da7038849a6927552c814f43d17b blk 361784 txid 480
 4d7e8a7a5ac4f34d6aad42b18a4333d563354702
 
-tx 45dabbe7f90922677345f1e3fb490c5829d0e5a41112ea4a13b15d8010f724f2
+tx 45dabbe7f90922677345f1e3fb490c5829d0e5a41112ea4a13b15d8010f724f2 blk 361784 txid 506
 0b42805c697cdc07d1ad229813582b5359d6cf01
 
-tx dc1e67be0629a197331fcd94e05f04946ce2d01a79077451310242dab835c8e3
+tx dc1e67be0629a197331fcd94e05f04946ce2d01a79077451310242dab835c8e3 blk 361786 txid 588
 zASCRIBESPOOLREGISTER
 
-tx efe88f806abbb67287735e320bb9634b40e04edbf8134c524747b3c5c427a8e6
+tx efe88f806abbb67287735e320bb9634b40e04edbf8134c524747b3c5c427a8e6 blk 361789 txid 734
 +?u=https://cpr.sm/Be7Aud3DTXxD
 
-tx 356bbdd44fe96b6f77476b781f323f41db54941cf9d684d4abf3de798f827bac
+tx 356bbdd44fe96b6f77476b781f323f41db54941cf9d684d4abf3de798f827bac blk 361792 txid 309
 +?u=https://goo.gl/QanvnHxD
 
-tx ec24eb8f5d5448c3da7e54155dc819e4dc6f6fecbe8893c2020a91b40aa30cbc
+tx ec24eb8f5d5448c3da7e54155dc819e4dc6f6fecbe8893c2020a91b40aa30cbc blk 361792 txid 466
 zASCRIBESPOOLREGISTER
 
-tx 3d5c54e95dbe241dd4b8e91cf80f797c31725697d8a7ef118768515b31ee05a4
+tx 3d5c54e95dbe241dd4b8e91cf80f797c31725697d8a7ef118768515b31ee05a4 blk 361795 txid 352
   Only on Fiverr.com!
 
-tx a2119ec5e5c64b26a3105286ad135775010c7e0a929e074df8cfded4ec979981
+tx a2119ec5e5c64b26a3105286ad135775010c7e0a929e074df8cfded4ec979981 blk 361795 txid 1811
 zASCRIBESPOOLREGISTER
 
-tx b512d0574c7841aaf0e76f150129f9bfed49faeb3f83d82769bcffeed6634cc8
+tx b512d0574c7841aaf0e76f150129f9bfed49faeb3f83d82769bcffeed6634cc8 blk 361807 txid 810
 u=https://coloredcoin.io/dmt
 
-tx 63289e2f56dc9d7fc3a3a297707bab25611bf1a9bcebe199d95d213d6a2d1b9a
+tx 63289e2f56dc9d7fc3a3a297707bab25611bf1a9bcebe199d95d213d6a2d1b9a blk 361809 txid 296
 u=https://coloredcoin.io/csc
 
-tx a1d3c4397290ff3b71889e93b9812e8314e71536df272b497e17c238938e8024
+tx a1d3c4397290ff3b71889e93b9812e8314e71536df272b497e17c238938e8024 blk 361809 txid 719
 unsuccessful double-spend attempt
 
-tx 758878290118ba2bd395bd67dda585a7243ac48df86f6eca7a325a54ccb09a1e
+tx 758878290118ba2bd395bd67dda585a7243ac48df86f6eca7a325a54ccb09a1e blk 361813 txid 546
 unsuccessful double-spend attempt
 
-tx 10095e147971083cf8f68c7c3183fd8cef1d009c243a3a8ab1a44f7333644227
+tx 10095e147971083cf8f68c7c3183fd8cef1d009c243a3a8ab1a44f7333644227 blk 361817 txid 219
 36d799cb850df9cb14f2ea67da2703389f7aa6e7
 
-tx f8fb07f5c288d4e1a55987329b3fabe676a9b83cdb218c8ab7444dd239adbe06
+tx f8fb07f5c288d4e1a55987329b3fabe676a9b83cdb218c8ab7444dd239adbe06 blk 361817 txid 236
 c2d7f240e7e14b34213f534df09f2d2ad6af5700
 
-tx 7191ae795bba741fb150193acf680017cc8de1bc8d018b7d1625af68f7b59880
+tx 7191ae795bba741fb150193acf680017cc8de1bc8d018b7d1625af68f7b59880 blk 361817 txid 587
 zASCRIBESPOOLREGISTER
 
-tx 22acc4c2fab15d2d50d9c8e707024b07ddd6d965c03ceea355012956c3531c62
+tx 22acc4c2fab15d2d50d9c8e707024b07ddd6d965c03ceea355012956c3531c62 blk 361819 txid 119
 b79c61d34789643f309370b08df3b62757d092a4
 
-tx a1b4805f8f57d53ca6321ee46ebdf71526072dea712fbd4f32bd5f5a119ef305
+tx a1b4805f8f57d53ca6321ee46ebdf71526072dea712fbd4f32bd5f5a119ef305 blk 361820 txid 283
 61cc9c42300874dda615e4ed6fe32d0f805f17a2
 
-tx 452130042b84cba321834619cbc3b8cbc90a0f6b30ae93fbb8aca6b4dc219a29
+tx 452130042b84cba321834619cbc3b8cbc90a0f6b30ae93fbb8aca6b4dc219a29 blk 361820 txid 285
 323eb3d25df2e6bc7f2caa7782aa41d7d16b77e8
 
-tx 879aa3388971317bbb516a2a2f819a173f1ead865bd746e8d19ca4ac6c37d866
+tx 879aa3388971317bbb516a2a2f819a173f1ead865bd746e8d19ca4ac6c37d866 blk 361820 txid 725
 unsuccessful double-spend attempt
 
-tx 6ab56f7379594eb988cec7f47ae1ff32a9da353ac95547aa912e8f831ad5b4b4
+tx 6ab56f7379594eb988cec7f47ae1ff32a9da353ac95547aa912e8f831ad5b4b4 blk 361821 txid 160
 374523459fd16494aed2fa26bdd49e759b01d075
 
-tx 7654c0207239975e55b9db572d483f99bc54b215775675b707743a325a659c13
+tx 7654c0207239975e55b9db572d483f99bc54b215775675b707743a325a659c13 blk 361821 txid 279
 8aa600b1e1eef82293ce0426643cb16210487eb4
 
-tx e487af50f89b86f015b36e80204a2157e65342d1856032c9d3981123718de8ea
+tx e487af50f89b86f015b36e80204a2157e65342d1856032c9d3981123718de8ea blk 361821 txid 281
 28371b16335a7b4ecf31d07df6f505bbc57f66ed
 
-tx 5ee5ee1962b499d6149039090b000c23e0e043084b1433b463ff09c69cf42703
+tx 5ee5ee1962b499d6149039090b000c23e0e043084b1433b463ff09c69cf42703 blk 361821 txid 283
 8e442f6f1a81d83b83a6603d7f05ec3d1dc466b0
 
-tx 7482b91faa16307e1518ac23be24a56bd907a91db4886e1b0c0fcb90a9fb84cf
+tx 7482b91faa16307e1518ac23be24a56bd907a91db4886e1b0c0fcb90a9fb84cf blk 361821 txid 288
 77496a3c4336a68faa3978293c27fececd8c2213
 
-tx 02153bddc363a8390d3a6732a5de6bb00c819223d91603024d37f4e16f748536
+tx 02153bddc363a8390d3a6732a5de6bb00c819223d91603024d37f4e16f748536 blk 361821 txid 290
 d022c252effa8649a2607f063d75fdd6d1b5fa21
 
-tx fb5231215ec245cb9abfc50619eec7f2e6567ce87506367a7a58456f553bf1f7
+tx fb5231215ec245cb9abfc50619eec7f2e6567ce87506367a7a58456f553bf1f7 blk 361821 txid 714
 zASCRIBESPOOLREGISTER
 
-tx 414aec17b4d72a9dbaaafbb589fb378ce7731a618eed1dfec6273511bda57121
+tx 414aec17b4d72a9dbaaafbb589fb378ce7731a618eed1dfec6273511bda57121 blk 361822 txid 194
 33b25c1bc00d31fd1fc248fb8073e45879cc0ab1
 
-tx be13c4b5bc833bd6cddd09bf10abda2da6395532bb589e5d87deb1ff7588f8fa
+tx be13c4b5bc833bd6cddd09bf10abda2da6395532bb589e5d87deb1ff7588f8fa blk 361822 txid 196
 3abae670a28c05685c4962b859ce87801e5bb612
 
-tx 88b395b0fc60016c043ff026cb9aa58975de5369398a105c7c1d9089a543472a
+tx 88b395b0fc60016c043ff026cb9aa58975de5369398a105c7c1d9089a543472a blk 361822 txid 201
 c2beeae3eaa36713224f55081cae00f0b0511e8b
 
-tx 7885302ef2d60acf835641a4759f87fdcb4e4b6fdc05725d5d85aec1452c456e
+tx 7885302ef2d60acf835641a4759f87fdcb4e4b6fdc05725d5d85aec1452c456e blk 361822 txid 203
 8c54472c777bb2ff7dda9971425db3ae870e5d74
 
-tx 533225a26fd6649ef3d1e870df76491df08429fb2cf2709b11c4444a46f28819
+tx 533225a26fd6649ef3d1e870df76491df08429fb2cf2709b11c4444a46f28819 blk 361822 txid 443
 unsuccessful double-spend attempt
 
-tx ac9c8e54010392be244ae2dfd285c478429310a6e18323300b295a88db5a4b67
+tx ac9c8e54010392be244ae2dfd285c478429310a6e18323300b295a88db5a4b67 blk 361823 txid 342
 a8c8a98c0e0f4ec25aa1c1a93639896579dc2441
 
-tx 1404422054a9747b21777fb969965f59c5f42d9370add39fe35ec13bf84fee90
+tx 1404422054a9747b21777fb969965f59c5f42d9370add39fe35ec13bf84fee90 blk 361823 txid 356
 9471b0e2da9bbfb42a7b346ddf7dbc9b69fe03af
 
-tx 487ea590338d7cc725548f94456eb1f1e4ec6b89fd630b5f8c9e5419cd247e3d
+tx 487ea590338d7cc725548f94456eb1f1e4ec6b89fd630b5f8c9e5419cd247e3d blk 361823 txid 365
 016db375e370aaa9bbe41fc26eab0588e36536e1
 
-tx b5bb32c06309c0d5588b755a92797310e8e75156ff5c12a6f400e9bb546fa9f9
+tx b5bb32c06309c0d5588b755a92797310e8e75156ff5c12a6f400e9bb546fa9f9 blk 361823 txid 542
 2628da8fa7432c45e88e85722d2b58e9d0bf8ee2
 
-tx bb54b61bd2d36f44e6ffd7c09f3f8c95bbb763411403ba030f8cc17e64f378e0
+tx bb54b61bd2d36f44e6ffd7c09f3f8c95bbb763411403ba030f8cc17e64f378e0 blk 361823 txid 546
 a97b244412269ce403df042d89ffab07a704b86a
 
-tx 2f688dea4560f29615ef6fb65733012c406f6eccd5f00e42dba5a63fb7c25d74
+tx 2f688dea4560f29615ef6fb65733012c406f6eccd5f00e42dba5a63fb7c25d74 blk 361823 txid 550
 cedecd48fd8be14d81f67bf0550fe14590def1a9
 
-tx 846a908efa14ef184aa84c078f62b28782147182a76c5df13b1cd8bccec2723a
+tx 846a908efa14ef184aa84c078f62b28782147182a76c5df13b1cd8bccec2723a blk 361823 txid 552
 214ea6508e45303e061825a3b325bdd6465cbf74
 
-tx 326f4c2ca0f4bb25682bb795ed649d5bc757164d3784369aa9592379f0a75ead
+tx 326f4c2ca0f4bb25682bb795ed649d5bc757164d3784369aa9592379f0a75ead blk 361823 txid 563
 f7db4c35b9919f373b382ad344fbbc098b41ccbe
 
-tx 6ec22a29191021501ed9c7d27b24c5e444efd9d37018c7f4340f1ea7664f8c6d
+tx 6ec22a29191021501ed9c7d27b24c5e444efd9d37018c7f4340f1ea7664f8c6d blk 361823 txid 568
 69938ec6312e74e2282d1db663fd4fd50b3a2839
 
-tx a17d42552f5072aa1bde4f56c557ccae2db9cf40311c1890737e782329ff7b29
+tx a17d42552f5072aa1bde4f56c557ccae2db9cf40311c1890737e782329ff7b29 blk 361823 txid 570
 21442cab979a34217af173607bf085fbea3801b9
 
-tx 07196443d590398a12e4258b11d82f741d4657fa82b45362af1ecf9b6283372c
+tx 07196443d590398a12e4258b11d82f741d4657fa82b45362af1ecf9b6283372c blk 361823 txid 578
 054873599b788d41dabb2334cd6ace8338cd1c58
 
-tx 42101639987b76982cd8dbf7eb4138e40d5ffca471223dff8d26589777e2be12
+tx 42101639987b76982cd8dbf7eb4138e40d5ffca471223dff8d26589777e2be12 blk 361823 txid 580
 1c15a0612bda4ab06140c13497fb35eb089dbcb9
 
-tx 997339594a2bad1f3b904a1ff2f978886424d77c81ad2613568a38d1fd9c4e3f
+tx 997339594a2bad1f3b904a1ff2f978886424d77c81ad2613568a38d1fd9c4e3f blk 361823 txid 582
 ea0cb6ef0d02d762666a01fede34950986d5fa2d
 
-tx 35592347b707a26d29e1566e94c5c440c32fabd4c1a04ecd912e3a9868836ec2
+tx 35592347b707a26d29e1566e94c5c440c32fabd4c1a04ecd912e3a9868836ec2 blk 361823 txid 590
 5388df1309f53474a3dcccc60298461dfe5b2c77
 
-tx 793d63e448fdbe2b54bcc6e13d7b6117d61373e5357a1c3150f4dd4fae865c0e
+tx 793d63e448fdbe2b54bcc6e13d7b6117d61373e5357a1c3150f4dd4fae865c0e blk 361823 txid 739
 Yu=https://cpr.sm/-Hg-Lr51y5
 
-tx bd571b425a1cb25be1a4811638e75a38ef2cbc4ce694ecdf6ff042227172fd6e
+tx bd571b425a1cb25be1a4811638e75a38ef2cbc4ce694ecdf6ff042227172fd6e blk 361824 txid 146
 0b7927fb0e7b82f9bfd220e0d6323bc2c53a23db
 
-tx 7db80b862cd806126cb4608fbe0201103c4e43a97d601a42f12abbc2b9460e38
+tx 7db80b862cd806126cb4608fbe0201103c4e43a97d601a42f12abbc2b9460e38 blk 361824 txid 153
 0170176d6aa67f67cfff37311bc7ee329932d6cc
 
-tx 75493993f47a1606360c57fbdc7577360e010f9d51763bcf6cc66537bde02b15
+tx 75493993f47a1606360c57fbdc7577360e010f9d51763bcf6cc66537bde02b15 blk 361824 txid 185
 5f8800a7bd0c1f1863c0fe0a49b773b1a1cf08bd
 
-tx be45129acad2643aa9f69c41aca33cb8ae7aeb615717aa654ffbb9ef7a31c63b
+tx be45129acad2643aa9f69c41aca33cb8ae7aeb615717aa654ffbb9ef7a31c63b blk 361824 txid 187
 3d178be82bafdbc30b6839302b89e46d1f1800af
 
-tx 9d5eab5a1919134f19d3d0cabe64bfe87c301869a5d507bcc6ac77a6fd5b7187
+tx 9d5eab5a1919134f19d3d0cabe64bfe87c301869a5d507bcc6ac77a6fd5b7187 blk 361827 txid 107
 001b170c32cec54af920e1418831fd663b6c899e
 
-tx 9bf26ff14527d38ee842d473d66206eecdf71d8e1572a2a6e11e56b59a04dde8
+tx 9bf26ff14527d38ee842d473d66206eecdf71d8e1572a2a6e11e56b59a04dde8 blk 361827 txid 108
 9d8871fe92a0fdca5dffc5aa55b6294057d1e473
 
-tx 9c244b70821f9673dd4fd340562f93af37de01201e656be345847773d6594f9a
+tx 9c244b70821f9673dd4fd340562f93af37de01201e656be345847773d6594f9a blk 361827 txid 109
 cd3b5ec63656f2663ad9959575bd59d210e84e9b
 
-tx f6285eb8cff725b388ca0b3e18c033b5e11c96ae0a9c9f6bb030ed5220de4550
+tx f6285eb8cff725b388ca0b3e18c033b5e11c96ae0a9c9f6bb030ed5220de4550 blk 361827 txid 110
 40119e4e14b53897f3502e90df7649a1a0a7613c
 
-tx a552ce55e416480f1cefb3360a5dcc52b4a99edf5b12e6e77e4646c0fcadc1df
+tx a552ce55e416480f1cefb3360a5dcc52b4a99edf5b12e6e77e4646c0fcadc1df blk 361827 txid 183
 26067269d7a8d0f4f431f952c0a4f933d31f85d9
 
-tx c5d4b4e475d8075e43e0bef717e69148bfae93256c7e825c13b7dbb572626c55
+tx c5d4b4e475d8075e43e0bef717e69148bfae93256c7e825c13b7dbb572626c55 blk 361827 txid 186
 e8c44551c0ce826169d386d5c296d9e2a166219b
 
-tx 31ac83eb1c0adc5ef7fd1c0e7f6b803549eb2a899f73ccc9aecaeb7f6b2e9380
+tx 31ac83eb1c0adc5ef7fd1c0e7f6b803549eb2a899f73ccc9aecaeb7f6b2e9380 blk 361827 txid 236
 d48adcd78858d58fe2ff4b8ca045c0798e5bc214
 
-tx 1abea5e3438dbe2d2566c6d36dbae24ca0e2fecca2dd1205c634e876107e674f
+tx 1abea5e3438dbe2d2566c6d36dbae24ca0e2fecca2dd1205c634e876107e674f blk 361827 txid 238
 344ad352984ebf3363bf23179a2d64406bb8cb55
 
-tx ec51c8be82f8ff24ba2502dfa57c79bc64a23a428153b3771d5c91985e4d5f79
+tx ec51c8be82f8ff24ba2502dfa57c79bc64a23a428153b3771d5c91985e4d5f79 blk 361828 txid 306
 01859a82cbe1d7e60366abcddb88f62394129a42
 
-tx a81489ca6907a383208a8bd76569af1781843bbc8de834aab34430b8c5926c6d
+tx a81489ca6907a383208a8bd76569af1781843bbc8de834aab34430b8c5926c6d blk 361828 txid 315
 2a9f5e95e5cab44c446e1534c13590856f0b7588
 
-tx f7270e4de2277e5cbbeb08f1e8b50cd2d6faf181432af28627ce3f0fe466552d
+tx f7270e4de2277e5cbbeb08f1e8b50cd2d6faf181432af28627ce3f0fe466552d blk 361828 txid 321
 8898cdb117f259e358300a0c8d5147808992942f
 
-tx 903f3288dfd7902de16921e96bbd2cb90151be84eda520785fe950a3cb9ec81b
+tx 903f3288dfd7902de16921e96bbd2cb90151be84eda520785fe950a3cb9ec81b blk 361828 txid 323
 1d5dc6d02cc79181ffa52657a32295b6b1b918a4
 
-tx e39f2e61db2a390b217de94757108e4031c5730ecc5bfbbbf7f0fccdf7073304
+tx e39f2e61db2a390b217de94757108e4031c5730ecc5bfbbbf7f0fccdf7073304 blk 361828 txid 327
 fb08e1a8727780bdc846f33b4ea69f2d3719aefa
 
-tx 7df6af4ff045495f34670991edd798cbdbf07f6fc559ea0a19a618d244b40bb1
+tx 7df6af4ff045495f34670991edd798cbdbf07f6fc559ea0a19a618d244b40bb1 blk 361828 txid 329
 2676def0fab478f31fb7456fedc9d2e8c9af4ebf
 
-tx 3eaf76cd75ac594386d1be0a9b9c887e24869a75c67d92c322bdac31ffb0df46
+tx 3eaf76cd75ac594386d1be0a9b9c887e24869a75c67d92c322bdac31ffb0df46 blk 361828 txid 331
 bde3550455a9805138d8147dd1258fe49093418b
 
-tx 21a22b09597c72f218dfd0382d8dd19e5a9189cbdeca3bc3918a0a10c6213697
+tx 21a22b09597c72f218dfd0382d8dd19e5a9189cbdeca3bc3918a0a10c6213697 blk 361829 txid 43
 70d8b7ed2d25bfe5d03e5406fef3532ad49ccd6d
 
-tx 8be048ab11dda36046a69b369eb9fd01b050f587e04a00af25f5eda1380c9ace
+tx 8be048ab11dda36046a69b369eb9fd01b050f587e04a00af25f5eda1380c9ace blk 361829 txid 289
 348d228f990fb262557367e07e1cae37edb2e98a
 
-tx 99b8db5d9e6939b7145ba2d9fdc533f8e07b77fac0becb282d5e5fb4dbd24916
+tx 99b8db5d9e6939b7145ba2d9fdc533f8e07b77fac0becb282d5e5fb4dbd24916 blk 361829 txid 300
 94f66f8c74f6a20bbb8443dd55d5a61da1e7cab0
 
-tx ff0c8ff344c84ddb73d843f66350ce0a471ab42c9afb1c3f6f60cb35c8ecde00
+tx ff0c8ff344c84ddb73d843f66350ce0a471ab42c9afb1c3f6f60cb35c8ecde00 blk 361829 txid 302
 fa18dadba210a0c5826594ffb7ae3ca656b4e7b1
 
-tx c5fe8b51a27d8f619e8a73e447ccff6109c46f11b18555cfa38b29a2182a2570
+tx c5fe8b51a27d8f619e8a73e447ccff6109c46f11b18555cfa38b29a2182a2570 blk 361829 txid 304
 9b2ae1b3f31dc0221d9963bbb47a6cbdd5a85fed
 
-tx 357b7c5d37fca50ddabd047b8df4aea8b222b8ee9d86733bbdd8d337fd383ace
+tx 357b7c5d37fca50ddabd047b8df4aea8b222b8ee9d86733bbdd8d337fd383ace blk 361829 txid 308
 aa5e9274366a8ff4dde638d6959b172139527cd9
 
-tx 57f4e25cdb174e714a41e8d88e41c2a12574111bcc86eb9e75080f7edaa650ed
+tx 57f4e25cdb174e714a41e8d88e41c2a12574111bcc86eb9e75080f7edaa650ed blk 361829 txid 310
 bab251b48c514d9d15b9abedec85569d8fcca8e7
 
-tx 88c457e55bc6a182f377d405e5b6e617dac9c64b608ed48a17d259740bdbaa02
+tx 88c457e55bc6a182f377d405e5b6e617dac9c64b608ed48a17d259740bdbaa02 blk 361829 txid 313
 2adf453f8edfe80f0431750743f44e409247032e
 
-tx 2a248a9bd3d3ff63151fa4e21d1bd2ab59f9a75ed86f921b969f8a159ad41083
+tx 2a248a9bd3d3ff63151fa4e21d1bd2ab59f9a75ed86f921b969f8a159ad41083 blk 361829 txid 318
 49022d079373fc94a3cc452e30dd37eb444ac3e2
 
-tx e6f380fd9fc3b819e8b30981fa04e153128a519d1fc7e43a5c8b11da3a068fa5
+tx e6f380fd9fc3b819e8b30981fa04e153128a519d1fc7e43a5c8b11da3a068fa5 blk 361829 txid 436
 f0u=https://cpr.sm/-Hg-Lr51y5
 
-tx ab86932f2b42a22d8f52c480d825ce5326bfd38726e95ce9e220c563a99e9665
+tx ab86932f2b42a22d8f52c480d825ce5326bfd38726e95ce9e220c563a99e9665 blk 361829 txid 737
 zASCRIBESPOOLREGISTER
 
-tx d3dfd2a8bb0713f854b9c21af049a87ee674a5c285e299ada587472b43aef9d4
+tx d3dfd2a8bb0713f854b9c21af049a87ee674a5c285e299ada587472b43aef9d4 blk 361831 txid 243
 6352d87078450b547dce92152d115badb606a4be
 
-tx b63707fea86985f89a8812c5b972fd6f180689af4a68642c735adf3b13323cc1
+tx b63707fea86985f89a8812c5b972fd6f180689af4a68642c735adf3b13323cc1 blk 361831 txid 255
 d7ec80235bcd7453e332fe4c2c9af3875f6b3b60
 
-tx 1b5c426bd00a12b6dc24cc48d97c9efb4b9b443e844d933c68d0c1a5bda633c7
+tx 1b5c426bd00a12b6dc24cc48d97c9efb4b9b443e844d933c68d0c1a5bda633c7 blk 361831 txid 257
 8a6b968e4a5eda343a2a3aa59c1403452f801b07
 
-tx e8d51b3f310f19ffb0d4cbd4d19fbbb602f319cfd1c23a268e1d49547dff11a4
+tx e8d51b3f310f19ffb0d4cbd4d19fbbb602f319cfd1c23a268e1d49547dff11a4 blk 361831 txid 259
 7979d670bae8ec1c3815d4563df5d7bc818fb96c
 
-tx 5861a7e51b7d356b6fb2b0e6ad3113697a41e61429b4576c1a70daabd29fbed3
+tx 5861a7e51b7d356b6fb2b0e6ad3113697a41e61429b4576c1a70daabd29fbed3 blk 361831 txid 261
 b55eb39991949be9584d01fd32ef190aa46d6210
 
-tx b41205ccd6479803923b16a4e539fd647e5f822ee7830bde3745062928a4d3b3
+tx b41205ccd6479803923b16a4e539fd647e5f822ee7830bde3745062928a4d3b3 blk 361831 txid 345
 6065097da5fd67724f37bfe51c270384fbb42f21
 
-tx 6bda7c39d27f503dd9561167cded826e744eae7e00130c10b3dd20046858a6ff
+tx 6bda7c39d27f503dd9561167cded826e744eae7e00130c10b3dd20046858a6ff blk 361831 txid 349
 efb12ea152089b76c49e52757270d121f9bdf2c9
 
-tx 7ed47c4dc40f42e20775fc5f8e6c2cb4c0292f18262912ff004e73972b54781d
+tx 7ed47c4dc40f42e20775fc5f8e6c2cb4c0292f18262912ff004e73972b54781d blk 361831 txid 351
 85d3252d92fbe128effb563e10fc68099cf619e1
 
-tx 27f2f9b288dab6a8c59cbfea34d75c030038aabb9a9384f020fe20517b3181fc
+tx 27f2f9b288dab6a8c59cbfea34d75c030038aabb9a9384f020fe20517b3181fc blk 361831 txid 637
 zASCRIBESPOOLREGISTER
 
-tx 0996ba27766a2d4586dc81b21e94dbdaf74e585dbc908188927ce2bee65e2225
+tx 0996ba27766a2d4586dc81b21e94dbdaf74e585dbc908188927ce2bee65e2225 blk 361833 txid 273
 635242907fa2e2fe097049459d06d9bacf8caff8
 
-tx f2233336122928c1e64f45c6217d968e36ca4b765a35a0fddf998c644868d37e
+tx f2233336122928c1e64f45c6217d968e36ca4b765a35a0fddf998c644868d37e blk 361833 txid 275
 23e005bf81e43fd9223893efdd3fee082de5e908
 
-tx bb2416fa453516e4e98a9deeb41794ec606a18482efc57235a01e443e913ecca
+tx bb2416fa453516e4e98a9deeb41794ec606a18482efc57235a01e443e913ecca blk 361833 txid 304
 c0a631ebc2b897d2bcac5d8698bbaff0c05c61b8
 
-tx 32de36a4e07cb20c168902d99f026bc6903432ffe8b03d361751b2612c11bdb9
+tx 32de36a4e07cb20c168902d99f026bc6903432ffe8b03d361751b2612c11bdb9 blk 361833 txid 310
 3fe8df8fb54ae8d52261bb7e933061982703d60b
 
-tx 022947446ceaf31def8160e6938ba97692a3ccee336b00521dd133c40b6bc6fb
+tx 022947446ceaf31def8160e6938ba97692a3ccee336b00521dd133c40b6bc6fb blk 361833 txid 312
 d90146625cd0b205fe3ea5394bc84c8fdf8a4f54
 
-tx 8bc316eaa3cd61b419371c72bce25c5cba120ef0826703d96ed0101a87437a15
+tx 8bc316eaa3cd61b419371c72bce25c5cba120ef0826703d96ed0101a87437a15 blk 361833 txid 318
 85cc22c2958c248fae344b071a2a8459f7a3a786
 
-tx 0071c122156e47dbf72d504771bd2681e1fae43fae683a69109abb4a8de175d9
+tx 0071c122156e47dbf72d504771bd2681e1fae43fae683a69109abb4a8de175d9 blk 361833 txid 322
 00d4a39dd393af2944f5d378e2c642dd4abb947a
 
-tx f11bc7dc4b1c565518e7e06c18900e2f3e057ed619786a9c0ab8d0353ce99947
+tx f11bc7dc4b1c565518e7e06c18900e2f3e057ed619786a9c0ab8d0353ce99947 blk 361833 txid 324
 a81c532350d945deda0f607b08664bdbe8ecbc02
 
-tx db034596cd9695f73f4243827d13e2e6200bdf5841dd581c406a88de0ab76e6b
+tx db034596cd9695f73f4243827d13e2e6200bdf5841dd581c406a88de0ab76e6b blk 361834 txid 469
 903bcbe5c80f767adc116372efaf7d1d2b2e900d
 
-tx 369d049da1cb5cc82b587b795be6912b66bc4f35c390da7405834f9d975d40b2
+tx 369d049da1cb5cc82b587b795be6912b66bc4f35c390da7405834f9d975d40b2 blk 361834 txid 641
 c2a3ecad7bf0dcf763bdb9155d86af0cbf9ceedd
 
-tx 445304cb1e97b46bb3f965eae3eb8258da6a7ad7b4b0637f2e09d5996e69a16e
+tx 445304cb1e97b46bb3f965eae3eb8258da6a7ad7b4b0637f2e09d5996e69a16e blk 361834 txid 670
 fe9f0373263980a082486abe4afd51510c2b974a
 
-tx 0066213c8f25e30f8e45bcbd92d6e8985e4aa921a9d80f11b5a50070fcfe0774
+tx 0066213c8f25e30f8e45bcbd92d6e8985e4aa921a9d80f11b5a50070fcfe0774 blk 361834 txid 672
 fb842297052ae6a4e723e5c635ac7cd8c7d517da
 
-tx 4dd0d2de2518158e455034410f43ef2c34b956e12ba9681b6c693aaaf010fc54
+tx 4dd0d2de2518158e455034410f43ef2c34b956e12ba9681b6c693aaaf010fc54 blk 361834 txid 683
 55d6a917e55a991d9c22ebe5c76a02110231a77c
 
-tx ffca2316bd909fbad70d2331c7728f0e876d1986a9516f4c901d09f63758d5b3
+tx ffca2316bd909fbad70d2331c7728f0e876d1986a9516f4c901d09f63758d5b3 blk 361834 txid 692
 2f4a3f8da5f776e1dc62e43be9afafbaf1398cbd
 
-tx 9dffd781363d45cb03ed712c16577fe924ca215c4ced3dc977c387758173bdd6
+tx 9dffd781363d45cb03ed712c16577fe924ca215c4ced3dc977c387758173bdd6 blk 361834 txid 697
 f6f9d8c6414a293fb9a6f31cb6b3ed6102f58ffa
 
-tx e17262313f1d2d79c9bd54ed315e4a89833e5f8260184198acc40313a3bfbd5a
+tx e17262313f1d2d79c9bd54ed315e4a89833e5f8260184198acc40313a3bfbd5a blk 361834 txid 702
 c022327962554d7355ade39500fa079f0d6b7554
 
-tx 863dcd0f49fb19ebb4e63b62437b18b304aeacc90460d3a9c11322b0f779e504
+tx 863dcd0f49fb19ebb4e63b62437b18b304aeacc90460d3a9c11322b0f779e504 blk 361834 txid 709
 f775cfd957df31d62fc33d7981b5536f78c6c138
 
-tx 7caa17c20906e66a07049994209a7fe748f96e68b7ac8a64fa3647205e704f50
+tx 7caa17c20906e66a07049994209a7fe748f96e68b7ac8a64fa3647205e704f50 blk 361834 txid 711
 6938ccd95a600dba5fd80689d7a88236bf921287
 
-tx b4441f2b20b82049fb8b73df2a727d282443eec7ea926142a2a507212b9767e2
+tx b4441f2b20b82049fb8b73df2a727d282443eec7ea926142a2a507212b9767e2 blk 361834 txid 719
 b8c729da8b5a8c2d7c158894b04e44ef05696427
 
-tx 416b2e98469ab0d8752be88dae910fcbeb65ff18bbd11fd1fc25a096f5621e2d
+tx 416b2e98469ab0d8752be88dae910fcbeb65ff18bbd11fd1fc25a096f5621e2d blk 361834 txid 723
 fcbf93005739c59c87a2590c24567c8b2ef81330
 
-tx 0c060f7df664d1b0ff7f35cb971f7351b8d60cfca807a6972ca99ba32eb16b28
+tx 0c060f7df664d1b0ff7f35cb971f7351b8d60cfca807a6972ca99ba32eb16b28 blk 361834 txid 725
 d7df9daafd771b64458692a0fed1ad5eccdd0845
 
-tx 8aaf1ea4a9c7fe0ace697c7e5f3d9df94109575715cab551c1cb28c9100fcfae
+tx 8aaf1ea4a9c7fe0ace697c7e5f3d9df94109575715cab551c1cb28c9100fcfae blk 361836 txid 158
 cbbe2e01e1bb99e43ab3a50604b19d931d0fc276
 
-tx 12742d778d09d349b047b3a88eb7b746506ba68278bd17596015ac14ad1a489b
+tx 12742d778d09d349b047b3a88eb7b746506ba68278bd17596015ac14ad1a489b blk 361836 txid 220
 720f8d2ff7544d9edd0509d921c3fa74d48c48d4
 
-tx 1bab006ded9f1da1ad8148f1a1318d2b354a1dc8498b570269a4d4b7e8554fdb
+tx 1bab006ded9f1da1ad8148f1a1318d2b354a1dc8498b570269a4d4b7e8554fdb blk 361837 txid 220
 17c96e034782c4ddbae979509aef104ca4e4501a
 
-tx 7086c3e4f4a863e7892e257156c484e983625f67587db38496425234aad4add1
+tx 7086c3e4f4a863e7892e257156c484e983625f67587db38496425234aad4add1 blk 361837 txid 222
 99e98cc823b7833fa655245116348b905c58dcb9
 
-tx 5b4bfa7ebab270edc9184ec61f3c561cd147b7c7e7272fe5f619c9d5f8e19a05
+tx 5b4bfa7ebab270edc9184ec61f3c561cd147b7c7e7272fe5f619c9d5f8e19a05 blk 361839 txid 44
 3e7651f204328d21f94704826e1608474ae829ef
 
-tx ab19efec99ddb5159a8ac27bc17413c7bb57b8e121d76073c4da64b3957663ed
+tx ab19efec99ddb5159a8ac27bc17413c7bb57b8e121d76073c4da64b3957663ed blk 361841 txid 92
 c665665bface69258962697ec2953ef76761671c
 
-tx 00f56c4da715fb9b88af53c3f49cec5ee75af6120386c9feec57103e4db8786b
+tx 00f56c4da715fb9b88af53c3f49cec5ee75af6120386c9feec57103e4db8786b blk 361841 txid 93
 f4c7c728a7d756488df1f4b02431886d47c15da9
 
-tx e2390c9d86f342542e72902ea7443a1b729a2a089ff43a4c9427929f3175e6c7
+tx e2390c9d86f342542e72902ea7443a1b729a2a089ff43a4c9427929f3175e6c7 blk 361841 txid 94
 471e2c627865a110644fd63efd5ce3166a1beec5
 
-tx ffeafcd1d3ff72faef208de16a0c15a14d1dcda2aac05981edc297efd15e9581
+tx ffeafcd1d3ff72faef208de16a0c15a14d1dcda2aac05981edc297efd15e9581 blk 361841 txid 95
 c80684d0d5ccf2af13f56e6a55254b246fe08e96
 
-tx 9dd7830e1f5e4cc87ab0eb5eefeb090921b0211ee677e726a45a29fba553312b
+tx 9dd7830e1f5e4cc87ab0eb5eefeb090921b0211ee677e726a45a29fba553312b blk 361841 txid 96
 a7d12cd287ed0d11d7ae5923889a2b666b6a640e
 
-tx 35e4d283316530b317059eb18372d20b4f1e4a563f714ff10f4bf1bcb0a82772
+tx 35e4d283316530b317059eb18372d20b4f1e4a563f714ff10f4bf1bcb0a82772 blk 361841 txid 97
 336f019bb804e30384401ffaa25269f5f14c9b2c
 
-tx 64c45f13de9dfdd1efe303870ee1d494670efb45bf7e1f1413f9c76a4963c741
+tx 64c45f13de9dfdd1efe303870ee1d494670efb45bf7e1f1413f9c76a4963c741 blk 361841 txid 98
 d9d9029ed45d46d5dd2a1bfaf8fb483de5c91685
 
-tx e92dd56708b33981b908db4348e943a28e2f29cc69662dbcfbcc04bf174c721d
+tx e92dd56708b33981b908db4348e943a28e2f29cc69662dbcfbcc04bf174c721d blk 361841 txid 99
 a3eb292e88738c8c7b119de66098c6f7fe67a7a7
 
-tx 18146ae3d1c7abe80249d979804b629e623191bfc3324ae2d614e1338337efb3
+tx 18146ae3d1c7abe80249d979804b629e623191bfc3324ae2d614e1338337efb3 blk 361841 txid 100
 76b5bd3533c539431b86632824fb241fc2291211
 
-tx 882c6bb30cc2d6be1d254e5df9177862a3f6b92c707d57f9c335c171b034df49
+tx 882c6bb30cc2d6be1d254e5df9177862a3f6b92c707d57f9c335c171b034df49 blk 361841 txid 144
 85d317baf71fd903239cae20807e636ac99337f7
 
-tx 9681edc8e0679c1be60e13afc0dae13a9f50461b5f1a84fedc024239a31bc409
+tx 9681edc8e0679c1be60e13afc0dae13a9f50461b5f1a84fedc024239a31bc409 blk 361842 txid 126
 f9dcf38c7c89a399456301d80bf022b2e99d820d
 
-tx 90faedaeedc4730c3b4b8e29ad968d5a8ecf88ab1b46cce917ceba4ce646fdc7
+tx 90faedaeedc4730c3b4b8e29ad968d5a8ecf88ab1b46cce917ceba4ce646fdc7 blk 361843 txid 55
 30b4e8531c0764106152c58e41690e87472fd4e8
 
-tx 6083d1e68786137480a9603f3ef35853dddcd3ff8cee12c9d7b235096dca89fe
+tx 6083d1e68786137480a9603f3ef35853dddcd3ff8cee12c9d7b235096dca89fe blk 361844 txid 32
 8b3b9af9137c56cc941b818189baf6936c9722c3
 
-tx e69ea92b81095d23d32a88790aa08d591f493d685f7ca53572b9c4443efbca82
+tx e69ea92b81095d23d32a88790aa08d591f493d685f7ca53572b9c4443efbca82 blk 361845 txid 251
 df15f0c2e2806b5f44fdb53ebf528b3dc242f104
 
-tx 95100ec44285c1e6f2bfc6a3cb68441e87e60af68b85562d3102a7b26450bfbd
+tx 95100ec44285c1e6f2bfc6a3cb68441e87e60af68b85562d3102a7b26450bfbd blk 361845 txid 271
 db3451ba36993df955c16d3ca61c9b42621a9a58
 
-tx be2a01e9fd465dee40b8e7dad87170d167a29b2d6a71d8b775680a96e07a86d1
+tx be2a01e9fd465dee40b8e7dad87170d167a29b2d6a71d8b775680a96e07a86d1 blk 361845 txid 274
 94bb90c75681032efe2dfe7778f0d467070ee9e6
 
-tx 51be2f8c0f7c2f7df62c812d6e72f06a2c0649da85e4ffb37285a9dc5990d65e
+tx 51be2f8c0f7c2f7df62c812d6e72f06a2c0649da85e4ffb37285a9dc5990d65e blk 361845 txid 394
 ace4fc427def52ada0bfb8de5573be7dd9eaa35f
 
-tx cda748a4ba5f4eddcd9244df87c2c034cc57b8cd3cb621dade21fadfb67c5704
+tx cda748a4ba5f4eddcd9244df87c2c034cc57b8cd3cb621dade21fadfb67c5704 blk 361846 txid 184
 9b2691484819d6f0e4e219885df7034ddb927871
 
-tx 3a1294455cfef77c691284301d5c0f901557eccaffdda4e116b19a559e01c5c0
+tx 3a1294455cfef77c691284301d5c0f901557eccaffdda4e116b19a559e01c5c0 blk 361846 txid 258
 a7b490329eaa5c688c3e4641d9ce78c7b6cbd5f4
 
-tx 5425c46d6c50e8c092901af78e9f3c9783e5b1e5dc4cc434c9b8ea8cb75e4133
+tx 5425c46d6c50e8c092901af78e9f3c9783e5b1e5dc4cc434c9b8ea8cb75e4133 blk 361847 txid 57
 4d00f078f99f5e71d258bb81e8d04ffe7f8ae787
 
-tx 547ef68a849c602d19bf7d3a23ecfc802cf728559b7e35854ec6f9c289d4f871
+tx 547ef68a849c602d19bf7d3a23ecfc802cf728559b7e35854ec6f9c289d4f871 blk 361848 txid 202
 c5d5ff92dc3b98e2df1301a64cdf7c436121ba85
 
-tx 97ed834468534a33e68b4fb8d0836f6df95fef36be57c8eb7cb9928678e2fd9f
+tx 97ed834468534a33e68b4fb8d0836f6df95fef36be57c8eb7cb9928678e2fd9f blk 361848 txid 382
 054a1bc24d9c7cbe2d7bd77948bc2c53e5d08cc0
 
-tx 88ea463eae8cb076cd8d95f48d79ce9abeb10493e102eccf933fe361faf0551f
+tx 88ea463eae8cb076cd8d95f48d79ce9abeb10493e102eccf933fe361faf0551f blk 361848 txid 384
 e588d465caaf329e8f40d6c95a29a574c47b6d6c
 
-tx f0260b25e09b398afbda9911b2c83f19522ea614333cdb144a06442e8a6ab9a5
+tx f0260b25e09b398afbda9911b2c83f19522ea614333cdb144a06442e8a6ab9a5 blk 361848 txid 396
 efdf7687a4b2059fd5dd2eca141cb545562ab143
 
-tx e6bd19fe512168bf8c92b00c30324c727b6cbf27ab53f8f5b0495c3d10ae3240
+tx e6bd19fe512168bf8c92b00c30324c727b6cbf27ab53f8f5b0495c3d10ae3240 blk 361848 txid 405
 63017e85713d800b9d31b5cb7af70187a338bac0
 
-tx 5bc52a4b8416a5777efa24328fd9b67530cc7ad8a774ef6acb5a0fed2948da63
+tx 5bc52a4b8416a5777efa24328fd9b67530cc7ad8a774ef6acb5a0fed2948da63 blk 361850 txid 238
 6aeb6c1cd86498d7118306868dd4b74da9065c64
 
-tx 927f4f5fe1dab4ec33ee42dd376583e0edec803b806f08e5b02e5e7e91140a47
+tx 927f4f5fe1dab4ec33ee42dd376583e0edec803b806f08e5b02e5e7e91140a47 blk 361850 txid 367
 d7b96ca47696c5dcf88e9b4e6f46f2fecd271ba8
 
-tx 87c83dcb6f3804cc7ee2aeba0639c3de66ffc24c27e2d4bed56ddee776d63330
+tx 87c83dcb6f3804cc7ee2aeba0639c3de66ffc24c27e2d4bed56ddee776d63330 blk 361850 txid 378
 52e97124855a5d055f181507de4c9f6c1d4636d4
 
-tx 5db602d15cc670c1e8dbfd983354eed7251990ffe486af138f879c85da7901bc
+tx 5db602d15cc670c1e8dbfd983354eed7251990ffe486af138f879c85da7901bc blk 361850 txid 382
 4b617559cc501b4d9458f42a2ad6d617b50d0d14
 
-tx 086664c76264b4ef0fefa67c118dc16c9032063e459214b1cb4cfd817d4d2c37
+tx 086664c76264b4ef0fefa67c118dc16c9032063e459214b1cb4cfd817d4d2c37 blk 361850 txid 1147
 Fund  aworldapart.us
 
-tx cf62a91634cbeef6dbb0f3b8c68f5e336688c527a9bf04ddb51143d7b431ed1e
+tx cf62a91634cbeef6dbb0f3b8c68f5e336688c527a9bf04ddb51143d7b431ed1e blk 361851 txid 125
 cd1b0b497d3e73cbd0e9c36b7195e284b1c1a42d
 
-tx c0008dd2ae9749050ea9a81ca9d4c8112eb1fc529eebf87125bce946de8709e5
+tx c0008dd2ae9749050ea9a81ca9d4c8112eb1fc529eebf87125bce946de8709e5 blk 361851 txid 249
 28874a3ecd831331479aee2736bf9dd0fce1a1b2
 
-tx 795e497ae6e9ddd43855a11dda88925d9b5504a3e85d5c39aea72cce7abcc4c1
+tx 795e497ae6e9ddd43855a11dda88925d9b5504a3e85d5c39aea72cce7abcc4c1 blk 361851 txid 268
 4f0242c66e4c1118924573dbfef7deace7a2080b
 
-tx 39ba2c810aae14114f65608aabba83f8aa54ba38c25d6f093b5a79638713acd2
+tx 39ba2c810aae14114f65608aabba83f8aa54ba38c25d6f093b5a79638713acd2 blk 361851 txid 274
 10d385a4548f58bb42b304e7bb5695a9a23ee3a1
 
-tx 84eeb8d0e2c5b29c5cd2834818e6e976496f4b035a88e02617b40998441068fe
+tx 84eeb8d0e2c5b29c5cd2834818e6e976496f4b035a88e02617b40998441068fe blk 361852 txid 200
 f35d5355e83bdc76d1ebf561635214ea4167bc52
 
-tx 0187ad75aa26e6e429ad9d1cfcd603e9a75369024c9c7b390fdd3c1a844c50f0
+tx 0187ad75aa26e6e429ad9d1cfcd603e9a75369024c9c7b390fdd3c1a844c50f0 blk 361852 txid 287
 d951966fd6ee8bc48b1a32ad6b13e53dfcdbc7a5
 
-tx 31e65d7fbdacdeab29dc304a2955bf028bb124c077c52fcb0c6ea2c5c4445a5b
+tx 31e65d7fbdacdeab29dc304a2955bf028bb124c077c52fcb0c6ea2c5c4445a5b blk 361853 txid 160
 6654f5534750db440e2043d9a4b73fb823fde205
 
-tx 092408b2307464d397fda41915d3ba2fc648e44f0275c6b892a9687abf8503f7
+tx 092408b2307464d397fda41915d3ba2fc648e44f0275c6b892a9687abf8503f7 blk 361853 txid 293
 cb2781f746ceab6d13385c32d58e21c5d9a9ebd2
 
-tx 8801046ffde8482ea330c44b2f606a19c9d19cf94034013d4d09f928969ac138
+tx 8801046ffde8482ea330c44b2f606a19c9d19cf94034013d4d09f928969ac138 blk 361853 txid 295
 a935bf0b1aa082b9181c55c6fd417a760f077422
 
-tx 8f894c2117639da6cad353397224ad63bcb87fd87156c900f1c118f6fe8a3de7
+tx 8f894c2117639da6cad353397224ad63bcb87fd87156c900f1c118f6fe8a3de7 blk 361853 txid 297
 ad6e0c2057cdaa1fa460416f46efe0275d4b9786
 
-tx 1095234668aa645b61efe0410577e0d4f546af01afd42cdbdb61c411d11b0663
+tx 1095234668aa645b61efe0410577e0d4f546af01afd42cdbdb61c411d11b0663 blk 361853 txid 591
 zASCRIBESPOOLREGISTER
 
-tx 216373649b4eab666ca8e23d340093475d61a558421eb79e9bbea0373dae8b8e
+tx 216373649b4eab666ca8e23d340093475d61a558421eb79e9bbea0373dae8b8e blk 361853 txid 592
 zASCRIBESPOOLREGISTER
 
-tx 067c20042d2c2a792b061e549b92068ea76418f4115d8040a58d40de53416aea
+tx 067c20042d2c2a792b061e549b92068ea76418f4115d8040a58d40de53416aea blk 361854 txid 184
 249c96f6691624b1c9ef0d26653a7b6b9e246e8e
 
-tx 9cf79bd48a79c4312a8ca5c660f76f4e9c71f35d0e0c4b5f2ad26582eedbf5b1
+tx 9cf79bd48a79c4312a8ca5c660f76f4e9c71f35d0e0c4b5f2ad26582eedbf5b1 blk 361854 txid 286
 743c8c4238ec4136ea67f064c3857298355fe63f
 
-tx 45de442b3ef79e5c2d91f6be977fccac1f4b2967b129bf8410fb9e7ffce543c3
+tx 45de442b3ef79e5c2d91f6be977fccac1f4b2967b129bf8410fb9e7ffce543c3 blk 361854 txid 288
 be8a307ea7b4860e6af36ddc580af936bf574a17
 
-tx 41b4ef235869a83ec25c9f82e095caf142ebc6f66febc4ce3c2b8a49ab03c625
+tx 41b4ef235869a83ec25c9f82e095caf142ebc6f66febc4ce3c2b8a49ab03c625 blk 361856 txid 312
 3826bb980d0aea9253b7b32862a1a70fbebc4288
 
-tx 03f0136c4bbac88225dd6e8e6eee5a895d40d3d6e1a29fb1e14e700fb96b2d78
+tx 03f0136c4bbac88225dd6e8e6eee5a895d40d3d6e1a29fb1e14e700fb96b2d78 blk 361856 txid 338
 6c7773c61acba122451c9422fb82f9c0f13ee262
 
-tx 548f5b9fc35053f98a4cec06c247173a62c958e9c65aa1b52c6a7e6f1bff6c90
+tx 548f5b9fc35053f98a4cec06c247173a62c958e9c65aa1b52c6a7e6f1bff6c90 blk 361856 txid 342
 53bc24a777c4162b1da75cd23ad3dd87779d9bd1
 
-tx 2d9c56af4daf65e698d32cd4fcce24ad694220e577c9a3c1b480e59b136bf1ee
+tx 2d9c56af4daf65e698d32cd4fcce24ad694220e577c9a3c1b480e59b136bf1ee blk 361856 txid 345
 7aefee6785977e359932a80d9eb0e5374ad292b0
 
-tx 45f820ab6b94261813103b69d31a178be56a1ef11876dd655a1e42070067bc23
+tx 45f820ab6b94261813103b69d31a178be56a1ef11876dd655a1e42070067bc23 blk 361856 txid 597
 ASCRIBESPOOLREGISTER
 
-tx c0703b2dd2613d6747cd39b8a6a718ca3b5da84f56a5de080c6307cc6812ff71
+tx c0703b2dd2613d6747cd39b8a6a718ca3b5da84f56a5de080c6307cc6812ff71 blk 361856 txid 697
 zASCRIBESPOOLREGISTER
 
-tx 05481d81ff02da353b693f378033baf20635731a39e76872a63601851fc88421
+tx 05481d81ff02da353b693f378033baf20635731a39e76872a63601851fc88421 blk 361856 txid 698
 zASCRIBESPOOLREGISTER
 
-tx c402fe17c79f8356c55dbd01a05c2e0b69c122115f1d1f9f0a74038f3503613f
+tx c402fe17c79f8356c55dbd01a05c2e0b69c122115f1d1f9f0a74038f3503613f blk 361856 txid 699
 zASCRIBESPOOLREGISTER
 
-tx e61e2a5124b19888f13d034d650d636862eae10b485e3ab73bc85dfab21b527e
+tx e61e2a5124b19888f13d034d650d636862eae10b485e3ab73bc85dfab21b527e blk 361856 txid 700
 zASCRIBESPOOLREGISTER
 
-tx 0fdcfcb7113c7e606d3d3a2d17c8a26b29487f8f2c63a2b09ab57116c1499230
+tx 0fdcfcb7113c7e606d3d3a2d17c8a26b29487f8f2c63a2b09ab57116c1499230 blk 361856 txid 701
 zASCRIBESPOOLREGISTER
 
-tx 47c7ea02fccf2a6201d566caebb84f34e716ac4a2898c695532932e0c9177a05
+tx 47c7ea02fccf2a6201d566caebb84f34e716ac4a2898c695532932e0c9177a05 blk 361856 txid 702
 zASCRIBESPOOLREGISTER
 
-tx 4278e25b6487afc5b49dad36679c4785f7bde93c5db62dcc07c4600b31aab8f8
+tx 4278e25b6487afc5b49dad36679c4785f7bde93c5db62dcc07c4600b31aab8f8 blk 361856 txid 703
 zASCRIBESPOOLREGISTER
 
-tx bcfd70a3299f5df6c1ab071fc327efd6430cdd8d0938763c5a979bb1e67ef0d2
+tx bcfd70a3299f5df6c1ab071fc327efd6430cdd8d0938763c5a979bb1e67ef0d2 blk 361856 txid 704
 zASCRIBESPOOLREGISTER
 
-tx 73f9fda4fcd1746aaf73135c9d8416586c9910cf47406d0d978884d94706b931
+tx 73f9fda4fcd1746aaf73135c9d8416586c9910cf47406d0d978884d94706b931 blk 361856 txid 705
 zASCRIBESPOOLREGISTER
 
-tx 8a23cf64b2cfdd01ac864bb3e591d27dfdc8cda46a2a01b2f9e89d971692e398
+tx 8a23cf64b2cfdd01ac864bb3e591d27dfdc8cda46a2a01b2f9e89d971692e398 blk 361857 txid 269
 79fceb5e941e120af694c7f53fef32ff1b27a355
 
-tx 34e7bbbf54d9bc96775fd28cd5ee92d3c57fd8b82dd54b5c481030fce365bbe0
+tx 34e7bbbf54d9bc96775fd28cd5ee92d3c57fd8b82dd54b5c481030fce365bbe0 blk 361857 txid 271
 d50047c7ffa3f0b796b9a0354eac62a12ac1bb00
 
-tx 1d6720e9bf331989f79c619fb619cf648fe77e8858823235dd3f61eef2bef904
+tx 1d6720e9bf331989f79c619fb619cf648fe77e8858823235dd3f61eef2bef904 blk 361857 txid 273
 cd29dbbd2d40e3bfa95151ef7d48009904cb574e
 
-tx 4fa9e89d662fb1141c5e114ac1261e228a20d708c0917dbd46eee59ad4bc9681
+tx 4fa9e89d662fb1141c5e114ac1261e228a20d708c0917dbd46eee59ad4bc9681 blk 361857 txid 573
 zASCRIBESPOOLREGISTER
 
-tx 59a38a04d1a12dd8de0c7b2c50db890083bc17f362168833062cbb6ec9417b2a
+tx 59a38a04d1a12dd8de0c7b2c50db890083bc17f362168833062cbb6ec9417b2a blk 361857 txid 575
 zASCRIBESPOOLREGISTER
 
-tx 2084b226564313f423577d11ae2c45df9890981c38bda4ea9a4fb00cb03d8276
+tx 2084b226564313f423577d11ae2c45df9890981c38bda4ea9a4fb00cb03d8276 blk 361857 txid 576
 zASCRIBESPOOLREGISTER
 
-tx ca8c9e0d4e3b6d3692aeb32d4c75683ecdbb8050be7269ad527fcc809fe6f264
+tx ca8c9e0d4e3b6d3692aeb32d4c75683ecdbb8050be7269ad527fcc809fe6f264 blk 361858 txid 153
 4e7a1eb9ecf8ec8596d6d36b8c03496b1d2bc3b9
 
-tx 3289ca849bb39f9c4690813d227c9b56f92000c9275608acdc5ed348a59515cd
+tx 3289ca849bb39f9c4690813d227c9b56f92000c9275608acdc5ed348a59515cd blk 361858 txid 170
 7530bc1223fe32aa7a14590f270f127bdaedd45f
 
-tx 2458fcf91fb99fcd380ffdf48f817dd4374c318daf36ea3119122bae1efbf99e
+tx 2458fcf91fb99fcd380ffdf48f817dd4374c318daf36ea3119122bae1efbf99e blk 361859 txid 86
 58c0f7b1df6579447a3374f097a5300479e97797
 
-tx ecfeaa4b3e1af8cd7d6a8b49d243418820c3334aea9353798abc4f400c0057df
+tx ecfeaa4b3e1af8cd7d6a8b49d243418820c3334aea9353798abc4f400c0057df blk 361859 txid 96
 6c62856414e377051388a181ee3f746189a12d1b
 
-tx 6b4ef3b7a4be0b72da29c3dae237d1e10d944f07be9986d9fcf7de8de9332400
+tx 6b4ef3b7a4be0b72da29c3dae237d1e10d944f07be9986d9fcf7de8de9332400 blk 361861 txid 364
 13c038e495bc3b96d7dfb65f6c77fcb96f712645
 
-tx a69e821bca8914df430fa840449b92820e7dd7eb42d0f3d4c4da3573a470211b
+tx a69e821bca8914df430fa840449b92820e7dd7eb42d0f3d4c4da3573a470211b blk 361861 txid 590
 34dfb7173bd80f3708dad7a4176662bbc6df1e14
 
-tx d2806880c71376133fae55f2c87a7bf394725c436fdbec555094626ce391754c
+tx d2806880c71376133fae55f2c87a7bf394725c436fdbec555094626ce391754c blk 361861 txid 593
 52ef8b15d4806027552c22a27337fef0e58c6800
 
-tx 840a910a2399664a394b53cb6fe0674ee2a7f95980b19320d039eec7d06ff19d
+tx 840a910a2399664a394b53cb6fe0674ee2a7f95980b19320d039eec7d06ff19d blk 361861 txid 595
 ce8281a6f86699f0e90c893646043ee417d16ef2
 
-tx 811466e676eb7bb0ef98774b2d52ae3691f2ddf51eb804509c8b0f7b16639559
+tx 811466e676eb7bb0ef98774b2d52ae3691f2ddf51eb804509c8b0f7b16639559 blk 361861 txid 598
 c2fe851b8e6d06e5eca898c5c7cbd3012d38a09a
 
-tx e50cb095025ddfde46a94a5c1fd7e32bdb364164b9888f0e6aebb7f88e7c5162
+tx e50cb095025ddfde46a94a5c1fd7e32bdb364164b9888f0e6aebb7f88e7c5162 blk 361861 txid 601
 3beb2ec5370b2d7745963d2658cd4f4acd51f3ca
 
-tx 07adfb34f74c093e3900c4c6e97acd07770b143af495ebc43fe8121e9250e4a5
+tx 07adfb34f74c093e3900c4c6e97acd07770b143af495ebc43fe8121e9250e4a5 blk 361863 txid 116
 6d4b1e1e01df72f2152fbd7ad426970461f8b4f8
 
-tx 04c1c591f41ecbc73a1d2ad2a02f15fc89086a06fa6c21054df086dca538df2d
+tx 04c1c591f41ecbc73a1d2ad2a02f15fc89086a06fa6c21054df086dca538df2d blk 361863 txid 136
 3de79bce1297106bc39996611af1ce3dd59ad72c
 
-tx 0cfd90b186eaeceb78c1a08a47bd3415a33d3e854a210726e4bfbd6b5a6ff106
+tx 0cfd90b186eaeceb78c1a08a47bd3415a33d3e854a210726e4bfbd6b5a6ff106 blk 361863 txid 433
 zASCRIBESPOOLREGISTER
 
-tx 59b086e3c1862d4f647ffe7fadff2aa7370a650bd680661f543e9622342a0b07
+tx 59b086e3c1862d4f647ffe7fadff2aa7370a650bd680661f543e9622342a0b07 blk 361864 txid 162
 7823b91a536d8d53f3fdd4e5d3d849aa1d00acc5
 
-tx 7e8141824a219175b879836935a5942eaf8031044009c8a9790c47ac49d77bc1
+tx 7e8141824a219175b879836935a5942eaf8031044009c8a9790c47ac49d77bc1 blk 361864 txid 170
 b7f7c2ae7566c1a4f53c05e726cdc2d41092e8b1
 
-tx bb352aaf0079e5ce0a3c32b8f6e84862bc412dc880de247188aaa2b466d2b9f5
+tx bb352aaf0079e5ce0a3c32b8f6e84862bc412dc880de247188aaa2b466d2b9f5 blk 361865 txid 171
 3a77dc951050944c2ff27725158a4f0323461ced
 
-tx 22e6c0d1eaa76b0727d582e70116168a175da01139bc0fcf2436bc8c8d270cbb
+tx 22e6c0d1eaa76b0727d582e70116168a175da01139bc0fcf2436bc8c8d270cbb blk 361866 txid 190
 0e9bedd85a948283607fa157e87814775096c7bb
 
-tx b8a7f3ed277752bf990528355febc210a9e5083f161b3baeaec96531bc584be8
+tx b8a7f3ed277752bf990528355febc210a9e5083f161b3baeaec96531bc584be8 blk 361866 txid 332
 668f9eb81f0730dc4c5bf553b89f172c2f779d4e
 
-tx a3bc80d14cc23141ae253a207b58f8733c88b13af904925ade3662b90957ecd5
+tx a3bc80d14cc23141ae253a207b58f8733c88b13af904925ade3662b90957ecd5 blk 361866 txid 340
 04b2a1f31cb5a0d31ff496ab74ddeb3856c38d0a
 
-tx e7eb1e0e80b1c48901b64745b3ff0f005cb58098f52297b27d12d23c840d004c
+tx e7eb1e0e80b1c48901b64745b3ff0f005cb58098f52297b27d12d23c840d004c blk 361866 txid 342
 21a16977d387f94700dca25881c5836237650925
 
-tx 5e3dbf455dc5dc59dbd66f562e9fcc5b8f7ea7825d50657b75c854f9ad03afb9
+tx 5e3dbf455dc5dc59dbd66f562e9fcc5b8f7ea7825d50657b75c854f9ad03afb9 blk 361869 txid 272
 8fd650b87b2400d14f495d143a873c9c97cd6202
 
-tx 8390be7dc98bd4718a09068c7d34d5f8d4a7d502b6b64c3e07d191f0eec40e20
+tx 8390be7dc98bd4718a09068c7d34d5f8d4a7d502b6b64c3e07d191f0eec40e20 blk 361869 txid 364
 265cc54eeab00c5b93a755c06cfec1f03d49c069
 
-tx 5f771cd5a2dd3173f9a7f58fb958289baa549e2104ddc451c57817b54d6716a9
+tx 5f771cd5a2dd3173f9a7f58fb958289baa549e2104ddc451c57817b54d6716a9 blk 361869 txid 376
 3baf5cef0030d802cf7d70d6f773d6eb18d70ff9
 
-tx 8b28a978afc8d82c803e0548e54af069e4373b14ab3cc4c152d9dfe94dbdd1ee
+tx 8b28a978afc8d82c803e0548e54af069e4373b14ab3cc4c152d9dfe94dbdd1ee blk 361870 txid 257
 90165b4e39e905ab0f6b523cc1ed7c13d5f051e3
 
-tx 1fae1216d5de5c133ab54916df8c2db2a7dc51f5faead2e1eaa5b10be3df5542
+tx 1fae1216d5de5c133ab54916df8c2db2a7dc51f5faead2e1eaa5b10be3df5542 blk 361870 txid 259
 b94a6c3cb0254f85c08db3e16def8343f55fb933
 
-tx 4318200e575cdf4abde2e63675522f80c659f6bad58efab6b3044efc94154df7
+tx 4318200e575cdf4abde2e63675522f80c659f6bad58efab6b3044efc94154df7 blk 361870 txid 269
 5ada3c17a7d84d49833d185af931f86755b18181
 
-tx bd8a4bcbe5b1222b8e43076f8a3fd8905ba81d3d7f3cce1a9f3990453aa7b9b9
+tx bd8a4bcbe5b1222b8e43076f8a3fd8905ba81d3d7f3cce1a9f3990453aa7b9b9 blk 361871 txid 144
 915298f8816d11dfdba063367aca44fcd77d6eae
 
-tx 92b6d0abc1df1043e9a9b870349b7e835a6d193ad8d2757c1e9e7744e26df20d
+tx 92b6d0abc1df1043e9a9b870349b7e835a6d193ad8d2757c1e9e7744e26df20d blk 361872 txid 365
 3e874e699b1066c822ef0e8d0a0ddfa01cd55cb2
 
-tx f4fd27890fecd97c7b26b7c1d96b96f17c3968d9f8c9154329c8363f7f26e239
+tx f4fd27890fecd97c7b26b7c1d96b96f17c3968d9f8c9154329c8363f7f26e239 blk 361872 txid 367
 ec3eadbc3766072fefe4690360d054dca8cb4246
 
-tx c39bd6fae42307603430948eb78d1e5a90d654c76c6547faa9caa067584bbefb
+tx c39bd6fae42307603430948eb78d1e5a90d654c76c6547faa9caa067584bbefb blk 361872 txid 369
 2e6685e9a822574463beb0342dca138e9671b913
 
-tx 94cdc8b615cfa3aaef0a4af33b4de5ca3774a71e7f736ad7c583230a76ef45cb
+tx 94cdc8b615cfa3aaef0a4af33b4de5ca3774a71e7f736ad7c583230a76ef45cb blk 361872 txid 393
 e7d7dec3120c9cb67383e7d76695cc201433748d
 
-tx a8041d3603a6d9e21195e168f5f2c2ee1ebf07befcb6a1cd0123d5d02e922191
+tx a8041d3603a6d9e21195e168f5f2c2ee1ebf07befcb6a1cd0123d5d02e922191 blk 361873 txid 99
 596d5b86d4f1fce0c656150b1a37f70654a1f0ea
 
-tx 604dd5a0d21b099d3cbbdb772b400a97d07eb35e495f257c2976f624b47a6c08
+tx 604dd5a0d21b099d3cbbdb772b400a97d07eb35e495f257c2976f624b47a6c08 blk 361875 txid 56
 af8af5dc3ac1d9e54d6b3d9699bd3d3f609c15d3
 
-tx 3a3e1558b606adee4e3c8f20fba13aa95be5ae865679543e1e9913bbbbf1df53
+tx 3a3e1558b606adee4e3c8f20fba13aa95be5ae865679543e1e9913bbbbf1df53 blk 361876 txid 663
 050df7cf9d1e7e497a923f3954511d75b03cfea9
 
-tx 9341e74bf18f33d8ba6d61265d4ab21e815899e702f4355b7bb7af2b0b8e436f
+tx 9341e74bf18f33d8ba6d61265d4ab21e815899e702f4355b7bb7af2b0b8e436f blk 361876 txid 702
 5d0ca4dd293169d4aa688fa648b6fb320b8349a9
 
-tx 2df949693533e513f0cb6e320954963eb0833802e70deb50def124f3ef12d08b
+tx 2df949693533e513f0cb6e320954963eb0833802e70deb50def124f3ef12d08b blk 361876 txid 1093
 adf201d062c698c4ad7e47f8761d9fe73a171fb9
 
-tx ed06ddfcf0471f18181a636d38bed552c74e44dc1353ae6419b2d5363146719c
+tx ed06ddfcf0471f18181a636d38bed552c74e44dc1353ae6419b2d5363146719c blk 361876 txid 1142
 a802ec4006ff0d67761f2c9f9d4ae59804e3b9e6
 
-tx 33ad59f6080bfa92d250759cbc76a4ef11f1ee798d5d17efd95fdab1ee718bf5
+tx 33ad59f6080bfa92d250759cbc76a4ef11f1ee798d5d17efd95fdab1ee718bf5 blk 361876 txid 1144
 d68b40103d0a98667203ca292da679ce442cc8a7
 
-tx 3e5b5dcc76d108b80eb5ce834e51d9a996b304fb7dad31ae5e0bb2ed3b90b234
+tx 3e5b5dcc76d108b80eb5ce834e51d9a996b304fb7dad31ae5e0bb2ed3b90b234 blk 361876 txid 1156
 a4d904868f1935685097f7dd31c3fc385c481623
 
-tx 1dc612e521cfaa178150bc75029acf797e9fbf04d3704fc9f1bbe03984dd2b9a
+tx 1dc612e521cfaa178150bc75029acf797e9fbf04d3704fc9f1bbe03984dd2b9a blk 361876 txid 1158
 37c6dacc61043e001e2dd6985c32f6c4a0ffc726
 
-tx 5d0af552a309861ba0924fa3e2b2421b4cc2d09e8612cc25d9b560a0904942f8
+tx 5d0af552a309861ba0924fa3e2b2421b4cc2d09e8612cc25d9b560a0904942f8 blk 361876 txid 1160
 9647707ff8296a176736b867bd924b261c4bb3ff
 
-tx d91f55cd1a6cfb4b102650ea5b1949fc5489a6beb534b80069970c3ae9ee646c
+tx d91f55cd1a6cfb4b102650ea5b1949fc5489a6beb534b80069970c3ae9ee646c blk 361876 txid 1184
 9570bcdf12be056b1df9696cc4137cfb03f81c5f
 
-tx 515e807c131c5160a150002f558100d48ec98cdab0025c6c7c0048058c1a6e5c
+tx 515e807c131c5160a150002f558100d48ec98cdab0025c6c7c0048058c1a6e5c blk 361876 txid 1201
 cf297a318449fc72ef023a6f7501d6b003f1f47d
 
-tx 5c8e1039637c8b4464cf477950969bee0b21395a25d0d4e4bc0c724110ba832c
+tx 5c8e1039637c8b4464cf477950969bee0b21395a25d0d4e4bc0c724110ba832c blk 361876 txid 1203
 7c99e2d4c8b5612553a5e2de0e7d699281083212
 
-tx 9334e52c79fef4eb763de5b888fcd18939d3b0e1eb1267831890c600d819d0f7
+tx 9334e52c79fef4eb763de5b888fcd18939d3b0e1eb1267831890c600d819d0f7 blk 361876 txid 1216
 63605b8034b66cbbf2008b6f5ed43c3d83199382
 
-tx c21e16daf14b872d32d9c6b12026278a21bf8b4ad1f447377c518c690146b1f1
+tx c21e16daf14b872d32d9c6b12026278a21bf8b4ad1f447377c518c690146b1f1 blk 361876 txid 1218
 d036241f8eb11a16ff2cab1d52344b035a4bc620
 
-tx 42e92c97cfac76ba47d496cba481a4c18f0fd5ca6f81d57faaac2c28a407fb5c
+tx 42e92c97cfac76ba47d496cba481a4c18f0fd5ca6f81d57faaac2c28a407fb5c blk 361876 txid 1232
 d9bbf0c94ec7257b80f6c21954d144c54cf3169f
 
-tx 95b222879ecef91baad07a9746b9472c9824555528521d4c1d99af8344e58349
+tx 95b222879ecef91baad07a9746b9472c9824555528521d4c1d99af8344e58349 blk 361877 txid 168
 6b34930bedbce3937e54859e695e5f9afa48103e
 
-tx 754080466a51c70e47945f7d44d33176ad708066376717e78b51447cf63d0d06
+tx 754080466a51c70e47945f7d44d33176ad708066376717e78b51447cf63d0d06 blk 361877 txid 191
 6d2812835d204142cb45783997acdb4fcaa558a5
 
-tx 7915e180f798f016cba453f39bb15704a95d3aee15c86e8c8d2e1b54b0daa8a8
+tx 7915e180f798f016cba453f39bb15704a95d3aee15c86e8c8d2e1b54b0daa8a8 blk 361879 txid 149
 be70be61aabaeeedb9db1c6fd834725e8ceed3e2
 
-tx e987ae3ee42e4209cb6702dbcd319a6f73a003a56acd2932f14206d60781866e
+tx e987ae3ee42e4209cb6702dbcd319a6f73a003a56acd2932f14206d60781866e blk 361879 txid 151
 84108279447be5a2a2c04f2e860de555b98a5122
 
-tx 496742890eece831ac7c386dadf51ded88ad425cb9aa64d8c81384a3eda8e58c
+tx 496742890eece831ac7c386dadf51ded88ad425cb9aa64d8c81384a3eda8e58c blk 361881 txid 244
 37fb0364c7a9aeaa75bc98a8655a0cddfd3f5f03
 
-tx 6b03ff1561e1cb822d321af5ac4359c53fc0884b110a029a66ca72264cd9bdb4
+tx 6b03ff1561e1cb822d321af5ac4359c53fc0884b110a029a66ca72264cd9bdb4 blk 361881 txid 246
 12c8a42a66210ca517e3a7ad77772801589aaa80
 
-tx 1f274cf6c12c556b1a1da6f325966f03a8a4bb0494a8b35f2d9f9c9e16f6f561
+tx 1f274cf6c12c556b1a1da6f325966f03a8a4bb0494a8b35f2d9f9c9e16f6f561 blk 361881 txid 265
 0b184366d7bb8e12ddef8d26011a76bbc748e2f1
 
-tx ec2c4897d46e983e8ee97a29723348beefe0ba76613eaf1357ca339dd51bc154
+tx ec2c4897d46e983e8ee97a29723348beefe0ba76613eaf1357ca339dd51bc154 blk 361882 txid 466
 893983c115c59c7a0900a1627b9e8de014ad222a
 
-tx 6f4d197388b7332a0ed5e39ad229af0edaa551977da80ca464a197687d5cb84f
+tx 6f4d197388b7332a0ed5e39ad229af0edaa551977da80ca464a197687d5cb84f blk 361882 txid 515
 b2fc606c280f3b5635e0464cb73b7ef47f955720
 
-tx 8153716183061930ee23a917b48bd5d8d64fbcb824fd71e371d4c42c4fb65694
+tx 8153716183061930ee23a917b48bd5d8d64fbcb824fd71e371d4c42c4fb65694 blk 361882 txid 527
 35c428acae2e46f791306aa80df034693e76c270
 
-tx 9bb65dfda04a329ecbc7ca3cb4a3b6ad0ef1d2b39ab1e488841e0ee8162a2d5d
+tx 9bb65dfda04a329ecbc7ca3cb4a3b6ad0ef1d2b39ab1e488841e0ee8162a2d5d blk 361882 txid 535
 f95ccbda010c1c4c88f232ccdaeea2254db2a3b0
 
-tx f4da325227e43cb1668a67a61d2521831d6c1a0988308855b8fc43eb06c7af41
+tx f4da325227e43cb1668a67a61d2521831d6c1a0988308855b8fc43eb06c7af41 blk 361883 txid 189
 6d081aeb29ef6718374c76acc9333383b2655aaf
 
-tx f5a9fbcaa12a6f15761ee4ac9b128a6c17e3ab7206afc530cc4f41b63ab7d3ff
+tx f5a9fbcaa12a6f15761ee4ac9b128a6c17e3ab7206afc530cc4f41b63ab7d3ff blk 361884 txid 65
 27f7fef9a67f8691e15da27d78a50716b20568e6
 
-tx 3db7094fd448e9d8c4ecc66cd4b28ed1033ccf7daa110446013024fe21f32f7f
+tx 3db7094fd448e9d8c4ecc66cd4b28ed1033ccf7daa110446013024fe21f32f7f blk 361885 txid 453
 dfdeeff4edaef2829ad678e44151b1c440cdc997
 
-tx 41178d2511d3b45c381790e7a30c37789bb32c9e75e877d8a8e98e153053a775
+tx 41178d2511d3b45c381790e7a30c37789bb32c9e75e877d8a8e98e153053a775 blk 361885 txid 481
 fa94bde17b1f4d97f2f28278f2d8dea4a291d468
 
-tx 2e7d1029e1e159d96de3d0d3d67b41ccb22342d72134963a6cba5c25a708546c
+tx 2e7d1029e1e159d96de3d0d3d67b41ccb22342d72134963a6cba5c25a708546c blk 361885 txid 483
 db25560c7e82739c11c82eb66eb9f8a0cecd61b9
 
-tx b0f637363ab8a3d2acaf2d85766d318828e0fcec0249da06c11cb882932ba36d
+tx b0f637363ab8a3d2acaf2d85766d318828e0fcec0249da06c11cb882932ba36d blk 361885 txid 494
 abf361dbeec2e6eec6c7e67925e4718c0f947200
 
-tx f39f1e7cc68a9ce2cb7f2a63d981dc0d58ae7c57a8457da586fe9f81ad507d2c
+tx f39f1e7cc68a9ce2cb7f2a63d981dc0d58ae7c57a8457da586fe9f81ad507d2c blk 361885 txid 501
 b38b6c08354fd656f7dd5ef1b33d344daba5163b
 
-tx 91f3606f60ad2b98e2c9473e82a4b1c7f3578f7ad807684130a6b6350e65f014
+tx 91f3606f60ad2b98e2c9473e82a4b1c7f3578f7ad807684130a6b6350e65f014 blk 361885 txid 910
 zASCRIBESPOOLREGISTER
 
-tx fc09ebc25b6b1166f039d301be8a36147b236517370addfae0f41392a11c27e7
+tx fc09ebc25b6b1166f039d301be8a36147b236517370addfae0f41392a11c27e7 blk 361888 txid 80
 9fc7fd4700c874f8f3429249bd786915c82edbd9
 
-tx ac956923f9793e3b6c9e0021d9e78fa6e4e1ef8e7b03f8424a306f2514497b9a
+tx ac956923f9793e3b6c9e0021d9e78fa6e4e1ef8e7b03f8424a306f2514497b9a blk 361891 txid 801
 e414609c669768bf397bc58b22fcc7978ca72250
 
-tx 5549bb3396af8455623811b92e721383545528070da6388c9b9622d61537feaf
+tx 5549bb3396af8455623811b92e721383545528070da6388c9b9622d61537feaf blk 361891 txid 803
 0a56884676e8848469d4a0700f4aae8bbe56591c
 
-tx 99cab3a6a9ab6fc11d09eaa290b158931372ffa1fb8c52d083d9725d0679f50c
+tx 99cab3a6a9ab6fc11d09eaa290b158931372ffa1fb8c52d083d9725d0679f50c blk 361891 txid 930
 dca98396f1c4027d0a76d5f17cfbbef24aea3dd8
 
-tx 4df3ba6cae634f94720bee9b2e0c21a9606112382e52bb316973a878d5c43a83
+tx 4df3ba6cae634f94720bee9b2e0c21a9606112382e52bb316973a878d5c43a83 blk 361891 txid 935
 9e3cdb291ddfd8976a1b493287b4a90cbe7bf799
 
-tx 3de7b43f7461be1d765492f6c56490d9ac11fafc02e1c982cfb95e0815005219
+tx 3de7b43f7461be1d765492f6c56490d9ac11fafc02e1c982cfb95e0815005219 blk 361891 txid 953
 1b007aa27952a8c17c2c453249cccf00ee1b6210
 
-tx 5af1a0e4bc3afb64920f2d63f5fc38b61d492c84e34a1498036658e5ceb56f4b
+tx 5af1a0e4bc3afb64920f2d63f5fc38b61d492c84e34a1498036658e5ceb56f4b blk 361891 txid 981
 30661081441663b99380ff6cb7b2816ee6072138
 
-tx f2ceb337522399fc69e77732b6f37ebd8fa1414622ccb2da581ab571b868b66a
+tx f2ceb337522399fc69e77732b6f37ebd8fa1414622ccb2da581ab571b868b66a blk 361891 txid 983
 847104d452a245845e5f306677294ceca641894a
 
-tx caa661009a9c2acbaf18a74bf7e8d089dbc50e359e7e6266a2267c926e7db868
+tx caa661009a9c2acbaf18a74bf7e8d089dbc50e359e7e6266a2267c926e7db868 blk 361891 txid 985
 aa28dff256d5a327aab78a99f0e552b6f76e798e
 
-tx 5c107cab8c00b20387506db3c365eb7065fa975a02827705989cb8666e0b39dd
+tx 5c107cab8c00b20387506db3c365eb7065fa975a02827705989cb8666e0b39dd blk 361891 txid 998
 fcfe53d762c0c010a5c167ffbfa31cb2022ea523
 
-tx 3b165c59f0b4311e6a71536bf07e0bd6ffa77f481866ead8eb3306ebaa50012b
+tx 3b165c59f0b4311e6a71536bf07e0bd6ffa77f481866ead8eb3306ebaa50012b blk 361891 txid 1000
 dcc6d1334743fa3a0df3874c4199c1930cb5d2ef
 
-tx 06fb4a4eae6c0ee11915b5e79a92e46e566d710672c736b18752bdc1dceb04ea
+tx 06fb4a4eae6c0ee11915b5e79a92e46e566d710672c736b18752bdc1dceb04ea blk 361892 txid 282
 afbdc985e516c5b7f55397949c0a283dcfb5f6db
 
-tx 7d8d88277f4ec49ec39dc798c805fa7430c09c5f980103583059357bb50c934b
+tx 7d8d88277f4ec49ec39dc798c805fa7430c09c5f980103583059357bb50c934b blk 361892 txid 295
 451afe927da271498cc708bb70bf761a1441768b
 
-tx facd5a5fbec4268c37988a7257797155fa6ed9f1c5f80482bde581604b35ff5f
+tx facd5a5fbec4268c37988a7257797155fa6ed9f1c5f80482bde581604b35ff5f blk 361892 txid 446
 2d25d0cc571b5d64e6cab7ddcfeec9275487a1b5
 
-tx 71a31fe3288ebb086fd4b3a3fb37266092f94579f8e2253bb79e33c93c4c5078
+tx 71a31fe3288ebb086fd4b3a3fb37266092f94579f8e2253bb79e33c93c4c5078 blk 361892 txid 448
 dcab3ab3fe3134ab441584cb0beaa20fccb98292
 
-tx f780310d162929ce0dc3b3b55afd956127ec773359cf36fb8d417590dde6e199
+tx f780310d162929ce0dc3b3b55afd956127ec773359cf36fb8d417590dde6e199 blk 361894 txid 22
 75b5c9f5a7faec3e6c1834012b22f62daf4bea94
 
-tx 93c2a310408967534c5822348d95e1fd67a268082a68bcd261008c371bb23fd2
+tx 93c2a310408967534c5822348d95e1fd67a268082a68bcd261008c371bb23fd2 blk 361895 txid 529
 a2504b47684707ac15b2ef7df4dbc2ca0b95854e
 
-tx 532aceda7393d4794ba4692457d23e1a315f086c5b892fe9b2f8333d22f77cb2
+tx 532aceda7393d4794ba4692457d23e1a315f086c5b892fe9b2f8333d22f77cb2 blk 361895 txid 559
 251cab7e228986f77b08cface9c6a36975534901
 
-tx ae7dec2b98ed3d0b5ede102b85829b57c1873ea31e5ffbc8d45b686492714230
+tx ae7dec2b98ed3d0b5ede102b85829b57c1873ea31e5ffbc8d45b686492714230 blk 361895 txid 561
 341ea672bbdf66454e0e7166783a307c966c1633
 
-tx 14daac39c61f47987e9aa8edbc680dd303bbd4264d3bf0696acd14ce113ae266
+tx 14daac39c61f47987e9aa8edbc680dd303bbd4264d3bf0696acd14ce113ae266 blk 361895 txid 563
 339b945b3412af4eec294c1ac9e5afcfb1ec9b54
 
-tx b0d9b4bc1cd35730b7917b3b72ef9a09e7bdd054c4fc70944e30243996eaa41c
+tx b0d9b4bc1cd35730b7917b3b72ef9a09e7bdd054c4fc70944e30243996eaa41c blk 361895 txid 577
 a152702c17fd361c606e16ce77565a0006083ea1
 
-tx 3b36dfab08ff28fd66e8270fb8c3a304f543009b2b8ba7796860cc704d32b0b1
+tx 3b36dfab08ff28fd66e8270fb8c3a304f543009b2b8ba7796860cc704d32b0b1 blk 361897 txid 294
 b0a9364769563fe4010f24e1db96f9cc7c48655c
 
-tx 19dfeb3327c11546c6c45f6908ab82d6ec544d1597f3d08286f548064c7a71cd
+tx 19dfeb3327c11546c6c45f6908ab82d6ec544d1597f3d08286f548064c7a71cd blk 361897 txid 440
 de368456ab6af0a00fed97909c344e7c63dd5697
 
-tx 50684d951afe1b5f5349c1faa603b0dcee5d9539f39b3fd02a6083781189d4ae
+tx 50684d951afe1b5f5349c1faa603b0dcee5d9539f39b3fd02a6083781189d4ae blk 361897 txid 450
 8a9dc778d91d1fc6ece2871cd56f25fb5bfa3759
 
-tx 3088e19540a459d655b280782f1cb87562e1315555e1287e0b77ce12302a99c5
+tx 3088e19540a459d655b280782f1cb87562e1315555e1287e0b77ce12302a99c5 blk 361898 txid 139
 647ba61fc86e07b2f671b4360e38e6b46fa3cd6d
 
-tx 618b018b807cb67f519ba0a4348b60f3f7d4333ba9b430cf5c31cefc77f3414c
+tx 618b018b807cb67f519ba0a4348b60f3f7d4333ba9b430cf5c31cefc77f3414c blk 361899 txid 279
 67b7a3559f0d5ccf6290c4deb04b42de81c73cce
 
-tx 72451babf67e0ee4222b1cbec1b233e19afecd3fe42744cbb0312468f193d1bc
+tx 72451babf67e0ee4222b1cbec1b233e19afecd3fe42744cbb0312468f193d1bc blk 361899 txid 451
 2c9288950b242d43337c61c3366e27e313e154fe
 
-tx 608b0097631cde351c5dc8c4b89f8555e61fb8c885828651005d99f4a055ba5e
+tx 608b0097631cde351c5dc8c4b89f8555e61fb8c885828651005d99f4a055ba5e blk 361899 txid 455
 bb1a2dccad02625b173c721eaf617c427adce00f
 
-tx f7d60f4369b979d78cc394bddb9f94dee3b23d24419494ddc7695f6ce2b706f0
+tx f7d60f4369b979d78cc394bddb9f94dee3b23d24419494ddc7695f6ce2b706f0 blk 361899 txid 457
 fb645f1985917e31c25c4700aaf7505e916ca87a
 
-tx ca8dc621bced15134e80fb6fe6c4ba829ae0803aa2fca21fd567dae0f5eed2b5
+tx ca8dc621bced15134e80fb6fe6c4ba829ae0803aa2fca21fd567dae0f5eed2b5 blk 361901 txid 358
 54dc460bbef59ee45594032de25537286b07dde3
 
-tx 5b0cfcb717b9c78a0e81b06872bd2e8fefccd5ed093681cbd267e746c4e57d0f
+tx 5b0cfcb717b9c78a0e81b06872bd2e8fefccd5ed093681cbd267e746c4e57d0f blk 361901 txid 382
 5d561339e520236345b98f15ffa96094ec83f1dd
 
-tx 9c24d8edd793aa26bec0be64cf6d671876b563c0f904f9d01c21a0d241744ffa
+tx 9c24d8edd793aa26bec0be64cf6d671876b563c0f904f9d01c21a0d241744ffa blk 361901 txid 558
 5791a1a6219f9272799c92c5662df2226218fa5d
 
-tx 44558d2deb82dce953f77bd397239735f1cb78da1161df8f5a16434467c0736f
+tx 44558d2deb82dce953f77bd397239735f1cb78da1161df8f5a16434467c0736f blk 361901 txid 562
 80bd5594440b9b2fe06b27527b5c33ab02101434
 
-tx 7be80883186258ced32607c7435297fba63cd03cc47a17bc681dec9c662a4449
+tx 7be80883186258ced32607c7435297fba63cd03cc47a17bc681dec9c662a4449 blk 361902 txid 19
 0193e3e7015b1f436477e8e1fbbcf1c3f5293961
 
-tx 0dafa2202ef54728c73c51a8d427df977450c153cb5a28aba10da70e0d53c737
+tx 0dafa2202ef54728c73c51a8d427df977450c153cb5a28aba10da70e0d53c737 blk 361904 txid 427
 9b92f886e5a62fc35aa93fdcd9d357024b806df7
 
-tx 2c06c2e7dadf3f5a9ef6c18a52fc069cadc6fca24c6ece26144ecad19f35a6b5
+tx 2c06c2e7dadf3f5a9ef6c18a52fc069cadc6fca24c6ece26144ecad19f35a6b5 blk 361904 txid 446
 5340191cc15e7eaed92ecabe4aef5db52ab09a70
 
-tx 9ef230212d37cbd0b4abe48ec0bc29412aba7ad0aaf7e15bb11a60510bf2afcc
+tx 9ef230212d37cbd0b4abe48ec0bc29412aba7ad0aaf7e15bb11a60510bf2afcc blk 361904 txid 665
 82877d93d82d45db5f3f8f682c12f2fc8c60f14e
 
-tx 1098e8d90f805e554fc7e227d9a1e80f6b4f367169be81f11e692d74c7c24d17
+tx 1098e8d90f805e554fc7e227d9a1e80f6b4f367169be81f11e692d74c7c24d17 blk 361907 txid 362
 7573d77eea96f65ca94de142e222c24c85a82d22
 
-tx 277a167464c31e15b509a50406419f2f1888c85da97055a47e4c518d1406c598
+tx 277a167464c31e15b509a50406419f2f1888c85da97055a47e4c518d1406c598 blk 361907 txid 546
 b9066696a0dc9ddf7591a7a90bdcc361ed98ea48
 
-tx ad824205d2d5cbfe703413219b62246614120fb8f751065cf8829894c33c7d50
+tx ad824205d2d5cbfe703413219b62246614120fb8f751065cf8829894c33c7d50 blk 361907 txid 548
 b4827e78c59525e6360261b9c9422c627b3a98e7
 
-tx 0d3077a23a1530f3e3b0c33a985d9f530ee9513c2615802654bc98175e6a3ab9
+tx 0d3077a23a1530f3e3b0c33a985d9f530ee9513c2615802654bc98175e6a3ab9 blk 361908 txid 254
 0df0e7ae49fe0c108570a95ba0839c9f44c5460c
 
-tx 4a15fdc087ccef71fa728c4adba31c8c407d8b6cc7cb720b5e7a7f486ec5ee5b
+tx 4a15fdc087ccef71fa728c4adba31c8c407d8b6cc7cb720b5e7a7f486ec5ee5b blk 361912 txid 463
 65d5cfe9eb29320fb7f075bc13cfdc5454a88a2a
 
-tx 30eb7054ecbec1b1880a651650f151ce7c9013eac3032c663fb9dc8c315e4c0a
+tx 30eb7054ecbec1b1880a651650f151ce7c9013eac3032c663fb9dc8c315e4c0a blk 361913 txid 408
 zASCRIBESPOOLREGISTER
 
-tx a9c59230337bdbbd059fced09ab08be0446e0276be90bbcda9c846e9b737aa36
+tx a9c59230337bdbbd059fced09ab08be0446e0276be90bbcda9c846e9b737aa36 blk 361917 txid 1599
 u=https://coloredcoin.io/dmt
 
-tx 018b5cbfdebeafc04cf1fc00e95453ca7c82bac5a0655c1f17ca8c0f86d79559
+tx 018b5cbfdebeafc04cf1fc00e95453ca7c82bac5a0655c1f17ca8c0f86d79559 blk 361917 txid 1600
 xu=https://coloredcoin.io/dmt
 
-tx 2b6e2d4ee175e4ede3d4b8fc6634725bd23bff3f935744c2b8b8ccb9d7b5fc99
+tx 2b6e2d4ee175e4ede3d4b8fc6634725bd23bff3f935744c2b8b8ccb9d7b5fc99 blk 361920 txid 222
 zASCRIBESPOOLREGISTER
 
-tx 022dbd05784f0376b5c9f3bbb46cd772476bbff4f66b5c32b8c2756fe43dd039
+tx 022dbd05784f0376b5c9f3bbb46cd772476bbff4f66b5c32b8c2756fe43dd039 blk 361920 txid 223
 zASCRIBESPOOLREGISTER
 
-tx 3a0a9af8dc98b8f44f1d392d29e82f7da1a3c1f802d6f1c2f6b75c3130c2c1f3
+tx 3a0a9af8dc98b8f44f1d392d29e82f7da1a3c1f802d6f1c2f6b75c3130c2c1f3 blk 361920 txid 224
 zASCRIBESPOOLREGISTER
 
-tx d16c9400442dcb17c04e9264aaa14980be0bbe6d1e73ea6e61ccc0756ac56f4f
+tx d16c9400442dcb17c04e9264aaa14980be0bbe6d1e73ea6e61ccc0756ac56f4f blk 361920 txid 225
 zASCRIBESPOOLREGISTER
 
-tx 460146ba2a02a1a5f8ce9f501f57e5edf6bbeaff74338fadfd68bfbf2c895e8c
+tx 460146ba2a02a1a5f8ce9f501f57e5edf6bbeaff74338fadfd68bfbf2c895e8c blk 361924 txid 648
 u=https://cpr.sm/W0yPmEGyhek
 
-tx 0e20ae6ed9d1de7eb84823bfb4445fc3421e489c31d7694693b2fecb7d184807
+tx 0e20ae6ed9d1de7eb84823bfb4445fc3421e489c31d7694693b2fecb7d184807 blk 361925 txid 103
 EWBuilding the wall...
 
-tx 8cf2a35a6f324b584901b5ef03a138aad194a04949fd086393a9e5a1ae1e495f
+tx 8cf2a35a6f324b584901b5ef03a138aad194a04949fd086393a9e5a1ae1e495f blk 361927 txid 456
 u=https://cpr.sm/GVXmGwR66W
 
-tx d74502b82e6ef14ee3697fba4d56716e2ee49633fa73b595c5eedb4f5985e494
+tx d74502b82e6ef14ee3697fba4d56716e2ee49633fa73b595c5eedb4f5985e494 blk 361938 txid 881
 r$u=https://cpr.sm/jRW_FcwTMa
 
-tx ea1923bbe9ec3c89e99131397afe5ddd747c4d108795853e6838ce494920e2a5
+tx ea1923bbe9ec3c89e99131397afe5ddd747c4d108795853e6838ce494920e2a5 blk 361938 txid 1353
 zASCRIBESPOOLREGISTER
 
-tx 168655a39c6d005b20606c3fbeef63320481a530d997ee857c54888a6410604b
+tx 168655a39c6d005b20606c3fbeef63320481a530d997ee857c54888a6410604b blk 361943 txid 753
 Nunsuccessful double-spend attempt
 
-tx 96845af476897c7729e462fc5980f258e868d9452465f6df3651d82bc65f1c5c
+tx 96845af476897c7729e462fc5980f258e868d9452465f6df3651d82bc65f1c5c blk 361947 txid 724
 unsuccessful double-spend attempt
 
-tx c80b2adb73d5d7e5217c3690a3cbe0d8eef75abc65269fbdd7f3b5936d2deff1
+tx c80b2adb73d5d7e5217c3690a3cbe0d8eef75abc65269fbdd7f3b5936d2deff1 blk 361950 txid 490
 unsuccessful double-spend attempt
 
-tx b19ea9b3436d8b2da6685763344cf88cb3098132b8daeebb0c3351e4b81436f1
+tx b19ea9b3436d8b2da6685763344cf88cb3098132b8daeebb0c3351e4b81436f1 blk 361954 txid 407
 zASCRIBESPOOLREGISTER
 
-tx ab2fa0e815e6c81f348647e0ad4ede1400246dc484ed311ab3819f0798631ab9
+tx ab2fa0e815e6c81f348647e0ad4ede1400246dc484ed311ab3819f0798631ab9 blk 361958 txid 766
 Get a life! Only betas read OP_RETURN :(
 
-tx 5ea174c5272086afc74483bebf5f2cfee7f873b1400cccedb2bfd8dab7c54559
+tx 5ea174c5272086afc74483bebf5f2cfee7f873b1400cccedb2bfd8dab7c54559 blk 361958 txid 822
 Nunsuccessful double-spend attempt
 
-tx f1454a3ca1e8e3e1adddbb1786efaa0b98a5ff1831c850db9f6ff259fd930704
+tx f1454a3ca1e8e3e1adddbb1786efaa0b98a5ff1831c850db9f6ff259fd930704 blk 361964 txid 268
 a25561069858eb3ac3c041a3ef8b660f39f199c3
 
-tx d378b1c0c06ba503c8eac8cfd9f608bf4bf33f8f71d7948c0276e7f1c7d3e1d8
+tx d378b1c0c06ba503c8eac8cfd9f608bf4bf33f8f71d7948c0276e7f1c7d3e1d8 blk 361967 txid 385
 d4ee5cc9821b0960fc51fdefd4fb70d5ba9992fc
 
-tx 821f6e818173a37fa8e0537ef73ae06651ee725eda690ddc2268f85094fe13c4
+tx 821f6e818173a37fa8e0537ef73ae06651ee725eda690ddc2268f85094fe13c4 blk 361972 txid 198
 ea9e4bdef6af8325e55be5664b312effaaa2e1b4
 
-tx 2de618e61797b8b7c9ad5c9b9750085d8686373ca7edf52e362e64837a1f8f15
+tx 2de618e61797b8b7c9ad5c9b9750085d8686373ca7edf52e362e64837a1f8f15 blk 361985 txid 387
 ee2b0d83ebc4e511bd5520aa1e8a614f5a7cbff7
 
-tx d6666aaac91dccfbf0f2a89ebba92666bad75f854644f772e4ba44f258beb5ed
+tx d6666aaac91dccfbf0f2a89ebba92666bad75f854644f772e4ba44f258beb5ed blk 361991 txid 355
 db214b0f33e096e28fa85a3fb47b86eb576f36a8
 
-tx 25017e19aadd96e37b598d47cf060af8f2fac5161c99ac6b61b0ec8c8a2d6be8
+tx 25017e19aadd96e37b598d47cf060af8f2fac5161c99ac6b61b0ec8c8a2d6be8 blk 361996 txid 568
 zASCRIBESPOOLREGISTER

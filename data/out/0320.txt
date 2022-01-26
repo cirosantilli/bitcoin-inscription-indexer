@@ -1,52 +1,52 @@
-tx 9cda2758dd24cdbaf5266407f93c687682084befc90ac17e5445b5bbe81101c0
+tx 9cda2758dd24cdbaf5266407f93c687682084befc90ac17e5445b5bbe81101c0 blk 320005 txid 1533
  feeds.info/static/live/btc-usd.j
 
-tx 7dca0f572df23b37e6cc052f5b4412f5d1959cba6c2db71f62e3e436cc8d6c1b
+tx 7dca0f572df23b37e6cc052f5b4412f5d1959cba6c2db71f62e3e436cc8d6c1b blk 320006 txid 490
 ZDescripton of DMHTESTONE
 
-tx 0c50f3ef89eb72fccb348b7d5a9e19447c73ca8e57d17579d0869eea7a6117e2
+tx 0c50f3ef89eb72fccb348b7d5a9e19447c73ca8e57d17579d0869eea7a6117e2 blk 320011 txid 215
 !7.5% - 2 weeks -  bit.ly/
 
-tx e18034e582dce0e5cafe6720f2a5e57cc91c48334d9297d9728b077cdf86870b
+tx e18034e582dce0e5cafe6720f2a5e57cc91c48334d9297d9728b077cdf86870b blk 320014 txid 650
  feeds.info/static/live/btc-usd.j
 
-tx 31736aafba7a5d5678d86aab2b6d51ca38c77b47491ad8db58832df37dc3435b
+tx 31736aafba7a5d5678d86aab2b6d51ca38c77b47491ad8db58832df37dc3435b blk 320017 txid 1769
  feeds.info/static/live/btc-usd.j
 
-tx bb687b4604407bf5caf28e6e9ef1224cb787987f0f9492c228366c994acc762b
+tx bb687b4604407bf5caf28e6e9ef1224cb787987f0f9492c228366c994acc762b blk 320023 txid 1353
  feeds.info/static/live/btc-usd.j
 
-tx d34a798e9a24311da251215ef8b049bf6549cae6c9b9891baed3343847f626ac
+tx d34a798e9a24311da251215ef8b049bf6549cae6c9b9891baed3343847f626ac blk 320026 txid 929
  feeds.info/static/live/btc-usd.j
 
-tx f051b5161d8e3885c4d52a43431e2340320602ed630ac978026166c116022c08
+tx f051b5161d8e3885c4d52a43431e2340320602ed630ac978026166c116022c08 blk 320033 txid 1021
  feeds.info/static/live/btc-usd.j
 
-tx b9a8d174c74bd9ddb29d0516cf1a89c49a63ce9bafc359e07ee6ba4ff5a33082
+tx b9a8d174c74bd9ddb29d0516cf1a89c49a63ce9bafc359e07ee6ba4ff5a33082 blk 320038 txid 851
  feeds.info/static/live/btc-usd.j
 
-tx 728645f2c757c4ef3e6b824d664ed619af6ddc352043dddd03a27ccdacde06a5
+tx 728645f2c757c4ef3e6b824d664ed619af6ddc352043dddd03a27ccdacde06a5 blk 320050 txid 811
  feeds.info/static/live/btc-usd.j
 
-tx bfca1e999df89177e1df76f5f204d0d42a005159d768d5668812744bfbfe0b4f
+tx bfca1e999df89177e1df76f5f204d0d42a005159d768d5668812744bfbfe0b4f blk 320054 txid 1111
  feeds.info/static/live/btc-usd.j
 
-tx 0935839dde3919307368c4b5ea89bddbb2511c977b7828cae6128d2da1207bf7
+tx 0935839dde3919307368c4b5ea89bddbb2511c977b7828cae6128d2da1207bf7 blk 320064 txid 350
  feeds.info/static/live/btc-usd.j
 
-tx 1d530076188ea442a5d801443c88983e52d833856b11d78380ce98691390acf8
+tx 1d530076188ea442a5d801443c88983e52d833856b11d78380ce98691390acf8 blk 320067 txid 1342
 5http://www.coindocket.com
 
-tx a9cdb8bcdfb2a515a80c26bb624271f4377ef7b2cddc2a3d05907a5e2be7e499
+tx a9cdb8bcdfb2a515a80c26bb624271f4377ef7b2cddc2a3d05907a5e2be7e499 blk 320067 txid 1376
  feeds.info/static/live/btc-usd.j
 
-tx 623bd246f0a5b46ac83e7259562c327499beb6496230d3829d19169423902641
+tx 623bd246f0a5b46ac83e7259562c327499beb6496230d3829d19169423902641 blk 320069 txid 724
  feeds.info/static/live/btc-usd.j
 
-tx a37160cc8664b3b1f7d5e9c4524c06a2356e9728c7ec446382505ca98f514b08
+tx a37160cc8664b3b1f7d5e9c4524c06a2356e9728c7ec446382505ca98f514b08 blk 320076 txid 290
  feeds.info/static/live/btc-usd.j
 
-tx d20d6e78cae529200f24a811f960644865838312f6b2400bf827b5064db63305
+tx d20d6e78cae529200f24a811f960644865838312f6b2400bf827b5064db63305 blk 320080 txid 624
 >69/"Trip to Italy"&!
 
 
@@ -55,42 +55,42 @@ N. Broadway, Fargo, ND
 49
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx eff977394419d8a719d9a61676c6d3a11e4da0d5b3227051fe28e1c95bd15d24
+tx eff977394419d8a719d9a61676c6d3a11e4da0d5b3227051fe28e1c95bd15d24 blk 320080 txid 634
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 7a986d01b6f0279606074b84c9d5d32d1281bf52b56dcdfd61f75a91c669c350
+tx 7a986d01b6f0279606074b84c9d5d32d1281bf52b56dcdfd61f75a91c669c350 blk 320080 txid 636
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx eb788f8f24315453c4257db2e3c58e18bbdcad9bda7188b0c84bddcbc513ee3b
+tx eb788f8f24315453c4257db2e3c58e18bbdcad9bda7188b0c84bddcbc513ee3b blk 320080 txid 637
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJST
 Oxkw
 D<x^?
 UVWXYZcdefghijstuvwxyz
 
-tx 648ae26fffdc003f5bab37921ff20c10913b7b313849768c481df37c33f779f8
+tx 648ae26fffdc003f5bab37921ff20c10913b7b313849768c481df37c33f779f8 blk 320080 txid 640
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx f6076addfee229620cabdc5c77451be99cb3ef58ed9c4fe25a5797c565e147ca
+tx f6076addfee229620cabdc5c77451be99cb3ef58ed9c4fe25a5797c565e147ca blk 320080 txid 641
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 3fab0dbdefec4d28d3bf7be820d45757b1883d1a329d8f5d0ce5f68b016e0675
+tx 3fab0dbdefec4d28d3bf7be820d45757b1883d1a329d8f5d0ce5f68b016e0675 blk 320080 txid 643
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx 9c1b166d4e205561085bdeff12acd55db29690dc12611113f1e0079b2feb0f71
+tx 9c1b166d4e205561085bdeff12acd55db29690dc12611113f1e0079b2feb0f71 blk 320080 txid 644
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 9136b661b29b35d6c1b12fb568757d4af934fc88fe40f707bc0a021e3561da46
+tx 9136b661b29b35d6c1b12fb568757d4af934fc88fe40f707bc0a021e3561da46 blk 320080 txid 645
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx 793e5feb650dd06f33a818fa1842650081d95121461eb8514c73bc7c35124715
+tx 793e5feb650dd06f33a818fa1842650081d95121461eb8514c73bc7c35124715 blk 320080 txid 646
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 73e5e9a23b7870c3942abf640655191c38e817793e8373d074dec62609ce843b
+tx 73e5e9a23b7870c3942abf640655191c38e817793e8373d074dec62609ce843b blk 320080 txid 649
 d20d6e78cae529200f24a811f960644865838312f6b2400bf827b5064db63305<990|d20d6e78cae529200f24a811f960644865838312f6b2400bf827b5064db63305
 eff977394419d8a719d9a61676c6d3a11e4da0d5b3227051fe28e1c95bd15d24
 988b80b7b99965c6ba205984835dc2c9ce41e8a987b96b3f03f80c18b1639b91
@@ -108,15 +108,15 @@ f6076addfee229620cabdc5c77451be99cb3ef58ed9c4fe25a5797c565e147ca
 671c408e69d41bf4555e2ce54e6075a5f647d0682d55f9cdd2d8f079523e4b93
 
 
-tx 36fe259e7834c98496e0dec27a2d32299c9fb309f502b31a2d213e69f87068a8
+tx 36fe259e7834c98496e0dec27a2d32299c9fb309f502b31a2d213e69f87068a8 blk 320081 txid 468
 /75:"Keep your eyes on the stars and your feet on the ground"
 -Teddy RooseveltSabrinaHornung.jpg"7547\
 mC9HIdRLDNqs1v6Nvwu5
 
-tx 4a44174a4e0670751a7473285fc850692019db8aeac2338b9010ba42cbf8917b
+tx 4a44174a4e0670751a7473285fc850692019db8aeac2338b9010ba42cbf8917b blk 320081 txid 584
 ((((((((((((((((((((((((((((((((((((((((((((((((((
 
-tx 792815e7feb1032a9e3ec08dd0d41744a24fadd806d4349bf8a5daa7bb682188
+tx 792815e7feb1032a9e3ec08dd0d41744a24fadd806d4349bf8a5daa7bb682188 blk 320081 txid 587
 36fe259e7834c98496e0dec27a2d32299c9fb309f502b31a2d213e69f87068a8<396|36fe259e7834c98496e0dec27a2d32299c9fb309f502b31a2d213e69f87068a8
 d9f12ea25d76a70c179a12d1a58d025889ff5e437391e7652bca56c5f2d58a62
 882d2ccc5ccdd0afaf32cc5ab4139a3feada478da11a415908798f5de5b12c70
@@ -125,85 +125,85 @@ d9f12ea25d76a70c179a12d1a58d025889ff5e437391e7652bca56c5f2d58a62
 475b981615d89979612f0e29aa20b55a6d1e80de26639480c7d4534a0bf17d24
 YDcA8ZytEUeOWB
 
-tx 45cc924f33bb062f469cf913e7e125425eb916df1ba8d46c6cf090a63234a332
+tx 45cc924f33bb062f469cf913e7e125425eb916df1ba8d46c6cf090a63234a332 blk 320082 txid 369
  feeds.info/static/live/btc-usd.j
 
-tx b543137574a8234186e734d54fa59b277ec7aa28eebef5cda039941b1347cc0b
+tx b543137574a8234186e734d54fa59b277ec7aa28eebef5cda039941b1347cc0b blk 320086 txid 401
  feeds.info/static/live/btc-usd.j
 
-tx 730795421aa38c618c68394b0970be5ea09197041977c3135d1503cb2fdbbb27
+tx 730795421aa38c618c68394b0970be5ea09197041977c3135d1503cb2fdbbb27 blk 320092 txid 323
  feeds.info/static/live/btc-usd.j
 
-tx 0e87832413c71cda39907a7e3da35402d62d248c355bbfaf80ac220ad44674cd
+tx 0e87832413c71cda39907a7e3da35402d62d248c355bbfaf80ac220ad44674cd blk 320099 txid 186
  feeds.info/static/live/btc-usd.j
 
-tx d04c6f45844d11415012e2c6a3c3eed10123e442bdcf56f122519d4d04353fc2
+tx d04c6f45844d11415012e2c6a3c3eed10123e442bdcf56f122519d4d04353fc2 blk 320106 txid 803
  feeds.info/static/live/btc-usd.j
 
-tx 286fb8fcf3cfe71ca100af67b3145e022eb851407e725df24813bf634e22319a
+tx 286fb8fcf3cfe71ca100af67b3145e022eb851407e725df24813bf634e22319a blk 320112 txid 714
  feeds.info/static/live/btc-usd.j
 
-tx 9d176903a1942b177a2f6f32b93a185ee158c3aa92cac9a992f2e3493910a5bc
+tx 9d176903a1942b177a2f6f32b93a185ee158c3aa92cac9a992f2e3493910a5bc blk 320119 txid 324
  feeds.info/static/live/btc-usd.j
 
-tx 92cf290793797ca9a14785e81f2c70ac62f77bf7d9459e2d12b40d8285663204
+tx 92cf290793797ca9a14785e81f2c70ac62f77bf7d9459e2d12b40d8285663204 blk 320129 txid 283
  feeds.info/static/live/btc-usd.j
 
-tx 0fa96c2ed6fa0cb84a7fdc176a0d2249764279ddc58dbba0d9d38a54fa9fbf61
+tx 0fa96c2ed6fa0cb84a7fdc176a0d2249764279ddc58dbba0d9d38a54fa9fbf61 blk 320137 txid 78
  feeds.info/static/live/btc-usd.j
 
-tx ea42732370331764359ac986cf69514db75d919a45d6699e81b3754227ebe22e
+tx ea42732370331764359ac986cf69514db75d919a45d6699e81b3754227ebe22e blk 320143 txid 876
  feeds.info/static/live/btc-usd.j
 
-tx 8e63eeb66860bc0390952f5868a0faceb2c1bee0f4b34c69fac574fad7ef75dc
+tx 8e63eeb66860bc0390952f5868a0faceb2c1bee0f4b34c69fac574fad7ef75dc blk 320150 txid 686
  feeds.info/static/live/btc-usd.j
 
-tx a9ae60b3b34df83bf77a9d5c4b8c78964ff007679b8b20102905990215b05d2b
+tx a9ae60b3b34df83bf77a9d5c4b8c78964ff007679b8b20102905990215b05d2b blk 320155 txid 579
  feeds.info/static/live/btc-usd.j
 
-tx f0114bc0d565eb93f3ea9990cfe1e9b29251b4b331a95bdd6f56afc659ac70e7
+tx f0114bc0d565eb93f3ea9990cfe1e9b29251b4b331a95bdd6f56afc659ac70e7 blk 320162 txid 612
  feeds.info/static/live/btc-usd.j
 
-tx e8a594d65a14a03abc55fbba1926abe4a09bccb392d5b00f93e0c25b3fa3ca25
+tx e8a594d65a14a03abc55fbba1926abe4a09bccb392d5b00f93e0c25b3fa3ca25 blk 320169 txid 325
  feeds.info/static/live/btc-usd.j
 
-tx dd3ea9e2e4543c69fde380431d8e68028b0faaa320267ff91c8ad94ff03ba134
+tx dd3ea9e2e4543c69fde380431d8e68028b0faaa320267ff91c8ad94ff03ba134 blk 320170 txid 635
 http://goo.gl/6jQ86V
 
-tx 8f9773abe41006370b608b9521588534744ed2972831d959e35bb37371eb3f42
+tx 8f9773abe41006370b608b9521588534744ed2972831d959e35bb37371eb3f42 blk 320177 txid 636
  feeds.info/static/live/btc-usd.j
 
-tx c61aa93b1abcebd1404c097d20067e0b872012f26c11789d773b5e7d9105be5e
+tx c61aa93b1abcebd1404c097d20067e0b872012f26c11789d773b5e7d9105be5e blk 320186 txid 176
 Vu=https://cpr.sm/2xh1SMOBSx
 
-tx 2bf606138b0dda34cb993df8b279f7a785b92f304f2aa7686bac1df54d19f30e
+tx 2bf606138b0dda34cb993df8b279f7a785b92f304f2aa7686bac1df54d19f30e blk 320188 txid 106
  feeds.info/static/live/btc-usd.j
 
-tx 1d14b76763a50d42e4adec41c481431c585091819b4a4cabdb4cb9cc225f4580
+tx 1d14b76763a50d42e4adec41c481431c585091819b4a4cabdb4cb9cc225f4580 blk 320200 txid 833
  feeds.info/static/live/btc-usd.j
 
-tx 8d7941ac0cdcc91e91e5b99ad2a5739c75851f552a5e8e97a36b8e6cc7ecd634
+tx 8d7941ac0cdcc91e91e5b99ad2a5739c75851f552a5e8e97a36b8e6cc7ecd634 blk 320212 txid 470
  feeds.info/static/live/btc-usd.j
 
-tx dac937b7dbb4310b482d8096e9befcc61ce1bba1d034085c2b4597940c2bbf08
+tx dac937b7dbb4310b482d8096e9befcc61ce1bba1d034085c2b4597940c2bbf08 blk 320220 txid 690
  feeds.info/static/live/btc-usd.j
 
-tx 3dce08fb126a5c3865d61206c990269ceb35d0980ef0d978eb51b3cd9a14be90
+tx 3dce08fb126a5c3865d61206c990269ceb35d0980ef0d978eb51b3cd9a14be90 blk 320220 txid 692
 &Bring Eco Ideas to Life &
 
-tx 0cbe92484f5792279d80c283d4dd9fbe77215aa5442b0c376c12c76ac239616f
+tx 0cbe92484f5792279d80c283d4dd9fbe77215aa5442b0c376c12c76ac239616f blk 320227 txid 91
  feeds.info/static/live/btc-usd.j
 
-tx fd4dc4a709d4e7a88c763335342a5ecb5f6ad8a6be83010e4d231b6c558a0cc1
+tx fd4dc4a709d4e7a88c763335342a5ecb5f6ad8a6be83010e4d231b6c558a0cc1 blk 320232 txid 1221
  feeds.info/static/live/btc-usd.j
 
-tx 12b187b6bf3bfb26871d22f518a83fb557ad6c128daae2640dc59cd2581d43e0
+tx 12b187b6bf3bfb26871d22f518a83fb557ad6c128daae2640dc59cd2581d43e0 blk 320238 txid 578
  feeds.info/static/live/btc-usd.j
 
-tx 3a4c227982d29e6b3b242c7e7640560be648eb87ef155a2ba52f3dc6bf183f53
+tx 3a4c227982d29e6b3b242c7e7640560be648eb87ef155a2ba52f3dc6bf183f53 blk 320243 txid 817
  feeds.info/static/live/btc-usd.j
 
-tx 141fa6e184445ae2cb7bc2ee00d3f0c8cd60a20c7b2180bb6cf5fa6b50fda6af
+tx 141fa6e184445ae2cb7bc2ee00d3f0c8cd60a20c7b2180bb6cf5fa6b50fda6af blk 320248 txid 696
 3325345e49899f748a44040d700e50dea029a986e1ae7c7467ac801ad00348dd/660<3325345e49899f748a44040d700e50dea029a986e1ae7c7467ac801ad00348dd
 7a6c8497d007652baedbe6ca2aa44cbbbb0c59043e104da9ec1cd6abfea9603a
 b4a726e2cacd902e33eaD
@@ -217,106 +217,106 @@ ea32bf92b5fcb0173dc86b5e3ce23d20bb68aed0c38cffc70ec1995d2656a63d
 fe837effa061bafff1cb6e3ef01eef3b94e141e9820a0d6c1e8339f83b1e35ea
 P7F3X1Dr9q
 
-tx 3325345e49899f748a44040d700e50dea029a986e1ae7c7467ac801ad00348dd
+tx 3325345e49899f748a44040d700e50dea029a986e1ae7c7467ac801ad00348dd blk 320248 txid 698
 <197:The High Plains Reader is celebrating their 20th Year tonight.
 
 John Strand, Diane Miller, Jill St John, Raul Gerard Gomez and J Earl Miller at HPR's Best of the Best 2014 Awards Celebration.
 
 HPR-20th-Birthday.jpg*10609>
 
-tx fac489d1fee01a00c5fbd635d73992e59acc2681c203b5acdc53b3b6cb1575fe
+tx fac489d1fee01a00c5fbd635d73992e59acc2681c203b5acdc53b3b6cb1575fe blk 320248 txid 701
 $.M2.**.^CG8Mobusmblj{
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 05edf2cfbbe55c4e27b318e3e04aece5ac5b4f23f49f3f13fafc332c3e3c7cfa
+tx 05edf2cfbbe55c4e27b318e3e04aece5ac5b4f23f49f3f13fafc332c3e3c7cfa blk 320250 txid 553
  feeds.info/static/live/btc-usd.j
 
-tx 9091214f187492dfdeb101597125f06b79d3dd9331c14f339155a0fa5e2c41f9
+tx 9091214f187492dfdeb101597125f06b79d3dd9331c14f339155a0fa5e2c41f9 blk 320256 txid 494
  feeds.info/static/live/btc-usd.j
 
-tx e658ad65227bb2793fd13ebd6e33f517422bbea83f1afd44e8f2fb0e5e326217
+tx e658ad65227bb2793fd13ebd6e33f517422bbea83f1afd44e8f2fb0e5e326217 blk 320262 txid 848
  feeds.info/static/live/btc-usd.j
 
-tx ef24162933d5db0bea452c2b6f2d53b3c4f7d8221621135a08dd12edbc0775c1
+tx ef24162933d5db0bea452c2b6f2d53b3c4f7d8221621135a08dd12edbc0775c1 blk 320266 txid 333
  feeds.info/static/live/btc-usd.j
 
-tx 10b4ed40808b346a9b027cc66436d03fbcf1f44ee1481a904b4c8b5ba6c2d4b6
+tx 10b4ed40808b346a9b027cc66436d03fbcf1f44ee1481a904b4c8b5ba6c2d4b6 blk 320272 txid 757
  feeds.info/static/live/btc-usd.j
 
-tx d72af6cccf79663112751c920b1e4070ed0d90a37bf73d256978c6e8158c4822
+tx d72af6cccf79663112751c920b1e4070ed0d90a37bf73d256978c6e8158c4822 blk 320281 txid 240
  feeds.info/static/live/btc-usd.j
 
-tx dcf5e3218aa7876b7b21fcc1e1c16661ef1774ac66b862e93f8733728b989d65
+tx dcf5e3218aa7876b7b21fcc1e1c16661ef1774ac66b862e93f8733728b989d65 blk 320290 txid 426
  feeds.info/static/live/btc-usd.j
 
-tx afe278f686d0fb3a9640beb51e7d9dcce1f175a2d032635c2dee8f6898a3ebd0
+tx afe278f686d0fb3a9640beb51e7d9dcce1f175a2d032635c2dee8f6898a3ebd0 blk 320294 txid 67
 test test sdfljsldkjf
 
-tx f4e513857c139f4f0e7dc9edc53aabdd3e3102a00a3edd91285ace3f8c427999
+tx f4e513857c139f4f0e7dc9edc53aabdd3e3102a00a3edd91285ace3f8c427999 blk 320298 txid 94
  feeds.info/static/live/btc-usd.j
 
-tx a1aee8df18772f8fc0932ff588f847b78b80915454e5bc602b0b3523ce877659
+tx a1aee8df18772f8fc0932ff588f847b78b80915454e5bc602b0b3523ce877659 blk 320307 txid 422
  feeds.info/static/live/btc-usd.j
 
-tx 4fc5b0cdae0375a0ca1cb017f980d6bfac24c9df15663a909538145ad2e983f4
+tx 4fc5b0cdae0375a0ca1cb017f980d6bfac24c9df15663a909538145ad2e983f4 blk 320311 txid 172
  feeds.info/static/live/btc-usd.j
 
-tx 3fdc2954dd9adf6a09327deddf619ce6d2e8385b59babe90babc28d8b3e09cf3
+tx 3fdc2954dd9adf6a09327deddf619ce6d2e8385b59babe90babc28d8b3e09cf3 blk 320317 txid 470
  feeds.info/static/live/btc-usd.j
 
-tx cdb0326e2275a306abbca59c194b0850716dff31d4c47ead748f9026f5f42c84
+tx cdb0326e2275a306abbca59c194b0850716dff31d4c47ead748f9026f5f42c84 blk 320325 txid 622
  feeds.info/static/live/btc-usd.j
 
-tx ddc1106a1f15ce9d6dc024c40b03df7a961bf0d94d7381042b61dedad39a08cc
+tx ddc1106a1f15ce9d6dc024c40b03df7a961bf0d94d7381042b61dedad39a08cc blk 320332 txid 1575
  feeds.info/static/live/btc-usd.j
 
-tx 681ca85a3fdea93c5f5806cec607fbb6fc5b79427e7ff438dcf1ec28bd381062
+tx 681ca85a3fdea93c5f5806cec607fbb6fc5b79427e7ff438dcf1ec28bd381062 blk 320339 txid 997
  feeds.info/static/live/btc-usd.j
 
-tx 3f8519c715f704ce1a9c181f178cfe7f790201275626704bfb1a9f915216e747
+tx 3f8519c715f704ce1a9c181f178cfe7f790201275626704bfb1a9f915216e747 blk 320343 txid 932
  feeds.info/static/live/btc-usd.j
 
-tx 8f435913c51f62864276c8a549f9445fccb843ae34fd6c4ceacd15e44395a3e9
+tx 8f435913c51f62864276c8a549f9445fccb843ae34fd6c4ceacd15e44395a3e9 blk 320350 txid 321
  feeds.info/static/live/btc-usd.j
 
-tx ccc9490b10b699506ff438c9c739223fc3abc5ffc42056aea0274807597ac7cf
+tx ccc9490b10b699506ff438c9c739223fc3abc5ffc42056aea0274807597ac7cf blk 320359 txid 368
 '$www.Mypowers.com/missbitc
 
-tx 94e19b994a37c817974f0fa5ee8b36764400f8f489ffda3b8d9001354bfedb77
+tx 94e19b994a37c817974f0fa5ee8b36764400f8f489ffda3b8d9001354bfedb77 blk 320362 txid 761
  feeds.info/static/live/btc-usd.j
 
-tx a5e3c35a0b3aeeb1bf237e594fc31c4e252cd253835e9830905045f3cafa8ce6
+tx a5e3c35a0b3aeeb1bf237e594fc31c4e252cd253835e9830905045f3cafa8ce6 blk 320368 txid 250
  feeds.info/static/live/btc-usd.j
 
-tx 785a5687b1cc64cc66ae46dc8a3d5a4a3ac5ae9d8c20436ed670db7aaed70d46
+tx 785a5687b1cc64cc66ae46dc8a3d5a4a3ac5ae9d8c20436ed670db7aaed70d46 blk 320371 txid 394
 @MexicoBitcoins,32.988626,-117.272761
 
-tx db9049e1bf2379b3844da879c864af7935e3a1cca7b1d0ea7ad7c4a8d7c68a68
+tx db9049e1bf2379b3844da879c864af7935e3a1cca7b1d0ea7ad7c4a8d7c68a68 blk 320374 txid 843
  feeds.info/static/live/btc-usd.j
 
-tx 28b021a2721c25ffd4a2cbafa770187f84709047b92ad00211b7fc5642342a33
+tx 28b021a2721c25ffd4a2cbafa770187f84709047b92ad00211b7fc5642342a33 blk 320381 txid 409
  feeds.info/static/live/btc-usd.j
 
-tx 63456f256d49280ab48e32493e9e224d0e62a1531c8b92d8778a9099051879f7
+tx 63456f256d49280ab48e32493e9e224d0e62a1531c8b92d8778a9099051879f7 blk 320382 txid 221
 51 "mikoin", "total": 555}
 
-tx 1c5716a0e962a40a83f562309c76ed7164190e6e51356251636155591238c5e0
+tx 1c5716a0e962a40a83f562309c76ed7164190e6e51356251636155591238c5e0 blk 320382 txid 223
 50 {"desc": "Order over Chaos", "name": 
 
-tx a0cbc70eb745dc2f5d6a9734eef946b150ae2fb6ef3083f982a35e1a1d4d8184
+tx a0cbc70eb745dc2f5d6a9734eef946b150ae2fb6ef3083f982a35e1a1d4d8184 blk 320386 txid 183
  feeds.info/static/live/btc-usd.j
 
-tx 69ce15bbb0e9a326a1f8392f7b199ac48c7aa7ac52d8995d9c39189524916786
+tx 69ce15bbb0e9a326a1f8392f7b199ac48c7aa7ac52d8995d9c39189524916786 blk 320391 txid 611
  feeds.info/static/live/btc-usd.j
 
-tx 1551c37f69474294536835302c3560a11a99684e5722942f9910837cbe4febb2
+tx 1551c37f69474294536835302c3560a11a99684e5722942f9910837cbe4febb2 blk 320397 txid 672
  feeds.info/static/live/btc-usd.j
 
-tx a6826ec3680c661ad8c51d782f610199ec1827b1b352589238fe92b7f8ef9776
+tx a6826ec3680c661ad8c51d782f610199ec1827b1b352589238fe92b7f8ef9776 blk 320408 txid 391
  feeds.info/static/live/btc-usd.j
 
-tx 0010d9f72419eded2c73b3f3caec774862f46e718941705bd80b63c00b4af4c6
+tx 0010d9f72419eded2c73b3f3caec774862f46e718941705bd80b63c00b4af4c6 blk 320408 txid 510
 |1477/Jan Hendrik Oort (28 April 1900 
  5 November 1992) was a Dutch astronomer who made significant contributions to the understanding of the Milky Way and a pioneer in the field of radio astronomy. His New York Times obituary called him 
 one of the century's foremost explorers of the universe; the European Space Agency website describes him as, 
@@ -338,14 +338,14 @@ The Oort cloud, the Oort constants, and the Asteroid, 1691 Oort, were all named 
 %&'()*456789:CDEFGHIJSTUVWX|QYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx ccec49e30a1798e8741becb9c344b84d4bd4803f6824bf46001aab13c98dacf8
+tx ccec49e30a1798e8741becb9c344b84d4bd4803f6824bf46001aab13c98dacf8 blk 320408 txid 514
 0010d9f72419eded2c73b3f3caec774862f46e718941705bd80b63c00b4af4c6<264\0010d9f72419eded2c73b3f3caec774862f46e718941705bd80?b63c00b4af4c6
 9d037a9e0f50faf9b2bb922f29d1b54259220c31ea347add121f574243f7780a
 36c3fd34ab5995723fdaf30aece0c9fcaad71ee95b20ce93838c00d05a8d7026
 d2b85b447f0e9918f7a27b8f448b7bf5344165a4ad5a9513618bbbe55b5fd4ea
 7XMsUF
 
-tx 3c667e40667c496ff7c220b3abc3db391e8a3ebc158ead91f6b2d9a2b486c6b7
+tx 3c667e40667c496ff7c220b3abc3db391e8a3ebc158ead91f6b2d9a2b486c6b7 blk 320414 txid 487
 0ef9a7cbca3166b61bdaaf1f0652a90b36c661141ec4abe1579c5a939fc94119*330:0ef9a7cbca3166b61bdaaf1f0652a90b36c661141ec4abe1579c5a939fc94119
 9ade3622d578a2b70ff94204c5588d542d61a48c8903113f4f76b72b1ef62962
 71dd7e8b8ad0902bda1a7648fe30b65dea2537b709cec2823f87270a5bb0e640
@@ -353,7 +353,7 @@ tx 3c667e40667c496ff7c220b3abc3db391e8a3ebc158ead91f6b2d9a2b486c6b7
 431af36ee6057d9bdb143615502feccb140a401bdab90c7894fcdb5a86d70092
 
 
-tx 0ef9a7cbca3166b61bdaaf1f0652a90b36c661141ec4abe1579c5a939fc94119
+tx 0ef9a7cbca3166b61bdaaf1f0652a90b36c661141ec4abe1579c5a939fc94119 blk 320414 txid 493
 /2529\Isaac Asimov (January 2, 1920 
  April 6, 1992) was an American author and professor of biochemistry at Boston University, best known for his works of science fiction and for his popular science books. Asimov was one of the most prolific writers of all time, having written or edited more than 500 books and an estimated 90,000 letters and postcards. His books have been published in 9 of the 10 major categories of the Dewey Decimal Classification.
 
@@ -365,18 +365,18 @@ Asimov was a long-time member and vice president of Mensa International, albeit 
 =,.$2I@LKG@FEPZsbPUmVEFd
 ;!!;|SFS|||||||||||||||||||||||||||||
 
-tx 9ade3622d578a2b70ff94204c5588d542d61a48c8903113f4f76b72b1ef62962
+tx 9ade3622d578a2b70ff94204c5588d542d61a48c8903113f4f76b72b1ef62962 blk 320414 txid 494
 |||||||||||||||||||||
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 46ed7238d5425f747e4a06fc6fada6385f7828a45098b4006c69ed955f32fc95
+tx 46ed7238d5425f747e4a06fc6fada6385f7828a45098b4006c69ed955f32fc95 blk 320415 txid 442
  feeds.info/static/live/btc-usd.j
 
-tx 4ce4281d933fb16a7c27dd2834de37264cba9ef6409c2022b3974dd70939e1d0
+tx 4ce4281d933fb16a7c27dd2834de37264cba9ef6409c2022b3974dd70939e1d0 blk 320421 txid 865
  feeds.info/static/live/btc-usd.j
 
-tx 543cdd34593063cb8356005d11257242fe146d81239e162dbd78a6f4ae60894d
+tx 543cdd34593063cb8356005d11257242fe146d81239e162dbd78a6f4ae60894d blk 320424 txid 24
 \2813?Sir Isaac Newton PRS MP (25 December 1642 
  20 March 1726/7) was an English physicist and mathematician (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution. His book Philosophi
  Naturalis Principia Mathematica ("Mathematical Principles of Natural Philosophy"), first published in 1687, laid the foundations for classical mechanics. Newton also made seminal contributions to optics and shares credit with Gottfried Leibniz for the invention of calculus.
@@ -390,33 +390,33 @@ Newton was a fellow of Trinity College and the second Lucasian Professor of Math
 IsaacNewton.jpg|6024|(:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
 /cB8Bcccccccccccccccccccccccccc
 
-tx a1e782b5dfe59745a4b992464f9ffca0221766576b49fa05f0834c4d5769d44d
+tx a1e782b5dfe59745a4b992464f9ffca0221766576b49fa05f0834c4d5769d44d blk 320424 txid 25
 cccccccccccccccccccccccc
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx fef87ca8e374f0a5bf93faeab2e943a132df73aa6e108ec8a98385f98d24de7e
+tx fef87ca8e374f0a5bf93faeab2e943a132df73aa6e108ec8a98385f98d24de7e blk 320426 txid 741
  feeds.info/static/live/btc-usd.j
 
-tx 39e10fc9e7d2fa345e83c957271cb64542a2b1040c3acbd56e00eaeb5ba77871
+tx 39e10fc9e7d2fa345e83c957271cb64542a2b1040c3acbd56e00eaeb5ba77871 blk 320429 txid 108
 543cdd34593063cb8356005d11257242fe146d81239e162dbd78a6f4ae60894d\198?543cdd34593063cb8356005d11257242fe146d81239e162dbd78a6f4ae60894d
 a1e782b5dfe59745a4b992464f9ffca0221766576b49fa05f0834c4d5769d44d
 0ecb8dd6767569af641bc820f5e8459f361daebac3911c7d534c8fc1d84ef017
 4ZF4KyUzM3KS
 
-tx ab140d8dab256d9e3a55da7dcd3326a248e51b8c78a810d79288745ab3934ada
+tx ab140d8dab256d9e3a55da7dcd3326a248e51b8c78a810d79288745ab3934ada blk 320437 txid 217
  feeds.info/static/live/btc-usd.j
 
-tx b4869429ef0051d60cab9e9459c50838ddad85c97d600eba53c2a76878f67ae0
+tx b4869429ef0051d60cab9e9459c50838ddad85c97d600eba53c2a76878f67ae0 blk 320440 txid 320
 @hostedvoipcom,32.988948,-117.250225
 
-tx 1bfabec0a13c9b35d9ff0679be05cc7f24874b27598bfdb15f44056ce9cf3cb9
+tx 1bfabec0a13c9b35d9ff0679be05cc7f24874b27598bfdb15f44056ce9cf3cb9 blk 320441 txid 355
  feeds.info/static/live/btc-usd.j
 
-tx 5f114a73c17bb744f4c7cd12e72b2272e173db10bb524ebc92a9ee893e3ea946
+tx 5f114a73c17bb744f4c7cd12e72b2272e173db10bb524ebc92a9ee893e3ea946 blk 320452 txid 296
  feeds.info/static/live/btc-usd.j
 
-tx 44ea2a4945bc1ba7fc6849602bcd6dbbac24e5829841e4bf16f03666eac3ef6f
+tx 44ea2a4945bc1ba7fc6849602bcd6dbbac24e5829841e4bf16f03666eac3ef6f blk 320458 txid 884
 /345*I swear, since seeing Your face,
 the whole world is fraud and fantasy
 The garden is bewildered as to what is leaf
@@ -429,7 +429,7 @@ a beauty whose image fills the mirror of the heart.
 
 RumiciX64JUfd
 
-tx 4708d4ddcf4c53fe1ee9fefa997b0b36441289aabc8c179cbbac83ceb1ec7183
+tx 4708d4ddcf4c53fe1ee9fefa997b0b36441289aabc8c179cbbac83ceb1ec7183 blk 320458 txid 885
 >544*Ode 314
 
  
@@ -461,80 +461,80 @@ and sleep.
 
 Rumiz8Xrp1sibB
 
-tx 9713dd449de4887af88a7410049a377f0906e4349112a00756c6690aab587151
+tx 9713dd449de4887af88a7410049a377f0906e4349112a00756c6690aab587151 blk 320460 txid 130
  feeds.info/static/live/btc-usd.j
 
-tx a280875029e3bf9fe17f92aefae5f2f4beb83485657e7c44351beb29a6792cb6
+tx a280875029e3bf9fe17f92aefae5f2f4beb83485657e7c44351beb29a6792cb6 blk 320470 txid 105
  feeds.info/static/live/btc-usd.j
 
-tx ceebce3e32948a3031948e19f2c43c591724dd4cbc38b0171a64cc0eb1291b6f
+tx ceebce3e32948a3031948e19f2c43c591724dd4cbc38b0171a64cc0eb1291b6f blk 320480 txid 458
  feeds.info/static/live/btc-usd.j
 
-tx 065e7691f5b20558f88c54069f18926ad4e3694921b96b9dd4bf709022829830
+tx 065e7691f5b20558f88c54069f18926ad4e3694921b96b9dd4bf709022829830 blk 320488 txid 358
  feeds.info/static/live/btc-usd.j
 
-tx 1219bbd018b2a54cf441c1c46dbf5e3602c62c41cccda8e8dff8bcb588f1f936
+tx 1219bbd018b2a54cf441c1c46dbf5e3602c62c41cccda8e8dff8bcb588f1f936 blk 320493 txid 216
 EIn honor of ThePOOFs
 
-tx 742b81711003e79336d05cb73b5364fd836cff3d21ad6ff6d8d2eb71bd491e84
+tx 742b81711003e79336d05cb73b5364fd836cff3d21ad6ff6d8d2eb71bd491e84 blk 320494 txid 704
  feeds.info/static/live/btc-usd.j
 
-tx 357b9476303f3c1ea7026e1a0394c21c1aab263f9a3840e8aaf8edccb04b0d62
+tx 357b9476303f3c1ea7026e1a0394c21c1aab263f9a3840e8aaf8edccb04b0d62 blk 320501 txid 854
  feeds.info/static/live/btc-usd.j
 
-tx a82507898d26858e458251b0e67572cb07c8affcaa32f82ffbcc6007168a312a
+tx a82507898d26858e458251b0e67572cb07c8affcaa32f82ffbcc6007168a312a blk 320512 txid 255
  feeds.info/static/live/btc-usd.j
 
-tx b8b30d6d2d15b9ec44ddd3ce5fe95ce18b9e043c7516af667a225a56152ee11f
+tx b8b30d6d2d15b9ec44ddd3ce5fe95ce18b9e043c7516af667a225a56152ee11f blk 320512 txid 257
 )This is the Jesse Livermo
 
-tx 1acb3c5518f1eefde25098cdbf36558804640648836e2dcf5e24bab2b9dbc16e
+tx 1acb3c5518f1eefde25098cdbf36558804640648836e2dcf5e24bab2b9dbc16e blk 320515 txid 480
  feeds.info/static/live/btc-usd.j
 
-tx 2ede1f4730db32d952ba897a3b214183334c54fad549e936a9a9f328cec9e4af
+tx 2ede1f4730db32d952ba897a3b214183334c54fad549e936a9a9f328cec9e4af blk 320523 txid 426
  feeds.info/static/live/btc-usd.j
 
-tx 470076a358d92296b840e5f2477658207ebc76b3e0eef8f5edc1a0644adadd92
+tx 470076a358d92296b840e5f2477658207ebc76b3e0eef8f5edc1a0644adadd92 blk 320528 txid 654
  feeds.info/static/live/btc-usd.j
 
-tx 8492b880802a2d56694128823e7a7cbd03dc56f33bf415cb6788ea5a873997b8
+tx 8492b880802a2d56694128823e7a7cbd03dc56f33bf415cb6788ea5a873997b8 blk 320533 txid 181
 )Crypto-Rewards Program ht
 
-tx e06705e19ce31ad22ec3d5298dd5435368479b371e96b958b57a411faed01d94
+tx e06705e19ce31ad22ec3d5298dd5435368479b371e96b958b57a411faed01d94 blk 320538 txid 269
  feeds.info/static/live/btc-usd.j
 
-tx dc530457c2b85bed98c157b962c0e3c87699aecc2a251964ba57670ad83af645
+tx dc530457c2b85bed98c157b962c0e3c87699aecc2a251964ba57670ad83af645 blk 320548 txid 650
  feeds.info/static/live/btc-usd.j
 
-tx 7b375a304e512852ccdd2637f3bf0c7bc5bfdcd1d8e5d28925559df2bd8c2879
+tx 7b375a304e512852ccdd2637f3bf0c7bc5bfdcd1d8e5d28925559df2bd8c2879 blk 320554 txid 175
  feeds.info/static/live/btc-usd.j
 
-tx 09f847fbbd7fac568223f053657056497f12126a187fd6ac6fa2eb20ea6e5a28
+tx 09f847fbbd7fac568223f053657056497f12126a187fd6ac6fa2eb20ea6e5a28 blk 320561 txid 722
  feeds.info/static/live/btc-usd.j
 
-tx bca900fc97c90380b70048b88894e040f292baac63e487c9d1bc4d889af7c63e
+tx bca900fc97c90380b70048b88894e040f292baac63e487c9d1bc4d889af7c63e blk 320570 txid 262
  feeds.info/static/live/btc-usd.j
 
-tx 2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73
+tx 2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73 blk 320571 txid 1163
 "23>Found on Mady's camera.EMBII.jpg/749(:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
 /cB8Bcccccccccccccccccccccccccc
 
-tx b7c8dc2a14a2be8a77cbb7436e1eed2c6ccdcd619b764cef5ab00a54cc3d59e5
+tx b7c8dc2a14a2be8a77cbb7436e1eed2c6ccdcd619b764cef5ab00a54cc3d59e5 blk 320571 txid 1380
 cccccccccccccccccccccccc
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 5bfd6eab2df2eb615dd72172408e02e07fddba2f00fed9b80cd66c0b115ee03d
+tx 5bfd6eab2df2eb615dd72172408e02e07fddba2f00fed9b80cd66c0b115ee03d blk 320571 txid 1382
 n2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73"264:2917dd8068d5eb82a8b2b847c9219888b160fd2b952aebd8c13f64b954373d73
 b7c8dc2a14a2be8a77cbb7436e1eed2c6ccdcd619b764cef5ab00a54cc3d59e5
 a4d6a64b2a855d5bb80c77d6ff7ac1d7a4eec8242bef2b9dd7480e66b3df1347
 95e1703db93a3ad08f4a145a7d47242211204dcd0a665fbcba06a1843ce5ef6f
 tjKSKk
 
-tx fce0911931e2ec9d360e0065cb3b49838eec55f12f458d276732f9890fed24d6
+tx fce0911931e2ec9d360e0065cb3b49838eec55f12f458d276732f9890fed24d6 blk 320575 txid 81
  feeds.info/static/live/btc-usd.j
 
-tx 6e184bb74d8bce1241420178cbf11a847f7f9523ae7d56b5ce30a3139811208b
+tx 6e184bb74d8bce1241420178cbf11a847f7f9523ae7d56b5ce30a3139811208b blk 320578 txid 526
 "1781>Sir Arthur Charles Clarke (16 December 1917 
  19 March 2008) was a British science fiction writer, science writer, inventor, undersea explorer, and television series host.
 
@@ -556,7 +556,7 @@ He lived in Sri Lanka until his death. He was knighted in 1998 and was awarded S
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx c6924069d8526ae2da2b9112c09423299f51641728c98bf6230b37b493581b3e
+tx c6924069d8526ae2da2b9112c09423299f51641728c98bf6230b37b493581b3e blk 320578 txid 530
 6e184bb74d8bce124142v
 0178cbf11a847f7f9523ae7d56b5ce30a3139811208b|264\6e184bb74d8bce1241420178cbf11a847f7f9523ae7d56b5ce30a3139811208b
 fdcf0f1421d28d3bc5bc020f4270e27cacf8d9b526dfeecded49c6e8a79ab325
@@ -564,7 +564,7 @@ f65e64e289b5990f74c01ad6d9a81af7a42218cd2b96579caeb785c88a7108d0
 0559c17d56ada06aba1ace490a69ae715a20c795ca165c543cab6fbdd8d5e9fb
 nBioUt
 
-tx 9448c2edb9d21c82591c4fa3a2147c0a854f71a0c27030ee908d423f1c994abd
+tx 9448c2edb9d21c82591c4fa3a2147c0a854f71a0c27030ee908d423f1c994abd blk 320580 txid 769
 /2076/Robert Anson Heinlein (July 7, 1907 
  May 8, 1988) was an American science fiction writer. Often called the "dean of science fiction writers", he was one of the most influential and controversial authors of the genre in his time. He set a standard for scientific and engineering plausibility, and helped to raise the genre's standards of literary quality.
 
@@ -578,11 +578,11 @@ Within the framework of his science fiction stories, Heinlein repeatedly address
 Heinlein was named the first Science Fiction Writers Grand Master in 1974. He won Hugo Awards for four of his novels; in addition, fifty years after publication, three of his works were awarded "Retro Hugos"
 awards given retrospectively for works that were published before the Hugo Awards came into existence. In his fiction, Heinlein coined words that have become part of the English language, including "grok" and "waldo", and popularized the terms "TANSTAAFL" and space marine. He also described a modern version of a waterbed in his novel The Door Into Summer, though he never patented or built one. Several of Heinlein's works have been adapted for film and television.RobertHeinlein.jpg|8926\
 
-tx dfdf266e87bbf6514ec148379a18eb810990ebc0c705070f375ec888f8a327f2
+tx dfdf266e87bbf6514ec148379a18eb810990ebc0c705070f375ec888f8a327f2 blk 320580 txid 821
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 750f4b5530cbe03128ed4167b4184493a55bae32f1daa08a949d0209c9f7a7bc
+tx 750f4b5530cbe03128ed4167b4184493a55bae32f1daa08a949d0209c9f7a7bc blk 320580 txid 824
 9448c2edb9d21c82591c4fa3a2147c0a854f71a0c27030ee908d423f1c994abd?2178/9448c2edb9d21c82591c4fa3a2147c0a854f71a0c27030ee908d423f1c994abd
 065bfac124c4644b2288ebf53e53a65e323209410f4cce564be0d216c3010692
 5833b94e9482710847eeb3200d875d8e8ae67ceb59b8db723c8c182c4f030b19
@@ -618,7 +618,7 @@ dfdf266e87bbf6514ec148379a18eb810990ebc0c705070f375ec888f8a327f2
 f8268ac4adf360cd139e173aaa831a55e55a0d5b779195c5573ac67e747d9174
 NVAMmiPzBS2
 
-tx 48e13a940dd77f1132185d896cec206ed46654fd515c651c05c0a8dc1698b95d
+tx 48e13a940dd77f1132185d896cec206ed46654fd515c651c05c0a8dc1698b95d blk 320582 txid 112
 odowska-Curie (7 November 1867 
  4 July 1934) was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person (and only woman) to win twice, the only person to win twice in multiple sciences, and was part of the Curie family legacy of five Nobel Prizes. She was also the first woman to become a professor at the University of Paris, and in 1995 became the first woman to be entombed on her own merits in the Panthon in Paris.
 
@@ -639,87 +639,87 @@ $" &0P40,,0bFJ:Ptfzxrfpn
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 59f5b76fce65a9cba95bb778e9ca2026fa2d4fd35cad10a9251b90e1685e0137
+tx 59f5b76fce65a9cba95bb778e9ca2026fa2d4fd35cad10a9251b90e1685e0137 blk 320582 txid 115
 48e13a940dd77f1132185d896cec206ed46654fd515c651c05c0a8dc1698b95d*198\48e13a940dd77f1132185d896cec206ed46654fd515c651c05c0a8dc1698b95d
 165c3a738f93b5a1b464b711569728a889815be2739cebe36e649d0a4c2c8548
 8c86e3a8c0eb4557f8408d0fedffae23ac314eefc7302b8f1e66abac38c
 
-tx 0db4dbb2bd1c8d72d7a1c8b797fbfe82a9d7328b258b46f08903006f755275de
+tx 0db4dbb2bd1c8d72d7a1c8b797fbfe82a9d7328b258b46f08903006f755275de blk 320583 txid 243
 https://www.zinzino.com/
 
-tx 1cd4717b4eb499156290935396e2836ba6f834b0a072e0a9c4371abd7a8e90be
+tx 1cd4717b4eb499156290935396e2836ba6f834b0a072e0a9c4371abd7a8e90be blk 320583 txid 244
 https://www.zinzino.com/
 
-tx c8096fda711de9a65d911f7183cde76d224dd76275d75adc8d1a51877435cfc6
+tx c8096fda711de9a65d911f7183cde76d224dd76275d75adc8d1a51877435cfc6 blk 320583 txid 250
  feeds.info/static/live/btc-usd.j
 
-tx a8ea55373e2baec842f1aff266606fb1c754d016a5c6268e4dd121bcefdab0d2
+tx a8ea55373e2baec842f1aff266606fb1c754d016a5c6268e4dd121bcefdab0d2 blk 320596 txid 385
  feeds.info/static/live/btc-usd.j
 
-tx 74dcbb83b68924bf7a50e0cc9076dce1264008dc769e701f9725286cc5061dbb
+tx 74dcbb83b68924bf7a50e0cc9076dce1264008dc769e701f9725286cc5061dbb blk 320599 txid 1139
  feeds.info/static/live/btc-usd.j
 
-tx 69471ffcff7ca8e9701e00181df17914ff14c76dc53ae5b72854f6864917b19b
+tx 69471ffcff7ca8e9701e00181df17914ff14c76dc53ae5b72854f6864917b19b blk 320603 txid 608
  feeds.info/static/live/btc-usd.j
 
-tx 5fd6744902e3b7ca39682daddfbad55440e6fe46b838fa6959e94f52a4e19ee0
+tx 5fd6744902e3b7ca39682daddfbad55440e6fe46b838fa6959e94f52a4e19ee0 blk 320609 txid 790
  feeds.info/static/live/btc-usd.j
 
-tx 2d7ec824ed7b80bd75b5f5e34017ad81f1b55f6c154ed4b7d8a0acc64412e40e
+tx 2d7ec824ed7b80bd75b5f5e34017ad81f1b55f6c154ed4b7d8a0acc64412e40e blk 320613 txid 397
  feeds.info/static/live/btc-usd.j
 
-tx 26b8442ee2bb05cd268ed32a7885a2b3a2035e9ee2d99bc5fdb3f7dd10151356
+tx 26b8442ee2bb05cd268ed32a7885a2b3a2035e9ee2d99bc5fdb3f7dd10151356 blk 320619 txid 138
  feeds.info/static/live/btc-usd.j
 
-tx c63d1b85ba7c601be63ab2b2b50b3b7bdc23fc7bd6b7cb9aebcad16d327035b5
+tx c63d1b85ba7c601be63ab2b2b50b3b7bdc23fc7bd6b7cb9aebcad16d327035b5 blk 320624 txid 305
  feeds.info/static/live/btc-usd.j
 
-tx 3df4e9eafc1542477ee060e7c17f1a12cbfb65f1de316382e4eb50554db321a0
+tx 3df4e9eafc1542477ee060e7c17f1a12cbfb65f1de316382e4eb50554db321a0 blk 320631 txid 410
  feeds.info/static/live/btc-usd.j
 
-tx b5369b89c8120d8291b7bed450298c11773bbb589c41de439fba719ca6daeb6a
+tx b5369b89c8120d8291b7bed450298c11773bbb589c41de439fba719ca6daeb6a blk 320637 txid 182
  feeds.info/static/live/btc-usd.j
 
-tx b14dbd46d0e30644ed6f63159f0aebd47615c41416d9bd75d0e80e0f0489de66
+tx b14dbd46d0e30644ed6f63159f0aebd47615c41416d9bd75d0e80e0f0489de66 blk 320646 txid 721
  feeds.info/static/live/btc-usd.j
 
-tx b649d68e71ddc5591b0bf17bc68b3f9d3a4f577d84da3b0825d1bf94e1e31b92
+tx b649d68e71ddc5591b0bf17bc68b3f9d3a4f577d84da3b0825d1bf94e1e31b92 blk 320654 txid 121
  feeds.info/static/live/btc-usd.j
 
-tx 5281ffbbf4092ed7fc11da60dd03df445cc8e900adccad4b25a0045008310716
+tx 5281ffbbf4092ed7fc11da60dd03df445cc8e900adccad4b25a0045008310716 blk 320663 txid 309
  feeds.info/static/live/btc-usd.j
 
-tx 840431c179156af4b9576c4db1ae83413fadab18897c87d32d5f5252d1f4b71b
+tx 840431c179156af4b9576c4db1ae83413fadab18897c87d32d5f5252d1f4b71b blk 320668 txid 1019
  feeds.info/static/live/btc-usd.j
 
-tx 6c6a7550408c52d27094b0b2eb51a2db6d9c6048b3c18f638433c677ec1c3765
+tx 6c6a7550408c52d27094b0b2eb51a2db6d9c6048b3c18f638433c677ec1c3765 blk 320673 txid 715
 :(Tickets for Dragon trade
 
-tx 59840871275b323b2329a222dd64e5788e578ddc4c7f4c28b71b5dc6bb9f83d5
+tx 59840871275b323b2329a222dd64e5788e578ddc4c7f4c28b71b5dc6bb9f83d5 blk 320673 txid 977
  feeds.info/static/live/btc-usd.j
 
-tx 1cf1b9eecd5bf021969e1c13792310f15e312df0bd75577f0789e1b301ace7f7
+tx 1cf1b9eecd5bf021969e1c13792310f15e312df0bd75577f0789e1b301ace7f7 blk 320679 txid 720
  feeds.info/static/live/btc-usd.j
 
-tx d7173425d64711f9ff7f4a1bfc6d099bba2be18bb31e7d0782c5afb94ba29a80
+tx d7173425d64711f9ff7f4a1bfc6d099bba2be18bb31e7d0782c5afb94ba29a80 blk 320680 txid 560
 9nDW BITCOIN DIFFICULTY
 
-tx 3eace40adee2133111a447d51515ef94828e5d492419768bbb38931ed2caa29c
+tx 3eace40adee2133111a447d51515ef94828e5d492419768bbb38931ed2caa29c blk 320689 txid 924
  feeds.info/static/live/btc-usd.j
 
-tx 3a32e5b77d1e9ccca089ca5ca5438bbae0e9c20f1b6b0a8ee9d8ef9d2e5bc9e2
+tx 3a32e5b77d1e9ccca089ca5ca5438bbae0e9c20f1b6b0a8ee9d8ef9d2e5bc9e2 blk 320692 txid 404
 :(Tickets for Dragon trade
 
-tx 64f66a0ea93ca8bda098b34fd23ae47de2398149df1e2557aaefdafc38987090
+tx 64f66a0ea93ca8bda098b34fd23ae47de2398149df1e2557aaefdafc38987090 blk 320697 txid 1378
  feeds.info/static/live/btc-usd.j
 
-tx 5d1971e126b27dee63690db5bc06f33bcdd50fffea1a4143ce82fe505d65183c
+tx 5d1971e126b27dee63690db5bc06f33bcdd50fffea1a4143ce82fe505d65183c blk 320702 txid 1008
  feeds.info/static/live/btc-usd.j
 
-tx cd78d43ee4a30ea2d2aed84b9ec03205bf804bc47240542fd1a84deb983b7f2e
+tx cd78d43ee4a30ea2d2aed84b9ec03205bf804bc47240542fd1a84deb983b7f2e blk 320703 txid 443
 V t.io/feed/131JuvBgFwNEa5nMny2fin
 
-tx 4507cbd69cd50b47676d71a3a2b20bbb943abb9e487269467926636bbd6c1907
+tx 4507cbd69cd50b47676d71a3a2b20bbb943abb9e487269467926636bbd6c1907 blk 320706 txid 384
 2014-09-13  450660e93dbc301b817d4c2e7759d37bb78
 London Bitcoin Squat, Arthur Gives Us a Tour - EDIT S1
 by Chris Ellis #WorldCryptoNetwork
@@ -729,13 +729,13 @@ magnet:?xt=urn:btih:93e4120952a7aa73c60a21f3c874555aad651a6f
 SHA-1: 5b26c56ff20a791aeb1cfe8908d4c7e70219eec0
 
 
-tx cce7a00a7c88778e5915515ecc771c32db2294e14ff639a922df9efe1afcd44e
+tx cce7a00a7c88778e5915515ecc771c32db2294e14ff639a922df9efe1afcd44e blk 320709 txid 420
 )Dividend shares in the BT
 
-tx ba675a10701f637d805381b2c621f89b5330f0fd576852b0f456bb9b82496145
+tx ba675a10701f637d805381b2c621f89b5330f0fd576852b0f456bb9b82496145 blk 320711 txid 438
  feeds.info/static/live/btc-usd.j
 
-tx 937c4e9450d05c2042610665185dc3f27053ce36204132f4f61a9c6ebc24149c
+tx 937c4e9450d05c2042610665185dc3f27053ce36204132f4f61a9c6ebc24149c blk 320713 txid 565
 sp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -745,7 +745,7 @@ sp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
  
 
-tx 1b21a0c01c5e335dd72d40cbed7d26b5af5ae503afdfe5ec09a3ce99828f8716
+tx 1b21a0c01c5e335dd72d40cbed7d26b5af5ae503afdfe5ec09a3ce99828f8716 blk 320713 txid 613
 nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
  
 <BR>
@@ -768,7 +768,7 @@ nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">7</FONT>
   [
 
-tx de76358f718e60fd8ec835c3c5b2e98abd2351ab27aa56e8190130004e5d48e2
+tx de76358f718e60fd8ec835c3c5b2e98abd2351ab27aa56e8190130004e5d48e2 blk 320713 txid 654
 |154*The Mahabharata
 
 Book 18: Svargarohanika Parva
@@ -815,7 +815,7 @@ na Bhagavad Gita">
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 8a839bc5abb918ab55fcac94ee665cbb0b0550cb96643c95da7a610b4e8fa8e7
+tx 8a839bc5abb918ab55fcac94ee665cbb0b0550cb96643c95da7a610b4e8fa8e7 blk 320713 txid 656
 sp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
@@ -831,7 +831,7 @@ sp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">11</FONT>
  
 
-tx e51cef4dbe2eab5d2634fef3987ea0451081c504d446206d24b87fac045206f0
+tx e51cef4dbe2eab5d2634fef3987ea0451081c504d446206d24b87fac045206f0 blk 320713 txid 725
 T COLOR="GREEN" SIZE="-1">16</FONT>
  
 <BR>
@@ -847,7 +847,7 @@ T COLOR="GREEN" SIZE="-1">16</FONT>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 010ca3dffabed4f2aa82c4e53f69d046cdf0bdc580cbd1530910aa2b5fb8cc37
+tx 010ca3dffabed4f2aa82c4e53f69d046cdf0bdc580cbd1530910aa2b5fb8cc37 blk 320713 txid 726
 sp;<FONT COLOR="GREEN" SIZE="-1">19</FONT>
  
 <BR>
@@ -865,7 +865,7 @@ no yayau ttatra yatra te kurupu
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
  dadar
 
-tx e798cb29ab29814c730285aee399f367f0bba66a1a2d6618c596318bc5ce2012
+tx e798cb29ab29814c730285aee399f367f0bba66a1a2d6618c596318bc5ce2012 blk 320713 txid 728
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -898,7 +898,7 @@ tx e798cb29ab29814c730285aee399f367f0bba66a1a2d6618c596318bc5ce2012
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx d6525a3ce81ee5417016b53cb2a0c08d839c9631f4efd95ef0a04c798bc58f57
+tx d6525a3ce81ee5417016b53cb2a0c08d839c9631f4efd95ef0a04c798bc58f57 blk 320713 txid 729
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">18</FONT>
  
@@ -924,7 +924,7 @@ tx d6525a3ce81ee5417016b53cb2a0c08d839c9631f4efd95ef0a04c798bc58f57
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx b06e2dd9dfa095c7ad0b18b16d7d926213845d8cb7d550a21f32efcc663d854e
+tx b06e2dd9dfa095c7ad0b18b16d7d926213845d8cb7d550a21f32efcc663d854e blk 320713 txid 730
  COLOR="GREEN" SIZE="-1">22</FONT>
  
 <BR>
@@ -938,7 +938,7 @@ tx b06e2dd9dfa095c7ad0b18b16d7d926213845d8cb7d550a21f32efcc663d854e
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">24</FONT>
  
 
-tx b683bd0572764e566a2fc1f0e841ac32057ed8aa22a6bdc3e31d5987e81b7110
+tx b683bd0572764e566a2fc1f0e841ac32057ed8aa22a6bdc3e31d5987e81b7110 blk 320713 txid 731
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">25</FONT>
  
@@ -961,7 +961,7 @@ tx b683bd0572764e566a2fc1f0e841ac32057ed8aa22a6bdc3e31d5987e81b7110
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 640a484236c142c9f02478ce9f470769122f1f8646a8b1f95d9e8eccec5f7ffa
+tx 640a484236c142c9f02478ce9f470769122f1f8646a8b1f95d9e8eccec5f7ffa blk 320713 txid 732
 COLOR="GREEN" SIZE="-1">29</FONT>
  
 <BR>
@@ -982,7 +982,7 @@ COLOR="GREEN" SIZE="-1">29</FONT>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 8ae18ae474519d4f8e7a20b6ae5654f63eb7149b0f7e5d84c0824673dd4c405f
+tx 8ae18ae474519d4f8e7a20b6ae5654f63eb7149b0f7e5d84c0824673dd4c405f blk 320713 txid 733
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">33</FONT>
  
@@ -997,7 +997,7 @@ tx 8ae18ae474519d4f8e7a20b6ae5654f63eb7149b0f7e5d84c0824673dd4c405f
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">35</FONT>
  
 
-tx fc0c6e2923a48108a656ddca87986c7216451574e4964e5ab8ee7c9c055fa8a0
+tx fc0c6e2923a48108a656ddca87986c7216451574e4964e5ab8ee7c9c055fa8a0 blk 320713 txid 734
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1029,7 +1029,7 @@ tx fc0c6e2923a48108a656ddca87986c7216451574e4964e5ab8ee7c9c055fa8a0
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">41</FONT>
  
 
-tx 0b1e9569231bfd6f753c335e1ba67999b6f918fefa8ab767764ab5354f8fffc9
+tx 0b1e9569231bfd6f753c335e1ba67999b6f918fefa8ab767764ab5354f8fffc9 blk 320713 txid 735
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1057,7 +1057,7 @@ tx 0b1e9569231bfd6f753c335e1ba67999b6f918fefa8ab767764ab5354f8fffc9
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 0f90581662f5743236b827aa2c1228891620b4e3f46ad90eb1174ebc47b39957
+tx 0f90581662f5743236b827aa2c1228891620b4e3f46ad90eb1174ebc47b39957 blk 320713 txid 737
 p;&nbsp;&nbsp;&nbsp;&nbsp; dv
 <BR>
 &nbsp;&nbsp;<FONT W
@@ -1084,7 +1084,7 @@ m arkavarcasam<BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
  
 
-tx 399eeca8fffb1693c14801b78367f19961b55c60510861bbe41bab4d54024cf4
+tx 399eeca8fffb1693c14801b78367f19961b55c60510861bbe41bab4d54024cf4 blk 320713 txid 738
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ayonij
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
@@ -1100,14 +1100,14 @@ tx 399eeca8fffb1693c14801b78367f19961b55c60510861bbe41bab4d54024cf4
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">12</FONT>
  pa
 
-tx 017c30efad85dfb36fd83355d16dad5f7293a20193c4305bb6020afcb84e49cf
+tx 017c30efad85dfb36fd83355d16dad5f7293a20193c4305bb6020afcb84e49cf blk 320713 txid 739
 
 &nbsp;&nbsp;&nbsp;&nbsp; ena
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">13</FONT>
  aya
 
-tx 3133c6f5d1666b7759fb2df4026785211a2bbfe4011d0211c39cc0e595aa67b0
+tx 3133c6f5d1666b7759fb2df4026785211a2bbfe4011d0211c39cc0e595aa67b0 blk 320713 txid 740
 
 &nbsp;&nbsp;&nbsp;&nbsp; s
 <BR>
@@ -1126,7 +1126,7 @@ jitam<BR>
 karasamadyutim<BR>
 &nbs
 
-tx 175c28c648878f703bd2a2d4445f940c111e62203444580482995ca4a92e6c4d
+tx 175c28c648878f703bd2a2d4445f940c111e62203444580482995ca4a92e6c4d blk 320713 txid 741
 p;<FONT COLOR="GREEN" SIZE="-1">16</FONT>
  e
 <BR>
@@ -1142,7 +1142,7 @@ maya<BR>
 ava<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; gandharvai
 
-tx 5716c7b9b210c5679e5c8e7f944d0f4d8e8c6735729f9f7cfb6186c9d3246802
+tx 5716c7b9b210c5679e5c8e7f944d0f4d8e8c6735729f9f7cfb6186c9d3246802 blk 320713 txid 744
 p;<FONT COLOR="GREEN" SIZE="-1">19</FONT>
  guhyak
 <BR>
@@ -1188,12 +1188,12 @@ abharata.jpg" BORDER="0"></A><BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
  
 
-tx 988021eee00c5099a378352aca2f1bbb45f79b483ba93ee7bd4340190aa79de3
+tx 988021eee00c5099a378352aca2f1bbb45f79b483ba93ee7bd4340190aa79de3 blk 320713 txid 745
 bsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">3</Fxj
 
-tx 8bee55fb46344045f006c26646d5eb35ed4b94d1f461da3d8bfbedf81cf8d484
+tx 8bee55fb46344045f006c26646d5eb35ed4b94d1f461da3d8bfbedf81cf8d484 blk 320713 txid 746
 bsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
@@ -1208,7 +1208,7 @@ bsp;&nbsp;&nbsp;&nbsp;
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 424da2b1947f5e25218a50bcafc3514f48c3613bab255cbf3162f609c2365505
+tx 424da2b1947f5e25218a50bcafc3514f48c3613bab255cbf3162f609c2365505 blk 320713 txid 747
 ;&nbsp;<FONT COLOR="GREEN" SIZE="-1">6</FONT>
  
 <BR>
@@ -1228,7 +1228,7 @@ tx 424da2b1947f5e25218a50bcafc3514f48c3613bab255cbf3162f609c2365505
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx deebe2a38c1c34239925898934d9f8da1360897a7fa90d744feff1f4a1e76553
+tx deebe2a38c1c34239925898934d9f8da1360897a7fa90d744feff1f4a1e76553 blk 320713 txid 750
 
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">47</FONT>
  
@@ -1275,7 +1275,7 @@ tx deebe2a38c1c34239925898934d9f8da1360897a7fa90d744feff1f4a1e76553
   [j]<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bh
 
-tx 0ded9a9863279d0a0989866a0f0513f70de297d1b44a0126b18edf1a600a581f
+tx 0ded9a9863279d0a0989866a0f0513f70de297d1b44a0126b18edf1a600a581f blk 320713 txid 751
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vir
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
@@ -1298,7 +1298,7 @@ sa me<BR>
  
  tatra dvijottama<BR
 
-tx 7cc066b7039e3be44a95ffad67ec578d958f29fc113fbfd9f8e78f261e08d622
+tx 7cc066b7039e3be44a95ffad67ec578d958f29fc113fbfd9f8e78f261e08d622 blk 320713 txid 752
 >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; anye v<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; etad icch
@@ -1311,7 +1311,7 @@ ta]<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vy
 tum upacakrame<BR>
 
-tx 6170a4f7716b05947de6e222a08dca28867b0f4748c72d1dbc7db18a4793a6df
+tx 6170a4f7716b05947de6e222a08dca28867b0f4748c72d1dbc7db18a4793a6df blk 320713 txid 753
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">7</FONT>
   [vai]<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gantavya
@@ -1350,7 +1350,7 @@ rthiva<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; ni<BR>
 &nbsp;<FONT CO
 
-tx 5daa0d3af6612814d0b9220ac96439b01d8f512d956b70519c47acd7bb273d65
+tx 5daa0d3af6612814d0b9220ac96439b01d8f512d956b70519c47acd7bb273d65 blk 320713 txid 754
 LOR="GREEN" SIZE="-1">14</FONT>
  bh
 &nbsp;&nbsp;&nbsp;&nbsp; ugrasenas tath
@@ -1367,7 +1367,7 @@ n<BR>
 hasya phalgunasya suto 'bhavat<BR>
 &nbsp;<FONT CO
 
-tx b7271cfff10f41ccac0c79f6b8c45965c3875f71fba3aa23db52855b8ca9a413
+tx b7271cfff10f41ccac0c79f6b8c45965c3875f71fba3aa23db52855b8ca9a413 blk 320713 txid 755
 LOR="GREEN" SIZE="-1">17</FONT>
  sa yuddhv
 n kva cit<BR>
@@ -1391,7 +1391,7 @@ talam<BR>
 rayat<BR>
 &nbsp;<FONT CO
 
-tx c0b73fde7292b1ef5dff29ed56b65b5bed9fc2e16e3c38ae97e24d67094c6470
+tx c0b73fde7292b1ef5dff29ed56b65b5bed9fc2e16e3c38ae97e24d67094c6470 blk 320713 txid 756
 LOR="GREEN" SIZE="-1">21</FONT>
  
 <BR>
@@ -1406,7 +1406,7 @@ gaman<BR>
  ca bhejire<BR>
 &nbsp;<FONT CO
 
-tx 02fe5be144ba118a1453f851e91be0040c0af222610ea3288972c7aa0f0b1187
+tx 02fe5be144ba118a1453f851e91be0040c0af222610ea3288972c7aa0f0b1187 blk 320713 txid 757
 LOR="GREEN" SIZE="-1">23</FONT>
  duryodhana sah
 <BR>
@@ -1428,7 +1428,7 @@ rata<BR>
 ta]<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; etac chrutv
 
-tx 5d3b9a9babf270380f14d967610588b99a0d96d013300fc8be7f3659e942faa5
+tx 5d3b9a9babf270380f14d967610588b99a0d96d013300fc8be7f3659e942faa5 blk 320713 txid 758
 
 &nbsp;&nbsp;&nbsp;&nbsp; vismito 'bhavad atyartha
 v atha<BR>
@@ -1461,7 +1461,7 @@ pasya ha<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; at
 
-tx cb74dbe835255adfd3c0e8deaf840182cd73dd9d1c6dc39a4d64266f5326f66b
+tx cb74dbe835255adfd3c0e8deaf840182cd73dd9d1c6dc39a4d64266f5326f66b blk 320713 txid 759
 FONT COLOR="GREEN" SIZE="-1">33</FONT>
  ai
 <BR>
@@ -1475,7 +1475,7 @@ m<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">35</FONT>
  ya ida
 
-tx df5ab4c490c3df892257949d33f1d7f439b1a48438443f5a4d62af8c4c49c47c
+tx df5ab4c490c3df892257949d33f1d7f439b1a48438443f5a4d62af8c4c49c47c blk 320713 txid 760
 nbsp;&nbsp;&nbsp;&nbsp; dh
  jitasvargo brahmabh
 ya gacchati<BR>
@@ -1501,7 +1501,7 @@ sti na tat kva cit<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; raj
 
-tx 0a40b6b55435955f8e4da0a170fff581a9f806002cc9c1d78b1746a28c53a4ba
+tx 0a40b6b55435955f8e4da0a170fff581a9f806002cc9c1d78b1746a28c53a4ba blk 320713 txid 761
 p;<FONT COLOR="GREEN" SIZE="-1">40</FONT>
  svargak
 mo labhej jayam<BR>
@@ -1527,7 +1527,7 @@ mitam<BR>
 aunaka<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; gacchet paramik
 
-tx ce8001b7ee947d7b7050b43541d14cbc81df7040042c7a0a9922c8075541aefd
+tx ce8001b7ee947d7b7050b43541d14cbc81df7040042c7a0a9922c8075541aefd blk 320713 txid 762
 p;<FONT COLOR="GREEN" SIZE="-1">45</FONT>
  bh
 <BR>
@@ -1562,7 +1562,7 @@ vo nityo hetur asya tv anitya
 het<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; sa bh
 
-tx 51515b809ac1edc0966d93d4eb09068a69e85e39b7d6ddde343e3cdf0544d548
+tx 51515b809ac1edc0966d93d4eb09068a69e85e39b7d6ddde343e3cdf0544d548 blk 320713 txid 763
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">52</FONT>
  yath
 <BR>
@@ -1613,7 +1613,7 @@ s18004.htm\11227"<HTML>
 ]<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx dd86011be4d9c02280ed1bf34d3ac1283f3bbbbdec0e6df366bb10e98bb65646
+tx dd86011be4d9c02280ed1bf34d3ac1283f3bbbbdec0e6df366bb10e98bb65646 blk 320713 txid 764
 BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1634,12 +1634,12 @@ BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 692842fa9c8833f78fa5907c6d50d5fe066baf7b5638eb839010c0a68c5cb6cb
+tx 692842fa9c8833f78fa5907c6d50d5fe066baf7b5638eb839010c0a68c5cb6cb blk 320713 txid 765
 
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">5</FONT>
  
 
-tx 200b9e58a9416fa880fe7292779528b0da7c53a000663e018f6e6f1319aa518d
+tx 200b9e58a9416fa880fe7292779528b0da7c53a000663e018f6e6f1319aa518d blk 320713 txid 766
 
 &nbsp;&nbsp;<FONT CM
 OLOR="GREEN" SIZE="-1">6</FONT>
@@ -1650,7 +1650,7 @@ OLOR="GREEN" SIZE="-1">6</FONT>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">7</FONT>
  
 
-tx b939c12192507aedd65ee128ceaf0ddc604e281ca2736d0ef26c6854bd679fa6
+tx b939c12192507aedd65ee128ceaf0ddc604e281ca2736d0ef26c6854bd679fa6 blk 320713 txid 767
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
  
@@ -1660,7 +1660,7 @@ tx b939c12192507aedd65ee128ceaf0ddc604e281ca2736d0ef26c6854bd679fa6
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
  
 
-tx 8aba28e2ad1828a6b77079b501df8ad7865ad716f844844bfeba75820535ec34
+tx 8aba28e2ad1828a6b77079b501df8ad7865ad716f844844bfeba75820535ec34 blk 320713 txid 768
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
@@ -1675,7 +1675,7 @@ tx 8aba28e2ad1828a6b77079b501df8ad7865ad716f844844bfeba75820535ec34
 <BR>
 &nbsp;<FONT COL
 
-tx f44d3ef6006c7b168df87bff5b7dd9b4af9c3de0f5f4e0d6f3c3eb740ce04942
+tx f44d3ef6006c7b168df87bff5b7dd9b4af9c3de0f5f4e0d6f3c3eb740ce04942 blk 320713 txid 769
 OR="GREEN" SIZE="-1">12</FONT>
  
 <BR>
@@ -1700,7 +1700,7 @@ OR="GREEN" SIZE="-1">12</FONT>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx fff1ea76b46e632f2658e2facf66fc91ba394e33dfaf8dd82dbc0e735122e3f8
+tx fff1ea76b46e632f2658e2facf66fc91ba394e33dfaf8dd82dbc0e735122e3f8 blk 320713 txid 770
 nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tenaiva d
 citam<BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">3</FONT>
@@ -1715,7 +1715,7 @@ a phalgunena suvarcas
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
  aparasminn athodde
 
-tx 867fefd0a63ffebc1f9ae66b6477ea220eb0e494c2a195bd654d4c3f882fc307
+tx 867fefd0a63ffebc1f9ae66b6477ea220eb0e494c2a195bd654d4c3f882fc307 blk 320713 txid 771
 sp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
  
 <BR>
@@ -1742,7 +1742,7 @@ sp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">14</FONT>
  
 
-tx 3dc6c37b6946d42ad515594e52615642b10e94a87a8539cd7afe561f74211d58
+tx 3dc6c37b6946d42ad515594e52615642b10e94a87a8539cd7afe561f74211d58 blk 320713 txid 772
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1770,7 +1770,7 @@ COLOR="GREEN" SIZE="-1">18</FONT>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">19</FONT>
  
 
-tx 8fc148dc7126e4802db69f65e2739fe3001e84cd9555ca28196141a3aa564608
+tx 8fc148dc7126e4802db69f65e2739fe3001e84cd9555ca28196141a3aa564608 blk 320713 txid 773
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1826,7 +1826,7 @@ tx 8fc148dc7126e4802db69f65e2739fe3001e84cd9555ca28196141a3aa564608
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">30</FONT>
  
 
-tx 436402c36f5dd5d4708a1dbfa5e1f18283e11f944ba09ec7cc1a7364c538fc11
+tx 436402c36f5dd5d4708a1dbfa5e1f18283e11f944ba09ec7cc1a7364c538fc11 blk 320713 txid 774
 BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -1843,7 +1843,7 @@ BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx eefa35816f5763070f2ea216e5aab8499e67d822c8d006856905c2e273d253ac
+tx eefa35816f5763070f2ea216e5aab8499e67d822c8d006856905c2e273d253ac blk 320713 txid 775
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">34</FONT>
  
@@ -1855,7 +1855,7 @@ tx eefa35816f5763070f2ea216e5aab8499e67d822c8d006856905c2e273d253ac
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 37dfd47fa6a1c9890683eceac4bb5526fd628805f7eff48e3854a840383b24eb
+tx 37dfd47fa6a1c9890683eceac4bb5526fd628805f7eff48e3854a840383b24eb blk 320713 txid 776
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">36</FONT>
  
@@ -1876,7 +1876,7 @@ tx 37dfd47fa6a1c9890683eceac4bb5526fd628805f7eff48e3854a840383b24eb
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 47f026dc014adb8e52fb70f76be7c80cbf6745e68f4a07e09ee4e984661381fa
+tx 47f026dc014adb8e52fb70f76be7c80cbf6745e68f4a07e09ee4e984661381fa blk 320713 txid 777
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">40</FONT>
  
@@ -1893,7 +1893,7 @@ tx 47f026dc014adb8e52fb70f76be7c80cbf6745e68f4a07e09ee4e984661381fa
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">1</FONT>
   [vai]<B
 
-tx 4cdac0fc114cc4e7a3f3a9d79fb87661990476dc155e6e50a8b5d9faf4d2651a
+tx 4cdac0fc114cc4e7a3f3a9d79fb87661990476dc155e6e50a8b5d9faf4d2651a blk 320713 txid 778
 R>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sthite muh
 hire<BR>
@@ -1913,7 +1913,7 @@ pa<BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
  n
 
-tx 0f0f4ec5fcd55b887b8f9a2096820e6675747fc1bf79400ad66d4af9aba093ed
+tx 0f0f4ec5fcd55b887b8f9a2096820e6675747fc1bf79400ad66d4af9aba093ed blk 320713 txid 779
 sp;&nbsp;&nbsp;&nbsp;&nbsp; nad
  saha<BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">5</FONT>
@@ -1932,7 +1932,7 @@ bhavan<BR>
 vinau saha<BR>
 &nbsp;&nb
 
-tx 74ddea7fa338c8b7483759a11dcf0d2ebc4465ef998a3d914e865e28106f0340
+tx 74ddea7fa338c8b7483759a11dcf0d2ebc4465ef998a3d914e865e28106f0340 blk 320713 txid 780
 sp;&nbsp;&nbsp;&nbsp; s
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
@@ -1957,7 +1957,7 @@ s tava<BR>
  vaco mama<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; ava
 
-tx c308d31aa7882bb6bc18e4b180f54a1de7499ab7f730c311578c501ca02cefea
+tx c308d31aa7882bb6bc18e4b180f54a1de7499ab7f730c311578c501ca02cefea blk 320713 txid 781
 R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">12</FONT>
  
@@ -1969,7 +1969,7 @@ abha<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">13</FONT>
  bh
 
-tx ddb00057b9d23b963d6dac2ffe7ead01b2967f9665ad010c5f537d0a0c30c2eb
+tx ddb00057b9d23b963d6dac2ffe7ead01b2967f9665ad010c5f537d0a0c30c2eb blk 320713 txid 782
 p;&nbsp;&nbsp;&nbsp; tena tvam eva
 pa<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">14</FONT>
@@ -1980,7 +1980,7 @@ ito narakas tava<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">15</FONT>
  yathaiva tva
 
-tx cef9a313230b6e5eb18be5bb66a5afde22c2583a3e1b1b482090483c278d456a
+tx cef9a313230b6e5eb18be5bb66a5afde22c2583a3e1b1b482090483c278d456a blk 320713 txid 783
 p;&nbsp;&nbsp;&nbsp; draupad
 <BR>
 &nbsp;<FONT Cv2
@@ -2004,7 +2004,7 @@ abha<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">19</FONT>
  bhr
 
-tx 2e48ce097f76a89ee9d079a498e0e1585bbe900c01609d87959bf2fefe276a31
+tx 2e48ce097f76a89ee9d079a498e0e1585bbe900c01609d87959bf2fefe276a31 blk 320713 txid 784
 nbsp;&nbsp;&nbsp; sva
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">20</FONT>
@@ -2042,7 +2042,7 @@ yasi<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx bbfefab34f8bb55078b082c40460a906c8b4c796ba9e3ba97cbb7c185534c22c
+tx bbfefab34f8bb55078b082c40460a906c8b4c796ba9e3ba97cbb7c185534c22c blk 320713 txid 785
 
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">27</FONT>
  atra sn
@@ -2061,7 +2061,7 @@ to 'smi tava putraka<BR>
 &nbsp;&nbsp;&nbsp;&nbs ca damena ca<BR>
 &n
 
-tx 6d65cced8297523a2bf24949a9b354d2152c5f7556b7af27c491480d72384076
+tx 6d65cced8297523a2bf24949a9b354d2152c5f7556b7af27c491480d72384076 blk 320713 txid 786
 bsp;<FONT COLOR="GREEN" SIZE="-1">30</FONT>
  e
 <BR>
@@ -2150,7 +2150,7 @@ s18002.htm?27858"<HTML>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">1</FONT>
   [
 
-tx cc5941044257acd9d7ce8dc3bc6d3d043ff0d6dc0ac24f58adf6d5e16d25e5c4
+tx cc5941044257acd9d7ce8dc3bc6d3d043ff0d6dc0ac24f58adf6d5e16d25e5c4 blk 320713 txid 787
 bsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2165,7 +2165,7 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 31e6972b5dd4fe6135077ac6f9ebf1ff596a09fd26b746a6d2ae4f79e754f108
+tx 31e6972b5dd4fe6135077ac6f9ebf1ff596a09fd26b746a6d2ae4f79e754f108 blk 320713 txid 788
 ;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
  
 <BR>
@@ -2188,7 +2188,7 @@ tx 31e6972b5dd4fe6135077ac6f9ebf1ff596a09fd26b746a6d2ae4f79e754f108
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
  
 
-tx f0b23c03d02b1e1a354b5ae4556d274e27fe4a07d4eff30fd893714c0edbb5d1
+tx f0b23c03d02b1e1a354b5ae4556d274e27fe4a07d4eff30fd893714c0edbb5d1 blk 320713 txid 789
 nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
@@ -2196,7 +2196,7 @@ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 4f1dd45fc6a9cdc3ee56e9dc07233690c50bd3d9c7ea554a00826aa6a9b307ae
+tx 4f1dd45fc6a9cdc3ee56e9dc07233690c50bd3d9c7ea554a00826aa6a9b307ae blk 320713 txid 790
 ;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
  
 <BR>
@@ -2239,7 +2239,7 @@ tx 4f1dd45fc6a9cdc3ee56e9dc07233690c50bd3d9c7ea554a00826aa6a9b307ae
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">17</FONT>
  
 
-tx e50225d967ee7a31df22f5c51543b3e4453995cbe199d20ddca7a9580ce8a2c8
+tx e50225d967ee7a31df22f5c51543b3e4453995cbe199d20ddca7a9580ce8a2c8 blk 320713 txid 791
 R>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -2268,7 +2268,7 @@ R>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx c85a75c58e384bb6ee113a986ed01c998803c77a4951eef7b83bc0f919778b1b
+tx c85a75c58e384bb6ee113a986ed01c998803c77a4951eef7b83bc0f919778b1b blk 320713 txid 794
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">23</FONT>
  
@@ -2287,7 +2287,7 @@ p;&nbsp;&nbsp;&nbsp;
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">26</FONT>
  
 
-tx 01cfac2d2bacf514403c4c62022b8a763932119e74e0251fdb527f4ae3a4a7ee
+tx 01cfac2d2bacf514403c4c62022b8a763932119e74e0251fdb527f4ae3a4a7ee blk 320713 txid 795
 bsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">27</FONT>
@@ -2299,7 +2299,7 @@ bsp;&nbsp;&nbsp;&nbsp;
  
 nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 5c52c32c72118a7e4ac59cb73cc3920721daa99f2feff10cd924b87b4afb143d
+tx 5c52c32c72118a7e4ac59cb73cc3920721daa99f2feff10cd924b87b4afb143d blk 320713 txid 796
 nbsp;<FONT COLOR="GREEN" SIZE="-1">29</FONT>
  
 <BR>
@@ -2330,7 +2330,7 @@ nbsp;<FONT COLOR="GREEN" SIZE="-1">29</FONT>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 36380360369eceb45fe9edb9dd0cd57ecd0cbdbc294db11e35148134e60a1676
+tx 36380360369eceb45fe9edb9dd0cd57ecd0cbdbc294db11e35148134e60a1676 blk 320713 txid 797
  COLOR="GREEN" SIZE="-1">35</FONT>
  
 <BR>
@@ -2366,7 +2366,7 @@ tx 36380360369eceb45fe9edb9dd0cd57ecd0cbdbc294db11e35148134e60a1676
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 0c37056300142e87c662a3602d778470f663f665e480ba3d94b978e7e272fe06
+tx 0c37056300142e87c662a3602d778470f663f665e480ba3d94b978e7e272fe06 blk 320713 txid 798
 sp;<FONT COLOR="GREEN" SIZE="-1">42</FONT>
  
 <BR>
@@ -2386,7 +2386,7 @@ nbsp;<FONT COLOR="GREEN" SIZE="-1">45</FONT>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 18514a19815f732aa07936594bd4820bcb5c0d477fb9ae697854f32e89d07a1e
+tx 18514a19815f732aa07936594bd4820bcb5c0d477fb9ae697854f32e89d07a1e blk 320713 txid 799
 R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">46</FONT>
  
@@ -2396,7 +2396,7 @@ R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">47</FONT>
  
 
-tx 0060bb248a55ec6747413ab84773161b11d0d2c9856352c11adde49480c27424
+tx 0060bb248a55ec6747413ab84773161b11d0d2c9856352c11adde49480c27424 blk 320713 txid 800
 R>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -2408,7 +2408,7 @@ R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">49</FONT>
  
 
-tx 3b893d17384f84d86c1c2dca8cdb3e2973a58aa6881f7f7c821ef148e063fa87
+tx 3b893d17384f84d86c1c2dca8cdb3e2973a58aa6881f7f7c821ef148e063fa87 blk 320713 txid 801
 R>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -2434,7 +2434,7 @@ R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">54</FONT>
  
 
-tx 73d4d164f47a3218fd42a64e33dba1d5ee3c03d15cb00bfe62e34e242b847042
+tx 73d4d164f47a3218fd42a64e33dba1d5ee3c03d15cb00bfe62e34e242b847042 blk 320713 txid 802
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -2454,7 +2454,7 @@ e<BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">3</FONT>
  kva te mah
 
-tx 300e8c52377e3901b838e1288f342c03a07db7ee16e5cb456e673894cb37b0ba
+tx 300e8c52377e3901b838e1288f342c03a07db7ee16e5cb456e673894cb37b0ba blk 320713 txid 803
 ;&nbsp;&nbsp;&nbsp;&nbsp; tair apy aya
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
@@ -2477,7 +2477,7 @@ mi tena vai<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yan m
 
-tx 9ff234b5cf7d969b9761667f7373db150674ab64414141d57185772beedc8640
+tx 9ff234b5cf7d969b9761667f7373db150674ab64414141d57185772beedc8640 blk 320713 txid 804
 
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
  d
@@ -2490,7 +2490,7 @@ yuge<BR>
 ryajam<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; avij
 
-tx 0fdc32abf7ca5723dc1d6baef94b19071875f8272d027dff0ba83c3bb36508a2
+tx 0fdc32abf7ca5723dc1d6baef94b19071875f8272d027dff0ba83c3bb36508a2 blk 320713 txid 805
 
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
  bh
@@ -2505,7 +2505,7 @@ m<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">12</FONT>
  ki
 
-tx a8656f639ea9ab43e6cc59799d6987b67aee343e31e14389e7c5df3d84db4d73
+tx a8656f639ea9ab43e6cc59799d6987b67aee343e31e14389e7c5df3d84db4d73 blk 320713 txid 806
 >
 &nbsp;&nbsp;&nbsp;&nbsp; yatra te sa mama svargo n
  svargo mato mama<BR>
@@ -2530,7 +2530,7 @@ tapa<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">16</FONT>
  agrato devad
 
-tx 69314bbf9f913d0d18e7202899c8a2c0d423a03eac558cf48f1336a507914931
+tx 69314bbf9f913d0d18e7202899c8a2c0d423a03eac558cf48f1336a507914931 blk 320713 txid 807
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; panth
 <BR>
@@ -2541,7 +2541,7 @@ rbdR>
 itakardamam<BR>
 &nbsp;
 
-tx bbf8eb95242002a6f7b51d78dfda0ff77191277b093fbec82230157a7087f449
+tx bbf8eb95242002a6f7b51d78dfda0ff77191277b093fbec82230157a7087f449 blk 320713 txid 808
 <FONT COLOR="GREEN" SIZE="-1">18</FONT>
  da
 tam<BR>
@@ -2560,7 +2560,7 @@ tam<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">21</FONT>
  medo rudhirayuktai
 
-tx 307ddb447af8a0994979e314a701114a7efca776f006374ae8cf2dd889ee778a
+tx 307ddb447af8a0994979e314a701114a7efca776f006374ae8cf2dd889ee778a blk 320713 txid 809
 p;&nbsp;&nbsp;&nbsp; nik
  ca tatra tatra praveritai
 <BR>
@@ -2594,7 +2594,7 @@ am<BR>
 tum arhasi<BR>
 &nbs
 
-tx 411b951aea72e5f99a7049e4a41ee9c9427f86707660286530e9cad2bd1f2d3c
+tx 411b951aea72e5f99a7049e4a41ee9c9427f86707660286530e9cad2bd1f2d3c blk 320713 txid 810
 p;&nbsp;&nbsp;&nbsp; de
 mi veditum<BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">28</FONT>
@@ -2634,7 +2634,7 @@ abha<BR>
 jasattama<BR>
 &nbsp;<FO
 
-tx b82e764c048bcaa7c712bfbeb8791b92b55e1c13fc89687012760150a21427c0
+tx b82e764c048bcaa7c712bfbeb8791b92b55e1c13fc89687012760150a21427c0 blk 320713 txid 811
 NT COLOR="GREEN" SIZE="-1">35</FONT>
  sa
 rata<BR>
@@ -2645,7 +2645,7 @@ dhate<BR>
 m<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; tasmin de
 
-tx 968c3944be2727e31f6e35d457778d742a853693b99f1290206c3ebe46b90b07
+tx 968c3944be2727e31f6e35d457778d742a853693b99f1290206c3ebe46b90b07 blk 320713 txid 812
 NT COLOR="GREEN" SIZE="-1">37</FONT>
  te
 m<BR>
@@ -2663,7 +2663,7 @@ co dharmaputro yudhi
 &nbsp;&nbsp;&nbsp;&nbsp; uv
 ca ke bhavanto vai kimartham iha ti
 
-tx bf4bb65d0cfcfa99336ab8b3b2ae70c600f7ab930e9d4552c4ed830ae4f26467
+tx bf4bb65d0cfcfa99336ab8b3b2ae70c600f7ab930e9d4552c4ed830ae4f26467 blk 320713 txid 813
 sp;<FONT COLOR="GREEN" SIZE="-1">40</FONire<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; kar
 maseno 'ham arjuno 'ham iti prabho<BR>
@@ -2681,7 +2681,7 @@ ritam<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; kar
 
-tx 8edc3f41c943c1a291c3577a1994cea5f4e18c1dd5185a68f46d6c251c0f9f6b
+tx 8edc3f41c943c1a291c3577a1994cea5f4e18c1dd5185a68f46d6c251c0f9f6b blk 320713 txid 814
 Ewsp;<FONT COLOR="GREEN" SIZE="-1">44</FONT>
  ya ime p
 e<BR>
@@ -2692,7 +2692,7 @@ m<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; tath
 
-tx efbdae0f248ac0d90233613cb39b2574bc8ca9a4f63ee90c689ef5f174ce23e8
+tx efbdae0f248ac0d90233613cb39b2574bc8ca9a4f63ee90c689ef5f174ce23e8 blk 320713 txid 815
 sp;<FONT COLOR="GREEN" SIZE="-1">46</FONT>
  mahendra iva lak
 <BR>
@@ -2718,7 +2718,7 @@ no na cetaye<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; dev
 
-tx 8de3e80b9ffb93de1f7dd3af901951e6969cf4b85a3ab2d21675e551921a6f79
+tx 8de3e80b9ffb93de1f7dd3af901951e6969cf4b85a3ab2d21675e551921a6f79 blk 320713 txid 816
 sp;<FONT COLOR="GREEN" SIZE="-1">51</FONT>
  sa t
 ca ha<BR>
@@ -2734,7 +2734,7 @@ taro hi me<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; jag
 
-tx 7f7c48c5e6c6dee2664b386203aee8d4c5ac8eb1169448bc86fa575f433a2642
+tx 7f7c48c5e6c6dee2664b386203aee8d4c5ac8eb1169448bc86fa575f433a2642 blk 320713 txid 817
 sp;<FONT COLOR="GREEN" SIZE="-1">54</FONT>
  niveday
 itam<BR>
@@ -2779,10 +2779,10 @@ s18001.htm/14315:<HTML>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
  
 
-tx 6f08a020967e9204b1c008467df7355fa7559e271c63d5a45ef6b39069e1de93
+tx 6f08a020967e9204b1c008467df7355fa7559e271c63d5a45ef6b39069e1de93 blk 320714 txid 1013
  feeds.info/static/live/btc-usd.j
 
-tx a9dd739e1fdcc87c033b4e73e2d998b3e9f26300b9414e06cdb350bca94627d9
+tx a9dd739e1fdcc87c033b4e73e2d998b3e9f26300b9414e06cdb350bca94627d9 blk 320714 txid 1171
 nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">3</FONT>
@@ -2794,7 +2794,7 @@ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
  
 
-tx e29b9141d9a3ef4076a888f779f7c2c756b76dccc625e58fe3d980506aae6404
+tx e29b9141d9a3ef4076a888f779f7c2c756b76dccc625e58fe3d980506aae6404 blk 320714 txid 1172
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">5</FONT>
@@ -2802,7 +2802,7 @@ tx e29b9141d9a3ef4076a888f779f7c2c756b76dccc625e58fe3d980506aae6404
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx 5c60764477b6e48396cd3eb9c59425abcde3c61c048ea6eb733f1d42d826ef11
+tx 5c60764477b6e48396cd3eb9c59425abcde3c61c048ea6eb733f1d42d826ef11 blk 320714 txid 1195
 bsp;<FONT COLOR="GREEN" SIZE="-1">6</FONT>
  
 <BR>
@@ -2821,7 +2821,7 @@ bsp;<FONT COLOR="GREEN" SIZE="-1">6</FONT>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
  
 
-tx a57fc19dd6e46c1d8080ace53fc6e3185f0d4ab4b7f3350b6b9b7f0bded0554c
+tx a57fc19dd6e46c1d8080ace53fc6e3185f0d4ab4b7f3350b6b9b7f0bded0554c blk 320714 txid 1334
 sp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
@@ -2837,7 +2837,7 @@ sp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">12</FONT>
  
 
-tx 60ec7ceb4cde51ef5f1a60679a290ba20307520acaaa938a58abc728b24d7631
+tx 60ec7ceb4cde51ef5f1a60679a290ba20307520acaaa938a58abc728b24d7631 blk 320714 txid 1335
 sp;&nbsp;&nbsp;&nbsp; 
 <BR>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">13</FONT>
@@ -2868,7 +2868,7 @@ sp;&nbsp;&nbsp;&nbsp;
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">18</FONT>
  
 
-tx 3ffd86d4345f3b056164762d2c477c067e5eb84e723fae3ca5eb7c6d3f0cd470
+tx 3ffd86d4345f3b056164762d2c477c067e5eb84e723fae3ca5eb7c6d3f0cd470 blk 320714 txid 1336
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <BR>
@@ -2907,7 +2907,7 @@ tx 3ffd86d4345f3b056164762d2c477c067e5eb84e723fae3ca5eb7c6d3f0cd470
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-tx a70d00829e6c87f89a6553ce79f7402587f4621d07736630fff34029848b080a
+tx a70d00829e6c87f89a6553ce79f7402587f4621d07736630fff34029848b080a blk 320714 txid 1337
 R>
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">26</FONT>
  
@@ -2922,7 +2922,7 @@ R>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p
 
-tx 3f8e75563ad995d2a31cb9f4645790015edd0ea0367221171345cddf4e397235
+tx 3f8e75563ad995d2a31cb9f4645790015edd0ea0367221171345cddf4e397235 blk 320714 txid 1338
 nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
  etad icch
 <BR>
@@ -2950,7 +2950,7 @@ tam<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sahas
 
-tx 6a72aed991f7cb10c29dab995de70a78ec76c387c594b742744a802c906faf60
+tx 6a72aed991f7cb10c29dab995de70a78ec76c387c594b742744a802c906faf60 blk 320716 txid 925
 bsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">7</FONT>
  bruvann uccair vacas t
  duryodhanena vai<BR>
@@ -2977,7 +2977,7 @@ taro mama<BR>
 yati<BR>
 &nbsp;<FONT COLO
 
-tx 2de05b3e63e24d68a84d4299d94b7724c5f6dc52c98c498ef2818fd15775fedb
+tx 2de05b3e63e24d68a84d4299d94b7724c5f6dc52c98c498ef2818fd15775fedb blk 320716 txid 926
 R="GREEN" SIZE="-1">12</FONT>
  yudhi
  cana<BR>
@@ -2999,7 +2999,7 @@ tmanas tanum<BR>
 n<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; bhaye mahati yo 'bh
 
-tx 880962b2be61f3ffd1053bff45b9ca13ce348caae7a929b18a567de9dce35b14
+tx 880962b2be61f3ffd1053bff45b9ca13ce348caae7a929b18a567de9dce35b14 blk 320716 txid 927
 >
 &nbsp;<FONT COLOR="GREEN" SIZE="-1">16</FONT>
  na tan manasi kartavya
@@ -3029,7 +3029,7 @@ ca ha<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp; vaya
 
-tx 90845262265d84b48ea73f8187aa6bc399e8e977ae0aa3444fbbcea4a11c2125
+tx 90845262265d84b48ea73f8187aa6bc399e8e977ae0aa3444fbbcea4a11c2125 blk 320716 txid 928
 COLOR="GREEN" SIZE="-1">22</FONT>
  ye te v
 <BR>
@@ -3050,7 +3050,7 @@ n<BR>
 rada<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; vir
 
-tx 8d5a9d3b29721f6544189d554770cf5e0e4e782f6b634df9fe7dc451abcee4d5
+tx 8d5a9d3b29721f6544189d554770cf5e0e4e782f6b634df9fe7dc451abcee4d5 blk 320716 txid 929
 nbsp;<FONT COLOR="GREEN" SIZE="-1">26</FONT>
  
 <BR>
@@ -3066,7 +3066,7 @@ rada<BR>
 </HTML>
 Mahabharata.jpg"1899\
 
-tx 2c0891e2d027ebbf39a3eefebab7dc2da96fb8527304c1548687fbb3ed142adc
+tx 2c0891e2d027ebbf39a3eefebab7dc2da96fb8527304c1548687fbb3ed142adc blk 320716 txid 933
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 index.html<1181?<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3101,7 +3101,7 @@ e18006.htm:19691><HTML>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <META name="descri
 
-tx bfe7f7fb6984620c0a832eae5bdde7d7d5d1c424daa4882a732a7514482e5441
+tx bfe7f7fb6984620c0a832eae5bdde7d7d5d1c424daa4882a732a7514482e5441 blk 320716 txid 935
 ption" content="The Mahabharata, Book 18: Svargarohanika Parva: K.M. Ganguli translation">
 <META name="keywords" content="Mahabharata Hinduism etext Svargarohanika Parva">
 <TITLE>The Mahabharata, Book 18: Svargarohanika Parva: Section 6</TITLE>
@@ -3120,7 +3120,7 @@ ption" content="The Mahabharata, Book 18: Svargarohanika Parva: K.M. Ganguli tra
 <p>"Hearing their celebrity, and in consequence of a recitation of their names and achievements, a man that has committed even terrible sins, will be cleansed. Having, with a concentrated soul and cleansed body, heard this history duly, from the beginning, and having reached its end, one should make Sraddha offerings, O Bharata, unto those (foremost of persons who have been mentioned in it). Unto the Brahmanas also, O chief of Bharata&#146;s race, should, with due devotion and according to one&#146;s power, be made large gifts and diverse kinds of gems, and kine, and vessels of white brass for milking kine, and maidens decked with every ornament, and possessed of every accomplishment suited to enjoyment, as also diverse kinds of conveyances, beautiful mansions, plots of land, and cloths. Animals also should be given, such as horses and elephants in rage, and beds, and covered conveyances borne on the shoulders of men, and well-decked cars. Whatever objects occur in the house, of the foremost kind, whatever wealth of great value occurs in it, should be given away unto Brahmanas. Indeed, one should give away one&#146;s own self, wives, and children.</p>  
 <p>"One desirous of hearing the Bharata, should hear it without a doubting heart, with chee
 
-tx d9b1e8f8991b413c840cdef9c986d2991a28b613d298aae3a464eb62c4a99fe0
+tx d9b1e8f8991b413c840cdef9c986d2991a28b613d298aae3a464eb62c4a99fe0 blk 320716 txid 936
 rfulness and joy; and as, he proceeds listening to its recitation, he should according to the extent of his power, make gifts with great devotion.</p>  
 <p>"Hear how a person that is devoted to truth and sincerity, that is self-restrained, pure (in mind), and observant of those acts which lead to purity of body, that is endued with faith, and that has subjugated wrath, attains to success (in the matter of a recitation of the Bharata). He should appoint as reciter one that is pure (of body), that is endued with good and pious conduct, that should be robed in white, that should have a complete mastery over his passions, that is cleansed of all offences, that is conversant with every branch of learning, that is endued with faith, that is free from malice, that is possessed of handsome features, that is blessed, self-restrained, truthful, and with passions under control, and that is beloved of all for the gifts he makes and the honours of which he is the possessor.</p>  
 <p>"The reciter, seated at his ease, free from all bodily complaints, and with rapt attention, should recite the text without too much slowness, without a labouring voice, without being fast or quick, quietly, with sufficient energy, without confusing the letters and words together, in a sweet intonation and with such accent and emphasis as would indicate the sense giving full utterance to the three and sixty letters of the alphabet from the eight places of their formation. Bowing unto Narayana, and to Nara, that foremost of men, as also to the goddess Sarasvati, should the word Jaya be uttered.</p>  
@@ -3131,7 +3131,7 @@ rfulness and joy; and as, he proceeds listening to its recitation, he should acc
 <p>"At the fifth, twice those fruits are his. Ascending a celestial car that resembles the rising sun or a blazing fire, and with the deities for his companions, he goes to Heaven and sports in felicity for myriads of years in the abode of Indra.</p>  
 <p>"At the sixth Parana, twice, and at the seventh, thrice those fruits become his. Ascending a celestial car that resembles the summit of the Kailasa mountains (in beauty), that is equipt with an altar made of stones of lapis lazuli and other precious gems, that is 
 
-tx 3110113854abe9f25302de1273c539bafa9c06e6f962e38ef4340d5ce082905b
+tx 3110113854abe9f25302de1273c539bafa9c06e6f962e38ef4340d5ce082905b blk 320716 txid 937
 surrounded by beautiful objects of diverse kinds, that is decked with gems and corals, that moves at the will of the rider, and that teems with waiting Apsaras, he roves through all the regions of felicity, like a second deity of the Sun.</p>  
 <p>"At the eight Parana, he acquires the fruits of the Rajasuya sacrifice. He ascends a car as beautiful as the rising moon, and unto which are yoked steeds white as the rays of the moon and endued with the speed of thought. He is served by women of the foremost beauty and whose faces are more charming than the moon. He hears the music of the garlands that encircle their waists and the Nupuras encircling their ankles. Sleeping with his head resting on the laps of women of transcendent beauty, he awakes greatly refreshed.</p>  
 <p>"At the ninth Parana, he acquires, O Bharata, the fruits of that foremost of sacrifices, viz., the Horse-sacrifice. Ascending on a car equipt with a chamber consisting of a top supported by columns of gold, furnished with a seat made of stones of lapis lazuli, with windows on all sides made of pure gold, and teeming with waiting Apsaras and Gandharvas and other celestials, he blazes forth in splendour. Wearing celestial garlands and robes, and decked with celestial unguents, he sports in bliss, with deities for his companions, in Heaven, like a second deity himself.</p>  
@@ -3139,7 +3139,7 @@ surrounded by beautiful objects of diverse kinds, that is decked with gems and c
 <p>"Thus accoutred, he receives high honours in Heaven for many long years. With Gandharvas in his company, for full 21,000 years, he sports in bliss with Indra himself in abode of Indra. He roves at pleasure every day through the diverse regions of the gods, riding on celestial cars and conveyances, and surrounded by celestial damsels of transcendent beauty. He is able to go to the abode of the solar deity, of the lunar deity, and of Siva, O king. Indeed, he succeeds in living in the same region with Vishnu himself. It is even so, O monarch. There is no doubt in this. A person listening with faith, becomes even so. My preceptor has said this. Unto the reciter should be given all such objects as he may wish. Elephants and steeds and cars and conveyances, especially animals and the vehicles they draw, a bracelet of gold, a pair of ear-rings, sacred threads, beautiful robes, and perfumes in especial (should be given). By worshipping him as a deity one attains to the regions of Vishnu.</p>  
 <p>"After this I shall declare what should be given away, as each <i>parva </i>is reached of the <i>Bharata </i>in course of its recitation, unto <i
 
-tx a1bb1d48d6aa62c7f83cf7c18e15d0c5fdca5113acc0ae2c88d29c6d5e693e23
+tx a1bb1d48d6aa62c7f83cf7c18e15d0c5fdca5113acc0ae2c88d29c6d5e693e23 blk 320716 txid 938
 >brahmanas, </i>after ascertaining their birth, country, truthfulness, and greatness, O chief of Bharata&#146;s race, as also their inclination for piety, and unto <i>kshatriyas </i>too, O king, after ascertainment of similar particulars. Causing the Brahmanas to utter benedictions, the business of recitation should be begun. When a <i>parva </i>is finished, the <i>brahmanas </i>should be worshipped to the best of one&#146;s power. At f^H
 <airst, the reciter, clad in good robes and smeared with perfumed paste, should, O king, be duly fed with honey and frumenty of the best kind.</p>  
 <p>"When the <i>Astika-parva </i>is being recited, <i>brahmanas </i>should be entertained with fruits and roots, and frumenty, and honey and clarified butter, and rice boiled with raw sugar.</p>  
@@ -3156,7 +3156,7 @@ tx a1bb1d48d6aa62c7f83cf7c18e15d0c5fdca5113acc0ae2c88d29c6d5e693e23
 <p>"During the recitation of the <i>Shanti-parva, </i>the <i>brahmanas </i>should be fed with <i>havisya.</i></p>  
 <p>"When the <i>Asvamedhika-parva </i>is reached, food possessed of every agreeable quality should be given; and when the <i>Asramvasika </i>is reached, <i>brahmanas </i>should be entertained with <i>
 
-tx fd1274872024ef17b11a9308f3014e7fe1156a0e5ae9efc4d9a25ebb0c2c90fb
+tx fd1274872024ef17b11a9308f3014e7fe1156a0e5ae9efc4d9a25ebb0c2c90fb blk 320717 txid 999
 havisya.</i></p>  
 <p>"When the <i>Mausala </i>is reached, scents and garlands possessed of agreeable qualities should be given away.</p>  
 <p>"During the <i>Mahaprasthanika, </i>similar presents should be made, possessed of every quality of an agreeable kind.</p>  
@@ -3165,7 +3165,7 @@ havisya.</i></p>
 <p>"Upon the conclusion of all the Parvas, the house-holder of wisdom should give unto the reciter a copy of the Mahabharata with a piece of gold. When the Harivansa Parva is being recited, Brahmanas should be fed with frumenty at each successive Parana, O king. Having finished all the Parvas, one versed in the scriptures, robing himself in white, wearing garlands, decked with ornaments, and properly purified, should place a copy of the Mahabharata on an auspicious spot and cover it with a piece of silken cloth and worship it, according to due rites, with scents and garlands, offering each at a time. Indeed, O king, the several volumes of this treatise should be worshipped by one with devotion and concentrated mind. Offerings should be made unto them of diverse kinds of food and garlands and drinks and diverse auspicious articles of enjoyment. Gold and other precious metals should be given as Dakshina. The names should then be taken of all the deities as also of Nara and Narayana. Then, adorning the persons of some foremost of Brahmanas with scents and garlands, they should be gratified with diverse kinds of gifts of enjoyable and very superior or costly articles. By doing this, one attains to the merits of the Atiratra sacrifice. Indeed, at each successive Parva, he acquires the merits that attach to the performance of a sacrifice. The reciter, O chief of the Bharatas, should be possessed of learning and endued with a good voice and a clear utterance respecting both letters and words. Even such a man should, O chief of the Bharatas, recite the Bharata. After entertaining a number of foremost Brahmanas, presents should be made unto them according to the ordinances. The reciter also, O chief of the Bharatas, should be decked with ornaments and fed sumptuously. The reciter being gratified, the house-holder attains to an excellent and auspicious contentment. If the Brahmanas are gratified, all the deities are gratified. After this, O chief of the Bharatas, Brahmanas should be duly entertained with diverse kinds of enjoyable articles and superior things.</p>  
 <p>"I have thus indicated the ordinances, O foremost of men, (about the manner of reciting these scriptures) in answer to thy enquiries. Thou shouldst observe them with faith. In listening to a recitation of the Bharata and at each Parana, O best of kings, one that desires to attain to the highest good should listen with the greatest care and attention. One should listen to the Bharata every day. One should proclaim the merits of the Bharata every day. One in whose house the Bharata occurs, has in his hands all those scriptures which are known by the name of <i>Jaya. </i>The <i>Bharata </i>is cl
 
-tx 93dd18f3c0d9fa3251dba2757b33fef4bd7c70a1247450bf3ae7f2f3b75069d5
+tx 93dd18f3c0d9fa3251dba2757b33fef4bd7c70a1247450bf3ae7f2f3b75069d5 blk 320717 txid 1000
 eansing and sacred. In the Bharata are diverse topics. The Bharata is worshipped by the very gods. The Bharata is the highest goal. The Bharata, O chief of the Bharatas, is the foremost of all scriptures. One attains to Emancipation through the Bharata. This that I tell thee is certain truth. One that proclaims the merits of this history called the Mahabharata, of the Earth, of the cow, of Sarasvati (the goddess of speech), of Brahmanas, and of Keshava, has never to languish.</p>  
 <p>"In the Vedas, in the Ramayana, and in the sacred Bharata, O chief of Bharata&#146;s race, Hari is sung in the beginning, the middle, and at the end. That in which occur excellent statements relating to Vishnu, and the eternal Srutis, should be listened to by men desirous of attaining to the highest goal. This treatise is sanctifying. This is the highest indicator as regards duties; this is endued with every merit. One desirous of prosperity should listen to it. Sins committed by means of the body, by means of words, and by means of the mind, are all destroyed (through listening to the Bharata) as Darkness at sunrise. One devoted to Vishnu acquires (through this) that merit which is acquired by listening to the eighteen Puranas. There is no doubt in this. Men and women (by listening to this) would certainly attain to the status of Vishnu. Women desirous of having children should certainly listen to this which proclaims the fame of Vishnu. One desirous of attaining to the fruits that attach to a recitation of the Bharata should, according to one&#146;s power, give unto the reciter Dakshina, as also an honorarium in gold. One desirous of one&#146;s own good should give unto the reciter a Kapila cow with horns cased in gold and accompanied by her calf, covered with a cloth. Ornaments, O chief of Bharata&#146;s race, for the arms, as also those for the ears, should be gi`ven. Besides these, other kinds of wealth should be presented. Unto the reciter, O king of men, gift of land should be made. No gift like that of land could ever be or will be. The man that listens (to the Bharata) or that recites it to other people, becomes cleansed of all his sins and attains at last to the status of Vishnu. Such a man rescues his ancestors to the eleventh degree, as also himself with his wives and sons, O chief of Bharata&#146;s race. After concluding a recitation of the Bharata, one should, O king, perform a Homa with all its ten parts.</p>  
 <p>"I have thus, O chief of men, told everything in thy presence. He that listens with devotion to this Bharata from the beginning becomes cleansed of every sin even if he be guilty of Brahmanicide or the violation of his preceptor&#146;s bed, or even if he be a drinker of alcohol or a robber of other people&#146;s wares, or even if he be born in the Chandala order. Destroying all his sins like the maker of day destroying darkness, such a man, without doubt, sports in felicity in the region of Vishnu like Vishnu himself."</p>  
@@ -3177,7 +3177,7 @@ e18005.htm\10943/<HTML>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <META name
 
-tx 18b39ba8bedcd830459c4acd57ac98b797cd92bf39b16cf73b1108cb0c11b20f
+tx 18b39ba8bedcd830459c4acd57ac98b797cd92bf39b16cf73b1108cb0c11b20f blk 320717 txid 1001
 ="description" content="The Mahabharata, Book 18: Svargarohanika Parva: K.M. Ganguli translation">
 <META name="keywords" content="Mahabharata Hinduism etext Svargarohanika Parva">
 <TITLE>The Mahabharata, Book 18: Svargarohanika Parva: Section 5</TITLE>
@@ -3198,16 +3198,16 @@ tx 18b39ba8bedcd830459c4acd57ac98b797cd92bf39b16cf73b1108cb0c11b20f
 <p>"Bhishma of mighty energy and great effulgence attained to the status of the Vasus. Eight Vasus, O chief of Bharata&#146;s race, are now seen. Drona entered into Brihaspati, that foremost one of Angirasa&#146;s descendants. Hridika&#146;s son Kritavarma entered the Maruts. Pradyumna entered Sanatkumara whence he had issued. Dhritarashtra obtained the regions, so difficult of acquisition, that belong to the Lord of treasures. The famous Gandhari obtained the same regions with her husband Dhritarashtra. With his two wives, Pandu proceeded to the abode of the great Indra. Both Virata and Drupada, the king Dhrishtaketu, as also Nishatha, Akrura, Samva, Bhanukampa, and Viduratha, and Bhurishrava and Sala and king Bhuri, and Kansa, and Ugrasena, and Vasudeva, and Uttara, that foremost of men, with his brother Sankha&#151;all these foremost of persons entered the deities. Soma&#146;s son of great prowess, named Varchas of mighty energy, became Abhimanyu, the son of Phalguna, that lion among men. Having fought, agreeably to Kshatriya practTw@$
 <iices, with bravery such as none else had ever been able to show, that mighty-armed and righteous-souled being entered Soma. Slain on the field of battle, O foremost of men, Karna entered Surya. Shakuni obtained absorptio
 
-tx 8baa32b8eb5cf17b2bdb3ca885e160820b9dbccc75040f0419dce7f338a849f2
+tx 8baa32b8eb5cf17b2bdb3ca885e160820b9dbccc75040f0419dce7f338a849f2 blk 320717 txid 1002
 n into Dwapara, and Dhrishtadyumna into the deity of fire. The sons of Dhritarashtra were all Rakshasas of fierce might. Sanctified by death caused by weapons, those high-souled beings of prosperity all succeeded in attaining to Heaven. Both Kshattri and king Yudhishthira entered into the god of Righteousness. The holy and illustrious Ananta (who had taken birth as Balarama) proceeded to the region below the Earth. Through the command of the Grandsire, he, aided by his Yoga power, supported the Earth. Vasudeva was a portion of that eternal god of gods called Narayana. Accor3dingly, he entered into Narayana. 16,000 women had been married to Vasudeva as his wives. When the time came, O Janamejaya, they, plunged into the Sarasvati. Casting off their (human) bodies there, they re-ascended to Heaven. Transformed into Apsaras, they approached the presence of Vasudeva. Those heroic and mighty car-warriors, Ghatotkaca and others, who were slain in the great battle, attained to the status, some of gods and some of Yakshas. Those that had fought on the side of Duryodhana are said to have been Rakshasas. Gradually, O king, they have all attained to excellent regions of felicity. Those foremost of men have proceeded, some to the abode of Indra, some to that of Kuvera of great intelligence, and some to that of Varuna. I have now told thee, O thou of great splendour, everything about the acts, O Bharata, of both the Kurus and the Pandavas.</p>  
 <p>Sauti said: Hearing this, ye foremost of regenerate ones, at the intervals of sacrificial rites, king Janamejaya became filled with wonder. The sacrificial priests then finished the rites that remained to be gone through. Astika, having rescued the snakes (from fiery death), became filled with joy. King Janamejaya then gratified all the Brahmanas with copious presents. Thus worshipped by the king, they returned to their respective abodes. Having dismissed those learned Brahmanas, king Janamejaya came back from Takshasila to the city named after the elephant.</p>  
 <p>I have now told everything that Vaishampayana narrated, at the command of Vyasa, unto the king at his snake sacrifice. Called a history, it is sacred, sanctifying and excellent. It has been composed by the ascetic Krishna, O Brahmana, of truthful speech. He is omniscient, conversant with all ordinances, possessed of a knowledge of all duties, endued with piety, capable of perceiving what is beyond the ken of the senses, pure, having a soul cleansed by penances, possessed of the six high attributes, and devoted to Sankhya Yoga. He has composed this, beholding everything with a celestial eye that has been cleansed (strengthened) by varied lore. He has done this, desiring to spread the fame, throughout the world, of the high-souled Pandavas, as also of other Kshatriyas possessed of abundant wealth of energy.</p>  
 <p>That learned man who recites this history of sacred days in the midst of a listening auditory becomes cleansed of every sin, conquers Heaven, and attains to the status of Brahma. Of that man who listens with rapt attention to the recitation of the whole of this Veda composed by (the Island-born) Krishna, a million sins, numbering such grave ones as Brahmanicide and the rest, are washed off. The Pitris of that man wh
 
-tx c6cb876fa020ac4354bbd1b816c6b0ab333b9133749dcbd13c8f1edaa34ee9bc
+tx c6cb876fa020ac4354bbd1b816c6b0ab333b9133749dcbd13c8f1edaa34ee9bc blk 320717 txid 1003
 o recites even a small portion of this history at a Sraddha, obtain inexhaustible food and drink. The sins that one commits during the day by one&#146;s senses cor the mind are all washed off before evening by reciting a portion of the Mahabharata. Whatever sins a Brahmana may commit at night in the midst of women are all washed off before dawn by reciting a 
 
-tx 276878861676c70702d9744b960c27c5948f795dc45197bc569be8d8dc73b8c4
+tx 276878861676c70702d9744b960c27c5948f795dc45197bc569be8d8dc73b8c4 blk 320717 txid 1004
 portion of the Mahabharata.</p>  
 <p>The high race of the Bharatas is its topic. Hence it is called Bharata. And because of its grave import, as also of the Bharatas being its topic, it is called <i>Mahabharata. </i>He who is versed in interpretations of this great treatise, becomes cleansed of every sin. Such a man lives in righteousness, wealth, and pleasure, and attains to Emancipation also, O chief of Bharata&#146;s race.</p>  
 <p>That which occurs here occurs elsewhere. That which does not occur here occurs nowhere else. This history is known by the name of Jaya. It should be heard by every one desirous of Emancipation. It should be read by Brahmanas, by kings, and by women quick with children. He that desires Heaven attains to Heaven; and he that desires victory attains to victory. The woman quick with child gets either a son or a daughter highly blessed. The puissant Island-born Krishna, who will not have to come back, and who is Emancipation incarnate, made an abstract of the Bharata, moved by the desire of aiding the cause of righteousness. He made another compilation consisting of sixty lakhs of verses. Thirty lakhs of these were placed in the region of the deities. In the region of the Pitris fifteen lakhs, it should be known, are current; while in that of the Yakshas fourteen lakhs are in vogue. One lakh is current among human beings.</p>  
@@ -3215,7 +3215,7 @@ portion of the Mahabharata.</p>
 <p>In former times, the great Rishi Vyasa, having composed this treatise, caused his son Suka to read it with him, along with these four Verses. &#151;Thousands of mothers and fathers, and hundreds of sons and wives arise in the world and depart from it. Others will (arise and) similarly depart. There are thousands of occasions for joy and hundreds of occasions for fear. These affect only him that is ignorant but never him that is wise. With uplifted arms I am crying aloud but nobody hears me. From Righteousness is Wealth as also Pleasure. Why should not Righteousness, therefore, be courted? For the sake neither of pleasure, nor of fear, nor of cupidity should any one cast off Righteousness. Indeed, for the sake of even life one should not cast off Righteousness. Righteousness is eternal. Pleasure and Pain are not eternal. Jiva is eternal. The cause, however, of Jiva&#146;s being invested with a body is not so.</p>  
 <p>That man who, waking up at dawn, reads this Savittri of the Bharata, acquires all the rewards attached to a recitation of this history and ultimately attains to the highest Brahma. As the sacred Ocean, as the Himavat mountain, are both regarded as mines of precious gems, even so is this Bharata (regarded as a min
 
-tx bf9f3d9afc2045efb4f4134c5d0f7ac45f5a133a6409de497732a366543f2453
+tx bf9f3d9afc2045efb4f4134c5d0f7ac45f5a133a6409de497732a366543f2453 blk 320717 txid 1005
 e of precious gems). The man of learning, by reciting to others this Veda or Agama composed by (the Island-born) Krishna, earns wealth. There is no doubt in this that he who, with rapt attention, recites this history called Bharata, attains to high success. What need has that man of a sprinkling of the waters of Pushkara who attentively listens to this Bharata, while it is recited to him? It represents the nectar that fell from the lips of the Island-born. It is immeasurable, sacred, sanctifying, sin-cleansing, and auspicious.</p>  
 <p><HR>
 <CENTER>
@@ -3244,7 +3244,7 @@ e18004.htm|4284*<HTML>
  endued with a blazing form. He was sitting by the side of the God of Wind in his embodied form. Indeed, he was then in a celestial form endued with great beauty, and had attained to the highest success. In place belonging to the Ashvinis, the delighter of the Kurus beheld Nakula and Sahadeva, each blazing with his own effulgence.</p>  
 <p>"He also beheld the princess of Pancala, decked in garlands of lotuses. Having attained to Heaven, she was sitting there, endued with a form possessed of solar splendour. King Yudhishthira suddenly wished to question her. Then the illustrious Indra, the chief of the gods, spoke to him, &#145;This one is Sree herself. It was for your sake that she took birth, as the daughter of Drupada, among human beings, issuing not from any mother&#146;s womb, O Yudhishthira, endued with agreeable perfume and capable of delighting the whole world. For your pleasure, she was created by the wielder of the trident. She was born in the race of Drupada and was enjoyed by you all. These fi
 
-tx ca0983e5ffd59a3ac5457a21adfe925d00a1bd192e059a86de549074575c16ac
+tx ca0983e5ffd59a3ac5457a21adfe925d00a1bd192e059a86de549074575c16ac blk 320717 txid 1006
 ve highly blessed Gandharvas endued with the effulgence of fire, and possessed of great energy, were, O king, the sons of Draupadi and yourself.</p>  
 <p>"Behold Dhritarashtra, the king of the Gandharvas, possessed of great wisdom. Know that this one was the eldest brother of thy sire. This one is thy eldest brother, the son of Kunti, endued with effulgence of fire. The son of Surya, thy eldest brother, the foremost of men, even this one was known as the son of Radha. He moves in the company of Surya. Behold this foremost of Beings. Among the tribes of the Saddhyas, the gods, the Viswedevas, and the Maruts, behold, O king of kings, the mighty car-warriors of the Vrishnis and the Andhakas, viz., those heroes having Satyaki for their first, and those mighty ones among the Bhojas. Behold the son of Subhadra, invincible in battle, now staying with Soma. Even he is the mighty bowman Abhimanyu, now endued with the gentle effulgence of the great luminary of the night. Here is the mighty bowman Pandu, now united with Kunti and Madri. Thy sire frequently comes to me on his excellent car. Behold the royal Bhishma, the son of Santanu, now in the midst of the Vasus. Know that this one by the side of Brihaspati is thy preceptor Drona. These and other kings, O son of Pandu, who had warred on thy side now walk with the Gandharvas or Yakshas or other sacred beings. Some have attained to the status of Guhyakas, O king. Having cast off their bodies, they have conquered Heaven by the merit they had acquired through word, thought and deed.&#146;</p>  
 <p><HR>
@@ -3272,12 +3272,12 @@ e18003.htm>7490<<HTML>
 <p>Vaishampayana said, "King Yudhishthira the just, the son of Pritha, had not stayed there for more than a moment when, O thou of Kuru&#146;s race, all the gods with Indra at their head came to that spot. The deity of Righteousness in his embodied form also came to that place where the Kuru king was, for seeing that monarch. Upon the advent of those deities of resplendent bodies and sanctified and noble deeds, the darkness that had overwhelmed that region immediately disappeared. The torments undergone by beings of sinful deeds were no longer seen. The river Vaitarani, the thorny Salmali, the iron jars, and the boulders of rock, so terrible to behold, also vanished from sight. The diverse repulsive corpses also, which the Kuru king had seen, disappeared at the same time. Then a breeze, delicious and fraught with pleasant perfumes, perfectly pure and delightfully cool, O Bharata, began to blow on that spot in consequence of the presence of ,
 the gods. The Maruts, with Indra, the Va
 
-tx b583c0b2c68d6e890faf01604ff959bef9b4ff14b1090b8318d6ef9d1b9d1982
+tx b583c0b2c68d6e890faf01604ff959bef9b4ff14b1090b8318d6ef9d1b9d1982 blk 320717 txid 1007
 sus with the twin Ashvinis, the Sadhyas, the Rudras, the Adityas, and the other denizens of Heaven, as also the Siddhas and the great Rishis, all came there where Dharma&#146;s royal son of great energy was.</p>  
 <p>"Then Shakra, the lord of the deities, endued with blazing prosperity, addressed Yudhishthira and comforting him, said, &#145;O Yudhishthira of mighty arms, come, come, O chief of men. These illusions have ended, O puissant one. Success has been attained by thee, O mighty-armed one, and eternal regions (of felicity) have become thine. Thou shouldst not yield to wrath. Listen to these words of mine. Hell, O son, should without doubt be beheld by every king. Of both good and bad there is abundance, O chief of men. He who enjoys first the fruits of his good acts must afterwards endure Hell. He, on the other hand, who first endures Hell, must afterwards enjoy Heaven. He whose sinful acts are many enjoys Heaven first. It is for this, O king, that desirous of doing thee good, I caused thee to be sent for having a view of Hell. Thou hadst, by a pretence, deceived Drona in the matter of his son. Thou hast, in consequence thereof, been shown Hell by an act of deception. After the manner of thyself, Bhima and Arjuna, and Draupadi, have Nall been shown the place of sinners by an act of deception. Come, O chief of men, all of them have been cleansed of their sins. All those kings who had aided thee and who have been slain in battle, have all attained to Heaven. Come and behold them, O foremost one of Bharata&#146;s race.</p>  
 <p>"&#145;Karna, the mighty bowman, that foremost of all wielders of weapons for whom thou art grieving, has also attained to high success. Behold, O puissant one, that foremost of men, viz., the son of Surya. He is in that place which is his own, O mighty-armed one. Kill this grief of thine, O chief of men. Behold thy brothers and others, those kings, that is, who had espoused thy side. They have all attained to their respective places (of felicity). Let the fever of thy heart be dispelled. Having endured a little misery first, from this time, O son of Kuru&#146;s race, do thou sport with me in happiness, divested of grief and all thy ailments dispelled. O mighty-armed one, do thou now enjoy, O king, the rewards of all thy deeds of righteousness of those regions which thou hast acquired thyself by thy penances and of all thy gifts. Let deities and Gandharvas, and celestial Apsaras, decked in pure robes and excellent ornaments, wait upon and serve thee for thy happiness. Do thou, O mighty-armed one, enjoy now those regions (of felicity) which have become thine through the Rajasuya sacrifice performed by thee and whose felicities have been enhanced by the sacrificial scimitar employed by thee. Let the high fruits of thy penances be enjoyed by thee. Thy regions, O Yudhishthira, are above, those of kings. They are equal to those of Hariscandra, O son of Pritha. Come, and sport there in bliss. There where the royal sage Mandhatri is, there where king Bhagiratha is, there where Dushmanta&#146;s son Bharata is, there wilt thou sport in bliss. Here is the celestial river, sacred and sanctifying the three worlds. It is called Heavenly Ganga. Plunging into it, thou wilt go to thy own regions. Having bathe
 
-tx 31a2301596dbe5bd82ae6dcd140e0fac7e6ef714d00220092997507198fdfe16
+tx 31a2301596dbe5bd82ae6dcd140e0fac7e6ef714d00220092997507198fdfe16 blk 320717 txid 1008
 d in this stream, thou wilt be divested of thy human nature. Indeed, thy grief dispelled, thy ailments conquered, thou wilt be freed from all enmities.&#146;</p>  
 <p>"While, O Kuru king, the chief of the gods was saying so unto Yudhishthira, the deity of Righteousness, in his embodied form, then addressed his own son and said, &#145;O king, I am greatly pleased, O thou of great wisdom, with thee, O son, by thy devotion to me, by thy truthfulness of speech, and forgiveness, and self-restraint. This, indeed, is the third test, O king, to which I put thee. Thou art incapable, O son of Pritha, of being swerved from thy nature or reason. Before this, I had examined thee in the Dwaita woods by my questions, when thou hadst come to that lake for recovering a couple of fire sticks. Thou stoodst it well. Assuming the shape of a dog, I examined thee once more, O son, when thy brothers with Draupadi had fallen down. This has been thy third test; thou hast expressed thy wish to stay at Hell for the sake of thy brothers. Thou hast become cleansed, O highly blessed one. Purified of sin, be thou happy. </p>  
 <p>O son of Pritha, thy brothers, O king, were not such as to deserve Hell. All this has been an illusion created by the chief of the gods. Without doubt, all kings, O son, must once behold Hell. Hence hast thou for a little while been subjected to this great affliction. O king, neither Arjuna, nor Bhima, nor any of those foremost of men, viz., the twins, nor Karna, ever truthful in speech and possessed of great courage, could be deserving of Hell for a long time. The princess Krishna too, O Yudhishthira, could not be deserving of that place of sinners. Come, come, O foremost one of the Bharatas, behold Ganga who spreads her current over the three worlds.&#146;</p>  
@@ -3306,29 +3306,29 @@ e18002.htm"9373"<HTML>
 <p align="center"><b>2</b></p>  
 <p>"Yudhishthira said, &#145;Ye deities, I do no
 
-tx bec926ec90e0ba80a010a12e560433522351a18f1382ed9ac6a322414fc583ac
+tx bec926ec90e0ba80a010a12e560433522351a18f1382ed9ac6a322414fc583ac blk 320718 txid 534
  feeds.info/static/live/btc-usd.j
 
-tx e150ca1fbbfa76ce798271afc2a21fa066f10c7ff7c60d8c5b4fec08391c52d0
+tx e150ca1fbbfa76ce798271afc2a21fa066f10c7ff7c60d8c5b4fec08391c52d0 blk 320718 txid 571
  t.io/feed/12CcdGMfvzJkipnE9oWDFx
 
-tx 5d49993bec727622c7b41c84e2b1e65c368f33390d633d217131ffcc5b592f0d
+tx 5d49993bec727622c7b41c84e2b1e65c368f33390d633d217131ffcc5b592f0d blk 320718 txid 584
  t.io/feed/1QKEpuxEmdp428KEBSDZAK
 
-tx b34d646356487cbcc674cb85fb3b36061c171c5891259a4c9f2c56585edd7adc
+tx b34d646356487cbcc674cb85fb3b36061c171c5891259a4c9f2c56585edd7adc blk 320718 txid 589
 V t.io/feed/131JuvBgFwNEa5nMny2fin
 
-tx 1a437e7bd088673d69069bbc43b01870583d25bebce7d093293c88d4d759854e
+tx 1a437e7bd088673d69069bbc43b01870583d25bebce7d093293c88d4d759854e blk 320720 txid 238
 t see here Radha&#146;s son of immeasurable prowess, as also my high-souled brothers, and Yudhamanyu and Uttamaujas, those great car-warriors that poured their bodies (as libations) on the fire of battle, those kings and princes that met with death for my sake in battle. Where are those great car-warriors that possessed the prowess of tigers? Have those foremost of men acquired this region? If tho
 
-tx 27864797c892af5dd65f0bf87b363d994588d5f28acacc10ee379618a34db65f
+tx 27864797c892af5dd65f0bf87b363d994588d5f28acacc10ee379618a34db65f blk 320720 txid 244
 se great car-warriors have obtained these regions, then only do you know, ye gods, that I shall reside here with those high-souled ones. If this auspicious and eternal region has not been acquired by those kings, then know, ye gods, that without those brothers and kinsmen of mine, I shall not live here. At the time of performing the water rites (after the battle), I heard my mother say, &#145;Do thou offer oblations of water unto Karna.&#146; Since hearing those words of my mother, I am burning with grief. I grieve also incessantly at this, ye gods, that when I marked the resemblance between the feet of my mother and those of Karna of immeasurable soul, I did not immediately place myself under orders of that afflicter of hostile ranks. Ourselves joined with Karna, Shakra himself would have been unable to vanquish in battle. Wherever may that child of Surya be, I desire to see him. Alas, his relationship with us being unknown, I caused him to be slain by Arjuna. Bhima also of terrible prowess and dearer to me than my life-breaths, Arjuna too, resembling Indra himself, the twins also that resembled the Destroyer himself in prowess, I desire to behold. I wish to see the princess of Pancala, whose conduct was always righteous. I wish not to stay here. I tell you the truth. Ye foremost ones among the deities, what is Heaven to me if I am dissociated from my brothers? That is Heaven where those brothers of mine are. This, in my opinion, is not Heaven.&#146;</p>  
 <p>"The gods said, &#145;If thou long3
 est to be there, go then, O son, without delay. At the command of the chief of the deities, we are ready to do what is agreeable to thee.&#146;</p>  
 <p>Vaishampayana continued: Having said so, the gods then ordered the celestial messenger, O scorcher of foes, saying, &#145;Do thou show unto Yudhishthira his friends and kinsmen.&#146; Then the royal son of Kunti and the celestial messenger proceeded together, O foremost of kings, to that place where those chiefs of men (whom Yudhishthira had wished to see) were. The celestial messenger proceeded first, the king followed him behind. The path was inauspicious and difficult and trodden by men of sinful deeds. It was enveloped in thick darkness, and covered with hair and moss forming its grassy vesture. Polluted with the stench of sinners, and miry with flesh and blood, it abounded with gadflies and stinging bees and gnats and was endangered by the inroads of grisly bears. Rotting corpses lay here and there. Overspread with bones and hair, it was noisome with worms and insects. It was skirted all along with a blazing fire. It was infested by crows and other birds and vultures, all having beaks of iron, as also by evil spirits with long mouths pointed like needles. And it abounded with inaccessible fastnesses like the Vindhya mountains. Human corpses were scattered over it, smeared with fat and blood, with arms and thighs cut off, or with entrails torn out and legs severed.</p>  
 <p>"Along that path so disagreeable with the stench of corpses and awful with other incidents, the righteous-souled king proceeded, filled with diverse thoughts. He beheld a river full of boiling water and, therefore, difficult to cross, as also a forest of trees whose leaves were sharp swords and razors. There were plains full
 
-tx 5621d4c85f62d39e18c6eaefb2c773b286559b82ee0d5bb574f1ef6b5eeec50e
+tx 5621d4c85f62d39e18c6eaefb2c773b286559b82ee0d5bb574f1ef6b5eeec50e blk 320720 txid 245
  of fine white sand exceedingly heated, and rocks and stones made of iron. There were many jars of iron all around, with boiling oil in them. Many a Kuta-salmalika was there, with sharp thorns and, therefore, exceedingly painful to the touch. The son of Kunti beheld also the tortures inflicted upon sinful men.</p>  
 <p>"Beholding that inauspicious region abounding with every sort of foulness, Yudhishthira asked the celestial messenger, saying, &#145;How far shall we proceed along a path like this? It behoveth thee to tell me where those brothers of mine are. I desire also to know what region is this of the gods?&#146;</p>  
 <p>&nbsp;</p>  
@@ -3339,7 +3339,7 @@ tx 5621d4c85f62d39e18c6eaefb2c773b286559b82ee0d5bb574f1ef6b5eeec50e
 <p>"Thus addressed, they answered him from all sides, saying, &#145;I am Karna!&#146; &#145;I am Bhimasena!&#146; &#145;I am Arjuna!&#146; &#145;I am Nakula!&#146; &#145;I am Sahadeva!&#146; &#145;I am Dhrishtadyumna!&#146; &#145;I am Draupadi!&#146; &#145;We are the sons of Draupadi!&#146; Even thus, O king, did those voices speak.</p>  
 <p>"Hearing those exclamations, O king, uttered in voices of pain suitable to that place, the royal Yudhishthira asked himself &#145;What perverse destiny is this? What are those sinful acts which were committed by those high-souled beings, Karna and the sons of Draupadi, and the slender-waisted princess of Pancala, so that their residence has been assigned in this region of foetid smell and great woe? I am not aware of any transgression that can be attributed to these pe
 
-tx 0d7547eca84f8609b4203fde83c6bbba4e5dd964eeaaedce85581b88170edcc4
+tx 0d7547eca84f8609b4203fde83c6bbba4e5dd964eeaaedce85581b88170edcc4 blk 320720 txid 246
 rsons of righteous deeds. What is that act by doing which Dhritarashtra&#146;s son, king Suyodhana, with all his sinful followers, has become invested with such prosperity? Endued with prosperity like that of the great Indra himself, he is highly adored. What is that act through the consequence of which these (high-souled ones) have fallen into Hell? All of them were conversant with every duty, were heroes, were devoted to truth and the <i>Vedas; </i>were observant of Kshatriya practices; were righteous in their acts; were performers of sacrifices; and givers of large presents unto <i>brahmanas. </i>Am I asleep or awake? Am I conscious or unconscious? Or, is all this a mental delusion due to disorders of the brain?&#146;</p>  
 <p>"Overwhelmed by sorrow and grief, and with his senses agitated by anxiety, king Yudhishthira indulged in such reflections for a long time. The royal son of Dharma then gave way to great wrath. Indeed, Yudhishthira then censured the gods, as also Dharma himself. Afflicted by the very foul odour, he addressed the celestial messenger, saying, &#145;Return to the presence of those whose messenger thou art. Tell them that I shall not go back to where they are, but shall stay even here, since, in consequence of my companionship, these afflicted brothers of mine have become comforted.&#146; Thus addressed by the intelligent son of Pandu, the celestial messenger returned to the place where the chief of the deities was, viz., he of a hundred sacrifices. He represented unto him the acts of Yudhishthira. Indeed, O ruler of men, he informed Indra of all that Dharma&#146;s son had said!</p>  
 <p><HR>
@@ -3367,7 +3367,7 @@ e18001.htm*4780?<HTML>
 <p>Janamejaya said, "Having attained to Heaven, what regions were respectively attained by my grandsires of old, viz., the Pandavas and the sons of Dhritarashtra? I desire to hear this. I think that thou art conversant with everything, having been taught by the great Rishi Vyasa of wonderful feats.</p>  
 <p>Vaishampayana said, "Listen now to what thy grandsires, Yudhishthira and others, did after having attained to Heaven, that place of the deities. Arrived at Heaven, king Yudhishthira the just, beheld Duryodhana endued with prosperity and seated on an excellent seat. He blazed with effulgence like the sun and wore all those signs of glory which belong to heroes. And he was in the company of many deities of blazing effulgence and of Sadhyas of righteous deeds. Yudhishthira, beholdi
 
-tx 340ded7ec40d218ff234e53a6e346f0408421a5d15f218cccccda4f88d581439
+tx 340ded7ec40d218ff234e53a6e346f0408421a5d15f218cccccda4f88d581439 blk 320720 txid 247
 ng Duryodhana and his prosperity, became suddenly filled with rage and turned back from the sight.</p>  
 <p>"He loudly addressed his companions, saying, &#145;I do not desire to share regions of felicity with Duryodhana who was stained by cupidity and possessed of little foresight. It was for him that friends, and kinsmen, over the whole Earth were slaughtered by us whom he had afflicted greatly in the deep forest. It was for him that the virtuous princess of Pancala, Draupadi of faultless features, our wife, was dragged into the midst of the assembly before all our seniors. Ye gods, I have no desire to even behold Suyodhana. I wish to go there where my brothers are.&#146;</p>  
 <p>"Narada, smiling, told him, &#145;It should not be so, O king of kings. While residing in Heaven, all enmities cease. O mighty-armed Yudhishthira, do not say so about king Duryodhana. Hear my words. Here is king Duryodhana. He is worshipped with the gods by those righteous men and those foremost of kings who are now denizens of Heaven. By causing his body to be poured as a libation on the fire of battle, he has obtained the end that consists in attainment of the region for heroes. You and your brothers, who were veritable gods on Earth, were always persecuted by this one. Yet through his observance of Kshatriya practices he has attained to this region. This lord of Earth was not terrified in a situation fraught with terror.</p>  
@@ -3380,7 +3380,7 @@ ng Duryodhana and his prosperity, became suddenly filled with rage and turned ba
 </HTML>
 
 
-tx f47cb96461f01ef4a41a97d727aaf5193925b4c385c4b875cc7685772243dcc4
+tx f47cb96461f01ef4a41a97d727aaf5193925b4c385c4b875cc7685772243dcc4 blk 320720 txid 248
 de76358f718e60fd8ec835c3c5b2e98abd2351ab27aa56e8190130004e5d48e2|8250\de76358f718e60fd8ec835c3c5b2e98abd2351ab27aa56e8190130004e5d48e2
 1b21a0c01c5e335dd72d40cbed7d26b5af5ae503afdfe5ec09a3ce99828f8716
 937c4e9450d05c2042610665185dc3f27053ce36204132f4f61a9c6ebc24149c
@@ -3432,7 +3432,7 @@ fff1ea76b46e632f2658e2facf66fc91ba394e33dfaf8dd82dbc0e735122e3f8
 436402c36f5dd5d4708a1dbfa5e1f18283e11f944ba09ec7cc1a7364c538fc11
 eefa35816f5763070f2ea216e5aab8499e67d822c8
 
-tx 1ed5f8210dae8da2849ca99da6d46e6694a75abc782b547daaccfb38d1061670
+tx 1ed5f8210dae8da2849ca99da6d46e6694a75abc782b547daaccfb38d1061670 blk 320720 txid 249
 d006856905c2e273d253ac
 37dfd47fa6a1c9890683eceac4bb5526fd628805f7eff48e3854a840383b24eb
 47f026dc014adb8e52fb70f76be7c80cbf6745e68f4a07e09ee4e984661381fa
@@ -3486,7 +3486,7 @@ a70d00829e6c87f89a6553ce79f7402587f4621d07736630fff34029848b080a
 6a72aed991f7cb10c29dab995de70a78ec76c387c594b742744a802c906faf60
 2de05b3e63e24d68a84d42
 
-tx a8313e439e82b3b63e9ffcec80e680314059b9dbcd2d5d4249ba439b78472e45
+tx a8313e439e82b3b63e9ffcec80e680314059b9dbcd2d5d4249ba439b78472e45 blk 320721 txid 110
 99d94b7724c5f6dc52c98c498ef2818fd15775fedb
 880962b2be61f3ffd1053bff45b9ca13ce348caae7a929b18a567de9dce35b14
 90845262265d84b48ea73f8187aa6bc399e8e977ae0aa3444fbbcea4a11c2125
@@ -3516,221 +3516,221 @@ b583c0b2c68d6e890faf01604ff959bef9b4ff14b1090b8318d6ef9d1b9d1982
 0d7547eca84f8609b4203fde83c6bbba4e5dd964eeaaedce85581b88170edcc4
 340ded7ec40d218ff234e53a6e346f0408421a5d15f218cccccda4f88d581439
 
-tx 0618f12af65a4e82f8e7b41f8578721dfeb109e9a73ff71aebdbc982696e3720
+tx 0618f12af65a4e82f8e7b41f8578721dfeb109e9a73ff71aebdbc982696e3720 blk 320721 txid 111
 f47cb96461f01ef4a41a97d727aaf5193925b4c385c4b875cc7685772243dcc4?198"f47cb96461f01ef4a41a97d727aaf5193925b4c385c4b875cc7685772243dcc4
 1ed5f8210dae8da2849ca99da6d46e6694a75abc782b547daaccfb38d1061670
 a8313e439e82b3b63e9ffcec80e680314059b9dbcd2d5d4249ba439b784F
 
-tx 4de61b1f8bda7e0be2c5f4009da09abdc1a6f67aff7dec4c5f89628b2e265937
+tx 4de61b1f8bda7e0be2c5f4009da09abdc1a6f67aff7dec4c5f89628b2e265937 blk 320725 txid 640
 T t.io/feed/1AJBFNrBNkicWtjbDSAAFi
 
-tx baf3fb736421073498c48ba12fe7792c953243498d3a454ab88be953aad24b79
+tx baf3fb736421073498c48ba12fe7792c953243498d3a454ab88be953aad24b79 blk 320726 txid 822
  feeds.info/static/live/btc-usd.j
 
-tx 1309cb6b7e6e6b0dc41f49ce1af0d0d72db023b9f37c5eb725e32cc79222ee83
+tx 1309cb6b7e6e6b0dc41f49ce1af0d0d72db023b9f37c5eb725e32cc79222ee83 blk 320731 txid 935
  feeds.info/static/live/btc-usd.j
 
-tx 405386e207ab571d5cf145a3630b28183499eae1cdb36ccfbbc18130e64a6872
+tx 405386e207ab571d5cf145a3630b28183499eae1cdb36ccfbbc18130e64a6872 blk 320737 txid 154
  feeds.info/static/live/btc-usd.j
 
-tx d6f73e0635000ccfda9c733ffa68343db4058dc5fc43d6a2a12395c80af711f0
+tx d6f73e0635000ccfda9c733ffa68343db4058dc5fc43d6a2a12395c80af711f0 blk 320742 txid 507
  feeds.info/static/live/btc-usd.j
 
-tx a1e436c185f123fbaa28561c466f7dcc0e6181bbcd38fb5755b4b04a4793d7b8
+tx a1e436c185f123fbaa28561c466f7dcc0e6181bbcd38fb5755b4b04a4793d7b8 blk 320746 txid 1064
  feeds.info/static/live/btc-usd.j
 
-tx a509cc85b47fe639950317266cb594a9e74e6b381322c1084899e4104d8db880
+tx a509cc85b47fe639950317266cb594a9e74e6b381322c1084899e4104d8db880 blk 320750 txid 986
  feeds.info/static/live/btc-usd.j
 
-tx 17e23d71c1f34f15fae7c8c2b5fe0a75154a4bcbce61e2a449bdb8c4cf5d682d
+tx 17e23d71c1f34f15fae7c8c2b5fe0a75154a4bcbce61e2a449bdb8c4cf5d682d blk 320751 txid 551
 l, ash nazg thrakatuluk, agh burzum-i
 
-tx d31164ec3fed35582d94ff7ec79f018c236dde2ef3116b096cc941431a3da2f5
+tx d31164ec3fed35582d94ff7ec79f018c236dde2ef3116b096cc941431a3da2f5 blk 320751 txid 552
 Ash nazg durbatuluk, ash nazg gimbatu
 
-tx 48530a4edd507f55318f608aee917cbbc0e69f8bf710668de10a93696ad9c496
+tx 48530a4edd507f55318f608aee917cbbc0e69f8bf710668de10a93696ad9c496 blk 320753 txid 289
  feeds.info/static/live/btc-usd.j
 
-tx 4dbc5fc5b2433bf0366c68961c4acc1fae0c18632514d641d2bef93f5454204e
+tx 4dbc5fc5b2433bf0366c68961c4acc1fae0c18632514d641d2bef93f5454204e blk 320758 txid 546
 17ed7903b290521a740c
 
-tx 184176b956ddc0715ac1a5d98f4ba570ceee05d10375bcf1f254d46b3cf4f219
+tx 184176b956ddc0715ac1a5d98f4ba570ceee05d10375bcf1f254d46b3cf4f219 blk 320760 txid 562
 qfebd6739d67b24862c96
 
-tx 43775968911052ba26a1dde880f5dda99968fc433ad132b4d4fbc07aa9e81f66
+tx 43775968911052ba26a1dde880f5dda99968fc433ad132b4d4fbc07aa9e81f66 blk 320760 txid 651
  feeds.info/static/live/btc-usd.j
 
-tx 9e0de67179f8e995acf026d7bbb99bc141cf0228813ba2ebc4bb515397c17c38
+tx 9e0de67179f8e995acf026d7bbb99bc141cf0228813ba2ebc4bb515397c17c38 blk 320765 txid 638
  feeds.info/static/live/btc-usd.j
 
-tx 34fc1e177bbf4e488ecb7455eceb998153cfb63bb5862657b5a3f2fc9f64da23
+tx 34fc1e177bbf4e488ecb7455eceb998153cfb63bb5862657b5a3f2fc9f64da23 blk 320771 txid 522
 "Shares in the BFIS mining
 
-tx 919a0870cbc0bb1eed2c962d35442c5bdfd4b41ba611d62db1acd8b9c0c4db31
+tx 919a0870cbc0bb1eed2c962d35442c5bdfd4b41ba611d62db1acd8b9c0c4db31 blk 320773 txid 258
  feeds.info/static/live/btc-usd.j
 
-tx 79d140cb751f93b3c15858726de65779004ab629d3f49116bcf2771c5ead4f8e
+tx 79d140cb751f93b3c15858726de65779004ab629d3f49116bcf2771c5ead4f8e blk 320781 txid 433
 (Counterparty News - count
 
-tx 52063e4b39d282f10c7b804d0392525cd518667e3e69c6973295f002187d0f97
+tx 52063e4b39d282f10c7b804d0392525cd518667e3e69c6973295f002187d0f97 blk 320782 txid 610
  feeds.info/static/live/btc-usd.j
 
-tx fd34dfeaf9a7c5032144b3e9c8608f329e0178645aba28347fc156cac5573481
+tx fd34dfeaf9a7c5032144b3e9c8608f329e0178645aba28347fc156cac5573481 blk 320791 txid 752
  feeds.info/static/live/btc-usd.j
 
-tx 82144e52c78572e5d4c6d18c7b458e067a41ee2fb06f1dfe461e56302855818c
+tx 82144e52c78572e5d4c6d18c7b458e067a41ee2fb06f1dfe461e56302855818c blk 320799 txid 195
  feeds.info/static/live/btc-usd.j
 
-tx 7bae375dbdde90ffc3879b7f7f05e4db045a5889e12991c8b946d08a8a8a2b79
+tx 7bae375dbdde90ffc3879b7f7f05e4db045a5889e12991c8b946d08a8a8a2b79 blk 320804 txid 374
  feeds.info/static/live/btc-usd.j
 
-tx fcf47d109389c6b0817ebe741c3bb53ce4d34af6ee43452034650b22da1da590
+tx fcf47d109389c6b0817ebe741c3bb53ce4d34af6ee43452034650b22da1da590 blk 320809 txid 1313
  feeds.info/static/live/btc-usd.j
 
-tx 2ab7cf865c0ff05cbce2333c9808e6a2930cf2b900939c11f7819d171fe22ada
+tx 2ab7cf865c0ff05cbce2333c9808e6a2930cf2b900939c11f7819d171fe22ada blk 320810 txid 178
 5a518c95f2421c6b0461f0619edf605916014ee7
 
 
-tx c91df16a0cc52f1a4fea403e2c5ab5bffbda1bbccc0da350173628ba845a0b33
+tx c91df16a0cc52f1a4fea403e2c5ab5bffbda1bbccc0da350173628ba845a0b33 blk 320819 txid 284
  feeds.info/static/live/btc-usd.j
 
-tx 6b7950c948906da09db0c9a7310159849dccf2fa145fb04fc8c47bd753c3acf4
+tx 6b7950c948906da09db0c9a7310159849dccf2fa145fb04fc8c47bd753c3acf4 blk 320829 txid 1497
 u=https://cpr.sm/blEicW_BcTL
 
-tx fcdad9968e35a1d15965d2d264b75f146184952d571723389baa06106f8eede4
+tx fcdad9968e35a1d15965d2d264b75f146184952d571723389baa06106f8eede4 blk 320829 txid 1723
  feeds.info/static/live/btc-usd.j
 
-tx a27142428a7f5772abb6b6b8c22a01cf0b09c2d59fe568dd3e269564223e59bf
+tx a27142428a7f5772abb6b6b8c22a01cf0b09c2d59fe568dd3e269564223e59bf blk 320837 txid 406
  feeds.info/static/live/btc-usd.j
 
-tx e766fcc22949cced8f0f8645e65fcdffa9057c6075230de9be19d2b23bf68288
+tx e766fcc22949cced8f0f8645e65fcdffa9057c6075230de9be19d2b23bf68288 blk 320844 txid 1000
  feeds.info/static/live/btc-usd.j
 
-tx ca3666118112e5621a6d0d09e3c916101acf0059ebfde2a5f019c6890923726b
+tx ca3666118112e5621a6d0d09e3c916101acf0059ebfde2a5f019c6890923726b blk 320845 txid 975
  feeds.info/static/live/btc-usd.j
 
-tx 47536e729c25f682a5cb387c827d38f245e01978e3aa25c02e8a8a55cc044c7d
+tx 47536e729c25f682a5cb387c827d38f245e01978e3aa25c02e8a8a55cc044c7d blk 320852 txid 244
  feeds.info/static/live/btc-usd.j
 
-tx 1c5af50558ef96ac79ed8aadcce4f5484e0843a144d493218fc0deff6c996190
+tx 1c5af50558ef96ac79ed8aadcce4f5484e0843a144d493218fc0deff6c996190 blk 320866 txid 334
  feeds.info/static/live/btc-usd.j
 
-tx 2ec599b60ddadb764a8c87cc90c8a72c9f9c4a5980a02b04669b53e2789ea6a7
+tx 2ec599b60ddadb764a8c87cc90c8a72c9f9c4a5980a02b04669b53e2789ea6a7 blk 320870 txid 533
  feeds.info/static/live/btc-usd.j
 
-tx e8e2036626c0b27b064b44b07b10934af39102dd88fcf3b4e8ad783aa898e9f8
+tx e8e2036626c0b27b064b44b07b10934af39102dd88fcf3b4e8ad783aa898e9f8 blk 320872 txid 247
 T%LESBIAN GAY BISEXUAL TRAN
 
-tx 826b608fd5ce2d899a633a8f78abe4c6c03ad5f42f5d2717877033611019a258
+tx 826b608fd5ce2d899a633a8f78abe4c6c03ad5f42f5d2717877033611019a258 blk 320872 txid 457
 Holly Merrick, I love you x x
 
-tx 7e329866aa1b102752de50c374a4560021348b8c00517bb80fcbacfcbc7ad7a2
+tx 7e329866aa1b102752de50c374a4560021348b8c00517bb80fcbacfcbc7ad7a2 blk 320872 txid 459
 Http://olivercarding.com
 
-tx f1bb3751d410e3bd028a81bee5a462198fb53a2ffa077f7292636292d7001f0b
+tx f1bb3751d410e3bd028a81bee5a462198fb53a2ffa077f7292636292d7001f0b blk 320875 txid 352
  feeds.info/static/live/btc-usd.j
 
-tx 9666aa1db193377f8990d1f9bd618124f2a628af96af2e130502a01b2692f45d
+tx 9666aa1db193377f8990d1f9bd618124f2a628af96af2e130502a01b2692f45d blk 320882 txid 1129
  feeds.info/static/live/btc-usd.j
 
-tx bc1d39b145872d16b006dc7c11b8901632ec5bdbde38126df4416d50aa4138f0
+tx bc1d39b145872d16b006dc7c11b8901632ec5bdbde38126df4416d50aa4138f0 blk 320884 txid 491
 The blockchain is an organism.
 
-tx 02fd553bd2cecaddba3d9d6d9c5ad3d28eaf98ff2fdc98c23a9aeddb2dcb1579
+tx 02fd553bd2cecaddba3d9d6d9c5ad3d28eaf98ff2fdc98c23a9aeddb2dcb1579 blk 320890 txid 352
  feeds.info/static/live/btc-usd.j
 
-tx 68b407dd35fc6367fdc22df375e0f3ca4a31cbef378fa7f80129048087d32a55
+tx 68b407dd35fc6367fdc22df375e0f3ca4a31cbef378fa7f80129048087d32a55 blk 320896 txid 254
  t.io/feed/1BHcztZ2g6a14iUamUtEKA
 
-tx 8f8c94290a69040beef16c00250d91a7981cfdd810aea67c40d3cfee1aa79b0b
+tx 8f8c94290a69040beef16c00250d91a7981cfdd810aea67c40d3cfee1aa79b0b blk 320900 txid 1086
  feeds.info/static/live/btc-usd.j
 
-tx 9fa62ca99bd8cbc32daf59ee0db765bb8984bb799ef26233609b2c4d09de30e3
+tx 9fa62ca99bd8cbc32daf59ee0db765bb8984bb799ef26233609b2c4d09de30e3 blk 320903 txid 463
  feeds.info/static/live/btc-usd.j
 
-tx dd3fb7fa0126ba4c19b8a16367261c6624627810565637740c75b1110d163ca9
+tx dd3fb7fa0126ba4c19b8a16367261c6624627810565637740c75b1110d163ca9 blk 320904 txid 1691
 !http://joelooney.org/ltbc
 
-tx 353cdd3cc91af6625710d37351b76c301404ef1ff11803019eab23a4c90d82b4
+tx 353cdd3cc91af6625710d37351b76c301404ef1ff11803019eab23a4c90d82b4 blk 320904 txid 1692
 !http://joelooney.org/ltbc
 
-tx 0215cd7708218b56bea8dcc673bd06b2b317e5a224295fcabb4377213ce18add
+tx 0215cd7708218b56bea8dcc673bd06b2b317e5a224295fcabb4377213ce18add blk 320904 txid 1693
 !http://joelooney.org/ltbc
 
-tx b5dc566c98b62b635d310e119dee15c25084c452e4da72d166aa07c5169262ca
+tx b5dc566c98b62b635d310e119dee15c25084c452e4da72d166aa07c5169262ca blk 320904 txid 1694
 !http://joelooney.org/ltbc
 
-tx f7bae23413cd7d8f0c19573e762e124bcf8edfc5543df80d595129a62813f6a4
+tx f7bae23413cd7d8f0c19573e762e124bcf8edfc5543df80d595129a62813f6a4 blk 320904 txid 1695
 !http://joelooney.org/ltbc
 
-tx a1c587b5bc2376f5d561aa5c717edfbdd95339e75bd78eeec4b87dcbc43a4ed2
+tx a1c587b5bc2376f5d561aa5c717edfbdd95339e75bd78eeec4b87dcbc43a4ed2 blk 320904 txid 1696
 !http://joelooney.org/ltbc
 
-tx 3f7675b6f9b1cd4f2914e9286daaf0c2e13172251b0998bb36527eadcc4e9613
+tx 3f7675b6f9b1cd4f2914e9286daaf0c2e13172251b0998bb36527eadcc4e9613 blk 320906 txid 722
  feeds.info/static/live/btc-usd.j
 
-tx e796e2cc0216aab83782ede8aef7082dc0dda6f6eaf639f8e99959e5b292148d
+tx e796e2cc0216aab83782ede8aef7082dc0dda6f6eaf639f8e99959e5b292148d blk 320906 txid 723
 !http://joelooney.org/ltbc
 
-tx 4ec996ef354f2f751c2df2a51827261869f8cf58dbd079a63d4cb8654bf4588d
+tx 4ec996ef354f2f751c2df2a51827261869f8cf58dbd079a63d4cb8654bf4588d blk 320906 txid 724
 !http://joelooney.org/ltbc
 
-tx a8321d59441532389551a664570b2ca9bd2e703b0831e21c8f396201ed4ba054
+tx a8321d59441532389551a664570b2ca9bd2e703b0831e21c8f396201ed4ba054 blk 320906 txid 725
 !http://joelooney.org/ltbc
 
-tx ff4dc6037f78e36b7dba4ac8eb1f67b32828be18cac42ee852fd0b599e6b3553
+tx ff4dc6037f78e36b7dba4ac8eb1f67b32828be18cac42ee852fd0b599e6b3553 blk 320906 txid 726
 !http://joelooney.org/ltbc
 
-tx 4157bf3b38c901badd7b37f061632db8f74c39751bb07168bcf9ce13112cd96e
+tx 4157bf3b38c901badd7b37f061632db8f74c39751bb07168bcf9ce13112cd96e blk 320906 txid 727
 !http://joelooney.org/ltbc
 
-tx 973ae12cd91e88c8b396f0ccc833a72516f9c20b60da7a3700373cc1447ae82a
+tx 973ae12cd91e88c8b396f0ccc833a72516f9c20b60da7a3700373cc1447ae82a blk 320918 txid 295
  feeds.info/static/live/btc-usd.j
 
-tx d9eab6295da816295c0b726e98ac9a039ad8a197686e6b21be4fb22088d94233
+tx d9eab6295da816295c0b726e98ac9a039ad8a197686e6b21be4fb22088d94233 blk 320924 txid 367
  feeds.info/static/live/btc-usd.j
 
-tx a6c4c7afe64c06648846af7daf3dcb47a036f40c9b4ee6a057f604d59571e42d
+tx a6c4c7afe64c06648846af7daf3dcb47a036f40c9b4ee6a057f604d59571e42d blk 320930 txid 336
  feeds.info/static/live/btc-usd.j
 
-tx fab5019e76fd94bf5f061a9e667ce7d0bbeb2aca61b058aee6615be886e8091d
+tx fab5019e76fd94bf5f061a9e667ce7d0bbeb2aca61b058aee6615be886e8091d blk 320931 txid 929
 My name is Tom and I was 21 when I wr
 
-tx 69f1202ab4d3feddfafa1955d4d7c63bebd9c0fee2b4cd25fb95a9f138d2290e
+tx 69f1202ab4d3feddfafa1955d4d7c63bebd9c0fee2b4cd25fb95a9f138d2290e blk 320933 txid 1053
  feeds.info/static/live/btc-usd.j
 
-tx d0eb76c12605abd6ebb2e03167ab4ee71f3ee2fcf0441854a9312e56c269e922
+tx d0eb76c12605abd6ebb2e03167ab4ee71f3ee2fcf0441854a9312e56c269e922 blk 320939 txid 1189
  feeds.info/static/live/btc-usd.j
 
-tx 7aca1c4b1eb28c65a3ffe69a514ffbeab17f7578b434a99dfb2cb968edf2a3f4
+tx 7aca1c4b1eb28c65a3ffe69a514ffbeab17f7578b434a99dfb2cb968edf2a3f4 blk 320941 txid 1334
  feeds.info/static/live/btc-usd.j
 
-tx bc03373a84c76ab5a1799b7a4422511cfcb2c6aaf0b077140af6a81f294bda43
+tx bc03373a84c76ab5a1799b7a4422511cfcb2c6aaf0b077140af6a81f294bda43 blk 320951 txid 549
  feeds.info/static/live/btc-usd.j
 
-tx 9c2fddcc063f69656b18383dd7b6828cfb4f1bd0d7d5d3a0a20d5c4a406450d9
+tx 9c2fddcc063f69656b18383dd7b6828cfb4f1bd0d7d5d3a0a20d5c4a406450d9 blk 320961 txid 533
  feeds.info/static/live/btc-usd.j
 
-tx 1d83b986a0b14f11a1be687ef6ddb78d0882294082e1f40bc1e8164340220781
+tx 1d83b986a0b14f11a1be687ef6ddb78d0882294082e1f40bc1e8164340220781 blk 320968 txid 874
  feeds.info/static/live/btc-usd.j
 
-tx 828b3a4708c024fb7933f3bfc402862dc59ac027743afc6fbdcf6c66ec6ce80a
+tx 828b3a4708c024fb7933f3bfc402862dc59ac027743afc6fbdcf6c66ec6ce80a blk 320977 txid 393
 government free future
 
-tx 6356be7bc461445cfb70a7e9ef082a4784157ad6be98ab03bd1fb28410901414
+tx 6356be7bc461445cfb70a7e9ef082a4784157ad6be98ab03bd1fb28410901414 blk 320977 txid 394
 KSK - 27 - TLN -T1614B -Here is to a 
 
-tx 187a6f8f411cc87bafbe69515ba79ad099b8aba9e8acf7f3b4f609d171a73f59
+tx 187a6f8f411cc87bafbe69515ba79ad099b8aba9e8acf7f3b4f609d171a73f59 blk 320979 txid 574
 @puntasafo,52.512668,13.320005
 
-tx 6fd658f620e1e2f0a71fa08d02e6e16f52b0e2024a9956d9f079c7e241a0e995
+tx 6fd658f620e1e2f0a71fa08d02e6e16f52b0e2024a9956d9f079c7e241a0e995 blk 320979 txid 963
  feeds.info/static/live/btc-usd.j
 
-tx 3bf6868080110ecabc9d016b419cf21e882d6fddeab35988b0a5c9bbd5fa48bc
+tx 3bf6868080110ecabc9d016b419cf21e882d6fddeab35988b0a5c9bbd5fa48bc blk 320982 txid 925
  feeds.info/static/live/btc-usd.j
 
-tx 197688821098fb0077cfd39e967eeac344a9ca8aa6d866c04a8ec3e06589a415
+tx 197688821098fb0077cfd39e967eeac344a9ca8aa6d866c04a8ec3e06589a415 blk 320989 txid 377
  feeds.info/static/live/btc-usd.j
 
-tx 3bcec52fbe97dc18aad87305140bfbe85598ddc022ce6c6b361e3b5419793135
+tx 3bcec52fbe97dc18aad87305140bfbe85598ddc022ce6c6b361e3b5419793135 blk 320997 txid 704
  feeds.info/static/live/btc-usd.j

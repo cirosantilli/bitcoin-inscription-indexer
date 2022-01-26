@@ -1,11 +1,11 @@
-tx f6707e09bcf0bd80884a7ffd40b92357144e50a7a426b6cade8fe329d71ee9f2
+tx f6707e09bcf0bd80884a7ffd40b92357144e50a7a426b6cade8fe329d71ee9f2 blk 163123 txid 55
 !ti delipmoc yllaniF!ti delipmoc yllaniF
 
-tx 678afc1c04fd982a3e1458478df93edb525874263a1d51ff3b1c5a8db29c7d8e
+tx 678afc1c04fd982a3e1458478df93edb525874263a1d51ff3b1c5a8db29c7d8e blk 163279 txid 13
 i have invisible gf!
 
-tx b551e5e2c4afbd43ab81419557def98eaedc3ecea47f0146f4ef44ed1c5a2c1a
+tx b551e5e2c4afbd43ab81419557def98eaedc3ecea47f0146f4ef44ed1c5a2c1a blk 163548 txid 59
 BitcoinForTheMasses!
 
-tx 75a489bfef3ba55c50e9040c51c60534815b635d5893ade0bc6d250d95f320d6
+tx 75a489bfef3ba55c50e9040c51c60534815b635d5893ade0bc6d250d95f320d6 blk 163556 txid 89
 gold is@coinabul.com

@@ -1,4 +1,4 @@
-tx 77822fd6663c665104119cb7635352756dfc50da76a92d417ec1a12c518fad69
+tx 77822fd6663c665104119cb7635352756dfc50da76a92d417ec1a12c518fad69 blk 251718 txid 24
 From a3a61fef43309b9fb23225df7910b03afc5465b9 Mon Sep 17 00:00:00 2001
 From: Satoshi Nakamoto <satoshin@gmx.com>
 Date: Mon, 12 Aug 2013 02:28:02 -0200
@@ -42,5 +42,5 @@ index 6620583..89b9b1b 100644
 1.7.9.4
 
 
-tx 59bd7b2cff5da929581fc9fef31a2fba14508f1477e366befb1eb42a8810a000
+tx 59bd7b2cff5da929581fc9fef31a2fba14508f1477e366befb1eb42a8810a000 blk 251768 txid 133
 <script>window.alert("If this were an actual exploit, your mywallet would be empty.")</script>

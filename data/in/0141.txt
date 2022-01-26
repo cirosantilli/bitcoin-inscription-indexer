@@ -1,122 +1,122 @@
-tx 2e2937c72473f05bdde414cad92da9753f86781128c809ee2974bb0680209b09
+tx 2e2937c72473f05bdde414cad92da9753f86781128c809ee2974bb0680209b09 blk 141007 txid 0
 ... the wickedness and snares of the Devil. May God rebuke him, ...
 
-tx 664373bd16ff1b7d1d0ac61ff031e482a326491fd2e427cef945cb9f8382a6fb
+tx 664373bd16ff1b7d1d0ac61ff031e482a326491fd2e427cef945cb9f8382a6fb blk 141022 txid 0
 ... we humbly pray, and do Thou, O Prince of the Heavenly Host, ...
 
-tx 6245d80589d4b83a2b31254a94ec939669273ef1fd5e374d2f5485b6302e0d6d
+tx 6245d80589d4b83a2b31254a94ec939669273ef1fd5e374d2f5485b6302e0d6d blk 141045 txid 0
 ... we humbly pray, and do Thou, O Prince of the Heavenly Host, ...
 
-tx 4b775ee9f0679ee36b7cf8ba3004e9c85e745004e1a750a9bb96d0ea19ef2c10
+tx 4b775ee9f0679ee36b7cf8ba3004e9c85e745004e1a750a9bb96d0ea19ef2c10 blk 141051 txid 0
 ... we humbly pray, and do Thou, O Prince of the Heavenly Host, ...
 
-tx 7bc433998b3dc12374fa7c59c0921809d69518472df9b7a03ddc587d2d72f350
+tx 7bc433998b3dc12374fa7c59c0921809d69518472df9b7a03ddc587d2d72f350 blk 141055 txid 0
 ... we humbly pray, and do Thou, O Prince of the Heavenly Host, ...
 
-tx aaa10ac5ca7bd8b00acaba4f47b2fc074e5898e683b674be9e418daa11d56a43
+tx aaa10ac5ca7bd8b00acaba4f47b2fc074e5898e683b674be9e418daa11d56a43 blk 141084 txid 0
 ... by the power of God, cast into Hell, Satan and all the other evil spirits, ...
 
-tx 14bee83a6bdc537bd353af08d8187a6e7a4c6a929bfc0003f18b454deac0d0aa
+tx 14bee83a6bdc537bd353af08d8187a6e7a4c6a929bfc0003f18b454deac0d0aa blk 141103 txid 0
 ... who wander throughout the world, seeking the ruin of souls. Amen.
 
-tx 5d06e4089224e0eed6bde23a44d30236bd8e16cd87a5c694e99ade2d20d6dba2
+tx 5d06e4089224e0eed6bde23a44d30236bd8e16cd87a5c694e99ade2d20d6dba2 blk 141116 txid 0
 Angel of God, my guardian dear, to whom His love commits me here, ...
 
-tx cebdb2d90f055ca0c1bff4bbac84170d40796f4ea79761f8322c814fc0b6b795
+tx cebdb2d90f055ca0c1bff4bbac84170d40796f4ea79761f8322c814fc0b6b795 blk 141122 txid 0
 ... ever this night be at my side, to light and guard, to rule and guide. Amen.
 
-tx 599857a0e16f5dd9c5b10c0f263b7c39ee7d2751b872d91c8de4ce3272628582
+tx 599857a0e16f5dd9c5b10c0f263b7c39ee7d2751b872d91c8de4ce3272628582 blk 141138 txid 0
 Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, ...
 
-tx f45b551439bda76cd4374535f6a5f8c6b5f916114f54b7521d8b031291e731d0
+tx f45b551439bda76cd4374535f6a5f8c6b5f916114f54b7521d8b031291e731d0 blk 141171 txid 0
 ... et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ...
 
-tx d0355358b2c7c7d1575a2ee7c54eb113754de337fcae89f066d5bba547e68d39
+tx d0355358b2c7c7d1575a2ee7c54eb113754de337fcae89f066d5bba547e68d39 blk 141175 txid 0
 ... et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ...
 
-tx 8173290b85ac971cd5dea85dfc72e058ca46e2410468f332484611968d6a50a0
+tx 8173290b85ac971cd5dea85dfc72e058ca46e2410468f332484611968d6a50a0 blk 141193 txid 0
 ... et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ...
 
-tx 710322750bff563bca142c1eaeefd3eaaa1d888c998ff4100ef119e13cf763c4
+tx 710322750bff563bca142c1eaeefd3eaaa1d888c998ff4100ef119e13cf763c4 blk 141207 txid 0
 ... ora pro nobis peccatoribus, nunc, et in hora mortis nostrae. Amen.
 
-tx ddf2e7916835185ad89a0140975564cc163783ac76274e7fd8e199ce70f97645
+tx ddf2e7916835185ad89a0140975564cc163783ac76274e7fd8e199ce70f97645 blk 141221 txid 0
 Salve, Regina, mater misericordiae: vita, dulcedo, et spes nostra, salve.
 
-tx 549066d3fb0b7271b031e77543df518eb735df024a958bf40822d1780aff4f1e
+tx 549066d3fb0b7271b031e77543df518eb735df024a958bf40822d1780aff4f1e blk 141297 txid 0
 Ad te clamamus exsules filii Hevae. Ad te suspiramus, gementes et flentes ...
 
-tx de4397b4ed98efd62ca9fcca746354df631fad8b4769057f5aab172b8c0aaba4
+tx de4397b4ed98efd62ca9fcca746354df631fad8b4769057f5aab172b8c0aaba4 blk 141327 txid 0
 Ad te clamamus exsules filii Hevae. Ad te suspiramus, gementes et flentes ...
 
-tx 611ccc88925f577e89c0c9d27b735d08c34cf8bb690441ceda20dfe767285503
+tx 611ccc88925f577e89c0c9d27b735d08c34cf8bb690441ceda20dfe767285503 blk 141352 txid 0
 ... in hac lacrimarum valle. Eia, ergo, advocata nostra, illos tuos ...
 
-tx 39eb9185225ffc702ca6b0c3ce622fc149e244ff95bee73b8e29b934688a434d
+tx 39eb9185225ffc702ca6b0c3ce622fc149e244ff95bee73b8e29b934688a434d blk 141434 txid 0
 ... misericordes oculos ad nos converte. Et Iesum, benedictum fructum ...
 
-tx 38bdcb9f6dc5b3fe19e0dba921c8ef67fd0b512be11906d0bed4bffb5a070de0
+tx 38bdcb9f6dc5b3fe19e0dba921c8ef67fd0b512be11906d0bed4bffb5a070de0 blk 141449 txid 0
 ... ventris tui, nobis post hoc exsilium ostende. O clemens, O pia, ...
 
-tx b5eb3d954b38e41960859aedd094070f7cf1047c1d8aa8492ae82c4c12ea511f
+tx b5eb3d954b38e41960859aedd094070f7cf1047c1d8aa8492ae82c4c12ea511f blk 141460 txid 0
 ... O dulcis Virgo Maria. Ora pro nobis, sancta Dei Genetrix.
 
-tx c5282d4f00e96249b2ce54310686aac2c94cd36d6f810df0ac0b0c6ca22d4e1c
+tx c5282d4f00e96249b2ce54310686aac2c94cd36d6f810df0ac0b0c6ca22d4e1c blk 141509 txid 0
 Ut digni efficiamur promissionibus Christi. Amen.
 
-tx e9fef8e10017e3a3dd4f9cf33d2452be714bdc4376bac7a248e59ae713aac851
+tx e9fef8e10017e3a3dd4f9cf33d2452be714bdc4376bac7a248e59ae713aac851 blk 141517 txid 0
 Pater noster, qui es in caelis, sanctificetur Nomen tuum. Adveniat regnum tuum.
 
-tx 74d497c9db282a77d926dd74af00e20118ce670eba8007f6702a7032258eb21a
+tx 74d497c9db282a77d926dd74af00e20118ce670eba8007f6702a7032258eb21a blk 141521 txid 0
 Pater noster, qui es in caelis, sanctificetur Nomen tuum. Adveniat regnum tuum.
 
-tx 16181ba0caf110d7bcb8bdb882598b4351a4b48f10a32c95cdc616cc905b7755
+tx 16181ba0caf110d7bcb8bdb882598b4351a4b48f10a32c95cdc616cc905b7755 blk 141550 txid 0
 Fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum ...
 
-tx 4ed7c8c32f18a25797da3fc4167e07ebe9689820b26ca39ff61aa1eb33db6ef4
+tx 4ed7c8c32f18a25797da3fc4167e07ebe9689820b26ca39ff61aa1eb33db6ef4 blk 141580 txid 0
 ... da nobis hodie, et dimitte nobis debita nostra sicut et nos dimittimus ...
 
-tx 7ce08f9b605312b55132139cc2063b3fc967da62e79f0893656a616a00c12d45
+tx 7ce08f9b605312b55132139cc2063b3fc967da62e79f0893656a616a00c12d45 blk 141640 txid 0
 ... debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo.
 
-tx 5f7bf51d5f65190fe5fce9ca5d371a8fe8df2dcbcf6498e25d033b2a90f90efe
+tx 5f7bf51d5f65190fe5fce9ca5d371a8fe8df2dcbcf6498e25d033b2a90f90efe blk 141664 txid 0
 Domine Iesu Christe, Filius Dei, miserere me peccatorem!
 
-tx d2279e6319cbbc70bb8c091f7682fc2ab7de5e0dc289447da57be24391512eaf
+tx d2279e6319cbbc70bb8c091f7682fc2ab7de5e0dc289447da57be24391512eaf blk 141737 txid 0
 We adore Thee, O Christ, and we bless Thee;
 
-tx e283edcf30d1f9d93bdc25ed26b2e20cee44360ea50cb30e39a292d0dd9eb326
+tx e283edcf30d1f9d93bdc25ed26b2e20cee44360ea50cb30e39a292d0dd9eb326 blk 141745 txid 0
 We adore Thee, O Christ, and we bless Thee;
 
-tx bffa1a8e85e67aa997f5b6b42a9a4d356ce8f369e97a380de86b5899967cdf7f
+tx bffa1a8e85e67aa997f5b6b42a9a4d356ce8f369e97a380de86b5899967cdf7f blk 141777 txid 0
 because by Thy holy Cross Thou hast redeemed the world.
 
-tx b62febddc9a811885a600fc5cf9e514f3c3fbe61593a7aabef4cd502e9f9bb99
+tx b62febddc9a811885a600fc5cf9e514f3c3fbe61593a7aabef4cd502e9f9bb99 blk 141813 txid 0
 May the Holy Trinity be blessed.
 
-tx 2d8b0db54c920bc03291e961d85e872d5e415f3627fc7cf6fcb6ef4315287072
+tx 2d8b0db54c920bc03291e961d85e872d5e415f3627fc7cf6fcb6ef4315287072 blk 141857 txid 0
 Christ conquers! Christ reigns! Christ commands!
 
-tx 94a7d5ac0d0457750f080e63b8f3150f0e5e5898907e91db530ad432246dc5af
+tx 94a7d5ac0d0457750f080e63b8f3150f0e5e5898907e91db530ad432246dc5af blk 141862 txid 0
 O Heart of Jesus, burning with love for us, inflame our hearts with love for Thee.
 
-tx ce76c64dc2b4d3838cb80589d4c815b783dba399df54dbd8ddf4738908b4275c
+tx ce76c64dc2b4d3838cb80589d4c815b783dba399df54dbd8ddf4738908b4275c blk 141889 txid 0
 O Heart of Jesus, burning with love for us, inflame our hearts with love for Thee.
 
-tx 808c57588f72ff01c51cbf685200d4985fb840f0c21642d3ddb9dd62fc9d4b96
+tx 808c57588f72ff01c51cbf685200d4985fb840f0c21642d3ddb9dd62fc9d4b96 blk 141921 txid 0
 O Heart of Jesus, I place my trust in Thee.
 
-tx 5770918ebee2c73c8aed16194e3e60986e66e571add08bd287e95262c8444675
+tx 5770918ebee2c73c8aed16194e3e60986e66e571add08bd287e95262c8444675 blk 141948 txid 0
 O Heart of Jesus, all for Thee.
 
-tx fcc2c3a5a02f85098bb806bd791255fab4b22e84fce98ae815ca05db63a8bd85
+tx fcc2c3a5a02f85098bb806bd791255fab4b22e84fce98ae815ca05db63a8bd85 blk 141949 txid 0
 O Heart of Jesus, all for Thee.
 
-tx 4e131e58f0a10797855a90fdd01eae403b2503247098f127da74c236b4185de2
+tx 4e131e58f0a10797855a90fdd01eae403b2503247098f127da74c236b4185de2 blk 141960 txid 0
 Most Sacred Heart of Jesus, have mercy on us.
 
-tx 56ff069e47a47b29d71f5e0d154a7d87444ff0d1bc18b1f4de181bb2b4a4e278
+tx 56ff069e47a47b29d71f5e0d154a7d87444ff0d1bc18b1f4de181bb2b4a4e278 blk 141970 txid 0
 O God, have mercy on me, a sinner.
 
-tx ed7444fdcea818814fe4e652b34332714155121be47a38a749fefbdb1cc4051e
+tx ed7444fdcea818814fe4e652b34332714155121be47a38a749fefbdb1cc4051e blk 141998 txid 0
 Teach me to do Thy will, because Thou art my God.

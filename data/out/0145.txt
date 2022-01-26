@@ -1,3 +1,3 @@
-tx 5e1a23dad61d30c3b2451f2b54e152bd5836760f731de12839e5a8fde7babade
+tx 5e1a23dad61d30c3b2451f2b54e152bd5836760f731de12839e5a8fde7babade blk 145587 txid 30
 9
 this is a test     

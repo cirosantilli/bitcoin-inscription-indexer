@@ -1,20 +1,20 @@
-tx 07ef196619f4f5f7ab217c18e893af31f433e20ff9f696df3be94c1091c9dec7
+tx 07ef196619f4f5f7ab217c18e893af31f433e20ff9f696df3be94c1091c9dec7 blk 338041 txid 1170
 zASCRIBESPOOLREGISTER
 
-tx a7fdced2fb6e18ca4dec84b83a7c2ab3566e981229211550b3bfd37eeb4f10a0
+tx a7fdced2fb6e18ca4dec84b83a7c2ab3566e981229211550b3bfd37eeb4f10a0 blk 338061 txid 732
 u=https://cpr.sm/0RRC3QC5-A
 
-tx e5d53fd94ca80d059b2ba1e8b2e9ef860f5c83b793198298e79d9d8035a60ead
+tx e5d53fd94ca80d059b2ba1e8b2e9ef860f5c83b793198298e79d9d8035a60ead blk 338072 txid 602
 handle:aoeui2;email:(none);about:bitcomm developer
 
-tx 5970ae129d1141663bd5e441a1555c16fb1c0586dd05f40c1db3d3e81218ee41
+tx 5970ae129d1141663bd5e441a1555c16fb1c0586dd05f40c1db3d3e81218ee41 blk 338078 txid 125
 r the rest of time. ansaction:
 http://bhe original data wilcan be retrieved froind the protocol is lic addresses. By sending one or more trAfundamental idea behl be stored in, and As an example of howThe Bit-Comm Protocothat any piece of data can be converted into a series of pube public addresses ol
 version 0
 
 The  this would work, take a look at this tran ordered manner, tansactions with thosm, the blockchain fon the blockchain in 
 
-tx 6e5c13edf8bb594ad850882173c9b5e906187269595c0154db36668d337b42e1
+tx 6e5c13edf8bb594ad850882173c9b5e906187269595c0154db36668d337b42e1 blk 338078 txid 126
 packet/b20e427ba2e0fa34ceb002649315321b3753b42654f2?expandeme in a downloadable?expanded=true
 
 ToAt this link:
@@ -23,7 +23,7 @@ http://bit-comm.appcc6e9ea25fcc765de1c3d=true
 
 For a longed into the blockchaer example, here is it-comm.appspot.com/the United States Bill of Rights, record see the Bill of Rig file format, look a5779f3177380a5b26b8cin for all of time:spot.com/packet/d71ehts saved for all ti39e493a1eaa4eb7c39e5
 
-tx 129802d3a0b96f510e47c447f10d4a75389cb4990689b9079c060a3d6cc2b6fd
+tx 129802d3a0b96f510e47c447f10d4a75389cb4990689b9079c060a3d6cc2b6fd blk 338078 txid 127
 ta, but based on the is as follows:
 
 1an array of bytes inA18990d3a9aec7af3ab45/it-comm.appspot.comf335256bf083
@@ -32,30 +32,30 @@ A Bi/packet/e3b204c71f24teps for converting ts, each carrying a , we need to rem
 
 The saction is called a pof Bitcoin addressesue of 0, 1, or 255. veral types of packe
 
-tx d97fe9e495066da2271517598f9f943baa92455dcac3c31bcfeb8ea51550ebd0
+tx d97fe9e495066da2271517598f9f943baa92455dcac3c31bcfeb8ea51550ebd0 blk 338078 txid 128
 ng, pad the end withmaking byte 254 intoour array. If it is  byte 0, {254,49} wi, we need to break inow equal byte 254 ( itself).
 
 2. Now A an "escape byte". So {254,70} will nowt up into a series ocoin safe byte arraysince it is escaping We will do that by ll now equal byte 1, first 20 bytes of y and {254,254} will  equal byte 255, {254,48} will now equalthat, start with thef addresses.  To do that we have our Bitless the 20 bytes lo
 
-tx b19cd590b3c89cc965347910af658e4ba8984ffc328a977bbec0202f4830980b
+tx b19cd590b3c89cc965347910af658e4ba8984ffc328a977bbec0202f4830980b blk 338078 txid 129
 en one '1' at the be back to your origina If the address we ginning, it is no goor more on how to donsert a single 255 bcoin_addresses
 
 2.Aod. In that case, gound_of_version_1_Bithe standard process  to declare this a p that, see the docum 55's to fill it outs://en.bitcoin.it/wial byte array, and iublic key, and use t8 public address - fki/Technical_backgroto generate a base 5 to 20. We are goingentation here:
 httpgenerate has more th
 
-tx fa2a1afb5afc3518cf92c1e553d5e142d7b878595fb85d2221346cff0df5f75f
+tx fa2a1afb5afc3518cf92c1e553d5e142d7b878595fb85d2221346cff0df5f75f blk 338078 txid 130
 ng any data, but are Repeat steps 2 and  byte block. Note thaddresses.
 
 4. A Pding address, a seri the start of the 20ntil you generate a byte longer. Continuacket (ordered transaction) of data consists of a single senAums consisting of oryte into it right at2.a until you have c array of data into  just making the overall data array one onverted your entirees of address spectrvalid address.
 
 3.at we are not removie on step 2 and 2a u
 
-tx 7b67f89c581097b5dfbaacda789cf51d05db386d720803f889577ff1bab0914b
+tx 7b67f89c581097b5dfbaacda789cf51d05db386d720803f889577ff1bab0914b blk 338078 txid 131
 dress has a transacte return addresses tion value that is on
  Each spectrum is ectrum of addresses action might look lihat are ignored for  probably one or morAple if you are sendiC -5502 satoshi). 
 vious address on thedered addresses, and, B - 5501 satoshi, is made when each addata purposes.  A sptrum, then the transe more then it's preseparated from it's d C in a single specke (A - 5500 satoshi spectrum - for examng addresses A,B, an
 
-tx 6aaf93a79600252224e5ae5f088a46b99a0a67bc17696753b03d4800469507cb
+tx 6aaf93a79600252224e5ae5f088a46b99a0a67bc17696753b03d4800469507cb blk 338078 txid 132
 ctrum
 "Header" speest to lowest value,um
 
@@ -66,14 +66,14 @@ In all Packetsed address in the hiue between the highepectrum
 "To" sneighbor by a singled to be the first li, the lowest valued  jump in satoshi valgher spectrum.  Curr and the lowest valu recognized spectrums. Ordered from high the lower spectrum,ently there are fivectrum
 "Subject" spe
 
-tx f200a2fd4848fff1917f7a562d30eb843b637cb90e144839d68b0f1e95d71ad3
+tx f200a2fd4848fff1917f7a562d30eb843b637cb90e144839d68b0f1e95d71ad3 blk 338078 txid 133
 ns that packet decodrm, and all orderingreturn value is outs data spectrums.
 
 ide the range of theAde of these spectruming does not demand f return addresses fdata wise.  This allIn general, the "Bodt ensure that their a standard minimum v ranges is considered to be irrelevant, rom there.  This meaalue as a frame of rress that receives a of spectrums goes fows for any number o value that is outsieference.
 
 Any addor excess funds, jus
 
-tx a7e20ed69eb865dd0428bc49bfa8b756da1cd9e5e5de6bd72d020565d8e2c182
+tx a7e20ed69eb865dd0428bc49bfa8b756da1cd9e5e5de6bd72d020565d8e2c182 blk 338078 txid 134
 trum stores what th stored. 
 
 The "Hen be found by searchould pull all packetader" spectrum store
@@ -81,7 +81,7 @@ The "Subject" specore a user-specific s key:value pairs reThe "Index" spectrumr 
  data of one type cas sent to the keywor is where you can ste data is about.
 
 
-tx ac0b9174280fe25d99f7d54005374f4f3bba2883b8bb3783a50f7acbb50bc9e1
+tx ac0b9174280fe25d99f7d54005374f4f3bba2883b8bb3783a50f7acbb50bc9e1 blk 338078 txid 135
 dof "files" that goemath.Mod(float64(useonsistent address - o generate a user sp
 	index[i]=byte(int(the combined index p public key out of yAublic key through th
  for all i from 0 ps are 
@@ -92,7 +92,7 @@ The "To"dPublicKey[i]-2), 25e following formula:s with that user.  Tour keyword,
 
 b. Create ding messages to a cecific index the steto len(public key), spectrum is for sen
 
-tx 508c77952526512f2a9b968c37bba84a63054fa772de6a75587464b833bf440e
+tx 508c77952526512f2a9b968c37bba84a63054fa772de6a75587464b833bf440e blk 338078 txid 136
 
 
  - To retrieve thible.
@@ -105,7 +105,7 @@ Message tion through your preve your packet, juste data again, just rps. All ste
 he "To" address into be forever stored! with other users pubed above are reversypes:
 a. Forum Postkchain as a transacthe data therein will send it to the bloc
 
-tx 6b296ef705418df6482f1ab94601704f8b1461b100d00c64e3b5a4dd0dca1fe9
+tx 6b296ef705418df6482f1ab94601704f8b1461b100d00c64e3b5a4dd0dca1fe9 blk 338078 txid 137
  address generated bns the user-specificd to.
 
 b. Journal  that is being postebout the journal dating user's public keAs the actual post dae:
@@ -116,7 +116,7 @@ b. Journal  that is being postebout the journal dating user's public keAs the ac
 	This has theeping a personal jore:
 	Body - Containe following signatur"journal".  Note tha
 
-tx ca379d45b4c2de38fbe13ae50b3d1bf9062efb2483a9de4273ceaf25c6f78ad4
+tx ca379d45b4c2de38fbe13ae50b3d1bf9062efb2483a9de4273ceaf25c6f78ad4 blk 338078 txid 138
 omm developer".  Forrecently posted valu
 	This has the folla way for a user to chain is considered ody - Contains infort it is not a valid Adescribe themselves.post if the posting r in key:value pairsdle:aoeui;about:bitccurrent.
 	Index - c,with semi-colons beuser's public key iserates this index. owing signature:
@@ -124,7 +124,7 @@ omm developer".  Forrecently posted valu
 
 c. Info updates: mation about the use all keys, the most tween them, aka "hane found on the block
 
-tx abd4cb15987b376dca946ca63b853648b7a9daf46df3cead6b0bfe929f167086
+tx abd4cb15987b376dca946ca63b853648b7a9daf46df3cead6b0bfe929f167086 blk 338078 txid 139
 manently.
 	A file ix of "index".  Note rily large files perl packets, broken upontains the user-spe
 that it is not a vic key with the indes composed of severa	Body - Contains a pcific address generaAted by combining theway to store arbitraey isn't the one tha posting user's publex. 
@@ -134,7 +134,7 @@ alid post if the post generates this inda packets and pointer packets.
 	
 	Data
 
-tx 4b4586f768ec569e73b7437d7ae43eb6868eef1ca2a90073ba11043257ae381e
+tx 4b4586f768ec569e73b7437d7ae43eb6868eef1ca2a90073ba11043257ae381e blk 338078 txid 140
  of hash-160 addressontains a carriage-rins the key-value pas
 	Index - contain	
 	Pointer Packet s
@@ -143,7 +143,7 @@ tx 4b4586f768ec569e73b7437d7ae43eb6868eef1ca2a90073ba11043257ae381e
 	Header - contaeturn separated listignature:
 	Body - cket will contain this the file name - onthis also is only co
 
-tx 3b71fcbf33efc82f3ce38b090371baf347636850d8ed713018c16aced41c3565
+tx 3b71fcbf33efc82f3ce38b090371baf347636850d8ed713018c16aced41c3565 blk 338078 txid 141
 sses that each trans data into an approp Break up the file'sseems appropriate. nly one pointer packr pointer packet as  packets, depicted aenerate a file, do tAted above, putting afle packet.
 
 	To ghe following.
@@ -154,7 +154,7 @@ sses that each trans data into an approp Break up the file'sseems appropriate. 
 
 	3. If there is oeep the correctly orbove. Send them to tdered hash-160 addrehe blockchain, and kriate number of datapackets to the hash-
 
-tx 41113d16d148bee1630d6cc15964e04716dabe11803e4eb83c9accf09fe86b28
+tx 41113d16d148bee1630d6cc15964e04716dabe11803e4eb83c9accf09fe86b28 blk 338078 txid 142
 specific index of "f if there was more t hash 160s.
 
 	To decode a file again, ctrum, and the user Ajust follow the poinhen one pointer packith your new list ofters back to the filtogether in the corre's original data paen add the file nameiles". 
@@ -162,14 +162,14 @@ specific index of "f if there was more t hash 160s.
 	4. Send these pointer packet to it's Subject speet created above, stect order.
 art over at step 2 wet created above, ths to the blockchain.ckets, and put them 
 
-tx bbad0cd50f43e44956655d9b53f260d2654453c9ec47993407032e283a605317
+tx bbad0cd50f43e44956655d9b53f260d2654453c9ec47993407032e283a605317 blk 338078 txid 143
 8cf92c1e553d5e142d7b878595fb85d2221346cfe441a1555c16fb1c0586060a3d6cc2b6fd
 d97feb19cd590b3c89cc96534328a977bbec0202f4830Ab96f510e47c447f10d4ad337b42e1
 129802d3a09e495066da2271517598dd05f40c1db3d3e81218980b
 fa2a1afb5afc351ee41
 6e5c13edf8bb594f9f943baa92455dcac3c75389cb4990689b9079c87269595c0154db366687910af658e4ba8984ffc5970ae129d1141663bd5ad850882173c9b5e906131bcfeb8ea51550ebd0
 
-tx a9bcbf980f0bff830ede1e6f9083e0bfd1db44930d5f86bc92bd7e8d7963fdb1
+tx a9bcbf980f0bff830ede1e6f9083e0bfd1db44930d5f86bc92bd7e8d7963fdb1 blk 338078 txid 144
 2f2a9b968c37bba84a630ed69eb865dd0428bc49bfa8b756da1cd9e5e5de3b8bb3783a50f7acbb507d54005374f4f3bba288914b
 6aaf93a79600252A7b67f89c581097b5dfbab833bf440e
 6bd72d020565d8e2c182224e5ae5f088a46b99a0acda789cf51d05db386db843b637cb90e144839d720803f889577ff1bab0
@@ -178,7 +178,7 @@ f200a2fd48bc9e1
 508c7795252651a67bc17696753b03d48048fff1917f7a562d30e68b0f1e95d71ad3
 a7e2054fa772de6a75587464
 
-tx 669e0f1561d00bb7ee644a943f44cc63739ed9c07bb920ff85c809bbc0ce7b21
+tx 669e0f1561d00bb7ee644a943f44cc63739ed9c07bb920ff85c809bbc0ce7b21 blk 338078 txid 145
 00d00c64e3b5a4dd0dca09fe86b28
 5c6f78ad4
 abd4cb15986f768ec569e73b7437d78b090371baf347636850abe11803e4eb83c9accfefb2483a9de4273ceaf20bfe929f167086
@@ -187,34 +187,34 @@ abd4cb15986f768ec569e73b7437d78b090371baf347636850abe11803e4eb83c9accfefb2483a9d
 ca379d45b4c2de348b7a9daf46df3cead6b1ab94601704f8b1461b11630d6cc15964e04716d8fbe13ae50b3d1bf9062ae43eb6868eef1ca2a90d8ed713018c16aced41c3565
 41113d16d148bee
 
-tx 6b68448352ee4e121c32997690a109f8484a5bf7b13faf50100d90d0e2530928
+tx 6b68448352ee4e121c32997690a109f8484a5bf7b13faf50100d90d0e2530928 blk 338078 txid 146
 Bit-Comm Protocol v0?b44930d5f86bc92bd7e8bbad0cd50f43e4495665c809bbc0ce7b21
 30ede1e6f9083e0bfd1dAec47993407032e283a60d7963fdb1
 669e0f1561d00bb7ee644a943f44cc5
 63739ed9c07bb920ff855d9b53f260d2654453c9type:pointer;size:395317
 a9bcbf980f0bff8
 
-tx 912a3d796729cc722b0aa7b2a6f1add046a1ef92b9e78621881c8f0bbaa2e6fb
+tx 912a3d796729cc722b0aa7b2a6f1add046a1ef92b9e78621881c8f0bbaa2e6fb blk 338080 txid 1160
 in will go back to oPredictions
 ver $1000 each by thI predict that Bitco
 
-tx 2a68d5c68fe6021acd59dcb9bd90eee10a09a75a26b5708506da86cad913c145
+tx 2a68d5c68fe6021acd59dcb9bd90eee10a09a75a26b5708506da86cad913c145 blk 338080 txid 1161
 s will win the Superthe Green Bay PackerPredictions
 AI also predict that 
 
-tx 583e7e6b75371212db5563088279dff2bbfcf51e7aba91936aef2513bbeaab5b
+tx 583e7e6b75371212db5563088279dff2bbfcf51e7aba91936aef2513bbeaab5b blk 338105 txid 931
 Bitstamp is dead, and we will be lucky iPredictions
  our deposits.
 Markf we get back 50% of
 
-tx 507185881706ea578b78e7e6475feda8d98b97b96b464304f11cbdeb86e4365a
+tx 507185881706ea578b78e7e6475feda8d98b97b96b464304f11cbdeb86e4365a blk 338117 txid 1341
 an actual Use Value.?
 e it to write their information into thenternet technology, Afor it:
 1. Bitcoin As Bitcoin continues to plummet, there aeath without having re only two options 
 2. Bitcoin can rise to become a core iby letting people uscan die an obscure d blockchain.
 Which future do you prefer
 
-tx 1ac3ba94025f64a5278e3c66677bc5ddb45383f49c491204eae2656e08273fa2
+tx 1ac3ba94025f64a5278e3c66677bc5ddb45383f49c491204eae2656e08273fa2 blk 338117 txid 1342
 r information into t. 
 2. Bitcoin can rhe blockchain. 
 Whideath without havingPredictions
@@ -222,269 +222,269 @@ ise to become a core internet technologyuse it to write theiA, by letting people
 for it: 
 1. Bitcoin
 
-tx acfb04962bb731399a443dfaf22a8a9e08d249dbf2b06d3b7c299aeb38d4ea5f
+tx acfb04962bb731399a443dfaf22a8a9e08d249dbf2b06d3b7c299aeb38d4ea5f blk 338148 txid 201
 D-U-R-I-E-L 
 PayStamper.Com
 
-tx 8c0b17feb8253b92a89850cc7954a9dbf0a20215da83a293594382ba8ab0aabd
+tx 8c0b17feb8253b92a89850cc7954a9dbf0a20215da83a293594382ba8ab0aabd blk 338156 txid 449
 TW-150109-alpha1@590c.org
 
-tx 6a2c12502b9418ed23597c1b73bd85d3017f94ea109e1705c2d73041417832d6
+tx 6a2c12502b9418ed23597c1b73bd85d3017f94ea109e1705c2d73041417832d6 blk 338158 txid 777
 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG\88/H3nUgWUDV8hzbn6drc1h3h8EdRYmEEnUprqlMWM4q8ggWAzePeVzc0ZAJqoYSH2P3Kklnot7tgqJXyZrFynA9F4=?334/
 
-tx 1713e07e6a7cf3efed1225ba1ee04f2675fb0a3ca818f26fe99b8808982558d7
+tx 1713e07e6a7cf3efed1225ba1ee04f2675fb0a3ca818f26fe99b8808982558d7 blk 338172 txid 437
 zASCRIBESPOOLREGISTER
 
-tx a25cdb7a1f908afbdc46a63e399d8eb790ef26cb87e90acce633cb454a76dbb0
+tx a25cdb7a1f908afbdc46a63e399d8eb790ef26cb87e90acce633cb454a76dbb0 blk 338186 txid 922
 zASCRIBESPOOLREGISTER
 
-tx f5fc5d59fa429e1d7a27f8b20d1d0b2b634388fb2135fa1c206fd99ecad97ad2
+tx f5fc5d59fa429e1d7a27f8b20d1d0b2b634388fb2135fa1c206fd99ecad97ad2 blk 338186 txid 923
 zASCRIBESPOOLREGISTER
 
-tx f35b6094965a249835c1a89a16c1ae2bce84f1cfc7cdad382f256f3c95f02504
+tx f35b6094965a249835c1a89a16c1ae2bce84f1cfc7cdad382f256f3c95f02504 blk 338186 txid 938
 zASCRIBESPOOLREGISTER
 
-tx 0d134930f8bd9de58bb38cf792c7baaa04b6361e392c59be7c912a6f72d139f1
+tx 0d134930f8bd9de58bb38cf792c7baaa04b6361e392c59be7c912a6f72d139f1 blk 338190 txid 438
 zASCRIBESPOOLREGISTER
 
-tx 77660044f118a2f3f552302002ee409e9d3ec743206725782cf88368499fffe8
+tx 77660044f118a2f3f552302002ee409e9d3ec743206725782cf88368499fffe8 blk 338193 txid 596
 zASCRIBESPOOLREGISTER
 
-tx 085af03612973ad737b68d6920bdd9d83a2865a30a1667785c75109fc3ec70b5
+tx 085af03612973ad737b68d6920bdd9d83a2865a30a1667785c75109fc3ec70b5 blk 338202 txid 629
 zASCRIBESPOOLREGISTER
 
-tx aab9ab5b0798db8f35b895518ef1fcaf987f969e16a5834bfa77b9dd840caf6b
+tx aab9ab5b0798db8f35b895518ef1fcaf987f969e16a5834bfa77b9dd840caf6b blk 338205 txid 215
 zASCRIBESPOOLREGISTER
 
-tx fe3cf401dce978d882855fad7f345721e7476020b29c561ed313e6c3c6eb1da9
+tx fe3cf401dce978d882855fad7f345721e7476020b29c561ed313e6c3c6eb1da9 blk 338215 txid 627
 zASCRIBESPOOLREGISTER
 
-tx 49a3819ac02e99adc95f1415dffa11f3aa29d73457f14af83636fda2668be138
+tx 49a3819ac02e99adc95f1415dffa11f3aa29d73457f14af83636fda2668be138 blk 338218 txid 848
 decade btc test 20150109
 
-tx acc39c4fe490ec393260eb3d91dfb86502a6e811893b856aa941684f3592d614
+tx acc39c4fe490ec393260eb3d91dfb86502a6e811893b856aa941684f3592d614 blk 338219 txid 687
 !decade btc text 20150109
 
-tx f5c7d8299255f2583d6835eaa8f123bcff32239ba0e6c12d6960bf7dc66b9550
+tx f5c7d8299255f2583d6835eaa8f123bcff32239ba0e6c12d6960bf7dc66b9550 blk 338225 txid 416
 u=https://cpr.sm/J2Ylr6jEq36
 
-tx 03d55e71ccb4ec44f15287f4bcd7eb37c1726e459e10d7e8ee54eb1a0260f12e
+tx 03d55e71ccb4ec44f15287f4bcd7eb37c1726e459e10d7e8ee54eb1a0260f12e blk 338373 txid 471
 zASCRIBESPOOLREGISTER
 
-tx 44f03c111f0bf99007b15b488d9571d8e073c2b7510fb4b98d33f1624819346d
+tx 44f03c111f0bf99007b15b488d9571d8e073c2b7510fb4b98d33f1624819346d blk 338387 txid 188
 `^u=https://cpr.sm/nexGsll0J6
 
-tx 854ad176e78198e5d7cc5c6775a6cd6f679b7f58b9291a2b0bdd93727e495588
+tx 854ad176e78198e5d7cc5c6775a6cd6f679b7f58b9291a2b0bdd93727e495588 blk 338407 txid 369
 ;	(.R/u=https://cpr.sm/dIYYlNw327
 
-tx f64f136e12ad538b01367d97253668d4d7845d31b2918f117eef8005e6529d72
+tx f64f136e12ad538b01367d97253668d4d7845d31b2918f117eef8005e6529d72 blk 338409 txid 568
 u=https://cpr.sm/RQ4WlINnTg0Q
 
-tx 8f0ff2cf35b7d858efc96d7b4876f0eb77fe5a3dd62e5a704f7ccf64ed1e77be
+tx 8f0ff2cf35b7d858efc96d7b4876f0eb77fe5a3dd62e5a704f7ccf64ed1e77be blk 338409 txid 569
 ;	(.R/u=https://cpr.sm/dIYYlNw327
 
-tx 245f11c49d816e6068a1369a36a5239ecbdee9c2b97ffe613db9fb4714908cc6
+tx 245f11c49d816e6068a1369a36a5239ecbdee9c2b97ffe613db9fb4714908cc6 blk 338409 txid 570
 ;	(.R/u=https://cpr.sm/dIYYlNw327
 
-tx aeac84bb75c9c9b67b678c302f557c33366c61cd550b14ca4d7370b9e37dbc32
+tx aeac84bb75c9c9b67b678c302f557c33366c61cd550b14ca4d7370b9e37dbc32 blk 338410 txid 1032
 wes & pippa 01/09/12
 
-tx 2ecae24a049993142260861d32275d40461936679e9efa9c2504cacd4048914c
+tx 2ecae24a049993142260861d32275d40461936679e9efa9c2504cacd4048914c blk 338414 txid 1253
 thesis+Private Block - Blockchain For Data Privacy
 goal5Thesis Proposal for 
 Master of Science in MAS at MIT
 
-tx 1204c1deb2a4e74c7a7f30db0582523b510e1349c0e6d32b8af7169dece6e240
+tx 1204c1deb2a4e74c7a7f30db0582523b510e1349c0e6d32b8af7169dece6e240 blk 338432 txid 1300
 u=https://cpr.sm/si815Sw_7m
 
-tx d6c0a513bce9c1b235fdd3d6ee58c1db905c5ae292c0235e23479dba203098ce
+tx d6c0a513bce9c1b235fdd3d6ee58c1db905c5ae292c0235e23479dba203098ce blk 338461 txid 573
 658f32ad38fe1eae77fbefd229dc0c266e561bf47ac3efcc6766588d6461edf726a37ea9ea7444a80b6a3d617479287baa12282646bd910dadba45eb16c6d8f7
 
 
-tx 3e14fc4597ae1b2e9e9ceca412a1a3e7fa1695fac096c347e876d011b1c23c88
+tx 3e14fc4597ae1b2e9e9ceca412a1a3e7fa1695fac096c347e876d011b1c23c88 blk 338496 txid 355
 u=https://cpr.sm/si815Sw_7m
 
-tx 25b54913d1a596384387465f9bd46eba69500ddf481df106e3849e8fa12730c8
+tx 25b54913d1a596384387465f9bd46eba69500ddf481df106e3849e8fa12730c8 blk 338498 txid 6
 Mekere Emnen 927<3AL=
 
-tx a736b642ab1be8c2f1fe4feaf8542fa1460a5a601cd72f89a26aa43d207c52af
+tx a736b642ab1be8c2f1fe4feaf8542fa1460a5a601cd72f89a26aa43d207c52af blk 338498 txid 517
 u=https://cpr.sm/si815Sw_7m
 
-tx b34aedbbfde7c2059053bb5c685e820891d27209cfdc3fb75f892e91c80338dc
+tx b34aedbbfde7c2059053bb5c685e820891d27209cfdc3fb75f892e91c80338dc blk 338502 txid 612
 u=https://cpr.sm/si815Sw_7m
 
-tx ea5a52d14e0d044e9dd581b75722558c25945195eb02e1b8cc9ed6e86c8ce7c9
+tx ea5a52d14e0d044e9dd581b75722558c25945195eb02e1b8cc9ed6e86c8ce7c9 blk 338508 txid 21
  +30k USD fr hsbc803
 
-tx b9bc212c1c0cb938d57e1bfddc60bb06e4d07ffbc9afc75e4c5fc899969a00b4
+tx b9bc212c1c0cb938d57e1bfddc60bb06e4d07ffbc9afc75e4c5fc899969a00b4 blk 338513 txid 729
 u=https://cpr.sm/nexGsll0J6
 
-tx 980675269b58fd6ef577dcfb873a36e5517343716cf189be23547d3698c4e26c
+tx 980675269b58fd6ef577dcfb873a36e5517343716cf189be23547d3698c4e26c blk 338517 txid 328
 u=https://cpr.sm/sxgVeLyyF5#Q
 
-tx 16d24dfa07ad55ff3a2a8a0ab0b3fffe869ce53704057503894011ccd615fedb
+tx 16d24dfa07ad55ff3a2a8a0ab0b3fffe869ce53704057503894011ccd615fedb blk 338517 txid 329
 u=https://cpr.sm/6YdWaWaX39
 
-tx 53a256ba16daa6e5a4876f4badec8833467bffc3414587855403fe67996a4235
+tx 53a256ba16daa6e5a4876f4badec8833467bffc3414587855403fe67996a4235 blk 338518 txid 140
 u=https://cpr.sm/WB0uDOUtIw
 
-tx 6425cc7d2067c8a8dbc8982ae1bc44ff2eef9c2dbc49cd6f73302f73447e1d02
+tx 6425cc7d2067c8a8dbc8982ae1bc44ff2eef9c2dbc49cd6f73302f73447e1d02 blk 338525 txid 1088
 unsuccessful double-spend attempt
 
-tx 6dcd403eb4ad40c105ba1aa69cbfac2377b217c5c75560a6a15438ad9895d262
+tx 6dcd403eb4ad40c105ba1aa69cbfac2377b217c5c75560a6a15438ad9895d262 blk 338528 txid 729
 unsuccessful double-spend attempt
 
-tx b93de4fb65e93e72217185b32c28396acb6c4671a46feca44a04643bd427b536
+tx b93de4fb65e93e72217185b32c28396acb6c4671a46feca44a04643bd427b536 blk 338528 txid 730
 unsuccessful double-spend attempt
 
-tx 3dbcacbfe173be25207ff1ac165b4c51149bafaa315fb6d4a8dc3df744af6a92
+tx 3dbcacbfe173be25207ff1ac165b4c51149bafaa315fb6d4a8dc3df744af6a92 blk 338529 txid 1703
 unsuccessful double-spend attempt
 
-tx 4b9b6970200beb9ee7983b75f2980b9466730e43a2f9e3445519ee95235c9230
+tx 4b9b6970200beb9ee7983b75f2980b9466730e43a2f9e3445519ee95235c9230 blk 338532 txid 623
 u=https://cpr.sm/2QbE2vCRo5
 
-tx a2b9348094f5de37b6c771412c08a06dc88872791efb01270c7e33d76c5e9f82
+tx a2b9348094f5de37b6c771412c08a06dc88872791efb01270c7e33d76c5e9f82 blk 338532 txid 625
 u=https://cpr.sm/2QbE2vCRo5
 
-tx e7072833c11334dee14ec66daf1885a0b62f2c1cfee2f60c01e286746d14fec0
+tx e7072833c11334dee14ec66daf1885a0b62f2c1cfee2f60c01e286746d14fec0 blk 338532 txid 1209
 unsuccessful double-spend attempt
 
-tx 8b9d3cdb3abcb3f9894f80c1b8c5c570969296bce81f2aa2fa99c72e11233161
+tx 8b9d3cdb3abcb3f9894f80c1b8c5c570969296bce81f2aa2fa99c72e11233161 blk 338532 txid 1210
 unsuccessful double-spend attempt
 
-tx 985216982021ba3f639f70089923081668983c4ba773381ebf1923f75e02bc43
+tx 985216982021ba3f639f70089923081668983c4ba773381ebf1923f75e02bc43 blk 338547 txid 753
 unsuccessful double-spend attempt
 
-tx 1eac64097280f3369ec23a228df2062ef9d8a3ae9f9ba31dbd724d0d7c8b277e
+tx 1eac64097280f3369ec23a228df2062ef9d8a3ae9f9ba31dbd724d0d7c8b277e blk 338571 txid 711
 unsuccessful double-spend attempt
 
-tx b0a27faca3b9045ec650c9059c0fce1f17a1da4443b4546d0ccb28505d92cd3b
+tx b0a27faca3b9045ec650c9059c0fce1f17a1da4443b4546d0ccb28505d92cd3b blk 338571 txid 712
 unsuccessful double-spend attempt
 
-tx 26be7a50f0ef9f7f91bf5cc1f65a7471248b201ce0050ecaf7fb2a9977373b4d
+tx 26be7a50f0ef9f7f91bf5cc1f65a7471248b201ce0050ecaf7fb2a9977373b4d blk 338572 txid 540
 unsuccessful double-spend attempt
 
-tx e2ff6c7d8834a1d4ca58df33c6e14c66cf25edfe2eff9c3e9f22283f447463a2
+tx e2ff6c7d8834a1d4ca58df33c6e14c66cf25edfe2eff9c3e9f22283f447463a2 blk 338576 txid 391
 unsuccessful double-spend attempt
 
-tx 13f3104b9c68c3cae4d575db812c1e2e59a1e16da1e157bb3db859f6de1ff9e2
+tx 13f3104b9c68c3cae4d575db812c1e2e59a1e16da1e157bb3db859f6de1ff9e2 blk 338580 txid 625
 unsuccessful double-spend attempt
 
-tx ac7dceec9d21abc7a851843f7747e3260aa020dcabaccd24e6ed0d2cd73b5d3b
+tx ac7dceec9d21abc7a851843f7747e3260aa020dcabaccd24e6ed0d2cd73b5d3b blk 338580 txid 626
 unsuccessful double-spend attempt
 
-tx 7bbe2db03b25f6ea0f3a86ad0f5127b623a124f35642626fa854d19295f20d68
+tx 7bbe2db03b25f6ea0f3a86ad0f5127b623a124f35642626fa854d19295f20d68 blk 338582 txid 319
 unsuccessful double-spend attempt
 
-tx ea0c9f11059fb4987498f89dbed6742cc3102cd112c627787e19b29a0c571ca5
+tx ea0c9f11059fb4987498f89dbed6742cc3102cd112c627787e19b29a0c571ca5 blk 338585 txid 275
 0unsuccessful double-spend attempt
 
-tx dfa043e028e303275a6700a3908517bf3b7d9b2ae40656594d3569b53198dc93
+tx dfa043e028e303275a6700a3908517bf3b7d9b2ae40656594d3569b53198dc93 blk 338586 txid 1604
 Punsuccessful double-spend attempt
 
-tx 2b2d4b4560f79a62eecd29645cc377a0dede663b619e80c27cb50d22a8e4589e
+tx 2b2d4b4560f79a62eecd29645cc377a0dede663b619e80c27cb50d22a8e4589e blk 338586 txid 1605
 unsuccessful double-spend attempt
 
-tx 8ef05219fbf4190cb4dc79f42b9e71250dc7a9cf962ac4d1fc27598258e4fe05
+tx 8ef05219fbf4190cb4dc79f42b9e71250dc7a9cf962ac4d1fc27598258e4fe05 blk 338597 txid 1
 $unsuccessful double-spend attempt
 
-tx f87e58a9c2129f03654144fa59add52b672d0214970f0c9e923271856e20b664
+tx f87e58a9c2129f03654144fa59add52b672d0214970f0c9e923271856e20b664 blk 338597 txid 2
 @unsuccessful double-spend attempt
 
-tx ea10ccfe49c905d8ae1f7ec1f191fede9229b471f772be4b055a8b422d880c46
+tx ea10ccfe49c905d8ae1f7ec1f191fede9229b471f772be4b055a8b422d880c46 blk 338597 txid 3
 unsuccessful double-spend attempt
 
-tx a2cb5c7b0d601340bfe01af31e74551502bff3fcac5ecb7e25146dc8c3699a20
+tx a2cb5c7b0d601340bfe01af31e74551502bff3fcac5ecb7e25146dc8c3699a20 blk 338597 txid 4
 unsuccessful double-spend attempt
 
-tx 0a07f6dc42dec4696747ea2a5a05e889176c774f7b4115c988e2cf44e2d1d9e2
+tx 0a07f6dc42dec4696747ea2a5a05e889176c774f7b4115c988e2cf44e2d1d9e2 blk 338597 txid 5
 unsuccessful double-spend attempt
 
-tx 41821be85a4037ea73da27e48544e3621bed2100772597b6a58884b06d5b4d47
+tx 41821be85a4037ea73da27e48544e3621bed2100772597b6a58884b06d5b4d47 blk 338597 txid 6
 unsuccessful double-spend attempt
 
-tx 7450a910a71546df13251d6e45d7c5d3258716c3abca7267844c87f469d63c52
+tx 7450a910a71546df13251d6e45d7c5d3258716c3abca7267844c87f469d63c52 blk 338597 txid 7
 unsuccessful double-spend attempt
 
-tx af94a5ded33e1ebb12d7591cc443337c39286cb04d1c07e1f5b60f117e01bc2f
+tx af94a5ded33e1ebb12d7591cc443337c39286cb04d1c07e1f5b60f117e01bc2f blk 338599 txid 824
 kXunsuccessful double-spend attempt
 
-tx ef95719f5300acd668148b2c1c07e5f4b8117059b26607763d116abaf725b9cf
+tx ef95719f5300acd668148b2c1c07e5f4b8117059b26607763d116abaf725b9cf blk 338600 txid 1
 vunsuccessful double-spend attempt
 
-tx d393ce256a6bebb9ea3d8b97290fba9bd5aeaf50930308cdaee739a2d7b72659
+tx d393ce256a6bebb9ea3d8b97290fba9bd5aeaf50930308cdaee739a2d7b72659 blk 338604 txid 736
 unsuccessful double-spend attempt
 
-tx 0ed65987869f39ab1d569b31c996a66ee4ecdf45dd47aee8fd59d02bbd6293f4
+tx 0ed65987869f39ab1d569b31c996a66ee4ecdf45dd47aee8fd59d02bbd6293f4 blk 338604 txid 738
 Abunsuccessful double-spend attempt
 
-tx 42e48044940601c0ae56562d0884c667829bba734bf384251609fcb27102c534
+tx 42e48044940601c0ae56562d0884c667829bba734bf384251609fcb27102c534 blk 338633 txid 259
 BIENVENUE A LEANORE NE LE 9 JANVIER 2015
 
-tx ac73d945d84c5a2e10195551d26390ec79723b35907686cc4742625af759347e
+tx ac73d945d84c5a2e10195551d26390ec79723b35907686cc4742625af759347e blk 338651 txid 165
 apmpka71ac974d1b4609f8f50ebe91d
 
-tx 51bf59fa355a8a3e18cc487fa09af9b8e6c10bfb6821bee8a870de361ae7d4d5
+tx 51bf59fa355a8a3e18cc487fa09af9b8e6c10bfb6821bee8a870de361ae7d4d5 blk 338695 txid 1664
 unsuccessful double-spend attempt
 
-tx 1920db2ff127ac5fc587d783edc2437f72586a127547a048a52d8b235236a9a4
+tx 1920db2ff127ac5fc587d783edc2437f72586a127547a048a52d8b235236a9a4 blk 338695 txid 1665
 unsuccessful double-spend attempt
 
-tx 5fcdc9d55fd9219b66e5855ab7111a11c1a3c35dd4c91a519660498b4cecaf58
+tx 5fcdc9d55fd9219b66e5855ab7111a11c1a3c35dd4c91a519660498b4cecaf58 blk 338699 txid 777
 u=https://cpr.sm/dxAHiMq_m5	\
 
-tx d6e7bb619a20b43f6b90066a353c322f0e56a43172e703979f86cf90fddeaa49
+tx d6e7bb619a20b43f6b90066a353c322f0e56a43172e703979f86cf90fddeaa49 blk 338701 txid 734
 +u=https://cpr.sm/gRjEEOAwP-$9
 
-tx 894a9c4dbbe53de1537ba3b7211128737d6ece7f6ebf597b451c6520fac011c2
+tx 894a9c4dbbe53de1537ba3b7211128737d6ece7f6ebf597b451c6520fac011c2 blk 338702 txid 1371
 unsuccessful double-spend attempt
 
-tx f88f67249202ca90568a672a34e130510f44fd369b7f519d83fe7e8d6a9b5979
+tx f88f67249202ca90568a672a34e130510f44fd369b7f519d83fe7e8d6a9b5979 blk 338703 txid 1369
 u=https://cpr.sm/L1mxc_A0G1
 
-tx cf7957144292e067bf6ea2871a7830fe786837386cf2b8f676a8783d45f86f2a
+tx cf7957144292e067bf6ea2871a7830fe786837386cf2b8f676a8783d45f86f2a blk 338714 txid 1627
 unsuccessful double-spend attempt
 
-tx f04bb29d5e3fb377c3ad7957e52cee0794941a8cc4b1cddb0a9f3717b231e10d
+tx f04bb29d5e3fb377c3ad7957e52cee0794941a8cc4b1cddb0a9f3717b231e10d blk 338718 txid 430
 -u=https://cpr.sm/omkzYpJjce
 
-tx b82115095f22c1fff5432821622c68c7b262d61d18a889db218501d9cdad8eb6
+tx b82115095f22c1fff5432821622c68c7b262d61d18a889db218501d9cdad8eb6 blk 338718 txid 431
 -u=https://cpr.sm/omkzYpJjce
 
-tx bb73a9119bf6ad132257ed3ed823748797e6b6cc6bd953b74c4110aca5f99ce8
+tx bb73a9119bf6ad132257ed3ed823748797e6b6cc6bd953b74c4110aca5f99ce8 blk 338719 txid 1621
 u=https://cpr.sm/6vNNI4reUI\
 
-tx 30a81ea41448d94ee6ef1a02bf1717280d4ef7998430293acb2a9a3d81c56fea
+tx 30a81ea41448d94ee6ef1a02bf1717280d4ef7998430293acb2a9a3d81c56fea blk 338721 txid 1032
 u=https://cpr.sm/Tp1hdk6Sfi
 
-tx ac9aee891dc2faba0c11e177f13b0c862f5935976995de4676c854a503da67b5
+tx ac9aee891dc2faba0c11e177f13b0c862f5935976995de4676c854a503da67b5 blk 338730 txid 1181
 }unsuccessful double-spend attempt
 
-tx 466b20ce55563c2c7933402b130d4cc684fdb4e0602b4b35c7e3d141b5d5b9fa
+tx 466b20ce55563c2c7933402b130d4cc684fdb4e0602b4b35c7e3d141b5d5b9fa blk 338731 txid 743
 Aunsuccessful double-spend attempt
 
-tx 10422cae328c96db339e2e2f34f8bd17220853673eb5eee6ef62811eabdc4efd
+tx 10422cae328c96db339e2e2f34f8bd17220853673eb5eee6ef62811eabdc4efd blk 338732 txid 429
 unsuccessful double-spend attempt
 
-tx 87de4695cdf3a785e7a1fb564a61282053d0e311b5cd7bf2b7ed3fda940d8bd1
+tx 87de4695cdf3a785e7a1fb564a61282053d0e311b5cd7bf2b7ed3fda940d8bd1 blk 338775 txid 730
 aunsuccessful double-spend attempt
 
-tx 70bd467f88ea835ed8c79700188c59cbf192fa9183be3e11d45bdafc4624ee1b
+tx 70bd467f88ea835ed8c79700188c59cbf192fa9183be3e11d45bdafc4624ee1b blk 338785 txid 912
 New Smart Property Created
 
-tx 818adc8caf09a03043d39c806b11a9e3521f7e14d8e9abdc8771206b073cc903
+tx 818adc8caf09a03043d39c806b11a9e3521f7e14d8e9abdc8771206b073cc903 blk 338787 txid 744
 unsuccessful double-spend attempt
 
-tx 62e726a081b0ac19b5dc6bb82c431edfb63ea7f505b196e88692474cfee1b198
+tx 62e726a081b0ac19b5dc6bb82c431edfb63ea7f505b196e88692474cfee1b198 blk 338787 txid 745
 unsuccessful double-spend attempt
 
-tx 7ba306a345ad927ef514d7e6d156d6dac2ce573eb1602da9d076c37834e8630c
+tx 7ba306a345ad927ef514d7e6d156d6dac2ce573eb1602da9d076c37834e8630c blk 338787 txid 746
 unsuccessful double-spend attempt
 
-tx 792dd1647118e66465d80dfc35f09c40d72e1d1705c177c64bf2607f51867799
+tx 792dd1647118e66465d80dfc35f09c40d72e1d1705c177c64bf2607f51867799 blk 338799 txid 269
 unsuccessful double-spend attempt
 
-tx dc04bbef78bed13114790b7dd7b5f10182fb945e2ea11f1e614c0e4f7fae8def
+tx dc04bbef78bed13114790b7dd7b5f10182fb945e2ea11f1e614c0e4f7fae8def blk 338869 txid 817
 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG"88>IIXXc43fyDzuwAUhmCDv+2bFVBdnCDm454sYvLPCnVhaQQ32cxHoFSX7yPkiF32HxwyPMQyi/ivHxHgpg0JhzRM="3065?<p><h3>In loving memory of</h3>
 <h2><b>Loraine Elizabeth White</b></h2>
 <h3>May 24 1953 - Jan 13 2014</h3>
@@ -550,11 +550,11 @@ Rhubarb<br>
 BUT MOST OF ALL, MY FONDEST AND MOST WONDERFUL MEMORY WAS WHEN DADDY CAME HOME FROM VIETNAM.<br>
 Loraine.jpg<18114|
 
-tx 8080dc2fe13d4cf70f9a82b76e4f0f081c42210416535c065baa6046117160fa
+tx 8080dc2fe13d4cf70f9a82b76e4f0f081c42210416535c065baa6046117160fa blk 338869 txid 820
 (:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
 /cB8Bccccccccccccccccccccccccc
 
-tx b03878dbf20ed15acc153f933d68500e4b4eeedea99b6fdbe2d06a403be24cb1
+tx b03878dbf20ed15acc153f933d68500e4b4eeedea99b6fdbe2d06a403be24cb1 blk 338874 txid 1002
 1M93qV8hpo6648HFUHtuocVm3vGt7fXgEd.SIG>88*IEKaVMi1FCq8NYWAl86qdqBysN4tz/2ZBvar6LJxQjepoOt08E4gYDBrNaxnYhaL/1Zn1xstoLo4klKO+CkJjhw=<3101><p><h3>In loving memory of</h3>
 <h2><b>Loraine Elizabeth White</b></h2>
 <h3>May 24 1953 - Jan 13 2014</h3>
@@ -620,111 +620,111 @@ Aunt Delores bathroom sink with all my frogs in it.<br>
 Rhubarb<br>
 BUT MOST OF ALL, MY FONDEST AND MOST WONDERFUL MEMORY WAS WHEN DADDY CAME HOME FROM VIETNAM.<br>Melanie Loraine Eric.jpg<24885*
 
-tx 8943e69c329f1512472f701ad93492925883f5a30f967705245a499259370bf8
+tx 8943e69c329f1512472f701ad93492925883f5a30f967705245a499259370bf8 blk 338874 txid 1010
 $" &0P40,,0bFJ:Ptfzxrfpn
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 22d2fd81f760a9315f1383e68bc2f77b94c2d9c3553b6d7c282877078f6516b7
+tx 22d2fd81f760a9315f1383e68bc2f77b94c2d9c3553b6d7c282877078f6516b7 blk 338874 txid 1029
 (:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
 /cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 38a1a29358b82fb38208ab34c3c4427f065b32ff7fac4060cda8ab1cae1974ce
+tx 38a1a29358b82fb38208ab34c3c4427f065b32ff7fac4060cda8ab1cae1974ce blk 338874 txid 1034
 Loraine Rick.jpg\16962/
 sRGB IEC61966-2-1 black scaled
 
-tx c6993d469149b5ee43fa387d979650b26deee9c91b658c572a37dbfc62a9ef62
+tx c6993d469149b5ee43fa387d979650b26deee9c91b658c572a37dbfc62a9ef62 blk 338874 txid 1036
 .IEC 61966-2-1 Default RGB Colour Space - sRGB
 
-tx 02e2332dc6ea754ff851baf9b683ea4ac10e0ad1ca065df7a6a2a6cc3b766393
+tx 02e2332dc6ea754ff851baf9b683ea4ac10e0ad1ca065df7a6a2a6cc3b766393 blk 338874 txid 1038
 -Reference Viewing Condition in IEC 61966-2-1
 
-tx 511fac618eee3b550876ce8d3131a418ef40d97da187503eeaf8cee40cd3c9b1
+tx 511fac618eee3b550876ce8d3131a418ef40d97da187503eeaf8cee40cd3c9b1 blk 338874 txid 1040
 Copyright International Color Consortium, 2009
 *=6A@<6;:DLbSDH\I:;UtV\ehmnmBRx
 2iF;Fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx e81670d4e6b2c4e7c2c305e1bfa896281dac500fd7179e4b8c4c828c6aebc347
+tx e81670d4e6b2c4e7c2c305e1bfa896281dac500fd7179e4b8c4c828c6aebc347 blk 338874 txid 1044
 Loraine Nick Eric.jpg|18692\
 sRGB IEC61966-2-1 black scaled
 
-tx 9f2584356aa2c0179fbf7210bafeeec967e8f7819093fa294a5ccc383615da66
+tx 9f2584356aa2c0179fbf7210bafeeec967e8f7819093fa294a5ccc383615da66 blk 338874 txid 1046
 .IEC 61966-2-1 Default RGB Colour Space - sRGB
 
-tx f1a907413bb2b4f6a5ce1253379af92ff21679eaf79995ec94c485529651c55e
+tx f1a907413bb2b4f6a5ce1253379af92ff21679eaf79995ec94c485529651c55e blk 338874 txid 1049
 -Reference Viewing Condition in IEC
 
-tx e8735e855f0ddf32a4f87fd20ecdf4b429d491d16ef3e9dbd63586bdb6f1f23b
+tx e8735e855f0ddf32a4f87fd20ecdf4b429d491d16ef3e9dbd63586bdb6f1f23b blk 338874 txid 1051
 Copyright International Color Consortium, 2009
 !)E-)&&)T<@2EdXigbX`_n|
 
-tx c3dc8665bb607d33a2fe6229f3b695c587cc58437b29622d1f29a061bde31482
+tx c3dc8665bb607d33a2fe6229f3b695c587cc58437b29622d1f29a061bde31482 blk 338874 txid 1052
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 67a2c5446aa550da341e81be566457f0f13bac0e779668bcf52bb778f0ffd344
+tx 67a2c5446aa550da341e81be566457f0f13bac0e779668bcf52bb778f0ffd344 blk 338876 txid 1321
 Loraine High School.jpg>18639<
 
-tx 15ec7f3953381ccb25641244ffbe4ea2b9f879365dbb94a0793cbabbc3c2f975
+tx 15ec7f3953381ccb25641244ffbe4ea2b9f879365dbb94a0793cbabbc3c2f975 blk 338877 txid 826
 *=6A@<6;:DLbSDH\I:;UtV\ehmnmBRx
 2iF;Fiiiiiiiiiiiiiiiiiiiiiiii
 
-tx c88779817804d2340baa4cc4c1793ddf40db174a6fdd5c0aa89934492e62690c
+tx c88779817804d2340baa4cc4c1793ddf40db174a6fdd5c0aa89934492e62690c blk 338877 txid 1118
 iiiiiiiiiiiiiiiiiiiiiiiiii
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 8448607c29d98a7587b57247f08eb6543dec42a93fafa5164612c1d12502a6af
+tx 8448607c29d98a7587b57247f08eb6543dec42a93fafa5164612c1d12502a6af blk 338877 txid 1123
 Jan Tom Melanie Loraine Karen Mike Heather Eric.jpg"29317:
 sRGB IEC61966-2-1 black scaled
 
-tx 4a141bf706a895b9817d659fcb96d68c331d1bba2f825359c4526921be4565ed
+tx 4a141bf706a895b9817d659fcb96d68c331d1bba2f825359c4526921be4565ed blk 338877 txid 1125
 .IEC 61966-2-1 Default RGB Colour Space - sRGB
 
-tx 0629a9ec661004f4e3619dd284766d5083d0484585c2330a0f92b3f40b84fed9
+tx 0629a9ec661004f4e3619dd284766d5083d0484585c2330a0f92b3f40b84fed9 blk 338877 txid 1128
 -Reference Viewing Condition in IEC 61966-2-1
 
-tx 2f1987073b30acb108129c76fd10f9a64938e143b7c5e8da8e9b619697edae2b
+tx 2f1987073b30acb108129c76fd10f9a64938e143b7c5e8da8e9b619697edae2b blk 338877 txid 1130
 >tJ?.yright International Color Consortium, 2009
 +?7BA>7<;ENcTEI^K;<VvW^gjopoCSz
 3kG<Gkkkkkkkkkkkkkkkkkkkkkkk
 
-tx 04cb2d0328dae21d26a63784779a0e73051ef682f4d6e386271299c01f9573be
+tx 04cb2d0328dae21d26a63784779a0e73051ef682f4d6e386271299c01f9573be blk 338878 txid 348
 kkkkkkkkkkkkkkkkkkkkkkkkkkk
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx 49a3195d443e3544c538d94b1e5ef516335fe05218249da839a2ad36b50abdff
+tx 49a3195d443e3544c538d94b1e5ef516335fe05218249da839a2ad36b50abdff blk 338882 txid 510
 Jan Ingrid Karen Loraine.jpg*25279?
 bFBMD01000aa8030000a70e0000ed1a0000cc1c00004c1f00004426000084380000223b0000293e000099410000bf620000
 
-tx edf1cdd141890eeea9844105e3bc899a76ff7f4f3140aad1168acbc137ac1d2d
+tx edf1cdd141890eeea9844105e3bc899a76ff7f4f3140aad1168acbc137ac1d2d blk 338882 txid 513
 (((((((((((((((((((((((((((
 
-tx db60252d1427af70a235b282e638414be1e811d50846488964d02776afed8e13
+tx db60252d1427af70a235b282e638414be1e811d50846488964d02776afed8e13 blk 338883 txid 131
 (((((((((((((((((((((((
 
-tx 4d66d7bcb8b070fadfefcd8f0b154cb83a4fe7eb52a3e0c1d34b2e626785026c
+tx 4d66d7bcb8b070fadfefcd8f0b154cb83a4fe7eb52a3e0c1d34b2e626785026c blk 338891 txid 2316
 Bud Karen Joe Jan Loraine Betty Kat Ingrid.jpg\33684/
 sRGB IEC61966-2-1 black scaled
 
-tx 0692435cac271b707af8a2e92b27cf00a0a26c418494ad2bc42daf66acc779b2
+tx 0692435cac271b707af8a2e92b27cf00a0a26c418494ad2bc42daf66acc779b2 blk 338891 txid 2325
 .IEC 61966-2-1 Default RGB Colour Space - sRGB
 
-tx ba32c02fddaa502c92d1213797379ae734e4d51f768454bbccdc33597380996d
+tx ba32c02fddaa502c92d1213797379ae734e4d51f768454bbccdc33597380996d blk 338891 txid 2327
 -Reference Viewing Condition in IEC 61966-2-1
 
-tx 6b64f3c6b48befc7409a9775baa314c99a1f946f1725e27e6eaadc627bec8795
+tx 6b64f3c6b48befc7409a9775baa314c99a1f946f1725e27e6eaadc627bec8795 blk 338891 txid 2329
 Copyright International Color Consortium, 2009
 9)+".C;GFB;A@JTkZJOeP@A]~^enrwywHY
 7sMAMssssssssssssssssssssssssssssssssssssssssssssssssss
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
 
-tx c0fc3eb9e7b6c4f969e946a4b488fc8fea77d8bc8c61996fcccd48cd7e8de36a
+tx c0fc3eb9e7b6c4f969e946a4b488fc8fea77d8bc8c61996fcccd48cd7e8de36a blk 338921 txid 689
 b03878dbf20ed15acc153f933d68500e4b4eeedea99b6fdbe2d06a403be24cb1?7194>b03878dbf20ed15acc153f933d68500e4b4eeedea99b6fdbe2d06a403be24cb1
 ac2c0bc443c801aa925159c02b10d76143d2e6441a62f3ffc43094e8fa929518
 8156cb06b83218048b06944515c43e88042ffe122557c195dc955ac6ca579d01
@@ -776,7 +776,7 @@ f1a907413bb2b4f6a5ce1253379af92ff21679eaf79995ec94c485529651c55e
 510d505857df2e2e
 e8735e855f0ddf32a4f87fd20ecdf4b429d491d16e
 
-tx 84c5be4a8df64448852fa7ab2f2cb434c8f6b6b39ef05989975f7ce45424053a
+tx 84c5be4a8df64448852fa7ab2f2cb434c8f6b6b39ef05989975f7ce45424053a blk 338921 txid 690
 f3e9dbd63586bdb6f1f23b
 c3dc8665bb607d33a2fe6229f3b695c587cc58437b29622d1f29a061bde31482
 6fa8cbe5da7c64e4076715d927b8fba4472af144e83145289ca4a044dd5e8153
@@ -830,7 +830,7 @@ ba32c02fddaa502c92d1213797379ae734e4d51f768454bbccdc33597380996d
 05333ec28157a9343bece263d418713bfec1cba0e106b033b124609a06434b26
 05333ec28157a9343bece2
 
-tx e290f4cc2ea6f1ef0865d8662d879d24137ba01f89caac7ff65525920635a909
+tx e290f4cc2ea6f1ef0865d8662d879d24137ba01f89caac7ff65525920635a909 blk 338921 txid 691
 63d418713bfec1cba0e106b033b124609a06434b26
 6b64f3c6b48befc7409a9775baa314c99a1f946f1725e27e6eaadc627bec8795
 27d7fdcda0123f87ac1ab5c936b39a58cd42bc8dd6ac2acdd88866a6de333fed
@@ -844,39 +844,39 @@ a89d325fa271a34bd7f827ed8e15d1a8aab1a347121c39e0009811e0cccf4e61
 be463296c77067d139cc61ec1b34812bd7f10607602f631bb29caeb7c66f12f3
 cD2fPRuLR7vFtWV
 
-tx 474b81dcdf6c85e762092799e2a96886f2165e825d17e7eca58f210c2a572ce2
+tx 474b81dcdf6c85e762092799e2a96886f2165e825d17e7eca58f210c2a572ce2 blk 338921 txid 692
 c0fc3eb9e7b6c4f969e946a4b488fc8fea77d8bc8c61996fcccd48cd7e8de36a\198:c0fc3eb9e7b6c4f969e946a4b488fc8fea77d8bc8c61996fcccd48cd7e8de36a
 84c5be4a8df64448852fa7ab2f2cb434c8f6b6b39ef05989975f7ce45424053a
 e290f4cc2ea6f1ef0865d8662d879d24137ba01f89caac7ff6552592063T
 I5a909
 csH4mywVMRiA
 
-tx 0d8e3740c56bdb63198f813053121564f892ac5f3f8bb030cbe40b04c0ee9c63
+tx 0d8e3740c56bdb63198f813053121564f892ac5f3f8bb030cbe40b04c0ee9c63 blk 338933 txid 431
 zASCRIBESPOOLREGISTER
 
-tx 18a7170d71c1c13f9b8940de4c46ebbba35e49b71522479e9490f8a073800edb
+tx 18a7170d71c1c13f9b8940de4c46ebbba35e49b71522479e9490f8a073800edb blk 338933 txid 432
 zASCRIBESPOOLREGISTER
 
-tx 19aca61a1b2f4861dbd88d544bea4360df29514ef7c351cc959d22236d96bca1
+tx 19aca61a1b2f4861dbd88d544bea4360df29514ef7c351cc959d22236d96bca1 blk 338933 txid 434
 zASCRIBESPOOLREGISTER
 
-tx dcc2fdbce8015eeba7f49aba355e80ab0586038a33ff1915a175325890b24c3f
+tx dcc2fdbce8015eeba7f49aba355e80ab0586038a33ff1915a175325890b24c3f blk 338935 txid 465
 zASCRIBESPOOLREGISTER
 
-tx 44c89021bd0f223b5eed94bda467e1e3ce180b9413687a3ba7a8318db660b11c
+tx 44c89021bd0f223b5eed94bda467e1e3ce180b9413687a3ba7a8318db660b11c blk 338935 txid 467
 zASCRIBESPOOLREGISTER
 
-tx e48a8f663735fbb8df3ce29c16aecfc04be9391b531d38e65e8ae818b7537655
+tx e48a8f663735fbb8df3ce29c16aecfc04be9391b531d38e65e8ae818b7537655 blk 338942 txid 1349
 RayzorCoins Mixer www.RayzorCoins.com
 
-tx 8970d7b37a5a9931c91b20309c885b57bff4fd0fe46841620cbfe61b7574a68c
+tx 8970d7b37a5a9931c91b20309c885b57bff4fd0fe46841620cbfe61b7574a68c blk 338963 txid 1335
 u=https://cpr.sm/8zcbunmaUVK}
 
-tx 7588de66bc4274b57f21189e67a6da6b3d8f469379e0adcdc35a307d6314d755
+tx 7588de66bc4274b57f21189e67a6da6b3d8f469379e0adcdc35a307d6314d755 blk 338986 txid 923
 RayzorCoins Mixer www.RayzorCoins.com
 
-tx 8089834b8317dea1bdceee1fa72340c4953ed47c6a6c837c1c1ae041bb081ca5
+tx 8089834b8317dea1bdceee1fa72340c4953ed47c6a6c837c1c1ae041bb081ca5 blk 338989 txid 1155
 RayzorCoins Mixer www.RayzorCoins.com
 
-tx 9ac743cf4f358f0672a3d3a87c8622fe8b841c1ecb51b86cd31a58d0d430ce40
+tx 9ac743cf4f358f0672a3d3a87c8622fe8b841c1ecb51b86cd31a58d0d430ce40 blk 338992 txid 322
  Gu=https://cpr.sm/RKpibaRohvG

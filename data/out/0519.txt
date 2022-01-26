@@ -1,477 +1,477 @@
-tx cb42ba28fe572345f099eea8aa82ec887d33da5480bfcfaa61f723f507073c9c
+tx cb42ba28fe572345f099eea8aa82ec887d33da5480bfcfaa61f723f507073c9c blk 519020 txid 124
 fcc62a0c01fe24121d0b630c70d3937ae59aefaef71404732841394c98d379670
 
-tx 9c67d901a70dfa3a96391f032d1aea22d03dde05eb7cfe34d0ec156f84038c88
+tx 9c67d901a70dfa3a96391f032d1aea22d03dde05eb7cfe34d0ec156f84038c88 blk 519032 txid 2129
 RT&{"ver":1,"auth":"0","title":
 
-tx a8c52d06232738587fec196cda2e7eeb97b6179ba5bacf0aba6a83913d90e0a4
+tx a8c52d06232738587fec196cda2e7eeb97b6179ba5bacf0aba6a83913d90e0a4 blk 519035 txid 129
 3AvKRBYK7phN2WmCxCkBa4mA62EELmB3HLy4hBHI
 
-tx e70a575d7783a5d10dba2d05d5c68368d3b5d689b8cad913e805a3a23214d3a0
+tx e70a575d7783a5d10dba2d05d5c68368d3b5d689b8cad913e805a3a23214d3a0 blk 519037 txid 2200
 RT,{"ver":1,"auth":"0","title":
 
-tx 50eee10fb2a049ca1ac7b569e64be2fbae88cbbed22a2ea45735c6ef55175841
+tx 50eee10fb2a049ca1ac7b569e64be2fbae88cbbed22a2ea45735c6ef55175841 blk 519040 txid 657
 RT'{"ver":1,"auth":"0","title":
 
-tx 6ecad2ce03c41b892460e8200544277e63e717dac2429b1e6a9dae271f25d73d
+tx 6ecad2ce03c41b892460e8200544277e63e717dac2429b1e6a9dae271f25d73d blk 519053 txid 688
 RT({"ver":1,"auth":"0","title":
 
-tx 3e1f7f47ea0c9f9439af0053a1c0539ddffaa9491645b461914d9ecc5f35b915
+tx 3e1f7f47ea0c9f9439af0053a1c0539ddffaa9491645b461914d9ecc5f35b915 blk 519058 txid 486
 RT%{"ver":1,"auth":"0","title":
 
-tx 2e9ca9e5f6543f14f12dbf891f0c62d61598605d76825fbbbaa766e716e6f593
+tx 2e9ca9e5f6543f14f12dbf891f0c62d61598605d76825fbbbaa766e716e6f593 blk 519061 txid 650
 RT.{"ver":1,"auth":"0","title":
 
-tx ffaf42dbcae10e557401ac60a3f4b3be30d056df5e0830e76a0c7373c64fe178
+tx ffaf42dbcae10e557401ac60a3f4b3be30d056df5e0830e76a0c7373c64fe178 blk 519062 txid 1391
 RT%{"ver":1,"auth":"0","title":
 
-tx 29ec9238d5839736d04a0da0c00d4339a8eda3388142f2bbec9db38bdd75b3af
+tx 29ec9238d5839736d04a0da0c00d4339a8eda3388142f2bbec9db38bdd75b3af blk 519074 txid 2177
 RT+{"ver":1,"auth":"0","title":
 
-tx f7ff3080d2dbd5c15f1c3f5b55cca4e42729a73cf58adef832d7ec35b2080252
+tx f7ff3080d2dbd5c15f1c3f5b55cca4e42729a73cf58adef832d7ec35b2080252 blk 519074 txid 2417
 pqavHi Andreas. How would Bitcoin survive a permanent internet fragmentation?
 
-tx 05522255d7a5b1009dfd6a808a720d1451b993025d569af08196ec547457fbd7
+tx 05522255d7a5b1009dfd6a808a720d1451b993025d569af08196ec547457fbd7 blk 519079 txid 2734
 RT%{"ver":1,"auth":"0","title":
 
-tx cdc0c466875befd35b452c4ed725eb0b7a9af52e35a987ae2ce4b2e5132cf420
+tx cdc0c466875befd35b452c4ed725eb0b7a9af52e35a987ae2ce4b2e5132cf420 blk 519080 txid 1384
 oy*EW Mancano meno di 1000 minuti ai tuoi 30!! Auguri eterni Maxi Iacono!
 
-tx 91fbe34a2816e118fda0132a85bc0cf685d656d10e1f2e60c8d9f26f0b0ed59e
+tx 91fbe34a2816e118fda0132a85bc0cf685d656d10e1f2e60c8d9f26f0b0ed59e blk 519082 txid 560
 EW BlackSheep digital communication Torino
 
-tx 87930edb5e08701acc5db87dcfbf90bbf7431de1841c242177e0b4a66118b634
+tx 87930edb5e08701acc5db87dcfbf90bbf7431de1841c242177e0b4a66118b634 blk 519095 txid 179
 .f1b5588bd17e48b37edc8dc0e55b2a5b7e16265a0565028498f82e309b10960ac
 
-tx c73679d4a191252187e71bd6781f48482d5cf3b78e11605ec2e5961204d952da
+tx c73679d4a191252187e71bd6781f48482d5cf3b78e11605ec2e5961204d952da blk 519102 txid 429
 CA1- 19/Apr/18, BTC 75% / USD 25% refTXID=1f547096185c54e5 dkey=FGOG7LdAqdSuCt#k
 
-tx 00d1ed381b8a35d59f3a95b99bcca54481882759313479d360aff50cfbc96a98
+tx 00d1ed381b8a35d59f3a95b99bcca54481882759313479d360aff50cfbc96a98 blk 519106 txid 1291
 c3793ae307bd5a7191c937bf6365c7e7f673e009c416664cd74a795fa4ced8f9
 
-tx 55ccfc8d287e522f406351baec41d645d87f9bca74e78e9e284408ccf633db16
+tx 55ccfc8d287e522f406351baec41d645d87f9bca74e78e9e284408ccf633db16 blk 519107 txid 430
 CF1leNsCLrBV2Z6lxD9nX2xNAyuZm+dzLADz1h+CHK0w=
 
-tx 83ea3462f334bd6fc57736d57969dceffb815851859b386be3ec84e8386251e5
+tx 83ea3462f334bd6fc57736d57969dceffb815851859b386be3ec84e8386251e5 blk 519107 txid 772
 2Mff3TW3g8TTbwgQzbEfAp678cGXrkboLs1rbYVI
 
-tx 26c76fed7f45214706163e4fff4f79a0bd8fb6521545afaf8faf7163e980f88a
+tx 26c76fed7f45214706163e4fff4f79a0bd8fb6521545afaf8faf7163e980f88a blk 519112 txid 2686
 RT({"ver":1,"auth":"0","title":
 
-tx 61557ea74d17bfb02c1b52d35f8a4b2dee39f46c4398bd2a2aa5bdcae734c153
+tx 61557ea74d17bfb02c1b52d35f8a4b2dee39f46c4398bd2a2aa5bdcae734c153 blk 519129 txid 332
 id:stoke_the_stack.id
 
-tx 24f28457ff5f91c47f02061f2d57e2a0f8dd129f6bc6904c1af69502652f6ac3
+tx 24f28457ff5f91c47f02061f2d57e2a0f8dd129f6bc6904c1af69502652f6ac3 blk 519150 txid 83
 $dfca33494ef99a69256e319314f628a9c546cb294f58ec8329ed7e926c739f17H
 
-tx d73116da83a9bb72c09ec2f73440cd0c8e0d9a5f7754b357ef0f8c3681b47616
+tx d73116da83a9bb72c09ec2f73440cd0c8e0d9a5f7754b357ef0f8c3681b47616 blk 519155 txid 96
 9fb35e52a11f3392a691ba7cd4aedde9103697f85d6c0ae302efd11475ca1a81
 
-tx 164b956972c0ff35c0122ca0e7cf9787d67a2e681a1939da08e5f9839cd7ebab
+tx 164b956972c0ff35c0122ca0e7cf9787d67a2e681a1939da08e5f9839cd7ebab blk 519172 txid 153
 1f9jUvEXejuCwL8AeKC5s7n2KX8ZWinWJy1kyPBI
 
-tx 322e66f9428b12ee290492d0889f4770f98a3a0ff6f24ad549ab90847b8282e3
+tx 322e66f9428b12ee290492d0889f4770f98a3a0ff6f24ad549ab90847b8282e3 blk 519183 txid 1400
 RT${"ver":1,"auth":"0","title":
 
-tx bf6ab6373719d338abed4e629e675dbdada16f683823d21d5bd38c0b1ff20842
+tx bf6ab6373719d338abed4e629e675dbdada16f683823d21d5bd38c0b1ff20842 blk 519188 txid 1098
 RT${"ver":1,"auth":"0","title":
 
-tx 360b3c5fd46da1b1a18eb267df3f201c4632ac1360fde6abd5aa4baf22c9cd92
+tx 360b3c5fd46da1b1a18eb267df3f201c4632ac1360fde6abd5aa4baf22c9cd92 blk 519195 txid 775
 RT+{"ver":1,"auth":"0","title":
 
-tx 10ede77be37a34de27bdeb8147ffab5e3a23c68661e14c6ae7945d2632bd38bf
+tx 10ede77be37a34de27bdeb8147ffab5e3a23c68661e14c6ae7945d2632bd38bf blk 519207 txid 190
 id:the_mayor_of_boomtown.id
 
-tx f6aac0fc4b260a8476b2062965dd25f2341e31c2beee0e25e07070cd82970819
+tx f6aac0fc4b260a8476b2062965dd25f2341e31c2beee0e25e07070cd82970819 blk 519223 txid 575
 EEW Per crescere servono reti, non recinti
 
-tx 9bfc7d57248e68bc4f4de45635bdb7814586c89429b2108fd9f851be62cb24c8
+tx 9bfc7d57248e68bc4f4de45635bdb7814586c89429b2108fd9f851be62cb24c8 blk 519246 txid 250
 CA1- 20/Apr/18, BTC 100% / USD 0% refTXID=55ccfc8d287e522f dkey=Tv6g1ZUX#PjD#d88
 
-tx 2f1519680f7171b0ac4b07a77cbff765d31e90d6f352b5be3c199c9bda5b0ccd
+tx 2f1519680f7171b0ac4b07a77cbff765d31e90d6f352b5be3c199c9bda5b0ccd blk 519256 txid 182
 CBB4Il7vVrwtNaNYT64qfuvKBhWKTeHx4NL6dd1F2Q6M=
 
-tx 2877dcfb510da003950c879ad49ceb835b65668c9f54f7d7fa28994899ba11e0
+tx 2877dcfb510da003950c879ad49ceb835b65668c9f54f7d7fa28994899ba11e0 blk 519256 txid 256
 24ZRDvm8gU7QwDuvQXxcEt7mMLfgZ5HLnPZwm8TI
 
-tx 79e315ebdaf95afebb8e1e880a4187b3a6c97be8748ce01af9afd2535b4cc3b7
+tx 79e315ebdaf95afebb8e1e880a4187b3a6c97be8748ce01af9afd2535b4cc3b7 blk 519279 txid 30
 308872abd80cbe5121321580c5c672041001f177575faa14c62e6ec57b825520
 
-tx 4c29e76c2f7d1ecf502f4499a03f98a9b40bbd1870f186dd6dc769a4e03ee778
+tx 4c29e76c2f7d1ecf502f4499a03f98a9b40bbd1870f186dd6dc769a4e03ee778 blk 519279 txid 157
 e13e9d03c150b42ed08faee5328214016e32cde43bae03728ba023c63ed10ee7
 
-tx 67b41ed1903b945be3471339c703bef3b553fee5c366237e3ac09c8756542618
+tx 67b41ed1903b945be3471339c703bef3b553fee5c366237e3ac09c8756542618 blk 519283 txid 604
 RT"{"ver":1,"auth":"0","title":
 
-tx 507aae5f91263c7e4007e353120e5eff4053ebc275cf3ceead5601b788fd798f
+tx 507aae5f91263c7e4007e353120e5eff4053ebc275cf3ceead5601b788fd798f blk 519285 txid 13
 c.Cc6ffd5369a18e15395f305030643b22b9e28542d4a024bc8ad080205bcbdddae_<Y
 
-tx da150b93d9c847255cbdac7e362a6515e3e6acf387c3a721d92c77321c8f2cc5
+tx da150b93d9c847255cbdac7e362a6515e3e6acf387c3a721d92c77321c8f2cc5 blk 519285 txid 53
 8ecbad5c56d9d10af99a570b24b8c6c5547549033a37712184c4b8a74bd57635
 
-tx f8fc00fb7bf2b80752dc00a41808815a359e147d54128ae503bebf498c42e1d2
+tx f8fc00fb7bf2b80752dc00a41808815a359e147d54128ae503bebf498c42e1d2 blk 519292 txid 140
 F2cf2c5e9c75176151ba4e8f952d020ace5940edfcfba3fac37c2b5bb31b9133b
 
-tx c21766eab336c9dd8da819cc877c79b0765fa55e620feb6a0f6a39482e3145de
+tx c21766eab336c9dd8da819cc877c79b0765fa55e620feb6a0f6a39482e3145de blk 519300 txid 127
 e5ba796c12f3eb75a7c906f68eba82de6e39cacbcdd87cfab85f8ac08cb87ec2a
 
-tx cd344b1c18d278a1787e7b156f0ac7f314764497092d031a7f5d3a453d81df65
+tx cd344b1c18d278a1787e7b156f0ac7f314764497092d031a7f5d3a453d81df65 blk 519320 txid 59
 a8a89f10583e350ced8c87103d75ca5f4a71cd6b1744b4d6316753db5eda6051}]<Q
 
-tx 52c0a7adb40ec113d8b018d099a2a7c3b1dcddd935063541dbc407da07cb14ea
+tx 52c0a7adb40ec113d8b018d099a2a7c3b1dcddd935063541dbc407da07cb14ea blk 519325 txid 155
 50c2de7bf07ac6cedb78b884c154ace4de91e868ed4a55040ca92464dac888cd
 
-tx d4c2562f4cd462ee4927db4b10a5dc85dfb774ca9c801be9d2d0cbea039b907e
+tx d4c2562f4cd462ee4927db4b10a5dc85dfb774ca9c801be9d2d0cbea039b907e blk 519333 txid 342
 Payment made using https://www.bit2bill.com.au/
 
-tx 04f1375ac22f359d1e6d8a551d3ac15fd31ab6f8123fa0a706e54fdb74e30984
+tx 04f1375ac22f359d1e6d8a551d3ac15fd31ab6f8123fa0a706e54fdb74e30984 blk 519339 txid 350
 ;20180422013143UTC;ORIGMY
 
-tx 7b662de43a278ed6d30bd0191a78c820c3da8ec0d7f394c5141cd751860000c8
+tx 7b662de43a278ed6d30bd0191a78c820c3da8ec0d7f394c5141cd751860000c8 blk 519339 txid 352
 ;20180422013106UTC;ORIGMY
 
-tx 9264b8e18b4593fbf8a896c10598f893c7afd5153de179a9784f8afa415b27f6
+tx 9264b8e18b4593fbf8a896c10598f893c7afd5153de179a9784f8afa415b27f6 blk 519339 txid 353
 ;20180422013213UTC;ORIGMY
 
-tx 82b85ebdf8e11d0b56a1bac17af9132416fdaf60638a6fafb21d838512013604
+tx 82b85ebdf8e11d0b56a1bac17af9132416fdaf60638a6fafb21d838512013604 blk 519340 txid 1
  $;20180422013809UTC;ORIGMY
 
-tx 4fc7c5dbe1e2f8898eea00ce13aae6d34c24a0fafec8d022714ae9a25525ff44
+tx 4fc7c5dbe1e2f8898eea00ce13aae6d34c24a0fafec8d022714ae9a25525ff44 blk 519340 txid 2
 w@Yg;20180422013619UTC;ORIGMY
 
-tx 7425c3e278d5706bb3a338802409f4da63ddabc76f6e483c47876a17c8892169
+tx 7425c3e278d5706bb3a338802409f4da63ddabc76f6e483c47876a17c8892169 blk 519340 txid 3
 ;20180422013502UTC;ORIGMY
 
-tx 698066005aa6c079815afa4384e4f00a2d651391236f6ac33928a948b11c0686
+tx 698066005aa6c079815afa4384e4f00a2d651391236f6ac33928a948b11c0686 blk 519340 txid 4
 ;20180422013533UTC;ORIGMY
 
-tx f62850bae3552673761d45fb547042a7c3541a3c46ea34a45fda6a55368a9bf3
+tx f62850bae3552673761d45fb547042a7c3541a3c46ea34a45fda6a55368a9bf3 blk 519340 txid 5
 ;20180422013409UTC;ORIGMY
 
-tx 20daf84fd54fdad450887155431a216de6b7a47ea276436f4b65da9fd1d024b1
+tx 20daf84fd54fdad450887155431a216de6b7a47ea276436f4b65da9fd1d024b1 blk 519341 txid 364
 n;20180422013816UTC;ORIGMY
 
-tx 88c79bf529fe6d6b42464e8c89137bcb44a99175ab9f0980058abdb06ab5901a
+tx 88c79bf529fe6d6b42464e8c89137bcb44a99175ab9f0980058abdb06ab5901a blk 519341 txid 1734
 Payment made using https://www.bit2bill.com.au/
 
-tx 833d9d97c7dac29d14ddcdcd78aed0f6ac98e554e5a0ecdbb7b0a3cafd876f1f
+tx 833d9d97c7dac29d14ddcdcd78aed0f6ac98e554e5a0ecdbb7b0a3cafd876f1f blk 519351 txid 358
 ;20180422032906UTC;ORIGMY
 
-tx 75ac72904a7a92c99e53e6691d85e653290ae8497962a68cec0f4ad8e1c5289d
+tx 75ac72904a7a92c99e53e6691d85e653290ae8497962a68cec0f4ad8e1c5289d blk 519351 txid 360
 ;20180422032806UTC;ORIGMY
 
-tx a96f647dcea86f3a6421c32f7152ae7df03d8f26b9217f7a0ea4e7bf4375efa5
+tx a96f647dcea86f3a6421c32f7152ae7df03d8f26b9217f7a0ea4e7bf4375efa5 blk 519351 txid 361
 d;20180422032909UTC;ORIGMY
 
-tx 9e97ce2d74e71a4a932d81261169979bfba3fa1fe631f78e0eb8d5ff52b51cc7
+tx 9e97ce2d74e71a4a932d81261169979bfba3fa1fe631f78e0eb8d5ff52b51cc7 blk 519351 txid 365
 a;20180422032757UTC;ORIGMY
 
-tx 76eee4a94adbcdfac4f0b624d73fb9f665ea83b35fc34ccb4769f85939a957e3
+tx 76eee4a94adbcdfac4f0b624d73fb9f665ea83b35fc34ccb4769f85939a957e3 blk 519351 txid 366
 ;20180422032903UTC;ORIGMY
 
-tx ba61fe1c6c725ffc2d68b488b7c2446631410d4d0f14adf71e27b8c95a58232d
+tx ba61fe1c6c725ffc2d68b488b7c2446631410d4d0f14adf71e27b8c95a58232d blk 519355 txid 304
 RT"{"ver":1,"auth":"0","title":
 
-tx e4fa462718d76b8b1c5026a7740bfa6947c54f0c8c8f4a6a5e1a8d9c047ce225
+tx e4fa462718d76b8b1c5026a7740bfa6947c54f0c8c8f4a6a5e1a8d9c047ce225 blk 519369 txid 208
 Payment made using https://www.bit2bill.com.au/
 
-tx 64937acb0bc928063a2baf740c066dff2d46b1278c5cc07827923bf4d9475f5c
+tx 64937acb0bc928063a2baf740c066dff2d46b1278c5cc07827923bf4d9475f5c blk 519387 txid 1838
 EW Nachrichten geschehen nicht, sie werden gemacht.
 
-tx 5c5eaea0ad0dffcebf6a892b3a9f58267dcbd2e07c487dc3cb299853c06368b9
+tx 5c5eaea0ad0dffcebf6a892b3a9f58267dcbd2e07c487dc3cb299853c06368b9 blk 519392 txid 132
 Payment made using https://www.bit2bill.com.au/
 
-tx 927929ebc32dae4af181fc01728ed560634bd0a17b7e08f4e36410a03efbc40f
+tx 927929ebc32dae4af181fc01728ed560634bd0a17b7e08f4e36410a03efbc40f blk 519395 txid 1770
 Payment made using https://www.bit2bill.com.au/
 
-tx 46f408da4492f92b0b82ee89f036f174d2cb026af84e4ee964fc8f83dfe75762
+tx 46f408da4492f92b0b82ee89f036f174d2cb026af84e4ee964fc8f83dfe75762 blk 519395 txid 1788
 Payment made using https://www.bit2bill.com.au/
 
-tx 36a3c3c25e057097f709703338e9e90f8bd7bb583636fca0d0ae0966870b1ae2
+tx 36a3c3c25e057097f709703338e9e90f8bd7bb583636fca0d0ae0966870b1ae2 blk 519396 txid 69
 Payment made using https://www.bit2bill.com.au/
 
-tx 71871b1ee42cae80b2954e22c69209ae650182ca9e5528eff15dba45684f70fb
+tx 71871b1ee42cae80b2954e22c69209ae650182ca9e5528eff15dba45684f70fb blk 519397 txid 130
 fa0da8ccf1723b133dd26da7115cc93e4abc75c3bf33e72eceec2b43b9ba9776
 
-tx 6752eff3b485d5c8f8c5d8009f705f1e41c71d3087475dc96ba12f37bdf1544c
+tx 6752eff3b485d5c8f8c5d8009f705f1e41c71d3087475dc96ba12f37bdf1544c blk 519397 txid 982
 Payment made using https://www.bit2bill.com.au/
 
-tx c609a7ae8e0cd7d80645a67cbbd9e288336e9755a3d1ec1bc1bba899f58b1581
+tx c609a7ae8e0cd7d80645a67cbbd9e288336e9755a3d1ec1bc1bba899f58b1581 blk 519397 txid 990
 Payment made using https://www.bit2bill.com.au/
 
-tx 768370c45279a3890dafcf20de5cca92a9200cf7d02c3fd9905b49d9692c97d0
+tx 768370c45279a3890dafcf20de5cca92a9200cf7d02c3fd9905b49d9692c97d0 blk 519397 txid 991
 Payment made using https://www.bit2bill.com.au/
 
-tx 7863327c6b63e3d3824152b81e1e012aec024d0fe394a5e0ca7767e9e9f6b7a0
+tx 7863327c6b63e3d3824152b81e1e012aec024d0fe394a5e0ca7767e9e9f6b7a0 blk 519398 txid 912
 Payment made using https://www.bit2bill.com.au/
 
-tx a53c2992b7b0c35e84963cb9ecce32c3289065cdd039a19fce2cc8423029d0af
+tx a53c2992b7b0c35e84963cb9ecce32c3289065cdd039a19fce2cc8423029d0af blk 519398 txid 913
 Payment made using https://www.bit2bill.com.au/
 
-tx 3177e5e9f73746c331af10b5d9101d28f65b0b8d5aa786484adcba67339827d8
+tx 3177e5e9f73746c331af10b5d9101d28f65b0b8d5aa786484adcba67339827d8 blk 519398 txid 914
 Payment made using https://www.bit2bill.com.au/
 
-tx 66a4d2f8b30e0dc96fd1af7af9687fa9193bcb06fbf7aebeefdd6118a9f3cee9
+tx 66a4d2f8b30e0dc96fd1af7af9687fa9193bcb06fbf7aebeefdd6118a9f3cee9 blk 519398 txid 915
 Payment made using https://www.bit2bill.com.au/
 
-tx ef44a820e1871def4be2de6c6a585a91bbaf64796d063790af3d68e7368c8b62
+tx ef44a820e1871def4be2de6c6a585a91bbaf64796d063790af3d68e7368c8b62 blk 519407 txid 181
 CA1- 21/Apr/18, BTC 100% / USD 0% refTXID=2f1519680f7171b0 dkey=0jZ#F7PBVC#r#S7#
 
-tx 60fd9af01a547fed9d9a0e2137d2b9ccc5157b2fe8158cbac39d860f0f48f663
+tx 60fd9af01a547fed9d9a0e2137d2b9ccc5157b2fe8158cbac39d860f0f48f663 blk 519410 txid 398
 2tgnfDXvG7N4VWtATAhY2QP3C25sU3dqdCwoj8mI
 
-tx 3d7a30595e144283546dbca414e2acf9118fbb94772a26e4f251bacc254d3a31
+tx 3d7a30595e144283546dbca414e2acf9118fbb94772a26e4f251bacc254d3a31 blk 519415 txid 49
 CGwQsOkUYWu8hg+BILD4LjkpW9zHa+f7rpt5lPo9ggsg=
 
-tx 826ed03f40d2e3c05deb99fb7b575c85f788b9e9b3673c712e5ca716449a9d5e
+tx 826ed03f40d2e3c05deb99fb7b575c85f788b9e9b3673c712e5ca716449a9d5e blk 519416 txid 79
 c204e5f2136f13fb39c949cd33f9a9f50caa1c8e9a181e8538613171946caff5
 
-tx 5fe3a2f590e4708741427ae09b09c5a42d98f1fea473b238e8031407b2e51779
+tx 5fe3a2f590e4708741427ae09b09c5a42d98f1fea473b238e8031407b2e51779 blk 519416 txid 80
 9d3d3f4d8998a12c56448e2cc3d3c62e2834f8d1050d368f09bf0dd70c205b89V
 
-tx 0a4affd9f9b38ae86bfc0f6f250a3b3bcc20c7e635e676f7317fb4097567e981
+tx 0a4affd9f9b38ae86bfc0f6f250a3b3bcc20c7e635e676f7317fb4097567e981 blk 519432 txid 180
 177cc395fcdbad8005c904cda56090b91137701086759a53c1409260efd39efa
 
-tx b012b1c71f6e36aee959e93181b0c286dcc82fc88346989d46ca4d71799af19e
+tx b012b1c71f6e36aee959e93181b0c286dcc82fc88346989d46ca4d71799af19e blk 519446 txid 113
 2cdefccb9fa917320f4885dc32bbc868bb88ab98ccf04864eef3b810f2f905d6
 
-tx 90560b277b895d35352d80c9cb896ed92f338dcdce03e6d9e3d4f05a811c5d0a
+tx 90560b277b895d35352d80c9cb896ed92f338dcdce03e6d9e3d4f05a811c5d0a blk 519449 txid 2192
 dance pipe song love pipe song danceCu
 
-tx 28f5eae8d8557d2db5330804b95e74dbd69557ef4f067dedffeb1d30cc485649
+tx 28f5eae8d8557d2db5330804b95e74dbd69557ef4f067dedffeb1d30cc485649 blk 519455 txid 278
 Gerson Cohen Zalkin Sunday April 22 2018
 
-tx eb221fe374187c200eecebf427f89b0e6564b01ba6733a988379d65aafda582e
+tx eb221fe374187c200eecebf427f89b0e6564b01ba6733a988379d65aafda582e blk 519457 txid 50
 01ee526c5f5eea2e2269bf0e2d5c1a93995c7a7ee74c4240de64de67d3c8e035
 
-tx 70c99607d4332566f97ae5ee6d7727156bc094cdea73fdeaef79e4203cf9f1eb
+tx 70c99607d4332566f97ae5ee6d7727156bc094cdea73fdeaef79e4203cf9f1eb blk 519463 txid 1241
 0
 from bitcoinlib.transactions import Output
 from bitcoinlib.wallets iOC
 
-tx 8f0551fd70fa8cb4a92121277fdab51e88856c669a1ae4a8143c1ccf1fce3d26
+tx 8f0551fd70fa8cb4a92121277fdab51e88856c669a1ae4a8143c1ccf1fce3d26 blk 519464 txid 1630
 3()
 
 if not wallet.utxos():
     print("Please deposit to %s to start creati
 
-tx 055a22998664a6ffb5bddb7db38933bded2442c22991ea76dd363a1265ec4967
+tx 055a22998664a6ffb5bddb7db38933bded2442c22991ea76dd363a1265ec4967 blk 519464 txid 1631
 5b'Please leave a message after the beep')
     t_output = Output(0, lock_scL
 
-tx 31328c4e23abd547e4b6f49546a584ed969ed9b106f177f06365ea8f2222d576
+tx 31328c4e23abd547e4b6f49546a584ed969ed9b106f177f06365ea8f2222d576 blk 519464 txid 1632
 2llet_create_or_open('Messenger')
 wk = wallet.get_key()
 wallet.utxos_update
 
-tx c6960cd3a688db18550c06b08ed744382cfc9abce63cf6f97981e4b61bba81dc
+tx c6960cd3a688db18550c06b08ed744382cfc9abce63cf6f97981e4b61bba81dc blk 519464 txid 1633
 0
 from bitcoinlib.transactions import Output
 from bitcoinlib.wallets import
 
-tx 7af7bea324b9cf4d6692d7b63518c076c55616c7943310dec9c23b2435ca4609
+tx 7af7bea324b9cf4d6692d7b63518c076c55616c7943310dec9c23b2435ca4609 blk 519464 txid 1634
 1 wallet_create_or_open
 from bitcoinlib.encoding import varstr
 
 wallet = wa
 
-tx 2bb9e14d2005bd633e632399c702bcbd8438f0a4ea636400a6efceb14b8d14d0
+tx 2bb9e14d2005bd633e632399c702bcbd8438f0a4ea636400a6efceb14b8d14d0 blk 519464 txid 1635
 4ng Nulldata transactions" % wk.address)
 else:
     message = b'j' + varstr(
 
-tx da6fc4129b7fcd1c79fe9d96cb128c9edca897090048ff7b136ffcaf3baf50c6
+tx da6fc4129b7fcd1c79fe9d96cb128c9edca897090048ff7b136ffcaf3baf50c6 blk 519464 txid 1636
 6ript=message)
     t = wallet.send([t_output])
     t.info()
 
-tx 66073563dcea1dedead26dae22f93d1aa3f31d3f25cb1b2b015681c13822d52e
+tx 66073563dcea1dedead26dae22f93d1aa3f31d3f25cb1b2b015681c13822d52e blk 519468 txid 1552
 1 wallet_create_or_open
 from bitcoinlib.encoding import varstr
 
 wallet = waON
 
-tx d2044cf63f9e465a8446f2f06898e22490bf44fd14b404d246946d3452eda2a5
+tx d2044cf63f9e465a8446f2f06898e22490bf44fd14b404d246946d3452eda2a5 blk 519468 txid 1553
 0
 from bitcoinlib.transactions import Output
 from bitcoinlib.wallets importn
 
-tx 83821a278a891320e3ec8b74e4e2365f768c3ead1b2bf7655a6c43fdc6335756
+tx 83821a278a891320e3ec8b74e4e2365f768c3ead1b2bf7655a6c43fdc6335756 blk 519469 txid 119
 ,1eada10244d28888290b3b8800ef5db4a4ae32c82fbc348cda64298b3574099a
 
-tx 785dd339a7bd96ad881679d9b471f82e8c128aecb4bc051992597bd83092fe75
+tx 785dd339a7bd96ad881679d9b471f82e8c128aecb4bc051992597bd83092fe75 blk 519490 txid 309
 3F7oR7WCidBKv5GBN9vDnMF5t8X3BXvv8NXqEu5I
 
-tx 1bc30bd678b7c0eb9490ccf0e88c32b23b471486362c8413b0f267be9e44083a
+tx 1bc30bd678b7c0eb9490ccf0e88c32b23b471486362c8413b0f267be9e44083a blk 519502 txid 1202
 Payment made using https://www.bit2bill.com.au/
 
-tx fbaded6df5e3ac195479e24e6418de778181af461eb674c9770ac65f6dccadc5
+tx fbaded6df5e3ac195479e24e6418de778181af461eb674c9770ac65f6dccadc5 blk 519502 txid 2699
 RT+{"ver":1,"auth":"0","title":
 
-tx 68c9e725436d8a782a911dd9824e526aaa2639fe0647592abe6ad313c189a778
+tx 68c9e725436d8a782a911dd9824e526aaa2639fe0647592abe6ad313c189a778 blk 519505 txid 2183
 RT%{"ver":1,"auth":"0","title":
 
-tx 93f1debfd2f203aef295b8ecf1f90509b68a38bb4fc330fd95f6a6ab985943ca
+tx 93f1debfd2f203aef295b8ecf1f90509b68a38bb4fc330fd95f6a6ab985943ca blk 519515 txid 673
 RT%{"ver":1,"auth":"0","title":
 
-tx 4838ad4f07be46a4afd153f425af6cbada9b87209b3c25352d7170f56f8e1310
+tx 4838ad4f07be46a4afd153f425af6cbada9b87209b3c25352d7170f56f8e1310 blk 519524 txid 1287
 Payment made using https://www.bit2bill.com.au/
 
-tx 20d01ef8f2d922d2577c64741251cab2e42ee94c1051855a857d1b108b483894
+tx 20d01ef8f2d922d2577c64741251cab2e42ee94c1051855a857d1b108b483894 blk 519524 txid 1288
 Payment made using https://www.bit2bill.com.au/
 
-tx d7c9f7090a2adac5106783d41df0896b326f13d6f95a51094804f58be98e1778
+tx d7c9f7090a2adac5106783d41df0896b326f13d6f95a51094804f58be98e1778 blk 519524 txid 1300
 Payment made using https://www.bit2bill.com.au/
 
-tx 0e734b99a8043221a8bd83d7e50576a2bf23cb953c7724e78a4977c2cb8c371e
+tx 0e734b99a8043221a8bd83d7e50576a2bf23cb953c7724e78a4977c2cb8c371e blk 519533 txid 2258
 66981278ba3c92d3afe502508b22a1c49c74d8f5982ada04823f79c6ce2b998d
 
-tx e6c4c22b9512b3a89d104b71245576d1ae16e821db978e727c2dd232570c1271
+tx e6c4c22b9512b3a89d104b71245576d1ae16e821db978e727c2dd232570c1271 blk 519535 txid 549
 +H#`avrput(qbojldciemhsnw@x$kz=)yg&*f
 
-tx 38ea3593278c83d4cf517d8a802fc817cdd064a95244501bdeebb40c96c45f4a
+tx 38ea3593278c83d4cf517d8a802fc817cdd064a95244501bdeebb40c96c45f4a blk 519567 txid 199
 CA1- 22/Apr/18, BTC 100% / USD 0% refTXID=3d7a30595e144283 dkey=#8ZswE#Yz#DZFf7S
 
-tx 4e3e43d6e7f8b40a38f435323dac29d3e40780ea6b0a73e815948cccf6353718
+tx 4e3e43d6e7f8b40a38f435323dac29d3e40780ea6b0a73e815948cccf6353718 blk 519573 txid 167
 id:heathdrobertson.id
 
-tx 43774c08667d82bd8caa84012653b3de8a9cf36dc2aecfbfa8fe4379caf83879
+tx 43774c08667d82bd8caa84012653b3de8a9cf36dc2aecfbfa8fe4379caf83879 blk 519574 txid 181
 CMGXM9UwZVhqZ/HI0e5lzMJZeRWLfaSm1bZiMknYMC4U=
 
-tx 3aff5e46aa99d3f1ef1927a19b1b6cdc55560b78dae7a13ff1e8236fac6a9be7
+tx 3aff5e46aa99d3f1ef1927a19b1b6cdc55560b78dae7a13ff1e8236fac6a9be7 blk 519575 txid 795
 3K7yYpdrAjnevfmR4AvUkXbA6vM7DQGZZD1BRUuI
 
-tx c78b9905c50135a1a20bab95f8a14a870fb84a2b3e5bae10f5608b0239359018
+tx c78b9905c50135a1a20bab95f8a14a870fb84a2b3e5bae10f5608b0239359018 blk 519588 txid 485
 TTB-T,BrasherTonnes,988202379500646400,1524440781,BrasherTonnes,my 1st tweet],
 
-tx 4363b6d7b7659b854d40b0fa081fa2710a85f3c9a64a88c24a22026328d99b57
+tx 4363b6d7b7659b854d40b0fa081fa2710a85f3c9a64a88c24a22026328d99b57 blk 519588 txid 582
 TTB-T,BrasherTonnes,988202379500646400,1524440781,BrasherTonnes,my 1st tweet],
 
-tx b54ff9b52352e39ba459006dda3b40571ab9251c2ef2e58e784d2f6979ea2eeb
+tx b54ff9b52352e39ba459006dda3b40571ab9251c2ef2e58e784d2f6979ea2eeb blk 519590 txid 173
 TTB-T,BrasherTonnes,988432794052317184,1524495716,BrasherTonnes,test1234],
 
-tx 38ac4e36cf111536caa539e3ffa3670d797bad2da1ea2a4e8d7f8d58068cc29a
+tx 38ac4e36cf111536caa539e3ffa3670d797bad2da1ea2a4e8d7f8d58068cc29a blk 519631 txid 2079
 00000000000000000000],
 
-tx cf6a3389bc1342c9cd8192868f0cf05293db714b684d6c9e9b04f6d5b20d2be7
+tx cf6a3389bc1342c9cd8192868f0cf05293db714b684d6c9e9b04f6d5b20d2be7 blk 519635 txid 190
 2ad2b47ab8c3c5159a4046da9ef20c7021783ba00f569ae4c3c763e8807dfc53
 
-tx 21c13cc11f329f8869e310204ba2a6ac5e0aa1fe995cf959fa4a5bc1e98ddadc
+tx 21c13cc11f329f8869e310204ba2a6ac5e0aa1fe995cf959fa4a5bc1e98ddadc blk 519635 txid 1342
 aaaaaaaaaaaaaaaaaaaa],
 
-tx f37d01f9400586fba32fb3726f821c07856485caedf0a1ec13c763f6f213f6f5
+tx f37d01f9400586fba32fb3726f821c07856485caedf0a1ec13c763f6f213f6f5 blk 519642 txid 110
 l97e137237ab32cea1fedc5d390d38e127f1e4d3e1e902d1300aae49a33881956
 
-tx 466ca4816f34fb2ae40ba95217d2972c06f6731be98afc8f92dcb91ceb91000d
+tx 466ca4816f34fb2ae40ba95217d2972c06f6731be98afc8f92dcb91ceb91000d blk 519644 txid 246
 12KTjsEiQnp6W4rVK6Z3EP4Jt5PCyYKwW6GG8anI
 
-tx 7fc539209ada75b906509626df3120e5d43a9cca5e6301a8400cdd25668cf698
+tx 7fc539209ada75b906509626df3120e5d43a9cca5e6301a8400cdd25668cf698 blk 519644 txid 707
 Payment made using https://www.bit2bill.com.au/
 
-tx 31ecf899cc5f309163e96254a8f7874a0ba6d2732680400d39e14d010bfd25e3
+tx 31ecf899cc5f309163e96254a8f7874a0ba6d2732680400d39e14d010bfd25e3 blk 519648 txid 780
 The Times 03/Jan/2009 Chancellor on brink of second bailout for banksLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-tx b6f9ec05a14df77a8e026515c489f5fa0d89eebc53cccdd7fc8b1b0ca54351c2
+tx b6f9ec05a14df77a8e026515c489f5fa0d89eebc53cccdd7fc8b1b0ca54351c2 blk 519651 txid 1429
 RT({"ver":1,"auth":"0","title":
 
-tx 257168b085342d576eeb52f03671fada38a8e4c9a931353704680c7f3d8499fa
+tx 257168b085342d576eeb52f03671fada38a8e4c9a931353704680c7f3d8499fa blk 519656 txid 1791
 RT.{"ver":1,"auth":"0","title":
 
-tx 7f655bdde4879c1c03690d98e6cbad116866b81e282de966f17502eb021561f2
+tx 7f655bdde4879c1c03690d98e6cbad116866b81e282de966f17502eb021561f2 blk 519657 txid 2033
 RT({"ver":1,"auth":"0","title":
 
-tx 7ad6e86d53ccf5dbe288f8f03d5e0ce81b911f0f348fe9c333fef9114c76f865
+tx 7ad6e86d53ccf5dbe288f8f03d5e0ce81b911f0f348fe9c333fef9114c76f865 blk 519660 txid 1003
 TTB-T,BrasherTonnes,988432608869601281,1524495672,BrasherTonnestest123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123
 
-tx e429e1aad25ea3a47e8cd4c452d240c545f8188bb10b4c1de6d127d0576dd8d6
+tx e429e1aad25ea3a47e8cd4c452d240c545f8188bb10b4c1de6d127d0576dd8d6 blk 519668 txid 110
 TTB-T,BrasherTonnes,988429263232581632,1524494875,BrasherTonnestest123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123a],
 
-tx 41f03c7abb94ae0d4b2a457a8e87dd018c80bb32084461eb9d11312013767d9d
+tx 41f03c7abb94ae0d4b2a457a8e87dd018c80bb32084461eb9d11312013767d9d blk 519668 txid 393
 RT+{"ver":1,"auth":"0","title":
 
-tx 51357c4017c211b6dc067f4405e52addc90d3ede3017d8cb71d8960f28f3a113
+tx 51357c4017c211b6dc067f4405e52addc90d3ede3017d8cb71d8960f28f3a113 blk 519670 txid 520
 Payment made using https://www.bit2bill.com.au/
 
-tx 28c1ecc60b279f5dce9c61456c467677276363d06fc87ae2d4943639440c1c40
+tx 28c1ecc60b279f5dce9c61456c467677276363d06fc87ae2d4943639440c1c40 blk 519674 txid 884
 Payment made using https://www.bit2bill.com.au/
 
-tx 8404f1196d08a23de5e24609447e262ac3eff997d8e31e2a85899f10f6cf379f
+tx 8404f1196d08a23de5e24609447e262ac3eff997d8e31e2a85899f10f6cf379f blk 519680 txid 1206
 I'm nerd -P. Sankaew
 
-tx ee71cecae17c590f12f9a16669caecf024c5e3ea3a9b8f0548ff1499a0380d52
+tx ee71cecae17c590f12f9a16669caecf024c5e3ea3a9b8f0548ff1499a0380d52 blk 519694 txid 1495
 017d371c8f890e35b331b0b36a7bac85729d29d2adf423a74298852f1b66f7b3
 
-tx b0ed97007f6e223c03ad8e4893d8fefb058359144067f4f50aa3daf5f34810cd
+tx b0ed97007f6e223c03ad8e4893d8fefb058359144067f4f50aa3daf5f34810cd blk 519699 txid 351
 2eaeb77c2a64bdbd205ad15aca25a7f1233104a6c4b7f26ec5b77b840d7f1ef8
 
-tx e6371ddba959e13aeeaf9241ec67c87780e690388bcbf9a568160077864f529c
+tx e6371ddba959e13aeeaf9241ec67c87780e690388bcbf9a568160077864f529c blk 519703 txid 1057
 Payment made using https://www.bit2bill.com.au/
 
-tx edfec5e0768375434f6e051fd058696c5d5c73a5b2ef7eaa98050df5e6bb3825
+tx edfec5e0768375434f6e051fd058696c5d5c73a5b2ef7eaa98050df5e6bb3825 blk 519711 txid 1400
 97baec93db252cb9a4dacbc7510134f34ebb329d72a34ce74c2b185ff296ab7d
 
-tx 15efffe1bf3072aa1066418935b972a82cd68fad4a647906b552aa530eee08fc
+tx 15efffe1bf3072aa1066418935b972a82cd68fad4a647906b552aa530eee08fc blk 519712 txid 299
 T57b11d1839849f0558ef420a8262656d8984d246d808bf741e691cd336fa156a
 
-tx ad54acdf2cabe241fed1a37c40bf9664459cd22fa3b9c1518c484f89ffe08b03
+tx ad54acdf2cabe241fed1a37c40bf9664459cd22fa3b9c1518c484f89ffe08b03 blk 519714 txid 813
 CA1- 23/Apr/18, BTC 100% / USD 0% refTXID=43774c08667d82bd dkey=gZ#O3X3Mp44Y1F#k
 
-tx 741023f28a13b9abedd303050e2b90e11f5e5c526a922edef30ed306e2f7aab1
+tx 741023f28a13b9abedd303050e2b90e11f5e5c526a922edef30ed306e2f7aab1 blk 519719 txid 1189
 CZ6Nv6Y8PfqRquWfiJpqpHFZUD5aE+wA422jWvnqw99E=
 
-tx 07f4dab9d3c06ff0cf9083a7a5c02d81d97d243e168b975395c38d4d93577bc9
+tx 07f4dab9d3c06ff0cf9083a7a5c02d81d97d243e168b975395c38d4d93577bc9 blk 519720 txid 535
 2MAFRdcSGp8Ep1fum8CsCDSYrsrNxEZiyQDcfjsI
 
-tx a1f9ebea7f3b0a90ae816c01148cec75be2c879e6f79cee6ee8422cfaf355e0e
+tx a1f9ebea7f3b0a90ae816c01148cec75be2c879e6f79cee6ee8422cfaf355e0e blk 519741 txid 698
 TTB-T,BrasherTonnes,988432608869601281,1524495672,BrasherTonnestest123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123 test123
 
-tx 93e3914340937e96426e671ef90a21409ec6709e7444567bcbcb04c17c205f14
+tx 93e3914340937e96426e671ef90a21409ec6709e7444567bcbcb04c17c205f14 blk 519752 txid 374
 TTB-T,coffee_dad,959170904394752002,1517519138,jottohaving coffee
 
-tx 8fd02d0e79f7ca4c5138f6a2527bbf1d723e389a252d3af9fe5bb5f6dbde5152
+tx 8fd02d0e79f7ca4c5138f6a2527bbf1d723e389a252d3af9fe5bb5f6dbde5152 blk 519753 txid 2486
 MOU04232018SFBAAK_DM_AC_HG_e9820c32f77cee512c0aa2d8518345fe
 
-tx 38811ca40a381503a7bdcfa217cf0263b48347adbcf8cfa82abda7e59642a2d4
+tx 38811ca40a381503a7bdcfa217cf0263b48347adbcf8cfa82abda7e59642a2d4 blk 519754 txid 2066
 uFirst Txn Test - NSB
 
-tx 947a57f95ec57e0f4ccb0d54589b9116983f45d93303eff405268f6817e023ba
+tx 947a57f95ec57e0f4ccb0d54589b9116983f45d93303eff405268f6817e023ba blk 519758 txid 2019
 TTB-T,OngEmil,980242470523912193,1522542991,jottoBetter to surround yourself with complements than compliments.
 
-tx 51a888cdc755e62750e6b868fbe6a8ff466fd3d464bbbce7004c00d6224c25af
+tx 51a888cdc755e62750e6b868fbe6a8ff466fd3d464bbbce7004c00d6224c25af blk 519766 txid 85
 cce6464f035773ba7062a8dfe04050274c89cf6e137b564c030a4f56ec87533e
 
-tx db275ecb7a2242fef2225dd9d5517b6badd45f3f6ea57ff8a22dc5efb92f2a08
+tx db275ecb7a2242fef2225dd9d5517b6badd45f3f6ea57ff8a22dc5efb92f2a08 blk 519766 txid 86
 g72e0d1806365dd29b779ec2fd31b878f4223145fe14e5647821a2bf60117532f
 
-tx 91642906de16cbb7eaa9d64df6b2e472ae48d7b9ee25a49de86e925c96591776
+tx 91642906de16cbb7eaa9d64df6b2e472ae48d7b9ee25a49de86e925c96591776 blk 519768 txid 1236
 TTB-T,naval,983016288195829770,1523204321,jottoThe dirty secrets of blockchains:
 they don
 t really decentralized, distribute wealth poorly, lack killer apps, and run on a controlled Internet.
 
 Back to work. https://t.co/SKSwanMcWC
 
-tx ac4da94956ccde0805b444aa9bfdb4fbf5b1beee5863eb5277a61bf10a5463eb
+tx ac4da94956ccde0805b444aa9bfdb4fbf5b1beee5863eb5277a61bf10a5463eb blk 519768 txid 1298
 TTB-T,rrhoover,986731666713427968,1524090136,jottoScooters, on the blockchain
 
-tx 4ce10e7c73035c6b6b7218879744a5e3807a3d2c25fb7e7d40021f1d880b8b45
+tx 4ce10e7c73035c6b6b7218879744a5e3807a3d2c25fb7e7d40021f1d880b8b45 blk 519769 txid 2180
 TTB-T,AriDavidPaul,952577499736805382,1515947148,jotto12/ We'll see something an order of magnitude bigger than cryptokitties - some collectible or simple game that achieves meaningful adoption.
 
-tx 31f221b821e9aba71cd4300ac8c6b7cc9608b84fd8872fa2df47e4d7e9b5e8f3
+tx 31f221b821e9aba71cd4300ac8c6b7cc9608b84fd8872fa2df47e4d7e9b5e8f3 blk 519769 txid 2299
 TTB-T,nondualrandy,988625484706656256,1524541657,jottoPut it on the blockchain https://t.co/uvthl23YQa
 
-tx 5d41496c2318d243ed68454aacea8518a63332992a0320f9a7fe70cd3bc0f2be
+tx 5d41496c2318d243ed68454aacea8518a63332992a0320f9a7fe70cd3bc0f2be blk 519770 txid 917
 TTB-T,el33th4xor,984440841744760832,1523543961,jottoAll I can think of is #bogdanoff saying #PumpIt.
 
 Anyhow, pay no attention to the price. If you're a techie, you should focus on building new blockchain applications. https://t.co/Y6NZqdP3cB
 
-tx d7684881956c9d06e355f7221188303b7afb47c6f9cabb2259f903d2fa700faf
+tx d7684881956c9d06e355f7221188303b7afb47c6f9cabb2259f903d2fa700faf blk 519772 txid 1686
 TTB-T,matthew_d_green,975883706119479296,1521503781,jottoAlex is going to get a shock when he walks out of Facebook and finds only abandoned ruins in the outside world, with the word 
  carved into a nearby tree.
 
-tx 8777564d46e637a1c7ef5520c9e95c29fe72ab1db265604b298c30a42021473c
+tx 8777564d46e637a1c7ef5520c9e95c29fe72ab1db265604b298c30a42021473c blk 519772 txid 1703
 TTB-T,Melt_Dem,988715653023584256,1524563155,jottoi'm learning to appreciate the tenacity needed to grind out really complex problems. i will take practiced skill over raw talent any day. highly experienced and competent executors are so, so rare. i hope to be one someday, just gotta keep grinding.
 
-tx 95161036d9ea8544aa67c354828780d7f27cc15b737a6eadf9e4efbba1089c23
+tx 95161036d9ea8544aa67c354828780d7f27cc15b737a6eadf9e4efbba1089c23 blk 519773 txid 1539
 TTB-T,NeerajKA,986256009940361216,1523976731,jottoWe want to know: 
 
 How are cryptocurrencies actually being used? 
@@ -482,10 +482,10 @@ How have government initiatives affected local cryptocurrency adoption?
 
 Are particular coin characteristics favored in certain parts of world?
 
-tx 55c9c8998c6357e7fe4d3b89f3553c4dca59f213753a8056bf07781e75e9169a
+tx 55c9c8998c6357e7fe4d3b89f3553c4dca59f213753a8056bf07781e75e9169a blk 519773 txid 1560
 TTB-T,TheStalwart,988686911928664065,1524556303,jottoWhat'd I miss?
 
-tx c55cfbd7f27a903675f02c664ef8a8d66b8703904aa3030e36e456b1e1b6c19d
+tx c55cfbd7f27a903675f02c664ef8a8d66b8703904aa3030e36e456b1e1b6c19d blk 519774 txid 1495
 TTB-T,Melt_Dem,985591490662551555,1523818297,jottoweekly game - what is cryptocurrency?
 IRS - property. give me all your gains, good luck figuring it out.
 SEC - security. give me all your time, good luck figuring it out.
@@ -493,92 +493,92 @@ CFTC - commodity. give me all your lawyers.
 FinCen - money, so you're an MSB. psych!
 gotta love america...
 
-tx 4e8e436c18c703f891c5b790ba437c210aca22c3a8039f6a1fde9d6ffd77873f
+tx 4e8e436c18c703f891c5b790ba437c210aca22c3a8039f6a1fde9d6ffd77873f blk 519775 txid 1514
 TTB-T,caleb_fenton,936780115744251904,1512180758,jottoEvery time you read or hear the word "blockchain", mentally replace with "immutable database". Enjoy.
 
-tx 275d45c3db7b21d43ba67150280e8bd24b1690075c79ae406e1ee614803c21ef
+tx 275d45c3db7b21d43ba67150280e8bd24b1690075c79ae406e1ee614803c21ef blk 519776 txid 2126
 TTB-T,paulkrugman,943938735846166529,1513887506,jottoMy barber said his brother-in-law was investing everything in Bitcoin, and asked me if he should too. This will not end well. https://t.co/puAVQHJY3T
 
-tx d8f025419df12f34b8c7bbf8c9d9b64c1aea9e82fdf014a8db3a0f6e519a9c48
+tx d8f025419df12f34b8c7bbf8c9d9b64c1aea9e82fdf014a8db3a0f6e519a9c48 blk 519776 txid 2143
 TTB-T,eiaine,949140968283844609,1515127815,jottoIt's the other way around: Narrative always follows price bc journalists are incapable of original thought. Financial media spent 8 years being cynical on crypto while prices were stagnant; now that prices are exploding they're making up for lost time. https://t.co/95astMKXe2
 
-tx 182c4f827fb119df032be485ac0a39beeda21cb02467d31c9a43796a269c0c15
+tx 182c4f827fb119df032be485ac0a39beeda21cb02467d31c9a43796a269c0c15 blk 519776 txid 2145
 TTB-T,eiaine,941896123538534402,1513400510,jottoToiling in obscurity is underrated. When you've got nothing, you've got nothing to lose. Richard Hamming urged researchers to change fields every 7 years, to go back to where they could explore independent ideas without fear of judgment. 
 https://t.co/5k2B3l7J6n
 
-tx c32dbf1c8050d0251b3cedbbe911547a429857084381757e35687581371418cd
+tx c32dbf1c8050d0251b3cedbbe911547a429857084381757e35687581371418cd blk 519776 txid 2146
 TTB-T,patio11,983116652479836160,1523228250,jottoRunning a Usenet server seem like a great opportunity for Put It On The Blockchain, because clearly if every ISP needing to indefinitely cache every message is good then having every *client* need to cache every message is even gooder.
 
 https://t.co/5OyhVAAgWx
 
 (It was not good.)],
 
-tx 11e3ff1b2e5fee6cad21fc3d67deeabe42435248a3b4ba2cc9ef278e368ed3b5
+tx 11e3ff1b2e5fee6cad21fc3d67deeabe42435248a3b4ba2cc9ef278e368ed3b5 blk 519776 txid 2164
 TTB-T,minimaxir,986346059835162624,1523998200,jotto@internetofshit put it on the blockchain],
 
-tx c36c0052f10b3b30e9f5dba3f8ee3ce0bd2c0bf627627d662001de41ee7d0ee2
+tx c36c0052f10b3b30e9f5dba3f8ee3ce0bd2c0bf627627d662001de41ee7d0ee2 blk 519776 txid 2193
 TTB-T,paulkrugman,955108216907681792,1516550518,jottoSo the blockchain in interesting, but not yet clear whether it's useful for anything. And investing in Bitcoin still looks a lot less reasonable than investing in cold fusion 12/
 
-tx 4a8731168fa6263276561ba8f19726cbd8632dda5453d375eed28687e12ab4d8
+tx 4a8731168fa6263276561ba8f19726cbd8632dda5453d375eed28687e12ab4d8 blk 519778 txid 1421
 TTB-T,jimcramer,918920411307442178,1507922673,jottoDoes anyone NOT love blockchain.? How sick I am of hearing people in banking  say they love blockchain
 
-tx caf98a49a398169145d43b64bf981e3b80fb12b13769a1633e1723c17dda2ae3
+tx caf98a49a398169145d43b64bf981e3b80fb12b13769a1633e1723c17dda2ae3 blk 519778 txid 1422
 TTB-T,timstrazz,983863250419793920,1523406252,jottoListening to @hereandnow and hearing someone say "the blockchain has never been hacked" and just shaking my head...
 
-tx 92d6303d9b94c5c6506c97dea8b7b7d85b0181e085d4afb3f3ef546df393356e
+tx 92d6303d9b94c5c6506c97dea8b7b7d85b0181e085d4afb3f3ef546df393356e blk 519778 txid 1424
 TTB-T,Lagarde,914961733256728576,1506978851,jottoTechnology, from blockchain to big data, can be used to improve transparency &amp; accountability to fight corruption for the benefit of all. https://t.co/u1rEW4FEcv
 
-tx 04af1b452d63846c20df7051612a330feda794d9e813711a0877f2aef2e93983
+tx 04af1b452d63846c20df7051612a330feda794d9e813711a0877f2aef2e93983 blk 519778 txid 1426
 TTB-T,michaelrwolfe,988640324900634624,1524545196,jotto2018 prediction:
 
 The pee-pee tape is finally unveiled.
 
 It makes supporters like Trump even more.
 
-tx d7932c26d6b2831278521f6c82467fe525fa5ba6a01fa85de4e277696087eb95
+tx d7932c26d6b2831278521f6c82467fe525fa5ba6a01fa85de4e277696087eb95 blk 519787 txid 660
 TTB-T,brhodes,988804631353528325,1524584369,jottoThe Iran Deal imposes strict, verified limitations on Iran's centrifuges and stockpile to prevent them from obtaining a nuclear weapon. What Trump has talked about on NK - a vague, unverified commitment to denuclearization - is nowhere near as restrictive as the Iran Deal https://t.co/CbxInMMGbT
 
-tx 28518b61f735543c9f80d45629f39ad52133de920ad6d9945d91e29a92dfd244
+tx 28518b61f735543c9f80d45629f39ad52133de920ad6d9945d91e29a92dfd244 blk 519787 txid 694
 TTB-T,noahkagan,988558831625166848,1524525766,jottoReport Spam is the NEW Unsubscribe.
 
-tx bc8737995d5e2a28648b464daf79d3cf61609b6ec94fd9d83e6af92165bdea21
+tx bc8737995d5e2a28648b464daf79d3cf61609b6ec94fd9d83e6af92165bdea21 blk 519789 txid 132
 4e64efdb3a8670009e275853efb310e30677f32e2bd25a13712e1865a59b0767a
 
-tx 5e8a13d067a0c97daa0e7b3969aff26f956db3042cdbdd76bc06b461bac567e1
+tx 5e8a13d067a0c97daa0e7b3969aff26f956db3042cdbdd76bc06b461bac567e1 blk 519803 txid 2552
 1nLPZWCkmoGzQ8pxWwYk45P2n9xj5xCvsJd12AjI
 
-tx df8de6dc3f71a7d6dd7293dbcefa473f61c2a61c353dc2568fec16a3e0a0fa9f
+tx df8de6dc3f71a7d6dd7293dbcefa473f61c2a61c353dc2568fec16a3e0a0fa9f blk 519803 txid 2825
 TTB-T,Noahpinion,944689772810735616,1514066567,jottoA rundown of potential blockchain applications, and some of the difficulties and challenges in implementing them: https://t.co/V6fSP8xlec
 
-tx 30dea759f5e4fc81a604113dd26159299b314944528bfb4a3915a410734e1d21
+tx 30dea759f5e4fc81a604113dd26159299b314944528bfb4a3915a410734e1d21 blk 519803 txid 2939
 TTB-T,ummjackson,980915772124884992,1522703519,jottoWas just told that the game 
  would have been more successful if it used blockchain. 
 
-tx caed4b7ae6649ed841595ce2d0fabce0d85c3952f3d35664358ee5f7cb1bcd66
+tx caed4b7ae6649ed841595ce2d0fabce0d85c3952f3d35664358ee5f7cb1bcd66 blk 519812 txid 1089
 TTB-T,BitmexRekt,988577172418949120,1524530139,jottoLiquidated short on XBTUSD: Buy 10,000,000 @ 9174.5 
 
-tx 273d41981640edee7b055c7cfae2f3995329f346575e5e1f8ddf6c9e0761d6e9
+tx 273d41981640edee7b055c7cfae2f3995329f346575e5e1f8ddf6c9e0761d6e9 blk 519816 txid 1615
 RT4{"ver":1,"auth":"0","title":
 
-tx ee8c228d5e9f45cba0e46e6d33496a96230fe4f5ddbbceeeb6fe9b361878c829
+tx ee8c228d5e9f45cba0e46e6d33496a96230fe4f5ddbbceeeb6fe9b361878c829 blk 519820 txid 2429
 TTB-T,mgechev,986091882030624768,1523937600,jottoCovariance &amp; contravariance explained with functors from category theory https://t.co/4tXNj6BcDq 
 
-tx 2e98984fa8a6697121104574fe348d86ace668cf3d487f8df104647c9a95decc
+tx 2e98984fa8a6697121104574fe348d86ace668cf3d487f8df104647c9a95decc blk 519823 txid 192
 RT({"ver":1,"auth":"0","title":
 
-tx 267d2e7762a6e8b03326a85e47d2282670f9201bfe9db7e48e26494e5e57c7dc
+tx 267d2e7762a6e8b03326a85e47d2282670f9201bfe9db7e48e26494e5e57c7dc blk 519825 txid 1713
 RT%{"ver":1,"auth":"0","title":
 
-tx efb7781eee910c6f5d48c2f7031be2676488065514221771e6a91d1cf326a5a4
+tx efb7781eee910c6f5d48c2f7031be2676488065514221771e6a91d1cf326a5a4 blk 519830 txid 1892
 RT+{"ver":1,"auth":"0","title":
 
-tx b19812b9d2c40953c49bc64ebc96f2926ba0ae951c9bf7db329ee64765e68235
+tx b19812b9d2c40953c49bc64ebc96f2926ba0ae951c9bf7db329ee64765e68235 blk 519833 txid 1661
 RT({"ver":1,"auth":"0","title":
 
-tx c5da1ad4c6e0a7489570095d672ad583d29f5c7f46f9e827a1cce91e5257b7bd
+tx c5da1ad4c6e0a7489570095d672ad583d29f5c7f46f9e827a1cce91e5257b7bd blk 519844 txid 963
 a0ce61b0e14a9b80b8a76bd26e948d05ab46e43874a5aca4b9cd39f550541f63
 
-tx c61313488cfbb91b9eff2138f5c77dc6c689c017f51bd9f225c17a182e594d00
+tx c61313488cfbb91b9eff2138f5c77dc6c689c017f51bd9f225c17a182e594d00 blk 519856 txid 1523
 TTB-T,OngEmil,989014116177035266,1524634314,jottoThe knife dulls as it cuts.
 
 The chisel chips as it carves.
@@ -587,127 +587,127 @@ The sand falls from the paper as it smoothes.
 
 That which shapes cannot help but be shaped in return.
 
-tx 349d69b660239dbf071d8f24ec2b9505d00616a61ab419340d2c1b13512f4a84
+tx 349d69b660239dbf071d8f24ec2b9505d00616a61ab419340d2c1b13512f4a84 blk 519857 txid 168
 36041d7b4f522a8486e0aba118840d579ef352dd8645dc67c75763da773a90eb
 
-tx 0a96e0637ffa4e294a21c388c3c57e4f8b9a0f1cd68909b1fce41faceaefdb9b
+tx 0a96e0637ffa4e294a21c388c3c57e4f8b9a0f1cd68909b1fce41faceaefdb9b blk 519858 txid 832
 Payment made using https://www.bit2bill.com.au/
 
-tx 03b7379a544d833d4f0e5b49464904afc416ee57c57b4c7e2edfc1d03c0dcd1a
+tx 03b7379a544d833d4f0e5b49464904afc416ee57c57b4c7e2edfc1d03c0dcd1a blk 519858 txid 1174
 EW Bday beer at room 205
 
-tx 10abe864ac34fcddb46014427388ab9a0e7fb7165d7e505cae4053a15cec90e9
+tx 10abe864ac34fcddb46014427388ab9a0e7fb7165d7e505cae4053a15cec90e9 blk 519859 txid 925
 614dacad69107bcc7202a5be7ffbcd9a88203e0f230ca1bc545145e806102b14
 
-tx 3f76d29db70345ade5d3bd51699e54d6e04a51f2f5464aeb0081ec67a78a9d5a
+tx 3f76d29db70345ade5d3bd51699e54d6e04a51f2f5464aeb0081ec67a78a9d5a blk 519879 txid 1750
 <BERNSTEIN 1.0 REG 9e5df489-cbe9-4b9c-a60e-f0b4cb4d9c49
 
-tx 1e35d8e842c7faff0198ea3f74c875c0dbd16dbd35cd5e71024e6c1edd599de4
+tx 1e35d8e842c7faff0198ea3f74c875c0dbd16dbd35cd5e71024e6c1edd599de4 blk 519883 txid 2723
 d6a886a7234dbe166eae2eace5c3524899c64e6da7114b6d21403f5bd889a5fc	
 
-tx 5824dd64793e15e700649d52c242ddfae8dd463223e0f61e8f0d22ea4c2226fb
+tx 5824dd64793e15e700649d52c242ddfae8dd463223e0f61e8f0d22ea4c2226fb blk 519883 txid 2724
 ffd16aa968b529dfc7039dfd2ec2c71659c022926c92478a3ef40106c501339b]t
 
-tx a15969a78945fca3f27b4ba3817b8165e82f9de519c57576050afd073daaa511
+tx a15969a78945fca3f27b4ba3817b8165e82f9de519c57576050afd073daaa511 blk 519902 txid 2176
 08146dd93db5cff539484aac503f453beff9e241b58b7303ab7094859d14f577tf7
 
-tx 38c0373879ec857b320d9ff274bcc23468a40c2bdd4bb1f6936922f499efa16d
+tx 38c0373879ec857b320d9ff274bcc23468a40c2bdd4bb1f6936922f499efa16d blk 519908 txid 1609
 CA1- 24/Apr/18, BTC 100% / USD 0% refTXID=741023f28a13b9ab dkey=eY7de#46#W7xDD6#
 
-tx 298cd7b4e298edae81899b9515984ae0e43c1e36291df1f6d25f63530dbd468c
+tx 298cd7b4e298edae81899b9515984ae0e43c1e36291df1f6d25f63530dbd468c blk 519909 txid 1737
 CWhMtwW3d4q1pgp4SwPTyH/U6w8BmMMqiGXv+sY8dF/w=
 
-tx 387f9f65c4629af80d561d400c977690a6d04cbec327575ff79bf3e533a0fc28
+tx 387f9f65c4629af80d561d400c977690a6d04cbec327575ff79bf3e533a0fc28 blk 519910 txid 10
 Happy anniversary to the Gouveias!
 
-tx 845638ebc9bbbeaf1e3c038cdf9c17b4235fa4003474aea6dd8f02dd43fa9d23
+tx 845638ebc9bbbeaf1e3c038cdf9c17b4235fa4003474aea6dd8f02dd43fa9d23 blk 519910 txid 990
 1PqA5VwnQaY6cXPRnQnAgGNVFezeiHnvsGu8N45I
 
-tx 421d9db59be3cdc3205b15de87f61d685e80dadde038e867d29ea8aa5e732325
+tx 421d9db59be3cdc3205b15de87f61d685e80dadde038e867d29ea8aa5e732325 blk 519919 txid 947
 Payment made using https://www.bit2bill.com.au/
 
-tx bc50b4024e032bc70d66c93f313e64bc08fbb46820fe3c0b8b9f0e15d2dec302
+tx bc50b4024e032bc70d66c93f313e64bc08fbb46820fe3c0b8b9f0e15d2dec302 blk 519919 txid 976
 Payment made using https://www.bit2bill.com.au/
 
-tx 1983e7db4cc5ca1898ef1f5ba6c6254011abdfe21036e0bda45cc40d5bf4fcc3
+tx 1983e7db4cc5ca1898ef1f5ba6c6254011abdfe21036e0bda45cc40d5bf4fcc3 blk 519921 txid 1940
 G7Ga0c60dd300b9c11d024666321e23f52ce473569ec243932fb6f27af002151874
 
-tx 99d48fb4fa6308df2f62cf94fc51b1bf3e64dd1d32ff6e3be2ec44d3c6b80a0e
+tx 99d48fb4fa6308df2f62cf94fc51b1bf3e64dd1d32ff6e3be2ec44d3c6b80a0e blk 519922 txid 1542
 TTB-T,nzpopa,989262659601256448,1524693572,nzpopaHi kids, this is dad. I'm 25 now and you're not born yet. Please respect your mom, don't forget to clean the dishes, close the fucking lights and flush the toilet. Also don't get fat, AIDS or behind bars. 112358 is the PIN when you'll need it. Love, dad
 
-tx b25e942c9c1be01baaee949383522f3653a41a7f55386f43a9b92c088053f44a
+tx b25e942c9c1be01baaee949383522f3653a41a7f55386f43a9b92c088053f44a blk 519922 txid 1596
 TTB-T,tylercowen,930146100593299461,1510599086,jotto"That which does not kill Bitcoin makes it stronger!" -- True or false?
 
-tx bfaac1ed23b5de8a78eea67a5a20e424bc5968b371d065902083f278511f2a51
+tx bfaac1ed23b5de8a78eea67a5a20e424bc5968b371d065902083f278511f2a51 blk 519924 txid 988
 TTB-T,ryanxcharles,989259638905290752,1524692852,jottoBitcoin (BCH)
 
-tx 4109f2c9bb755e4e9c01a5d47d547fc60b952dd85d63d5b94c2a1c44cb86252a
+tx 4109f2c9bb755e4e9c01a5d47d547fc60b952dd85d63d5b94c2a1c44cb86252a blk 519924 txid 990
 TTB-T,garrytan,988835757174370304,1524591790,jottoPlease never let me put "pioneer" in my own bio that I wrote about myself
 
-tx db6d599dbbc85e096972bcf85ee87c100398516471519a3b373d72c968e60027
+tx db6d599dbbc85e096972bcf85ee87c100398516471519a3b373d72c968e60027 blk 519924 txid 995
 TTB-T,sfacsou,989269612599693319,1524695230,sfacsou@unpajarito Te amo. This is better saved into the blockchain than into stone.
 
-tx f89c149037a7c63ef5eb156d517655b6c0f25e5903df6334853ce462fcac3ea5
+tx f89c149037a7c63ef5eb156d517655b6c0f25e5903df6334853ce462fcac3ea5 blk 519924 txid 1492
 Payment made using https://www.bit2bill.com.au/
 
-tx 0471baf3a0766c89bf1b124cadfe8e134395f93cdd41ebf2d01e958af4178b17
+tx 0471baf3a0766c89bf1b124cadfe8e134395f93cdd41ebf2d01e958af4178b17 blk 519925 txid 1190
 ?Q4g2e232bde3f26b3fdb57dbac6e03ee76a730ba2287a99bae9b9e9e3b1a85dbf63
 
-tx f2478781415f03e852f57f2f7c192d6b695f66793da3d2052a63efde687fbff7
+tx f2478781415f03e852f57f2f7c192d6b695f66793da3d2052a63efde687fbff7 blk 519925 txid 1592
 TTB-T,cz_binance,989072718606807040,1524648286,jottoBitcoin. Would any sane VC invest in a project 
 lead by a single unknown founder, plans to quit in a year, has a 9-page document with mostly math symbols, no marketing plan/budget, and is projected to have $200,000,000,000+ USD market cap in 10 years
 ? The crowd did, and made it.
 
-tx ecdd65ae7d64780d196b8187f9be44f6dea5b88e51758c62497faa89295bd153
+tx ecdd65ae7d64780d196b8187f9be44f6dea5b88e51758c62497faa89295bd153 blk 519928 txid 863
 1uMkmNYEU33RwdTPoTGAcUMpf2oiL4rNrPLB7zLI
 
-tx 755a9079b9cd81255bd7a3deadec513f551ed96a3563f3bdd0eac4add260b7c8
+tx 755a9079b9cd81255bd7a3deadec513f551ed96a3563f3bdd0eac4add260b7c8 blk 519928 txid 1328
 TTB-T,kanyewest,989272340432240641,1524695880,BrasherTonnesObama was in office for eight years and nothing in Chicago changed.
 
-tx bb57af999aea08012ae2e692a9e3f81c6f81ff49f8d7d205f647d9596e41f731
+tx bb57af999aea08012ae2e692a9e3f81c6f81ff49f8d7d205f647d9596e41f731 blk 519933 txid 467
 RT#{"ver":1,"auth":"0","title":
 
-tx 736741bbc318e9bd3cc9e6311363f9c45db8250f8d115387ee79f73695a03fdc
+tx 736741bbc318e9bd3cc9e6311363f9c45db8250f8d115387ee79f73695a03fdc blk 519933 txid 585
 RT%{"ver":1,"auth":"0","title":
 
-tx b2b078d2dbc3dd9a4b549c298e9b7197c5d076fa808643472e90b06ec04e76b1
+tx b2b078d2dbc3dd9a4b549c298e9b7197c5d076fa808643472e90b06ec04e76b1 blk 519933 txid 600
 RT+{"ver":1,"auth":"0","title":
 
-tx d4cc658f35f39a90c50002d0bfb730b07b03afe9c784c423aba5225087abe991
+tx d4cc658f35f39a90c50002d0bfb730b07b03afe9c784c423aba5225087abe991 blk 519934 txid 1790
 TTB-T,tenderlove,664224322895020033,1447198393,jottoLeverage blockchain technologies through cloud architecture.],
 
-tx 2a3021b53630ea91ab8edaeac14819d7f66c10511d0d5d2f4b483ba424746428
+tx 2a3021b53630ea91ab8edaeac14819d7f66c10511d0d5d2f4b483ba424746428 blk 519934 txid 1801
 TTB-T,cryptograffiti,964571552086818817,1518806753,jottoMy life is decentralized and I do decentralized shit
 
-tx b5abbd8886dd5062621ade6a075fbdac9b6d60631e11af760018ab5ebca87cf9
+tx b5abbd8886dd5062621ade6a075fbdac9b6d60631e11af760018ab5ebca87cf9 blk 519935 txid 268
 TTB-T,kumailn,989304967067455488,1524703659,jottoThis was the worst twitter day in twitter history.
 
-tx dc9cc0c43a091f8ea543605f70e489743345dd94560e52b966912e6605bd510d
+tx dc9cc0c43a091f8ea543605f70e489743345dd94560e52b966912e6605bd510d blk 519935 txid 705
 Payment made using https://www.bit2bill.com.au/
 
-tx c3a11b7cd2a44b983a814f5894edbf6f0b013eac1b471d5d39d2d6d69a2d1649
+tx c3a11b7cd2a44b983a814f5894edbf6f0b013eac1b471d5d39d2d6d69a2d1649 blk 519939 txid 1717
 RT({"ver":1,"auth":"0","title":
 
-tx 3003274eeea875af4c5c5f9a8fb956b6c22f762751d8c7f60118aefd42d9c530
+tx 3003274eeea875af4c5c5f9a8fb956b6c22f762751d8c7f60118aefd42d9c530 blk 519942 txid 490
 RT%{"ver":1,"auth":"0","title":
 
-tx 4fe11f01c0de66b166ddb837d4a1ca563bf93a52c244e99e02e531cf92c9a756
+tx 4fe11f01c0de66b166ddb837d4a1ca563bf93a52c244e99e02e531cf92c9a756 blk 519951 txid 1347
 HBD P'Gear from MeenH
 
-tx 976908792d7dbdc51f002f7f93d5447ac5baa344baaf91bd5a4aaf85b30287c6
+tx 976908792d7dbdc51f002f7f93d5447ac5baa344baaf91bd5a4aaf85b30287c6 blk 519951 txid 1524
 RT%{"ver":1,"auth":"0","title":
 
-tx 18ee7b5b2f2f8280d0b14bd47f240ff6addd5edebbf1776dcee980e8869b413a
+tx 18ee7b5b2f2f8280d0b14bd47f240ff6addd5edebbf1776dcee980e8869b413a blk 519958 txid 1735
 Payment made using https://www.bit2bill.com.au/
 
-tx 62658f37b615e801748034aeb6cc5586306bc2ac8f89fb8631ae51c046d5d2ac
+tx 62658f37b615e801748034aeb6cc5586306bc2ac8f89fb8631ae51c046d5d2ac blk 519975 txid 190
 EW The first 5 winners are invited for a free beer in room 205. Cheers!
 
-tx f7731b14b85c2c376bbba337bae7454b395c76199c4883ccbe9365596be75de0
+tx f7731b14b85c2c376bbba337bae7454b395c76199c4883ccbe9365596be75de0 blk 519978 txid 757
 ae623056e37be4cffe35e803334ddd04134dd367e72955223708d8127c1329ca
 
-tx 2a79a11b2363e9d1f2a4f1e99dca6b3f73fe29c33dceb4f3ac924975368a9983
+tx 2a79a11b2363e9d1f2a4f1e99dca6b3f73fe29c33dceb4f3ac924975368a9983 blk 519985 txid 1321
 !a3a003c51be61aeaeda361eec07e6381f7c0865f841f72c4f76d668e43d57594i
 
-tx 1c7fef22bf917f16e9c3ac514f915d00338644fc60c008cdfba4339d1bf6fde1
+tx 1c7fef22bf917f16e9c3ac514f915d00338644fc60c008cdfba4339d1bf6fde1 blk 519990 txid 420
 ab52d5e7c325eaaea07fdfaf13447f8836be63e86e4f0c33aefd7d3b58e7fa18
