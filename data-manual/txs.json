@@ -361,5 +361,9 @@
   "tx": "200f3f6f8a91ae438d1924e5cedca98cea7f0197b9eba11343948b5621ca19ed",
   "inscriptions": ["gzip"],
   "desc": "western-union-bitcoin-spoof.jpg.gz"
+},
+{
+  "tx": "165b484f2c2e7bc6d857a8aea18059b9d360f6dfcc09de0414050fa009b26c08",
+  "encoding": ["ascii-letters"],
 }
 ]
