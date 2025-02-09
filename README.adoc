@@ -10,13 +10,15 @@
 :toc: macro
 :toclevels: 6
 
-An attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length 20 or more with <<transaction-id-added-before-ascii-strings-in-the-transaction,transaction IDs>> and <<deterministic-output-ordered-by-block-height,deterministic ordering>> ordering, plus media like images and other interesting transactions. Previously: "bitcoin-strings-with-txids".
+Attempt to index all inscriptions in the Bitcoin blockchain, including ASCII strings of length >= 20 and media like images. The index has inscription <<transaction-id-added-before-ascii-strings-in-the-transaction,transaction IDs>> and <<deterministic-output-ordered-by-block-height,deterministic ordering>> unlike a raw  `strings` dump on blk.dat as in https://bitcoinstrings.com[]. Previously called: "bitcoin-strings-with-txids".
+
+This repository also indexes "interesting" non-inscription transactions such as the <<largest-transactions>> or <<utxo_nonstandard,unspent nonstandard transactions>> (possible puzzle scripts).
 
 A selection of interesting content is being published at: https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
 
-This project is slow because of Python and incomplete because of lack of time, not something to be proud of yet. But when fun requires we kick it a little bit forward. Also we haven't touched ordinals yet. Ugly little things anyways. Raw JPEGs 4ever.
+This project is slow because of Python and incomplete because of lack of time, not something to be proud of yet. But when fun requires we kick it a little bit forward.
 
-Next step: make sure we got all the non-AtomSea-non-cryptograffiti PNGs and JPEGs with `binwalk`. Prerequisite: https://cirosantilli.com/get-bitcoin-transaction-id-from-position-in-dat-file[] to find the tx IDs.
+The main focus of this project is on finding pre https://ordinals.com/[ordinal] inscriptions. Ordinals started in December 2022 and became extremelly popular, making it hard and less interesting to search for inscriptions past that era. They also have already have their own de-facto default implementation and indexer, so there's not much point in making another one here. But we ended up hacking one up anyways at: <<ordinals>>, though it is likely buggy and incomplete. Ordinals are ugly little things anyways. Raw JPEGs 4ever.
 
 toc::[]
 
