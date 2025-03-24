@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -eu
+INPUT_FILE=data-manual/low-entropy-addresses-khatib-legout
+OUTPUT_FILE="data-manual/low-entropy-addresses-khatib-legout.csv"
+echo "address,txid,block,index_in_block,output_index,total_received" > "$OUTPUT_FILE"
+head -n2 "$INPUT_FILE" | while IFS= read -r address; do
+  #responseRaw="$(curl -s --connect-timeout 10 -w "\n%{http_code}" "https://blockchain.info/rawaddr/$address" 2>&1 )"
+  #responseRaw="$(curl -s --connect-timeout 10 -w "\n%{http_code}" "https://bitcoinexplorer.org/api/address/${address}?sort=asc&limit=1" 2>&1 )"
+  http_code=$(tail -n1 <<< "$responseRaw")
+  response=$(head -n-1 <<< "$responseRaw")
+
+  if [ "$http_code" -ne 200 ] || [ -z "$response" ]; then
+    echo "Error fetching data for address ${address}"
+    exit 1
+  fi
+
+  #Blockchain.info
+  # Max 1 request / 10 seconds... And I can't login to get API key.
+  #first_tx=$(echo "$response" | jq -r '.txs[0]')
+  #txid=$(echo "$first_tx" | jq -r '.hash')
+  #block=$(echo "$first_tx" | jq -r '.block_height')
+  #index_in_block=$(echo "$first_tx" | jq -r '.tx_index')
+  #output_index=$(echo "$first_tx" | jq -r --arg addr "$address" '.out | to_entries[] | select(.value.addr == $addr) | .key' | head -n 1)
+  #total_received=$(echo "$response" | jq -r '.total_received')
+  #encoding=
+
+  ## bitcoinexplorer.org
+  #first_tx=
+  #echo "$response" | jq
+  ## Doesn't cointain incoming txes, only outgoing...
+  #txid=$(echo "$response" | jq -r '.txHistory.txids[0]')
+  #block=$(echo "$response" | jq -r ".txHistory.blockHeightsByTxid["${txid}"]")
+  ##index_in_block=$(echo "$first_tx" | jq -r '.tx_index')
+  ##output_index=$(echo "$first_tx" | jq -r --arg addr "$address" '.out | to_entries[] | select(.value.addr == $addr) | .key' | head -n 1)
+  #total_received=$(echo "$response" | jq -r '.txHistory.balanceSat')
+  #encoding=$(echo "$response" | jq -r '.encoding')
+
+  echo "$address,$txid,$block,$index_in_block,$output_index,$total_received,$encoding" >> "$OUTPUT_FILE"
+  sleep 1
+done

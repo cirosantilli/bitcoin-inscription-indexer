@@ -71,7 +71,7 @@ cd bitcoin-strings-with-txid
 tail -n+1 data/in/* data/out/* | less
 ....
 
-However, the majority of data in the blockchain, like everywhere else in the Interent, is crap, especially after a its https://en.wikipedia.org/wiki/Eternal_September[Eternal September] started.
+However, the majority of data in the blockchain, like everywhere else in the Internet, is crap, especially after a its https://en.wikipedia.org/wiki/Eternal_September[Eternal September] started.
 
 To try and filter some of the spam, see: <<data-mining-hacks>>.
 
@@ -274,7 +274,7 @@ Another format we missed which starts with an asterisk for whatever reason:
 00000080  30 30 30 34 31 32 34 3c  ff d8 ff e0 00 10 4a 46  |0004124<......JF|
 ....
 +
-Maybe this is a format for things that fit entirely into one tx, without including any sub ransactions, this gives a few dozen hits:
+Maybe this is a format for things that fit entirely into one tx, without including any sub transactions, this gives a few dozen hits:
 +
 ....
 sep='([!@#$%&*()?<>{}+=_/\]|\^|-|\|)'
@@ -510,6 +510,28 @@ git grep -B2 "The Hashling" | grep -Po 'tx ([^ ]+)' | cut -d' ' -f2
 ....
 
 but there is one without text 453c9511ca76361c8c44b4302ce1b5d8d5c98a938b548478ef931baaa7d70e62 which that misses.
+
+====== low-entropy-addresses-khatib-legout.csv
+
+link:data-manual/low-entropy-addresses-khatib-legout.csv[]
+
+This file contains burn addresses identified by https://arxiv.org/pdf/2503.14057 Bitcoin Burn Addresses: Unveiling the Permanent Losses and Their Underlying Causes by MOHAMED EL KHATIB and ARNAUD LEGOUT (2025)
+
+It was provided to Ciro Santilli by Arnaud in private communication, who also permitted publication under a BSD 3-clause license.
+
+Many of the base58 addresses in that list contain Base58 messages: https://ourbigbook.com/cirosantilli/cool-data-embedded-in-the-bitcoin-blockchain/base58-messages while others are just burn addresses for other purposes.
+
+Useful Miller CLIs include this one to sort by first appeared (this is how the CSV is currently sorted in the repo):
+
+....
+mlr --csv sort -t first_apparition_date then reorder -f address,first_apparition_date,total_received,nb_transactions data-manual/low-entropy-addresses-khatib-legout.csv
+....
+
+or to get the burn addresses with the largest burn value:
+
+....
+mlr --csv sort -nr total_received then reorder -f address,total_received,nb_transactions,first_apparition_date data-manual/low-entropy-addresses-khatib-legout.csv
+....
 
 ===== annotated-blockchain-project-images
 
