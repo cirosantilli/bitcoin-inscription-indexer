@@ -12,7 +12,7 @@ import plyvel
 import main
 
 parser = argparse.ArgumentParser(
-    description='Downlod transaction script constants from a selected source'
+    description='Download transaction script constants from a selected source'
 )
 parser.add_argument(
     '-d',

@@ -131,7 +131,9 @@ All those possible indexed images can be quickly downloaded from https://blockch
 
 ....
 sudo apt install libleveldb-dev
-python3 -m pip install --user -r requirements.txt
+virtualenv -p python3 .venv
+. .venv/bin/activate
+pip install -r requirements.txt
 ./download_tx_consts.py --images
 xdg-open data/bin/<txid>.jpg
 ....
@@ -145,12 +147,7 @@ for f in *; do identify $f &>/dev/null || rm $f; done
 
 But there aren't that many hits total, and it is easy to go over all of them very quickly with an image viewer like `eog` to find the actual images.
 
-You can also get the raw bytes for any transaction, including e.g. images with link:download_tx_consts.py[]. E.g. to get Tankman:
-
-....
-./download_tx_consts.py ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e
-mv ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.bin tankman.jpg
-....
+You can also get the raw bytes for any transaction, including e.g. images with <<download_tx_consts>>
 
 This feature is similar to https://cryptograffiti.info[] but they apparently are tracking only the Bitcoin Cash fork of Bitcoin Core, which is much less popular and therefore less interesting as of 2021.
 
@@ -793,7 +790,11 @@ Filtering only those that have at least two unspent outputs might lead to better
 
 First we dump the <<utxo-dump>>.
 
-== Deterministic output ordered by block height
+== Dump features
+
+This section lists some reasons why are ASCII dumps are amazing :-)
+
+=== Deterministic output ordered by block height
 
 https://bitcoinstrings.com directly does `strings` on the blkXXXXX.dat files downloaded by Bitcoin Core.
 
@@ -814,7 +815,7 @@ This repository instead uses the index to parse them in order. This means that:
 
 One downside of this approach is that the file sizes could be more varied e.g. because in the early blockchain, there were less transactions per block. But we think it is worth it.
 
-== Transaction ID added before ASCII strings in the transaction
+=== Transaction ID added before ASCII strings in the transaction
 
 In simple terms, much like https://bitcoinstrings.com/[], this project extracts only printable ASCII strings of length 20 or more characters are shown.
 
@@ -1012,7 +1013,7 @@ Understood:
 
 * link:data/out/0288.txt[] tx c00a4a04905a2e8d8dee8a768165aa6bdf842413a8a648462a6349db89cd77f2: the seal ASCII art has implicit newlines like Len
 
-== Classify input and output transactions
+=== Classify input and output transactions
 
 As explained at <<how-the-data-is-organized>>, this project separates input and output transactions into different files.
 
@@ -1050,7 +1051,7 @@ cat data/out/*.txt | grep -Ec '^tx '
 du -sch data/*
 ....
 
-== Vs bitcoinstrings.com
+=== Vs bitcoinstrings.com
 
 This project is similar to https://bitcoinstrings.com/ but it does the following smarter (and therefore slower) things:
 
@@ -1232,6 +1233,26 @@ With this, we can efficiently query if each output is spent or not from Python w
 python-blockchain-parser does not support UTXO unfortunately: https://github.com/alecalve/python-bitcoin-blockchain-parser/issues/40
 
 TODO all utxo operations should be done by iteraing the UTXO set, currently we just add them in the middle of the full chain scan. That will be more efficient. We just need to learn how to access transactions without needing the the annoying RPC server running.
+
+== Scripts
+
+[[download_tx_consts]]
+=== download_tx_consts
+
+The link:download_tx_consts.py[] allows us to easily dump the constants of any transaction from a variety of sources, which often leads to correctly decoded incriptions straight away.
+
+E.g. to get https://ourbigbook.com/cirosantilli/cool-data-embedded-in-the-bitcoin-blockchain#image-tank-man[Tankman] from a local RPC:
+
+....
+./download_tx_consts.py ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e
+mv data/bin/ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e.bin tankman.jpg
+....
+
+Or to get it instead from blockchain.info without having to download the entire blockchain locally:
+
+....
+./download_tx_consts.py -s blockchain.ifo ca4f11131eca6b4d61daf707a470cfccd1ef3d80a6f8b70f1f07616b451ca64e
+....
 
 == Censorship
 
